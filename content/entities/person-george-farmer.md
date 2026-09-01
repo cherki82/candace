@@ -1,6 +1,6 @@
 ---
 title: "George Farmer"
-description: "George Farmer (People) - 100 mentions"
+description: "George Farmer (People) - 107 mentions"
 id: "person-george-farmer"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37">2025-09-11 · 00:00:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-58-18">2026-08-21 · 00:58:18</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>100</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-12-33">2026-08-31 · 00:12:33</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>107</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
-<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -61,6 +61,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <a href="/episodes/ep-aPOyk1i2LOc.md#t-01-01-37" style="--pulse-height:18%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-george-farmer-t-00-46-03" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-42-33" style="--pulse-height:9%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-00-01" style="--pulse-height:32%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 7 mentions" title="2026-08-31 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -96,6 +97,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#t-01-01-37) | 4 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-george-farmer-t-00-46-03) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-42-33) | 2 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-00-01) | 7 |
 
 </details>
 </section>
@@ -103,7 +105,33 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (100)</strong></summary>
+<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (7 mentions)</summary>
+
+**[00:00:11](/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-00-01)**
+> "George (George Farmer) and I are really big into fishing, and we had this trip booked since I think again last year or something."
+
+**[00:02:50](/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-02-22)**
+> "... pregnancy, actually, George (George Farmer) and I take a little fishing excursion. It's just..."
+
+**[00:04:03](/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-03-40)**
+> "...p was the company. So George (George Farmer) and I went and met up with our friends, John (Jo..."
+
+**[00:04:30](/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-04-22)**
+> "George (George Farmer) did not know them. He had never met them. He hea..."
+
+**[00:04:40](/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-04-22)**
+> "...ou to go? And he said George (George Farmer) was heavily involved in Brexit at that time."
+
+**[00:12:01](/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-11-33)**
+> "...ppin) and then me and George (George Farmer) get into the car and we begin to head back to th..."
+
+**[00:12:33](/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-12-33)**
+> ".... Fast forward me and George (George Farmer). are sitting down at the airport after having re..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -610,12 +638,26 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 <details>
-<summary>Friend Of (1)</summary>
+<summary>Friend Of (3)</summary>
 
 - **[Taylor Marshall](/entities/person-taylor-marshall.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:52:17](/episodes/ep-ds6umq1rHAw.md#t-00-52-17): “He's good friends with my husband, George (George Farmer), and we have hosted him here in Nashville before.”
+
+</details>
+
+- **[John Mappin](/entities/person-john-mappin.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:03](/episodes/ep-JrhGEm8MGRY.md#t-00-03-40): “Who knows? But actually, the best part of the trip was the company. So George (George Farmer) and I went and met up with our friends, John (John Mappin) and Irina Mappin.”
+
+</details>
+
+- **[Irina Mappin](/entities/person-irina-mappin.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:03](/episodes/ep-JrhGEm8MGRY.md#t-00-03-40): “Who knows? But actually, the best part of the trip was the company. So George (George Farmer) and I went and met up with our friends, John (John Mappin) and Irina Mappin.”
 
 </details>
 
@@ -658,7 +700,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -705,8 +747,22 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 
 </details>
 
+- **[John Mappin](/entities/person-john-mappin.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:03](/episodes/ep-JrhGEm8MGRY.md#t-00-03-40): “Who knows? But actually, the best part of the trip was the company. So George (George Farmer) and I went and met up with our friends, John (John Mappin) and Irina Mappin.”
+
+</details>
+
+- **[Irina Mappin](/entities/person-irina-mappin.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:03](/episodes/ep-JrhGEm8MGRY.md#t-00-03-40): “Who knows? But actually, the best part of the trip was the company. So George (George Farmer) and I went and met up with our friends, John (John Mappin) and Irina Mappin.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:06:24](/episodes/ep-BKcOm32ZEGk.md#t-00-06-23): “The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:46:12](/episodes/ep-GY6GWceEqtQ.md#t-00-45-47): “I could bake cookies with any of George (George Farmer)'s exes. I just don't care. He's my husband.”
@@ -725,6 +781,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:42:33](/episodes/ep-_cNtgris8Ik.md#t-00-42-33): “your priority and also has you have to have respect for his wife which I did he was married and he has respect for my husband George became close to Charlie the whole year of our engagement we traveled around with Charlie and we have so many memories he has so many messages with Charlie and so I don't know it just makes me laugh they think that they can do this it's just not going to be possible we just spent such a good great time together and whenever we think about it you see it on”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:04:47](/episodes/ep-Cq7nj9rxPdo.md#t-01-04-15): “I know that I was saved because I had the confidence to be more of myself when I married George (George Farmer), and he has supported me through everything and me never having the fashionable opinion.”
 - [To My Friend, Charlie Kirk. @ 00:18:02](/episodes/ep-_dRaEO47-co.md#t-00-18-02): “He was by my side, you know, when I got married to George.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:13](/episodes/ep-JrhGEm8MGRY.md#t-00-03-40): “Now, those names may be familiar to you. Now, I've told you guys the story a few times, but I met my husband rather serendipitously at an event hosted in London.”
 
 </details>
 
@@ -747,7 +804,15 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Farmer (20)</strong></summary>
+<summary><strong class="section-title">Statements about George Farmer (21)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:04:22](/episodes/ep-JrhGEm8MGRY.md#t-00-04-22) (Claim) **Candace Owens**: ["Candace Owens said she met George Farmer at a London event hosted by J..."](/statements/statement-4dcc9903ce74.md)
+  - Also about: [John Mappin](/entities/person-john-mappin.md), [Irina Mappin](/entities/person-irina-mappin.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2)</summary>

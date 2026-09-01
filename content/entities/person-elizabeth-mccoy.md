@@ -29,7 +29,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <div><span>Episodes</span><strong>22</strong></div>
 <div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -377,13 +377,21 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Elizabeth McCoy (12)</strong></summary>
+<summary><strong class="section-title">Statements about Elizabeth McCoy (13)</strong></summary>
 
 <details>
 <summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1)</summary>
 
 - [00:16:40](/episodes/ep-AoYZel7_cGQ.md#t-00-16-30) (Claim) **Candace Owens**: ["Candace Owens said Elizabeth McCoy recorded Erika Kirk leaning over Ch..."](/statements/statement-d05b6be70bfd.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah](/entities/gpe-utah.md)
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:26:07](/episodes/ep-3QJqtW_NOSI.md#t-00-25-48) (Claim) **Candace Owens**: ["Owens said Michael McCoy's wife, Elizabeth Kravchuk, was another perso..."](/statements/statement-311e3930d4d5.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
 
 </details>
 

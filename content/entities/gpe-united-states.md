@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1920 mentions"
+description: "United States (Places) - 1923 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -28,9 +28,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38">2026-08-19 · 00:32:38</a></strong></div>
-<div><span>Episodes</span><strong>155</strong></div>
-<div><span>Mentions</span><strong>1,920</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-united-states-t-00-08-13">2026-08-31 · 00:08:13</a></strong></div>
+<div><span>Episodes</span><strong>156</strong></div>
+<div><span>Mentions</span><strong>1,923</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>169</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
@@ -196,6 +196,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-united-states-t-00-57-37" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-united-states-t-00-36-47" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-united-states-t-00-07-38" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 3 mentions" title="2026-08-31 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -356,6 +357,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-united-states-t-00-57-37) | 1 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-gpe-united-states-t-00-36-47) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-united-states-t-00-07-38) | 3 |
 
 </details>
 </section>
@@ -367,7 +369,21 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1920)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1923)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3 mentions)</summary>
+
+**[00:05:09](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-united-states-t-00-07-38)**
+> "And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially."
+
+**[00:07:56](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-united-states-t-00-07-38)**
+> "...ng political consequences for America and the world."
+
+**[00:08:13](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-united-states-t-00-08-13)**
+> "...ront of the world will affect America's future, its collective soul and conscience foreve..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -1231,7 +1247,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "... a dual citizen of the UK and America."
 
 **[00:08:43](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-united-states-t-00-08-30)**
-> "America, I'm just actually not never even applied for a d..."
+> "America, I'm actually not; I've never even applied for dual citizenship."
 
 **[00:11:09](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-united-states-t-00-08-30)**
 > "...call sign that is used by the United States Air Force to designate flights that are transport..."

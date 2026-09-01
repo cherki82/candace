@@ -162,7 +162,7 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (13 mentions)</summary>
 
 **[00:09:30](/episodes/ep-sKuYLNx3iRo.md#ent-person-rick-cutler-t-00-09-14)**
-> "We have Brian Harpole, Rick Cutler in that middle row"
+> "We have Brian Harpole and Rick Cutler in that middle row."
 
 **[00:11:04](/episodes/ep-sKuYLNx3iRo.md#ent-person-rick-cutler-t-00-11-04)**
 > "...0, 80, 100 miles per hour, is Rick Cutler holds Brian Harpole steady as Brian (Brian Harpol..."

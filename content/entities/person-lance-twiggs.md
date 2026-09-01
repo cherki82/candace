@@ -26,7 +26,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div><span>Episodes</span><strong>29</strong></div>
 <div><span>Mentions</span><strong>266</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>66</strong></div>
+<div><span>Statements about</span><strong>67</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1187,7 +1187,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lance Twiggs (66)</strong></summary>
+<summary><strong class="section-title">Statements about Lance Twiggs (67)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -1349,7 +1349,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (4)</summary>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (5)</summary>
 
 - [00:25:38](/episodes/ep-9CuC1yf8-PU.md#t-00-25-38) (Accusation) **Candace Owens**: ["Owens said that if her theory were taken to its natural conclusion, La..."](/statements/statement-9660a17d9d1b.md)
   - Also about: [FBI](/entities/org-fbi.md)
@@ -1359,6 +1359,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [00:26:41](/episodes/ep-9CuC1yf8-PU.md#t-00-26-41) (Claim) **Candace Owens**: ["Owens reported that prosecutors planned to present a recorded statemen..."](/statements/statement-d210268ed250.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:27:27](/episodes/ep-9CuC1yf8-PU.md#t-00-27-15) (Claim) **Candace Owens** (via paraphrase): ["Owens reported that Judge Tony Graf treated the proceeding as a prelim..."](/statements/statement-c1580675b5fa.md)
+  - Also about: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:27:55](/episodes/ep-9CuC1yf8-PU.md#t-00-27-15) (Accusation) **Candace Owens**: ["Owens said Robinson's defense had not received access to the underlyin..."](/statements/statement-92e7fa874abd.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)

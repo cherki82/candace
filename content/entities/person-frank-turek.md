@@ -27,7 +27,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <div><span>Episodes</span><strong>54</strong></div>
 <div><span>Mentions</span><strong>262</strong></div>
 <div><span>Statements by</span><strong>32</strong></div>
-<div><span>Statements about</span><strong>49</strong></div>
+<div><span>Statements about</span><strong>50</strong></div>
 <div><span>Relationships</span><strong>44</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1856,7 +1856,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Frank Turek (49)</strong></summary>
+<summary><strong class="section-title">Statements about Frank Turek (50)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -1998,7 +1998,10 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1)</summary>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2)</summary>
+
+- [00:37:04](/episodes/ep-h76ZN-xXC6c.md#t-00-37-04) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs said he believed either Frank Turek or Michael McCoy placed..."](/statements/statement-d31144ce9e27.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
 
 - [00:37:53](/episodes/ep-h76ZN-xXC6c.md#t-00-37-51) (Claim) **Frank Turek**: ["Frank Turek said he was FaceTiming his son and daughter-in-law during ..."](/statements/statement-4b8acb618d02.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [FaceTime](/entities/work-facetime.md)

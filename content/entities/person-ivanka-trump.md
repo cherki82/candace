@@ -1,6 +1,6 @@
 ---
 title: "Ivanka Trump"
-description: "Ivanka Trump (People) - 52 mentions"
+description: "Ivanka Trump (People) - 54 mentions"
 id: "person-ivanka-trump"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-ivanka-trump-t-01-06-20">2025-10-28 · 01:06:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-ivanka-trump-t-00-19-52">2026-06-17 · 00:20:29</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-ivanka-trump-t-00-00-01">2026-08-31 · 00:00:26</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -45,6 +45,7 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-person-ivanka-trump-t-00-00-39" style="--pulse-height:80%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 16 mentions" title="2026-06-11 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-ivanka-trump-t-00-53-29" style="--pulse-height:10%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-ivanka-trump-t-00-19-52" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-ivanka-trump-t-00-00-01" style="--pulse-height:10%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-ivanka-trump-t-00-00-39) | 16 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-ivanka-trump-t-00-53-29) | 2 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-ivanka-trump-t-00-19-52) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-ivanka-trump-t-00-00-01) | 2 |
 
 </details>
 </section>
@@ -67,7 +69,18 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
+
+**[00:00:17](/episodes/ep-JrhGEm8MGRY.md#ent-person-ivanka-trump-t-00-00-01)**
+> "And I have to tell you that I was mildly concerned when I saw Rumpelstiltskin, known to some people as Rabbi Shmuley (Shmuley Boteach) up in Iceland, as well as Ivanka (Ivanka Trump)."
+
+**[00:00:26](/episodes/ep-JrhGEm8MGRY.md#ent-person-ivanka-trump-t-00-00-01)**
+> "Ivanka (Ivanka Trump) and Jared Kushner, just before we were going to ..."
+
+</details>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>

@@ -1,14 +1,14 @@
 ---
 id: "9CuC1yf8-PU"
 title: "Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354"
-description: "Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 - 93 entities, 9 events, 15 factual claims"
+description: "Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 - 93 entities, 9 events, 16 factual claims"
 published: "2026-06-23"
 youtube_url: "https://www.youtube.com/watch?v=9CuC1yf8-PU"
 ---
 
 **Published:** 2026-06-23 | [Watch on YouTube](https://www.youtube.com/watch?v=9CuC1yf8-PU)
 
-**Stats:** 93 entities | 9 events | 15 factual claims
+**Stats:** 93 entities | 9 events | 16 factual claims
 
 ---
 
@@ -313,7 +313,7 @@ youtube_url: "https://www.youtube.com/watch?v=9CuC1yf8-PU"
 
 **<a href="/timestamps/ep-9CuC1yf8-PU/t-00-46-40.md" class="timestamp-link">00:46:40</a> <a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=2800" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** That she can just float in between personalities is not normal. And we should recognize that. I do believe that she has completely disassociated. And it's not because of <span id="ent-person-charlie-kirk-t-00-46-40"><a href="/entities/person-charlie-kirk.md">Charlie</a></span>, because we examined this when she met <a href="/entities/person-charlie-kirk.md">Charlie</a>. She became a totally different person and even completely transformed her signature. Wacky. Completely wacky. Anyway, there's a clip I want to show you just to end on a note of somebody who his entire show is him having different personalities and it works because he's a comedian is <span id="ent-person-tim-dillon-t-00-46-40"><a href="/entities/person-tim-dillon.md">Tim Dillon</a></span>. This clip of him, he has this ability to just sort of. ^t-00-46-40
 
-**<a href="/timestamps/ep-9CuC1yf8-PU/t-00-47-18.md" class="timestamp-link">00:47:18</a> <a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=2838" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** express how we're all feeling about the ridiculousness of everything i actually don't have a lot of resentment for <span id="ent-person-jd-vance-t-00-47-18"><a href="/entities/person-jd-vance.md">J.D. Vance</a></span> and i don't think <span id="ent-person-tim-dillon-t-00-47-18"><a href="/entities/person-tim-dillon.md">Tim Dillon</a></span> does either but the idea of everything that we've just lived through with <span id="ent-gpe-iran-t-00-47-18"><a href="/entities/gpe-iran.md">iran</a></span> and the gaslighting and the <span id="ent-person-jeffrey-epstein-t-00-47-18"><a href="/entities/person-jeffrey-epstein.md">epstein</a></span> files and the <span id="ent-person-charlie-kirk-t-00-47-18"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span> assassination and then <a href="/entities/person-jd-vance.md">J.D. Vance</a> drops a book about his <span id="ent-concept-catholicism-t-00-47-18"><a href="/entities/concept-catholicism.md">catholicism</a></span> it's a bit dizzying i think for a lot of people and <a href="/entities/person-tim-dillon.md">Tim Dillon</a> decided to do a reading of <a href="/entities/person-jd-vance.md">J.D. Vance</a>'s book or something like the gaslighting and the <a href="/entities/person-jeffrey-epstein.md">Epstein</a> files and the <a href="/entities/person-charlie-kirk.md">Charlie Kirk</a> assassination and then <a href="/entities/person-jd-vance.md">J.D. Vance</a> drops a book about his <a href="/entities/concept-catholicism.md">Catholicism</a>. It's a bit dizzying, I think, for a lot of people. And <a href="/entities/person-tim-dillon.md">Tim Dillon</a> decided to do a reading of <a href="/entities/person-jd-vance.md">J.D. Vance</a>'s book or something like a reading of <a href="/entities/person-jd-vance.md">J.D. Vance</a>'s book. Take a listen to this because it's just, again, brilliant humor. ^t-00-47-18
+**<a href="/timestamps/ep-9CuC1yf8-PU/t-00-47-18.md" class="timestamp-link">00:47:18</a> <a href="https://www.youtube.com/watch?v=9CuC1yf8-PU&t=2838" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** express how we're all feeling about the ridiculousness of everything. I actually don't have a lot of resentment for <span id="ent-person-jd-vance-t-00-47-18"><a href="/entities/person-jd-vance.md">J.D. Vance</a></span>, and I don't think <span id="ent-person-tim-dillon-t-00-47-18"><a href="/entities/person-tim-dillon.md">Tim Dillon</a></span> does either. But the idea of everything that we've just lived through with <span id="ent-gpe-iran-t-00-47-18"><a href="/entities/gpe-iran.md">Iran</a></span> and the gaslighting and the <span id="ent-person-jeffrey-epstein-t-00-47-18"><a href="/entities/person-jeffrey-epstein.md">Epstein</a></span> files and the <span id="ent-person-charlie-kirk-t-00-47-18"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span> assassination, and then <a href="/entities/person-jd-vance.md">J.D. Vance</a> drops a book about his <span id="ent-concept-catholicism-t-00-47-18"><a href="/entities/concept-catholicism.md">Catholicism</a></span>, is a bit dizzying, I think, for a lot of people. <a href="/entities/person-tim-dillon.md">Tim Dillon</a> decided to do a reading of <a href="/entities/person-jd-vance.md">J.D. Vance</a>'s book, or something like a reading of <a href="/entities/person-jd-vance.md">J.D. Vance</a>'s book. Take a listen to this because it's just, again, brilliant humor. ^t-00-47-18
 
 ---
 **🎤 Tim Dillon**
@@ -412,8 +412,10 @@ youtube_url: "https://www.youtube.com/watch?v=9CuC1yf8-PU"
 </details>
 
 <details>
-<summary><strong>Statements (35)</strong></summary>
+<summary><strong>Statements (38)</strong></summary>
 
+- [00:03:11](#t-00-02-54) [○] (Opinion) **Candace Owens**: ["Owens said Charlie Kirk's white Freedom shirt could carry explosive residue and ..."](/statements/statement-3f5b02d2303e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
 - [00:03:37](#t-00-03-37) [◐] (Claim) **Candace Owens**: ["Owens said ten inches of soil at the scene were dug out and the area was repaved..."](/statements/statement-1f88cf63ec3b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:04:02](#t-00-03-37) [◐] (Claim) **Candace Owens**: ["Owens said federal authorities had been looking for Charlie Kirk's necklace and ..."](/statements/statement-d3a91a11fe28.md)
@@ -426,6 +428,8 @@ youtube_url: "https://www.youtube.com/watch?v=9CuC1yf8-PU"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:09:57](#t-00-09-30) [○] (Accusation) **Candace Owens**: ["Brian Harpole lied badly to Shawn Ryan in an interview"](/statements/statement-bf4a6840e928.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Shawn Ryan](/entities/person-shawn-ryan.md)
+- [00:10:04](#t-00-09-30) [○] (Accusation) **Candace Owens**: ["Owens inferred that the FBI's seizure of hospital camera footage prevented the p..."](/statements/statement-843d0661b4a9.md)
+  - About: [FBI](/entities/org-fbi.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Brian Harpole](/entities/person-brian-harpole.md)
 - [00:11:55](#t-00-11-32) [○] (Opinion) **Candace Owens**: ["Owens guessed that Charlie Kirk's Freedom shirt had been disposed of because she..."](/statements/statement-bc21b49131bd.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:12:31](#t-00-12-05) [○] (Accusation) **Candace Owens**: ["Owens said the vehicle used to transport Charlie Kirk was quickly sent for towin..."](/statements/statement-cd499ecbd370.md)
@@ -458,6 +462,8 @@ youtube_url: "https://www.youtube.com/watch?v=9CuC1yf8-PU"
   - About: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
 - [00:26:41](#t-00-26-41) [✓] (Claim) **Candace Owens**: ["Owens reported that prosecutors planned to present a recorded statement from Lan..."](/statements/statement-d210268ed250.md)
   - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:27:27](#t-00-27-15) [○] (Claim) **Candace Owens**: ["Owens reported that Judge Tony Graf treated the proceeding as a preliminary prob..."](/statements/statement-c1580675b5fa.md)
+  - About: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
 - [00:27:33](#t-00-27-15) [○] (Opinion) **Candace Owens**: ["Owens characterized the Tyler Robinson proceeding as a show trial because eviden..."](/statements/statement-e5d2de99bd4c.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)
 - [00:27:55](#t-00-27-15) [◐] (Accusation) **Candace Owens**: ["Owens said Robinson's defense had not received access to the underlying text mes..."](/statements/statement-92e7fa874abd.md)

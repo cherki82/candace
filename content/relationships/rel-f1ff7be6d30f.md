@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (25 mentions)
+### Evidence (26 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -64,6 +64,10 @@ object: "person-erika-kirk"
 **[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
 
 - [00:52:31](/episodes/ep-IqHsl7d2dos#t-00-52-31): _When Project Constitution gets something wrong, but something this serious and this heavy, she stays quiet about. And I believe the people I'm speaking to. I believe them. They have no reason to say this—that she was managing modeling apartments for the models—and that doesn't make sense to me why they would just make that up._
+
+**[We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY)**
+
+- [00:28:16](/episodes/ep-JrhGEm8MGRY#t-00-28-16): _I took two weeks off for the summer and yet there was a full blown media assault that was executed against me on behalf of Turning Point USA, actually in particular on behalf of Erika (Erika Kirk)._
 
 **[Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs)**
 

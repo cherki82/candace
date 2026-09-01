@@ -438,7 +438,7 @@ youtube_url: "https://www.youtube.com/watch?v=19vHhjF7-NA"
 </details>
 
 <details>
-<summary><strong>Statements (39)</strong></summary>
+<summary><strong>Statements (41)</strong></summary>
 
 - [00:02:37](#t-00-02-37) [✓] (Claim) **Candace Owens**: ["Planet Nine is a Rothschild-owned superyacht designed for heliskiing adventures."](/statements/statement-6bafd88d9adf.md)
   - About: [Planet Nine](/entities/vehicle-planet-nine.md), [Rothschild family](/entities/org-rothschild-family.md), [Nathaniel Rothschild](/entities/person-nathaniel-rothschild.md)
@@ -448,6 +448,8 @@ youtube_url: "https://www.youtube.com/watch?v=19vHhjF7-NA"
   - About: [Rothschild family](/entities/org-rothschild-family.md), [Israel](/entities/gpe-israel.md)
 - [00:06:37](#t-00-06-37) [◐] (Accusation) **Candace Owens**: ["Owens alleged that the Rothschild family practices incest to keep world power wi..."](/statements/statement-5155c6faf07f.md)
   - About: [Rothschild family](/entities/org-rothschild-family.md)
+- [00:08:04](#t-00-07-57) [○] (Accusation) **Candace Owens**: ["Charlie Kirk may have been in the way of a Trump- and Rothschild-linked pursuit ..."](/statements/statement-35bd82d9a45e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Rothschild family](/entities/org-rothschild-family.md)
 - [00:08:42](#t-00-08-42) [✓] (Claim) **Jared Kushner**: ["Jared Kushner said that in summer 2021 he and others vacationed on Nat Rothschil..."](/statements/statement-eebe22a2c12a.md)
   - About: [Jared Kushner](/entities/person-jared-kushner.md), [Nathaniel Rothschild](/entities/person-nathaniel-rothschild.md), [Montenegro](/entities/gpe-montenegro.md)
 - [00:08:59](#t-00-08-42) [✓] (Claim) **Jared Kushner**: ["Jared Kushner said that Albanian Prime Minister Edi Rama came aboard Nat Rothsch..."](/statements/statement-93d17edc311f.md)
@@ -484,6 +486,8 @@ youtube_url: "https://www.youtube.com/watch?v=19vHhjF7-NA"
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:32:43](#t-00-32-43) [✓] (Claim) **Charlie Kirk**: ["Charlie Kirk said, “I appoint my wife to run Turning Point USA if something happ..."](/statements/statement-e15972aa3787.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:33:13](#t-00-33-13) [○] (Accusation) **Blake Neff**: ["Blake Neff said critics immediately and baselessly claimed the succession clip s..."](/statements/statement-82316669cfee.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:34:08](#t-00-34-03) [○] (Claim) **Candace Owens**: ["Owens asserted that the Turning Point USA succession video is doctored."](/statements/statement-0836c0e10fcc.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:34:08](#t-00-34-03) [○] (Accusation) **Candace Owens**: ["Owens accused Turning Point USA and Andrew Kolvet of refusing to say whether the..."](/statements/statement-39a374a916ba.md)

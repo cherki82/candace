@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:47:21](/episodes/ep-sKuYLNx3iRo.md#t-00-47-13) 
 <a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=2841s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> They're in a very precarious situation. That is a reality. And like I said, this is what happens when you just can't accept that some people disagree with you. And so what they mentioned in this article is their next thing as they're going out to companies is that they think that they can successfully IPO it. And that is a last. ... And when that happens in that situation, it's like a Trump (Donald Trump) meme coin. It's worthless. But of course, the people at the top get fat and rich, relying on people that have less money to put their money into the markets.
+> They're in a very precarious situation. That is a reality. And like I said, this is what happens when you just can't accept that some people disagree with you. ... What they mentioned in this article is that their next move, as they go out to companies, is a possible IPO. That is a last-ditch effort to turn to people at home and go, 'Hey, Daily Wire is going to the stock market. You could own a piece of the Daily Wire.' ... And when that happens in that situation, it's like a Trump (Donald Trump) meme coin. It's worthless. But of course, the people at the top get fat and rich, relying on people that have less money to put their money into the markets.
 
 ## Verification
 

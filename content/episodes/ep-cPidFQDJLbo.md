@@ -390,7 +390,7 @@ youtube_url: "https://www.youtube.com/watch?v=cPidFQDJLbo"
 </details>
 
 <details>
-<summary><strong>Statements (27)</strong></summary>
+<summary><strong>Statements (30)</strong></summary>
 
 - [00:01:08](#t-00-00-44) [○] (Claim) **Candace Owens**: ["The fallout from Victor Marx's interview inspired me to send preservation letter..."](/statements/statement-8a090a2510d3.md)
   - About: [Victor Marx](/entities/person-victor-marx.md), [Brian Harpole](/entities/person-brian-harpole.md)
@@ -414,6 +414,8 @@ youtube_url: "https://www.youtube.com/watch?v=cPidFQDJLbo"
   - About: [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)
 - [00:16:32](#t-00-16-10) [○] (Claim) **Candace Owens**: ["Erika Kirk told multiple people that she and Charlie Kirk had an appointment to ..."](/statements/statement-3499e5235001.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:17:44](#t-00-17-27) [○] (Accusation) **Candace Owens**: ["Erika Kirk may have lied about the claimed September 15 end-of-life-document app..."](/statements/statement-21d6b9f41052.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:21:22](#t-00-20-57) [○] (Claim) **Candace Owens**: ["Charlie Kirk had a corporate life-insurance policy that I am told included a $10..."](/statements/statement-b4663b071589.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:22:34](#t-00-22-22) [✓] (Promise) **Candace Owens**: ["I am willing to give investigators the names of the people to whom Erika Kirk di..."](/statements/statement-80d5b5ae9aea.md)
@@ -425,6 +427,8 @@ youtube_url: "https://www.youtube.com/watch?v=cPidFQDJLbo"
 - [00:24:09](#t-00-23-44) [○] (Claim) **Candace Owens**: ["I warned Charlie Kirk not to trust the people around him whom the world now sees..."](/statements/statement-6291cac12761.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:24:20](#t-00-23-44) [○] (Claim) **Candace Owens**: ["Andrew Kolvet was running Charlie Kirk's Twitter account, and Michael McCoy had ..."](/statements/statement-62b7f786aea5.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+- [00:24:28](#t-00-23-44) [○] (Accusation) **Candace Owens**: ["Insiders with access to Charlie Kirk's communications may have learned that he p..."](/statements/statement-7f2cf0193d75.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Michael McCoy](/entities/person-michael-mccoy.md)
 - [00:28:09](#t-00-28-09) [○] (Opinion) **Candace Owens**: ["Any attempted or recently accomplished will changes surrounding an unexpected de..."](/statements/statement-72edc59a3969.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -444,6 +448,8 @@ youtube_url: "https://www.youtube.com/watch?v=cPidFQDJLbo"
   - About: [Theo Von](/entities/person-theo-von.md)
 - [00:52:54](#t-00-52-37) [○] (Accusation) **Candace Owens**: ["Victor Marx's post timing signals to me that someone at the hospital, on the sec..."](/statements/statement-4519a0d6b1ae.md)
   - About: [Victor Marx](/entities/person-victor-marx.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:53:19](#t-00-53-05) [○] (Accusation) **Candace Owens**: ["Victor Marx may have been part of an Israel-linked chat through which early news..."](/statements/statement-d288b2db122c.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:53:30](#t-00-53-05) [✗] (Accusation) **Candace Owens**: ["Israel didn't do nothing. They've never done anything other than assassinate a s..."](/statements/statement-9b60868951d0.md)
   - About: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
 

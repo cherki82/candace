@@ -26,9 +26,9 @@ Source: [Obituary for Mark A. Liti | Redmond Funeral Home](https://www.redmondfu
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -45,6 +45,10 @@ Source: [Obituary for Mark A. Liti | Redmond Funeral Home](https://www.redmondfu
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -166,10 +170,10 @@ Source: [Obituary for Mark A. Liti | Redmond Funeral Home](https://www.redmondfu
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mark A. Liti (5)</strong></summary>
+<summary><strong class="section-title">Statements about Mark A. Liti (6)</strong></summary>
 
 <details>
-<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (5)</summary>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (6)</summary>
 
 - [00:06:14](/episodes/ep-5NQyGuRYbU8.md#t-00-06-03) (Claim) **Candace Owens**: ["Candace Owens said Mark A. Liti died after an unknown object exploded ..."](/statements/statement-8d3381aa7997.md)
   - Also about: [Pennsylvania](/entities/gpe-pennsylvania.md)
@@ -185,6 +189,9 @@ Source: [Obituary for Mark A. Liti | Redmond Funeral Home](https://www.redmondfu
 
 - [00:10:53](/episodes/ep-5NQyGuRYbU8.md#t-00-10-53) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Corey Comperatore was the longtime high-school frie..."](/statements/statement-a03200bad64e.md)
   - Also about: [Corey Comperatore](/entities/person-corey-comperatore.md)
+
+- [00:12:01](/episodes/ep-5NQyGuRYbU8.md#t-00-12-01) (Claim) **Candace Owens**: ["Candace Owens said Mark A. Liti was Facebook friends with several memb..."](/statements/statement-4bd468b80a6f.md)
+  - Also about: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
 
 </details>
 

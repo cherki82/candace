@@ -1,6 +1,6 @@
 ---
 title: "Spain"
-description: "Spain (Places) - 26 mentions"
+description: "Spain (Places) - 27 mentions"
 id: "gpe-spain"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-spain-t-00-24-35">2025-10-02 · 00:24:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-spain-t-00-42-32">2026-08-18 · 00:43:02</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-spain-t-00-27-53">2026-08-31 · 00:28:02</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -47,6 +47,7 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-spain-t-00-51-30" style="--pulse-height:50%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-spain-t-00-23-54" style="--pulse-height:25%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-spain-t-00-42-32" style="--pulse-height:25%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-spain-t-00-27-53" style="--pulse-height:25%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +70,7 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-spain-t-00-51-30) | 2 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-spain-t-00-23-54) | 1 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-gpe-spain-t-00-42-32) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-spain-t-00-27-53) | 1 |
 
 </details>
 </section>
@@ -76,7 +78,15 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:28:02](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-spain-t-00-27-53)**
+> "...preliminary hearing, I was in Spain, okay?"
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>

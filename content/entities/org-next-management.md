@@ -88,7 +88,7 @@ Source: [About | NEXT Management](https://nextmanagement.com/about?location=recr
 > "...ourt system right now against next model management."
 
 **[00:22:32](/episodes/ep-IqHsl7d2dos.md#ent-org-next-management-t-00-22-32)**
-> "...h he ran, and Faith Cates and Next Model Management, which he started with Faith Cates, are all liste..."
+> "Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Kates and Next Model Management, which he started with Faith Kates, are all listed as defendants in these allegations, which span back decades."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Claude"
-description: "Claude (Works & Media) - 2 mentions"
+description: "Claude (Works & Media) - 3 mentions"
 id: "work-claude-ai"
 type: "WORK"
 categories:
@@ -17,9 +17,9 @@ Source: [Meet Claude | Anthropic](https://www.anthropic.com/claude)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-claude-ai-t-00-59-39">2026-08-17 · 00:59:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-claude-ai-t-01-01-57">2026-08-17 · 01:02:27</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-work-claude-ai-t-00-38-25">2026-08-31 · 00:38:25</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,12 +31,14 @@ Source: [Meet Claude | Anthropic](https://www.anthropic.com/claude)
 <p>Highest activity: <a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-claude-ai-t-00-59-39">Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-claude-ai-t-00-59-39" style="--pulse-height:100%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-work-claude-ai-t-00-38-25" style="--pulse-height:50%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-work-claude-ai-t-00-59-39) | 2 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-work-claude-ai-t-00-38-25) | 1 |
 
 </details>
 </section>
@@ -44,7 +46,15 @@ Source: [Meet Claude | Anthropic](https://www.anthropic.com/claude)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:38:25](/episodes/ep-JrhGEm8MGRY.md#ent-work-claude-ai-t-00-38-25)**
+> "...k up a real relationship with claude and chat gpt like asks him hey what do you think ..."
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>

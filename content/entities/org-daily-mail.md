@@ -22,7 +22,7 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <div><span>Episodes</span><strong>28</strong></div>
 <div><span>Mentions</span><strong>73</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>24</strong></div>
+<div><span>Statements about</span><strong>25</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -584,7 +584,7 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Daily Mail (24)</strong></summary>
+<summary><strong class="section-title">Statements about Daily Mail (25)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -678,10 +678,13 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 <details>
-<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1)</summary>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (2)</summary>
 
 - [00:18:51](/episodes/ep-1QZ4X6q1DPg.md#t-00-18-51) (Citation) **Daily Mail** (via quoted article): ["The Daily Mail said it received exclusive access to screen the full As..."](/statements/statement-00f1da66a0f1.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:19:21](/episodes/ep-1QZ4X6q1DPg.md#t-00-18-51) (Claim) **Turning Point USA** (via quoted article): ["Turning Point USA sources told the Daily Mail that the succession vide..."](/statements/statement-ea271426b53c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

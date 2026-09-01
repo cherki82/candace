@@ -104,7 +104,7 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 > "...ing like your best self fast. Just Thrive has been trusted for over a decade, helping thous..."
 
 **[00:44:56](/episodes/ep-Pb7UlpRdW6U.md#ent-org-just-thrive-t-00-44-22)**
-> "...or yourself and just take the Just Thrive feel better challenge and get. and get 20% off yo..."
+> "If you're ready to try it for yourself, take the Just Thrive Feel Better Challenge and get 20% off your first order."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk assassination"
-description: "Charlie Kirk assassination (Events) - 247 mentions"
+description: "Charlie Kirk assassination (Events) - 251 mentions"
 id: "event-charlie-kirk-assassination"
 type: "EVENT"
 aliases:
@@ -27,11 +27,11 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-36-02">2025-09-15 · 00:24:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-event-charlie-kirk-assassination-t-00-54-22">2026-07-23 · 00:54:30</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>247</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-event-charlie-kirk-assassination-t-00-34-07">2026-08-31 · 00:34:24</a></strong></div>
+<div><span>Episodes</span><strong>45</strong></div>
+<div><span>Mentions</span><strong>251</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>177</strong></div>
+<div><span>Statements about</span><strong>184</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -84,6 +84,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-event-charlie-kirk-assassination-t-00-00-45" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-event-charlie-kirk-assassination-t-00-54-22" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-event-charlie-kirk-assassination-t-00-00-45" style="--pulse-height:21%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -133,6 +134,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-event-charlie-kirk-assassination-t-00-00-45) | 2 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-event-charlie-kirk-assassination-t-00-54-22) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-event-charlie-kirk-assassination-t-00-00-45) | 4 |
 
 </details>
 </section>
@@ -144,7 +146,24 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (247)</strong></summary>
+<summary><strong class="section-title">Raw mentions (251)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (4 mentions)</summary>
+
+**[00:01:12](/episodes/ep-JrhGEm8MGRY.md#ent-event-charlie-kirk-assassination-t-00-00-45)**
+> "... me for my investigation into Charlie Kirk's assassination. That's weird."
+
+**[00:19:53](/episodes/ep-JrhGEm8MGRY.md#ent-event-charlie-kirk-assassination-t-00-19-28)**
+> "... for a long time, because the Charlie Kirk assassination happened, and I was obviously compelled a differe..."
+
+**[00:32:13](/episodes/ep-JrhGEm8MGRY.md#ent-event-charlie-kirk-assassination-t-00-31-46)**
+> "What is it about the Charlie Kirk assassination that just keeps bringing you out of the woodwork?"
+
+**[00:34:24](/episodes/ep-JrhGEm8MGRY.md#ent-event-charlie-kirk-assassination-t-00-34-07)**
+> "...ng Americans not to look into Charlie Kirk's assassination. That's what she means. That's what she's saying,..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
@@ -1202,7 +1221,33 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk assassination (177)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk assassination (184)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (7)</summary>
+
+- [00:01:12](/episodes/ep-JrhGEm8MGRY.md#t-00-00-45) (Accusation) **Candace Owens**: ["Candace Owens said the Department of War had people on its payroll att..."](/statements/statement-8c598ab9a08f.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:08:04](/episodes/ep-JrhGEm8MGRY.md#t-00-07-38) (Accusation) **John Mappin** (via quoted article): ["John and Irina Mappin wrote that the Charlie Kirk crime scene had appa..."](/statements/statement-6db050a52a3d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Irina Mappin](/entities/person-irina-mappin.md)
+
+- [00:27:53](/episodes/ep-JrhGEm8MGRY.md#t-00-27-53) (Opinion) **Candace Owens**: ["Owens said the campaign surrounding her looked well-funded and almost ..."](/statements/statement-e5d1c9dfd49d.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Psychological operations](/entities/concept-psychological-operations.md)
+
+- [00:29:20](/episodes/ep-JrhGEm8MGRY.md#t-00-29-08) (Accusation) **Candace Owens**: ["Owens suggested that Jennica Pounds could be the person shown walking ..."](/statements/statement-103afdff4d24.md)
+  - Also about: [Jennica Pounds](/entities/person-jennica-pounds.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:34:24](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07) (Accusation) **Candace Owens** (via paraphrase): ["Owens said that, in her interpretation, Jennica Pounds meant she was s..."](/statements/statement-c61cc8f7861f.md)
+  - Also about: [Jennica Pounds](/entities/person-jennica-pounds.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+- [00:35:46](/episodes/ep-JrhGEm8MGRY.md#t-00-35-16) (Accusation) **Candace Owens**: ["Owens rhetorically asked why the State Department and Department of Wa..."](/statements/statement-c89b1f2528a1.md)
+  - Also about: [United States Department of State](/entities/org-united-states-department-of-state.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:36:50](/episodes/ep-JrhGEm8MGRY.md#t-00-36-41) (Accusation) **Candace Owens**: ["Owens said that when Charlie Kirk was shot, she knew he had been betra..."](/statements/statement-c9dfee8bf4e3.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (4)</summary>

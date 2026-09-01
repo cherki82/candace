@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:26:05](/episodes/ep-sKuYLNx3iRo.md#t-00-26-05) 
 <a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=1565s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Well, Cash Patel's FBI team to swoop in and to seize the cameras expeditiously, which they did. We didn't understand at the time why would they seize the cameras on the outside and on the inside of the hospital, we asked ourselves.
+> Well, Kash Patel's FBI team would have to swoop in and seize the cameras expeditiously, which they did. We didn't understand at the time why they would seize the cameras on the outside and on the inside of the hospital, we asked ourselves.
 
 ## Verification
 

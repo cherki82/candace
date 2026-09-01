@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 984 mentions"
+description: "Donald J. Trump (People) - 988 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -28,11 +28,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-37-05">2026-08-19 · 00:37:05</a></strong></div>
-<div><span>Episodes</span><strong>132</strong></div>
-<div><span>Mentions</span><strong>984</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-donald-trump-t-00-43-01">2026-08-31 · 00:43:01</a></strong></div>
+<div><span>Episodes</span><strong>133</strong></div>
+<div><span>Mentions</span><strong>988</strong></div>
 <div><span>Statements by</span><strong>36</strong></div>
-<div><span>Statements about</span><strong>231</strong></div>
+<div><span>Statements about</span><strong>240</strong></div>
 <div><span>Relationships</span><strong>155</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -173,6 +173,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-21-59" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-donald-trump-t-01-40-57" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-31-36" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 4 mentions" title="2026-08-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-donald-trump-t-00-00-45" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -310,6 +311,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-21-59) | 4 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-donald-trump-t-01-40-57) | 4 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-31-36) | 4 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-donald-trump-t-00-00-45) | 4 |
 
 </details>
 </section>
@@ -321,7 +323,24 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (984)</strong></summary>
+<summary><strong class="section-title">Raw mentions (988)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (4 mentions)</summary>
+
+**[00:01:12](/episodes/ep-JrhGEm8MGRY.md#ent-person-donald-trump-t-00-00-45)**
+> "Well, it turns out that the Trump administration heard the call and they took me literally because it was revealed that the Department of War has people on payroll that are attacking me for my investigation into Charlie Kirk's assassination. That's weird."
+
+**[00:01:27](/episodes/ep-JrhGEm8MGRY.md#ent-person-donald-trump-t-00-01-27)**
+> "I thought Donald Trump and Charlie (Charlie Kirk) were friends. Don't they want to know who killed them?"
+
+**[00:33:30](/episodes/ep-JrhGEm8MGRY.md#ent-person-donald-trump-t-00-33-30)**
+> "...lie (Charlie Kirk)'s favorite Trump nominees. She was finally confirmed a week ago an..."
+
+**[00:43:01](/episodes/ep-JrhGEm8MGRY.md#ent-person-donald-trump-t-00-43-01)**
+> "...l asset the night of the fake Trump number three, or four, or five, or six shooting t..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4 mentions)</summary>
@@ -5544,7 +5563,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (231)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (240)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
@@ -5613,7 +5632,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (13)</summary>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (14)</summary>
 
 - [00:00:01](/episodes/ep-3QJqtW_NOSI.md#t-00-00-01) (Citation) **Candace Owens**: ["Owens cited a New York Times article as reporting that Trump administr..."](/statements/statement-41af199afa3a.md)
   - Also about: [The New York Times](/entities/org-the-new-york-times.md), [Pam Bondi](/entities/person-pam-bondi.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
@@ -5648,6 +5667,9 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [00:24:08](/episodes/ep-3QJqtW_NOSI.md#t-00-24-08) (Accusation) **Anonymous Source #1 (Ep 3QJqtW_NOSI)** (via read message): ["An unnamed source told Owens that the Trump administration was trying ..."](/statements/statement-cdf9fcf3b57b.md)
   - Also about: [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
 
+- [00:24:21](/episodes/ep-3QJqtW_NOSI.md#t-00-24-08) (Opinion) **Candace Owens**: ["Owens said the relationship between the Trump administration and Turni..."](/statements/statement-2b97002310a5.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
 - [00:32:16](/episodes/ep-3QJqtW_NOSI.md#t-00-32-06) (Opinion) **Candace Owens**: ["Owens said she did not believe Donald Trump was merely an unwitting vi..."](/statements/statement-7cf6e7a4143a.md)
   - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
@@ -5665,7 +5687,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (7)</summary>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (10)</summary>
 
 - [00:02:27](/episodes/ep-5NQyGuRYbU8.md#t-00-02-27) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk formally rejected the narrative of the..."](/statements/statement-9238347a8ba8.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
@@ -5682,16 +5704,25 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [00:04:00](/episodes/ep-5NQyGuRYbU8.md#t-00-04-00) (Accusation) **Charlie Kirk** (via quoted speech): ["Charlie Kirk accused members of the media of wanting Donald Trump dead..."](/statements/statement-06e2835e08c9.md)
   - Also about: [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
 
+- [00:05:42](/episodes/ep-5NQyGuRYbU8.md#t-00-05-24) (Accusation) **Candace Owens**: ["Candace Owens suggested that Donald Trump might feature in the story o..."](/statements/statement-0b61da1e4750.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [00:11:26](/episodes/ep-5NQyGuRYbU8.md#t-00-11-26) (Claim) **Candace Owens**: ["Candace Owens said an unknown woman unexpectedly escorted Corey Comper..."](/statements/statement-6079ef812e56.md)
   - Also about: [Corey Comperatore](/entities/person-corey-comperatore.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
 
 - [00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) (Claim) **Candace Owens**: ["Candace Owens said Benjamin Netanyahu gave Donald Trump a golden pager..."](/statements/statement-d2fa62164eb6.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [White House](/entities/org-white-house.md), [Mossad](/entities/org-mossad.md)
 
+- [00:22:08](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) (Accusation) **Candace Owens**: ["Candace Owens speculated that Benjamin Netanyahu's golden-pager gift t..."](/statements/statement-38ff2727e895.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Mossad](/entities/org-mossad.md)
+
+- [00:23:33](/episodes/ep-5NQyGuRYbU8.md#t-00-23-13) (Accusation) **Candace Owens**: ["Candace Owens speculated that Butler may have been an assassination su..."](/statements/statement-09de59bd7dad.md)
+  - Also about: [Corey Comperatore](/entities/person-corey-comperatore.md)
+
 </details>
 
 <details>
-<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (12)</summary>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (14)</summary>
 
 - [00:02:16](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16) (Accusation) **Tucker Carlson**: ["Tucker Carlson said Donald Trump shut down the Butler investigation an..."](/statements/statement-f73d6f2037c9.md)
   - Also about: [Dan Bongino](/entities/person-dan-bongino.md), [FBI](/entities/org-fbi.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
@@ -5711,6 +5742,9 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [00:10:32](/episodes/ep-WoXd4oLwd3w.md#t-00-10-32) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens characterized Dan Bongino's text as confirming that Dona..."](/statements/statement-4018b04048d1.md)
   - Also about: [Dan Bongino](/entities/person-dan-bongino.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
 
+- [00:11:34](/episodes/ep-WoXd4oLwd3w.md#t-00-11-05) (Accusation) **Candace Owens**: ["Candace Owens proposed that the Butler shooting could have been staged..."](/statements/statement-206782480e5d.md)
+  - Also about: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
+
 - [00:12:08](/episodes/ep-WoXd4oLwd3w.md#t-00-11-46) (Opinion) **Candace Owens**: ["Candace Owens said she was inclined to believe the Butler shooting was..."](/statements/statement-1ddd7e1e4748.md)
   - Also about: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
 
@@ -5729,10 +5763,16 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [00:33:39](/episodes/ep-WoXd4oLwd3w.md#t-00-33-39) (Opinion) **Candace Owens**: ["Candace Owens said it was her opinion that Donald Trump said yes to Be..."](/statements/statement-dad369f32bff.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:48:17](/episodes/ep-WoXd4oLwd3w.md#t-00-48-05) (Accusation) **Candace Owens**: ["Candace Owens speculated that the FOIA delay might reflect consultatio..."](/statements/statement-32eb670bee0f.md)
+  - Also about: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [FBI](/entities/org-fbi.md), [Kash Patel](/entities/person-kash-patel.md)
+
 </details>
 
 <details>
-<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (5)</summary>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (6)</summary>
+
+- [00:08:04](/episodes/ep-19vHhjF7-NA.md#t-00-07-57) (Accusation) **Candace Owens**: ["Charlie Kirk may have been in the way of a Trump- and Rothschild-linke..."](/statements/statement-35bd82d9a45e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rothschild family](/entities/org-rothschild-family.md)
 
 - [00:12:23](/episodes/ep-19vHhjF7-NA.md#t-00-12-23) (Opinion) **Donald J. Trump** (via quoted speech): ["Donald Trump said that his preference has always been to take Kharg Is..."](/statements/statement-9daf384d7f82.md)
   - Also about: [Kharg Island](/entities/gpe-kharg-island.md), [United States](/entities/gpe-united-states.md)
@@ -5840,7 +5880,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Candace x Hunter Biden: The Interview (6)</summary>
+<summary>Candace x Hunter Biden: The Interview (8)</summary>
 
 - [00:39:32](/episodes/ep-Ux1kzgQxkws.md#t-00-39-32) (Accusation) **Hunter Biden**: ["A Trump-appointed U.S. attorney continued prosecuting me and became sp..."](/statements/statement-b9d480735b4c.md)
   - Also about: [Hunter Biden](/entities/person-hunter-biden.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
@@ -5848,8 +5888,14 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [00:59:59](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59) (Opinion) **Candace Owens**: ["Donald Trump, Kash Patel, and JD Vance have shown zero interest in the..."](/statements/statement-5412eb913b0a.md)
   - Also about: [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Kash Patel](/entities/person-kash-patel.md), [JD Vance](/entities/person-jd-vance.md)
 
+- [01:00:26](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59) (Accusation) **Candace Owens**: ["Trump, Kash Patel, and J.D. Vance are accepting the official Charlie K..."](/statements/statement-77e2d7486bc5.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [JD Vance](/entities/person-jd-vance.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [01:02:22](/episodes/ep-Ux1kzgQxkws.md#t-01-02-22) (Accusation) **Candace Owens**: ["Donald Trump is protecting his donors by withholding the Epstein files..."](/statements/statement-5b8ae82f98e2.md)
   - Also about: [Epstein Files](/entities/work-epstein-files.md)
+
+- [01:04:08](/episodes/ep-Ux1kzgQxkws.md#t-01-04-08) (Opinion) **Hunter Biden**: ["The political response to Charlie Kirk's assassination may reflect dis..."](/statements/statement-4cc3b49c97d3.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Kash Patel](/entities/person-kash-patel.md), [JD Vance](/entities/person-jd-vance.md)
 
 - [01:08:27](/episodes/ep-Ux1kzgQxkws.md#t-01-08-27) (Claim) **Hunter Biden**: ["Donald Trump has posted images of himself as a king about half a dozen..."](/statements/statement-7b87d710bc71.md)
 

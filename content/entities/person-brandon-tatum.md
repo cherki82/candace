@@ -1,6 +1,6 @@
 ---
 title: "Brandon Tatum"
-description: "Brandon Tatum (People) - 6 mentions"
+description: "Brandon Tatum (People) - 8 mentions"
 id: "person-brandon-tatum"
 type: "PERSON"
 categories:
@@ -17,9 +17,9 @@ Source: [U.S. House Judiciary — Brandon Tatum Bio](https://docs.house.gov/meet
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-brandon-tatum-t-00-57-31">2025-09-16 · 00:58:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-brandon-tatum-t-00-00-46">2026-07-14 · 00:00:46</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-brandon-tatum-t-00-49-01">2026-08-31 · 00:49:30</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -34,6 +34,7 @@ Source: [U.S. House Judiciary — Brandon Tatum Bio](https://docs.house.gov/meet
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-brandon-tatum-t-00-44-39" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-brandon-tatum-t-01-05-08" style="--pulse-height:33%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-brandon-tatum-t-00-00-46" style="--pulse-height:33%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-brandon-tatum-t-00-37-46" style="--pulse-height:67%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +44,7 @@ Source: [U.S. House Judiciary — Brandon Tatum Bio](https://docs.house.gov/meet
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-brandon-tatum-t-00-44-39) | 3 |
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-brandon-tatum-t-01-05-08) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-brandon-tatum-t-00-00-46) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-brandon-tatum-t-00-37-46) | 2 |
 
 </details>
 </section>
@@ -50,7 +52,18 @@ Source: [U.S. House Judiciary — Brandon Tatum Bio](https://docs.house.gov/meet
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
+
+**[00:37:46](/episodes/ep-JrhGEm8MGRY.md#ent-person-brandon-tatum-t-00-37-46)**
+> "I'd like to leave it, thank you. And it is basically The Daily Wire. That's what's happening. I mean, there are some older names: Michael Knowles and, obviously, Brandon Tatum."
+
+**[00:49:30](/episodes/ep-JrhGEm8MGRY.md#ent-person-brandon-tatum-t-00-49-01)**
+> "Like I said, Brandon Tatum has been speaking for them for a very long time, ..."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Defense"
-description: "United States Department of Defense (Organizations) - 69 mentions"
+description: "United States Department of Defense (Organizations) - 82 mentions"
 id: "org-us-department-of-defense"
 type: "ORG"
 aliases:
@@ -28,50 +28,51 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29">2025-10-28 · 00:31:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-us-department-of-defense-t-00-03-59">2026-07-29 · 00:04:24</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>69</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-44-09">2026-08-31 · 00:44:09</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>82</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>42</strong></div>
-<div><span>Relationships</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>52</strong></div>
+<div><span>Relationships</span><strong>26</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-us-department-of-defense-t-00-26-23">TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356</a> (8 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-00-45">We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380</a> (13 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29" style="--pulse-height:12%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-org-us-department-of-defense-t-00-46-55" style="--pulse-height:25%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-org-us-department-of-defense-t-00-37-21" style="--pulse-height:38%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-us-department-of-defense-t-00-02-46" style="--pulse-height:25%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-us-department-of-defense-t-00-39-10" style="--pulse-height:25%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-us-department-of-defense-t-01-04-06" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-us-department-of-defense-t-01-17-26" style="--pulse-height:12%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-org-us-department-of-defense-t-00-53-20" style="--pulse-height:25%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-us-department-of-defense-t-00-04-42" style="--pulse-height:12%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-us-department-of-defense-t-00-11-00" style="--pulse-height:25%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-us-department-of-defense-t-00-01-43" style="--pulse-height:38%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-department-of-defense-t-00-32-04" style="--pulse-height:12%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-org-us-department-of-defense-t-00-12-27" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-us-department-of-defense-t-00-04-19" style="--pulse-height:12%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-department-of-defense-t-00-07-29" style="--pulse-height:38%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 3 mentions" title="2026-05-14 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-us-department-of-defense-t-00-00-39" style="--pulse-height:50%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 4 mentions" title="2026-05-18 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-us-department-of-defense-t-01-12-53" style="--pulse-height:12%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-us-department-of-defense-t-00-05-06" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-us-department-of-defense-t-00-13-13" style="--pulse-height:12%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-us-department-of-defense-t-00-20-02" style="--pulse-height:88%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 7 mentions" title="2026-06-10 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-us-department-of-defense-t-00-26-01" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-us-department-of-defense-t-00-46-02" style="--pulse-height:50%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 4 mentions" title="2026-06-13 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-us-department-of-defense-t-00-00-45" style="--pulse-height:38%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 3 mentions" title="2026-06-15 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-us-department-of-defense-t-00-47-04" style="--pulse-height:12%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-us-department-of-defense-t-00-53-59" style="--pulse-height:12%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-us-department-of-defense-t-00-11-35" style="--pulse-height:38%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-us-department-of-defense-t-00-44-01" style="--pulse-height:12%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-us-department-of-defense-t-00-26-23" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 8 mentions" title="2026-06-26 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-us-department-of-defense-t-00-39-34" style="--pulse-height:12%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-us-department-of-defense-t-01-04-38" style="--pulse-height:12%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-us-department-of-defense-t-00-03-59" style="--pulse-height:12%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-us-department-of-defense-t-00-46-55" style="--pulse-height:15%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-us-department-of-defense-t-00-37-21" style="--pulse-height:23%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-us-department-of-defense-t-00-02-46" style="--pulse-height:15%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-us-department-of-defense-t-00-39-10" style="--pulse-height:15%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-us-department-of-defense-t-01-04-06" style="--pulse-height:15%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-us-department-of-defense-t-01-17-26" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-us-department-of-defense-t-00-53-20" style="--pulse-height:15%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-us-department-of-defense-t-00-04-42" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-us-department-of-defense-t-00-11-00" style="--pulse-height:15%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-us-department-of-defense-t-00-01-43" style="--pulse-height:23%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-department-of-defense-t-00-32-04" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-us-department-of-defense-t-00-12-27" style="--pulse-height:15%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-us-department-of-defense-t-00-04-19" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-department-of-defense-t-00-07-29" style="--pulse-height:23%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 3 mentions" title="2026-05-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-us-department-of-defense-t-00-00-39" style="--pulse-height:31%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 4 mentions" title="2026-05-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-us-department-of-defense-t-01-12-53" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-us-department-of-defense-t-00-05-06" style="--pulse-height:15%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-us-department-of-defense-t-00-13-13" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-us-department-of-defense-t-00-20-02" style="--pulse-height:54%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 7 mentions" title="2026-06-10 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-us-department-of-defense-t-00-26-01" style="--pulse-height:15%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-us-department-of-defense-t-00-46-02" style="--pulse-height:31%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 4 mentions" title="2026-06-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-us-department-of-defense-t-00-00-45" style="--pulse-height:23%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 3 mentions" title="2026-06-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-us-department-of-defense-t-00-47-04" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-us-department-of-defense-t-00-53-59" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-us-department-of-defense-t-00-11-35" style="--pulse-height:23%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-us-department-of-defense-t-00-44-01" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-us-department-of-defense-t-00-26-23" style="--pulse-height:62%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 8 mentions" title="2026-06-26 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-us-department-of-defense-t-00-39-34" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-us-department-of-defense-t-01-04-38" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-us-department-of-defense-t-00-03-59" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-00-45" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 13 mentions" title="2026-08-31 · 13 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -108,6 +109,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-us-department-of-defense-t-00-39-34) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-us-department-of-defense-t-01-04-38) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-us-department-of-defense-t-00-03-59) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-00-45) | 13 |
 
 </details>
 </section>
@@ -119,7 +121,51 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+<summary><strong class="section-title">Raw mentions (82)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (13 mentions)</summary>
+
+**[00:01:12](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-00-45)**
+> "...ause it was revealed that the Department of War has people on payroll that are attacking me for m..."
+
+**[00:23:26](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-23-26)**
+> "...ch to discuss in terms of the department of war and what's going on but what it really demonstrat..."
+
+**[00:34:00](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-33-30)**
+> "...ts that she's working for the Department of War."
+
+**[00:34:17](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-34-07)**
+> "...l government employee for the Department of War in July to serve the country in a more hands-on w..."
+
+**[00:34:24](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-34-07)**
+> "...hat she means is to serve the Department of War in propagandizing Americans not to look into Char..."
+
+**[00:35:16](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-35-16)**
+> "... by the State Department, the Department of War, Blake Neff, and Andrew Kolvet allies. So the que..."
+
+**[00:35:46](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-35-16)**
+> "... the State Department and the Department of War would be interested in controlling the narrative ..."
+
+**[00:36:32](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-36-01)**
+> "And it's the Department of War that is so incredibly sinister, but it's importan..."
+
+**[00:36:41](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-36-41)**
+> "...t expect it to be the literal Department of War, but I'm up for the challenge because, like I sai..."
+
+**[00:40:08](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-40-08)**
+> "...e idea of partnering with the Department of War to propagandize Americans rather than winning the..."
+
+**[00:43:01](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-43-01)**
+> "...the email, which was from the Department of War calling Erika (Erika Kirk) an emotional asset the..."
+
+**[00:43:30](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-43-01)**
+> "...es our point. It has been the Department of War that has been behind Erika (Erika Kirk), and she ..."
+
+**[00:44:09](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-44-09)**
+> "... the State Department and the Department of War behind you is going to win the game, along with b..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
@@ -489,6 +535,18 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:01:12](/episodes/ep-JrhGEm8MGRY.md#t-00-00-45): “Well, it turns out that the Trump administration heard the call and they took me literally because it was revealed that the Department of War has people on payroll that are attacking me for my investigation into Charlie Kirk's assassination. That's weird.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Advised By (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
@@ -501,7 +559,19 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 <details>
-<summary>Employs (3)</summary>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:36:32](/episodes/ep-JrhGEm8MGRY.md#t-00-36-01): “And it's the Department of War that is so incredibly sinister, but it's important for us to know what we are up against.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Employs (4)</summary>
 
 - **[Pete Hegseth](/entities/person-pete-hegseth.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -525,6 +595,13 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:11:35](/episodes/ep-3QJqtW_NOSI.md#t-00-11-35): “A man named Stephen Feinberg, who occupies the position of Deputy Secretary of Defense.”
+
+</details>
+
+- **[Jennica Pounds](/entities/person-jennica-pounds.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:34:17](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07): “She wrote, I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way.”
 
 </details>
 
@@ -592,7 +669,14 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (14)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:01:12](/episodes/ep-JrhGEm8MGRY.md#t-00-00-45): “Well, it turns out that the Trump administration heard the call and they took me literally because it was revealed that the Department of War has people on payroll that are attacking me for my investigation into Charlie Kirk's assassination. That's weird.”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -606,6 +690,13 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:32:19](/episodes/ep-B9TyCs-6o_0.md#t-00-32-04): “the department of defense which is all over the story for some reason Lori (Lori Frantzve) is part of the department of defense”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 01:04:35](/episodes/ep-HYn0P-P1wUw.md#t-01-04-06): “So she was her mother was working with the DOD. So she's been very open about that.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:36:32](/episodes/ep-JrhGEm8MGRY.md#t-00-36-01): “And it's the Department of War that is so incredibly sinister, but it's important for us to know what we are up against.”
 
 </details>
 
@@ -677,6 +768,13 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 </details>
 
+- **[Jennica Pounds](/entities/person-jennica-pounds.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:34:17](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07): “She wrote, I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way.”
+
+</details>
+
 </details>
 
 </details>
@@ -695,7 +793,41 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Defense (42)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Defense (52)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (10)</summary>
+
+- [00:01:12](/episodes/ep-JrhGEm8MGRY.md#t-00-00-45) (Accusation) **Candace Owens**: ["Candace Owens said the Department of War had people on its payroll att..."](/statements/statement-8c598ab9a08f.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:34:17](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07) (Claim) **Jennica Pounds** (via quoted post): ["Jennica Pounds wrote that she began working as a special government em..."](/statements/statement-1217c9844390.md)
+
+- [00:34:24](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07) (Accusation) **Candace Owens** (via paraphrase): ["Owens said that, in her interpretation, Jennica Pounds meant she was s..."](/statements/statement-c61cc8f7861f.md)
+  - Also about: [Jennica Pounds](/entities/person-jennica-pounds.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:35:16](/episodes/ep-JrhGEm8MGRY.md#t-00-35-16) (Accusation) **Candace Owens**: ["Owens claimed the effort portraying her investigation as dangerous was..."](/statements/statement-fc83166ced37.md)
+  - Also about: [United States Department of State](/entities/org-united-states-department-of-state.md), [Blake Neff](/entities/person-blake-neff.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:35:46](/episodes/ep-JrhGEm8MGRY.md#t-00-35-16) (Accusation) **Candace Owens**: ["Owens rhetorically asked why the State Department and Department of Wa..."](/statements/statement-c89b1f2528a1.md)
+  - Also about: [United States Department of State](/entities/org-united-states-department-of-state.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:36:27](/episodes/ep-JrhGEm8MGRY.md#t-00-36-01) (Accusation) **Candace Owens**: ["Owens accused the Department of War-aligned campaign of putting a targ..."](/statements/statement-ced363b2d15b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:40:08](/episodes/ep-JrhGEm8MGRY.md#t-00-40-08) (Accusation) **Candace Owens**: ["Owens accused Turning Point USA of partnering with the Department of W..."](/statements/statement-8cb1688a11d8.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:01](/episodes/ep-JrhGEm8MGRY.md#t-00-43-01) (Citation) **Candace Owens**: ["Owens said an email from the Department of War called Erika Kirk an “e..."](/statements/statement-6944490af53a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:43:15](/episodes/ep-JrhGEm8MGRY.md#t-00-43-01) (Accusation) **Candace Owens**: ["Owens said her team had basically been stonewalled on FOIA requests se..."](/statements/statement-67a8772b2bfc.md)
+  - Also about: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:43:30](/episodes/ep-JrhGEm8MGRY.md#t-00-43-01) (Accusation) **Candace Owens**: ["Owens claimed the FOIA responses further proved that the Department of..."](/statements/statement-7539c7effad9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>

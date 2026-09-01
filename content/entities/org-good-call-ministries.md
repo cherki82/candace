@@ -26,9 +26,9 @@ Source: [Good Call Ministries - Joseph Bondarenko](https://goodcallministries.or
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -45,6 +45,10 @@ Source: [Good Call Ministries - Joseph Bondarenko](https://goodcallministries.or
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -65,5 +69,17 @@ Source: [Good Call Ministries - Joseph Bondarenko](https://goodcallministries.or
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Good Call Ministries (1)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:27:02](/episodes/ep-3QJqtW_NOSI.md#t-00-26-32) (Citation) **Candace Owens**: ["Owens cited Good Call Ministries' website as listing rescue operations..."](/statements/statement-cc1b394df29f.md)
+
+</details>
 
 </details>

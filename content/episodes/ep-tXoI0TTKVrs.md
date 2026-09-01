@@ -1,14 +1,14 @@
 ---
 id: "tXoI0TTKVrs"
 title: "Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346"
-description: "Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 - 129 entities, 18 events, 18 factual claims"
+description: "Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 - 129 entities, 18 events, 19 factual claims"
 published: "2026-06-10"
 youtube_url: "https://www.youtube.com/watch?v=tXoI0TTKVrs"
 ---
 
 **Published:** 2026-06-10 | [Watch on YouTube](https://www.youtube.com/watch?v=tXoI0TTKVrs)
 
-**Stats:** 129 entities | 18 events | 18 factual claims
+**Stats:** 129 entities | 18 events | 19 factual claims
 
 ---
 
@@ -391,7 +391,7 @@ youtube_url: "https://www.youtube.com/watch?v=tXoI0TTKVrs"
 </details>
 
 <details>
-<summary><strong>Statements (47)</strong></summary>
+<summary><strong>Statements (48)</strong></summary>
 
 - [00:04:47](#t-00-04-47) [○] (Claim) **Candace Owens**: ["Dana Loesch claimed not to care about criticism of her speech, then authored mor..."](/statements/statement-8f91746f54e2.md)
   - About: [Dana Loesch](/entities/person-dana-loesch.md)
@@ -421,6 +421,8 @@ youtube_url: "https://www.youtube.com/watch?v=tXoI0TTKVrs"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:14:54](#t-00-14-39) [○] (Claim) **Candace Owens**: ["Candace Owens emailed Justin Streiff, Andrew Kolvet, and Turning Point USA's law..."](/statements/statement-0ff90a168cf2.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Justin Streiff](/entities/person-justin-streiff.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+- [00:17:49](#t-00-17-17) [○] (Claim) **Candace Owens**: ["Owens identified the donors who asked the Aspen succession question as Julie Fie..."](/statements/statement-3f04158d57ff.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:18:13](#t-00-17-59) [○] (Claim) **Anonymous Source #1 (Ep tXoI0TTKVrs)**: ["The Turning Point USA succession video is doctored."](/statements/statement-854973363c52.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:18:19](#t-00-17-59) [○] (Claim) **Anonymous Source #1 (Ep tXoI0TTKVrs)**: ["At a secondary dinner, Charlie Kirk said nothing about plans for Erika Kirk and ..."](/statements/statement-1640c2a36a5b.md)

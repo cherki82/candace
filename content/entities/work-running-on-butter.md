@@ -6,11 +6,16 @@ type: "WORK"
 aliases:
   - "Running On Butter"
   - "RunningOnButter.com"
+categories:
+  - "health blog"
+  - "online media"
 ---
 
 _Type: Works & Media_
 
 **Also known as:** Running On Butter, RunningOnButter.com
+
+**Categories:** health blog, online media
 
 **Entity verification:** verified
 > The publication’s own About page identifies Vance Voetberg as its health journalist and author.

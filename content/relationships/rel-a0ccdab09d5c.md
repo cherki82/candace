@@ -11,11 +11,15 @@ object: "person-andrew-kolvet"
 
 ## [KAIROS Company](/entities/org-kairos-company) formerly employed [Andrew Kolvet](/entities/person-andrew-kolvet)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo)**
 
 - [00:19:10](/episodes/ep-CMcktj3Egfo#t-00-19-10): _Andrew Kolvet was the executive vice president and he effectively was working for the Kairos company,_
+
+**[We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY)**
+
+- [00:28:28](/episodes/ep-JrhGEm8MGRY#t-00-28-28): _A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company._
 
 **[The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA)**
 

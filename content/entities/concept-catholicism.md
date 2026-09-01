@@ -383,10 +383,10 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 > "...ian and there's no mention of Catholicism and she's a totally different person."
 
 **[00:47:18](/episodes/ep-9CuC1yf8-PU.md#ent-concept-catholicism-t-00-47-18)**
-> "... Vance drops a book about his catholicism it's a bit dizzying i think for a lot of people a..."
+> "express how we're all feeling about the ridiculousness of everything. I actually don't have a lot of resentment for J.D. Vance, and I don't think Tim Dillon does either. But the idea of everything that we've just lived through with Iran and the gaslighting and the Epstein files and the Charlie Kirk assassination, and then J.D. Vance drops a book about his Catholicism, is a bit dizzying, I think, for a lot of people. Tim Dillon decided to do a reading of J.D. Vance's book, or something like a reading of J.D. Vance's book."
 
-**[00:47:30](/episodes/ep-9CuC1yf8-PU.md#ent-concept-catholicism-t-00-47-18)**
-> "... Vance drops a book about his Catholicism. It's a bit dizzying, I think, for a lot of peopl..."
+**[00:47:18](/episodes/ep-9CuC1yf8-PU.md#ent-concept-catholicism-t-00-47-18)**
+> "express how we're all feeling about the ridiculousness of everything. I actually don't have a lot of resentment for J.D. Vance, and I don't think Tim Dillon does either. But the idea of everything that we've just lived through with Iran and the gaslighting and the Epstein files and the Charlie Kirk assassination, and then J.D. Vance drops a book about his Catholicism, is a bit dizzying, I think, for a lot of people. Tim Dillon decided to do a reading of J.D. Vance's book, or something like a reading of J.D. Vance's book."
 
 </details>
 

@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Network Contagion Research Institute](/entities/org-network-contagion-research-institute) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY)**
+
+- [00:28:28](/episodes/ep-JrhGEm8MGRY#t-00-28-28): _A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company._
 
 **[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
 

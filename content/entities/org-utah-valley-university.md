@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 253 mentions"
+description: "Utah Valley University (Organizations) - 255 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -27,11 +27,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-utah-valley-university-t-00-18-46">2026-08-21 · 00:18:46</a></strong></div>
-<div><span>Episodes</span><strong>76</strong></div>
-<div><span>Mentions</span><strong>253</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-utah-valley-university-t-00-29-53">2026-08-31 · 00:29:53</a></strong></div>
+<div><span>Episodes</span><strong>77</strong></div>
+<div><span>Mentions</span><strong>255</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>73</strong></div>
+<div><span>Statements about</span><strong>75</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -116,6 +116,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-utah-valley-university-t-00-05-31" style="--pulse-height:44%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 4 mentions" title="2026-08-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-utah-valley-university-t-00-11-57" style="--pulse-height:11%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-utah-valley-university-t-00-18-46" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-utah-valley-university-t-00-29-08" style="--pulse-height:22%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -197,6 +198,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-utah-valley-university-t-00-05-31) | 4 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-utah-valley-university-t-00-11-57) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-utah-valley-university-t-00-18-46) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-utah-valley-university-t-00-29-08) | 2 |
 
 </details>
 </section>
@@ -208,7 +210,18 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (253)</strong></summary>
+<summary><strong class="section-title">Raw mentions (255)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
+
+**[00:29:41](/episodes/ep-JrhGEm8MGRY.md#ent-org-utah-valley-university-t-00-29-08)**
+> "at UVU. She could look like if she put her hair in a ponytail, put on a hat and put those glasses down, I would be just as convinced. Like I said, just a standard Caucasian person."
+
+**[00:29:53](/episodes/ep-JrhGEm8MGRY.md#ent-org-utah-valley-university-t-00-29-53)**
+> "...erson walking up the steps at UVU. Anyway, she kind of gets a little jet fuel becau..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -1554,7 +1567,15 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (73)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (75)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:29:20](/episodes/ep-JrhGEm8MGRY.md#t-00-29-08) (Accusation) **Candace Owens**: ["Owens suggested that Jennica Pounds could be the person shown walking ..."](/statements/statement-103afdff4d24.md)
+  - Also about: [Jennica Pounds](/entities/person-jennica-pounds.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -1686,6 +1707,14 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 - [00:14:52](/episodes/ep-X3VKJVJ7cN4.md#t-00-14-52) (Claim) **Blake Neff**: ["Neff said the SUV drove somewhere, parked, and marked time until the U..."](/statements/statement-64efeb38f46e.md)
   - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1)</summary>
+
+- [00:20:08](/episodes/ep-h76ZN-xXC6c.md#t-00-19-54) (Claim) **News reporter (unidentified)**: ["A news reporter said petitions were asking the university to turn the ..."](/statements/statement-e3a4c07fddbf.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

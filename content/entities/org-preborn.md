@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 226 mentions"
+description: "PreBorn! (Organizations) - 228 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-preborn-t-00-28-26">2026-08-18 · 00:28:33</a></strong></div>
-<div><span>Episodes</span><strong>73</strong></div>
-<div><span>Mentions</span><strong>226</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-preborn-t-00-25-48">2026-08-31 · 00:26:18</a></strong></div>
+<div><span>Episodes</span><strong>74</strong></div>
+<div><span>Mentions</span><strong>228</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -88,7 +88,7 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-preborn-t-00-25-19" style="--pulse-height:29%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-preborn-t-00-41-36" style="--pulse-height:29%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-preborn-t-00-25-25" style="--pulse-height:57%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-preborn-t-00-26-50" style="--pulse-height:71%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-preborn-t-00-26-50" style="--pulse-height:57%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 4 mentions" title="2026-05-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-preborn-t-00-13-56" style="--pulse-height:57%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 4 mentions" title="2026-05-19 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-preborn-t-00-26-38" style="--pulse-height:29%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-preborn-t-00-29-14" style="--pulse-height:14%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
@@ -110,6 +110,7 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-org-preborn-t-00-28-00" style="--pulse-height:43%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 3 mentions" title="2026-08-11 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-preborn-t-00-55-34" style="--pulse-height:29%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-preborn-t-00-27-47" style="--pulse-height:29%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-preborn-t-00-25-03" style="--pulse-height:29%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -166,7 +167,7 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-preborn-t-00-25-19) | 2 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-preborn-t-00-41-36) | 2 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-preborn-t-00-25-25) | 4 |
-| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-preborn-t-00-26-50) | 5 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-preborn-t-00-26-50) | 4 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-preborn-t-00-13-56) | 4 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-preborn-t-00-26-38) | 2 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-preborn-t-00-29-14) | 1 |
@@ -188,6 +189,7 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-preborn-t-00-28-00) | 3 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-preborn-t-00-55-34) | 2 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-preborn-t-00-27-47) | 2 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-preborn-t-00-25-03) | 2 |
 
 </details>
 </section>
@@ -195,7 +197,18 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (226)</strong></summary>
+<summary><strong class="section-title">Raw mentions (228)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
+
+**[00:25:30](/episodes/ep-JrhGEm8MGRY.md#ent-org-preborn-t-00-25-03)**
+> "...k you from my friends over at Preborn."
+
+**[00:26:18](/episodes/ep-JrhGEm8MGRY.md#ent-org-preborn-t-00-25-48)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>
@@ -486,16 +499,13 @@ Source: [PreBorn!](https://preborn.com/)
 </details>
 
 <details>
-<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (5 mentions)</summary>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (4 mentions)</summary>
 
 **[00:27:20](/episodes/ep-Pb7UlpRdW6U.md#ent-org-preborn-t-00-26-50)**
 > "...he'll choose life. That's why Preborn exists through free ultrasounds, compassionate ca..."
 
 **[00:27:27](/episodes/ep-Pb7UlpRdW6U.md#ent-org-preborn-t-00-27-27)**
 > "Preborn reaches women who feel overwhelmed and alone, giv..."
-
-**[00:27:35](/episodes/ep-Pb7UlpRdW6U.md#ent-org-preborn-t-00-27-27)**
-> "Preborn continues helping moms after birth with essential..."
 
 **[00:27:53](/episodes/ep-Pb7UlpRdW6U.md#ent-org-preborn-t-00-27-27)**
 > "...at's pound 250 baby, or visit preborn.com slash candace. Again, that's preborn.com slas..."
@@ -1255,13 +1265,14 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Has President (1)</summary>
 
 - **[Dan Steiner](/entities/person-dan-steiner.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:26:54](/episodes/ep-1CFDtD0IgEg.md#t-00-26-23): “I want to pass along a heartfelt thank you from my friends over at Preborn. ... Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:26:30](/episodes/ep-ChuWo-n49B8.md#t-00-26-11): “Their president, Dan Steiner, asked me to share just how grateful they are for the faithful supporters like you.”
 - [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:28:08](/episodes/ep-HGtMfbePDKk.md#t-00-28-00): “All right, you guys, I want to pass along a heartfelt thank you from my friends over at Preborn. Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:55:42](/episodes/ep-E7P2ShoYDUA.md#t-00-55-34): “Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:27:47](/episodes/ep-4JxgOclKzqg.md#t-00-27-47): “All right, you guys, I want to pass along a heartfelt thank you from my friends over at Preborn. Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:25:34](/episodes/ep-JrhGEm8MGRY.md#t-00-25-03): “Their president, Dan Steiner, asked me to express just how grateful they are for faithful supporters like you.”
 
 </details>
 
@@ -1299,13 +1310,14 @@ Source: [PreBorn!](https://preborn.com/)
 </details>
 
 - **[Dan Steiner](/entities/person-dan-steiner.md)** president of this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:26:54](/episodes/ep-1CFDtD0IgEg.md#t-00-26-23): “I want to pass along a heartfelt thank you from my friends over at Preborn. ... Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:26:30](/episodes/ep-ChuWo-n49B8.md#t-00-26-11): “Their president, Dan Steiner, asked me to share just how grateful they are for the faithful supporters like you.”
 - [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:28:08](/episodes/ep-HGtMfbePDKk.md#t-00-28-00): “All right, you guys, I want to pass along a heartfelt thank you from my friends over at Preborn. Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:55:42](/episodes/ep-E7P2ShoYDUA.md#t-00-55-34): “Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:27:47](/episodes/ep-4JxgOclKzqg.md#t-00-27-47): “All right, you guys, I want to pass along a heartfelt thank you from my friends over at Preborn. Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:25:34](/episodes/ep-JrhGEm8MGRY.md#t-00-25-03): “Their president, Dan Steiner, asked me to express just how grateful they are for faithful supporters like you.”
 
 </details>
 
@@ -1315,6 +1327,24 @@ Source: [PreBorn!](https://preborn.com/)
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:27:20](/episodes/ep-w1oqQbR_bYs.md#t-00-26-46): “we have to double down on supporting life through our partnership with Preborn.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about PreBorn! (3)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3)</summary>
+
+- [00:25:39](/episodes/ep-JrhGEm8MGRY.md#t-00-25-03) (Claim) **Candace Owens**: ["Owens said PreBorn’s supporters had helped save more than 50,000 babie..."](/statements/statement-c52d90979686.md)
+  - Also about: [Abortion](/entities/concept-abortion.md)
+
+- [00:25:48](/episodes/ep-JrhGEm8MGRY.md#t-00-25-48) (Claim) **Candace Owens**: ["Owens said more than 8,000 women had decided to follow Christ that yea..."](/statements/statement-e298e66d1024.md)
+  - Also about: [Jesus Christ](/entities/person-jesus-christ.md)
+
+- [00:25:57](/episodes/ep-JrhGEm8MGRY.md#t-00-25-48) (Claim) **Candace Owens**: ["Owens said a PreBorn ultrasound costs $28 and placing an ultrasound ma..."](/statements/statement-e5ced0fabe1f.md)
 
 </details>
 

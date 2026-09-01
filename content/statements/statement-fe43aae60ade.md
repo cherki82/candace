@@ -32,7 +32,7 @@ veracity: "mixed"
 **Timestamp:** [00:21:32](/episodes/ep-IqHsl7d2dos.md#t-00-21-08) 
 <a href="https://www.youtube.com/watch?v=IqHsl7d2dos&t=1292s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> In fact, there is a current class action lawsuit that's making its way through the court system right now against next model management. ... They're named as a defendant alongside MC2, Jean-Luc Brunel's agency named as defendants. ... Paychecks deducted up to 70%, which kept them dependent as underaged workers while the industry completely controlled their work, completely controlled their money, their access, their housing. ... Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Cates and Next Model Management, which he started with Faith Cates, are all listed as defendants in these allegations, which span back decades.
+> In fact, there is a current class action lawsuit that's making its way through the court system right now against next model management. ... They're named as a defendant alongside MC2, Jean-Luc Brunel's agency named as defendants. ... Paychecks deducted up to 70%, which kept them dependent as underaged workers while the industry completely controlled their work, completely controlled their money, their access, their housing. ... Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Kates and Next Model Management, which he started with Faith Kates, are all listed as defendants in these allegations, which span back decades.
 
 ## Verification
 

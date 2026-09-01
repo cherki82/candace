@@ -28,7 +28,7 @@ Source: [USB Implementers Forum: About USB-IF](https://www.usb.org/about)
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -47,6 +47,10 @@ Source: [USB Implementers Forum: About USB-IF](https://www.usb.org/about)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -96,7 +100,7 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
 
-- [00:03:15](/episodes/ep-sKuYLNx3iRo.md#t-00-02-46) (Claim) **RØDE microphone shard email tipster (name unstated)** (via read message): ["An anonymous email tipster said they thought there was no room for dou..."](/statements/statement-9cbf0a587f03.md)
+- [00:03:15](/episodes/ep-sKuYLNx3iRo.md#t-00-02-46) (Claim) **Anonymous RØDE USB-logo image tipster** (via read message): ["An anonymous email tipster said they thought there was no room for dou..."](/statements/statement-9cbf0a587f03.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
 
 </details>

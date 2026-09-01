@@ -26,7 +26,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <div><span>Episodes</span><strong>52</strong></div>
 <div><span>Mentions</span><strong>341</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
-<div><span>Statements about</span><strong>117</strong></div>
+<div><span>Statements about</span><strong>118</strong></div>
 <div><span>Relationships</span><strong>36</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -463,7 +463,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 > "...f day. So let's review Brian (Brian Harpole)'s claim so that you understand them. Okay. First..."
 
 **[00:09:30](/episodes/ep-sKuYLNx3iRo.md#ent-person-brian-harpole-t-00-09-14)**
-> "...Justin Davis driving. We have Brian Harpole, Rick Cutler in that middle row."
+> "We have Brian Harpole and Rick Cutler in that middle row."
 
 **[00:09:45](/episodes/ep-sKuYLNx3iRo.md#ent-person-brian-harpole-t-00-09-14)**
 > "...re are the facts based off of Brian Harpole's testimony."
@@ -1987,7 +1987,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (117)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (118)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
@@ -2126,10 +2126,13 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1)</summary>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2)</summary>
 
 - [00:09:57](/episodes/ep-9CuC1yf8-PU.md#t-00-09-30) (Accusation) **Candace Owens**: ["Brian Harpole lied badly to Shawn Ryan in an interview"](/statements/statement-bf4a6840e928.md)
   - Also about: [Shawn Ryan](/entities/person-shawn-ryan.md)
+
+- [00:10:04](/episodes/ep-9CuC1yf8-PU.md#t-00-09-30) (Accusation) **Candace Owens**: ["Owens inferred that the FBI's seizure of hospital camera footage preve..."](/statements/statement-843d0661b4a9.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

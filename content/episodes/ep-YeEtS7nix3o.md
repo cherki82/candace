@@ -1,14 +1,14 @@
 ---
 id: "YeEtS7nix3o"
 title: "I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345"
-description: "I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 - 125 entities, 12 events, 34 factual claims"
+description: "I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 - 125 entities, 12 events, 35 factual claims"
 published: "2026-06-09"
 youtube_url: "https://www.youtube.com/watch?v=YeEtS7nix3o"
 ---
 
 **Published:** 2026-06-09 | [Watch on YouTube](https://www.youtube.com/watch?v=YeEtS7nix3o)
 
-**Stats:** 125 entities | 12 events | 34 factual claims
+**Stats:** 125 entities | 12 events | 35 factual claims
 
 ---
 
@@ -346,7 +346,7 @@ youtube_url: "https://www.youtube.com/watch?v=YeEtS7nix3o"
 
 **<a href="/timestamps/ep-YeEtS7nix3o/t-01-05-58.md" class="timestamp-link">01:05:58</a> <a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=3958" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I hope you're well. We're seeking comment on two questions. Deadline is tomorrow by 4 p.m. I meant to say a confirmation on the third, but I only said comment on two questions. There was a video circulating online from your WLS event during which <span id="ent-person-charlie-kirk-t-01-05-58"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span> seemingly appoints <span id="ent-person-erika-kirk-t-01-05-58"><a href="/entities/person-erika-kirk.md">Erika</a></span> to run <span id="ent-org-turning-point-usa-t-01-05-58"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span> in his absence. Can you confirm that the video shared is entirely authentic? It has not been doctored in any way. A simple yes or no will suffice. Is the video shared within its proper context, meaning Charlie? really was not speaking in jest. And then the third, I just wrote, we have confirmed that these are for donors names. And like, do you dispute this? ^t-01-05-58
 
-**<a href="/timestamps/ep-YeEtS7nix3o/t-01-06-30.md" class="timestamp-link">01:06:30</a> <a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=3990" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And then the third, I just wrote, we have confirmed that these are four donors' names, and, like, do you dispute this? Anyway, we got a response from not anyone at <span id="ent-org-turning-point-usa-t-01-06-30"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span>, but rather the <a href="/entities/org-turning-point-usa.md">TPUSA</a> X feed. Now I'll tell you why this is significant. I messaged <span id="ent-person-andrew-kolvet-t-01-06-30"><a href="/entities/person-andrew-kolvet.md">Andrew Kolvet</a></span>, I messaged <span id="ent-person-justin-streiff-t-01-06-30"><a href="/entities/person-justin-streiff.md">Justin</a></span> Streif, and I messaged the lawyer that they use to answer questions. These are, you know, top brass, so to speak, at <a href="/entities/org-turning-point-usa.md">Turning Point USA</a> who could give an official response. The last time somebody on X who runs the <a href="/entities/org-turning-point-usa.md">TPUSA</a> account said something about <span id="ent-person-thomas-massie-t-01-06-30"><a href="/entities/person-thomas-massie.md">Thomas Massie</a></span>, Andrew Colvet made a phone call and said, oh, we don't run our <a href="/entities/org-turning-point-usa.md">TPUSA</a> account. An intern runs that. If you can find this online, the back and forth between <a href="/entities/person-thomas-massie.md">Thomas Massie</a>, that wasn't <a href="/entities/org-turning-point-usa.md">Turning Point USA</a>. ^t-01-06-30
+**<a href="/timestamps/ep-YeEtS7nix3o/t-01-06-30.md" class="timestamp-link">01:06:30</a> <a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=3990" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And then the third, I just wrote, we have confirmed that these are four donors' names, and, like, do you dispute this? Anyway, we got a response from not anyone at <span id="ent-org-turning-point-usa-t-01-06-30"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span>, but rather the <a href="/entities/org-turning-point-usa.md">TPUSA</a> X feed. Now I'll tell you why this is significant. I messaged <span id="ent-person-andrew-kolvet-t-01-06-30"><a href="/entities/person-andrew-kolvet.md">Andrew Kolvet</a></span>, I messaged <span id="ent-person-justin-streiff-t-01-06-30"><a href="/entities/person-justin-streiff.md">Justin</a></span> Streif, and I messaged the lawyer that they use to answer questions. These are, you know, top brass, so to speak, at <a href="/entities/org-turning-point-usa.md">Turning Point USA</a> who could give an official response. The last time somebody on X who runs the <a href="/entities/org-turning-point-usa.md">TPUSA</a> account said something about <span id="ent-person-thomas-massie-t-01-06-30"><a href="/entities/person-thomas-massie.md">Thomas Massie</a></span>, <a href="/entities/person-andrew-kolvet.md">Andrew Kolvet</a> made a phone call and said, oh, we don't run our <a href="/entities/org-turning-point-usa.md">TPUSA</a> account. An intern runs that. If you can find this online, the back and forth between <a href="/entities/person-thomas-massie.md">Thomas Massie</a>, that wasn't <a href="/entities/org-turning-point-usa.md">Turning Point USA</a>. ^t-01-06-30
 
 **<a href="/timestamps/ep-YeEtS7nix3o/t-01-07-11.md" class="timestamp-link">01:07:11</a> <a href="https://www.youtube.com/watch?v=YeEtS7nix3o&t=4031" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** That account isn't run by anybody who's at the exec level and we apologize for that. that. So it's weird that they chose to reply by not replying about whether or not it was doctored on X right at the beginning of the show. Here is what they wrote. You're all, hey, <span id="ent-person-candace-owens-t-01-07-11"><a href="/entities/person-candace-owens.md">Candace</a></span>, the video is real, as you apparently have known for seven months. I'm not saying the video itself is not real. When people were online were saying this is not from <span id="ent-gpe-aspen-colorado-t-01-07-11"><a href="/entities/gpe-aspen-colorado.md">Aspen</a></span>, I never said that. I never confirmed that. Charlie wasn't kidding. Your obsession is unhinged. Hope that takes care of your show prep for the next couple of weeks. Welcome back to the greatest country on the planet. P.S. That's three questions, Comrade. Onward! With a little flag. ^t-01-07-11
 
@@ -440,7 +440,7 @@ youtube_url: "https://www.youtube.com/watch?v=YeEtS7nix3o"
 </details>
 
 <details>
-<summary><strong>Statements (62)</strong></summary>
+<summary><strong>Statements (64)</strong></summary>
 
 - [00:02:59](#t-00-02-34) [○] (Claim) **Candace Owens**: ["Candace Owens said she and her husband formally requested an interview with Vlad..."](/statements/statement-4552f6909816.md)
   - About: [Vladimir Putin](/entities/person-vladimir-putin.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -554,12 +554,16 @@ youtube_url: "https://www.youtube.com/watch?v=YeEtS7nix3o"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Steve Jobs](/entities/person-steve-jobs.md)
 - [01:03:01](#t-01-02-42) [○] (Accusation) **Anonymous Source #3 (Ep YeEtS7nix3o)**: ["Anonymous attendees told Candace Owens they believed the Charlie Kirk succession..."](/statements/statement-2feb641a2627.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [01:04:20](#t-01-03-53) [○] (Claim) **Candace Owens**: ["In Charlie Kirk's final Aspen presentation, Erika Kirk was mentioned only as inv..."](/statements/statement-acc715af2efa.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 - [01:05:19](#t-01-05-19) [✓] (Promise) **Charlie Kirk**: ["Charlie Kirk said he appointed his wife to run Turning Point USA if something ha..."](/statements/statement-71dc7ef1f4b7.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [01:05:27](#t-01-05-27) [✓] (Accusation) **Candace Owens**: ["Candace Owens said definitively that she believed the Charlie Kirk succession cl..."](/statements/statement-99cf1977d5ee.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [01:07:26](#t-01-07-11) [✓] (Claim) **Turning Point USA**: ["Turning Point USA wrote that the succession video was real, Charlie Kirk was not..."](/statements/statement-e41168e9935c.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+- [01:07:26](#t-01-07-11) [○] (Accusation) **Candace Owens**: ["Turning Point USA's social-media reply called the succession video real, said Ca..."](/statements/statement-418c914b4afb.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [01:09:21](#t-01-09-14) [○] (Claim) **Candace Owens**: ["Candace Owens said Turning Point USA entered relationships with AI companies spe..."](/statements/statement-4690a699415f.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
 - [01:19:33](#t-01-19-11) [○] (Claim) **Candace Owens**: ["Candace Owens said the White House responded to her FOIA request by asking her t..."](/statements/statement-37e593127fbe.md)

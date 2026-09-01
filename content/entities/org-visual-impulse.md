@@ -26,9 +26,9 @@ Source: [BBB Business Profile — Visual Impulse, LLC](https://www.bbb.org/us/az
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -51,6 +51,10 @@ Source: [BBB Business Profile — Visual Impulse, LLC](https://www.bbb.org/us/az
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -182,7 +186,7 @@ Source: [BBB Business Profile — Visual Impulse, LLC](https://www.bbb.org/us/az
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Visual Impulse, LLC (2)</strong></summary>
+<summary><strong class="section-title">Statements about Visual Impulse, LLC (3)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1)</summary>
@@ -193,10 +197,13 @@ Source: [BBB Business Profile — Visual Impulse, LLC](https://www.bbb.org/us/az
 </details>
 
 <details>
-<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1)</summary>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2)</summary>
 
 - [00:08:20](/episodes/ep-VMNWMXX1vO8.md#t-00-08-20) (Claim) **Candace Owens**: ["At Charlie Kirk's request, Terrell Farnsworth's team was removed from ..."](/statements/statement-b1596f5cb911.md)
   - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:11:35](/episodes/ep-VMNWMXX1vO8.md#t-00-11-20) (Claim) **Candace Owens**: ["Owens said Aaron Edwards also worked for Visual Impulse and attended t..."](/statements/statement-5034a6cce1c8.md)
+  - Also about: [Aaron Edwards](/entities/person-aaron-edwards.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 </details>
 

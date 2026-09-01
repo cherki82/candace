@@ -1,14 +1,14 @@
 ---
 id: "3QJqtW_NOSI"
 title: "The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352"
-description: "The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 - 116 entities, 14 events, 17 factual claims"
+description: "The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 - 116 entities, 14 events, 18 factual claims"
 published: "2026-06-18"
 youtube_url: "https://www.youtube.com/watch?v=3QJqtW_NOSI"
 ---
 
 **Published:** 2026-06-18 | [Watch on YouTube](https://www.youtube.com/watch?v=3QJqtW_NOSI)
 
-**Stats:** 116 entities | 14 events | 17 factual claims
+**Stats:** 116 entities | 14 events | 18 factual claims
 
 ---
 
@@ -235,7 +235,7 @@ youtube_url: "https://www.youtube.com/watch?v=3QJqtW_NOSI"
 </details>
 
 <details>
-<summary><strong>Statements (48)</strong></summary>
+<summary><strong>Statements (51)</strong></summary>
 
 - [00:00:01](#t-00-00-01) [◐] (Citation) **Candace Owens**: ["Owens cited a New York Times article as reporting that Trump administration offi..."](/statements/statement-41af199afa3a.md)
   - About: [The New York Times](/entities/org-the-new-york-times.md), [Donald J. Trump](/entities/person-donald-trump.md), [Pam Bondi](/entities/person-pam-bondi.md)
@@ -309,8 +309,14 @@ youtube_url: "https://www.youtube.com/watch?v=3QJqtW_NOSI"
   - About: [Stephen A. Feinberg](/entities/person-stephen-a-feinberg.md), [Cerberus Capital Management](/entities/org-cerberus-capital-management.md)
 - [00:24:08](#t-00-24-08) [○] (Accusation) **Anonymous Source #1 (Ep 3QJqtW_NOSI)**: ["An unnamed source told Owens that the Trump administration was trying to make FO..."](/statements/statement-cdf9fcf3b57b.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
+- [00:24:21](#t-00-24-08) [○] (Opinion) **Candace Owens**: ["Owens said the relationship between the Trump administration and Turning Point U..."](/statements/statement-2b97002310a5.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:25:23](#t-00-25-16) [○] (Citation) **Candace Owens**: ["The Department of War directed people to artificially boost Erika Kirk's 'I want..."](/statements/statement-b363fa11b8e4.md)
   - About: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:26:07](#t-00-25-48) [○] (Claim) **Candace Owens**: ["Owens said Michael McCoy's wife, Elizabeth Kravchuk, was another person in the T..."](/statements/statement-311e3930d4d5.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+- [00:27:02](#t-00-26-32) [○] (Citation) **Candace Owens**: ["Owens cited Good Call Ministries' website as listing rescue operations for refug..."](/statements/statement-cc1b394df29f.md)
+  - About: [Good Call Ministries](/entities/org-good-call-ministries.md)
 - [00:32:16](#t-00-32-06) [○] (Opinion) **Candace Owens**: ["Owens said she did not believe Donald Trump was merely an unwitting victim of th..."](/statements/statement-7cf6e7a4143a.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:35:33](#t-00-35-33) [✓] (Opinion) **Emily Ratajkowski**: ["Emily Ratajkowski wrote that after her divorce and during compulsive dating she ..."](/statements/statement-2957d8c9724d.md)

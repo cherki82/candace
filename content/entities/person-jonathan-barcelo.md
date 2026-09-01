@@ -59,7 +59,7 @@ Source: [Jonathan Barcelo professional profile](https://us.bold.pro/my/jonathan-
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
 
 **[00:19:51](/episodes/ep-WoXd4oLwd3w.md#ent-person-jonathan-barcelo-t-00-19-44)**
-> "It was at one point Mikey (Michael McCoy)'s assistant. Derek Nekerk (bodyguard; surname spelling unverified), who's a bodyguard. Jonathan Barcelo, who is a Marine."
+> "It was at one point Mikey (Michael McCoy)'s assistant. Derek Niekerk (bodyguard; surname spelling unverified), who's a bodyguard. Jonathan Barcelo, who is a Marine."
 
 </details>
 

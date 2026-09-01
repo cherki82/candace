@@ -26,7 +26,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <div><span>Episodes</span><strong>22</strong></div>
 <div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>33</strong></div>
+<div><span>Statements about</span><strong>34</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -397,7 +397,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (33)</strong></summary>
+<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (34)</strong></summary>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (8)</summary>
@@ -482,10 +482,13 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details>
-<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1)</summary>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2)</summary>
 
 - [00:05:52](/episodes/ep-9CuC1yf8-PU.md#t-00-05-52) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole said he cut Charlie Kirk's white Freedom shirt off at th..."](/statements/statement-4ed72d01c5bb.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:10:04](/episodes/ep-9CuC1yf8-PU.md#t-00-09-30) (Accusation) **Candace Owens**: ["Owens inferred that the FBI's seizure of hospital camera footage preve..."](/statements/statement-843d0661b4a9.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

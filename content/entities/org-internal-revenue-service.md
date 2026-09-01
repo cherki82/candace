@@ -1,6 +1,6 @@
 ---
 title: "Internal Revenue Service"
-description: "Internal Revenue Service (Organizations) - 168 mentions"
+description: "Internal Revenue Service (Organizations) - 172 mentions"
 id: "org-internal-revenue-service"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-internal-revenue-service-t-01-05-44">2025-09-16 · 01:06:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-15-28">2026-08-17 · 01:15:51</a></strong></div>
-<div><span>Episodes</span><strong>49</strong></div>
-<div><span>Mentions</span><strong>168</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-internal-revenue-service-t-00-41-10">2026-08-31 · 00:41:44</a></strong></div>
+<div><span>Episodes</span><strong>50</strong></div>
+<div><span>Mentions</span><strong>172</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -84,6 +84,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-internal-revenue-service-t-00-25-23" style="--pulse-height:80%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 4 mentions" title="2026-08-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-internal-revenue-service-t-02-31-28" style="--pulse-height:80%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-14-47" style="--pulse-height:80%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 4 mentions" title="2026-08-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-internal-revenue-service-t-00-41-10" style="--pulse-height:80%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -138,6 +139,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-internal-revenue-service-t-00-25-23) | 4 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-internal-revenue-service-t-02-31-28) | 4 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-14-47) | 4 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-internal-revenue-service-t-00-41-10) | 4 |
 
 </details>
 </section>
@@ -145,7 +147,24 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (168)</strong></summary>
+<summary><strong class="section-title">Raw mentions (172)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (4 mentions)</summary>
+
+**[00:41:16](/episodes/ep-JrhGEm8MGRY.md#ent-org-internal-revenue-service-t-00-41-10)**
+> "Whatever caused the problem, one thing is certain, the IRS penalties and interest keep adding up every single month."
+
+**[00:41:24](/episodes/ep-JrhGEm8MGRY.md#ent-org-internal-revenue-service-t-00-41-10)**
+> "Before the IRS starts sending more letters, garnishing wages or ..."
+
+**[00:41:31](/episodes/ep-JrhGEm8MGRY.md#ent-org-internal-revenue-service-t-00-41-10)**
+> "... unfiled returns, and serious IRS problems."
+
+**[00:41:44](/episodes/ep-JrhGEm8MGRY.md#ent-org-internal-revenue-service-t-00-41-10)**
+> "... now, they're offering a free IRS investigative call to find out exactly what you o..."
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (4 mentions)</summary>
@@ -899,5 +918,21 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Internal Revenue Service (2)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2)</summary>
+
+- [00:41:31](/episodes/ep-JrhGEm8MGRY.md#t-00-41-10) (Claim) **Candace Owens**: ["Owens said Tax Network USA had helped taxpayers nationwide for more th..."](/statements/statement-de53d65453f2.md)
+  - Also about: [Tax Network USA](/entities/org-tax-network-usa.md)
+
+- [00:41:38](/episodes/ep-JrhGEm8MGRY.md#t-00-41-10) (Claim) **Candace Owens**: ["Owens said Tax Network USA had resolved more than $1 billion in tax de..."](/statements/statement-23ee838eb418.md)
+  - Also about: [Tax Network USA](/entities/org-tax-network-usa.md)
+
+</details>
 
 </details>

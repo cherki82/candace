@@ -82,7 +82,7 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (6 mentions)</summary>
 
 **[00:38:00](/episodes/ep-Pb7UlpRdW6U.md#ent-person-gary-melton-t-00-38-00)**
-> "... it would kind of be relevant Gary Melton if these are in fact her children okay so this is..."
+> "Do you know what an alibi is? If you're saying her alibi is that she was with her children, it would be relevant, Gary Melton, if these are in fact her children. Okay, so this is what he tweeted. This is peak hilarity. He tweeted, 'The fact is we don't know. It hasn't been clarified by Erika Kirk, but it doesn't matter.'"
 
 **[00:38:30](/episodes/ep-Pb7UlpRdW6U.md#ent-person-gary-melton-t-00-38-00)**
 > "... Huachuca on the night. Gary (Gary Melton), let's just take apart that sentence."

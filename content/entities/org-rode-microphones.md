@@ -28,7 +28,7 @@ Source: [About RØDE](https://rode.com/en-mt/about/about-rode)
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>45</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>26</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -256,7 +256,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about RØDE Microphones (22)</strong></summary>
+<summary><strong class="section-title">Statements about RØDE Microphones (26)</strong></summary>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (2)</summary>
@@ -280,7 +280,7 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (4)</summary>
 
-- [00:03:15](/episodes/ep-sKuYLNx3iRo.md#t-00-02-46) (Claim) **RØDE microphone shard email tipster (name unstated)** (via read message): ["An anonymous email tipster said they thought there was no room for dou..."](/statements/statement-9cbf0a587f03.md)
+- [00:03:15](/episodes/ep-sKuYLNx3iRo.md#t-00-02-46) (Claim) **Anonymous RØDE USB-logo image tipster** (via read message): ["An anonymous email tipster said they thought there was no room for dou..."](/statements/statement-9cbf0a587f03.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Universal Serial Bus](/entities/concept-universal-serial-bus.md)
 
 - [00:04:24](/episodes/ep-sKuYLNx3iRo.md#t-00-04-08) (Claim) **Candace Owens**: ["Owens said, "I do believe firmly" that the shattered pieces on the veh..."](/statements/statement-76d5ac756065.md)
@@ -295,7 +295,10 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (5)</summary>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (6)</summary>
+
+- [00:03:11](/episodes/ep-9CuC1yf8-PU.md#t-00-02-54) (Opinion) **Candace Owens**: ["Owens said Charlie Kirk's white Freedom shirt could carry explosive re..."](/statements/statement-3f5b02d2303e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:14:08](/episodes/ep-9CuC1yf8-PU.md#t-00-13-42) (Opinion) **RØDE microphone shard email tipster (name unstated)** (via read message): ["The anonymous email tipster said enhanced SUV images should make it po..."](/statements/statement-ca38a0651161.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -338,13 +341,22 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (3)</summary>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (6)</summary>
 
 - [00:03:08](/episodes/ep-h76ZN-xXC6c.md#t-00-03-00) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk may have been killed by a RØDE wireles..."](/statements/statement-d98c1d72c175.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:04:55](/episodes/ep-h76ZN-xXC6c.md#t-00-04-25) (Claim) **Candace Owens**: ["Owens said Charlie Kirk may have begun using a wireless microphone in ..."](/statements/statement-5e7ffeabd087.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:54](/episodes/ep-h76ZN-xXC6c.md#t-00-05-39) (Opinion) **Candace Owens**: ["Candace Owens acknowledged that Turning Point USA could have had an or..."](/statements/statement-ddbe6f5dd9ff.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:27:52](/episodes/ep-h76ZN-xXC6c.md#t-00-27-45) (Opinion) **Candace Owens**: ["Candace Owens acknowledged that the vehicle debris attributed to a sha..."](/statements/statement-8a3c67cea3d5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:44:35](/episodes/ep-h76ZN-xXC6c.md#t-00-44-35) (Accusation) **Candace Owens**: ["Candace Owens said some theorists believed the rigged microphone devic..."](/statements/statement-446b0fd886f1.md)
+  - Also about: [Accurate Energetic Systems, LLC](/entities/org-accurate-energetic-systems.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [01:09:05](/episodes/ep-h76ZN-xXC6c.md#t-01-08-51) (Claim) **Candace Owens**: ["Owens said Charlie Kirk's necklace visibly broke before he reacted to ..."](/statements/statement-d9cd5981541c.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)

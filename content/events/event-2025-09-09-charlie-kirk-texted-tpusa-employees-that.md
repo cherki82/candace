@@ -16,7 +16,7 @@ date: "2025-09-09"
 
 > Charlie Kirk texted TPUSA employees that he wanted to invite Candace Owens to AmericaFest.
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Cand...
 
@@ -57,3 +57,11 @@ date: "2025-09-09"
 <a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=959s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he texted multiple people and he was done and that he wanted to bring me back.
+
+### 6. We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland...
+
+**Episode:** [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md)
+**Timestamp:** [00:46:47](/episodes/ep-JrhGEm8MGRY.md#event-event-2025-09-09-charlie-kirk-texted-tpusa-employees-that-t-00-46-39)
+<a href="https://www.youtube.com/watch?v=JrhGEm8MGRY&t=2807s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> he had texted multiple people on September 9th saying that he wanted me back.

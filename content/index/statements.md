@@ -1,11 +1,11 @@
 ---
 title: "Claims & Statements"
-description: "Browse 3706 factual claims and 6833 attributed statements"
+description: "Browse 3744 factual claims and 6940 attributed statements"
 ---
 
 # Claims & Statements
 
-_3706 factual claims within 6833 attributed statements._
+_3744 factual claims within 6940 attributed statements._
 
 [Open the filterable Claims Explorer](/index/claims) to browse claims by date, speaker, entity, and verification outcome.
 
@@ -36,7 +36,7 @@ _3706 factual claims within 6833 attributed statements._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (160)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (161)</label>
 </div>
 
 <style>
@@ -53,7 +53,144 @@ _3706 factual claims within 6833 attributed statements._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Factual Claims (3706)</strong></summary>
+<summary><strong class="section-title">Factual Claims (3744)</strong></summary>
+
+<details>
+<summary>2026-08-31 · We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (22)</summary>
+
+<div class="filter-item" data-filter-key="statement-4dcc9903ce74">
+
+- [00:04:22](/episodes/ep-JrhGEm8MGRY.md#t-00-04-22) [○] **Candace Owens**: ["Candace Owens said she met George Farmer at a London event hosted by John and Ir..."](/statements/statement-4dcc9903ce74.md)
+  - About: [George Farmer](/entities/person-george-farmer.md), [John Mappin](/entities/person-john-mappin.md), [Irina Mappin](/entities/person-irina-mappin.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7e6a1b77fd19">
+
+- [00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54) [○] **Candace Owens**: ["Owens said John and Irina Mappin helped take Turning Point USA to a higher finan..."](/statements/statement-7e6a1b77fd19.md)
+  - About: [John Mappin](/entities/person-john-mappin.md), [Irina Mappin](/entities/person-irina-mappin.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d451b1393730">
+
+- [00:05:38](/episodes/ep-JrhGEm8MGRY.md#t-00-05-38) [○] **Candace Owens**: ["Owens said Charlie Kirk, Erika Kirk, John Mappin, and Irina Mappin traveled to I..."](/statements/statement-d451b1393730.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [John Mappin](/entities/person-john-mappin.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-171330a39e2d">
+
+- [00:13:28](/episodes/ep-JrhGEm8MGRY.md#t-00-13-01) [○] **Candace Owens**: ["Owens said she unexpectedly encountered Justin Baldoni and his family in an airp..."](/statements/statement-171330a39e2d.md)
+  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Iceland](/entities/gpe-iceland.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9c93db2237d0">
+
+- [00:14:37](/episodes/ep-JrhGEm8MGRY.md#t-00-14-29) [○] **Candace Owens**: ["Owens said she had never met or spoken to Justin Baldoni before their Iceland en..."](/statements/statement-9c93db2237d0.md)
+  - About: [Justin Baldoni](/entities/person-justin-baldoni.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9e296bad8546">
+
+- [00:18:57](/episodes/ep-JrhGEm8MGRY.md#t-00-18-57) [○] **Candace Owens**: ["Owens said Ryan Reynolds reshot Deadpool scenes to include a character that was ..."](/statements/statement-9e296bad8546.md)
+  - About: [Ryan Reynolds](/entities/person-ryan-reynolds.md), [Justin Baldoni](/entities/person-justin-baldoni.md), [Deadpool & Wolverine](/entities/work-deadpool-and-wolverine.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d9f28a2e8729">
+
+- [00:20:14](/episodes/ep-JrhGEm8MGRY.md#t-00-20-07) [○] **Candace Owens**: ["Owens recounted that Justin Baldoni and his wife said they had been close to roc..."](/statements/statement-d9f28a2e8729.md)
+  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Blake Lively](/entities/person-blake-lively.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-60fa785ab2e1">
+
+- [00:21:03](/episodes/ep-JrhGEm8MGRY.md#t-00-21-03) [○] **Justin Baldoni**: ["Justin Baldoni told Owens that he had never watched the Deadpool movie or the Ni..."](/statements/statement-60fa785ab2e1.md)
+  - About: [Deadpool & Wolverine](/entities/work-deadpool-and-wolverine.md), [Ryan Reynolds](/entities/person-ryan-reynolds.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c52d90979686">
+
+- [00:25:39](/episodes/ep-JrhGEm8MGRY.md#t-00-25-03) [○] **Candace Owens**: ["Owens said PreBorn’s supporters had helped save more than 50,000 babies from abo..."](/statements/statement-c52d90979686.md)
+  - About: [PreBorn!](/entities/org-preborn.md), [Abortion](/entities/concept-abortion.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e298e66d1024">
+
+- [00:25:48](/episodes/ep-JrhGEm8MGRY.md#t-00-25-48) [○] **Candace Owens**: ["Owens said more than 8,000 women had decided to follow Christ that year through ..."](/statements/statement-e298e66d1024.md)
+  - About: [PreBorn!](/entities/org-preborn.md), [Jesus Christ](/entities/person-jesus-christ.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e5ced0fabe1f">
+
+- [00:25:57](/episodes/ep-JrhGEm8MGRY.md#t-00-25-48) [○] **Candace Owens**: ["Owens said a PreBorn ultrasound costs $28 and placing an ultrasound machine in a..."](/statements/statement-e5ced0fabe1f.md)
+  - About: [PreBorn!](/entities/org-preborn.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-12279afb4159">
+
+- [00:27:15](/episodes/ep-JrhGEm8MGRY.md#t-00-27-15) [○] **Candace Owens**: ["Owens said 1stHour trauma kits were trusted by EMTs, emergency-room nurses, mili..."](/statements/statement-12279afb4159.md)
+  - About: [1stHour](/entities/org-1sthour.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9b20defbf892">
+
+- [00:29:53](/episodes/ep-JrhGEm8MGRY.md#t-00-29-53) [○] **Candace Owens**: ["Owens said Elon Musk promoted Jennica Pounds in 2025."](/statements/statement-9b20defbf892.md)
+  - About: [Elon Musk](/entities/person-elon-musk.md), [Jennica Pounds](/entities/person-jennica-pounds.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-303860398b64">
+
+- [00:33:10](/episodes/ep-JrhGEm8MGRY.md#t-00-32-58) [○] **Candace Owens**: ["Owens said Sarah B. Rogers was a close friend of Blake Neff."](/statements/statement-303860398b64.md)
+  - About: [Sarah B. Rogers](/entities/person-sarah-b-rogers.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f18ecbf50f91">
+
+- [00:33:30](/episodes/ep-JrhGEm8MGRY.md#t-00-33-30) [○] **Blake Neff**: ["Blake Neff wrote that Sarah B. Rogers was one of Charlie Kirk’s favorite Trump n..."](/statements/statement-f18ecbf50f91.md)
+  - About: [Sarah B. Rogers](/entities/person-sarah-b-rogers.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [United States Department of State](/entities/org-united-states-department-of-state.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1217c9844390">
+
+- [00:34:17](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07) [○] **Jennica Pounds**: ["Jennica Pounds wrote that she began working as a special government employee for..."](/statements/statement-1217c9844390.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9ac50fab32f8">
+
+- [00:34:34](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07) [○] **Jennica Pounds**: ["Jennica Pounds wrote that her Pentagon press credentials expired in June and tha..."](/statements/statement-9ac50fab32f8.md)
+  - About: [United States Pentagon](/entities/org-united-states-pentagon.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e12f30ab0ccd">
+
+- [00:37:43](/episodes/ep-JrhGEm8MGRY.md#t-00-37-12) [○] **Candace Owens**: ["Owens said Turning Point USA’s newly announced tour was called Love It or Leave ..."](/statements/statement-e12f30ab0ccd.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-de53d65453f2">
+
+- [00:41:31](/episodes/ep-JrhGEm8MGRY.md#t-00-41-10) [○] **Candace Owens**: ["Owens said Tax Network USA had helped taxpayers nationwide for more than 15 year..."](/statements/statement-de53d65453f2.md)
+  - About: [Tax Network USA](/entities/org-tax-network-usa.md), [Internal Revenue Service](/entities/org-internal-revenue-service.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-23ee838eb418">
+
+- [00:41:38](/episodes/ep-JrhGEm8MGRY.md#t-00-41-10) [○] **Candace Owens**: ["Owens said Tax Network USA had resolved more than $1 billion in tax debt."](/statements/statement-23ee838eb418.md)
+  - About: [Tax Network USA](/entities/org-tax-network-usa.md), [Internal Revenue Service](/entities/org-internal-revenue-service.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c8c190f854d4">
+
+- [00:42:29](/episodes/ep-JrhGEm8MGRY.md#t-00-42-29) [○] **Candace Owens**: ["Owens said American Financing borrowers save an average of $800 per month."](/statements/statement-c8c190f854d4.md)
+  - About: [American Financing](/entities/org-american-financing.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fedb922d3577">
+
+- [00:46:47](/episodes/ep-JrhGEm8MGRY.md#t-00-46-39) [○] **Candace Owens**: ["Owens said Charlie Kirk texted multiple people on September 9 saying that he wan..."](/statements/statement-fedb922d3577.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [September 9th](/entities/date-september-9th.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-08-21 · Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (21)</summary>
@@ -2718,7 +2855,7 @@ _3706 factual claims within 6833 attributed statements._
 
 <div class="filter-item" data-filter-key="statement-9cbf0a587f03">
 
-- [00:03:15](/episodes/ep-sKuYLNx3iRo.md#t-00-02-46) [○] **RØDE microphone shard email tipster (name unstated)**: ["An anonymous email tipster said they thought there was no room for doubt that a ..."](/statements/statement-9cbf0a587f03.md)
+- [00:03:15](/episodes/ep-sKuYLNx3iRo.md#t-00-02-46) [○] **Anonymous RØDE USB-logo image tipster**: ["An anonymous email tipster said they thought there was no room for doubt that a ..."](/statements/statement-9cbf0a587f03.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md), [Universal Serial Bus](/entities/concept-universal-serial-bus.md)
 
 </div>
@@ -2851,7 +2988,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-23 · Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (15)</summary>
+<summary>2026-06-23 · Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (16)</summary>
 
 <div class="filter-item" data-filter-key="statement-1f88cf63ec3b">
 
@@ -2913,6 +3050,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-c1580675b5fa">
+
+- [00:27:27](/episodes/ep-9CuC1yf8-PU.md#t-00-27-15) [○] **Candace Owens**: ["Owens reported that Judge Tony Graf treated the proceeding as a preliminary prob..."](/statements/statement-c1580675b5fa.md)
+  - About: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-f606ee733e7a">
 
 - [00:32:56](/episodes/ep-9CuC1yf8-PU.md#t-00-32-19) [✓] **Candace Owens**: ["Owens said Faith Kates was close to Jeffrey Epstein, that their released emails ..."](/statements/statement-f606ee733e7a.md)
@@ -2946,7 +3089,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-22 · I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (24)</summary>
+<summary>2026-06-22 · I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (28)</summary>
 
 <div class="filter-item" data-filter-key="statement-68e2721ed243">
 
@@ -2972,6 +3115,24 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Visual Impulse, LLC](/entities/org-visual-impulse.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-6c07a65ba471">
+
+- [00:11:05](/episodes/ep-VMNWMXX1vO8.md#t-00-10-41) [○] **Candace Owens**: ["Owens said Parker Edwards attended the same high school as Taryl Farnsworth and ..."](/statements/statement-6c07a65ba471.md)
+  - About: [Parker Edwards](/entities/person-parker-edwards.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5034a6cce1c8">
+
+- [00:11:35](/episodes/ep-VMNWMXX1vO8.md#t-00-11-20) [○] **Candace Owens**: ["Owens said Aaron Edwards also worked for Visual Impulse and attended the same hi..."](/statements/statement-5034a6cce1c8.md)
+  - About: [Aaron Edwards](/entities/person-aaron-edwards.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Visual Impulse, LLC](/entities/org-visual-impulse.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b61ea5758f8a">
+
+- [00:12:07](/episodes/ep-VMNWMXX1vO8.md#t-00-11-54) [○] **Candace Owens**: ["Owens said Robert Golo was the camera operator standing next to Taryl Farnsworth..."](/statements/statement-b61ea5758f8a.md)
+  - About: [Robert Golo](/entities/person-robert-golo.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-aea5e285d9dc">
 
 - [00:14:54](/episodes/ep-VMNWMXX1vO8.md#t-00-14-12) [✓] **Anonymous Source #2 (Ep VMNWMXX1vO8)**: ["I saw the impact hit Charlie Kirk in the chest and blood gush from around his he..."](/statements/statement-aea5e285d9dc.md)
@@ -2988,6 +3149,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:15:21](/episodes/ep-VMNWMXX1vO8.md#t-00-15-21) [✓] **Anonymous Source #4 (Ep VMNWMXX1vO8)**: ["After the gunshot, I saw blood erupt from Charlie Kirk's chest and his body reco..."](/statements/statement-8201e2fbcc3b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1e1d6c109928">
+
+- [00:19:00](/episodes/ep-VMNWMXX1vO8.md#t-00-19-00) [○] **Candace Owens**: ["Owens said she received emails claiming that Fort Huachuca personnel could have ..."](/statements/statement-1e1d6c109928.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-36d8e0886311">
@@ -3095,7 +3262,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-18 · The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (17)</summary>
+<summary>2026-06-18 · The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (18)</summary>
 
 <div class="filter-item" data-filter-key="statement-a34eef740b26">
 
@@ -3193,6 +3360,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Cerberus Capital Management](/entities/org-cerberus-capital-management.md), [DynCorp International](/entities/org-dyncorp-international.md), [Stephen A. Feinberg](/entities/person-stephen-a-feinberg.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-311e3930d4d5">
+
+- [00:26:07](/episodes/ep-3QJqtW_NOSI.md#t-00-25-48) [○] **Candace Owens**: ["Owens said Michael McCoy's wife, Elizabeth Kravchuk, was another person in the T..."](/statements/statement-311e3930d4d5.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-fe51b1a4a8e1">
 
 - [00:49:51](/episodes/ep-3QJqtW_NOSI.md#t-00-49-44) [○] **Anonymous Source #2 (Ep 3QJqtW_NOSI)**: ["A YouTube commenter identified as Anna wrote that three of Jeffrey Epstein's fou..."](/statements/statement-fe51b1a4a8e1.md)
@@ -3202,7 +3375,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-17 · A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (18)</summary>
+<summary>2026-06-17 · A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (20)</summary>
 
 <div class="filter-item" data-filter-key="statement-26064fdf2f7d">
 
@@ -3264,6 +3437,11 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Phillip Goldsberry Jr.](/entities/person-phillip-goldsberry-jr.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-6c4761a1e3cc">
+
+- [00:16:20](/episodes/ep-G3zdOeHpvS0.md#t-00-16-20) [○] **Anonymous Source #3 (Ep G3zdOeHpvS0)**: ["An unidentified product-demo narrator said the microphone's magnetic clips were ..."](/statements/statement-6c4761a1e3cc.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-de0869762edf">
 
 - [00:16:29](/episodes/ep-G3zdOeHpvS0.md#t-00-16-28) [◐] **Sam Parker**: ["Sam Parker said Philip Goldsberry Jr. secured the microphone beneath Charlie Kir..."](/statements/statement-de0869762edf.md)
@@ -3286,6 +3464,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:27:52](/episodes/ep-G3zdOeHpvS0.md#t-00-27-52) [○] **Terryl Farnsworth**: ["Taryl Farnsworth told Owens that Charlie Kirk's event was livestreamed to the op..."](/statements/statement-df7199143c56.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Phoenix](/entities/gpe-phoenix.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b79d21518df2">
+
+- [00:28:50](/episodes/ep-G3zdOeHpvS0.md#t-00-28-38) [○] **Candace Owens**: ["Owens said current and former Turning Point USA employees consistently reported ..."](/statements/statement-b79d21518df2.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-98c306699888">
@@ -3315,7 +3499,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-16 · The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (15)</summary>
+<summary>2026-06-16 · The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (17)</summary>
 
 <div class="filter-item" data-filter-key="statement-d98c1d72c175">
 
@@ -3347,6 +3531,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-e3a4c07fddbf">
+
+- [00:20:08](/episodes/ep-h76ZN-xXC6c.md#t-00-19-54) [○] **News reporter (unidentified)**: ["A news reporter said petitions were asking the university to turn the courtyard ..."](/statements/statement-e3a4c07fddbf.md)
+  - About: [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-ac4290e8f588">
 
 - [00:20:19](/episodes/ep-h76ZN-xXC6c.md#t-00-20-17) [◐] **Candace Owens**: ["Owens said a .30-06 bullet would have effectively decapitated Charlie Kirk."](/statements/statement-ac4290e8f588.md)
@@ -3375,6 +3565,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:31:33](/episodes/ep-h76ZN-xXC6c.md#t-00-31-22) [◐] **Candace Owens**: ["Owens said authorities had not proven that Tyler Robinson's gun was fired on the..."](/statements/statement-078bb6901137.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d31144ce9e27">
+
+- [00:37:04](/episodes/ep-h76ZN-xXC6c.md#t-00-37-04) [○] **Jack Hibbs**: ["Jack Hibbs said he believed either Frank Turek or Michael McCoy placed the first..."](/statements/statement-d31144ce9e27.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-4b8acb618d02">
@@ -3410,7 +3606,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-15 · Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (27)</summary>
+<summary>2026-06-15 · Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (28)</summary>
 
 <div class="filter-item" data-filter-key="statement-9238347a8ba8">
 
@@ -3476,6 +3672,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:11:55](/episodes/ep-5NQyGuRYbU8.md#t-00-11-26) [✓] **Candace Owens**: ["Candace Owens said Corey Comperatore was then shot in the head at the Butler ral..."](/statements/statement-a286f1402e98.md)
   - About: [Corey Comperatore](/entities/person-corey-comperatore.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-4bd468b80a6f">
+
+- [00:12:01](/episodes/ep-5NQyGuRYbU8.md#t-00-12-01) [○] **Candace Owens**: ["Candace Owens said Mark A. Liti was Facebook friends with several members of Tho..."](/statements/statement-4bd468b80a6f.md)
+  - About: [Mark A. Liti](/entities/person-mark-liti.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-4d44c111cb98">
@@ -3833,7 +4035,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-10 · Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (18)</summary>
+<summary>2026-06-10 · Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (19)</summary>
 
 <div class="filter-item" data-filter-key="statement-8f91746f54e2">
 
@@ -3863,6 +4065,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:14:54](/episodes/ep-tXoI0TTKVrs.md#t-00-14-39) [○] **Candace Owens**: ["Candace Owens emailed Justin Streiff, Andrew Kolvet, and Turning Point USA's law..."](/statements/statement-0ff90a168cf2.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Justin Streiff](/entities/person-justin-streiff.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3f04158d57ff">
+
+- [00:17:49](/episodes/ep-tXoI0TTKVrs.md#t-00-17-17) [○] **Candace Owens**: ["Owens identified the donors who asked the Aspen succession question as Julie Fie..."](/statements/statement-3f04158d57ff.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-854973363c52">
@@ -3946,7 +4154,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-09 · I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (34)</summary>
+<summary>2026-06-09 · I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (35)</summary>
 
 <div class="filter-item" data-filter-key="statement-4552f6909816">
 
@@ -4126,6 +4334,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [01:02:42](/episodes/ep-YeEtS7nix3o.md#t-01-02-42) [○] **Anonymous Source #3 (Ep YeEtS7nix3o)**: ["Anonymous Turning Point attendees said Charlie Kirk answered a succession questi..."](/statements/statement-61f0b2d29aae.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Steve Jobs](/entities/person-steve-jobs.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-acc715af2efa">
+
+- [01:04:20](/episodes/ep-YeEtS7nix3o.md#t-01-03-53) [○] **Candace Owens**: ["In Charlie Kirk's final Aspen presentation, Erika Kirk was mentioned only as inv..."](/statements/statement-acc715af2efa.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-e41168e9935c">
@@ -4869,7 +5083,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-05-18 · Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (14)</summary>
+<summary>2026-05-18 · Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (16)</summary>
 
 <div class="filter-item" data-filter-key="statement-542ec9e1702d">
 
@@ -4901,6 +5115,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-e7e483615fd3">
+
+- [00:14:24](/episodes/ep-1QZ4X6q1DPg.md#t-00-14-14) [○] **Candace Owens**: ["Candace Owens says Turning Point USA still had not publicly released the success..."](/statements/statement-e7e483615fd3.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-adf09265f387">
 
 - [00:17:09](/episodes/ep-1QZ4X6q1DPg.md#t-00-16-55) [✓] **Anonymous Source #2 (Ep 1QZ4X6q1DPg)**: ["An anonymous Turning Point USA board member said Charlie and Erika Kirk's estate..."](/statements/statement-adf09265f387.md)
@@ -4917,6 +5137,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:18:18](/episodes/ep-1QZ4X6q1DPg.md#t-00-18-18) [?] **Anonymous Source #3 (Ep 1QZ4X6q1DPg)**: ["An inside source told Candace Owens that Erika Kirk may have been named in Charl..."](/statements/statement-c9e654be5ab7.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ea271426b53c">
+
+- [00:19:21](/episodes/ep-1QZ4X6q1DPg.md#t-00-18-51) [○] **Turning Point USA**: ["Turning Point USA sources told the Daily Mail that the succession video was with..."](/statements/statement-ea271426b53c.md)
+  - About: [Daily Mail](/entities/org-daily-mail.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-4792f632ea74">
@@ -4958,7 +5184,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-05-14 · SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (24)</summary>
+<summary>2026-05-14 · SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (25)</summary>
 
 <div class="filter-item" data-filter-key="statement-d9b9f0df5ab1">
 
@@ -4976,6 +5202,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:06:25](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08) [○] **Candace Owens**: ["Erika Kirk visited the West Wing just ahead of the White House Correspondents' D..."](/statements/statement-93bc5bc3a7eb.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [West Wing](/entities/gpe-west-wing.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-06093dc545f9">
+
+- [00:06:33](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08) [○] **Candace Owens**: ["Candace Owens says she assumes Erika Kirk visited the West Wing with Andrew Kolv..."](/statements/statement-06093dc545f9.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Michael McCoy](/entities/person-michael-mccoy.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-c1c448e4bb6f">
@@ -22518,7 +22750,150 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Accusations (1632)</strong></summary>
+<summary><strong class="section-title">Accusations (1672)</strong></summary>
+
+<details>
+<summary>2026-08-31 · We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (23)</summary>
+
+<div class="filter-item" data-filter-key="statement-8c598ab9a08f">
+
+- [00:01:12](/episodes/ep-JrhGEm8MGRY.md#t-00-00-45) [○] **Candace Owens**: ["Candace Owens said the Department of War had people on its payroll attacking her..."](/statements/statement-8c598ab9a08f.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6db050a52a3d">
+
+- [00:08:04](/episodes/ep-JrhGEm8MGRY.md#t-00-07-38) [○] **John Mappin**: ["John and Irina Mappin wrote that the Charlie Kirk crime scene had apparently bee..."](/statements/statement-6db050a52a3d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Irina Mappin](/entities/person-irina-mappin.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-17a73774e4bc">
+
+- [00:14:52](/episodes/ep-JrhGEm8MGRY.md#t-00-14-29) [○] **Glamour colleague (identity unverified)**: ["An identity-unverified Glamour colleague told Owens that Blake Lively was awful ..."](/statements/statement-17a73774e4bc.md)
+  - About: [Blake Lively](/entities/person-blake-lively.md), [Glamour](/entities/work-glamour-magazine.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3ff75fc66f72">
+
+- [00:16:12](/episodes/ep-JrhGEm8MGRY.md#t-00-15-40) [○] **Candace Owens**: ["Owens accused Blake Lively and Ryan Reynolds of deciding they were entitled to t..."](/statements/statement-3ff75fc66f72.md)
+  - About: [Blake Lively](/entities/person-blake-lively.md), [Ryan Reynolds](/entities/person-ryan-reynolds.md), [Justin Baldoni](/entities/person-justin-baldoni.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7e1534e45eb0">
+
+- [00:17:40](/episodes/ep-JrhGEm8MGRY.md#t-00-17-28) [○] **Blake Lively**: ["Blake Lively alleged in her civil-rights filing that Jamey Heath showed her porn..."](/statements/statement-7e1534e45eb0.md)
+  - About: [Jamey Heath](/entities/person-jamey-heath.md), [California Civil Rights Department](/entities/org-california-civil-rights-department.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9c759767e61a">
+
+- [00:18:24](/episodes/ep-JrhGEm8MGRY.md#t-00-18-24) [○] **Candace Owens**: ["Owens said Blake Lively required Justin Baldoni to sit in a basement during the ..."](/statements/statement-9c759767e61a.md)
+  - About: [Blake Lively](/entities/person-blake-lively.md), [Justin Baldoni](/entities/person-justin-baldoni.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a7965c09ea8f">
+
+- [00:28:16](/episodes/ep-JrhGEm8MGRY.md#t-00-27-53) [○] **Candace Owens**: ["Owens accused Turning Point USA, and Erika Kirk in particular, of directing a fu..."](/statements/statement-a7965c09ea8f.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-103afdff4d24">
+
+- [00:29:20](/episodes/ep-JrhGEm8MGRY.md#t-00-29-08) [○] **Candace Owens**: ["Owens suggested that Jennica Pounds could be the person shown walking up the sta..."](/statements/statement-103afdff4d24.md)
+  - About: [Jennica Pounds](/entities/person-jennica-pounds.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7c2f07ebd097">
+
+- [00:30:49](/episodes/ep-JrhGEm8MGRY.md#t-00-30-34) [○] **Candace Owens**: ["Owens characterized Jennica Pounds’s thread as basically saying the NCRI report ..."](/statements/statement-7c2f07ebd097.md)
+  - About: [Jennica Pounds](/entities/person-jennica-pounds.md), [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6c1a88c854dc">
+
+- [00:31:32](/episodes/ep-JrhGEm8MGRY.md#t-00-31-01) [○] **Andrew Kolvet**: ["Andrew Kolvet wrote that Candace Owens and her audience had created the requisit..."](/statements/statement-6c1a88c854dc.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-38e582c0d6c2">
+
+- [00:32:38](/episodes/ep-JrhGEm8MGRY.md#t-00-32-19) [○] **Candace Owens**: ["Owens accused State Department official Sarah B. Rogers of leaking material to J..."](/statements/statement-38e582c0d6c2.md)
+  - About: [Sarah B. Rogers](/entities/person-sarah-b-rogers.md), [Jennica Pounds](/entities/person-jennica-pounds.md), [United States Department of State](/entities/org-united-states-department-of-state.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c61cc8f7861f">
+
+- [00:34:24](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07) [○] **Candace Owens**: ["Owens said that, in her interpretation, Jennica Pounds meant she was serving the..."](/statements/statement-c61cc8f7861f.md)
+  - About: [Jennica Pounds](/entities/person-jennica-pounds.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c90d46b58982">
+
+- [00:35:16](/episodes/ep-JrhGEm8MGRY.md#t-00-35-16) [○] **Candace Owens**: ["Owens guessed that Bill Ackman might be funding Jennica Pounds’s institute."](/statements/statement-c90d46b58982.md)
+  - About: [Bill Ackman](/entities/person-bill-ackman.md), [Jennica Pounds](/entities/person-jennica-pounds.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fc83166ced37">
+
+- [00:35:16](/episodes/ep-JrhGEm8MGRY.md#t-00-35-16) [○] **Candace Owens**: ["Owens claimed the effort portraying her investigation as dangerous was backed by..."](/statements/statement-fc83166ced37.md)
+  - About: [United States Department of State](/entities/org-united-states-department-of-state.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c89b1f2528a1">
+
+- [00:35:46](/episodes/ep-JrhGEm8MGRY.md#t-00-35-16) [○] **Candace Owens**: ["Owens rhetorically asked why the State Department and Department of War would wa..."](/statements/statement-c89b1f2528a1.md)
+  - About: [United States Department of State](/entities/org-united-states-department-of-state.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ced363b2d15b">
+
+- [00:36:27](/episodes/ep-JrhGEm8MGRY.md#t-00-36-01) [○] **Candace Owens**: ["Owens accused the Department of War-aligned campaign of putting a target on her ..."](/statements/statement-ced363b2d15b.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c9dfee8bf4e3">
+
+- [00:36:50](/episodes/ep-JrhGEm8MGRY.md#t-00-36-41) [○] **Candace Owens**: ["Owens said that when Charlie Kirk was shot, she knew he had been betrayed."](/statements/statement-c9dfee8bf4e3.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6877274b61af">
+
+- [00:37:57](/episodes/ep-JrhGEm8MGRY.md#t-00-37-46) [○] **Candace Owens**: ["Owens claimed Ben Shapiro wanted to take over Turning Point USA because his own ..."](/statements/statement-6877274b61af.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2ae00f43a3e8">
+
+- [00:38:58](/episodes/ep-JrhGEm8MGRY.md#t-00-38-25) [○] **Candace Owens**: ["Owens said, with uncertainty and explicitly alleging, that she thought Mat Nucle..."](/statements/statement-2ae00f43a3e8.md)
+  - About: [Mat Nuclear](/entities/person-mat-nuclear.md), [Florida](/entities/gpe-florida.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8cb1688a11d8">
+
+- [00:40:08](/episodes/ep-JrhGEm8MGRY.md#t-00-40-08) [○] **Candace Owens**: ["Owens accused Turning Point USA of partnering with the Department of War to prop..."](/statements/statement-8cb1688a11d8.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-67a8772b2bfc">
+
+- [00:43:15](/episodes/ep-JrhGEm8MGRY.md#t-00-43-01) [○] **Candace Owens**: ["Owens said her team had basically been stonewalled on FOIA requests seeking conf..."](/statements/statement-67a8772b2bfc.md)
+  - About: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7539c7effad9">
+
+- [00:43:30](/episodes/ep-JrhGEm8MGRY.md#t-00-43-01) [○] **Candace Owens**: ["Owens claimed the FOIA responses further proved that the Department of War had b..."](/statements/statement-7539c7effad9.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-bce3eb025161">
+
+- [00:49:01](/episodes/ep-JrhGEm8MGRY.md#t-00-49-01) [○] **Candace Owens**: ["Owens accused Young America’s Foundation of paying people to attend the Turning ..."](/statements/statement-bce3eb025161.md)
+  - About: [Young America's Foundation](/entities/org-young-americas-foundation.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-08-21 · Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (8)</summary>
@@ -23850,7 +24225,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-26 · TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (22)</summary>
+<summary>2026-06-26 · TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (23)</summary>
 
 <div class="filter-item" data-filter-key="statement-4966d942cf81">
 
@@ -23934,6 +24309,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:35:54](/episodes/ep-IqHsl7d2dos.md#t-00-35-29) [○] **Candace Owens**: ["Owens said Sarah Tewell changed her account three times, first saying she saw Ch..."](/statements/statement-20503b8e78d8.md)
   - About: [Sarah Tewell](/entities/person-sarah-tewell.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b6b170c4a0a7">
+
+- [00:36:55](/episodes/ep-IqHsl7d2dos.md#t-00-36-35) [○] **Candace Owens**: ["Owens alleged that Sarah Tewell's in-law family controlled emergency-dispatch an..."](/statements/statement-b6b170c4a0a7.md)
+  - About: [Sarah Tewell](/entities/person-sarah-tewell.md), [Carbyne](/entities/org-carbyne.md), [Ehud Barak](/entities/person-ehud-barak.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-1bead4d203a1">
@@ -24123,7 +24504,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-23 · Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (12)</summary>
+<summary>2026-06-23 · Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (13)</summary>
 
 <div class="filter-item" data-filter-key="statement-bb1cdeb37a7b">
 
@@ -24135,6 +24516,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:09:57](/episodes/ep-9CuC1yf8-PU.md#t-00-09-30) [○] **Candace Owens**: ["Brian Harpole lied badly to Shawn Ryan in an interview"](/statements/statement-bf4a6840e928.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Shawn Ryan](/entities/person-shawn-ryan.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-843d0661b4a9">
+
+- [00:10:04](/episodes/ep-9CuC1yf8-PU.md#t-00-09-30) [○] **Candace Owens**: ["Owens inferred that the FBI's seizure of hospital camera footage prevented the p..."](/statements/statement-843d0661b4a9.md)
+  - About: [FBI](/entities/org-fbi.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Brian Harpole](/entities/person-brian-harpole.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-cd499ecbd370">
@@ -24473,7 +24860,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-16 · The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (13)</summary>
+<summary>2026-06-16 · The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (14)</summary>
 
 <div class="filter-item" data-filter-key="statement-d7cb35f47244">
 
@@ -24517,6 +24904,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-446b0fd886f1">
+
+- [00:44:35](/episodes/ep-h76ZN-xXC6c.md#t-00-44-35) [○] **Candace Owens**: ["Candace Owens said some theorists believed the rigged microphone device might ha..."](/statements/statement-446b0fd886f1.md)
+  - About: [Accurate Energetic Systems, LLC](/entities/org-accurate-energetic-systems.md), [RØDE Microphones](/entities/org-rode-microphones.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-c2583e7a7b18">
 
 - [00:45:30](/episodes/ep-h76ZN-xXC6c.md#t-00-45-10) [○] **Candace Owens**: ["Owens said the Accurate Energetic Systems explosion could have resulted from an ..."](/statements/statement-c2583e7a7b18.md)
@@ -24556,7 +24949,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-15 · Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (15)</summary>
+<summary>2026-06-15 · Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (18)</summary>
 
 <div class="filter-item" data-filter-key="statement-7537bc4551d4">
 
@@ -24574,6 +24967,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:04:00](/episodes/ep-5NQyGuRYbU8.md#t-00-04-00) [○] **Charlie Kirk**: ["Charlie Kirk accused members of the media of wanting Donald Trump dead and of no..."](/statements/statement-06e2835e08c9.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0b61da1e4750">
+
+- [00:05:42](/episodes/ep-5NQyGuRYbU8.md#t-00-05-24) [○] **Candace Owens**: ["Candace Owens suggested that Donald Trump might feature in the story of Charlie ..."](/statements/statement-0b61da1e4750.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-4d377e1599cf">
@@ -24594,10 +24993,22 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Mark A. Liti](/entities/person-mark-liti.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [PETN](/entities/concept-petn.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-38ff2727e895">
+
+- [00:22:08](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) [○] **Candace Owens**: ["Candace Owens speculated that Benjamin Netanyahu's golden-pager gift to Donald T..."](/statements/statement-38ff2727e895.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md), [Mossad](/entities/org-mossad.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-0d783c32b84b">
 
 - [00:23:03](/episodes/ep-5NQyGuRYbU8.md#t-00-22-31) [◐] **Candace Owens**: ["Candace Owens accused the United States of supplying Israel with white phosphoru..."](/statements/statement-0d783c32b84b.md)
   - About: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md), [Lebanon](/entities/gpe-lebanon.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-09de59bd7dad">
+
+- [00:23:33](/episodes/ep-5NQyGuRYbU8.md#t-00-23-13) [○] **Candace Owens**: ["Candace Owens speculated that Butler may have been an assassination success agai..."](/statements/statement-09de59bd7dad.md)
+  - About: [Corey Comperatore](/entities/person-corey-comperatore.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-3755d2aa3f2f">
@@ -24651,7 +25062,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-13 · REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (12)</summary>
+<summary>2026-06-13 · REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (14)</summary>
 
 <div class="filter-item" data-filter-key="statement-f73d6f2037c9">
 
@@ -24689,6 +25100,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Dan Bongino](/entities/person-dan-bongino.md), [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-206782480e5d">
+
+- [00:11:34](/episodes/ep-WoXd4oLwd3w.md#t-00-11-05) [○] **Candace Owens**: ["Candace Owens proposed that the Butler shooting could have been staged with Dona..."](/statements/statement-206782480e5d.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-37ca4f3db8bc">
 
 - [00:13:38](/episodes/ep-WoXd4oLwd3w.md#t-00-13-38) [○] **Candace Owens**: ["Candace Owens said she believed Donald Trump betrayed Charlie Kirk through a sim..."](/statements/statement-37ca4f3db8bc.md)
@@ -24719,6 +25136,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-32eb670bee0f">
+
+- [00:48:17](/episodes/ep-WoXd4oLwd3w.md#t-00-48-05) [○] **Candace Owens**: ["Candace Owens speculated that the FOIA delay might reflect consultation with the..."](/statements/statement-32eb670bee0f.md)
+  - About: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [FBI](/entities/org-fbi.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-79573f3e1e9a">
 
 - [00:57:33](/episodes/ep-WoXd4oLwd3w.md#t-00-57-27) [○] **Candace Owens**: ["Candace Owens accused Turning Point USA of trying to erase Charlie Kirk's histor..."](/statements/statement-79573f3e1e9a.md)
@@ -24728,7 +25151,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-11 · OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (12)</summary>
+<summary>2026-06-11 · OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (14)</summary>
 
 <div class="filter-item" data-filter-key="statement-47f64b9b0d9c">
 
@@ -24740,6 +25163,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:06:37](/episodes/ep-19vHhjF7-NA.md#t-00-06-37) [◐] **Candace Owens**: ["Owens alleged that the Rothschild family practices incest to keep world power wi..."](/statements/statement-5155c6faf07f.md)
   - About: [Rothschild family](/entities/org-rothschild-family.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-35bd82d9a45e">
+
+- [00:08:04](/episodes/ep-19vHhjF7-NA.md#t-00-07-57) [○] **Candace Owens**: ["Charlie Kirk may have been in the way of a Trump- and Rothschild-linked pursuit ..."](/statements/statement-35bd82d9a45e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Rothschild family](/entities/org-rothschild-family.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-d75993de3c04">
@@ -24758,6 +25187,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:11:08](/episodes/ep-19vHhjF7-NA.md#t-00-10-44) [○] **Candace Owens**: ["Owens alleged that the Sazan Island deal is intended to let Rothschild agents co..."](/statements/statement-148187e440f7.md)
   - About: [Rothschild family](/entities/org-rothschild-family.md), [Sazan Island](/entities/gpe-sazan-island.md), [Bosporus](/entities/gpe-bosporus.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-82316669cfee">
+
+- [00:33:13](/episodes/ep-19vHhjF7-NA.md#t-00-33-13) [○] **Blake Neff**: ["Blake Neff said critics immediately and baselessly claimed the succession clip s..."](/statements/statement-82316669cfee.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-39a374a916ba">
@@ -24918,7 +25353,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-09 · I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (17)</summary>
+<summary>2026-06-09 · I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (18)</summary>
 
 <div class="filter-item" data-filter-key="statement-12634ddb77cb">
 
@@ -25020,6 +25455,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [01:05:27](/episodes/ep-YeEtS7nix3o.md#t-01-05-27) [✓] **Candace Owens**: ["Candace Owens said definitively that she believed the Charlie Kirk succession cl..."](/statements/statement-99cf1977d5ee.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-418c914b4afb">
+
+- [01:07:26](/episodes/ep-YeEtS7nix3o.md#t-01-07-11) [○] **Candace Owens**: ["Turning Point USA's social-media reply called the succession video real, said Ca..."](/statements/statement-418c914b4afb.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
 </details>
@@ -25292,7 +25733,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-05-21 · Candace x Hunter Biden: The Interview (12)</summary>
+<summary>2026-05-21 · Candace x Hunter Biden: The Interview (14)</summary>
 
 <div class="filter-item" data-filter-key="statement-710731d2cfb0">
 
@@ -25336,10 +25777,22 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Melissa Cohen Biden](/entities/person-melissa-cohen-biden.md), [Hunter Biden](/entities/person-hunter-biden.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-77e2d7486bc5">
+
+- [01:00:26](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59) [○] **Candace Owens**: ["Trump, Kash Patel, and J.D. Vance are accepting the official Charlie Kirk assass..."](/statements/statement-77e2d7486bc5.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md), [JD Vance](/entities/person-jd-vance.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-5b8ae82f98e2">
 
 - [01:02:22](/episodes/ep-Ux1kzgQxkws.md#t-01-02-22) [◐] **Candace Owens**: ["Donald Trump is protecting his donors by withholding the Epstein files."](/statements/statement-5b8ae82f98e2.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Epstein Files](/entities/work-epstein-files.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-95c1d3991fb5">
+
+- [01:06:12](/episodes/ep-Ux1kzgQxkws.md#t-01-06-12) [○] **Candace Owens**: ["Erika Kirk's rapid acceptance of the official narrative and desire to close the ..."](/statements/statement-95c1d3991fb5.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-245428c642ae">
@@ -25369,7 +25822,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-05-20 · TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (5)</summary>
+<summary>2026-05-20 · TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (8)</summary>
 
 <div class="filter-item" data-filter-key="statement-07791cb479fd">
 
@@ -25389,10 +25842,28 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Victor Marx](/entities/person-victor-marx.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-21d6b9f41052">
+
+- [00:17:44](/episodes/ep-cPidFQDJLbo.md#t-00-17-27) [○] **Candace Owens**: ["Erika Kirk may have lied about the claimed September 15 end-of-life-document app..."](/statements/statement-21d6b9f41052.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7f2cf0193d75">
+
+- [00:24:28](/episodes/ep-cPidFQDJLbo.md#t-00-23-44) [○] **Candace Owens**: ["Insiders with access to Charlie Kirk's communications may have learned that he p..."](/statements/statement-7f2cf0193d75.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-4519a0d6b1ae">
 
 - [00:52:54](/episodes/ep-cPidFQDJLbo.md#t-00-52-37) [○] **Candace Owens**: ["Victor Marx's post timing signals to me that someone at the hospital, on the sec..."](/statements/statement-4519a0d6b1ae.md)
   - About: [Victor Marx](/entities/person-victor-marx.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d288b2db122c">
+
+- [00:53:19](/episodes/ep-cPidFQDJLbo.md#t-00-53-05) [○] **Candace Owens**: ["Victor Marx may have been part of an Israel-linked chat through which early news..."](/statements/statement-d288b2db122c.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-9b60868951d0">
@@ -25457,7 +25928,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-05-18 · Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (8)</summary>
+<summary>2026-05-18 · Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (9)</summary>
 
 <div class="filter-item" data-filter-key="statement-1337d9120068">
 
@@ -25474,6 +25945,12 @@ _3706 factual claims within 6833 attributed statements._
 <div class="filter-item" data-filter-key="statement-b43063c8d884">
 
 - [00:14:14](/episodes/ep-1QZ4X6q1DPg.md#t-00-13-29) [✓] **Candace Owens**: ["Candace Owens said the source account would imply that Turning Point USA used AI..."](/statements/statement-b43063c8d884.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-efbb54cd486d">
+
+- [00:15:09](/episodes/ep-1QZ4X6q1DPg.md#t-00-14-50) [○] **Candace Owens**: ["Candace Owens says that if Turning Point USA fabricated the succession recording..."](/statements/statement-efbb54cd486d.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
@@ -33047,7 +33524,18 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Predictions (71)</strong></summary>
+<summary><strong class="section-title">Predictions (72)</strong></summary>
+
+<details>
+<summary>2026-08-31 · We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+<div class="filter-item" data-filter-key="statement-6c9db563e5e0">
+
+- [00:39:56](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35) [○] **Candace Owens**: ["Owens predicted that another organization would rise and take Turning Point USA’..."](/statements/statement-6c9db563e5e0.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-08-17 · Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
@@ -33703,7 +34191,24 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Promises (129)</strong></summary>
+<summary><strong class="section-title">Promises (131)</strong></summary>
+
+<details>
+<summary>2026-08-31 · We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2)</summary>
+
+<div class="filter-item" data-filter-key="statement-1731a0a2e184">
+
+- [00:36:56](/episodes/ep-JrhGEm8MGRY.md#t-00-36-41) [○] **Candace Owens**: ["Owens promised to reveal explosive material during the rest of the week that she..."](/statements/statement-1731a0a2e184.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f6d8edfde0f1">
+
+- [00:51:23](/episodes/ep-JrhGEm8MGRY.md#t-00-51-03) [○] **Candace Owens**: ["Owens promised to show explosive new footage the following day."](/statements/statement-f6d8edfde0f1.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-08-21 · Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -34871,7 +35376,30 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Citations (383)</strong></summary>
+<summary><strong class="section-title">Citations (389)</strong></summary>
+
+<details>
+<summary>2026-08-31 · We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3)</summary>
+
+<div class="filter-item" data-filter-key="statement-bbe6ba7a4423">
+
+- [00:17:59](/episodes/ep-JrhGEm8MGRY.md#t-00-17-59) [○] **Candace Owens**: ["Owens said the filing later disclosed that the video Jamey Heath showed Blake Li..."](/statements/statement-bbe6ba7a4423.md)
+  - About: [Jamey Heath](/entities/person-jamey-heath.md), [Blake Lively](/entities/person-blake-lively.md), [California Civil Rights Department](/entities/org-california-civil-rights-department.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cf93056634f6">
+
+- [00:28:55](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28) [○] **Candace Owens**: ["Owens said NCRI released the report Permission to Kill on the first day of Tyler..."](/statements/statement-cf93056634f6.md)
+  - About: [Network Contagion Research Institute](/entities/org-network-contagion-research-institute.md), [Permission to Kill: How Candace Owens Built a Digital Assassination Culture Targeting Erika Kirk](/entities/work-permission-to-kill-ncri-report.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6944490af53a">
+
+- [00:43:01](/episodes/ep-JrhGEm8MGRY.md#t-00-43-01) [○] **Candace Owens**: ["Owens said an email from the Department of War called Erika Kirk an “emotional a..."](/statements/statement-6944490af53a.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-08-21 · Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -35368,7 +35896,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-18 · The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (5)</summary>
+<summary>2026-06-18 · The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (6)</summary>
 
 <div class="filter-item" data-filter-key="statement-41af199afa3a">
 
@@ -35392,6 +35920,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:19:10](/episodes/ep-3QJqtW_NOSI.md#t-00-19-10) [○] **Candace Owens**: ["Owens said Kathryn Bolkovac's book reported that trafficked underage women came ..."](/statements/statement-d76fc4d29782.md)
   - About: [Kathryn Bolkovac](/entities/person-kathryn-bolkovac.md), [Ukraine](/entities/gpe-ukraine.md), [Croatia](/entities/gpe-croatia.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cc1b394df29f">
+
+- [00:27:02](/episodes/ep-3QJqtW_NOSI.md#t-00-26-32) [○] **Candace Owens**: ["Owens cited Good Call Ministries' website as listing rescue operations for refug..."](/statements/statement-cc1b394df29f.md)
+  - About: [Good Call Ministries](/entities/org-good-call-ministries.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-8f05212df149">
@@ -35425,12 +35959,18 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-15 · Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3)</summary>
+<summary>2026-06-15 · Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (4)</summary>
 
 <div class="filter-item" data-filter-key="statement-8155a9b44c7e">
 
 - [00:17:23](/episodes/ep-5NQyGuRYbU8.md#t-00-16-56) [✓] **Candace Owens**: ["Candace Owens cited a Reuters graphic estimating that six grams of PETN were put..."](/statements/statement-8155a9b44c7e.md)
   - About: [Reuters](/entities/org-reuters.md), [PETN](/entities/concept-petn.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2cb50bcd2e1c">
+
+- [00:21:09](/episodes/ep-5NQyGuRYbU8.md#t-00-21-09) [○] **Candace Owens**: ["Candace Owens cited a persistent theory that Charlie Kirk's road microphone was ..."](/statements/statement-2cb50bcd2e1c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [PETN](/entities/concept-petn.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-841d0ce9235c">
@@ -35448,12 +35988,18 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-13 · REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (4)</summary>
+<summary>2026-06-13 · REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (5)</summary>
 
 <div class="filter-item" data-filter-key="statement-5023467dd2c1">
 
 - [00:07:44](/episodes/ep-WoXd4oLwd3w.md#t-00-07-15) [✓] **Dan Bongino**: ["Dan Bongino cited a Fox News report saying the FBI concluded Thomas Crooks acted..."](/statements/statement-5023467dd2c1.md)
   - About: [FBI](/entities/org-fbi.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Fox News](/entities/org-fox-news.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5405a3dfe8e6">
+
+- [00:22:20](/episodes/ep-WoXd4oLwd3w.md#t-00-22-11) [○] **Erika Kirk**: ["In a July 14 speech, Erika Kirk described Israel as the promised land facing con..."](/statements/statement-5405a3dfe8e6.md)
+  - About: [Israel](/entities/gpe-israel.md), [James Kaddis](/entities/person-james-kaddis.md), [Calvary Chapel Chino Hills](/entities/org-calvary-chapel-chino-hills.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-3d734b0826a2">
@@ -37697,7 +38243,48 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Opinions (912)</strong></summary>
+<summary><strong class="section-title">Opinions (932)</strong></summary>
+
+<details>
+<summary>2026-08-31 · We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (6)</summary>
+
+<div class="filter-item" data-filter-key="statement-e1ceca69ba23">
+
+- [00:07:07](/episodes/ep-JrhGEm8MGRY.md#t-00-06-53) [○] **John Mappin**: ["John Mappin told Owens that the campaign against her was psychological and descr..."](/statements/statement-e1ceca69ba23.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2bae472d17ac">
+
+- [00:08:27](/episodes/ep-JrhGEm8MGRY.md#t-00-08-13) [○] **John Mappin**: ["John and Irina Mappin wrote that executing a possibly innocent person despite re..."](/statements/statement-2bae472d17ac.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Irina Mappin](/entities/person-irina-mappin.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e5d1c9dfd49d">
+
+- [00:27:53](/episodes/ep-JrhGEm8MGRY.md#t-00-27-53) [○] **Candace Owens**: ["Owens said the campaign surrounding her looked well-funded and almost like a mil..."](/statements/statement-e5d1c9dfd49d.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Psychological operations](/entities/concept-psychological-operations.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-135efe0c7da8">
+
+- [00:31:54](/episodes/ep-JrhGEm8MGRY.md#t-00-31-46) [○] **Bill Ackman**: ["Bill Ackman promoted Jennica Pounds’s thread as “an important read on Charlie Ki..."](/statements/statement-135efe0c7da8.md)
+  - About: [Jennica Pounds](/entities/person-jennica-pounds.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-eafe09986346">
+
+- [00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35) [○] **Candace Owens**: ["Owens said Erika Kirk could not lead Turning Point USA and that the organization..."](/statements/statement-eafe09986346.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-088cccbc74b0">
+
+- [00:47:14](/episodes/ep-JrhGEm8MGRY.md#t-00-47-14) [○] **Candace Owens**: ["Owens said she thought Charlie Kirk had begun to see people around him as radica..."](/statements/statement-088cccbc74b0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-08-21 · Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (7)</summary>
@@ -38718,8 +39305,20 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-24 · Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (3)</summary>
+<summary>2026-06-24 · Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (5)</summary>
 
+<div class="filter-item" data-filter-key="statement-412e4be95bd2">
+
+- [00:27:03](/episodes/ep-sKuYLNx3iRo.md#t-00-26-48) [○] **Candace Owens**: ["Owens argued that if an explosive killed Charlie Kirk, transferable residue woul..."](/statements/statement-412e4be95bd2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-68d640198bef">
+
+- [00:32:44](/episodes/ep-sKuYLNx3iRo.md#t-00-32-13) [○] **Candace Owens**: ["Owens said she had not seen Charlie Kirk's pants listed in evidence and guessed ..."](/statements/statement-68d640198bef.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-78d75ebbd342">
 
 - [00:33:21](/episodes/ep-sKuYLNx3iRo.md#t-00-32-51) [○] **Candace Owens**: ["Owens said that Erika Kirk's different signature and observed eye behavior were ..."](/statements/statement-78d75ebbd342.md)
@@ -38741,8 +39340,14 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-23 · Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (8)</summary>
+<summary>2026-06-23 · Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (9)</summary>
 
+<div class="filter-item" data-filter-key="statement-3f5b02d2303e">
+
+- [00:03:11](/episodes/ep-9CuC1yf8-PU.md#t-00-02-54) [○] **Candace Owens**: ["Owens said Charlie Kirk's white Freedom shirt could carry explosive residue and ..."](/statements/statement-3f5b02d2303e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-bc21b49131bd">
 
 - [00:11:55](/episodes/ep-9CuC1yf8-PU.md#t-00-11-32) [○] **Candace Owens**: ["Owens guessed that Charlie Kirk's Freedom shirt had been disposed of because she..."](/statements/statement-bc21b49131bd.md)
@@ -38805,7 +39410,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-18 · The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (10)</summary>
+<summary>2026-06-18 · The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (11)</summary>
 
 <div class="filter-item" data-filter-key="statement-576a9c870fd5">
 
@@ -38829,6 +39434,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:22:45](/episodes/ep-3QJqtW_NOSI.md#t-00-22-16) [○] **Candace Owens**: ["Owens said she believed the New York Times article was well sourced and that Dan..."](/statements/statement-e29e24adf5c7.md)
   - About: [The New York Times](/entities/org-the-new-york-times.md), [Dan Bongino](/entities/person-dan-bongino.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2b97002310a5">
+
+- [00:24:21](/episodes/ep-3QJqtW_NOSI.md#t-00-24-08) [○] **Candace Owens**: ["Owens said the relationship between the Trump administration and Turning Point U..."](/statements/statement-2b97002310a5.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-7cf6e7a4143a">
@@ -38870,11 +39481,17 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-17 · A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (9)</summary>
+<summary>2026-06-17 · A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (13)</summary>
 
 <div class="filter-item" data-filter-key="statement-ba3c2462e968">
 
 - [00:00:01](/episodes/ep-G3zdOeHpvS0.md#t-00-00-01) [○] **Candace Owens**: ["Owens said the theory that Charlie Kirk's microphone may have been rigged appear..."](/statements/statement-ba3c2462e968.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-74d7b7715ace">
+
+- [00:00:01](/episodes/ep-G3zdOeHpvS0.md#t-00-00-01) [○] **Candace Owens**: ["Owens said it appeared to her that, if the rigged-microphone theory were correct..."](/statements/statement-74d7b7715ace.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
@@ -38890,6 +39507,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-6885916cc34c">
+
+- [00:08:51](/episodes/ep-G3zdOeHpvS0.md#t-00-08-44) [○] **Candace Owens**: ["Owens argued that, under the rigged-microphone theory, the absence of a standby ..."](/statements/statement-6885916cc34c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-915693a2f2f3">
 
 - [00:13:38](/episodes/ep-G3zdOeHpvS0.md#t-00-13-38) [◐] **Anonymous Source #6 (Ep G3zdOeHpvS0)**: ["An unnamed audiovisual professional wrote that a second microphone would only ma..."](/statements/statement-915693a2f2f3.md)
@@ -38902,9 +39525,21 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-851913396885">
+
+- [00:29:50](/episodes/ep-G3zdOeHpvS0.md#t-00-29-20) [○] **Candace Owens**: ["Owens said the whereabouts of Charlie Kirk's clothes were unclear and argued tha..."](/statements/statement-851913396885.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-462985b03bdb">
 
 - [00:30:04](/episodes/ep-G3zdOeHpvS0.md#t-00-30-04) [○] **Candace Owens**: ["Owens said she believed a shaped charge was intended to strike Charlie Kirk in t..."](/statements/statement-462985b03bdb.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-72901131b4f9">
+
+- [00:30:31](/episodes/ep-G3zdOeHpvS0.md#t-00-30-04) [○] **Candace Owens**: ["Owens argued that Charlie Kirk's white shirt should be tested for explosive resi..."](/statements/statement-72901131b4f9.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
@@ -38929,12 +39564,24 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-16 · The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (4)</summary>
+<summary>2026-06-16 · The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (6)</summary>
 
+<div class="filter-item" data-filter-key="statement-ddbe6f5dd9ff">
+
+- [00:05:54](/episodes/ep-h76ZN-xXC6c.md#t-00-05-39) [○] **Candace Owens**: ["Candace Owens acknowledged that Turning Point USA could have had an ordinary int..."](/statements/statement-ddbe6f5dd9ff.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-00b5c00a6563">
 
 - [00:12:01](/episodes/ep-h76ZN-xXC6c.md#t-00-11-37) [○] **Candace Owens**: ["Owens said there was more evidentiary support for Charlie Kirk possibly being ki..."](/statements/statement-00b5c00a6563.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8a3c67cea3d5">
+
+- [00:27:52](/episodes/ep-h76ZN-xXC6c.md#t-00-27-45) [○] **Candace Owens**: ["Candace Owens acknowledged that the vehicle debris attributed to a shattered mic..."](/statements/statement-8a3c67cea3d5.md)
+  - About: [RØDE Microphones](/entities/org-rode-microphones.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-a782f23875c6">
@@ -38958,7 +39605,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-06-15 · Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+<summary>2026-06-15 · Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2)</summary>
 
 <div class="filter-item" data-filter-key="statement-c782f0bec0f2">
 
@@ -38966,10 +39613,16 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-23d53d68cf39">
+
+- [00:31:07](/episodes/ep-5NQyGuRYbU8.md#t-00-30-49) [○] **Candace Owens**: ["Candace Owens inferred that the FBI's unusual-circumstances FOIA notice likely r..."](/statements/statement-23d53d68cf39.md)
+  - About: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [FBI](/entities/org-fbi.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</div>
 </details>
 
 <details>
-<summary>2026-06-13 · REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (6)</summary>
+<summary>2026-06-13 · REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (7)</summary>
 
 <div class="filter-item" data-filter-key="statement-35e8df5c4a6e">
 
@@ -39005,6 +39658,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:40:55](/episodes/ep-WoXd4oLwd3w.md#t-00-40-41) [○] **Candace Owens**: ["Candace Owens said Turning Point USA had effectively become AIPAC under Erika Ki..."](/statements/statement-b6a87184d15c.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [American Israel Public Affairs Committee](/entities/org-aipac.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a9bd8ea1cf7c">
+
+- [00:43:32](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) [○] **Candace Owens**: ["Candace Owens speculated that Bradley Hansell's Tucson and El Paso stops represe..."](/statements/statement-a9bd8ea1cf7c.md)
+  - About: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 </details>
@@ -39298,7 +39957,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary>2026-05-21 · Candace x Hunter Biden: The Interview (4)</summary>
+<summary>2026-05-21 · Candace x Hunter Biden: The Interview (6)</summary>
 
 <div class="filter-item" data-filter-key="statement-32c8ecfc0b09">
 
@@ -39310,6 +39969,18 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:59:59](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59) [○] **Candace Owens**: ["Donald Trump, Kash Patel, and JD Vance have shown zero interest in the obvious h..."](/statements/statement-5412eb913b0a.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-4cc3b49c97d3">
+
+- [01:04:08](/episodes/ep-Ux1kzgQxkws.md#t-01-04-08) [○] **Hunter Biden**: ["The political response to Charlie Kirk's assassination may reflect disloyalty or..."](/statements/statement-4cc3b49c97d3.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8654a32e376f">
+
+- [01:05:05](/episodes/ep-Ux1kzgQxkws.md#t-01-04-52) [○] **Hunter Biden**: ["The corruption and obfuscation surrounding Charlie Kirk's assassination are visi..."](/statements/statement-8654a32e376f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-97af38fb0829">
@@ -43867,6 +44538,353 @@ _3706 factual claims within 6833 attributed statements._
 </div>
 
 <div class="tab-content tab-content-byepisode">
+
+<details>
+<summary><strong>2026-08-31 · We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380</strong> (57)</summary>
+
+<div class="filter-item" data-filter-key="statement-8c598ab9a08f">
+
+- [00:01:12](/episodes/ep-JrhGEm8MGRY.md#t-00-00-45) [○] (Accusation) **Candace Owens**: ["Candace Owens said the Department of War had people on its payroll attacking her..."](/statements/statement-8c598ab9a08f.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-4dcc9903ce74">
+
+- [00:04:22](/episodes/ep-JrhGEm8MGRY.md#t-00-04-22) [○] (Claim) **Candace Owens**: ["Candace Owens said she met George Farmer at a London event hosted by John and Ir..."](/statements/statement-4dcc9903ce74.md)
+  - About: [George Farmer](/entities/person-george-farmer.md), [John Mappin](/entities/person-john-mappin.md), [Irina Mappin](/entities/person-irina-mappin.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7e6a1b77fd19">
+
+- [00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54) [○] (Claim) **Candace Owens**: ["Owens said John and Irina Mappin helped take Turning Point USA to a higher finan..."](/statements/statement-7e6a1b77fd19.md)
+  - About: [John Mappin](/entities/person-john-mappin.md), [Irina Mappin](/entities/person-irina-mappin.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d451b1393730">
+
+- [00:05:38](/episodes/ep-JrhGEm8MGRY.md#t-00-05-38) [○] (Claim) **Candace Owens**: ["Owens said Charlie Kirk, Erika Kirk, John Mappin, and Irina Mappin traveled to I..."](/statements/statement-d451b1393730.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [John Mappin](/entities/person-john-mappin.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e1ceca69ba23">
+
+- [00:07:07](/episodes/ep-JrhGEm8MGRY.md#t-00-06-53) [○] (Opinion) **John Mappin**: ["John Mappin told Owens that the campaign against her was psychological and descr..."](/statements/statement-e1ceca69ba23.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6db050a52a3d">
+
+- [00:08:04](/episodes/ep-JrhGEm8MGRY.md#t-00-07-38) [○] (Accusation) **John Mappin**: ["John and Irina Mappin wrote that the Charlie Kirk crime scene had apparently bee..."](/statements/statement-6db050a52a3d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Irina Mappin](/entities/person-irina-mappin.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2bae472d17ac">
+
+- [00:08:27](/episodes/ep-JrhGEm8MGRY.md#t-00-08-13) [○] (Opinion) **John Mappin**: ["John and Irina Mappin wrote that executing a possibly innocent person despite re..."](/statements/statement-2bae472d17ac.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Irina Mappin](/entities/person-irina-mappin.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-171330a39e2d">
+
+- [00:13:28](/episodes/ep-JrhGEm8MGRY.md#t-00-13-01) [○] (Claim) **Candace Owens**: ["Owens said she unexpectedly encountered Justin Baldoni and his family in an airp..."](/statements/statement-171330a39e2d.md)
+  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Iceland](/entities/gpe-iceland.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9c93db2237d0">
+
+- [00:14:37](/episodes/ep-JrhGEm8MGRY.md#t-00-14-29) [○] (Claim) **Candace Owens**: ["Owens said she had never met or spoken to Justin Baldoni before their Iceland en..."](/statements/statement-9c93db2237d0.md)
+  - About: [Justin Baldoni](/entities/person-justin-baldoni.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-17a73774e4bc">
+
+- [00:14:52](/episodes/ep-JrhGEm8MGRY.md#t-00-14-29) [○] (Accusation) **Glamour colleague (identity unverified)**: ["An identity-unverified Glamour colleague told Owens that Blake Lively was awful ..."](/statements/statement-17a73774e4bc.md)
+  - About: [Blake Lively](/entities/person-blake-lively.md), [Glamour](/entities/work-glamour-magazine.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3ff75fc66f72">
+
+- [00:16:12](/episodes/ep-JrhGEm8MGRY.md#t-00-15-40) [○] (Accusation) **Candace Owens**: ["Owens accused Blake Lively and Ryan Reynolds of deciding they were entitled to t..."](/statements/statement-3ff75fc66f72.md)
+  - About: [Blake Lively](/entities/person-blake-lively.md), [Ryan Reynolds](/entities/person-ryan-reynolds.md), [Justin Baldoni](/entities/person-justin-baldoni.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7e1534e45eb0">
+
+- [00:17:40](/episodes/ep-JrhGEm8MGRY.md#t-00-17-28) [○] (Accusation) **Blake Lively**: ["Blake Lively alleged in her civil-rights filing that Jamey Heath showed her porn..."](/statements/statement-7e1534e45eb0.md)
+  - About: [Jamey Heath](/entities/person-jamey-heath.md), [California Civil Rights Department](/entities/org-california-civil-rights-department.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-bbe6ba7a4423">
+
+- [00:17:59](/episodes/ep-JrhGEm8MGRY.md#t-00-17-59) [○] (Citation) **Candace Owens**: ["Owens said the filing later disclosed that the video Jamey Heath showed Blake Li..."](/statements/statement-bbe6ba7a4423.md)
+  - About: [Jamey Heath](/entities/person-jamey-heath.md), [Blake Lively](/entities/person-blake-lively.md), [California Civil Rights Department](/entities/org-california-civil-rights-department.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9c759767e61a">
+
+- [00:18:24](/episodes/ep-JrhGEm8MGRY.md#t-00-18-24) [○] (Accusation) **Candace Owens**: ["Owens said Blake Lively required Justin Baldoni to sit in a basement during the ..."](/statements/statement-9c759767e61a.md)
+  - About: [Blake Lively](/entities/person-blake-lively.md), [Justin Baldoni](/entities/person-justin-baldoni.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9e296bad8546">
+
+- [00:18:57](/episodes/ep-JrhGEm8MGRY.md#t-00-18-57) [○] (Claim) **Candace Owens**: ["Owens said Ryan Reynolds reshot Deadpool scenes to include a character that was ..."](/statements/statement-9e296bad8546.md)
+  - About: [Ryan Reynolds](/entities/person-ryan-reynolds.md), [Justin Baldoni](/entities/person-justin-baldoni.md), [Deadpool & Wolverine](/entities/work-deadpool-and-wolverine.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d9f28a2e8729">
+
+- [00:20:14](/episodes/ep-JrhGEm8MGRY.md#t-00-20-07) [○] (Claim) **Candace Owens**: ["Owens recounted that Justin Baldoni and his wife said they had been close to roc..."](/statements/statement-d9f28a2e8729.md)
+  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Blake Lively](/entities/person-blake-lively.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-60fa785ab2e1">
+
+- [00:21:03](/episodes/ep-JrhGEm8MGRY.md#t-00-21-03) [○] (Claim) **Justin Baldoni**: ["Justin Baldoni told Owens that he had never watched the Deadpool movie or the Ni..."](/statements/statement-60fa785ab2e1.md)
+  - About: [Deadpool & Wolverine](/entities/work-deadpool-and-wolverine.md), [Ryan Reynolds](/entities/person-ryan-reynolds.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c52d90979686">
+
+- [00:25:39](/episodes/ep-JrhGEm8MGRY.md#t-00-25-03) [○] (Claim) **Candace Owens**: ["Owens said PreBorn’s supporters had helped save more than 50,000 babies from abo..."](/statements/statement-c52d90979686.md)
+  - About: [PreBorn!](/entities/org-preborn.md), [Abortion](/entities/concept-abortion.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e298e66d1024">
+
+- [00:25:48](/episodes/ep-JrhGEm8MGRY.md#t-00-25-48) [○] (Claim) **Candace Owens**: ["Owens said more than 8,000 women had decided to follow Christ that year through ..."](/statements/statement-e298e66d1024.md)
+  - About: [PreBorn!](/entities/org-preborn.md), [Jesus Christ](/entities/person-jesus-christ.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e5ced0fabe1f">
+
+- [00:25:57](/episodes/ep-JrhGEm8MGRY.md#t-00-25-48) [○] (Claim) **Candace Owens**: ["Owens said a PreBorn ultrasound costs $28 and placing an ultrasound machine in a..."](/statements/statement-e5ced0fabe1f.md)
+  - About: [PreBorn!](/entities/org-preborn.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-12279afb4159">
+
+- [00:27:15](/episodes/ep-JrhGEm8MGRY.md#t-00-27-15) [○] (Claim) **Candace Owens**: ["Owens said 1stHour trauma kits were trusted by EMTs, emergency-room nurses, mili..."](/statements/statement-12279afb4159.md)
+  - About: [1stHour](/entities/org-1sthour.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e5d1c9dfd49d">
+
+- [00:27:53](/episodes/ep-JrhGEm8MGRY.md#t-00-27-53) [○] (Opinion) **Candace Owens**: ["Owens said the campaign surrounding her looked well-funded and almost like a mil..."](/statements/statement-e5d1c9dfd49d.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Psychological operations](/entities/concept-psychological-operations.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a7965c09ea8f">
+
+- [00:28:16](/episodes/ep-JrhGEm8MGRY.md#t-00-27-53) [○] (Accusation) **Candace Owens**: ["Owens accused Turning Point USA, and Erika Kirk in particular, of directing a fu..."](/statements/statement-a7965c09ea8f.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cf93056634f6">
+
+- [00:28:55](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28) [○] (Citation) **Candace Owens**: ["Owens said NCRI released the report Permission to Kill on the first day of Tyler..."](/statements/statement-cf93056634f6.md)
+  - About: [Network Contagion Research Institute](/entities/org-network-contagion-research-institute.md), [Permission to Kill: How Candace Owens Built a Digital Assassination Culture Targeting Erika Kirk](/entities/work-permission-to-kill-ncri-report.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-103afdff4d24">
+
+- [00:29:20](/episodes/ep-JrhGEm8MGRY.md#t-00-29-08) [○] (Accusation) **Candace Owens**: ["Owens suggested that Jennica Pounds could be the person shown walking up the sta..."](/statements/statement-103afdff4d24.md)
+  - About: [Jennica Pounds](/entities/person-jennica-pounds.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9b20defbf892">
+
+- [00:29:53](/episodes/ep-JrhGEm8MGRY.md#t-00-29-53) [○] (Claim) **Candace Owens**: ["Owens said Elon Musk promoted Jennica Pounds in 2025."](/statements/statement-9b20defbf892.md)
+  - About: [Elon Musk](/entities/person-elon-musk.md), [Jennica Pounds](/entities/person-jennica-pounds.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7c2f07ebd097">
+
+- [00:30:49](/episodes/ep-JrhGEm8MGRY.md#t-00-30-34) [○] (Accusation) **Candace Owens**: ["Owens characterized Jennica Pounds’s thread as basically saying the NCRI report ..."](/statements/statement-7c2f07ebd097.md)
+  - About: [Jennica Pounds](/entities/person-jennica-pounds.md), [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6c1a88c854dc">
+
+- [00:31:32](/episodes/ep-JrhGEm8MGRY.md#t-00-31-01) [○] (Accusation) **Andrew Kolvet**: ["Andrew Kolvet wrote that Candace Owens and her audience had created the requisit..."](/statements/statement-6c1a88c854dc.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-135efe0c7da8">
+
+- [00:31:54](/episodes/ep-JrhGEm8MGRY.md#t-00-31-46) [○] (Opinion) **Bill Ackman**: ["Bill Ackman promoted Jennica Pounds’s thread as “an important read on Charlie Ki..."](/statements/statement-135efe0c7da8.md)
+  - About: [Jennica Pounds](/entities/person-jennica-pounds.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-38e582c0d6c2">
+
+- [00:32:38](/episodes/ep-JrhGEm8MGRY.md#t-00-32-19) [○] (Accusation) **Candace Owens**: ["Owens accused State Department official Sarah B. Rogers of leaking material to J..."](/statements/statement-38e582c0d6c2.md)
+  - About: [Sarah B. Rogers](/entities/person-sarah-b-rogers.md), [Jennica Pounds](/entities/person-jennica-pounds.md), [United States Department of State](/entities/org-united-states-department-of-state.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-303860398b64">
+
+- [00:33:10](/episodes/ep-JrhGEm8MGRY.md#t-00-32-58) [○] (Claim) **Candace Owens**: ["Owens said Sarah B. Rogers was a close friend of Blake Neff."](/statements/statement-303860398b64.md)
+  - About: [Sarah B. Rogers](/entities/person-sarah-b-rogers.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f18ecbf50f91">
+
+- [00:33:30](/episodes/ep-JrhGEm8MGRY.md#t-00-33-30) [○] (Claim) **Blake Neff**: ["Blake Neff wrote that Sarah B. Rogers was one of Charlie Kirk’s favorite Trump n..."](/statements/statement-f18ecbf50f91.md)
+  - About: [Sarah B. Rogers](/entities/person-sarah-b-rogers.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [United States Department of State](/entities/org-united-states-department-of-state.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1217c9844390">
+
+- [00:34:17](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07) [○] (Claim) **Jennica Pounds**: ["Jennica Pounds wrote that she began working as a special government employee for..."](/statements/statement-1217c9844390.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c61cc8f7861f">
+
+- [00:34:24](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07) [○] (Accusation) **Candace Owens**: ["Owens said that, in her interpretation, Jennica Pounds meant she was serving the..."](/statements/statement-c61cc8f7861f.md)
+  - About: [Jennica Pounds](/entities/person-jennica-pounds.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9ac50fab32f8">
+
+- [00:34:34](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07) [○] (Claim) **Jennica Pounds**: ["Jennica Pounds wrote that her Pentagon press credentials expired in June and tha..."](/statements/statement-9ac50fab32f8.md)
+  - About: [United States Pentagon](/entities/org-united-states-pentagon.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c90d46b58982">
+
+- [00:35:16](/episodes/ep-JrhGEm8MGRY.md#t-00-35-16) [○] (Accusation) **Candace Owens**: ["Owens guessed that Bill Ackman might be funding Jennica Pounds’s institute."](/statements/statement-c90d46b58982.md)
+  - About: [Bill Ackman](/entities/person-bill-ackman.md), [Jennica Pounds](/entities/person-jennica-pounds.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fc83166ced37">
+
+- [00:35:16](/episodes/ep-JrhGEm8MGRY.md#t-00-35-16) [○] (Accusation) **Candace Owens**: ["Owens claimed the effort portraying her investigation as dangerous was backed by..."](/statements/statement-fc83166ced37.md)
+  - About: [United States Department of State](/entities/org-united-states-department-of-state.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c89b1f2528a1">
+
+- [00:35:46](/episodes/ep-JrhGEm8MGRY.md#t-00-35-16) [○] (Accusation) **Candace Owens**: ["Owens rhetorically asked why the State Department and Department of War would wa..."](/statements/statement-c89b1f2528a1.md)
+  - About: [United States Department of State](/entities/org-united-states-department-of-state.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ced363b2d15b">
+
+- [00:36:27](/episodes/ep-JrhGEm8MGRY.md#t-00-36-01) [○] (Accusation) **Candace Owens**: ["Owens accused the Department of War-aligned campaign of putting a target on her ..."](/statements/statement-ced363b2d15b.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c9dfee8bf4e3">
+
+- [00:36:50](/episodes/ep-JrhGEm8MGRY.md#t-00-36-41) [○] (Accusation) **Candace Owens**: ["Owens said that when Charlie Kirk was shot, she knew he had been betrayed."](/statements/statement-c9dfee8bf4e3.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1731a0a2e184">
+
+- [00:36:56](/episodes/ep-JrhGEm8MGRY.md#t-00-36-41) [○] (Promise) **Candace Owens**: ["Owens promised to reveal explosive material during the rest of the week that she..."](/statements/statement-1731a0a2e184.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e12f30ab0ccd">
+
+- [00:37:43](/episodes/ep-JrhGEm8MGRY.md#t-00-37-12) [○] (Claim) **Candace Owens**: ["Owens said Turning Point USA’s newly announced tour was called Love It or Leave ..."](/statements/statement-e12f30ab0ccd.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6877274b61af">
+
+- [00:37:57](/episodes/ep-JrhGEm8MGRY.md#t-00-37-46) [○] (Accusation) **Candace Owens**: ["Owens claimed Ben Shapiro wanted to take over Turning Point USA because his own ..."](/statements/statement-6877274b61af.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2ae00f43a3e8">
+
+- [00:38:58](/episodes/ep-JrhGEm8MGRY.md#t-00-38-25) [○] (Accusation) **Candace Owens**: ["Owens said, with uncertainty and explicitly alleging, that she thought Mat Nucle..."](/statements/statement-2ae00f43a3e8.md)
+  - About: [Mat Nuclear](/entities/person-mat-nuclear.md), [Florida](/entities/gpe-florida.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-eafe09986346">
+
+- [00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35) [○] (Opinion) **Candace Owens**: ["Owens said Erika Kirk could not lead Turning Point USA and that the organization..."](/statements/statement-eafe09986346.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6c9db563e5e0">
+
+- [00:39:56](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35) [○] (Prediction) **Candace Owens**: ["Owens predicted that another organization would rise and take Turning Point USA’..."](/statements/statement-6c9db563e5e0.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8cb1688a11d8">
+
+- [00:40:08](/episodes/ep-JrhGEm8MGRY.md#t-00-40-08) [○] (Accusation) **Candace Owens**: ["Owens accused Turning Point USA of partnering with the Department of War to prop..."](/statements/statement-8cb1688a11d8.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-de53d65453f2">
+
+- [00:41:31](/episodes/ep-JrhGEm8MGRY.md#t-00-41-10) [○] (Claim) **Candace Owens**: ["Owens said Tax Network USA had helped taxpayers nationwide for more than 15 year..."](/statements/statement-de53d65453f2.md)
+  - About: [Tax Network USA](/entities/org-tax-network-usa.md), [Internal Revenue Service](/entities/org-internal-revenue-service.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-23ee838eb418">
+
+- [00:41:38](/episodes/ep-JrhGEm8MGRY.md#t-00-41-10) [○] (Claim) **Candace Owens**: ["Owens said Tax Network USA had resolved more than $1 billion in tax debt."](/statements/statement-23ee838eb418.md)
+  - About: [Tax Network USA](/entities/org-tax-network-usa.md), [Internal Revenue Service](/entities/org-internal-revenue-service.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c8c190f854d4">
+
+- [00:42:29](/episodes/ep-JrhGEm8MGRY.md#t-00-42-29) [○] (Claim) **Candace Owens**: ["Owens said American Financing borrowers save an average of $800 per month."](/statements/statement-c8c190f854d4.md)
+  - About: [American Financing](/entities/org-american-financing.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6944490af53a">
+
+- [00:43:01](/episodes/ep-JrhGEm8MGRY.md#t-00-43-01) [○] (Citation) **Candace Owens**: ["Owens said an email from the Department of War called Erika Kirk an “emotional a..."](/statements/statement-6944490af53a.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-67a8772b2bfc">
+
+- [00:43:15](/episodes/ep-JrhGEm8MGRY.md#t-00-43-01) [○] (Accusation) **Candace Owens**: ["Owens said her team had basically been stonewalled on FOIA requests seeking conf..."](/statements/statement-67a8772b2bfc.md)
+  - About: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7539c7effad9">
+
+- [00:43:30](/episodes/ep-JrhGEm8MGRY.md#t-00-43-01) [○] (Accusation) **Candace Owens**: ["Owens claimed the FOIA responses further proved that the Department of War had b..."](/statements/statement-7539c7effad9.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fedb922d3577">
+
+- [00:46:47](/episodes/ep-JrhGEm8MGRY.md#t-00-46-39) [○] (Claim) **Candace Owens**: ["Owens said Charlie Kirk texted multiple people on September 9 saying that he wan..."](/statements/statement-fedb922d3577.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [September 9th](/entities/date-september-9th.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-088cccbc74b0">
+
+- [00:47:14](/episodes/ep-JrhGEm8MGRY.md#t-00-47-14) [○] (Opinion) **Candace Owens**: ["Owens said she thought Charlie Kirk had begun to see people around him as radica..."](/statements/statement-088cccbc74b0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-bce3eb025161">
+
+- [00:49:01](/episodes/ep-JrhGEm8MGRY.md#t-00-49-01) [○] (Accusation) **Candace Owens**: ["Owens accused Young America’s Foundation of paying people to attend the Turning ..."](/statements/statement-bce3eb025161.md)
+  - About: [Young America's Foundation](/entities/org-young-americas-foundation.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f6d8edfde0f1">
+
+- [00:51:23](/episodes/ep-JrhGEm8MGRY.md#t-00-51-03) [○] (Promise) **Candace Owens**: ["Owens promised to show explosive new footage the following day."](/statements/statement-f6d8edfde0f1.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+</details>
 
 <details>
 <summary><strong>2026-08-21 · Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379</strong> (38)</summary>
@@ -48967,7 +49985,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-06-26 · TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356</strong> (44)</summary>
+<summary><strong>2026-06-26 · TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356</strong> (45)</summary>
 
 <div class="filter-item" data-filter-key="statement-4966d942cf81">
 
@@ -49161,6 +50179,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Sarah Tewell](/entities/person-sarah-tewell.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-b6b170c4a0a7">
+
+- [00:36:55](/episodes/ep-IqHsl7d2dos.md#t-00-36-35) [○] (Accusation) **Candace Owens**: ["Owens alleged that Sarah Tewell's in-law family controlled emergency-dispatch an..."](/statements/statement-b6b170c4a0a7.md)
+  - About: [Sarah Tewell](/entities/person-sarah-tewell.md), [Carbyne](/entities/org-carbyne.md), [Ehud Barak](/entities/person-ehud-barak.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-bff1916cbfe6">
 
 - [00:39:23](/episodes/ep-IqHsl7d2dos.md#t-00-39-23) [◐] (Citation) **Candace Owens**: ["Owens said Epstein's emails stated that Lynn Forester de Rothschild established ..."](/statements/statement-bff1916cbfe6.md)
@@ -49319,7 +50343,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-06-24 · Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355</strong> (47)</summary>
+<summary><strong>2026-06-24 · Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355</strong> (49)</summary>
 
 <div class="filter-item" data-filter-key="statement-11818d372668">
 
@@ -49329,7 +50353,7 @@ _3706 factual claims within 6833 attributed statements._
 </div>
 <div class="filter-item" data-filter-key="statement-9cbf0a587f03">
 
-- [00:03:15](/episodes/ep-sKuYLNx3iRo.md#t-00-02-46) [○] (Claim) **RØDE microphone shard email tipster (name unstated)**: ["An anonymous email tipster said they thought there was no room for doubt that a ..."](/statements/statement-9cbf0a587f03.md)
+- [00:03:15](/episodes/ep-sKuYLNx3iRo.md#t-00-02-46) [○] (Claim) **Anonymous RØDE USB-logo image tipster**: ["An anonymous email tipster said they thought there was no room for doubt that a ..."](/statements/statement-9cbf0a587f03.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md), [Universal Serial Bus](/entities/concept-universal-serial-bus.md)
 
 </div>
@@ -49459,6 +50483,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-412e4be95bd2">
+
+- [00:27:03](/episodes/ep-sKuYLNx3iRo.md#t-00-26-48) [○] (Opinion) **Candace Owens**: ["Owens argued that if an explosive killed Charlie Kirk, transferable residue woul..."](/statements/statement-412e4be95bd2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-4c633d7116b1">
 
 - [00:28:13](/episodes/ep-sKuYLNx3iRo.md#t-00-28-13) [✓] (Claim) **Frank Turek**: ["Frank Turek said Charlie Kirk was shot at about 12:20 and that the group reached..."](/statements/statement-4c633d7116b1.md)
@@ -49481,6 +50511,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:29:44](/episodes/ep-sKuYLNx3iRo.md#t-00-29-44) [○] (Claim) **Terrell Farnsworth**: ["Terrell Farnsworth reportedly told Owens that he removed the cameras because he ..."](/statements/statement-c4d00a836bfd.md)
   - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-68d640198bef">
+
+- [00:32:44](/episodes/ep-sKuYLNx3iRo.md#t-00-32-13) [○] (Opinion) **Candace Owens**: ["Owens said she had not seen Charlie Kirk's pants listed in evidence and guessed ..."](/statements/statement-68d640198bef.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-78d75ebbd342">
@@ -49606,8 +50642,14 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-06-23 · Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354</strong> (35)</summary>
+<summary><strong>2026-06-23 · Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354</strong> (38)</summary>
 
+<div class="filter-item" data-filter-key="statement-3f5b02d2303e">
+
+- [00:03:11](/episodes/ep-9CuC1yf8-PU.md#t-00-02-54) [○] (Opinion) **Candace Owens**: ["Owens said Charlie Kirk's white Freedom shirt could carry explosive residue and ..."](/statements/statement-3f5b02d2303e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-1f88cf63ec3b">
 
 - [00:03:37](/episodes/ep-9CuC1yf8-PU.md#t-00-03-37) [◐] (Claim) **Candace Owens**: ["Owens said ten inches of soil at the scene were dug out and the area was repaved..."](/statements/statement-1f88cf63ec3b.md)
@@ -49642,6 +50684,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:09:57](/episodes/ep-9CuC1yf8-PU.md#t-00-09-30) [○] (Accusation) **Candace Owens**: ["Brian Harpole lied badly to Shawn Ryan in an interview"](/statements/statement-bf4a6840e928.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Shawn Ryan](/entities/person-shawn-ryan.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-843d0661b4a9">
+
+- [00:10:04](/episodes/ep-9CuC1yf8-PU.md#t-00-09-30) [○] (Accusation) **Candace Owens**: ["Owens inferred that the FBI's seizure of hospital camera footage prevented the p..."](/statements/statement-843d0661b4a9.md)
+  - About: [FBI](/entities/org-fbi.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Brian Harpole](/entities/person-brian-harpole.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-bc21b49131bd">
@@ -49740,6 +50788,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-c1580675b5fa">
+
+- [00:27:27](/episodes/ep-9CuC1yf8-PU.md#t-00-27-15) [○] (Claim) **Candace Owens**: ["Owens reported that Judge Tony Graf treated the proceeding as a preliminary prob..."](/statements/statement-c1580675b5fa.md)
+  - About: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-e5d2de99bd4c">
 
 - [00:27:33](/episodes/ep-9CuC1yf8-PU.md#t-00-27-15) [○] (Opinion) **Candace Owens**: ["Owens characterized the Tyler Robinson proceeding as a show trial because eviden..."](/statements/statement-e5d2de99bd4c.md)
@@ -49821,7 +50875,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-06-22 · I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353</strong> (41)</summary>
+<summary><strong>2026-06-22 · I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353</strong> (45)</summary>
 
 <div class="filter-item" data-filter-key="statement-68e2721ed243">
 
@@ -49851,6 +50905,24 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:08:20](/episodes/ep-VMNWMXX1vO8.md#t-00-08-20) [○] (Claim) **Candace Owens**: ["At Charlie Kirk's request, Terrell Farnsworth's team was removed from Charlie's ..."](/statements/statement-b1596f5cb911.md)
   - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Visual Impulse, LLC](/entities/org-visual-impulse.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6c07a65ba471">
+
+- [00:11:05](/episodes/ep-VMNWMXX1vO8.md#t-00-10-41) [○] (Claim) **Candace Owens**: ["Owens said Parker Edwards attended the same high school as Taryl Farnsworth and ..."](/statements/statement-6c07a65ba471.md)
+  - About: [Parker Edwards](/entities/person-parker-edwards.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5034a6cce1c8">
+
+- [00:11:35](/episodes/ep-VMNWMXX1vO8.md#t-00-11-20) [○] (Claim) **Candace Owens**: ["Owens said Aaron Edwards also worked for Visual Impulse and attended the same hi..."](/statements/statement-5034a6cce1c8.md)
+  - About: [Aaron Edwards](/entities/person-aaron-edwards.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Visual Impulse, LLC](/entities/org-visual-impulse.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b61ea5758f8a">
+
+- [00:12:07](/episodes/ep-VMNWMXX1vO8.md#t-00-11-54) [○] (Claim) **Candace Owens**: ["Owens said Robert Golo was the camera operator standing next to Taryl Farnsworth..."](/statements/statement-b61ea5758f8a.md)
+  - About: [Robert Golo](/entities/person-robert-golo.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-aea5e285d9dc">
@@ -49887,6 +50959,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:17:27](/episodes/ep-VMNWMXX1vO8.md#t-00-16-58) [○] (Accusation) **Candace Owens**: ["My theory is that Terrell Farnsworth scrambled to remove the camera's SD card be..."](/statements/statement-28dc2a93e039.md)
   - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Shaped charge](/entities/concept-shaped-charge.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-1e1d6c109928">
+
+- [00:19:00](/episodes/ep-VMNWMXX1vO8.md#t-00-19-00) [○] (Claim) **Candace Owens**: ["Owens said she received emails claiming that Fort Huachuca personnel could have ..."](/statements/statement-1e1d6c109928.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-0d2a0eb81e8b">
@@ -50072,7 +51150,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-06-18 · The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352</strong> (47)</summary>
+<summary><strong>2026-06-18 · The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352</strong> (50)</summary>
 
 <div class="filter-item" data-filter-key="statement-41af199afa3a">
 
@@ -50290,6 +51368,24 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-2b97002310a5">
+
+- [00:24:21](/episodes/ep-3QJqtW_NOSI.md#t-00-24-08) [○] (Opinion) **Candace Owens**: ["Owens said the relationship between the Trump administration and Turning Point U..."](/statements/statement-2b97002310a5.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-311e3930d4d5">
+
+- [00:26:07](/episodes/ep-3QJqtW_NOSI.md#t-00-25-48) [○] (Claim) **Candace Owens**: ["Owens said Michael McCoy's wife, Elizabeth Kravchuk, was another person in the T..."](/statements/statement-311e3930d4d5.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cc1b394df29f">
+
+- [00:27:02](/episodes/ep-3QJqtW_NOSI.md#t-00-26-32) [○] (Citation) **Candace Owens**: ["Owens cited Good Call Ministries' website as listing rescue operations for refug..."](/statements/statement-cc1b394df29f.md)
+  - About: [Good Call Ministries](/entities/org-good-call-ministries.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-7cf6e7a4143a">
 
 - [00:32:16](/episodes/ep-3QJqtW_NOSI.md#t-00-32-06) [○] (Opinion) **Candace Owens**: ["Owens said she did not believe Donald Trump was merely an unwitting victim of th..."](/statements/statement-7cf6e7a4143a.md)
@@ -50359,11 +51455,17 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-06-17 · A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351</strong> (45)</summary>
+<summary><strong>2026-06-17 · A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351</strong> (51)</summary>
 
 <div class="filter-item" data-filter-key="statement-ba3c2462e968">
 
 - [00:00:01](/episodes/ep-G3zdOeHpvS0.md#t-00-00-01) [○] (Opinion) **Candace Owens**: ["Owens said the theory that Charlie Kirk's microphone may have been rigged appear..."](/statements/statement-ba3c2462e968.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-74d7b7715ace">
+
+- [00:00:01](/episodes/ep-G3zdOeHpvS0.md#t-00-00-01) [○] (Opinion) **Candace Owens**: ["Owens said it appeared to her that, if the rigged-microphone theory were correct..."](/statements/statement-74d7b7715ace.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
@@ -50439,6 +51541,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-6885916cc34c">
+
+- [00:08:51](/episodes/ep-G3zdOeHpvS0.md#t-00-08-44) [○] (Opinion) **Candace Owens**: ["Owens argued that, under the rigged-microphone theory, the absence of a standby ..."](/statements/statement-6885916cc34c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-81224486cc3c">
 
 - [00:10:38](/episodes/ep-G3zdOeHpvS0.md#t-00-10-30) [◐] (Claim) **Candace Owens**: ["Owens said Charlie Kirk's RODE wireless microphone was placed inside his shirt e..."](/statements/statement-81224486cc3c.md)
@@ -50473,6 +51581,11 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:15:30](/episodes/ep-G3zdOeHpvS0.md#t-00-15-25) [◐] (Claim) **Sam Parker**: ["Sam Parker said video showed Philip Goldsberry Jr. holding a RODE Wireless Pro m..."](/statements/statement-46b9e8c7287e.md)
   - About: [Phillip Goldsberry Jr.](/entities/person-phillip-goldsberry-jr.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6c4761a1e3cc">
+
+- [00:16:20](/episodes/ep-G3zdOeHpvS0.md#t-00-16-20) [○] (Claim) **Anonymous Source #3 (Ep G3zdOeHpvS0)**: ["An unidentified product-demo narrator said the microphone's magnetic clips were ..."](/statements/statement-6c4761a1e3cc.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-de0869762edf">
@@ -50529,15 +51642,33 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Phoenix](/entities/gpe-phoenix.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-b79d21518df2">
+
+- [00:28:50](/episodes/ep-G3zdOeHpvS0.md#t-00-28-38) [○] (Claim) **Candace Owens**: ["Owens said current and former Turning Point USA employees consistently reported ..."](/statements/statement-b79d21518df2.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-44b92ae620c4">
 
 - [00:29:34](/episodes/ep-G3zdOeHpvS0.md#t-00-29-20) [◐] (Accusation) **Candace Owens**: ["Owens said federal investigators did not take much of the relevant material into..."](/statements/statement-44b92ae620c4.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-851913396885">
+
+- [00:29:50](/episodes/ep-G3zdOeHpvS0.md#t-00-29-20) [○] (Opinion) **Candace Owens**: ["Owens said the whereabouts of Charlie Kirk's clothes were unclear and argued tha..."](/statements/statement-851913396885.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-462985b03bdb">
 
 - [00:30:04](/episodes/ep-G3zdOeHpvS0.md#t-00-30-04) [○] (Opinion) **Candace Owens**: ["Owens said she believed a shaped charge was intended to strike Charlie Kirk in t..."](/statements/statement-462985b03bdb.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-72901131b4f9">
+
+- [00:30:31](/episodes/ep-G3zdOeHpvS0.md#t-00-30-04) [○] (Opinion) **Candace Owens**: ["Owens argued that Charlie Kirk's white shirt should be tested for explosive resi..."](/statements/statement-72901131b4f9.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
@@ -50634,7 +51765,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-06-16 · The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350</strong> (33)</summary>
+<summary><strong>2026-06-16 · The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350</strong> (38)</summary>
 
 <div class="filter-item" data-filter-key="statement-d98c1d72c175">
 
@@ -50646,6 +51777,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:04:55](/episodes/ep-h76ZN-xXC6c.md#t-00-04-25) [✓] (Claim) **Candace Owens**: ["Owens said Charlie Kirk may have begun using a wireless microphone in addition t..."](/statements/statement-5e7ffeabd087.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ddbe6f5dd9ff">
+
+- [00:05:54](/episodes/ep-h76ZN-xXC6c.md#t-00-05-39) [○] (Opinion) **Candace Owens**: ["Candace Owens acknowledged that Turning Point USA could have had an ordinary int..."](/statements/statement-ddbe6f5dd9ff.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-d7cb35f47244">
@@ -50690,6 +51827,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-e3a4c07fddbf">
+
+- [00:20:08](/episodes/ep-h76ZN-xXC6c.md#t-00-19-54) [○] (Claim) **News reporter (unidentified)**: ["A news reporter said petitions were asking the university to turn the courtyard ..."](/statements/statement-e3a4c07fddbf.md)
+  - About: [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-ac4290e8f588">
 
 - [00:20:19](/episodes/ep-h76ZN-xXC6c.md#t-00-20-17) [◐] (Claim) **Candace Owens**: ["Owens said a .30-06 bullet would have effectively decapitated Charlie Kirk."](/statements/statement-ac4290e8f588.md)
@@ -50712,6 +51855,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:25:26](/episodes/ep-h76ZN-xXC6c.md#t-00-24-48) [○] (Accusation) **Candace Owens**: ["Owens argued that the rapid towing, cleaning, and resale listing of the vehicle ..."](/statements/statement-d3625a388c6f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8a3c67cea3d5">
+
+- [00:27:52](/episodes/ep-h76ZN-xXC6c.md#t-00-27-45) [○] (Opinion) **Candace Owens**: ["Candace Owens acknowledged that the vehicle debris attributed to a shattered mic..."](/statements/statement-8a3c67cea3d5.md)
+  - About: [RØDE Microphones](/entities/org-rode-microphones.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-a782f23875c6">
@@ -50756,6 +51905,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-d31144ce9e27">
+
+- [00:37:04](/episodes/ep-h76ZN-xXC6c.md#t-00-37-04) [○] (Claim) **Jack Hibbs**: ["Jack Hibbs said he believed either Frank Turek or Michael McCoy placed the first..."](/statements/statement-d31144ce9e27.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-4b8acb618d02">
 
 - [00:37:53](/episodes/ep-h76ZN-xXC6c.md#t-00-37-51) [✓] (Claim) **Frank Turek**: ["Frank Turek said he was FaceTiming his son and daughter-in-law during the event ..."](/statements/statement-4b8acb618d02.md)
@@ -50772,6 +51927,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:40:02](/episodes/ep-h76ZN-xXC6c.md#t-00-39-37) [○] (Claim) **Candace Owens**: ["Owens said no Turning Point USA staffer she asked had confirmed watching the cla..."](/statements/statement-2578b6478352.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-446b0fd886f1">
+
+- [00:44:35](/episodes/ep-h76ZN-xXC6c.md#t-00-44-35) [○] (Accusation) **Candace Owens**: ["Candace Owens said some theorists believed the rigged microphone device might ha..."](/statements/statement-446b0fd886f1.md)
+  - About: [Accurate Energetic Systems, LLC](/entities/org-accurate-energetic-systems.md), [RØDE Microphones](/entities/org-rode-microphones.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-eb4c2f71a378">
@@ -50837,7 +51998,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-06-15 · Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349</strong> (49)</summary>
+<summary><strong>2026-06-15 · Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349</strong> (55)</summary>
 
 <div class="filter-item" data-filter-key="statement-7537bc4551d4">
 
@@ -50899,6 +52060,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-0b61da1e4750">
+
+- [00:05:42](/episodes/ep-5NQyGuRYbU8.md#t-00-05-24) [○] (Accusation) **Candace Owens**: ["Candace Owens suggested that Donald Trump might feature in the story of Charlie ..."](/statements/statement-0b61da1e4750.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-4d377e1599cf">
 
 - [00:05:49](/episodes/ep-5NQyGuRYbU8.md#t-00-05-24) [○] (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of rewarding Charlie Kirk's members and securit..."](/statements/statement-4d377e1599cf.md)
@@ -50951,6 +52118,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:11:55](/episodes/ep-5NQyGuRYbU8.md#t-00-11-26) [✓] (Claim) **Candace Owens**: ["Candace Owens said Corey Comperatore was then shot in the head at the Butler ral..."](/statements/statement-a286f1402e98.md)
   - About: [Corey Comperatore](/entities/person-corey-comperatore.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-4bd468b80a6f">
+
+- [00:12:01](/episodes/ep-5NQyGuRYbU8.md#t-00-12-01) [○] (Claim) **Candace Owens**: ["Candace Owens said Mark A. Liti was Facebook friends with several members of Tho..."](/statements/statement-4bd468b80a6f.md)
+  - About: [Mark A. Liti](/entities/person-mark-liti.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-4d44c111cb98">
@@ -51007,16 +52180,34 @@ _3706 factual claims within 6833 attributed statements._
   - About: [PETN](/entities/concept-petn.md), [YouTube](/entities/org-youtube.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-2cb50bcd2e1c">
+
+- [00:21:09](/episodes/ep-5NQyGuRYbU8.md#t-00-21-09) [○] (Citation) **Candace Owens**: ["Candace Owens cited a persistent theory that Charlie Kirk's road microphone was ..."](/statements/statement-2cb50bcd2e1c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [PETN](/entities/concept-petn.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-d2fa62164eb6">
 
 - [00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) [✓] (Claim) **Candace Owens**: ["Candace Owens said Benjamin Netanyahu gave Donald Trump a golden pager at the Wh..."](/statements/statement-d2fa62164eb6.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-38ff2727e895">
+
+- [00:22:08](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) [○] (Accusation) **Candace Owens**: ["Candace Owens speculated that Benjamin Netanyahu's golden-pager gift to Donald T..."](/statements/statement-38ff2727e895.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md), [Mossad](/entities/org-mossad.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-0d783c32b84b">
 
 - [00:23:03](/episodes/ep-5NQyGuRYbU8.md#t-00-22-31) [◐] (Accusation) **Candace Owens**: ["Candace Owens accused the United States of supplying Israel with white phosphoru..."](/statements/statement-0d783c32b84b.md)
   - About: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md), [Lebanon](/entities/gpe-lebanon.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-09de59bd7dad">
+
+- [00:23:33](/episodes/ep-5NQyGuRYbU8.md#t-00-23-13) [○] (Accusation) **Candace Owens**: ["Candace Owens speculated that Butler may have been an assassination success agai..."](/statements/statement-09de59bd7dad.md)
+  - About: [Corey Comperatore](/entities/person-corey-comperatore.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-ea615daf7444">
@@ -51047,6 +52238,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:30:37](/episodes/ep-5NQyGuRYbU8.md#t-00-30-08) [✓] (Citation) **FBI**: ["The FBI's FOIA response told Candace Owens that unusual circumstances applied to..."](/statements/statement-e8bbf7d482af.md)
   - About: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-23d53d68cf39">
+
+- [00:31:07](/episodes/ep-5NQyGuRYbU8.md#t-00-30-49) [○] (Opinion) **Candace Owens**: ["Candace Owens inferred that the FBI's unusual-circumstances FOIA notice likely r..."](/statements/statement-23d53d68cf39.md)
+  - About: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [FBI](/entities/org-fbi.md), [Kash Patel](/entities/person-kash-patel.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-1fdb3b78920a">
@@ -51136,7 +52333,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-06-13 · REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348</strong> (42)</summary>
+<summary><strong>2026-06-13 · REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348</strong> (46)</summary>
 
 <div class="filter-item" data-filter-key="statement-f73d6f2037c9">
 
@@ -51222,6 +52419,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Dan Bongino](/entities/person-dan-bongino.md), [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-206782480e5d">
+
+- [00:11:34](/episodes/ep-WoXd4oLwd3w.md#t-00-11-05) [○] (Accusation) **Candace Owens**: ["Candace Owens proposed that the Butler shooting could have been staged with Dona..."](/statements/statement-206782480e5d.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-1ddd7e1e4748">
 
 - [00:12:08](/episodes/ep-WoXd4oLwd3w.md#t-00-11-46) [○] (Opinion) **Candace Owens**: ["Candace Owens said she was inclined to believe the Butler shooting was a real as..."](/statements/statement-1ddd7e1e4748.md)
@@ -51268,6 +52471,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:17:36](/episodes/ep-WoXd4oLwd3w.md#t-00-17-07) [○] (Claim) **Candace Owens**: ["Candace Owens claimed Charlie Kirk lost millions of dollars from pro-Israel dono..."](/statements/statement-2b7412e68285.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5405a3dfe8e6">
+
+- [00:22:20](/episodes/ep-WoXd4oLwd3w.md#t-00-22-11) [○] (Citation) **Erika Kirk**: ["In a July 14 speech, Erika Kirk described Israel as the promised land facing con..."](/statements/statement-5405a3dfe8e6.md)
+  - About: [Israel](/entities/gpe-israel.md), [James Kaddis](/entities/person-james-kaddis.md), [Calvary Chapel Chino Hills](/entities/org-calvary-chapel-chino-hills.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-c58dc6ef33c5">
@@ -51348,6 +52557,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [SAM 702](/entities/vehicle-sam-702.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-a9bd8ea1cf7c">
+
+- [00:43:32](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) [○] (Opinion) **Candace Owens**: ["Candace Owens speculated that Bradley Hansell's Tucson and El Paso stops represe..."](/statements/statement-a9bd8ea1cf7c.md)
+  - About: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-d6c687dfc5c6">
 
 - [00:43:57](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) [○] (Claim) **Candace Owens**: ["Candace Owens said Bradley Hansell's Fort Huachuca stop lasted 19 hours, the lon..."](/statements/statement-d6c687dfc5c6.md)
@@ -51384,6 +52599,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Office of the Secretary of Defense](/entities/org-office-of-secretary-of-defense.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-32eb670bee0f">
+
+- [00:48:17](/episodes/ep-WoXd4oLwd3w.md#t-00-48-05) [○] (Accusation) **Candace Owens**: ["Candace Owens speculated that the FOIA delay might reflect consultation with the..."](/statements/statement-32eb670bee0f.md)
+  - About: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [FBI](/entities/org-fbi.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-79573f3e1e9a">
 
 - [00:57:33](/episodes/ep-WoXd4oLwd3w.md#t-00-57-27) [○] (Accusation) **Candace Owens**: ["Candace Owens accused Turning Point USA of trying to erase Charlie Kirk's histor..."](/statements/statement-79573f3e1e9a.md)
@@ -51393,7 +52614,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-06-11 · OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347</strong> (38)</summary>
+<summary><strong>2026-06-11 · OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347</strong> (40)</summary>
 
 <div class="filter-item" data-filter-key="statement-6bafd88d9adf">
 
@@ -51417,6 +52638,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:06:37](/episodes/ep-19vHhjF7-NA.md#t-00-06-37) [◐] (Accusation) **Candace Owens**: ["Owens alleged that the Rothschild family practices incest to keep world power wi..."](/statements/statement-5155c6faf07f.md)
   - About: [Rothschild family](/entities/org-rothschild-family.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-35bd82d9a45e">
+
+- [00:08:04](/episodes/ep-19vHhjF7-NA.md#t-00-07-57) [○] (Accusation) **Candace Owens**: ["Charlie Kirk may have been in the way of a Trump- and Rothschild-linked pursuit ..."](/statements/statement-35bd82d9a45e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Rothschild family](/entities/org-rothschild-family.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-eebe22a2c12a">
@@ -51527,6 +52754,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-82316669cfee">
+
+- [00:33:13](/episodes/ep-19vHhjF7-NA.md#t-00-33-13) [○] (Accusation) **Blake Neff**: ["Blake Neff said critics immediately and baselessly claimed the succession clip s..."](/statements/statement-82316669cfee.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-0836c0e10fcc">
 
 - [00:34:08](/episodes/ep-19vHhjF7-NA.md#t-00-34-03) [○] (Claim) **Candace Owens**: ["Owens asserted that the Turning Point USA succession video is doctored."](/statements/statement-0836c0e10fcc.md)
@@ -51626,7 +52859,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-06-10 · Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346</strong> (47)</summary>
+<summary><strong>2026-06-10 · Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346</strong> (48)</summary>
 
 <div class="filter-item" data-filter-key="statement-8f91746f54e2">
 
@@ -51710,6 +52943,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:14:54](/episodes/ep-tXoI0TTKVrs.md#t-00-14-39) [○] (Claim) **Candace Owens**: ["Candace Owens emailed Justin Streiff, Andrew Kolvet, and Turning Point USA's law..."](/statements/statement-0ff90a168cf2.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Justin Streiff](/entities/person-justin-streiff.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3f04158d57ff">
+
+- [00:17:49](/episodes/ep-tXoI0TTKVrs.md#t-00-17-17) [○] (Claim) **Candace Owens**: ["Owens identified the donors who asked the Aspen succession question as Julie Fie..."](/statements/statement-3f04158d57ff.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-854973363c52">
@@ -51913,7 +53152,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-06-09 · I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345</strong> (62)</summary>
+<summary><strong>2026-06-09 · I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345</strong> (64)</summary>
 
 <div class="filter-item" data-filter-key="statement-4552f6909816">
 
@@ -52251,6 +53490,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-acc715af2efa">
+
+- [01:04:20](/episodes/ep-YeEtS7nix3o.md#t-01-03-53) [○] (Claim) **Candace Owens**: ["In Charlie Kirk's final Aspen presentation, Erika Kirk was mentioned only as inv..."](/statements/statement-acc715af2efa.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-71dc7ef1f4b7">
 
 - [01:05:19](/episodes/ep-YeEtS7nix3o.md#t-01-05-19) [✓] (Promise) **Charlie Kirk**: ["Charlie Kirk said he appointed his wife to run Turning Point USA if something ha..."](/statements/statement-71dc7ef1f4b7.md)
@@ -52267,6 +53512,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [01:07:26](/episodes/ep-YeEtS7nix3o.md#t-01-07-11) [✓] (Claim) **Turning Point USA**: ["Turning Point USA wrote that the succession video was real, Charlie Kirk was not..."](/statements/statement-e41168e9935c.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-418c914b4afb">
+
+- [01:07:26](/episodes/ep-YeEtS7nix3o.md#t-01-07-11) [○] (Accusation) **Candace Owens**: ["Turning Point USA's social-media reply called the succession video real, said Ca..."](/statements/statement-418c914b4afb.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-4690a699415f">
@@ -53181,7 +54432,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-05-21 · Candace x Hunter Biden: The Interview</strong> (36)</summary>
+<summary><strong>2026-05-21 · Candace x Hunter Biden: The Interview</strong> (40)</summary>
 
 <div class="filter-item" data-filter-key="statement-b7afa40e8955">
 
@@ -53303,10 +54554,34 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Kash Patel](/entities/person-kash-patel.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-77e2d7486bc5">
+
+- [01:00:26](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59) [○] (Accusation) **Candace Owens**: ["Trump, Kash Patel, and J.D. Vance are accepting the official Charlie Kirk assass..."](/statements/statement-77e2d7486bc5.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md), [JD Vance](/entities/person-jd-vance.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-5b8ae82f98e2">
 
 - [01:02:22](/episodes/ep-Ux1kzgQxkws.md#t-01-02-22) [◐] (Accusation) **Candace Owens**: ["Donald Trump is protecting his donors by withholding the Epstein files."](/statements/statement-5b8ae82f98e2.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Epstein Files](/entities/work-epstein-files.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-4cc3b49c97d3">
+
+- [01:04:08](/episodes/ep-Ux1kzgQxkws.md#t-01-04-08) [○] (Opinion) **Hunter Biden**: ["The political response to Charlie Kirk's assassination may reflect disloyalty or..."](/statements/statement-4cc3b49c97d3.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8654a32e376f">
+
+- [01:05:05](/episodes/ep-Ux1kzgQxkws.md#t-01-04-52) [○] (Opinion) **Hunter Biden**: ["The corruption and obfuscation surrounding Charlie Kirk's assassination are visi..."](/statements/statement-8654a32e376f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-95c1d3991fb5">
+
+- [01:06:12](/episodes/ep-Ux1kzgQxkws.md#t-01-06-12) [○] (Accusation) **Candace Owens**: ["Erika Kirk's rapid acceptance of the official narrative and desire to close the ..."](/statements/statement-95c1d3991fb5.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-7b87d710bc71">
@@ -53402,7 +54677,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-05-20 · TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342</strong> (25)</summary>
+<summary><strong>2026-05-20 · TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342</strong> (28)</summary>
 
 <div class="filter-item" data-filter-key="statement-8a090a2510d3">
 
@@ -53464,6 +54739,12 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-21d6b9f41052">
+
+- [00:17:44](/episodes/ep-cPidFQDJLbo.md#t-00-17-27) [○] (Accusation) **Candace Owens**: ["Erika Kirk may have lied about the claimed September 15 end-of-life-document app..."](/statements/statement-21d6b9f41052.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-b4663b071589">
 
 - [00:21:22](/episodes/ep-cPidFQDJLbo.md#t-00-20-57) [○] (Claim) **Candace Owens**: ["Charlie Kirk had a corporate life-insurance policy that I am told included a $10..."](/statements/statement-b4663b071589.md)
@@ -53491,6 +54772,12 @@ _3706 factual claims within 6833 attributed statements._
 <div class="filter-item" data-filter-key="statement-62b7f786aea5">
 
 - [00:24:20](/episodes/ep-cPidFQDJLbo.md#t-00-23-44) [○] (Claim) **Candace Owens**: ["Andrew Kolvet was running Charlie Kirk's Twitter account, and Michael McCoy had ..."](/statements/statement-62b7f786aea5.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7f2cf0193d75">
+
+- [00:24:28](/episodes/ep-cPidFQDJLbo.md#t-00-23-44) [○] (Accusation) **Candace Owens**: ["Insiders with access to Charlie Kirk's communications may have learned that he p..."](/statements/statement-7f2cf0193d75.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Michael McCoy](/entities/person-michael-mccoy.md)
 
 </div>
@@ -53546,6 +54833,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:52:54](/episodes/ep-cPidFQDJLbo.md#t-00-52-37) [○] (Accusation) **Candace Owens**: ["Victor Marx's post timing signals to me that someone at the hospital, on the sec..."](/statements/statement-4519a0d6b1ae.md)
   - About: [Victor Marx](/entities/person-victor-marx.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d288b2db122c">
+
+- [00:53:19](/episodes/ep-cPidFQDJLbo.md#t-00-53-05) [○] (Accusation) **Candace Owens**: ["Victor Marx may have been part of an Israel-linked chat through which early news..."](/statements/statement-d288b2db122c.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-9b60868951d0">
@@ -53790,7 +55083,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-05-18 · Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340</strong> (25)</summary>
+<summary><strong>2026-05-18 · Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340</strong> (28)</summary>
 
 <div class="filter-item" data-filter-key="statement-1337d9120068">
 
@@ -53846,6 +55139,18 @@ _3706 factual claims within 6833 attributed statements._
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
+<div class="filter-item" data-filter-key="statement-e7e483615fd3">
+
+- [00:14:24](/episodes/ep-1QZ4X6q1DPg.md#t-00-14-14) [○] (Claim) **Candace Owens**: ["Candace Owens says Turning Point USA still had not publicly released the success..."](/statements/statement-e7e483615fd3.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-efbb54cd486d">
+
+- [00:15:09](/episodes/ep-1QZ4X6q1DPg.md#t-00-14-50) [○] (Accusation) **Candace Owens**: ["Candace Owens says that if Turning Point USA fabricated the succession recording..."](/statements/statement-efbb54cd486d.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
 <div class="filter-item" data-filter-key="statement-adf09265f387">
 
 - [00:17:09](/episodes/ep-1QZ4X6q1DPg.md#t-00-16-55) [✓] (Claim) **Anonymous Source #2 (Ep 1QZ4X6q1DPg)**: ["An anonymous Turning Point USA board member said Charlie and Erika Kirk's estate..."](/statements/statement-adf09265f387.md)
@@ -53867,6 +55172,12 @@ _3706 factual claims within 6833 attributed statements._
 <div class="filter-item" data-filter-key="statement-00f1da66a0f1">
 
 - [00:18:51](/episodes/ep-1QZ4X6q1DPg.md#t-00-18-51) [✓] (Citation) **Daily Mail**: ["The Daily Mail said it received exclusive access to screen the full Aspen donor-..."](/statements/statement-00f1da66a0f1.md)
+  - About: [Daily Mail](/entities/org-daily-mail.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ea271426b53c">
+
+- [00:19:21](/episodes/ep-1QZ4X6q1DPg.md#t-00-18-51) [○] (Claim) **Turning Point USA**: ["Turning Point USA sources told the Daily Mail that the succession video was with..."](/statements/statement-ea271426b53c.md)
   - About: [Daily Mail](/entities/org-daily-mail.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
@@ -53945,7 +55256,7 @@ _3706 factual claims within 6833 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-05-14 · SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339</strong> (44)</summary>
+<summary><strong>2026-05-14 · SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339</strong> (45)</summary>
 
 <div class="filter-item" data-filter-key="statement-18199d423f4d">
 
@@ -53981,6 +55292,12 @@ _3706 factual claims within 6833 attributed statements._
 
 - [00:06:25](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08) [○] (Claim) **Candace Owens**: ["Erika Kirk visited the West Wing just ahead of the White House Correspondents' D..."](/statements/statement-93bc5bc3a7eb.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [West Wing](/entities/gpe-west-wing.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-06093dc545f9">
+
+- [00:06:33](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08) [○] (Claim) **Candace Owens**: ["Candace Owens says she assumes Erika Kirk visited the West Wing with Andrew Kolv..."](/statements/statement-06093dc545f9.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Michael McCoy](/entities/person-michael-mccoy.md)
 
 </div>
 <div class="filter-item" data-filter-key="statement-c1c448e4bb6f">
@@ -84914,4 +86231,4 @@ _3706 factual claims within 6833 attributed statements._
 
 ---
 
-*Generated: 2026-09-01 08:04:25*
+*Generated: 2026-09-01 10:15:09*

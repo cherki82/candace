@@ -1,6 +1,6 @@
 ---
 title: "Psychological operations"
-description: "Psychological operations (Concepts) - 50 mentions"
+description: "Psychological operations (Concepts) - 51 mentions"
 id: "concept-psychological-operations"
 type: "CONCEPT"
 aliases:
@@ -23,11 +23,11 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-psychological-operations-t-00-37-39">2025-10-30 · 00:38:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-psychological-operations-t-01-19-22">2026-08-17 · 01:19:40</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-psychological-operations-t-00-27-53">2026-08-31 · 00:27:53</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -59,6 +59,7 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-psychological-operations-t-00-50-40" style="--pulse-height:10%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-concept-psychological-operations-t-00-07-42" style="--pulse-height:20%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-psychological-operations-t-01-18-00" style="--pulse-height:20%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-psychological-operations-t-00-27-53" style="--pulse-height:10%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +88,7 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-psychological-operations-t-00-50-40) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-concept-psychological-operations-t-00-07-42) | 2 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-concept-psychological-operations-t-01-18-00) | 2 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-concept-psychological-operations-t-00-27-53) | 1 |
 
 </details>
 </section>
@@ -98,7 +100,15 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:27:53](/episodes/ep-JrhGEm8MGRY.md#ent-concept-psychological-operations-t-00-27-53)**
+> "...e a military campaign, like a psychological operation."
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
@@ -184,10 +194,10 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 > "...o see for myself i guess that psyop backfired think for yourself yeah now that's that..."
 
 **[00:50:15](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-psychological-operations-t-00-50-15)**
-> "...rably that's how all of these psyops are feeling like oh that's cute so fake so very g..."
+> "Curious Joel writes, 'You know that feeling when a four-year-old stops you and asks you to watch them do a cartwheel, and they fail miserably? That's how all of these psyops are feeling: so fake, so very gay.' Yeah, except in the example of the toddler, they're cute. That's exactly right. But with the military, you're just like, man, you've got to get smarter people in there. And I think they're having the Paramount Not So Tactical problem or something."
 
 **[00:50:44](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-psychological-operations-t-00-50-44)**
-> "...hing either we deserve better psyops i just feel like we deserve better psyops all the..."
+> "Either we deserve better psyops—I just feel like we deserve better psyops. All the coordination, all the planning, all the operatives on the ground, and they can't pull it off. Erika just goes left when they tell her to go left; she goes right, says this or that, wears this or that, stands like this or that. Like I said, she's just a piece of technology. She's not even something to hate or resent."
 
 </details>
 
@@ -375,7 +385,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Psychological operations (12)</strong></summary>
+<summary><strong class="section-title">Statements about Psychological operations (13)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:27:53](/episodes/ep-JrhGEm8MGRY.md#t-00-27-53) (Opinion) **Candace Owens**: ["Owens said the campaign surrounding her looked well-funded and almost ..."](/statements/statement-e5d1c9dfd49d.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>

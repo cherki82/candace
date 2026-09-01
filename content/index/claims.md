@@ -3,7 +3,7 @@ title: "Claims Explorer"
 description: "Browse factual claims by source, speaker, entity, date, and verification outcome."
 ---
 
-<div class="research-kicker">Claims desk · 3,706 normalized claims · 3,891 appearances</div>
+<div class="research-kicker">Claims desk · 3,744 normalized claims · 3,929 appearances</div>
 
 # Claims Explorer
 

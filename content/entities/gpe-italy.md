@@ -101,7 +101,7 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
 
 **[00:57:00](/episodes/ep-IqHsl7d2dos.md#ent-gpe-italy-t-00-56-54)**
-> "...om Romania, from France, from Italy, from wherever it is, and have people participati..."
+> "And I will say that I'm getting there. I totally understand how it has brought countries and people together to research—emails arrive from Africa, Romania, France, Italy, and elsewhere, with people participating in this investigation."
 
 </details>
 

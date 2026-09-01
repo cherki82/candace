@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 269 mentions"
+description: "The Daily Wire (Organizations) - 271 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -25,12 +25,12 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-the-daily-wire-t-00-40-44">2025-09-18 · 00:41:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-the-daily-wire-t-00-43-23">2026-08-21 · 00:43:23</a></strong></div>
-<div><span>Episodes</span><strong>65</strong></div>
-<div><span>Mentions</span><strong>269</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-the-daily-wire-t-00-37-46">2026-08-31 · 00:37:57</a></strong></div>
+<div><span>Episodes</span><strong>66</strong></div>
+<div><span>Mentions</span><strong>271</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>102</strong></div>
-<div><span>Relationships</span><strong>60</strong></div>
+<div><span>Statements about</span><strong>103</strong></div>
+<div><span>Relationships</span><strong>62</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -103,6 +103,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-the-daily-wire-t-00-44-03" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 3 mentions" title="2026-08-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-the-daily-wire-t-00-00-27" style="--pulse-height:13%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 5 mentions" title="2026-08-10 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-the-daily-wire-t-00-43-23" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-the-daily-wire-t-00-37-46" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -173,6 +174,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-the-daily-wire-t-00-44-03) | 3 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-the-daily-wire-t-00-00-27) | 5 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-the-daily-wire-t-00-43-23) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-the-daily-wire-t-00-37-46) | 2 |
 
 </details>
 </section>
@@ -184,7 +186,18 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (269)</strong></summary>
+<summary><strong class="section-title">Raw mentions (271)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
+
+**[00:37:46](/episodes/ep-JrhGEm8MGRY.md#ent-org-the-daily-wire-t-00-37-46)**
+> "I'd like to leave it, thank you. And it is basically The Daily Wire. That's what's happening. I mean, there are some older names: Michael Knowles and, obviously, Brandon Tatum."
+
+**[00:37:57](/episodes/ep-JrhGEm8MGRY.md#ent-org-the-daily-wire-t-00-37-46)**
+> "...uy, Mat Nuclear, who works at The Daily Wire."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -316,7 +329,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 > "...hart showing the decline of a daily wire. It's remarkable. The revenue growth has slowed."
 
 **[00:47:30](/episodes/ep-sKuYLNx3iRo.md#ent-org-the-daily-wire-t-00-47-13)**
-> "...hey, you could own a piece of the Daily Wire.'"
+> "What they mentioned in this article is that their next move, as they go out to companies, is a possible IPO. That is a last-ditch effort to turn to people at home and go, 'Hey, Daily Wire is going to the stock market. You could own a piece of the Daily Wire.'"
 
 **[00:48:47](/episodes/ep-sKuYLNx3iRo.md#ent-org-the-daily-wire-t-00-48-14)**
 > "...sent and willing to invest in the Daily Wire?"
@@ -1352,7 +1365,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Employs (5)</summary>
+<summary>Employs (6)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1387,6 +1400,13 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:23:32](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20): “Hank Berrien of A Daily Wire under the pen name, Hank Berrien, as he wrote while Ben was at Breitbart before he turned his back and betrayed them too, because that is his nature.”
+
+</details>
+
+- **[Mat Nuclear](/entities/person-mat-nuclear.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:37:57](/episodes/ep-JrhGEm8MGRY.md#t-00-37-46): “They have traditionally toured with Turning Point USA. Beyond that, we're getting Alex Clark and Ben Shapiro. Now we know why they tried so hard to explain that Ben Shapiro was friends with Charlie Kirk: he wants the company. He's like, 'Mine has failed; that one looks pretty. I'm a parasite. I'd like to be here.' He wants to pick up that bloody mic, and by golly he's going to do it. They're also trying to launch this obscure guy, Mat Nuclear, who works at The Daily Wire.”
 
 </details>
 
@@ -1658,7 +1678,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Referenced By (30)</summary>
+<summary>Referenced By (31)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1936,6 +1956,13 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 
+- **[Mat Nuclear](/entities/person-mat-nuclear.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:37:57](/episodes/ep-JrhGEm8MGRY.md#t-00-37-46): “They have traditionally toured with Turning Point USA. Beyond that, we're getting Alex Clark and Ben Shapiro. Now we know why they tried so hard to explain that Ben Shapiro was friends with Charlie Kirk: he wants the company. He's like, 'Mine has failed; that one looks pretty. I'm a parasite. I'd like to be here.' He wants to pick up that bloody mic, and by golly he's going to do it. They're also trying to launch this obscure guy, Mat Nuclear, who works at The Daily Wire.”
+
+</details>
+
 </details>
 
 </details>
@@ -1962,7 +1989,15 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Daily Wire (102)</strong></summary>
+<summary><strong class="section-title">Statements about The Daily Wire (103)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:37:57](/episodes/ep-JrhGEm8MGRY.md#t-00-37-46) (Accusation) **Candace Owens**: ["Owens claimed Ben Shapiro wanted to take over Turning Point USA becaus..."](/statements/statement-6877274b61af.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>

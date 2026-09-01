@@ -28,9 +28,9 @@ Source: [Contact Us | Accurate Energetic Systems, LLC](https://www.aesys.biz/con
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -47,6 +47,10 @@ Source: [Contact Us | Accurate Energetic Systems, LLC](https://www.aesys.biz/con
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -71,10 +75,13 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Accurate Energetic Systems, LLC (2)</strong></summary>
+<summary><strong class="section-title">Statements about Accurate Energetic Systems, LLC (3)</strong></summary>
 
 <details>
-<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2)</summary>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (3)</summary>
+
+- [00:44:35](/episodes/ep-h76ZN-xXC6c.md#t-00-44-35) (Accusation) **Candace Owens**: ["Candace Owens said some theorists believed the rigged microphone devic..."](/statements/statement-446b0fd886f1.md)
+  - Also about: [RØDE Microphones](/entities/org-rode-microphones.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:45:10](/episodes/ep-h76ZN-xXC6c.md#t-00-44-35) (Claim) **Candace Owens**: ["Owens said the October 10 explosion at Accurate Energetic Systems in H..."](/statements/statement-eb4c2f71a378.md)
   - Also about: [Hickman County, Tennessee](/entities/gpe-hickman-county-tennessee.md)

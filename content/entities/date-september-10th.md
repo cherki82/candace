@@ -1,6 +1,6 @@
 ---
 title: "September 10th"
-description: "September 10th (Dates) - 76 mentions"
+description: "September 10th (Dates) - 78 mentions"
 id: "date-september-10th"
 type: "DATE"
 aliases:
@@ -20,9 +20,9 @@ _Type: Dates_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-date-september-10th-t-00-40-44">2025-09-15 · 00:40:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-date-september-10th-t-00-54-41">2026-06-26 · 00:55:17</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>76</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-date-september-10th-t-00-37-12">2026-08-31 · 00:37:12</a></strong></div>
+<div><span>Episodes</span><strong>34</strong></div>
+<div><span>Mentions</span><strong>78</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -66,6 +66,7 @@ _Type: Dates_
 <a href="/episodes/ep-9k2xrAC0H88.md#t-00-47-55" style="--pulse-height:17%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-date-september-10th-t-00-42-27" style="--pulse-height:50%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-date-september-10th-t-00-00-01" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-date-september-10th-t-00-36-01" style="--pulse-height:33%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -104,6 +105,7 @@ _Type: Dates_
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#t-00-47-55) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-10th-t-00-42-27) | 3 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-date-september-10th-t-00-00-01) | 2 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-date-september-10th-t-00-36-01) | 2 |
 
 </details>
 </section>
@@ -111,7 +113,18 @@ _Type: Dates_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (76)</strong></summary>
+<summary><strong class="section-title">Raw mentions (78)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
+
+**[00:36:13](/episodes/ep-JrhGEm8MGRY.md#ent-date-september-10th-t-00-36-01)**
+> ".... Where was Jennica Pounds on September 10th?"
+
+**[00:37:12](/episodes/ep-JrhGEm8MGRY.md#ent-date-september-10th-t-00-37-12)**
+> "... get fun because the story of September 10th is going to have to just get so much more ridicul..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>

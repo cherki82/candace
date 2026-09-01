@@ -33,17 +33,17 @@ Source: [Investor.gov: Initial Public Offering (IPO)](https://www.investor.gov/i
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-02-04">Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-02-04">Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-initial-public-offering-t-00-28-13" style="--pulse-height:50%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-02-04" style="--pulse-height:100%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 6 mentions" title="2026-06-24 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-initial-public-offering-t-00-28-13" style="--pulse-height:60%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-02-04" style="--pulse-height:100%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 5 mentions" title="2026-06-24 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-initial-public-offering-t-00-28-13) | 3 |
-| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-02-04) | 6 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-02-04) | 5 |
 
 </details>
 </section>
@@ -58,7 +58,7 @@ Source: [Investor.gov: Initial Public Offering (IPO)](https://www.investor.gov/i
 <summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
-<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (6 mentions)</summary>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (5 mentions)</summary>
 
 **[00:02:04](/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-02-04)**
 > "They're going to go for an IPO"
@@ -69,11 +69,8 @@ Source: [Investor.gov: Initial Public Offering (IPO)](https://www.investor.gov/i
 **[00:41:47](/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-41-47)**
 > "...egic investors and targets an IPO."
 
-**[00:47:21](/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-47-13)**
-> "...nk that they can successfully IPO it. And that is a last."
-
 **[00:47:30](/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-47-13)**
-> "...nk that they can successfully IPO it. And that is a last-ditch effort to turn to pe..."
+> "What they mentioned in this article is that their next move, as they go out to companies, is a possible IPO. That is a last-ditch effort to turn to people at home and go, 'Hey, Daily Wire is going to the stock market. You could own a piece of the Daily Wire.'"
 
 **[00:48:14](/episodes/ep-sKuYLNx3iRo.md#ent-concept-initial-public-offering-t-00-48-14)**
 > "... into getting behind us in an IPO.'"

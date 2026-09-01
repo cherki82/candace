@@ -1,6 +1,6 @@
 ---
 title: "The New York Times"
-description: "The New York Times (Organizations) - 71 mentions"
+description: "The New York Times (Organizations) - 74 mentions"
 id: "org-the-new-york-times"
 type: "ORG"
 aliases:
@@ -21,12 +21,12 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-the-new-york-times-t-00-28-41">2026-07-22 · 00:28:56</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>71</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-23-52">2026-08-31 · 00:23:52</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>74</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -68,6 +68,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-the-new-york-times-t-00-00-01" style="--pulse-height:44%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-the-new-york-times-t-00-13-18" style="--pulse-height:33%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 3 mentions" title="2026-07-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-the-new-york-times-t-00-04-10" style="--pulse-height:22%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-16-24" style="--pulse-height:33%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 3 mentions" title="2026-08-31 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -107,6 +108,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-the-new-york-times-t-00-00-01) | 4 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-the-new-york-times-t-00-13-18) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-the-new-york-times-t-00-04-10) | 2 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-16-24) | 3 |
 
 </details>
 </section>
@@ -118,7 +120,21 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3 mentions)</summary>
+
+**[00:16:33](/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-16-24)**
+> "She sought to sort of edit the scripts and they had the media power to do it like the New York Times just drops a hit piece and they're like, we will just me to you will ruin your whole life or you're going to hand over the rights to this movie."
+
+**[00:17:59](/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-17-59)**
+> "...the parts that were pulled by the new york times and then of course we learn it later on in this f..."
+
+**[00:23:52](/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-23-52)**
+> "...lished power I mean it was in New York Times it was WME it was the most powerful PR people in ..."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>
@@ -521,12 +537,19 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (2)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:11:33](/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33): “Now, the fake news CNN, the failing New York Times and all of the other radical left news organizations are hailing them and giving them positive press for the first time in their lives.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:16:33](/episodes/ep-JrhGEm8MGRY.md#t-00-16-24): “She sought to sort of edit the scripts and they had the media power to do it like the New York Times just drops a hit piece and they're like, we will just me to you will ruin your whole life or you're going to hand over the rights to this movie.”
 
 </details>
 
@@ -563,12 +586,19 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:11:33](/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33): “Now, the fake news CNN, the failing New York Times and all of the other radical left news organizations are hailing them and giving them positive press for the first time in their lives.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:16:33](/episodes/ep-JrhGEm8MGRY.md#t-00-16-24): “She sought to sort of edit the scripts and they had the media power to do it like the New York Times just drops a hit piece and they're like, we will just me to you will ruin your whole life or you're going to hand over the rights to this movie.”
 
 </details>
 

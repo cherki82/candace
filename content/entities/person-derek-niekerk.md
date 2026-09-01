@@ -5,6 +5,7 @@ id: "person-derek-niekerk"
 type: "PERSON"
 aliases:
   - "Derek Neukirk"
+  - "Niekerk"
 categories:
   - "security personnel"
   - "Charlie Kirk investigation"
@@ -12,7 +13,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Derek Neukirk
+**Also known as:** Derek Neukirk, Niekerk
 
 **Categories:** security personnel, Charlie Kirk investigation
 

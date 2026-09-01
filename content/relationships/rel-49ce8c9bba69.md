@@ -11,11 +11,15 @@ object: "person-candace-owens"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) appeared with [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (12 mentions)
+### Evidence (13 mentions)
 
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
 - [00:44:21](/episodes/ep-H9p2ZGHAs9A#t-00-44-21): _I just remember going to Hawaii with Charlie (Charlie Kirk), and it was a great time. I remember we were wearing the leis._
+
+**[We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY)**
+
+- [00:04:22](/episodes/ep-JrhGEm8MGRY#t-00-04-22): _I was with Charlie (Charlie Kirk). The event was hosted by John (John Mappin) and Irina (Irina Mappin) back in 2018. And me and Charlie (Charlie Kirk) were on stage._
 
 **[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
 

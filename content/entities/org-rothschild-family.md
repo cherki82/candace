@@ -27,7 +27,7 @@ Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com
 <div><span>Episodes</span><strong>12</strong></div>
 <div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -347,7 +347,7 @@ Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rothschild family (12)</strong></summary>
+<summary><strong class="section-title">Statements about Rothschild family (13)</strong></summary>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>
@@ -358,7 +358,7 @@ Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com
 </details>
 
 <details>
-<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (7)</summary>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (8)</summary>
 
 - [00:02:37](/episodes/ep-19vHhjF7-NA.md#t-00-02-37) (Claim) **Candace Owens**: ["Planet Nine is a Rothschild-owned superyacht designed for heliskiing a..."](/statements/statement-6bafd88d9adf.md)
   - Also about: [Planet Nine](/entities/vehicle-planet-nine.md), [Nathaniel Rothschild](/entities/person-nathaniel-rothschild.md)
@@ -367,6 +367,9 @@ Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com
   - Also about: [Israel](/entities/gpe-israel.md)
 
 - [00:06:37](/episodes/ep-19vHhjF7-NA.md#t-00-06-37) (Accusation) **Candace Owens**: ["Owens alleged that the Rothschild family practices incest to keep worl..."](/statements/statement-5155c6faf07f.md)
+
+- [00:08:04](/episodes/ep-19vHhjF7-NA.md#t-00-07-57) (Accusation) **Candace Owens**: ["Charlie Kirk may have been in the way of a Trump- and Rothschild-linke..."](/statements/statement-35bd82d9a45e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 - [00:09:44](/episodes/ep-19vHhjF7-NA.md#t-00-09-22) (Accusation) **Candace Owens**: ["Owens alleged that the Rothschild family seeks to own the world, ensla..."](/statements/statement-9f77ad845e57.md)
   - Also about: [Earth](/entities/gpe-earth.md)

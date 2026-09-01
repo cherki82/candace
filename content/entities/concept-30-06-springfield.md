@@ -1,6 +1,6 @@
 ---
 title: ".30-06 Springfield"
-description: ".30-06 Springfield (Concepts) - 10 mentions"
+description: ".30-06 Springfield (Concepts) - 11 mentions"
 id: "concept-30-06-springfield"
 type: "CONCEPT"
 aliases:
@@ -24,9 +24,9 @@ Source: [SAAMI Z299.4-2025 Voluntary Industry Performance Standards](https://saa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-30-06-springfield-t-00-29-26">2025-11-04 · 00:29:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-30-06-springfield-t-00-20-59">2026-07-16 · 00:21:18</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-30-06-springfield-t-00-31-01">2026-08-31 · 00:31:01</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [SAAMI Z299.4-2025 Voluntary Industry Performance Standards](https://saa
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-30-06-springfield-t-00-15-44" style="--pulse-height:25%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-30-06-springfield-t-00-44-01" style="--pulse-height:100%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 4 mentions" title="2026-06-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-30-06-springfield-t-00-20-59" style="--pulse-height:25%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-30-06-springfield-t-00-31-01" style="--pulse-height:25%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [SAAMI Z299.4-2025 Voluntary Industry Performance Standards](https://saa
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-30-06-springfield-t-00-15-44) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-concept-30-06-springfield-t-00-44-01) | 4 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-concept-30-06-springfield-t-00-20-59) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-concept-30-06-springfield-t-00-31-01) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [SAAMI Z299.4-2025 Voluntary Industry Performance Standards](https://saa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:31:01](/episodes/ep-JrhGEm8MGRY.md#ent-concept-30-06-springfield-t-00-31-01)**
+> "...s, how deep she went into the .30-06 stuff, and she's speaking about how I work on peo..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>

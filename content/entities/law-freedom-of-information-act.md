@@ -1,6 +1,6 @@
 ---
 title: "Freedom of Information Act"
-description: "Freedom of Information Act (Laws & Legislation) - 64 mentions"
+description: "Freedom of Information Act (Laws & Legislation) - 65 mentions"
 id: "law-freedom-of-information-act"
 type: "LAW"
 aliases:
@@ -22,13 +22,13 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-law-freedom-of-information-act-t-00-26-27">2025-10-06 · 00:26:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-law-freedom-of-information-act-t-00-44-42">2026-06-26 · 00:45:17</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>64</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-law-freedom-of-information-act-t-00-43-01">2026-08-31 · 00:43:15</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>65</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -54,6 +54,7 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-law-freedom-of-information-act-t-00-53-39" style="--pulse-height:12%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-law-freedom-of-information-act-t-00-01-18" style="--pulse-height:75%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 6 mentions" title="2026-06-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-law-freedom-of-information-act-t-00-35-29" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 4 mentions" title="2026-06-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-law-freedom-of-information-act-t-00-43-01" style="--pulse-height:12%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,14 +79,27 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-law-freedom-of-information-act-t-00-53-39) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-law-freedom-of-information-act-t-00-01-18) | 6 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-law-freedom-of-information-act-t-00-35-29) | 4 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-law-freedom-of-information-act-t-00-43-01) | 1 |
 
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+<summary><strong class="section-title">Raw mentions (65)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:43:15](/episodes/ep-JrhGEm8MGRY.md#ent-law-freedom-of-information-act-t-00-43-01)**
+> "And we have basically just been stonewalled. It's almost like brick walls have been put up against these FOIA requests we're filing, and they keep only saying it didn't come from this In this department, okay, we are asking you if this email is real. This is not hard to answer yes or no."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (4 mentions)</summary>
@@ -381,7 +395,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Freedom of Information Act (19)</strong></summary>
+<summary><strong class="section-title">Statements about Freedom of Information Act (22)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:43:15](/episodes/ep-JrhGEm8MGRY.md#t-00-43-01) (Accusation) **Candace Owens**: ["Owens said her team had basically been stonewalled on FOIA requests se..."](/statements/statement-67a8772b2bfc.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2)</summary>
@@ -404,7 +426,7 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2)</summary>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3)</summary>
 
 - [00:28:53](/episodes/ep-5NQyGuRYbU8.md#t-00-28-53) (Citation) **Candace Owens**: ["Candace Owens said her FOIA request sought Kash Patel's official sched..."](/statements/statement-841d0ce9235c.md)
   - Also about: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md)
@@ -412,10 +434,13 @@ _No relationships extracted yet._
 - [00:30:37](/episodes/ep-5NQyGuRYbU8.md#t-00-30-08) (Citation) **FBI** (via quoted document): ["The FBI's FOIA response told Candace Owens that unusual circumstances ..."](/statements/statement-e8bbf7d482af.md)
   - Also about: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md), [Kash Patel](/entities/person-kash-patel.md)
 
+- [00:31:07](/episodes/ep-5NQyGuRYbU8.md#t-00-30-49) (Opinion) **Candace Owens**: ["Candace Owens inferred that the FBI's unusual-circumstances FOIA notic..."](/statements/statement-23d53d68cf39.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Kash Patel](/entities/person-kash-patel.md)
+
 </details>
 
 <details>
-<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3)</summary>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (4)</summary>
 
 - [00:45:48](/episodes/ep-WoXd4oLwd3w.md#t-00-45-24) (Citation) **Office of the Secretary of Defense** (via quoted document): ["The Office of the Secretary of Defense said it could not respond to th..."](/statements/statement-3d734b0826a2.md)
   - Also about: [Office of the Secretary of Defense](/entities/org-office-of-secretary-of-defense.md), [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [SAM 702](/entities/vehicle-sam-702.md)
@@ -425,6 +450,9 @@ _No relationships extracted yet._
 
 - [00:47:31](/episodes/ep-WoXd4oLwd3w.md#t-00-47-31) (Citation) **Office of the Secretary of Defense** (via quoted document): ["The FOIA response said the request had been placed in a complex proces..."](/statements/statement-75961026282d.md)
   - Also about: [Office of the Secretary of Defense](/entities/org-office-of-secretary-of-defense.md)
+
+- [00:48:17](/episodes/ep-WoXd4oLwd3w.md#t-00-48-05) (Accusation) **Candace Owens**: ["Candace Owens speculated that the FOIA delay might reflect consultatio..."](/statements/statement-32eb670bee0f.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Kash Patel](/entities/person-kash-patel.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>
 

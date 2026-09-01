@@ -25,9 +25,9 @@ Source: [Thomas Crooks Part 03 | FBI Vault](https://vault.fbi.gov/thomas-crooks/
 <div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -60,6 +60,10 @@ Source: [Thomas Crooks Part 03 | FBI Vault](https://vault.fbi.gov/thomas-crooks/
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -184,7 +188,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Thomas Matthew Crooks (17)</strong></summary>
+<summary><strong class="section-title">Statements about Thomas Matthew Crooks (19)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
@@ -195,7 +199,15 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (7)</summary>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:12:01](/episodes/ep-5NQyGuRYbU8.md#t-00-12-01) (Claim) **Candace Owens**: ["Candace Owens said Mark A. Liti was Facebook friends with several memb..."](/statements/statement-4bd468b80a6f.md)
+  - Also about: [Mark A. Liti](/entities/person-mark-liti.md)
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (8)</summary>
 
 - [00:02:34](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16) (Claim) **Tucker Carlson**: ["Tucker Carlson said he accidentally obtained many Thomas Crooks social..."](/statements/statement-773d5f9511dc.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
@@ -214,6 +226,9 @@ _No relationships extracted yet._
 
 - [00:08:26](/episodes/ep-WoXd4oLwd3w.md#t-00-08-26) (Claim) **Brooke Singman** (via quoted article): ["Brooke Singman's Fox News article reported that an investigator called..."](/statements/statement-4dc7daa643f5.md)
   - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:11:34](/episodes/ep-WoXd4oLwd3w.md#t-00-11-05) (Accusation) **Candace Owens**: ["Candace Owens proposed that the Butler shooting could have been staged..."](/statements/statement-206782480e5d.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
 
 - [00:12:08](/episodes/ep-WoXd4oLwd3w.md#t-00-11-46) (Opinion) **Candace Owens**: ["Candace Owens said she was inclined to believe the Butler shooting was..."](/statements/statement-1ddd7e1e4748.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)

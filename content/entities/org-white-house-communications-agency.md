@@ -28,7 +28,7 @@ Source: [White House Communications Agency - The Voice of the President](https:/
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -48,6 +48,10 @@ Source: [White House Communications Agency - The Voice of the President](https:/
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
@@ -57,7 +61,7 @@ Source: [White House Communications Agency - The Voice of the President](https:/
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (5 mentions)</summary>
 
 **[00:09:28](/episodes/ep-Pb7UlpRdW6U.md#ent-org-white-house-communications-agency-t-00-09-28)**
-> "...litary office domain from the White House Communications Agency. heard from the military office domain, from the ..."
+> "The email was delivered from the military-office domain, from the White House Communications Agency."
 
 **[00:09:35](/episodes/ep-Pb7UlpRdW6U.md#ent-org-white-house-communications-agency-t-00-09-28)**
 > "...derstand what that means. The White House Communications Agency is like the military arm of White House communica..."

@@ -1,6 +1,6 @@
 ---
 title: "Ryan Reynolds"
-description: "Ryan Reynolds (People) - 7 mentions"
+description: "Ryan Reynolds (People) - 9 mentions"
 id: "person-ryan-reynolds"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Ryan Reynolds | Biography, Movies, Deadpool, Wife, & Facts](https://www
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-person-ryan-reynolds-t-00-26-34">2025-12-03 · 00:27:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-ryan-reynolds-t-00-38-44">2026-07-16 · 00:38:57</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-ryan-reynolds-t-00-18-57">2026-08-31 · 00:18:57</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,6 +36,7 @@ Source: [Ryan Reynolds | Biography, Movies, Deadpool, Wife, & Facts](https://www
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-ryan-reynolds-t-00-46-44" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 3 mentions" title="2026-05-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ryan-reynolds-t-00-58-47" style="--pulse-height:33%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-ryan-reynolds-t-00-38-44" style="--pulse-height:33%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-ryan-reynolds-t-00-15-40" style="--pulse-height:67%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Ryan Reynolds | Biography, Movies, Deadpool, Wife, & Facts](https://www
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-ryan-reynolds-t-00-46-44) | 3 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-ryan-reynolds-t-00-58-47) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-ryan-reynolds-t-00-38-44) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-ryan-reynolds-t-00-15-40) | 2 |
 
 </details>
 </section>
@@ -53,7 +55,18 @@ Source: [Ryan Reynolds | Biography, Movies, Deadpool, Wife, & Facts](https://www
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
+
+**[00:16:05](/episodes/ep-JrhGEm8MGRY.md#ent-person-ryan-reynolds-t-00-15-40)**
+> "Her husband is Ryan Reynolds, who is apparently a routine psychopath who has been cosplaying a superhero throughout the Marvel movies."
+
+**[00:18:57](/episodes/ep-JrhGEm8MGRY.md#ent-person-ryan-reynolds-t-00-18-57)**
+> "...as reflecting with my team on Ryan Reynolds reshooting scenes of Deadpool, incorporating a ch..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
@@ -107,6 +120,30 @@ Source: [Ryan Reynolds | Biography, Movies, Deadpool, Wife, & Facts](https://www
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:16:12](/episodes/ep-JrhGEm8MGRY.md#t-00-15-40): “And what happens next? They just decide that they want to take his movie, that it's their right to have it because they are them and they're shinier and or something, A-listier or something.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:16:05](/episodes/ep-JrhGEm8MGRY.md#t-00-15-40): “Her husband is Ryan Reynolds, who is apparently a routine psychopath who has been cosplaying a superhero throughout the Marvel movies.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Married To (1)</summary>
 
 - **[Blake Lively](/entities/person-blake-lively.md)**
@@ -119,10 +156,50 @@ Source: [Ryan Reynolds | Biography, Movies, Deadpool, Wife, & Facts](https://www
 
 </details>
 
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:16:12](/episodes/ep-JrhGEm8MGRY.md#t-00-15-40): “And what happens next? They just decide that they want to take his movie, that it's their right to have it because they are them and they're shinier and or something, A-listier or something.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:16:05](/episodes/ep-JrhGEm8MGRY.md#t-00-15-40): “Her husband is Ryan Reynolds, who is apparently a routine psychopath who has been cosplaying a superhero throughout the Marvel movies.”
+
+</details>
+
+- **[Blake Lively](/entities/person-blake-lively.md)** married to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:16:05](/episodes/ep-JrhGEm8MGRY.md#t-00-15-40): “Her husband is Ryan Reynolds, who is apparently a routine psychopath who has been cosplaying a superhero throughout the Marvel movies.”
+
+</details>
+
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ryan Reynolds (1)</strong></summary>
+<summary><strong class="section-title">Statements about Ryan Reynolds (4)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3)</summary>
+
+- [00:16:12](/episodes/ep-JrhGEm8MGRY.md#t-00-15-40) (Accusation) **Candace Owens**: ["Owens accused Blake Lively and Ryan Reynolds of deciding they were ent..."](/statements/statement-3ff75fc66f72.md)
+  - Also about: [Blake Lively](/entities/person-blake-lively.md), [Justin Baldoni](/entities/person-justin-baldoni.md)
+
+- [00:18:57](/episodes/ep-JrhGEm8MGRY.md#t-00-18-57) (Claim) **Candace Owens**: ["Owens said Ryan Reynolds reshot Deadpool scenes to include a character..."](/statements/statement-9e296bad8546.md)
+  - Also about: [Justin Baldoni](/entities/person-justin-baldoni.md), [Deadpool & Wolverine](/entities/work-deadpool-and-wolverine.md)
+
+- [00:21:03](/episodes/ep-JrhGEm8MGRY.md#t-00-21-03) (Claim) **Justin Baldoni** (via quoted speech): ["Justin Baldoni told Owens that he had never watched the Deadpool movie..."](/statements/statement-60fa785ab2e1.md)
+  - Also about: [Deadpool & Wolverine](/entities/work-deadpool-and-wolverine.md)
+
+</details>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>

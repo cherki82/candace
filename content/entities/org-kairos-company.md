@@ -1,6 +1,6 @@
 ---
 title: "KAIROS Company"
-description: "KAIROS Company (Organizations) - 10 mentions"
+description: "KAIROS Company (Organizations) - 11 mentions"
 id: "org-kairos-company"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Johnnie Moore - KAIROS](https://thekcompany.co/newsrooms/johnnie-moore/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-kairos-company-t-00-07-06">2026-01-09 · 00:07:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-kairos-company-t-00-39-11">2026-07-14 · 00:39:37</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-kairos-company-t-00-28-28">2026-08-31 · 00:28:28</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -41,6 +41,7 @@ Source: [Johnnie Moore - KAIROS](https://thekcompany.co/newsrooms/johnnie-moore/
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-kairos-company-t-00-40-31" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-kairos-company-t-00-19-53" style="--pulse-height:20%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-kairos-company-t-00-39-11" style="--pulse-height:20%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-kairos-company-t-00-28-28" style="--pulse-height:20%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Johnnie Moore - KAIROS](https://thekcompany.co/newsrooms/johnnie-moore/
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-kairos-company-t-00-40-31) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-kairos-company-t-00-19-53) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-kairos-company-t-00-39-11) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-kairos-company-t-00-28-28) | 1 |
 
 </details>
 </section>
@@ -62,7 +64,15 @@ Source: [Johnnie Moore - KAIROS](https://thekcompany.co/newsrooms/johnnie-moore/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:28:28](/episodes/ep-JrhGEm8MGRY.md#ent-org-kairos-company-t-00-28-28)**
+> "A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company."
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
@@ -128,10 +138,11 @@ Source: [Johnnie Moore - KAIROS](https://thekcompany.co/newsrooms/johnnie-moore/
 <summary>Formerly Employed (1)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Andrew Kolvet was working PR for the KAIROS Company under Johnnie Moore.”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:10](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “Andrew Kolvet was the executive vice president and he effectively was working for the Kairos company,”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:28](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28): “A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company.”
 
 </details>
 
@@ -161,10 +172,11 @@ Source: [Johnnie Moore - KAIROS](https://thekcompany.co/newsrooms/johnnie-moore/
 <summary>Referenced By (3)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Andrew Kolvet was working PR for the KAIROS Company under Johnnie Moore.”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:10](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “Andrew Kolvet was the executive vice president and he effectively was working for the Kairos company,”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:28](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28): “A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company.”
 
 </details>
 

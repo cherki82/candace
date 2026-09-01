@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 564 mentions"
+description: "God (Concepts) - 565 mentions"
 id: "concept-god"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-58-18">2026-08-21 · 00:58:39</a></strong></div>
-<div><span>Episodes</span><strong>108</strong></div>
-<div><span>Mentions</span><strong>564</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#t-00-47-14">2026-08-31 · 00:47:25</a></strong></div>
+<div><span>Episodes</span><strong>109</strong></div>
+<div><span>Mentions</span><strong>565</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -142,6 +142,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-d7VsbEIWkP8.md#t-00-56-06" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34" style="--pulse-height:13%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-48-48" style="--pulse-height:13%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 4 mentions" title="2026-08-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#t-00-47-14" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -255,6 +256,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#t-00-56-06) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34) | 4 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-48-48) | 4 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#t-00-47-14) | 1 |
 
 </details>
 </section>
@@ -262,7 +264,15 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (564)</strong></summary>
+<summary><strong class="section-title">Raw mentions (565)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:47:25](/episodes/ep-JrhGEm8MGRY.md#t-00-47-14)**
+> "... picture with Justin Baldoni. God is so good. I love being on the winning side."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4 mentions)</summary>
@@ -472,7 +482,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > "...I've been trying for a while. God knows best, but that doesn't make it any easier o..."
 
 **[01:03:32](/episodes/ep-IqHsl7d2dos.md#t-01-03-32)**
-> "I don't know why God does that so often. so often, but you also hear s..."
+> "I don't know why God does that so often, but you also hear stories of people saying, as soon as we adopted, right when we signed the paperwork, we then got pregnant on our own and it was twins."
 
 **[01:03:42](/episodes/ep-IqHsl7d2dos.md#t-01-03-32)**
 > "... keep praying and never doubt God's timing with these things. I will actually say a..."

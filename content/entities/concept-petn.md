@@ -23,9 +23,9 @@ _Type: Concepts_
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -48,6 +48,10 @@ _Type: Concepts_
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -168,7 +172,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about PETN (11)</strong></summary>
+<summary><strong class="section-title">Statements about PETN (12)</strong></summary>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2)</summary>
@@ -196,7 +200,7 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (7)</summary>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (8)</summary>
 
 - [00:08:33](/episodes/ep-5NQyGuRYbU8.md#t-00-08-15) (Claim) **Candace Owens**: ["Candace Owens said SureFire Wireline's pump-down perforating work requ..."](/statements/statement-774523039260.md)
   - Also about: [SureFire Wireline LLC](/entities/org-surefire-wireline.md)
@@ -218,6 +222,9 @@ _No relationships extracted yet._
 
 - [00:20:42](/episodes/ep-5NQyGuRYbU8.md#t-00-20-25) (Claim) **Candace Owens**: ["Candace Owens said a test showed that 20 grams of PETN produced an imp..."](/statements/statement-a56b6279c3d6.md)
   - Also about: [YouTube](/entities/org-youtube.md)
+
+- [00:21:09](/episodes/ep-5NQyGuRYbU8.md#t-00-21-09) (Citation) **Candace Owens**: ["Candace Owens cited a persistent theory that Charlie Kirk's road micro..."](/statements/statement-2cb50bcd2e1c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

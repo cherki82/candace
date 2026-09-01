@@ -26,9 +26,9 @@ Source: [About Us - Carbyne](https://carbyne.com/company/about-us/)
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -45,6 +45,10 @@ Source: [About Us - Carbyne](https://carbyne.com/company/about-us/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -85,6 +89,19 @@ Source: [About Us - Carbyne](https://carbyne.com/company/about-us/)
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:36:35](/episodes/ep-IqHsl7d2dos.md#t-00-36-35): “Fivaz family (spelling unverified), and it's global. And you don't even think about this: who controls when you dial 911? Who controls the systems? Sarah Tewell's family is connected to them. And, of course, that particular company—we're not going to get too much into it today—is in partnership with Israel, with Carbyne, created by Ehud Barak. They've got a deal with them. You don't think about these little details.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Carbyne (1)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
+
+- [00:36:55](/episodes/ep-IqHsl7d2dos.md#t-00-36-35) (Accusation) **Candace Owens**: ["Owens alleged that Sarah Tewell's in-law family controlled emergency-d..."](/statements/statement-b6b170c4a0a7.md)
+  - Also about: [Sarah Tewell](/entities/person-sarah-tewell.md), [Ehud Barak](/entities/person-ehud-barak.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Pornography"
-description: "Pornography (Concepts) - 15 mentions"
+description: "Pornography (Concepts) - 18 mentions"
 id: "concept-pornography"
 type: "CONCEPT"
 categories:
@@ -18,9 +18,9 @@ Source: [Pornography | Definition, History, Meaning, & Facts](https://www.britan
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-pornography-t-00-07-45">2025-12-02 · 00:07:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-pornography-t-00-08-06">2026-06-26 · 00:08:06</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-pornography-t-00-18-24">2026-08-31 · 00:18:24</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [Pornography | Definition, History, Meaning, & Facts](https://www.britan
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-pornography-t-00-46-02" style="--pulse-height:67%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-pornography-t-00-07-14" style="--pulse-height:67%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-pornography-t-00-08-06" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-pornography-t-00-17-28" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 3 mentions" title="2026-08-31 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Pornography | Definition, History, Meaning, & Facts](https://www.britan
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-concept-pornography-t-00-46-02) | 2 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-pornography-t-00-07-14) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-pornography-t-00-08-06) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-concept-pornography-t-00-17-28) | 3 |
 
 </details>
 </section>
@@ -63,7 +65,21 @@ Source: [Pornography | Definition, History, Meaning, & Facts](https://www.britan
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3 mentions)</summary>
+
+**[00:17:40](/episodes/ep-JrhGEm8MGRY.md#ent-concept-pornography-t-00-17-28)**
+> "..., Jamey Heath, of showing her pornography on his phone. Like she looked and a woman's legs ..."
+
+**[00:17:59](/episodes/ep-JrhGEm8MGRY.md#ent-concept-pornography-t-00-17-59)**
+> "...ought that he was showing her pornography and stopped him and these were like the parts tha..."
+
+**[00:18:24](/episodes/ep-JrhGEm8MGRY.md#ent-concept-pornography-t-00-18-24)**
+> "thought this is pornography it's just so nutty to reflect on and them making ..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Tim Dillon"
-description: "Tim Dillon (People) - 55 mentions"
+description: "Tim Dillon (People) - 54 mentions"
 id: "person-tim-dillon"
 type: "PERSON"
 categories:
@@ -20,7 +20,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02">2025-11-13 · 00:46:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-tim-dillon-t-00-01-40">2026-07-16 · 00:01:48</a></strong></div>
 <div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -48,7 +48,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-tim-dillon-t-00-26-31" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-tim-dillon-t-00-54-54" style="--pulse-height:11%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-tim-dillon-t-00-39-47" style="--pulse-height:22%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-tim-dillon-t-00-46-40" style="--pulse-height:33%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 3 mentions" title="2026-06-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-tim-dillon-t-00-46-40" style="--pulse-height:22%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-tim-dillon-t-01-03-32" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-tim-dillon-t-00-01-40" style="--pulse-height:11%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
@@ -73,7 +73,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-tim-dillon-t-00-26-31) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-tim-dillon-t-00-54-54) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-tim-dillon-t-00-39-47) | 2 |
-| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-tim-dillon-t-00-46-40) | 3 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-tim-dillon-t-00-46-40) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-tim-dillon-t-01-03-32) | 3 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-tim-dillon-t-00-01-40) | 1 |
 
@@ -87,7 +87,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+<summary><strong class="section-title">Raw mentions (54)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
@@ -112,16 +112,13 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 </details>
 
 <details>
-<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (3 mentions)</summary>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2 mentions)</summary>
 
 **[00:47:04](/episodes/ep-9CuC1yf8-PU.md#ent-person-tim-dillon-t-00-46-40)**
 > "somebody who his entire show is him having different personalities and it works because he's a comedian is Tim Dillon"
 
 **[00:47:18](/episodes/ep-9CuC1yf8-PU.md#ent-person-tim-dillon-t-00-47-18)**
-> "... J.D. Vance and i don't think Tim Dillon does either but the idea of everything that we've..."
-
-**[00:47:39](/episodes/ep-9CuC1yf8-PU.md#ent-person-tim-dillon-t-00-47-18)**
-> "And Tim Dillon decided to do a reading of J.D. Vance's book or s..."
+> "express how we're all feeling about the ridiculousness of everything. I actually don't have a lot of resentment for J.D. Vance, and I don't think Tim Dillon does either. But the idea of everything that we've just lived through with Iran and the gaslighting and the Epstein files and the Charlie Kirk assassination, and then J.D. Vance drops a book about his Catholicism, is a bit dizzying, I think, for a lot of people. Tim Dillon decided to do a reading of J.D. Vance's book, or something like a reading of J.D. Vance's book."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 802 mentions"
+description: "Andrew Kolvet (People) - 807 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27">2025-09-11 · 00:14:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-kolvet-t-00-59-02">2026-08-21 · 00:59:10</a></strong></div>
-<div><span>Episodes</span><strong>120</strong></div>
-<div><span>Mentions</span><strong>802</strong></div>
-<div><span>Statements by</span><strong>100</strong></div>
-<div><span>Statements about</span><strong>221</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-43-42">2026-08-31 · 00:44:03</a></strong></div>
+<div><span>Episodes</span><strong>121</strong></div>
+<div><span>Mentions</span><strong>807</strong></div>
+<div><span>Statements by</span><strong>101</strong></div>
+<div><span>Statements about</span><strong>224</strong></div>
 <div><span>Relationships</span><strong>104</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -155,6 +155,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-andrew-kolvet-t-00-14-30" style="--pulse-height:26%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 11 mentions" title="2026-08-18 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-andrew-kolvet-t-00-05-19" style="--pulse-height:21%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 9 mentions" title="2026-08-19 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-kolvet-t-00-00-39" style="--pulse-height:33%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 14 mentions" title="2026-08-21 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-28-28" style="--pulse-height:12%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 5 mentions" title="2026-08-31 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -280,6 +281,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-andrew-kolvet-t-00-14-30) | 11 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-andrew-kolvet-t-00-05-19) | 9 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-kolvet-t-00-00-39) | 14 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-28-28) | 5 |
 
 </details>
 </section>
@@ -291,7 +293,27 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (802)</strong></summary>
+<summary><strong class="section-title">Raw mentions (807)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (5 mentions)</summary>
+
+**[00:28:28](/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-28-28)**
+> "A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company."
+
+**[00:30:34](/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-30-34)**
+> "..., a thread that is boosted by Andrew Kolvet. Let's show her thread first just so you can see ..."
+
+**[00:31:27](/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-31-01)**
+> "...nstead instantly retweeted by Andrew Kolvet. We're supposed to think he has nothing to do wit..."
+
+**[00:35:16](/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-35-16)**
+> "...tment of War, Blake Neff, and Andrew Kolvet allies. So the question Remains. Why?"
+
+**[00:44:03](/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-43-42)**
+> "...) seems unwilling to do that. Andrew Kolvet seems unwilling to do that."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (14 mentions)</summary>
@@ -3299,9 +3321,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Accused (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:29](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “Well, Andrew Kolvet's PR disaster came out of the gate today swinging and attempted to blame me for the article.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:31:32](/episodes/ep-JrhGEm8MGRY.md#t-00-31-01): “Of course he does. Wow, he writes. Thank you, data Republican, for doing this. This threat exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika (Erika Kirk).”
 
 </details>
 
@@ -3468,7 +3491,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -3501,6 +3524,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:56](/episodes/ep-Wjul6YV6izo.md#t-00-55-29): “so many things I'm mad about that I'm now learning from the people that were wrongly fired at Turning Point USA. ... Andrew Kolvet again went rogue in that interview with Alex Clark. not true and try again another lie”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:27:51](/episodes/ep-K1tFD7FfoCU.md#t-00-27-09): “That was my reason for going after Andrew Kolvet, Mikey McCoy.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:02:24](/episodes/ep-pc3pxRyNFZk.md#t-00-02-24): “Andrew Kolvet was, I can tell you, telling the truth in part when he wrote that very long tweet”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:35:05](/episodes/ep-JrhGEm8MGRY.md#t-00-34-51): “You probably did the right thing, Jennica Pounds, by outing yourself as a positive, absolute scumbag and dishonest human being who was not, we're not attacking me because you were looking at the data.”
 
 </details>
 
@@ -3553,10 +3577,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Formerly Worked For (2)</summary>
 
 - **[KAIROS Company](/entities/org-kairos-company.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Andrew Kolvet was working PR for the KAIROS Company under Johnnie Moore.”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:10](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “Andrew Kolvet was the executive vice president and he effectively was working for the Kairos company,”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:28](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28): “A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company.”
 
 </details>
 
@@ -3936,9 +3961,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:29](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “Well, Andrew Kolvet's PR disaster came out of the gate today swinging and attempted to blame me for the article.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:31:32](/episodes/ep-JrhGEm8MGRY.md#t-00-31-01): “Of course he does. Wow, he writes. Thank you, data Republican, for doing this. This threat exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika (Erika Kirk).”
 
 </details>
 
@@ -4003,7 +4029,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -4036,6 +4062,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:56](/episodes/ep-Wjul6YV6izo.md#t-00-55-29): “so many things I'm mad about that I'm now learning from the people that were wrongly fired at Turning Point USA. ... Andrew Kolvet again went rogue in that interview with Alex Clark. not true and try again another lie”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:27:51](/episodes/ep-K1tFD7FfoCU.md#t-00-27-09): “That was my reason for going after Andrew Kolvet, Mikey McCoy.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:02:24](/episodes/ep-pc3pxRyNFZk.md#t-00-02-24): “Andrew Kolvet was, I can tell you, telling the truth in part when he wrote that very long tweet”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:35:05](/episodes/ep-JrhGEm8MGRY.md#t-00-34-51): “You probably did the right thing, Jennica Pounds, by outing yourself as a positive, absolute scumbag and dishonest human being who was not, we're not attacking me because you were looking at the data.”
 
 </details>
 
@@ -4109,10 +4136,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[KAIROS Company](/entities/org-kairos-company.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Andrew Kolvet was working PR for the KAIROS Company under Johnnie Moore.”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:10](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “Andrew Kolvet was the executive vice president and he effectively was working for the Kairos company,”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:28](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28): “A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company.”
 
 </details>
 
@@ -4344,7 +4372,15 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Andrew Kolvet (100)</strong></summary>
+<summary><strong class="section-title">Statements by Andrew Kolvet (101)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:31:32](/episodes/ep-JrhGEm8MGRY.md#t-00-31-01) [○] (Accusation) ["Andrew Kolvet wrote that Candace Owens and her audience had created the requisit..."](/statements/statement-6c1a88c854dc.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4)</summary>
@@ -4851,7 +4887,15 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (221)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (224)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:35:16](/episodes/ep-JrhGEm8MGRY.md#t-00-35-16) (Accusation) **Candace Owens**: ["Owens claimed the effort portraying her investigation as dangerous was..."](/statements/statement-fc83166ced37.md)
+  - Also about: [United States Department of State](/entities/org-united-states-department-of-state.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (7)</summary>
@@ -5130,10 +5174,21 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2)</summary>
 
 - [00:24:20](/episodes/ep-cPidFQDJLbo.md#t-00-23-44) (Claim) **Candace Owens**: ["Andrew Kolvet was running Charlie Kirk's Twitter account, and Michael ..."](/statements/statement-62b7f786aea5.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Twitter](/entities/org-twitter.md)
+
+- [00:24:28](/episodes/ep-cPidFQDJLbo.md#t-00-23-44) (Accusation) **Candace Owens**: ["Insiders with access to Charlie Kirk's communications may have learned..."](/statements/statement-7f2cf0193d75.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>
+
+- [00:06:33](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08) (Claim) **Candace Owens**: ["Candace Owens says she assumes Erika Kirk visited the West Wing with A..."](/statements/statement-06093dc545f9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md)
 
 </details>
 

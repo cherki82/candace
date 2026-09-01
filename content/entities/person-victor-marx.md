@@ -31,7 +31,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <div><span>Episodes</span><strong>16</strong></div>
 <div><span>Mentions</span><strong>241</strong></div>
 <div><span>Statements by</span><strong>55</strong></div>
-<div><span>Statements about</span><strong>95</strong></div>
+<div><span>Statements about</span><strong>96</strong></div>
 <div><span>Relationships</span><strong>75</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1823,7 +1823,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Victor Marx (95)</strong></summary>
+<summary><strong class="section-title">Statements about Victor Marx (96)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (3)</summary>
@@ -1837,7 +1837,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
-<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (7)</summary>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (8)</summary>
 
 - [00:01:08](/episodes/ep-cPidFQDJLbo.md#t-00-00-44) (Claim) **Candace Owens**: ["The fallout from Victor Marx's interview inspired me to send preservat..."](/statements/statement-8a090a2510d3.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
@@ -1858,6 +1858,9 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 - [00:52:54](/episodes/ep-cPidFQDJLbo.md#t-00-52-37) (Accusation) **Candace Owens**: ["Victor Marx's post timing signals to me that someone at the hospital, ..."](/statements/statement-4519a0d6b1ae.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:53:19](/episodes/ep-cPidFQDJLbo.md#t-00-53-05) (Accusation) **Candace Owens**: ["Victor Marx may have been part of an Israel-linked chat through which ..."](/statements/statement-d288b2db122c.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

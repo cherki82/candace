@@ -28,7 +28,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <div><span>Episodes</span><strong>79</strong></div>
 <div><span>Mentions</span><strong>262</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>65</strong></div>
+<div><span>Statements about</span><strong>69</strong></div>
 <div><span>Relationships</span><strong>29</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -378,7 +378,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
 
 **[00:26:05](/episodes/ep-sKuYLNx3iRo.md#ent-person-kash-patel-t-00-26-05)**
-> "Cash Patel's FBI team"
+> "Well, Kash Patel's FBI team would have to swoop in and seize the cameras expeditiously, which they did. We didn't understand at the time why they would seize the cameras on the outside and on the inside of the hospital, we asked ourselves."
 
 </details>
 
@@ -1815,7 +1815,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kash Patel (65)</strong></summary>
+<summary><strong class="section-title">Statements about Kash Patel (69)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1)</summary>
@@ -1888,7 +1888,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details>
-<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (4)</summary>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (5)</summary>
 
 - [00:27:59](/episodes/ep-5NQyGuRYbU8.md#t-00-27-34) (Claim) **Candace Owens**: ["Candace Owens said an FBI plane landed in Salt Lake City on September ..."](/statements/statement-395c6ab99170.md)
   - Also about: [FBI](/entities/org-fbi.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -1899,13 +1899,16 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 - [00:30:37](/episodes/ep-5NQyGuRYbU8.md#t-00-30-08) (Citation) **FBI** (via quoted document): ["The FBI's FOIA response told Candace Owens that unusual circumstances ..."](/statements/statement-e8bbf7d482af.md)
   - Also about: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
 
+- [00:31:07](/episodes/ep-5NQyGuRYbU8.md#t-00-30-49) (Opinion) **Candace Owens**: ["Candace Owens inferred that the FBI's unusual-circumstances FOIA notic..."](/statements/statement-23d53d68cf39.md)
+  - Also about: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [FBI](/entities/org-fbi.md)
+
 - [00:34:01](/episodes/ep-5NQyGuRYbU8.md#t-00-33-25) (Promise) **Candace Owens**: ["Candace Owens promised to keep filing requests until she got to the bo..."](/statements/statement-53e946a74d19.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [FBI](/entities/org-fbi.md), [Blake Neff](/entities/person-blake-neff.md)
 
 </details>
 
 <details>
-<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3)</summary>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (4)</summary>
 
 - [00:09:49](/episodes/ep-WoXd4oLwd3w.md#t-00-09-34) (Opinion) **Dan Bongino**: ["Dan Bongino called absurd Tucker Carlson's apparent belief that Bongin..."](/statements/statement-35e8df5c4a6e.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Dan Bongino](/entities/person-dan-bongino.md)
@@ -1915,6 +1918,9 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 - [00:10:18](/episodes/ep-WoXd4oLwd3w.md#t-00-10-18) (Claim) **Dan Bongino**: ["Dan Bongino said Donald Trump would tell Bongino and Kash Patel when T..."](/statements/statement-3c092f53779d.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Dan Bongino](/entities/person-dan-bongino.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:48:17](/episodes/ep-WoXd4oLwd3w.md#t-00-48-05) (Accusation) **Candace Owens**: ["Candace Owens speculated that the FOIA delay might reflect consultatio..."](/statements/statement-32eb670bee0f.md)
+  - Also about: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [FBI](/entities/org-fbi.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>
 
@@ -1932,10 +1938,16 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details>
-<summary>Candace x Hunter Biden: The Interview (1)</summary>
+<summary>Candace x Hunter Biden: The Interview (3)</summary>
 
 - [00:59:59](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59) (Opinion) **Candace Owens**: ["Donald Trump, Kash Patel, and JD Vance have shown zero interest in the..."](/statements/statement-5412eb913b0a.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [JD Vance](/entities/person-jd-vance.md)
+
+- [01:00:26](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59) (Accusation) **Candace Owens**: ["Trump, Kash Patel, and J.D. Vance are accepting the official Charlie K..."](/statements/statement-77e2d7486bc5.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [JD Vance](/entities/person-jd-vance.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:04:08](/episodes/ep-Ux1kzgQxkws.md#t-01-04-08) (Opinion) **Hunter Biden**: ["The political response to Charlie Kirk's assassination may reflect dis..."](/statements/statement-4cc3b49c97d3.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [JD Vance](/entities/person-jd-vance.md)
 
 </details>
 

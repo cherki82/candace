@@ -25,8 +25,8 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11">2026-07-16 · 00:36:40</a></strong></div>
 <div><span>Episodes</span><strong>12</strong></div>
 <div><span>Mentions</span><strong>25</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -322,6 +322,32 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-32-13): “Pastor Hibbs—great friend of Charlie (Charlie Kirk)—also another leader of a Calvary Chapel”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Jack Hibbs (1)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1)</summary>
+
+- [00:37:04](/episodes/ep-h76ZN-xXC6c.md#t-00-37-04) [○] (Claim) ["Jack Hibbs said he believed either Frank Turek or Michael McCoy placed the first..."](/statements/statement-d31144ce9e27.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Jack Hibbs (1)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1)</summary>
+
+- [00:37:04](/episodes/ep-h76ZN-xXC6c.md#t-00-37-04) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs said he believed either Frank Turek or Michael McCoy placed..."](/statements/statement-d31144ce9e27.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Michael McCoy](/entities/person-michael-mccoy.md)
 
 </details>
 

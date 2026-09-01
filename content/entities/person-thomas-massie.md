@@ -114,7 +114,7 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 > "...Then we have at the same time Thomas Massie. announcing that he's doing something to honor th..."
 
 **[01:06:54](/episodes/ep-YeEtS7nix3o.md#ent-person-thomas-massie-t-01-06-30)**
-> "... account said something about Thomas Massie, Andrew Colvet made a phone call and said, oh, we..."
+> "The last time somebody on X who runs the TPUSA account said something about Thomas Massie, Andrew Kolvet made a phone call and said, oh, we don't run our TPUSA account."
 
 **[01:07:05](/episodes/ep-YeEtS7nix3o.md#ent-person-thomas-massie-t-01-06-30)**
 > "...e, the back and forth between Thomas Massie, that wasn't Turning Point USA."

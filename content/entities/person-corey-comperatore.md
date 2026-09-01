@@ -22,9 +22,9 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -47,6 +47,10 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -180,7 +184,7 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Corey Comperatore (7)</strong></summary>
+<summary><strong class="section-title">Statements about Corey Comperatore (8)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (3)</summary>
@@ -197,7 +201,7 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 </details>
 
 <details>
-<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (4)</summary>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (5)</summary>
 
 - [00:10:53](/episodes/ep-5NQyGuRYbU8.md#t-00-10-53) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Corey Comperatore was the longtime high-school frie..."](/statements/statement-a03200bad64e.md)
   - Also about: [Mark A. Liti](/entities/person-mark-liti.md)
@@ -207,6 +211,9 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 
 - [00:11:55](/episodes/ep-5NQyGuRYbU8.md#t-00-11-26) (Claim) **Candace Owens**: ["Candace Owens said Corey Comperatore was then shot in the head at the ..."](/statements/statement-a286f1402e98.md)
   - Also about: [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:23:33](/episodes/ep-5NQyGuRYbU8.md#t-00-23-13) (Accusation) **Candace Owens**: ["Candace Owens speculated that Butler may have been an assassination su..."](/statements/statement-09de59bd7dad.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
 
 - [00:23:44](/episodes/ep-5NQyGuRYbU8.md#t-00-23-13) (Claim) **Anonymous Source #1 (Ep 5NQyGuRYbU8)** (via paraphrase): ["An unnamed authority said Corey Comperatore's widow and family were di..."](/statements/statement-ea615daf7444.md)
   - Also about: [United States Secret Service](/entities/org-united-states-secret-service.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)

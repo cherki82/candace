@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 371 mentions"
+description: "Blake Neff (People) - 376 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-blake-neff-t-00-24-21">2026-08-21 · 00:24:21</a></strong></div>
-<div><span>Episodes</span><strong>72</strong></div>
-<div><span>Mentions</span><strong>371</strong></div>
-<div><span>Statements by</span><strong>45</strong></div>
-<div><span>Statements about</span><strong>52</strong></div>
-<div><span>Relationships</span><strong>41</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-44-09">2026-08-31 · 00:44:09</a></strong></div>
+<div><span>Episodes</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>376</strong></div>
+<div><span>Statements by</span><strong>47</strong></div>
+<div><span>Statements about</span><strong>55</strong></div>
+<div><span>Relationships</span><strong>43</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -109,6 +109,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-blake-neff-t-00-42-07" style="--pulse-height:11%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-blake-neff-t-00-01-00" style="--pulse-height:39%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 7 mentions" title="2026-08-19 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-blake-neff-t-00-24-21" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-32-58" style="--pulse-height:28%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 5 mentions" title="2026-08-31 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -186,6 +187,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-blake-neff-t-00-42-07) | 2 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-blake-neff-t-00-01-00) | 7 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-blake-neff-t-00-24-21) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-32-58) | 5 |
 
 </details>
 </section>
@@ -197,7 +199,27 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (371)</strong></summary>
+<summary><strong class="section-title">Raw mentions (376)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (5 mentions)</summary>
+
+**[00:33:10](/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-32-58)**
+> "So she then reveals that Sarah Rogers is leaking to her and Sarah Rogers just happens to be besties with Blake Neff. OK, so let me show you Sarah Rogers and Blake Neff, the picture of them."
+
+**[00:33:24](/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-32-58)**
+> "Blake Neff gets into the foray. So now we realize that Turni..."
+
+**[00:34:58](/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-34-51)**
+> "...'re dealing with anybody with Blake Neff, I'd be paranoid too."
+
+**[00:35:16](/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-35-16)**
+> "...tment, the Department of War, Blake Neff, and Andrew Kolvet allies. So the question Remain..."
+
+**[00:44:09](/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-44-09)**
+> "And Blake Neff is the least believable person in the world. So g..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -871,7 +893,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > "..., no one believes you, Blake (Blake Neff)."
 
 **[00:25:37](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-25-37)**
-> "...he people have spoken, Blake (Blake Neff), and they are not on your side. Release the vide..."
+> "This is ridiculous—absolutely ridiculous. And I said the ratio here is exceptional. Pay attention to what people are saying. The people have spoken, Blake Neff, and they are not on your side. Release the video and let us be the judge of who is lying about what."
 
 **[00:25:50](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-25-37)**
 > "And Blake (Blake Neff) said, yeah, Candace, since I'm not a malignant n..."
@@ -1768,7 +1790,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -1798,6 +1820,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:00:21](/episodes/ep-E7P2ShoYDUA.md#t-00-00-01): “Just terrible, terrible. I mean, without question, the biggest loser was Erika Kirk, Andrew Kolvet. Blake Neff, the Turning Point USA organization, more broadly speaking, because we seem to be reaching a new depth of their PR disaster.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:18:33](/episodes/ep-9hRcfSrri70.md#t-00-18-18): “This is a tweet, by the way, from just this morning from Blakey (Blake Neff). He's already been community noted on it for its intentional misrepresentation. He just lies and misrepresents and we're the bad guys for noticing that he's doing it. This is what the tweet read.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:43:23](/episodes/ep-_cNtgris8Ik.md#t-00-43-23): “she had yeah he totally had her back when she got fired from the daily wire yeah andrew that's now now your timeline is pushed up to 2024 i was fired in march of 2024 so how long are you trying to say that we weren't friends for it's just such a nonsense truly let it go blake nobody knows who you are neither did charlie okay you started working for him in 2023 you're not laughing because you don't know anything tyler's laughing because he does And it is,”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:44:09](/episodes/ep-JrhGEm8MGRY.md#t-00-44-09): “And Blake Neff is the least believable person in the world. So glad to know that you guys think that having the State Department and the Department of War behind you is going to win the game, along with billionaires like Bill Ackman who are willing to promote your nonsense. But we see right through all of it. Top comments from the last episode before we went off air: Big Hair Do Care wrote, 'The way she drops these bombs and then goes on vacation.'”
 
 </details>
 
@@ -1837,6 +1860,18 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:09:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-09-05): “He then went to work for Stu Peters and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Friend Of (1)</summary>
+
+- **[Sarah B. Rogers](/entities/person-sarah-b-rogers.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:33:10](/episodes/ep-JrhGEm8MGRY.md#t-00-32-58): “So she then reveals that Sarah Rogers is leaking to her and Sarah Rogers just happens to be besties with Blake Neff. OK, so let me show you Sarah Rogers and Blake Neff, the picture of them.”
 
 </details>
 
@@ -1926,7 +1961,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Referenced By (20)</summary>
+<summary>Referenced By (21)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -1959,7 +1994,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -1989,6 +2024,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:00:21](/episodes/ep-E7P2ShoYDUA.md#t-00-00-01): “Just terrible, terrible. I mean, without question, the biggest loser was Erika Kirk, Andrew Kolvet. Blake Neff, the Turning Point USA organization, more broadly speaking, because we seem to be reaching a new depth of their PR disaster.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:18:33](/episodes/ep-9hRcfSrri70.md#t-00-18-18): “This is a tweet, by the way, from just this morning from Blakey (Blake Neff). He's already been community noted on it for its intentional misrepresentation. He just lies and misrepresents and we're the bad guys for noticing that he's doing it. This is what the tweet read.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:43:23](/episodes/ep-_cNtgris8Ik.md#t-00-43-23): “she had yeah he totally had her back when she got fired from the daily wire yeah andrew that's now now your timeline is pushed up to 2024 i was fired in march of 2024 so how long are you trying to say that we weren't friends for it's just such a nonsense truly let it go blake nobody knows who you are neither did charlie okay you started working for him in 2023 you're not laughing because you don't know anything tyler's laughing because he does And it is,”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:44:09](/episodes/ep-JrhGEm8MGRY.md#t-00-44-09): “And Blake Neff is the least believable person in the world. So glad to know that you guys think that having the State Department and the Department of War behind you is going to win the game, along with billionaires like Bill Ackman who are willing to promote your nonsense. But we see right through all of it. Top comments from the last episode before we went off air: Big Hair Do Care wrote, 'The way she drops these bombs and then goes on vacation.'”
 
 </details>
 
@@ -2086,6 +2122,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+- **[Sarah B. Rogers](/entities/person-sarah-b-rogers.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:33:10](/episodes/ep-JrhGEm8MGRY.md#t-00-32-58): “So she then reveals that Sarah Rogers is leaking to her and Sarah Rogers just happens to be besties with Blake Neff. OK, so let me show you Sarah Rogers and Blake Neff, the picture of them.”
+
+</details>
+
 - **[Kash Patel](/entities/person-kash-patel.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -2119,7 +2162,15 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (45)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (47)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:33:30](/episodes/ep-JrhGEm8MGRY.md#t-00-33-30) [○] (Claim) ["Blake Neff wrote that Sarah B. Rogers was one of Charlie Kirk’s favorite Trump n..."](/statements/statement-f18ecbf50f91.md)
+  - About: [Sarah B. Rogers](/entities/person-sarah-b-rogers.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [United States Department of State](/entities/org-united-states-department-of-state.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2)</summary>
@@ -2219,6 +2270,14 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 - [00:32:05](/episodes/ep-5NQyGuRYbU8.md#t-00-32-05) [✓] (Prediction) ["Blake Neff predicted that Candace Owens would fixate on her latest inquiry for t..."](/statements/statement-1fdb3b78920a.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
+
+- [00:33:13](/episodes/ep-19vHhjF7-NA.md#t-00-33-13) [○] (Accusation) ["Blake Neff said critics immediately and baselessly claimed the succession clip s..."](/statements/statement-82316669cfee.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 
@@ -2359,7 +2418,18 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (52)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (55)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2)</summary>
+
+- [00:33:10](/episodes/ep-JrhGEm8MGRY.md#t-00-32-58) (Claim) **Candace Owens**: ["Owens said Sarah B. Rogers was a close friend of Blake Neff."](/statements/statement-303860398b64.md)
+  - Also about: [Sarah B. Rogers](/entities/person-sarah-b-rogers.md)
+
+- [00:35:16](/episodes/ep-JrhGEm8MGRY.md#t-00-35-16) (Accusation) **Candace Owens**: ["Owens claimed the effort portraying her investigation as dangerous was..."](/statements/statement-fc83166ced37.md)
+  - Also about: [United States Department of State](/entities/org-united-states-department-of-state.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2515,6 +2585,14 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 - [00:34:25](/episodes/ep-19vHhjF7-NA.md#t-00-34-03) (Claim) **Candace Owens**: ["Owens said Blake Neff is not an employee of Turning Point USA."](/statements/statement-2e2f77e5a151.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1)</summary>
+
+- [00:14:24](/episodes/ep-1QZ4X6q1DPg.md#t-00-14-14) (Claim) **Candace Owens**: ["Candace Owens says Turning Point USA still had not publicly released t..."](/statements/statement-e7e483615fd3.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

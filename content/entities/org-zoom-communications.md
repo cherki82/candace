@@ -156,7 +156,7 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 <summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
 
 **[00:16:13](/episodes/ep-1QZ4X6q1DPg.md#t-00-16-13)**
-> "... go on to receive a link onto Zoom and have Turning Point show them on a screen?"
+> "They describe how journalists have seen the footage. Did they receive a Zoom link and have Turning Point show it to them on a screen?"
 
 </details>
 

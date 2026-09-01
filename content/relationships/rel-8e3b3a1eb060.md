@@ -11,7 +11,7 @@ object: "person-blake-neff"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Blake Neff](/entities/person-blake-neff)
 
-### Evidence (28 mentions)
+### Evidence (29 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -56,6 +56,10 @@ object: "person-blake-neff"
 **[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
 
 - [00:35:14](/episodes/ep-I0OaY6Gryqk#t-00-35-14): _that Blake Neff now somehow holds the keys and knows what Charlie (Charlie Kirk) would have wanted. Mikey McCoy, this kid who came out of nowhere, knows exactly—like we were his best friends—so much so that we won't even_
+
+**[We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY)**
+
+- [00:44:09](/episodes/ep-JrhGEm8MGRY#t-00-44-09): _And Blake Neff is the least believable person in the world. So glad to know that you guys think that having the State Department and the Department of War behind you is going to win the game, along with billionaires like Bill Ackman who are willing to promote your nonsense. But we see right through all of it. Top comments from the last episode before we went off air: Big Hair Do Care wrote, 'The way she drops these bombs and then goes on vacation.'_
 
 **[UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410)**
 

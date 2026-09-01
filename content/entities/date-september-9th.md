@@ -1,6 +1,6 @@
 ---
 title: "September 9th"
-description: "September 9th (Dates) - 4 mentions"
+description: "September 9th (Dates) - 5 mentions"
 id: "date-september-9th"
 type: "DATE"
 aliases:
@@ -15,11 +15,11 @@ _Type: Dates_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-9th-t-00-16-32">2025-09-24 · 00:16:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-date-september-9th-t-00-19-14">2025-12-18 · 00:19:14</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-date-september-9th-t-00-46-39">2026-08-31 · 00:46:47</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -32,6 +32,7 @@ _Type: Dates_
 <a href="/episodes/ep-581dILVcEE4.md#t-00-17-36" style="--pulse-height:100%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-date-september-9th-t-00-35-25" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-date-september-9th-t-00-19-14" style="--pulse-height:100%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-date-september-9th-t-00-46-39" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +42,7 @@ _Type: Dates_
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-17-36) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-date-september-9th-t-00-35-25) | 1 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-date-september-9th-t-00-19-14) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-date-september-9th-t-00-46-39) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ _Type: Dates_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:46:47](/episodes/ep-JrhGEm8MGRY.md#ent-date-september-9th-t-00-46-39)**
+> "...had texted multiple people on September 9th saying that he wanted me back."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
@@ -88,5 +98,18 @@ _Type: Dates_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about September 9th (1)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:46:47](/episodes/ep-JrhGEm8MGRY.md#t-00-46-39) (Claim) **Candace Owens**: ["Owens said Charlie Kirk texted multiple people on September 9 saying t..."](/statements/statement-fedb922d3577.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 </details>

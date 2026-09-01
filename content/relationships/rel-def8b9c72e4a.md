@@ -11,11 +11,15 @@ object: "person-candace-owens"
 
 ## [Blake Lively](/entities/person-blake-lively) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 
 - [00:24:46](/episodes/ep-GY6GWceEqtQ#t-00-24-46): _looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights_
+
+**[We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY)**
+
+- [00:14:52](/episodes/ep-JrhGEm8MGRY#t-00-14-52): _And I'll be frank with you guys, because way back when I was interning for Glamour magazine, Blake Lively had the she had the front cover and the person I was working for worked on the shoot and she said Blake Lively was awful. It was like her least favorite person to work with. So I wasn't passing this. It wasn't passing the sniff test._
 
 **[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
 

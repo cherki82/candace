@@ -1,6 +1,6 @@
 ---
 title: "Alex Clark"
-description: "Alex Clark (People) - 65 mentions"
+description: "Alex Clark (People) - 66 mentions"
 id: "person-alex-clark"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-clark-t-00-57-12">2025-09-22 · 00:57:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-clark-t-00-18-40">2026-07-30 · 00:18:40</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>65</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-alex-clark-t-00-37-46">2026-08-31 · 00:37:57</a></strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>66</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
@@ -59,6 +59,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-clark-t-00-33-34" style="--pulse-height:10%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-alex-clark-t-00-56-24" style="--pulse-height:10%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-clark-t-00-18-40" style="--pulse-height:10%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-alex-clark-t-00-37-46" style="--pulse-height:10%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -92,6 +93,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-clark-t-00-33-34) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-alex-clark-t-00-56-24) | 1 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-clark-t-00-18-40) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-alex-clark-t-00-37-46) | 1 |
 
 </details>
 </section>
@@ -103,7 +105,15 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (65)</strong></summary>
+<summary><strong class="section-title">Raw mentions (66)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:37:57](/episodes/ep-JrhGEm8MGRY.md#ent-person-alex-clark-t-00-37-46)**
+> "They have traditionally toured with Turning Point USA. Beyond that, we're getting Alex Clark and Ben Shapiro. Now we know why they tried so hard to explain that Ben Shapiro was friends with Charlie Kirk: he wants the company. He's like, 'Mine has failed; that one looks pretty. I'm a parasite. I'd like to be here.' He wants to pick up that bloody mic, and by golly he's going to do it. They're also trying to launch this obscure guy, Mat Nuclear, who works at The Daily Wire."
+
+</details>
 
 <details>
 <summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>

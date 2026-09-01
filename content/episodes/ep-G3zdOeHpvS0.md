@@ -1,14 +1,14 @@
 ---
 id: "G3zdOeHpvS0"
 title: "A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351"
-description: "A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 - 109 entities, 22 events, 18 factual claims"
+description: "A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 - 109 entities, 22 events, 20 factual claims"
 published: "2026-06-17"
 youtube_url: "https://www.youtube.com/watch?v=G3zdOeHpvS0"
 ---
 
 **Published:** 2026-06-17 | [Watch on YouTube](https://www.youtube.com/watch?v=G3zdOeHpvS0)
 
-**Stats:** 109 entities | 22 events | 18 factual claims
+**Stats:** 109 entities | 22 events | 20 factual claims
 
 ---
 
@@ -401,9 +401,11 @@ youtube_url: "https://www.youtube.com/watch?v=G3zdOeHpvS0"
 </details>
 
 <details>
-<summary><strong>Statements (45)</strong></summary>
+<summary><strong>Statements (51)</strong></summary>
 
 - [00:00:01](#t-00-00-01) [○] (Opinion) **Candace Owens**: ["Owens said the theory that Charlie Kirk's microphone may have been rigged appear..."](/statements/statement-ba3c2462e968.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:00:01](#t-00-00-01) [○] (Opinion) **Candace Owens**: ["Owens said it appeared to her that, if the rigged-microphone theory were correct..."](/statements/statement-74d7b7715ace.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:00:27](#t-00-00-01) [◐] (Accusation) **Candace Owens**: ["Owens said Taryl Farnsworth removed the camera behind Charlie Kirk's head minute..."](/statements/statement-0698f23199f5.md)
   - About: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -429,6 +431,8 @@ youtube_url: "https://www.youtube.com/watch?v=G3zdOeHpvS0"
   - About: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:08:51](#t-00-08-44) [◐] (Claim) **Candace Owens**: ["Owens characterized the absence of an ambulance at Charlie Kirk's event as anoma..."](/statements/statement-0ff2c6fbfaad.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:08:51](#t-00-08-44) [○] (Opinion) **Candace Owens**: ["Owens argued that, under the rigged-microphone theory, the absence of a standby ..."](/statements/statement-6885916cc34c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:10:38](#t-00-10-30) [◐] (Claim) **Candace Owens**: ["Owens said Charlie Kirk's RODE wireless microphone was placed inside his shirt e..."](/statements/statement-81224486cc3c.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
 - [00:11:38](#t-00-11-38) [○] (Claim) **Candace Owens**: ["Owens said the regular use of a redundant RODE wireless microphone began with Ch..."](/statements/statement-0f0e708642ba.md)
@@ -441,6 +445,7 @@ youtube_url: "https://www.youtube.com/watch?v=G3zdOeHpvS0"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
 - [00:15:30](#t-00-15-25) [◐] (Claim) **Sam Parker**: ["Sam Parker said video showed Philip Goldsberry Jr. holding a RODE Wireless Pro m..."](/statements/statement-46b9e8c7287e.md)
   - About: [Phillip Goldsberry Jr.](/entities/person-phillip-goldsberry-jr.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
+- [00:16:20](#t-00-16-20) [○] (Claim) **Anonymous Source #3 (Ep G3zdOeHpvS0)**: ["An unidentified product-demo narrator said the microphone's magnetic clips were ..."](/statements/statement-6c4761a1e3cc.md)
 - [00:16:29](#t-00-16-28) [◐] (Claim) **Sam Parker**: ["Sam Parker said Philip Goldsberry Jr. secured the microphone beneath Charlie Kir..."](/statements/statement-de0869762edf.md)
   - About: [Phillip Goldsberry Jr.](/entities/person-phillip-goldsberry-jr.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
 - [00:18:18](#t-00-17-59) [✓] (Claim) **Candace Owens**: ["Owens said Dr. Philip Goldsberry co-founded a charitable organization that began..."](/statements/statement-92e472bb5591.md)
@@ -459,9 +464,15 @@ youtube_url: "https://www.youtube.com/watch?v=G3zdOeHpvS0"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:27:52](#t-00-27-52) [○] (Claim) **Terryl Farnsworth**: ["Taryl Farnsworth told Owens that Charlie Kirk's event was livestreamed to the op..."](/statements/statement-df7199143c56.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Phoenix](/entities/gpe-phoenix.md)
+- [00:28:50](#t-00-28-38) [○] (Claim) **Candace Owens**: ["Owens said current and former Turning Point USA employees consistently reported ..."](/statements/statement-b79d21518df2.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:29:34](#t-00-29-20) [◐] (Accusation) **Candace Owens**: ["Owens said federal investigators did not take much of the relevant material into..."](/statements/statement-44b92ae620c4.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:29:50](#t-00-29-20) [○] (Opinion) **Candace Owens**: ["Owens said the whereabouts of Charlie Kirk's clothes were unclear and argued tha..."](/statements/statement-851913396885.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:30:04](#t-00-30-04) [○] (Opinion) **Candace Owens**: ["Owens said she believed a shaped charge was intended to strike Charlie Kirk in t..."](/statements/statement-462985b03bdb.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:30:31](#t-00-30-04) [○] (Opinion) **Candace Owens**: ["Owens argued that Charlie Kirk's white shirt should be tested for explosive resi..."](/statements/statement-72901131b4f9.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:31:04](#t-00-30-41) [◐] (Accusation) **Candace Owens**: ["Owens said federal investigators gave Charlie Kirk's blood-spattered handheld mi..."](/statements/statement-4ea0acee2188.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)

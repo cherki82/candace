@@ -393,7 +393,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "...bly put a special emphasis on France I believe early on I thought one person might hav..."
 
 **[00:57:00](/episodes/ep-IqHsl7d2dos.md#ent-gpe-france-t-00-56-54)**
-> "...om Africa, from Romania, from France, from Italy, from wherever it is, and have people..."
+> "And I will say that I'm getting there. I totally understand how it has brought countries and people together to research—emails arrive from Africa, Romania, France, Italy, and elsewhere, with people participating in this investigation."
 
 </details>
 

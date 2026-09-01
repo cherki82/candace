@@ -12,7 +12,7 @@ date: "2025-10-07"
 
 > TPUSA donors John and Irina Mappin publish letter supporting Candace Owens
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
@@ -37,3 +37,14 @@ date: "2025-10-07"
 <a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=4036s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > John and Erika Wapner in that beautiful letter they wrote yesterday said it way more eloquently
+
+### 4. We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland...
+
+**Episode:** [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md)
+**Timestamp:** [00:07:38](/episodes/ep-JrhGEm8MGRY.md#event-event-2025-10-07-tpusa-donors-john-and-irina-mappin-publish-letter-t-00-07-38)
+<a href="https://www.youtube.com/watch?v=JrhGEm8MGRY&t=458s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> a piece that they published on October 6th because I read it on my show in its entirety
+
+> **Date stated in this source:** “October 6th”
+> **Date review note:** The transcript says October 6, while the primary John Mappin Substack page is dated October 7, 2025; the canonical event retains the primary publication date.

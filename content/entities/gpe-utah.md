@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 398 mentions"
+description: "Utah (Places) - 400 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -22,12 +22,12 @@ Source: [State of Utah official website](https://utah.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-utah-t-00-05-31">2026-08-21 · 00:05:56</a></strong></div>
-<div><span>Episodes</span><strong>89</strong></div>
-<div><span>Mentions</span><strong>398</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-utah-t-00-36-01">2026-08-31 · 00:36:13</a></strong></div>
+<div><span>Episodes</span><strong>90</strong></div>
+<div><span>Mentions</span><strong>400</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>25</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -124,6 +124,7 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-utah-t-00-24-37" style="--pulse-height:29%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 5 mentions" title="2026-08-18 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-utah-t-00-07-16" style="--pulse-height:29%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 5 mentions" title="2026-08-19 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-utah-t-00-05-31" style="--pulse-height:12%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-utah-t-00-29-08" style="--pulse-height:12%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -218,6 +219,7 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-gpe-utah-t-00-24-37) | 5 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-utah-t-00-07-16) | 5 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-utah-t-00-05-31) | 2 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-utah-t-00-29-08) | 2 |
 
 </details>
 </section>
@@ -229,7 +231,18 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (398)</strong></summary>
+<summary><strong class="section-title">Raw mentions (400)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
+
+**[00:29:20](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-utah-t-00-29-08)**
+> "...ind this. Jennica Pounds is a Utah software engineer who really, and I just want to ..."
+
+**[00:36:13](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-utah-t-00-36-01)**
+> "...d. Jennica Pounds is based in Utah. Where was Jennica Pounds on September 10th?"
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -684,7 +697,7 @@ Source: [State of Utah official website](https://utah.gov/)
 > "I want to say it was Utah, like on the 8th, but it might have been Nebraska..."
 
 **[00:47:12](/episodes/ep-IqHsl7d2dos.md#ent-gpe-utah-t-00-46-47)**
-> "...re really just students in in utah but not all of them i've always said also that th..."
+> "Sharp viewers are going to identify one or two of these people as ordinary Utah students, but I do not think that explains all of them. I have also always said that the French Foreign Legion was on the ground that day; authorities have ignored rather than disputed that claim, and I stand by it."
 
 **[01:06:14](/episodes/ep-IqHsl7d2dos.md#ent-gpe-utah-t-01-06-00)**
 > "... information, and wonder what Utah district attorney did that—if it was even in thei..."
@@ -1907,6 +1920,18 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
+<summary>Location Of (1)</summary>
+
+- **[Jennica Pounds](/entities/person-jennica-pounds.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:36:13](/episodes/ep-JrhGEm8MGRY.md#t-00-36-01): “That's what Jennica Pounds did. Jennica Pounds is based in Utah. Where was Jennica Pounds on September 10th?”
+
+</details>
+
+</details>
+
+<details>
 <summary>Ran Against (1)</summary>
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)**
@@ -1946,7 +1971,14 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
+
+- **[Jennica Pounds](/entities/person-jennica-pounds.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:36:13](/episodes/ep-JrhGEm8MGRY.md#t-00-36-01): “That's what Jennica Pounds did. Jennica Pounds is based in Utah. Where was Jennica Pounds on September 10th?”
+
+</details>
 
 - **[Senator Mike Lee](/entities/person-senator-mike-lee.md)** formerly lived in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

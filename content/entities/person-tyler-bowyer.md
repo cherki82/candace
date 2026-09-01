@@ -27,7 +27,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <div><span>Episodes</span><strong>63</strong></div>
 <div><span>Mentions</span><strong>236</strong></div>
 <div><span>Statements by</span><strong>13</strong></div>
-<div><span>Statements about</span><strong>78</strong></div>
+<div><span>Statements about</span><strong>79</strong></div>
 <div><span>Relationships</span><strong>66</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1945,7 +1945,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Bowyer (78)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Bowyer (79)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -1985,6 +1985,14 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 - [00:50:51](/episodes/ep-X3VKJVJ7cN4.md#t-00-50-51) (Opinion) **Candace Owens**: ["Owens said that, in her view, Turning Point USA's bleak transformation..."](/statements/statement-f4164e11df2f.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [01:04:20](/episodes/ep-YeEtS7nix3o.md#t-01-03-53) (Claim) **Candace Owens**: ["In Charlie Kirk's final Aspen presentation, Erika Kirk was mentioned o..."](/statements/statement-acc715af2efa.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

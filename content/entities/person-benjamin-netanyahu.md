@@ -32,7 +32,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <div><span>Episodes</span><strong>98</strong></div>
 <div><span>Mentions</span><strong>412</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>126</strong></div>
+<div><span>Statements about</span><strong>127</strong></div>
 <div><span>Relationships</span><strong>64</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -2627,7 +2627,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (126)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (127)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2677,10 +2677,13 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2)</summary>
 
 - [00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) (Claim) **Candace Owens**: ["Candace Owens said Benjamin Netanyahu gave Donald Trump a golden pager..."](/statements/statement-d2fa62164eb6.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md), [Mossad](/entities/org-mossad.md)
+
+- [00:22:08](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) (Accusation) **Candace Owens**: ["Candace Owens speculated that Benjamin Netanyahu's golden-pager gift t..."](/statements/statement-38ff2727e895.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Mossad](/entities/org-mossad.md)
 
 </details>
 

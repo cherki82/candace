@@ -17,7 +17,7 @@ _Type: Anonymous Sources_
 
 **Categories:** online commenter, display name, identity unverified
 
-> **Possibly overlapping entity records:** [True Detective](/entities/work-true-detective). These records share a name or alias; compare their histories before treating either count as complete.
+> **Possibly overlapping entity records:** [True Detective](/entities/work-true-detective) · [True Detective (commenter; identity unverified)](/entities/anon-src-JrhGEm8MGRY-007). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > Context explicitly uses True Detective as a commenter handle, not the television work.

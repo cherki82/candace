@@ -28,7 +28,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <div><span>Episodes</span><strong>49</strong></div>
 <div><span>Mentions</span><strong>241</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>104</strong></div>
+<div><span>Statements about</span><strong>106</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1236,7 +1236,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fort Huachuca (104)</strong></summary>
+<summary><strong class="section-title">Statements about Fort Huachuca (106)</strong></summary>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
@@ -1246,6 +1246,13 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 - [00:42:08](/episodes/ep-N4uM8Jdr410.md#t-00-42-08) (Accusation) **Candace Owens**: ["Candace Owens said she thought Andrew Kolvet had heard of Fort Huachuc..."](/statements/statement-c2aedde67d42.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1)</summary>
+
+- [00:19:00](/episodes/ep-VMNWMXX1vO8.md#t-00-19-00) (Claim) **Candace Owens**: ["Owens said she received emails claiming that Fort Huachuca personnel c..."](/statements/statement-1e1d6c109928.md)
 
 </details>
 
@@ -1264,13 +1271,16 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (4)</summary>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (5)</summary>
 
 - [00:42:52](/episodes/ep-WoXd4oLwd3w.md#t-00-42-24) (Claim) **Candace Owens**: ["Candace Owens said Bradley Hansell flew from Tucson to Fort Huachuca o..."](/statements/statement-89b879fbd0ce.md)
   - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [Davis-Monthan Air Force Base](/entities/org-davis-monthan-air-force-base.md)
 
 - [00:43:32](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) (Claim) **Candace Owens**: ["Candace Owens said the plane flew from Fort Huachuca to El Paso on Sep..."](/statements/statement-79d5830ec2de.md)
   - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [SAM 702](/entities/vehicle-sam-702.md), [El Paso](/entities/gpe-el-paso.md)
+
+- [00:43:32](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) (Opinion) **Candace Owens**: ["Candace Owens speculated that Bradley Hansell's Tucson and El Paso sto..."](/statements/statement-a9bd8ea1cf7c.md)
+  - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md)
 
 - [00:43:57](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) (Claim) **Candace Owens**: ["Candace Owens said Bradley Hansell's Fort Huachuca stop lasted 19 hour..."](/statements/statement-d6c687dfc5c6.md)
   - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [El Paso](/entities/gpe-el-paso.md)

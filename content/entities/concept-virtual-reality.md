@@ -55,7 +55,7 @@ _Type: Concepts_
 > "..., ever will be a supporter of VR glasses."
 
 **[00:01:51](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-virtual-reality-t-00-01-43)**
-> "them on. And in my virtual reality, I was on a cliff. And they told me to jump. Obvi..."
+> "In my virtual reality, I was on a cliff, and they told me to jump. Obviously, I knew that I was standing in a room and not actually on a cliff, but I wouldn't jump."
 
 **[00:02:06](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-virtual-reality-t-00-01-43)**
 > "I was terrified. The virtual reality seemed more real to me than the perfectly safe ac..."

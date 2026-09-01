@@ -11,7 +11,7 @@ object: "person-george-farmer"
 
 ## [Candace Owens](/entities/person-candace-owens) married to [George Farmer](/entities/person-george-farmer)
 
-### Evidence (17 mentions)
+### Evidence (18 mentions)
 
 **[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
 
@@ -44,6 +44,10 @@ object: "person-george-farmer"
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 
 - [00:46:12](/episodes/ep-GY6GWceEqtQ#t-00-46-12): _I could bake cookies with any of George (George Farmer)'s exes. I just don't care. He's my husband._
+
+**[We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY)**
+
+- [00:04:13](/episodes/ep-JrhGEm8MGRY#t-00-04-13): _Now, those names may be familiar to you. Now, I've told you guys the story a few times, but I met my husband rather serendipitously at an event hosted in London._
 
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 2043 mentions"
+description: "Turning Point USA (Organizations) - 2052 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -27,11 +27,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-turning-point-usa-t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-turning-point-usa-t-01-08-13">2026-08-21 · 01:08:26</a></strong></div>
-<div><span>Episodes</span><strong>156</strong></div>
-<div><span>Mentions</span><strong>2,043</strong></div>
-<div><span>Statements by</span><strong>16</strong></div>
-<div><span>Statements about</span><strong>759</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-40-30">2026-08-31 · 00:40:30</a></strong></div>
+<div><span>Episodes</span><strong>157</strong></div>
+<div><span>Mentions</span><strong>2,052</strong></div>
+<div><span>Statements by</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>781</strong></div>
 <div><span>Relationships</span><strong>226</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -196,6 +196,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-turning-point-usa-t-00-00-01" style="--pulse-height:25%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 14 mentions" title="2026-08-18 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-turning-point-usa-t-00-11-57" style="--pulse-height:13%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 7 mentions" title="2026-08-19 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-turning-point-usa-t-00-00-01" style="--pulse-height:42%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 23 mentions" title="2026-08-21 · 23 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-04-54" style="--pulse-height:16%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 9 mentions" title="2026-08-31 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -357,6 +358,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-turning-point-usa-t-00-00-01) | 14 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-turning-point-usa-t-00-11-57) | 7 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-turning-point-usa-t-00-00-01) | 23 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-04-54) | 9 |
 
 </details>
 </section>
@@ -368,7 +370,39 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2043)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2052)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (9 mentions)</summary>
+
+**[00:05:09](/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-04-54)**
+> "And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially."
+
+**[00:37:31](/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-37-12)**
+> "I don't know. Anyway, something that was pretty funny was TPUSA announced their new lineup, their new tour, which sounds like a Jennifer Lopez 2000s song."
+
+**[00:28:16](/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-27-53)**
+> "...cuted against me on behalf of Turning Point USA, actually in particular on behalf of Erika (Erika..."
+
+**[00:33:24](/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-32-58)**
+> "...foray. So now we realize that Turning Point USA is working with the state department."
+
+**[00:36:56](/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-36-41)**
+> "...which is going to reveal that Turning Point USA has some explaining to do."
+
+**[00:37:57](/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-37-46)**
+> "...ave traditionally toured with Turning Point USA. Beyond that, we're getting Alex Clark and Ben Sh..."
+
+**[00:39:06](/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-39-06)**
+> "Now he's on tour with Turning Point USA because he's going to be a debater. We are just r..."
+
+**[00:39:56](/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-39-35)**
+> "Everyone knows what Turning Point USA is and what these people are. And unfortunately, ..."
+
+**[00:40:30](/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-40-30)**
+> "...o cares about what happens to Turning Point USA? I mean, okay, Mat Nuclear and Ben Shapiro, have ..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (23 mentions)</summary>
@@ -1600,7 +1634,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 **[01:06:19](/episodes/ep-h76ZN-xXC6c.md#ent-org-turning-point-usa-t-01-06-01)**
 > "...nson didn't do this thing and turning point every day just becomes more and more shady."
 
-**[01:06:30](/episodes/ep-h76ZN-xXC6c.md#ent-org-turning-point-usa-t-01-06-01)**
+**[01:06:19](/episodes/ep-h76ZN-xXC6c.md#ent-org-turning-point-usa-t-01-06-01)**
 > "...nson didn't do this thing and turning point every day just becomes more and more shady."
 
 **[00:06:00](/episodes/ep-h76ZN-xXC6c.md#ent-org-turning-point-usa-t-00-05-39)**
@@ -1986,7 +2020,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > "Plus, Turning Point USA made another—oh—a little blunder. In my view, the..."
 
 **[00:06:18](/episodes/ep-1QZ4X6q1DPg.md#ent-org-turning-point-usa-t-00-06-09)**
-> "...he world knows it's weird but Turning Point USA has a lot of money and they have a lot of power"
+> "It will drop this Thursday, and I very much look forward to all of the surrounding commentary. Moving on—or I should say, as you saw in the trailer, Hunter Biden and I did in fact discuss Charlie Kirk, because it's weird. You didn't need Hunter Biden to tell you that it's weird. Everyone left and right, all across the world, knows it's weird. But Turning Point USA has a lot of money and they have a lot of power."
 
 **[00:08:12](/episodes/ep-1QZ4X6q1DPg.md#ent-org-turning-point-usa-t-00-08-12)**
 > "... in this together turned into turning point is my family."
@@ -2004,7 +2038,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > "... Charlie Kirk naming his true turning point successor days before the assassination."
 
 **[00:16:13](/episodes/ep-1QZ4X6q1DPg.md#ent-org-turning-point-usa-t-00-16-13)**
-> "...ive a link onto Zoom and have Turning Point show them on a screen?"
+> "They describe how journalists have seen the footage. Did they receive a Zoom link and have Turning Point show it to them on a screen?"
 
 **[00:16:39](/episodes/ep-1QZ4X6q1DPg.md#ent-org-turning-point-usa-t-00-16-13)**
 > "...o... to donors, people around Turning Point USA, the pastors that we trust the least who are runn..."
@@ -7282,7 +7316,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (23)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44): “Because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover-up.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19): “somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA. ... I can back that up 100%, which is why I'm saying it publicly, that there were millions missing out of Turning Point USA, and they were wondering where that money was going.”
@@ -7307,6 +7341,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:11:13](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13): “Turning Point USA lied about that.”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:42:48](/episodes/ep-LATnak75Si0.md#t-00-42-45): “it feels to me like Turning Point is engaged in a cover-up.”
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:52:55](/episodes/ep-t4U7NjnUEgc.md#t-00-52-30): “it is, by the way, a fact that in recent in the last year, they even hired former cartel weapons traffickers at Turning Point USA who found God.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:16](/episodes/ep-JrhGEm8MGRY.md#t-00-27-53): “I took two weeks off for the summer and yet there was a full blown media assault that was executed against me on behalf of Turning Point USA, actually in particular on behalf of Erika (Erika Kirk).”
 
 </details>
 
@@ -7463,7 +7498,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (47)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (48)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:17](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): “they obviously were always panicked and then they issue a dumb statement.”
@@ -7512,6 +7547,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:37:35](/episodes/ep-YA1FxrDWNIo.md#t-00-37-35): “Yeah, I'm putting the fire here right at the feet of Turning Point because I am disgusted.”
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:23:02](/episodes/ep-JQjCAsfoXEE.md#t-00-22-44): “What we can do now, however, is we can add this to our list of verifiable Turning Point USA lies because I'm gonna count this as a lie by severe omission by keeping your mouth shut and allowing Candace (Candace Owens) to take all the figurative bullets as she points out the oddity of a plane”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:08:14](/episodes/ep-pc3pxRyNFZk.md#t-00-08-07): “it certainly looked like Turning Point employees or staff or students thugged him so that he wouldn't say what he thought happened.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35): “in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies.”
 
 </details>
 
@@ -8568,7 +8604,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (23)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44): “Because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover-up.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19): “somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA. ... I can back that up 100%, which is why I'm saying it publicly, that there were millions missing out of Turning Point USA, and they were wondering where that money was going.”
@@ -8593,6 +8629,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:11:13](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13): “Turning Point USA lied about that.”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:42:48](/episodes/ep-LATnak75Si0.md#t-00-42-45): “it feels to me like Turning Point is engaged in a cover-up.”
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:52:55](/episodes/ep-t4U7NjnUEgc.md#t-00-52-30): “it is, by the way, a fact that in recent in the last year, they even hired former cartel weapons traffickers at Turning Point USA who found God.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:16](/episodes/ep-JrhGEm8MGRY.md#t-00-27-53): “I took two weeks off for the summer and yet there was a full blown media assault that was executed against me on behalf of Turning Point USA, actually in particular on behalf of Erika (Erika Kirk).”
 
 </details>
 
@@ -8734,7 +8771,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (48)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (49)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): “The majority of people think Turning Point is acting suspicious”
@@ -8784,6 +8821,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:37:35](/episodes/ep-YA1FxrDWNIo.md#t-00-37-35): “Yeah, I'm putting the fire here right at the feet of Turning Point because I am disgusted.”
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:23:02](/episodes/ep-JQjCAsfoXEE.md#t-00-22-44): “What we can do now, however, is we can add this to our list of verifiable Turning Point USA lies because I'm gonna count this as a lie by severe omission by keeping your mouth shut and allowing Candace (Candace Owens) to take all the figurative bullets as she points out the oddity of a plane”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:08:14](/episodes/ep-pc3pxRyNFZk.md#t-00-08-07): “it certainly looked like Turning Point employees or staff or students thugged him so that he wouldn't say what he thought happened.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35): “in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies.”
 
 </details>
 
@@ -9589,13 +9627,21 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Turning Point USA (16)</strong></summary>
+<summary><strong class="section-title">Statements by Turning Point USA (17)</strong></summary>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
 
 - [01:07:26](/episodes/ep-YeEtS7nix3o.md#t-01-07-11) [✓] (Claim) ["Turning Point USA wrote that the succession video was real, Charlie Kirk was not..."](/statements/statement-e41168e9935c.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1)</summary>
+
+- [00:19:21](/episodes/ep-1QZ4X6q1DPg.md#t-00-18-51) [○] (Claim) ["Turning Point USA sources told the Daily Mail that the succession video was with..."](/statements/statement-ea271426b53c.md)
+  - About: [Daily Mail](/entities/org-daily-mail.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 
@@ -9686,7 +9732,36 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (759)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (781)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (9)</summary>
+
+- [00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54) (Claim) **Candace Owens**: ["Owens said John and Irina Mappin helped take Turning Point USA to a hi..."](/statements/statement-7e6a1b77fd19.md)
+  - Also about: [John Mappin](/entities/person-john-mappin.md), [Irina Mappin](/entities/person-irina-mappin.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:28:16](/episodes/ep-JrhGEm8MGRY.md#t-00-27-53) (Accusation) **Candace Owens**: ["Owens accused Turning Point USA, and Erika Kirk in particular, of dire..."](/statements/statement-a7965c09ea8f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:36:56](/episodes/ep-JrhGEm8MGRY.md#t-00-36-41) (Promise) **Candace Owens**: ["Owens promised to reveal explosive material during the rest of the wee..."](/statements/statement-1731a0a2e184.md)
+
+- [00:37:43](/episodes/ep-JrhGEm8MGRY.md#t-00-37-12) (Claim) **Candace Owens**: ["Owens said Turning Point USA’s newly announced tour was called Love It..."](/statements/statement-e12f30ab0ccd.md)
+
+- [00:37:57](/episodes/ep-JrhGEm8MGRY.md#t-00-37-46) (Accusation) **Candace Owens**: ["Owens claimed Ben Shapiro wanted to take over Turning Point USA becaus..."](/statements/statement-6877274b61af.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35) (Opinion) **Candace Owens**: ["Owens said Erika Kirk could not lead Turning Point USA and that the or..."](/statements/statement-eafe09986346.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:39:56](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35) (Prediction) **Candace Owens**: ["Owens predicted that another organization would rise and take Turning ..."](/statements/statement-6c9db563e5e0.md)
+
+- [00:40:08](/episodes/ep-JrhGEm8MGRY.md#t-00-40-08) (Accusation) **Candace Owens**: ["Owens accused Turning Point USA of partnering with the Department of W..."](/statements/statement-8cb1688a11d8.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:49:01](/episodes/ep-JrhGEm8MGRY.md#t-00-49-01) (Accusation) **Candace Owens**: ["Owens accused Young America’s Foundation of paying people to attend th..."](/statements/statement-bce3eb025161.md)
+  - Also about: [Young America's Foundation](/entities/org-young-americas-foundation.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (7)</summary>
@@ -10095,23 +10170,34 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2)</summary>
 
 - [00:06:38](/episodes/ep-3QJqtW_NOSI.md#t-00-06-08) (Opinion) **Candace Owens**: ["Owens argued that no parent should accept a Turning Point USA high-sch..."](/statements/statement-a954a1d1d0b2.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [NEXT Management](/entities/org-next-management.md)
 
+- [00:24:21](/episodes/ep-3QJqtW_NOSI.md#t-00-24-08) (Opinion) **Candace Owens**: ["Owens said the relationship between the Trump administration and Turni..."](/statements/statement-2b97002310a5.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
 </details>
 
 <details>
-<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (6)</summary>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (9)</summary>
 
 - [00:00:01](/episodes/ep-G3zdOeHpvS0.md#t-00-00-01) (Opinion) **Candace Owens**: ["Owens said the theory that Charlie Kirk's microphone may have been rig..."](/statements/statement-ba3c2462e968.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:00:01](/episodes/ep-G3zdOeHpvS0.md#t-00-00-01) (Opinion) **Candace Owens**: ["Owens said it appeared to her that, if the rigged-microphone theory we..."](/statements/statement-74d7b7715ace.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:08:51](/episodes/ep-G3zdOeHpvS0.md#t-00-08-44) (Claim) **Candace Owens**: ["Owens characterized the absence of an ambulance at Charlie Kirk's even..."](/statements/statement-0ff2c6fbfaad.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:08:51](/episodes/ep-G3zdOeHpvS0.md#t-00-08-44) (Opinion) **Candace Owens**: ["Owens argued that, under the rigged-microphone theory, the absence of ..."](/statements/statement-6885916cc34c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [00:26:52](/episodes/ep-G3zdOeHpvS0.md#t-00-26-30) (Opinion) **Candace Owens**: ["Owens said it felt to her like a broader conspiracy in which people wh..."](/statements/statement-ef1abfce58d2.md)
+
+- [00:28:50](/episodes/ep-G3zdOeHpvS0.md#t-00-28-38) (Claim) **Candace Owens**: ["Owens said current and former Turning Point USA employees consistently..."](/statements/statement-b79d21518df2.md)
 
 - [00:31:04](/episodes/ep-G3zdOeHpvS0.md#t-00-30-41) (Accusation) **Candace Owens**: ["Owens said federal investigators gave Charlie Kirk's blood-spattered h..."](/statements/statement-4ea0acee2188.md)
   - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -10125,7 +10211,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2)</summary>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (3)</summary>
+
+- [00:05:54](/episodes/ep-h76ZN-xXC6c.md#t-00-05-39) (Opinion) **Candace Owens**: ["Candace Owens acknowledged that Turning Point USA could have had an or..."](/statements/statement-ddbe6f5dd9ff.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
 
 - [00:33:26](/episodes/ep-h76ZN-xXC6c.md#t-00-32-52) (Opinion) **Candace Owens**: ["Owens said Turning Point USA team's actions looked more suspicious to ..."](/statements/statement-4cf63e6df528.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -10167,7 +10256,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (6)</summary>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (7)</summary>
 
 - [00:31:52](/episodes/ep-19vHhjF7-NA.md#t-00-31-52) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said that he and others decided over the weekend to trol..."](/statements/statement-bbfb17ee2086.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -10177,6 +10266,9 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [00:32:43](/episodes/ep-19vHhjF7-NA.md#t-00-32-43) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said, “I appoint my wife to run Turning Point USA if some..."](/statements/statement-e15972aa3787.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:33:13](/episodes/ep-19vHhjF7-NA.md#t-00-33-13) (Accusation) **Blake Neff** (via quoted speech): ["Blake Neff said critics immediately and baselessly claimed the success..."](/statements/statement-82316669cfee.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:34:08](/episodes/ep-19vHhjF7-NA.md#t-00-34-03) (Claim) **Candace Owens**: ["Owens asserted that the Turning Point USA succession video is doctored..."](/statements/statement-0836c0e10fcc.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -10190,7 +10282,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (10)</summary>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (11)</summary>
 
 - [00:06:15](/episodes/ep-tXoI0TTKVrs.md#t-00-06-15) (Opinion) **Candace Owens**: ["Erika Kirk is unqualified to run Turning Point USA academically and em..."](/statements/statement-43171c610f40.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -10206,6 +10298,9 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [00:14:54](/episodes/ep-tXoI0TTKVrs.md#t-00-14-39) (Claim) **Candace Owens**: ["Candace Owens emailed Justin Streiff, Andrew Kolvet, and Turning Point..."](/statements/statement-0ff90a168cf2.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Justin Streiff](/entities/person-justin-streiff.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:17:49](/episodes/ep-tXoI0TTKVrs.md#t-00-17-17) (Claim) **Candace Owens**: ["Owens identified the donors who asked the Aspen succession question as..."](/statements/statement-3f04158d57ff.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:18:13](/episodes/ep-tXoI0TTKVrs.md#t-00-17-59) (Claim) **Anonymous Source #1 (Ep tXoI0TTKVrs)** (via read message): ["The Turning Point USA succession video is doctored."](/statements/statement-854973363c52.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -10225,7 +10320,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (13)</summary>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (15)</summary>
 
 - [00:48:03](/episodes/ep-YeEtS7nix3o.md#t-00-47-49) (Accusation) **Candace Owens**: ["Candace Owens said Turning Point USA struggled to attract young women ..."](/statements/statement-42f6c2f8a44f.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -10254,6 +10349,9 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [01:03:01](/episodes/ep-YeEtS7nix3o.md#t-01-02-42) (Accusation) **Anonymous Source #3 (Ep YeEtS7nix3o)** (via read message): ["Anonymous attendees told Candace Owens they believed the Charlie Kirk ..."](/statements/statement-2feb641a2627.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
+- [01:04:20](/episodes/ep-YeEtS7nix3o.md#t-01-03-53) (Claim) **Candace Owens**: ["In Charlie Kirk's final Aspen presentation, Erika Kirk was mentioned o..."](/statements/statement-acc715af2efa.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
 - [01:05:19](/episodes/ep-YeEtS7nix3o.md#t-01-05-19) (Promise) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said he appointed his wife to run Turning Point USA if so..."](/statements/statement-71dc7ef1f4b7.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
@@ -10262,6 +10360,9 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [01:07:26](/episodes/ep-YeEtS7nix3o.md#t-01-07-11) (Claim) **Turning Point USA** (via quoted post): ["Turning Point USA wrote that the succession video was real, Charlie Ki..."](/statements/statement-e41168e9935c.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [01:07:26](/episodes/ep-YeEtS7nix3o.md#t-01-07-11) (Accusation) **Candace Owens**: ["Turning Point USA's social-media reply called the succession video rea..."](/statements/statement-418c914b4afb.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [01:09:21](/episodes/ep-YeEtS7nix3o.md#t-01-09-14) (Claim) **Candace Owens**: ["Candace Owens said Turning Point USA entered relationships with AI com..."](/statements/statement-4690a699415f.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
@@ -10320,13 +10421,19 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (3)</summary>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (5)</summary>
+
+- [00:17:44](/episodes/ep-cPidFQDJLbo.md#t-00-17-27) (Accusation) **Candace Owens**: ["Erika Kirk may have lied about the claimed September 15 end-of-life-do..."](/statements/statement-21d6b9f41052.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:21:22](/episodes/ep-cPidFQDJLbo.md#t-00-20-57) (Claim) **Candace Owens**: ["Charlie Kirk had a corporate life-insurance policy that I am told incl..."](/statements/statement-b4663b071589.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:22:59](/episodes/ep-cPidFQDJLbo.md#t-00-22-59) (Claim) **Candace Owens**: ["Owens alleged that Charlie Kirk said 10 million dollars was missing fr..."](/statements/statement-2ac0e37e2684.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Doge](/entities/concept-doge.md)
+
+- [00:24:28](/episodes/ep-cPidFQDJLbo.md#t-00-23-44) (Accusation) **Candace Owens**: ["Insiders with access to Charlie Kirk's communications may have learned..."](/statements/statement-7f2cf0193d75.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Michael McCoy](/entities/person-michael-mccoy.md)
 
 - [00:31:05](/episodes/ep-cPidFQDJLbo.md#t-00-30-54) (Citation) **Candace Owens**: ["Sources said a Turning Point USA board member would help with the end-..."](/statements/statement-135794f947a0.md)
   - Also about: [Daily Mail](/entities/org-daily-mail.md)
@@ -10342,7 +10449,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (9)</summary>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (11)</summary>
 
 - [00:00:33](/episodes/ep-1QZ4X6q1DPg.md#t-00-00-01) (Accusation) **Candace Owens**: ["The video presented as Charlie Kirk appointing Erika Kirk as Turning P..."](/statements/statement-1337d9120068.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
@@ -10355,6 +10462,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [00:14:14](/episodes/ep-1QZ4X6q1DPg.md#t-00-13-29) (Accusation) **Candace Owens**: ["Candace Owens said the source account would imply that Turning Point U..."](/statements/statement-b43063c8d884.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
+
+- [00:14:24](/episodes/ep-1QZ4X6q1DPg.md#t-00-14-14) (Claim) **Candace Owens**: ["Candace Owens says Turning Point USA still had not publicly released t..."](/statements/statement-e7e483615fd3.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:15:09](/episodes/ep-1QZ4X6q1DPg.md#t-00-14-50) (Accusation) **Candace Owens**: ["Candace Owens says that if Turning Point USA fabricated the succession..."](/statements/statement-efbb54cd486d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:17:09](/episodes/ep-1QZ4X6q1DPg.md#t-00-16-55) (Claim) **Anonymous Source #2 (Ep 1QZ4X6q1DPg)** (via quoted article): ["An anonymous Turning Point USA board member said Charlie and Erika Kir..."](/statements/statement-adf09265f387.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)

@@ -1,6 +1,6 @@
 ---
 title: "Steph With The Deets"
-description: "Steph With The Deets (Works & Media) - 1 mention"
+description: "Steph With The Deets (Works & Media) - 2 mentions"
 id: "work-steph-with-the-deets"
 type: "WORK"
 aliases:
@@ -24,9 +24,9 @@ Source: [Steph with the Deets chats Secret Lives of Mormon Wives - Apple Podcast
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-steph-with-the-deets-t-00-46-18">2026-05-05 · 00:46:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-steph-with-the-deets-t-00-46-18">2026-05-05 · 00:46:18</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-work-steph-with-the-deets-t-00-19-28">2026-08-31 · 00:19:43</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,12 +38,14 @@ Source: [Steph with the Deets chats Secret Lives of Mormon Wives - Apple Podcast
 <p>Highest activity: <a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-steph-with-the-deets-t-00-46-18">A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-steph-with-the-deets-t-00-46-18" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-work-steph-with-the-deets-t-00-19-28" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-work-steph-with-the-deets-t-00-46-18) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-work-steph-with-the-deets-t-00-19-28) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Steph with the Deets chats Secret Lives of Mormon Wives - Apple Podcast
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:19:43](/episodes/ep-JrhGEm8MGRY.md#ent-work-steph-with-the-deets-t-00-19-28)**
+> "Steph with the Deets, Marcos (Bee Better Company creator; surname unve..."
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>

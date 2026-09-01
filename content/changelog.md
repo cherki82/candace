@@ -5,6 +5,24 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-09-01 10:15:32
+
+**Added 1 episode(s):**
+  - `JrhGEm8MGRY`: We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380
+**Added 20 new entity/entities**
+**Added 13 new event(s)**
+**Added 107 new statement(s)**
+**Added 75 new relationship(s)**
+
+**Totals:**
+- Episodes: 161
+- Entities: 4678
+- Events: 1773
+- Statements: 6941
+- Relationships: 5045
+
+---
+
 ## 2026-09-01 08:04:26
 
 **Added 7 new entity/entities**

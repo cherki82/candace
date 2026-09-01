@@ -1,6 +1,6 @@
 ---
 title: "Jared Kushner"
-description: "Jared Kushner (People) - 43 mentions"
+description: "Jared Kushner (People) - 44 mentions"
 id: "person-jared-kushner"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-47-28">2025-10-09 · 00:47:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jared-kushner-t-00-42-32">2026-06-24 · 00:42:42</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-jared-kushner-t-00-00-01">2026-08-31 · 00:00:26</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>21</strong></div>
@@ -48,6 +48,7 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-28-56" style="--pulse-height:62%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 5 mentions" title="2026-06-10 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-person-jared-kushner-t-00-02-01" style="--pulse-height:50%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 4 mentions" title="2026-06-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jared-kushner-t-00-42-32" style="--pulse-height:12%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-jared-kushner-t-00-00-01" style="--pulse-height:12%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +71,7 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-28-56) | 5 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-jared-kushner-t-00-02-01) | 4 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-jared-kushner-t-00-42-32) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-jared-kushner-t-00-00-01) | 1 |
 
 </details>
 </section>
@@ -81,7 +83,15 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:00:26](/episodes/ep-JrhGEm8MGRY.md#ent-person-jared-kushner-t-00-00-01)**
+> "Ivanka (Ivanka Trump) and Jared Kushner, just before we were going to go a couple of weeks before, I was worried that maybe Ivanka (Ivanka Trump) had swam and discovered another island and that Rabbi Shmuley (Shmuley Boteach) was going to clear it out for her."
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>

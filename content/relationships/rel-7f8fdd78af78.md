@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (47 mentions)
+### Evidence (48 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -104,6 +104,10 @@ object: "person-candace-owens"
 **[Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE)**
 
 - [00:23:02](/episodes/ep-JQjCAsfoXEE#t-00-23-02): _What we can do now, however, is we can add this to our list of verifiable Turning Point USA lies because I'm gonna count this as a lie by severe omission by keeping your mouth shut and allowing Candace (Candace Owens) to take all the figurative bullets as she points out the oddity of a plane_
+
+**[We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY)**
+
+- [00:39:35](/episodes/ep-JrhGEm8MGRY#t-00-39-35): _in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies._
 
 **[Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs)**
 

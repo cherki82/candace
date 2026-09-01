@@ -1,14 +1,14 @@
 ---
 id: "5NQyGuRYbU8"
 title: "Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349"
-description: "Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 - 86 entities, 8 events, 27 factual claims"
+description: "Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 - 86 entities, 8 events, 28 factual claims"
 published: "2026-06-15"
 youtube_url: "https://www.youtube.com/watch?v=5NQyGuRYbU8"
 ---
 
 **Published:** 2026-06-15 | [Watch on YouTube](https://www.youtube.com/watch?v=5NQyGuRYbU8)
 
-**Stats:** 86 entities | 8 events | 27 factual claims
+**Stats:** 86 entities | 8 events | 28 factual claims
 
 ---
 
@@ -384,7 +384,7 @@ youtube_url: "https://www.youtube.com/watch?v=5NQyGuRYbU8"
 </details>
 
 <details>
-<summary><strong>Statements (49)</strong></summary>
+<summary><strong>Statements (55)</strong></summary>
 
 - [00:01:41](#t-00-01-41) [○] (Accusation) **Candace Owens**: ["Candace Owens accused Turning Point USA of making a complete and mysterious reve..."](/statements/statement-7537bc4551d4.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -406,6 +406,8 @@ youtube_url: "https://www.youtube.com/watch?v=5NQyGuRYbU8"
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:05:04](#t-00-04-45) [○] (Claim) **Candace Owens**: ["Candace Owens said a person identified in the cleaned transcript as Terrell, wit..."](/statements/statement-28e8ff4b5485.md)
   - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:05:42](#t-00-05-24) [○] (Accusation) **Candace Owens**: ["Candace Owens suggested that Donald Trump might feature in the story of Charlie ..."](/statements/statement-0b61da1e4750.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:05:49](#t-00-05-24) [○] (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of rewarding Charlie Kirk's members and securit..."](/statements/statement-4d377e1599cf.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:06:14](#t-00-06-03) [✓] (Claim) **Candace Owens**: ["Candace Owens said Mark A. Liti died after an unknown object exploded in his bur..."](/statements/statement-8d3381aa7997.md)
@@ -424,6 +426,8 @@ youtube_url: "https://www.youtube.com/watch?v=5NQyGuRYbU8"
   - About: [Corey Comperatore](/entities/person-corey-comperatore.md), [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
 - [00:11:55](#t-00-11-26) [✓] (Claim) **Candace Owens**: ["Candace Owens said Corey Comperatore was then shot in the head at the Butler ral..."](/statements/statement-a286f1402e98.md)
   - About: [Corey Comperatore](/entities/person-corey-comperatore.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+- [00:12:01](#t-00-12-01) [○] (Claim) **Candace Owens**: ["Candace Owens said Mark A. Liti was Facebook friends with several members of Tho..."](/statements/statement-4bd468b80a6f.md)
+  - About: [Mark A. Liti](/entities/person-mark-liti.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
 - [00:12:17](#t-00-12-01) [◐] (Claim) **Candace Owens**: ["Candace Owens said the September 17-18, 2024 pager explosions across Lebanon and..."](/statements/statement-4d44c111cb98.md)
   - About: [Lebanon](/entities/gpe-lebanon.md), [Syria](/entities/gpe-syria.md), [PETN](/entities/concept-petn.md)
 - [00:13:54](#t-00-13-54) [✓] (Claim) **Candace Owens**: ["Candace Owens said the pagers used in the September 2024 attack were rigged with..."](/statements/statement-43958b992678.md)
@@ -442,10 +446,16 @@ youtube_url: "https://www.youtube.com/watch?v=5NQyGuRYbU8"
   - About: [Reuters](/entities/org-reuters.md), [PETN](/entities/concept-petn.md)
 - [00:20:42](#t-00-20-25) [◐] (Claim) **Candace Owens**: ["Candace Owens said a test showed that 20 grams of PETN produced an impact compar..."](/statements/statement-a56b6279c3d6.md)
   - About: [PETN](/entities/concept-petn.md), [YouTube](/entities/org-youtube.md)
+- [00:21:09](#t-00-21-09) [○] (Citation) **Candace Owens**: ["Candace Owens cited a persistent theory that Charlie Kirk's road microphone was ..."](/statements/statement-2cb50bcd2e1c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [PETN](/entities/concept-petn.md)
 - [00:21:50](#t-00-21-50) [✓] (Claim) **Candace Owens**: ["Candace Owens said Benjamin Netanyahu gave Donald Trump a golden pager at the Wh..."](/statements/statement-d2fa62164eb6.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
+- [00:22:08](#t-00-21-50) [○] (Accusation) **Candace Owens**: ["Candace Owens speculated that Benjamin Netanyahu's golden-pager gift to Donald T..."](/statements/statement-38ff2727e895.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md), [Mossad](/entities/org-mossad.md)
 - [00:23:03](#t-00-22-31) [◐] (Accusation) **Candace Owens**: ["Candace Owens accused the United States of supplying Israel with white phosphoru..."](/statements/statement-0d783c32b84b.md)
   - About: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md), [Lebanon](/entities/gpe-lebanon.md)
+- [00:23:33](#t-00-23-13) [○] (Accusation) **Candace Owens**: ["Candace Owens speculated that Butler may have been an assassination success agai..."](/statements/statement-09de59bd7dad.md)
+  - About: [Corey Comperatore](/entities/person-corey-comperatore.md), [Donald J. Trump](/entities/person-donald-trump.md)
 - [00:23:44](#t-00-23-13) [✓] (Claim) **Anonymous Source #1 (Ep 5NQyGuRYbU8)**: ["An unnamed authority said Corey Comperatore's widow and family were dissatisfied..."](/statements/statement-ea615daf7444.md)
   - About: [Corey Comperatore](/entities/person-corey-comperatore.md), [United States Secret Service](/entities/org-united-states-secret-service.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
 - [00:27:59](#t-00-27-34) [○] (Claim) **Candace Owens**: ["Candace Owens said an FBI plane landed in Salt Lake City on September 8, two day..."](/statements/statement-395c6ab99170.md)
@@ -456,6 +466,8 @@ youtube_url: "https://www.youtube.com/watch?v=5NQyGuRYbU8"
   - About: [Kash Patel](/entities/person-kash-patel.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [FBI](/entities/org-fbi.md)
 - [00:30:37](#t-00-30-08) [✓] (Citation) **FBI**: ["The FBI's FOIA response told Candace Owens that unusual circumstances applied to..."](/statements/statement-e8bbf7d482af.md)
   - About: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
+- [00:31:07](#t-00-30-49) [○] (Opinion) **Candace Owens**: ["Candace Owens inferred that the FBI's unusual-circumstances FOIA notice likely r..."](/statements/statement-23d53d68cf39.md)
+  - About: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [FBI](/entities/org-fbi.md), [Kash Patel](/entities/person-kash-patel.md)
 - [00:32:05](#t-00-32-05) [✓] (Prediction) **Blake Neff**: ["Blake Neff predicted that Candace Owens would fixate on her latest inquiry for t..."](/statements/statement-1fdb3b78920a.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Blake Neff](/entities/person-blake-neff.md)
 - [00:34:01](#t-00-33-25) [✓] (Promise) **Candace Owens**: ["Candace Owens promised to keep filing requests until she got to the bottom of th..."](/statements/statement-53e946a74d19.md)

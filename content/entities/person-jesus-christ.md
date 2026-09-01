@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 378 mentions"
+description: "Jesus Christ (People) - 382 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jesus-christ-t-00-58-18">2026-08-21 · 00:58:39</a></strong></div>
-<div><span>Episodes</span><strong>124</strong></div>
-<div><span>Mentions</span><strong>378</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-jesus-christ-t-00-25-48">2026-08-31 · 00:50:24</a></strong></div>
+<div><span>Episodes</span><strong>125</strong></div>
+<div><span>Mentions</span><strong>382</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -160,6 +160,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-jesus-christ-t-00-55-34" style="--pulse-height:14%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 3 mentions" title="2026-08-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-jesus-christ-t-00-27-47" style="--pulse-height:9%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jesus-christ-t-00-58-18" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-jesus-christ-t-00-08-13" style="--pulse-height:18%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -289,6 +290,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-jesus-christ-t-00-55-34) | 3 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-jesus-christ-t-00-27-47) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-jesus-christ-t-00-58-18) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-jesus-christ-t-00-08-13) | 4 |
 
 </details>
 </section>
@@ -296,7 +298,24 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (378)</strong></summary>
+<summary><strong class="section-title">Raw mentions (382)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (4 mentions)</summary>
+
+**[00:08:27](/episodes/ep-JrhGEm8MGRY.md#ent-person-jesus-christ-t-00-08-13)**
+> "The truth, when known, and we believe it will be known, will have far-reaching international consequences. The very idea that someone could be convicted and could receive the death penalty when there remains even the slightest shadow of a doubt or a shred of uncertainty that they may not be guilty of that crime and that Christian souls would tolerate that possibility is anathema to all the teachings of Christ."
+
+**[00:25:48](/episodes/ep-JrhGEm8MGRY.md#ent-person-jesus-christ-t-00-25-48)**
+> "Every tax deductible gift is used to rescue babies and share the hope of Jesus Christ with their mothers. In fact, this year alone, more than 8,000 women have made decisions to follow Christ."
+
+**[00:25:57](/episodes/ep-JrhGEm8MGRY.md#ent-person-jesus-christ-t-00-25-48)**
+> "Christ, all because someone like you helped to provide a..."
+
+**[00:50:24](/episodes/ep-JrhGEm8MGRY.md#ent-person-jesus-christ-t-00-25-48)**
+> "...nd good vibes. We missed you. Christ is king and keep going, Max."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -2056,7 +2075,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jesus Christ (3)</strong></summary>
+<summary><strong class="section-title">Statements about Jesus Christ (4)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:25:48](/episodes/ep-JrhGEm8MGRY.md#t-00-25-48) (Claim) **Candace Owens**: ["Owens said more than 8,000 women had decided to follow Christ that yea..."](/statements/statement-e298e66d1024.md)
+  - Also about: [PreBorn!](/entities/org-preborn.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2)</summary>

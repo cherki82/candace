@@ -36,7 +36,7 @@ Source: [How Next Management’s Founders Are Changing the Business of Modeling 
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-faith-kates-t-00-02-15" style="--pulse-height:25%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-faith-kates-t-00-04-45" style="--pulse-height:50%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-faith-kates-t-00-32-19" style="--pulse-height:100%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 4 mentions" title="2026-06-23 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#t-00-20-11" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-faith-kates-t-00-20-11" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-31-02" style="--pulse-height:25%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -48,7 +48,7 @@ Source: [How Next Management’s Founders Are Changing the Business of Modeling 
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-faith-kates-t-00-02-15) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-faith-kates-t-00-04-45) | 2 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-faith-kates-t-00-32-19) | 4 |
-| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-20-11) | 2 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-faith-kates-t-00-20-11) | 2 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#t-00-31-02) | 1 |
 
 </details>
@@ -74,11 +74,11 @@ Source: [How Next Management’s Founders Are Changing the Business of Modeling 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
 
-**[00:20:11](/episodes/ep-IqHsl7d2dos.md#t-00-20-11)**
-> "Yes, the one run by Faith Cates, where Erika Kirk was mysteriously involved in quote-unquote modeling apartments."
+**[00:20:11](/episodes/ep-IqHsl7d2dos.md#ent-person-faith-kates-t-00-20-11)**
+> "Yes, the one run by Faith Kates, where Erika Kirk was mysteriously involved in quote-unquote modeling apartments."
 
-**[00:22:32](/episodes/ep-IqHsl7d2dos.md#t-00-22-32)**
-> "Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Cates and Next Model Management..."
+**[00:22:32](/episodes/ep-IqHsl7d2dos.md#ent-person-faith-kates-t-00-22-32)**
+> "Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Kates and Next Model Management, which he started with Faith Kates, are all listed as defendants in these allegations, which span back decades."
 
 </details>
 

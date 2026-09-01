@@ -1,8 +1,8 @@
 ---
 title: "An anonymous email tipster said they thought there was no ro..."
-description: "\"An anonymous email tipster said they thought there was no room for doubt that a photographed shard showed the USB logo from Charlie Kirk's RØDE microp...\" — RØDE microphone shard email tipster (name unstated)"
+description: "\"An anonymous email tipster said they thought there was no room for doubt that a photographed shard showed the USB logo from Charlie Kirk's RØDE microp...\" — Anonymous RØDE USB-logo image tipster"
 statement_id: "statement-9cbf0a587f03"
-speaker: "RØDE microphone shard email tipster (name unstated)"
+speaker: "Anonymous RØDE USB-logo image tipster"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [RØDE microphone shard email tipster (name unstated)](/entities/anon-src-9cuc1yf8pu-rode-email-tipster.md) (Anonymous Source)
+**Speaker:** [Anonymous RØDE USB-logo image tipster](/entities/anon-src-sKuYLNx3iRo-008.md) (Anonymous Source)
 
 **Delivery:** Read from message
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

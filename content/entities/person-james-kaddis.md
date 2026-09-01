@@ -26,9 +26,9 @@ Source: [About - Pastor James Kaddis](https://jameskaddis.com/about/)
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -53,6 +53,10 @@ Source: [About - Pastor James Kaddis](https://jameskaddis.com/about/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -197,6 +201,19 @@ Source: [About - Pastor James Kaddis](https://jameskaddis.com/about/)
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:20:00](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “And she speaks at James Kaddis' Calvary Chapel Church. ... James Kaddis is this like egyptian pastor that's like radically pro-israel”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about James Kaddis (1)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>
+
+- [00:22:20](/episodes/ep-WoXd4oLwd3w.md#t-00-22-11) (Citation) **Erika Kirk** (via quoted speech): ["In a July 14 speech, Erika Kirk described Israel as the promised land ..."](/statements/statement-5405a3dfe8e6.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Calvary Chapel Chino Hills](/entities/org-calvary-chapel-chino-hills.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 988 mentions"
+description: "Tyler Robinson (People) - 990 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-robinson-t-01-02-36">2026-08-21 · 01:03:01</a></strong></div>
-<div><span>Episodes</span><strong>103</strong></div>
-<div><span>Mentions</span><strong>988</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-tyler-robinson-t-00-28-28">2026-08-31 · 00:28:28</a></strong></div>
+<div><span>Episodes</span><strong>104</strong></div>
+<div><span>Mentions</span><strong>990</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
-<div><span>Statements about</span><strong>390</strong></div>
+<div><span>Statements about</span><strong>395</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -139,6 +139,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-tyler-robinson-t-00-34-59" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 4 mentions" title="2026-08-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-tyler-robinson-t-00-18-18" style="--pulse-height:19%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 20 mentions" title="2026-08-19 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-robinson-t-00-15-06" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 7 mentions" title="2026-08-21 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-tyler-robinson-t-00-27-53" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -247,6 +248,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-tyler-robinson-t-00-34-59) | 4 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-tyler-robinson-t-00-18-18) | 20 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-robinson-t-00-15-06) | 7 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-tyler-robinson-t-00-27-53) | 2 |
 
 </details>
 </section>
@@ -258,7 +260,18 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (988)</strong></summary>
+<summary><strong class="section-title">Raw mentions (990)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
+
+**[00:28:02](/episodes/ep-JrhGEm8MGRY.md#ent-person-tyler-robinson-t-00-27-53)**
+> "Well, a funny thing happened while I was away. I learned the Pentagon is apparently at war with me. Now, you will remember, particularly during the week of Tyler Robinson's preliminary hearing, I was in Spain, okay?"
+
+**[00:28:28](/episodes/ep-JrhGEm8MGRY.md#ent-person-tyler-robinson-t-00-28-28)**
+> "...t that I was on trial and not Tyler Robinson—that I was on trial for murder for having investi..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (7 mentions)</summary>
@@ -2038,7 +2051,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 **[01:06:19](/episodes/ep-h76ZN-xXC6c.md#ent-person-tyler-robinson-t-01-06-01)**
 > "... I feel like we all know that Tyler Robinson didn't do this thing and turning point every day ..."
 
-**[01:06:30](/episodes/ep-h76ZN-xXC6c.md#ent-person-tyler-robinson-t-01-06-01)**
+**[01:06:19](/episodes/ep-h76ZN-xXC6c.md#ent-person-tyler-robinson-t-01-06-01)**
 > "I feel like we all know that Tyler Robinson didn't do this thing and turning point every day ..."
 
 **[00:12:01](/episodes/ep-h76ZN-xXC6c.md#ent-person-tyler-robinson-t-00-12-01)**
@@ -4090,7 +4103,21 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (390)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (395)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3)</summary>
+
+- [00:08:27](/episodes/ep-JrhGEm8MGRY.md#t-00-08-13) (Opinion) **John Mappin** (via quoted article): ["John and Irina Mappin wrote that executing a possibly innocent person ..."](/statements/statement-2bae472d17ac.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Irina Mappin](/entities/person-irina-mappin.md), [Christianity](/entities/concept-christianity.md)
+
+- [00:28:16](/episodes/ep-JrhGEm8MGRY.md#t-00-27-53) (Accusation) **Candace Owens**: ["Owens accused Turning Point USA, and Erika Kirk in particular, of dire..."](/statements/statement-a7965c09ea8f.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:28:55](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28) (Citation) **Candace Owens**: ["Owens said NCRI released the report Permission to Kill on the first da..."](/statements/statement-cf93056634f6.md)
+  - Also about: [Network Contagion Research Institute](/entities/org-network-contagion-research-institute.md), [Permission to Kill: How Candace Owens Built a Digital Assassination Culture Targeting Erika Kirk](/entities/work-permission-to-kill-ncri-report.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (9)</summary>
@@ -4663,7 +4690,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (6)</summary>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (7)</summary>
 
 - [00:23:02](/episodes/ep-9CuC1yf8-PU.md#t-00-23-02) (Accusation) **Candace Owens**: ["Owens said federal authorities did not perform a standard gunshot-resi..."](/statements/statement-f5f58308ef55.md)
   - Also about: [FBI](/entities/org-fbi.md)
@@ -4676,6 +4703,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [00:26:41](/episodes/ep-9CuC1yf8-PU.md#t-00-26-41) (Claim) **Candace Owens**: ["Owens reported that prosecutors planned to present a recorded statemen..."](/statements/statement-d210268ed250.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:27:27](/episodes/ep-9CuC1yf8-PU.md#t-00-27-15) (Claim) **Candace Owens** (via paraphrase): ["Owens reported that Judge Tony Graf treated the proceeding as a prelim..."](/statements/statement-c1580675b5fa.md)
+  - Also about: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
 
 - [00:27:33](/episodes/ep-9CuC1yf8-PU.md#t-00-27-15) (Opinion) **Candace Owens**: ["Owens characterized the Tyler Robinson proceeding as a show trial beca..."](/statements/statement-e5d2de99bd4c.md)
   - Also about: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)
@@ -4697,10 +4727,13 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (2)</summary>
 
 - [00:08:11](/episodes/ep-G3zdOeHpvS0.md#t-00-08-01) (Accusation) **Candace Owens**: ["Owens accused federal investigators of omitting a gunshot-residue test..."](/statements/statement-adc08c0b4b18.md)
   - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:29:50](/episodes/ep-G3zdOeHpvS0.md#t-00-29-20) (Opinion) **Candace Owens**: ["Owens said the whereabouts of Charlie Kirk's clothes were unclear and ..."](/statements/statement-851913396885.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

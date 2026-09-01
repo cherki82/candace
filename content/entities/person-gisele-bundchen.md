@@ -1,6 +1,6 @@
 ---
 title: "Gisele Bündchen"
-description: "Gisele Bündchen (People) - 2 mentions"
+description: "Gisele Bündchen (People) - 3 mentions"
 id: "person-gisele-bundchen"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Gisele Bündchen | UN Environment Programme](https://www.unep.org/peopl
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-gisele-bundchen-t-00-49-52">2026-05-18 · 00:49:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-gisele-bundchen-t-00-54-49">2026-05-27 · 00:54:57</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-gisele-bundchen-t-00-13-01">2026-08-31 · 00:13:01</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Gisele Bündchen | UN Environment Programme](https://www.unep.org/peopl
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-gisele-bundchen-t-00-49-52" style="--pulse-height:100%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-gisele-bundchen-t-00-54-49" style="--pulse-height:100%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-gisele-bundchen-t-00-13-01" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Gisele Bündchen | UN Environment Programme](https://www.unep.org/peopl
 |---|---|---:|
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-gisele-bundchen-t-00-49-52) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-gisele-bundchen-t-00-54-49) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-gisele-bundchen-t-00-13-01) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Gisele Bündchen | UN Environment Programme](https://www.unep.org/peopl
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:13:01](/episodes/ep-JrhGEm8MGRY.md#ent-person-gisele-bundchen-t-00-13-01)**
+> "...model I'm like this is like a Gisele Bündchen type character she's very pretty no makeup on and"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>

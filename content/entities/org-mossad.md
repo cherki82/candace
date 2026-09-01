@@ -26,7 +26,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <div><span>Episodes</span><strong>41</strong></div>
 <div><span>Mentions</span><strong>92</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>38</strong></div>
+<div><span>Statements about</span><strong>39</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -698,7 +698,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mossad (38)</strong></summary>
+<summary><strong class="section-title">Statements about Mossad (39)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
@@ -730,7 +730,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details>
-<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (6)</summary>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (7)</summary>
 
 - [00:14:21](/episodes/ep-5NQyGuRYbU8.md#t-00-14-21) (Claim) **Candace Owens**: ["Candace Owens said Israel carried out the September 2024 pager explosi..."](/statements/statement-ceac50e2b0c0.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Lebanon](/entities/gpe-lebanon.md), [Syria](/entities/gpe-syria.md)
@@ -749,6 +749,9 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 - [00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) (Claim) **Candace Owens**: ["Candace Owens said Benjamin Netanyahu gave Donald Trump a golden pager..."](/statements/statement-d2fa62164eb6.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
+
+- [00:22:08](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) (Accusation) **Candace Owens**: ["Candace Owens speculated that Benjamin Netanyahu's golden-pager gift t..."](/statements/statement-38ff2727e895.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>
 

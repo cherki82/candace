@@ -30,7 +30,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <div><span>Episodes</span><strong>108</strong></div>
 <div><span>Mentions</span><strong>763</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>218</strong></div>
+<div><span>Statements about</span><strong>221</strong></div>
 <div><span>Relationships</span><strong>39</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -824,7 +824,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (3 mentions)</summary>
 
 **[00:26:05](/episodes/ep-sKuYLNx3iRo.md#ent-org-fbi-t-00-26-05)**
-> "FBI team to swoop in"
+> "Well, Kash Patel's FBI team would have to swoop in and seize the cameras expeditiously, which they did. We didn't understand at the time why they would seize the cameras on the outside and on the inside of the hospital, we asked ourselves."
 
 **[00:26:56](/episodes/ep-sKuYLNx3iRo.md#ent-org-fbi-t-00-26-48)**
 > "They got FBI just got to step in and clean that up. That's not..."
@@ -1090,10 +1090,10 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
 
 **[00:47:28](/episodes/ep-Pb7UlpRdW6U.md#ent-org-fbi-t-00-47-11)**
-> "..., I didn't believe any of the feds were pertaining to what happened at the White Hou..."
+> "Day Jean writes, 'I didn't believe any of the feds were telling the truth pertaining to what happened at the White House Correspondents' Dinner. I quit watching the news.'"
 
-**[00:47:30](/episodes/ep-Pb7UlpRdW6U.md#ent-org-fbi-t-00-47-11)**
-> "I believe any of the feds law pertaining to what happened at the White Hous..."
+**[00:47:28](/episodes/ep-Pb7UlpRdW6U.md#ent-org-fbi-t-00-47-11)**
+> "Day Jean writes, 'I didn't believe any of the feds were telling the truth pertaining to what happened at the White House Correspondents' Dinner. I quit watching the news.'"
 
 </details>
 
@@ -3363,7 +3363,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (218)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (221)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -3605,7 +3605,10 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2)</summary>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (3)</summary>
+
+- [00:10:04](/episodes/ep-9CuC1yf8-PU.md#t-00-09-30) (Accusation) **Candace Owens**: ["Owens inferred that the FBI's seizure of hospital camera footage preve..."](/statements/statement-843d0661b4a9.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:23:02](/episodes/ep-9CuC1yf8-PU.md#t-00-23-02) (Accusation) **Candace Owens**: ["Owens said federal authorities did not perform a standard gunshot-resi..."](/statements/statement-f5f58308ef55.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -3667,7 +3670,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (5)</summary>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (6)</summary>
 
 - [00:27:59](/episodes/ep-5NQyGuRYbU8.md#t-00-27-34) (Claim) **Candace Owens**: ["Candace Owens said an FBI plane landed in Salt Lake City on September ..."](/statements/statement-395c6ab99170.md)
   - Also about: [Salt Lake City](/entities/gpe-salt-lake-city.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Kash Patel](/entities/person-kash-patel.md)
@@ -3681,13 +3684,16 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 - [00:30:37](/episodes/ep-5NQyGuRYbU8.md#t-00-30-08) (Citation) **FBI** (via quoted document): ["The FBI's FOIA response told Candace Owens that unusual circumstances ..."](/statements/statement-e8bbf7d482af.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [Kash Patel](/entities/person-kash-patel.md)
 
+- [00:31:07](/episodes/ep-5NQyGuRYbU8.md#t-00-30-49) (Opinion) **Candace Owens**: ["Candace Owens inferred that the FBI's unusual-circumstances FOIA notic..."](/statements/statement-23d53d68cf39.md)
+  - Also about: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [Kash Patel](/entities/person-kash-patel.md)
+
 - [00:34:01](/episodes/ep-5NQyGuRYbU8.md#t-00-33-25) (Promise) **Candace Owens**: ["Candace Owens promised to keep filing requests until she got to the bo..."](/statements/statement-53e946a74d19.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Kash Patel](/entities/person-kash-patel.md), [Blake Neff](/entities/person-blake-neff.md)
 
 </details>
 
 <details>
-<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (5)</summary>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (6)</summary>
 
 - [00:02:16](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16) (Accusation) **Tucker Carlson**: ["Tucker Carlson said Donald Trump shut down the Butler investigation an..."](/statements/statement-f73d6f2037c9.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Dan Bongino](/entities/person-dan-bongino.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
@@ -3703,6 +3709,9 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 
 - [00:08:26](/episodes/ep-WoXd4oLwd3w.md#t-00-08-26) (Claim) **Brooke Singman** (via quoted article): ["Brooke Singman's Fox News article reported that an investigator called..."](/statements/statement-4dc7daa643f5.md)
   - Also about: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
+
+- [00:48:17](/episodes/ep-WoXd4oLwd3w.md#t-00-48-05) (Accusation) **Candace Owens**: ["Candace Owens speculated that the FOIA delay might reflect consultatio..."](/statements/statement-32eb670bee0f.md)
+  - Also about: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [Kash Patel](/entities/person-kash-patel.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>
 

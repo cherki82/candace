@@ -1,6 +1,6 @@
 ---
 title: "King David"
-description: "King David (People) - 26 mentions"
+description: "King David (People) - 29 mentions"
 id: "person-king-david-biblical"
 type: "PERSON"
 aliases:
@@ -21,9 +21,9 @@ Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-king-david-biblical-t-00-38-56">2025-10-27 · 00:39:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-king-david-biblical-t-00-48-20">2026-04-01 · 00:48:20</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-king-david-biblical-t-00-47-54">2026-08-31 · 00:48:17</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,7 @@ Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegat
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-king-david-biblical-t-00-48-47" style="--pulse-height:10%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-king-david-biblical-t-00-59-49" style="--pulse-height:20%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-king-david-biblical-t-00-48-20" style="--pulse-height:10%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-king-david-biblical-t-00-25-03" style="--pulse-height:30%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 3 mentions" title="2026-08-31 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +64,7 @@ Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegat
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-king-david-biblical-t-00-48-47) | 1 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-king-david-biblical-t-00-59-49) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-king-david-biblical-t-00-48-20) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-king-david-biblical-t-00-25-03) | 3 |
 
 </details>
 </section>
@@ -70,7 +72,21 @@ Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3 mentions)</summary>
+
+**[00:25:10](/episodes/ep-JrhGEm8MGRY.md#ent-person-king-david-biblical-t-00-25-03)**
+> "I've just been in such a positive mood lately. I want to leave you guys with that biblical reminder that David won against Goliath. David won with a sling and some stones and insurmountable odds."
+
+**[00:40:57](/episodes/ep-JrhGEm8MGRY.md#ent-person-king-david-biblical-t-00-40-30)**
+> "David won. That's the point, right? David won against G..."
+
+**[00:48:17](/episodes/ep-JrhGEm8MGRY.md#ent-person-king-david-biblical-t-00-47-54)**
+> "...I hope I'm saying that right. David's real test wasn't Goliath. It was Saul, his own ki..."
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>

@@ -24,29 +24,33 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14">Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14">Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14" style="--pulse-height:100%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-justin-davis-t-01-03-52" style="--pulse-height:50%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-justin-davis-t-00-34-03" style="--pulse-height:25%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-justin-davis-t-00-19-43" style="--pulse-height:25%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14" style="--pulse-height:100%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-justin-davis-t-01-03-52" style="--pulse-height:67%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-justin-davis-t-00-34-03" style="--pulse-height:33%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-justin-davis-t-00-19-43" style="--pulse-height:33%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14) | 4 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14) | 3 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-justin-davis-t-01-03-52) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-justin-davis-t-00-34-03) | 1 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-justin-davis-t-00-19-43) | 1 |
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -81,13 +85,10 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 </details>
 
 <details>
-<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (4 mentions)</summary>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (3 mentions)</summary>
 
 **[00:09:24](/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14)**
 > "You've got Justin Davis driving"
-
-**[00:09:30](/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14)**
-> "center seat, you got Justin Davis driving. We have Brian Harpole, Rick Cutler in th..."
 
 **[00:11:42](/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-11-31)**
 > "...doing the medical and Justin (Justin Davis)'s driving, you know, we're going 60, 80, 100 and..."

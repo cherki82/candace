@@ -112,7 +112,7 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 <summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2 mentions)</summary>
 
 **[00:09:23](/episodes/ep-h76ZN-xXC6c.md#ent-org-wikipedia-t-00-08-57)**
-> "dispersing in every direction okay so we're going to pull up this wikipedia page because it helps to see a visual it just says you can literally and you can go down the rabbit hole yourself shape charge and it's show it's just showing you here okay it would have a ballistic cap an all fields cavity a detonator and then it's going to have a high explosive so we're going to imagine petn explosive that's in there and it tells you it also tell you tells you sorry if you can go back to just the wikipedia"
+> "dispersing in every direction, okay? So we're going to pull up this Wikipedia page because it helps to see a visual."
 
 **[00:09:45](/episodes/ep-h76ZN-xXC6c.md#ent-org-wikipedia-t-00-09-30)**
 > "...f you can go back to just the Wikipedia page, that there's all different ways to form it,..."

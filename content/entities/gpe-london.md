@@ -1,6 +1,6 @@
 ---
 title: "London"
-description: "London (Places) - 32 mentions"
+description: "London (Places) - 33 mentions"
 id: "gpe-london"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-london-t-00-08-46">2025-09-24 · 00:09:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-london-t-00-55-45">2026-08-06 · 00:56:13</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-london-t-00-03-40">2026-08-31 · 00:04:13</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -51,6 +51,7 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-london-t-00-30-19" style="--pulse-height:67%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-gpe-london-t-00-07-46" style="--pulse-height:33%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-london-t-00-55-45" style="--pulse-height:33%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-london-t-00-03-40" style="--pulse-height:33%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +77,7 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-london-t-00-30-19) | 2 |
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-london-t-00-07-46) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-london-t-00-55-45) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-london-t-00-03-40) | 1 |
 
 </details>
 </section>
@@ -83,7 +85,15 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:04:13](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-london-t-00-03-40)**
+> "Now, those names may be familiar to you. Now, I've told you guys the story a few times, but I met my husband rather serendipitously at an event hosted in London."
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -285,7 +295,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about London (1)</strong></summary>
+<summary><strong class="section-title">Statements about London (2)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:04:22](/episodes/ep-JrhGEm8MGRY.md#t-00-04-22) (Claim) **Candace Owens**: ["Candace Owens said she met George Farmer at a London event hosted by J..."](/statements/statement-4dcc9903ce74.md)
+  - Also about: [George Farmer](/entities/person-george-farmer.md), [John Mappin](/entities/person-john-mappin.md), [Irina Mappin](/entities/person-irina-mappin.md)
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Game of Thrones"
-description: "Game of Thrones (Works & Media) - 6 mentions"
+description: "Game of Thrones (Works & Media) - 7 mentions"
 id: "work-game-of-thrones"
 type: "WORK"
 categories:
@@ -17,9 +17,9 @@ Source: [HBO Original Series: View All | HBO Official Site](https://www.hbo.com/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-work-game-of-thrones-t-00-17-30">2025-11-08 · 00:17:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-work-game-of-thrones-t-00-02-29">2026-08-19 · 00:02:48</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-work-game-of-thrones-t-00-16-47">2026-08-31 · 00:16:47</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [HBO Original Series: View All | HBO Official Site](https://www.hbo.com/
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-work-game-of-thrones-t-00-43-14" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-work-game-of-thrones-t-00-38-50" style="--pulse-height:50%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-work-game-of-thrones-t-00-02-29" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-work-game-of-thrones-t-00-16-47" style="--pulse-height:50%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [HBO Original Series: View All | HBO Official Site](https://www.hbo.com/
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-work-game-of-thrones-t-00-43-14) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-work-game-of-thrones-t-00-38-50) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-work-game-of-thrones-t-00-02-29) | 2 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-work-game-of-thrones-t-00-16-47) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [HBO Original Series: View All | HBO Official Site](https://www.hbo.com/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:16:47](/episodes/ep-JrhGEm8MGRY.md#ent-work-game-of-thrones-t-00-16-47)**
+> "...u ever get around to watching Game of Thrones I'm Khaleesi I have a few dragons Narcissism."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>

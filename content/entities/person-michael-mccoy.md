@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 358 mentions"
+description: "Michael McCoy (People) - 359 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-18">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-michael-mccoy-t-01-06-19">2026-08-21 · 01:06:28</a></strong></div>
-<div><span>Episodes</span><strong>74</strong></div>
-<div><span>Mentions</span><strong>358</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-michael-mccoy-t-00-05-38">2026-08-31 · 00:05:38</a></strong></div>
+<div><span>Episodes</span><strong>75</strong></div>
+<div><span>Mentions</span><strong>359</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>87</strong></div>
-<div><span>Relationships</span><strong>43</strong></div>
+<div><span>Statements about</span><strong>91</strong></div>
+<div><span>Relationships</span><strong>47</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -111,6 +111,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-michael-mccoy-t-00-23-31" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-michael-mccoy-t-00-46-40" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-michael-mccoy-t-00-50-37" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-michael-mccoy-t-00-05-38" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -190,6 +191,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-michael-mccoy-t-00-23-31) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-michael-mccoy-t-00-46-40) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-michael-mccoy-t-00-50-37) | 2 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-michael-mccoy-t-00-05-38) | 1 |
 
 </details>
 </section>
@@ -201,7 +203,15 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (358)</strong></summary>
+<summary><strong class="section-title">Raw mentions (359)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:05:38](/episodes/ep-JrhGEm8MGRY.md#ent-person-michael-mccoy-t-00-05-38)**
+> "...by them to go. They also know Michael McCoy very well. They adore Mikey (Michael McCoy)."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -496,7 +506,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 > "...radar and this is when Mikey (Michael McCoy) and Eliza (Maine vacation participant; surname u..."
 
 **[00:19:51](/episodes/ep-WoXd4oLwd3w.md#ent-person-michael-mccoy-t-00-19-44)**
-> "It was at one point Mikey (Michael McCoy)'s assistant. Derek Nekerk (bodyguard; surname spelling unverified), who's a bodyguard. Jonathan Barcelo, who is a Marine."
+> "It was at one point Mikey (Michael McCoy)'s assistant. Derek Niekerk (bodyguard; surname spelling unverified), who's a bodyguard. Jonathan Barcelo, who is a Marine."
 
 </details>
 
@@ -1789,7 +1799,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
-<summary>Friend Of (2)</summary>
+<summary>Friend Of (4)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1802,6 +1812,20 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:49:49](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-40): “Like my friend Mikey McCoy, the brilliant 24-year-old who at the time when Charlie (Charlie Kirk) was shot was 23 and was a hero that day.”
+
+</details>
+
+- **[John Mappin](/entities/person-john-mappin.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:38](/episodes/ep-JrhGEm8MGRY.md#t-00-05-38): “Charlie (Charlie Kirk) and Erika (Erika Kirk) and John (John Mappin) and Irina (Irina Mappin) went to Israel. They were invited by them to go. They also know Michael McCoy very well. They adore Mikey (Michael McCoy).”
+
+</details>
+
+- **[Irina Mappin](/entities/person-irina-mappin.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:38](/episodes/ep-JrhGEm8MGRY.md#t-00-05-38): “Charlie (Charlie Kirk) and Erika (Erika Kirk) and John (John Mappin) and Irina (Irina Mappin) went to Israel. They were invited by them to go. They also know Michael McCoy very well. They adore Mikey (Michael McCoy).”
 
 </details>
 
@@ -1910,7 +1934,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
-<summary>Referenced By (21)</summary>
+<summary>Referenced By (23)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2002,6 +2026,20 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:49:49](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-40): “Like my friend Mikey McCoy, the brilliant 24-year-old who at the time when Charlie (Charlie Kirk) was shot was 23 and was a hero that day.”
+
+</details>
+
+- **[John Mappin](/entities/person-john-mappin.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:38](/episodes/ep-JrhGEm8MGRY.md#t-00-05-38): “Charlie (Charlie Kirk) and Erika (Erika Kirk) and John (John Mappin) and Irina (Irina Mappin) went to Israel. They were invited by them to go. They also know Michael McCoy very well. They adore Mikey (Michael McCoy).”
+
+</details>
+
+- **[Irina Mappin](/entities/person-irina-mappin.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:38](/episodes/ep-JrhGEm8MGRY.md#t-00-05-38): “Charlie (Charlie Kirk) and Erika (Erika Kirk) and John (John Mappin) and Irina (Irina Mappin) went to Israel. They were invited by them to go. They also know Michael McCoy very well. They adore Mikey (Michael McCoy).”
 
 </details>
 
@@ -2133,7 +2171,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (87)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (91)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2224,10 +2262,26 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:26:07](/episodes/ep-3QJqtW_NOSI.md#t-00-25-48) (Claim) **Candace Owens**: ["Owens said Michael McCoy's wife, Elizabeth Kravchuk, was another perso..."](/statements/statement-311e3930d4d5.md)
+  - Also about: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+
+</details>
+
+<details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>
 
 - [00:03:22](/episodes/ep-G3zdOeHpvS0.md#t-00-03-11) (Claim) **Anonymous Source #2 (Ep G3zdOeHpvS0)** (via quoted speech): ["An unidentified car passenger said Charlie Kirk's cross-and-medallion ..."](/statements/statement-4f5525554bb7.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1)</summary>
+
+- [00:37:04](/episodes/ep-h76ZN-xXC6c.md#t-00-37-04) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs said he believed either Frank Turek or Michael McCoy placed..."](/statements/statement-d31144ce9e27.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
 
 </details>
 
@@ -2243,10 +2297,21 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
-<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2)</summary>
 
 - [00:24:20](/episodes/ep-cPidFQDJLbo.md#t-00-23-44) (Claim) **Candace Owens**: ["Andrew Kolvet was running Charlie Kirk's Twitter account, and Michael ..."](/statements/statement-62b7f786aea5.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Twitter](/entities/org-twitter.md)
+
+- [00:24:28](/episodes/ep-cPidFQDJLbo.md#t-00-23-44) (Accusation) **Candace Owens**: ["Insiders with access to Charlie Kirk's communications may have learned..."](/statements/statement-7f2cf0193d75.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>
+
+- [00:06:33](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08) (Claim) **Candace Owens**: ["Candace Owens says she assumes Erika Kirk visited the West Wing with A..."](/statements/statement-06093dc545f9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </details>
 

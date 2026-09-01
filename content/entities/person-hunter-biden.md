@@ -25,10 +25,10 @@ Source: [Tax and Firearm Charges Filed Against Robert Hunter Biden](https://www.
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-hunter-biden-t-00-49-41">2026-05-26 · 00:50:02</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>30</strong></div>
-<div><span>Statements by</span><strong>32</strong></div>
+<div><span>Statements by</span><strong>34</strong></div>
 <div><span>Statements about</span><strong>28</strong></div>
 <div><span>Relationships</span><strong>66</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -53,6 +53,10 @@ Source: [Tax and Firearm Charges Filed Against Robert Hunter Biden](https://www.
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -156,7 +160,7 @@ Source: [Tax and Firearm Charges Filed Against Robert Hunter Biden](https://www.
 > "...t they had communication with Hunter Biden or that they knew anybody that knew him."
 
 **[00:06:18](/episodes/ep-1QZ4X6q1DPg.md#ent-person-hunter-biden-t-00-06-09)**
-> "...say as you saw in the trailer hunter biden i did in fact discuss charlie kirk because it's w..."
+> "It will drop this Thursday, and I very much look forward to all of the surrounding commentary. Moving on—or I should say, as you saw in the trailer, Hunter Biden and I did in fact discuss Charlie Kirk, because it's weird. You didn't need Hunter Biden to tell you that it's weird. Everyone left and right, all across the world, knows it's weird. But Turning Point USA has a lot of money and they have a lot of power."
 
 **[00:26:28](/episodes/ep-1QZ4X6q1DPg.md#ent-person-hunter-biden-t-00-26-24)**
 > "...girls, our takeaway should be Hunter Biden was smoking crack, but what's Blake Neff's excuse..."
@@ -762,10 +766,10 @@ Source: [Tax and Firearm Charges Filed Against Robert Hunter Biden](https://www.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Hunter Biden (32)</strong></summary>
+<summary><strong class="section-title">Statements by Hunter Biden (34)</strong></summary>
 
 <details>
-<summary>Candace x Hunter Biden: The Interview (31)</summary>
+<summary>Candace x Hunter Biden: The Interview (33)</summary>
 
 - [00:02:08](/episodes/ep-Ux1kzgQxkws.md#t-00-02-08) [○] (Claim) ["The cocaine found at the White House was not mine."](/statements/statement-b7afa40e8955.md)
   - About: [Hunter Biden](/entities/person-hunter-biden.md), [White House](/entities/org-white-house.md)
@@ -817,6 +821,12 @@ Source: [Tax and Firearm Charges Filed Against Robert Hunter Biden](https://www.
 
 - [00:55:56](/episodes/ep-Ux1kzgQxkws.md#t-00-55-56) [○] (Accusation) ["Protesters followed my pregnant wife Melissa Cohen Biden and ran her off the roa..."](/statements/statement-ba70cb499505.md)
   - About: [Melissa Cohen Biden](/entities/person-melissa-cohen-biden.md), [Hunter Biden](/entities/person-hunter-biden.md)
+
+- [01:04:08](/episodes/ep-Ux1kzgQxkws.md#t-01-04-08) [○] (Opinion) ["The political response to Charlie Kirk's assassination may reflect disloyalty or..."](/statements/statement-4cc3b49c97d3.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [01:05:05](/episodes/ep-Ux1kzgQxkws.md#t-01-04-52) [○] (Opinion) ["The corruption and obfuscation surrounding Charlie Kirk's assassination are visi..."](/statements/statement-8654a32e376f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [01:08:27](/episodes/ep-Ux1kzgQxkws.md#t-01-08-27) [◐] (Claim) ["Donald Trump has posted images of himself as a king about half a dozen times."](/statements/statement-7b87d710bc71.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md)

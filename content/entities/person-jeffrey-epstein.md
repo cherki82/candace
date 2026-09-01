@@ -458,10 +458,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > "..., the strange web surrounding Epstein. Now we know Trump."
 
 **[00:47:18](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-47-18)**
-> "...n and the gaslighting and the epstein files and the Charlie Kirk assassination and then..."
+> "express how we're all feeling about the ridiculousness of everything. I actually don't have a lot of resentment for J.D. Vance, and I don't think Tim Dillon does either. But the idea of everything that we've just lived through with Iran and the gaslighting and the Epstein files and the Charlie Kirk assassination, and then J.D. Vance drops a book about his Catholicism, is a bit dizzying, I think, for a lot of people. Tim Dillon decided to do a reading of J.D. Vance's book, or something like a reading of J.D. Vance's book."
 
-**[00:47:30](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-47-18)**
-> "the gaslighting and the Epstein files and the Charlie Kirk assassination and then..."
+**[00:47:18](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-47-18)**
+> "express how we're all feeling about the ridiculousness of everything. I actually don't have a lot of resentment for J.D. Vance, and I don't think Tim Dillon does either. But the idea of everything that we've just lived through with Iran and the gaslighting and the Epstein files and the Charlie Kirk assassination, and then J.D. Vance drops a book about his Catholicism, is a bit dizzying, I think, for a lot of people. Tim Dillon decided to do a reading of J.D. Vance's book, or something like a reading of J.D. Vance's book."
 
 </details>
 

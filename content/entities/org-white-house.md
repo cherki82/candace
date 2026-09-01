@@ -594,7 +594,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > "..., we revealed to you that the White House military office sent out follow-up instructions."
 
 **[00:09:28](/episodes/ep-Pb7UlpRdW6U.md#ent-org-white-house-t-00-09-28)**
-> "...litary office domain from the White House Communications Agency. heard from the military of..."
+> "The email was delivered from the military-office domain, from the White House Communications Agency."
 
 **[00:09:35](/episodes/ep-Pb7UlpRdW6U.md#ent-org-white-house-t-00-09-28)**
 > "...derstand what that means. The White House Communications Agency is like the military arm of..."
@@ -647,7 +647,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 **[00:47:28](/episodes/ep-Pb7UlpRdW6U.md#ent-org-white-house-t-00-47-11)**
 > "...ining to what happened at the White House Correspondents' Dinner."
 
-**[00:47:30](/episodes/ep-Pb7UlpRdW6U.md#ent-org-white-house-t-00-47-11)**
+**[00:47:28](/episodes/ep-Pb7UlpRdW6U.md#ent-org-white-house-t-00-47-11)**
 > "...ining to what happened at the White House Correspondents' Dinner. I quit watching the news."
 
 </details>

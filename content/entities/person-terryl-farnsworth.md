@@ -26,7 +26,7 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>23</strong></div>
+<div><span>Statements about</span><strong>26</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -431,13 +431,27 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terryl Farnsworth (23)</strong></summary>
+<summary><strong class="section-title">Statements about Terryl Farnsworth (26)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
 
 - [00:11:59](/episodes/ep-ChuWo-n49B8.md#t-00-11-51) (Accusation) **Candace Owens**: ["Owens said the transfer of Terryl Farnsworth's camera footage from an ..."](/statements/statement-3b9179f3fe4a.md)
   - Also about: [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3)</summary>
+
+- [00:11:05](/episodes/ep-VMNWMXX1vO8.md#t-00-10-41) (Claim) **Candace Owens**: ["Owens said Parker Edwards attended the same high school as Taryl Farns..."](/statements/statement-6c07a65ba471.md)
+  - Also about: [Parker Edwards](/entities/person-parker-edwards.md)
+
+- [00:11:35](/episodes/ep-VMNWMXX1vO8.md#t-00-11-20) (Claim) **Candace Owens**: ["Owens said Aaron Edwards also worked for Visual Impulse and attended t..."](/statements/statement-5034a6cce1c8.md)
+  - Also about: [Aaron Edwards](/entities/person-aaron-edwards.md), [Visual Impulse, LLC](/entities/org-visual-impulse.md)
+
+- [00:12:07](/episodes/ep-VMNWMXX1vO8.md#t-00-11-54) (Claim) **Candace Owens**: ["Owens said Robert Golo was the camera operator standing next to Taryl ..."](/statements/statement-b61ea5758f8a.md)
+  - Also about: [Robert Golo](/entities/person-robert-golo.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

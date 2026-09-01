@@ -27,9 +27,9 @@ Source: [Bradley D. Hansell - U.S. Department of War](https://www.war.gov/About/
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -56,6 +56,10 @@ Source: [Bradley D. Hansell - U.S. Department of War](https://www.war.gov/About/
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -286,7 +290,7 @@ Source: [Bradley D. Hansell - U.S. Department of War](https://www.war.gov/About/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bradley D. Hansell (14)</strong></summary>
+<summary><strong class="section-title">Statements about Bradley D. Hansell (15)</strong></summary>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2)</summary>
@@ -300,7 +304,7 @@ Source: [Bradley D. Hansell - U.S. Department of War](https://www.war.gov/About/
 </details>
 
 <details>
-<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (6)</summary>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (7)</summary>
 
 - [00:41:19](/episodes/ep-WoXd4oLwd3w.md#t-00-41-19) (Claim) **Candace Owens**: ["Candace Owens identified Bradley Hansell as the undersecretary of defe..."](/statements/statement-e32c0a910e4a.md)
   - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [United States Pentagon](/entities/org-united-states-pentagon.md)
@@ -310,6 +314,9 @@ Source: [Bradley D. Hansell - U.S. Department of War](https://www.war.gov/About/
 
 - [00:43:32](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) (Claim) **Candace Owens**: ["Candace Owens said the plane flew from Fort Huachuca to El Paso on Sep..."](/statements/statement-79d5830ec2de.md)
   - Also about: [SAM 702](/entities/vehicle-sam-702.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [El Paso](/entities/gpe-el-paso.md)
+
+- [00:43:32](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) (Opinion) **Candace Owens**: ["Candace Owens speculated that Bradley Hansell's Tucson and El Paso sto..."](/statements/statement-a9bd8ea1cf7c.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 - [00:43:57](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) (Claim) **Candace Owens**: ["Candace Owens said Bradley Hansell's Fort Huachuca stop lasted 19 hour..."](/statements/statement-d6c687dfc5c6.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [El Paso](/entities/gpe-el-paso.md)

@@ -1,6 +1,6 @@
 ---
 title: "Abortion"
-description: "Abortion (Concepts) - 25 mentions"
+description: "Abortion (Concepts) - 26 mentions"
 id: "concept-abortion"
 type: "CONCEPT"
 categories:
@@ -17,11 +17,11 @@ Source: [World Health Organization: Abortion](https://www.who.int/health-topics/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-abortion-t-00-22-08">2025-09-19 · 00:22:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-abortion-t-00-26-59">2026-08-04 · 00:26:59</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-abortion-t-00-25-03">2026-08-31 · 00:25:39</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -47,6 +47,7 @@ Source: [World Health Organization: Abortion](https://www.who.int/health-topics/
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-abortion-t-00-21-52" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-abortion-t-00-34-27" style="--pulse-height:67%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-abortion-t-00-26-59" style="--pulse-height:33%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-abortion-t-00-25-03" style="--pulse-height:33%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +70,7 @@ Source: [World Health Organization: Abortion](https://www.who.int/health-topics/
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-abortion-t-00-21-52) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-abortion-t-00-34-27) | 2 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-abortion-t-00-26-59) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-concept-abortion-t-00-25-03) | 1 |
 
 </details>
 </section>
@@ -76,7 +78,15 @@ Source: [World Health Organization: Abortion](https://www.who.int/health-topics/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:25:39](/episodes/ep-JrhGEm8MGRY.md#ent-concept-abortion-t-00-25-03)**
+> "...0 babies have been saved from abortion. That means 50,000 lives changed and generations ..."
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
@@ -244,5 +254,18 @@ Source: [World Health Organization: Abortion](https://www.who.int/health-topics/
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Abortion (1)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:25:39](/episodes/ep-JrhGEm8MGRY.md#t-00-25-03) (Claim) **Candace Owens**: ["Owens said PreBorn’s supporters had helped save more than 50,000 babie..."](/statements/statement-c52d90979686.md)
+  - Also about: [PreBorn!](/entities/org-preborn.md)
+
+</details>
 
 </details>

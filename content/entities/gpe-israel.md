@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1581 mentions"
+description: "Israel (Places) - 1583 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -25,11 +25,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-israel-t-00-55-41">2026-08-21 · 00:55:41</a></strong></div>
-<div><span>Episodes</span><strong>142</strong></div>
-<div><span>Mentions</span><strong>1,581</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-israel-t-00-05-38">2026-08-31 · 00:05:38</a></strong></div>
+<div><span>Episodes</span><strong>143</strong></div>
+<div><span>Mentions</span><strong>1,583</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>337</strong></div>
+<div><span>Statements about</span><strong>340</strong></div>
 <div><span>Relationships</span><strong>74</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -180,6 +180,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-israel-t-00-30-06" style="--pulse-height:16%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 12 mentions" title="2026-08-17 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-israel-t-00-49-08" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 3 mentions" title="2026-08-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-israel-t-00-36-24" style="--pulse-height:13%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 10 mentions" title="2026-08-21 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-israel-t-00-04-54" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -327,6 +328,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-israel-t-00-30-06) | 12 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-gpe-israel-t-00-49-08) | 3 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-israel-t-00-36-24) | 10 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-israel-t-00-04-54) | 2 |
 
 </details>
 </section>
@@ -338,7 +340,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1581)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1583)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
+
+**[00:05:25](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-israel-t-00-04-54)**
+> "...act, the four of them went to Israel."
+
+**[00:05:38](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-israel-t-00-05-38)**
+> "... Irina (Irina Mappin) went to Israel. They were invited by them to go. They also know ..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (10 mentions)</summary>
@@ -6410,7 +6423,15 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (337)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (340)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:05:38](/episodes/ep-JrhGEm8MGRY.md#t-00-05-38) (Claim) **Candace Owens**: ["Owens said Charlie Kirk, Erika Kirk, John Mappin, and Irina Mappin tra..."](/statements/statement-d451b1393730.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [John Mappin](/entities/person-john-mappin.md)
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (3)</summary>
@@ -6613,10 +6634,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3)</summary>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (4)</summary>
 
 - [00:15:29](/episodes/ep-WoXd4oLwd3w.md#t-00-15-03) (Accusation) **Candace Owens**: ["Candace Owens accused Jeffrey Epstein of trafficking weapons and peopl..."](/statements/statement-82f7229fac2b.md)
   - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:22:20](/episodes/ep-WoXd4oLwd3w.md#t-00-22-11) (Citation) **Erika Kirk** (via quoted speech): ["In a July 14 speech, Erika Kirk described Israel as the promised land ..."](/statements/statement-5405a3dfe8e6.md)
+  - Also about: [James Kaddis](/entities/person-james-kaddis.md), [Calvary Chapel Chino Hills](/entities/org-calvary-chapel-chino-hills.md)
 
 - [00:28:19](/episodes/ep-WoXd4oLwd3w.md#t-00-27-56) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens recalled Tucker Carlson telling her that Erika Kirk was ..."](/statements/statement-5f8fe480e050.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -6769,7 +6793,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2)</summary>
+
+- [00:53:19](/episodes/ep-cPidFQDJLbo.md#t-00-53-05) (Accusation) **Candace Owens**: ["Victor Marx may have been part of an Israel-linked chat through which ..."](/statements/statement-d288b2db122c.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:53:30](/episodes/ep-cPidFQDJLbo.md#t-00-53-05) (Accusation) **Candace Owens**: ["Israel didn't do nothing. They've never done anything other than assas..."](/statements/statement-9b60868951d0.md)
   - Also about: [United States](/entities/gpe-united-states.md)

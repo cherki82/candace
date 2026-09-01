@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1760_
+_Total events: 1773_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -340,15 +340,15 @@ _Total events: 1760_
 <input type="radio" id="tab-year-1692" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (282)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (804)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (292)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (806)</label>
   <label for="tab-year-2024" class="tab-btn">2024 (99)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (40)</label>
   <label for="tab-year-2022" class="tab-btn">2022 (23)</label>
   <label for="tab-year-2021" class="tab-btn">2021 (21)</label>
   <label for="tab-year-2020" class="tab-btn">2020 (15)</label>
   <label for="tab-year-2019" class="tab-btn">2019 (30)</label>
-  <label for="tab-year-2018" class="tab-btn">2018 (49)</label>
+  <label for="tab-year-2018" class="tab-btn">2018 (50)</label>
   <label for="tab-year-2017" class="tab-btn">2017 (19)</label>
   <label for="tab-year-2016" class="tab-btn">2016 (16)</label>
   <label for="tab-year-2015" class="tab-btn">2015 (14)</label>
@@ -543,6 +543,66 @@ _Total events: 1760_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Huh? Erika Kirk Sits Down With A Trans-Loving R... @ 00:15:28](/episodes/ep-HGtMfbePDKk.md#t-00-15-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-08-candace-owens-encountered-justin-baldoni" data-filter-key="event-2026-08-candace-owens-encountered-justin-baldoni">
+<div class="timeline-date">2026-08</div>
+<div class="timeline-desc"><a href="/events/event-2026-08-candace-owens-encountered-justin-baldoni.md">Candace Owens encountered Justin Baldoni and his family at an Iceland airport</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-08: Candace Owens encountered Justin Baldoni and his family at an Iceland airport - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:13:28](/episodes/ep-JrhGEm8MGRY.md#t-00-13-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-08-31-candace-owens-and-george-farmer-marked-t" data-filter-key="event-2026-08-31-candace-owens-and-george-farmer-marked-t">
+<div class="timeline-date">2026-08-31</div>
+<div class="timeline-desc"><a href="/events/event-2026-08-31-candace-owens-and-george-farmer-marked-t.md">Candace Owens and George Farmer marked their seventh wedding anniversary with an Iceland fishing trip</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-08-31: Candace Owens and George Farmer marked their seventh wedding anniversary with an Iceland fishing trip - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:02:56](/episodes/ep-JrhGEm8MGRY.md#t-00-02-22)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-08-28-sarah-b-rogers-was-sworn-in-as-undersecr" data-filter-key="event-2026-08-28-sarah-b-rogers-was-sworn-in-as-undersecr">
+<div class="timeline-date">2026-08-28</div>
+<div class="timeline-desc"><a href="/events/event-2026-08-28-sarah-b-rogers-was-sworn-in-as-undersecr.md">Sarah B. Rogers was sworn in as undersecretary for public diplomacy at the State Department</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-08-28: Sarah B. Rogers was sworn in as undersecretary for public diplomacy at the State Department - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:33:30](/episodes/ep-JrhGEm8MGRY.md#t-00-33-30)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-08-26-turning-point-usa-announced-its-love-it-" data-filter-key="event-2026-08-26-turning-point-usa-announced-its-love-it-">
+<div class="timeline-date">2026-08-26</div>
+<div class="timeline-desc"><a href="/events/event-2026-08-26-turning-point-usa-announced-its-love-it-.md">Turning Point USA announced its Love It or Leave It campus tour</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-08-26: Turning Point USA announced its Love It or Leave It campus tour - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:37:31](/episodes/ep-JrhGEm8MGRY.md#t-00-37-12)
 
 </details>
 </div>
@@ -1051,6 +1111,21 @@ _Total events: 1760_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-07-jennica-pounds-began-work-as-a-special-g" data-filter-key="event-2026-07-jennica-pounds-began-work-as-a-special-g">
+<div class="timeline-date">2026-07</div>
+<div class="timeline-desc"><a href="/events/event-2026-07-jennica-pounds-began-work-as-a-special-g.md">Jennica Pounds began work as a special government employee for the Department of War</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-07: Jennica Pounds began work as a special government employee for the Department of War - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:34:17](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-07-29-candace-owens-released-exclusive-losee-c" data-filter-key="event-2026-07-29-candace-owens-released-exclusive-losee-c">
 <div class="timeline-date">2026-07-29</div>
 <div class="timeline-desc"><a href="/events/event-2026-07-29-candace-owens-released-exclusive-losee-c.md">Candace Owens released exclusive Losee Center rooftop footage.</a></div>
@@ -1326,6 +1401,21 @@ _Total events: 1760_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-07-09-bill-ackman-promoted-jennica-poundss-thr" data-filter-key="event-2026-07-09-bill-ackman-promoted-jennica-poundss-thr">
+<div class="timeline-date">2026-07-09</div>
+<div class="timeline-desc"><a href="/events/event-2026-07-09-bill-ackman-promoted-jennica-poundss-thr.md">Bill Ackman promoted Jennica Pounds’s thread about Charlie Kirk and Candace Owens</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-07-09: Bill Ackman promoted Jennica Pounds’s thread about Charlie Kirk and Candace Owens - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:31:54](/episodes/ep-JrhGEm8MGRY.md#t-00-31-46)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-07-07-court-witness-says-exhibit-12-compilatio" data-filter-key="event-2026-07-07-court-witness-says-exhibit-12-compilatio">
 <div class="timeline-date">2026-07-07</div>
 <div class="timeline-desc"><a href="/events/event-2026-07-07-court-witness-says-exhibit-12-compilatio.md">Court witness says Exhibit 12 compilation contains no footage of the alleged shooting</a></div>
@@ -1355,6 +1445,51 @@ _Total events: 1760_
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:28:40](/episodes/ep-OgRyiOAVtWU.md#t-00-28-30)
 - [BREAKING: Charlie’s Team DID Call 911 En Route ... @ 00:04:38](/episodes/ep-HZvwbfePe7o.md#t-00-04-15)
 - [Amnesia Or Perjury? Exclusive Footage Of The OT... @ 00:10:22](/episodes/ep-AH1KVKkweUE.md#t-00-10-13)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-07-06-ncri-released-permission-to-kill-on-the-" data-filter-key="event-2026-07-06-ncri-released-permission-to-kill-on-the-">
+<div class="timeline-date">2026-07-06</div>
+<div class="timeline-desc"><a href="/events/event-2026-07-06-ncri-released-permission-to-kill-on-the-.md">NCRI released Permission to Kill on the first day of Tyler Robinson’s preliminary hearing</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-07-06: NCRI released Permission to Kill on the first day of Tyler Robinson’s preliminary hearing - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:28:55](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-07-06-jennica-pounds-published-a-thread-expand" data-filter-key="event-2026-07-06-jennica-pounds-published-a-thread-expand">
+<div class="timeline-date">2026-07-06</div>
+<div class="timeline-desc"><a href="/events/event-2026-07-06-jennica-pounds-published-a-thread-expand.md">Jennica Pounds published a thread expanding on NCRI’s Permission to Kill report</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-07-06: Jennica Pounds published a thread expanding on NCRI’s Permission to Kill report - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:30:34](/episodes/ep-JrhGEm8MGRY.md#t-00-29-53)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-07-06-andrew-kolvet-promoted-jennica-poundss-t" data-filter-key="event-2026-07-06-andrew-kolvet-promoted-jennica-poundss-t">
+<div class="timeline-date">2026-07-06</div>
+<div class="timeline-desc"><a href="/events/event-2026-07-06-andrew-kolvet-promoted-jennica-poundss-t.md">Andrew Kolvet promoted Jennica Pounds’s thread about Candace Owens and Erika Kirk</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-07-06: Andrew Kolvet promoted Jennica Pounds’s thread about Candace Owens and Erika Kirk - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:31:32](/episodes/ep-JrhGEm8MGRY.md#t-00-31-01)
 
 </details>
 </div>
@@ -1464,6 +1599,21 @@ _Total events: 1760_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie’s “Freedom” Shirt Disappears. Another W... @ 00:50:10](/episodes/ep-9CuC1yf8-PU.md#t-00-50-10)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-06-jennica-poundss-pentagon-press-credentia" data-filter-key="event-2026-06-jennica-poundss-pentagon-press-credentia">
+<div class="timeline-date">2026-06</div>
+<div class="timeline-desc"><a href="/events/event-2026-06-jennica-poundss-pentagon-press-credentia.md">Jennica Pounds’s Pentagon press credentials expired</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-06: Jennica Pounds’s Pentagon press credentials expired - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:34:34](/episodes/ep-JrhGEm8MGRY.md#t-00-34-07)
 
 </details>
 </div>
@@ -7416,6 +7566,14 @@ _Total events: 1760_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-10-27-candace-owens-declared-that-she-wanted-w" data-filter-key="event-2025-10-27-candace-owens-declared-that-she-wanted-w">
+<div class="timeline-date">2025-10-27</div>
+<div class="timeline-desc"><a href="/events/event-2025-10-27-candace-owens-declared-that-she-wanted-w.md">Candace Owens declared that she wanted war with her critics</a></div>
+<div class="timeline-meta">
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-10-27: Candace Owens declared that she wanted war with her critics - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-10-15-feds-seize-all-footage-from-timpanogos-hospital-af" data-filter-key="event-2025-10-15-feds-seize-all-footage-from-timpanogos-hospital-af">
 <div class="timeline-date">2025-10-15</div>
 <div class="timeline-desc"><a href="/events/event-2025-10-15-feds-seize-all-footage-from-timpanogos-hospital-af.md">Feds seize all footage from Timpanogos Hospital after Charlie Kirk shooting</a></div>
@@ -7677,7 +7835,7 @@ _Total events: 1760_
 <div class="timeline-date">2025-10-07</div>
 <div class="timeline-desc"><a href="/events/event-2025-10-07-tpusa-donors-john-and-irina-mappin-publish-letter.md">TPUSA donors John and Irina Mappin publish letter supporting Candace Owens</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-10-07: TPUSA donors John and Irina Mappin publish letter supporting Candace Owens - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -7686,6 +7844,7 @@ _Total events: 1760_
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:00:39](/episodes/ep-5autG89PW6w.md#t-00-00-00)
 - [Charlie's Angels Or Demons? Disturbing Footage ... @ 00:38:26](/episodes/ep-c5BcKF91iec.md#t-00-38-11)
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 01:07:16](/episodes/ep-2Riv3I7D0Yk.md#t-01-07-03)
+- [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:07:38](/episodes/ep-JrhGEm8MGRY.md#t-00-07-38)
 
 </details>
 </div>
@@ -13380,7 +13539,7 @@ _Total events: 1760_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-charlie-kirk-texted-tpusa-employees-that.md">Charlie Kirk texted TPUSA employees that he wanted to invite Candace Owens to AmericaFest.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">5× in 5 eps</span>
+<span class="timeline-badge mentions">6× in 6 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Charlie Kirk texted TPUSA employees that he wanted to invite Candace Owens to AmericaFest. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -13391,6 +13550,7 @@ _Total events: 1760_
 - [Here’s Why It’s Time For The Police To Question... @ 00:05:37](/episodes/ep-ti5Fxrvegno.md#t-00-05-37)
 - [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:19:50](/episodes/ep-hWTdXHGQ8R4.md#t-00-19-32)
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:15:59](/episodes/ep-amqTMimDr0A.md#t-00-15-44)
+- [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:46:47](/episodes/ep-JrhGEm8MGRY.md#t-00-46-39)
 
 </details>
 </div>
@@ -17369,6 +17529,21 @@ _Total events: 1760_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And... @ 00:25:07](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-elon-musk-promoted-jennica-pounds-online" data-filter-key="event-2025-elon-musk-promoted-jennica-pounds-online">
+<div class="timeline-date">2025</div>
+<div class="timeline-desc"><a href="/events/event-2025-elon-musk-promoted-jennica-pounds-online.md">Elon Musk promoted Jennica Pounds online</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025: Elon Musk promoted Jennica Pounds online - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:29:53](/episodes/ep-JrhGEm8MGRY.md#t-00-29-53)
 
 </details>
 </div>
@@ -21383,6 +21558,21 @@ _Total events: 1760_
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 01:00:09](/episodes/ep-vwG1juDCQZQ.md#t-00-59-45)
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:21:00](/episodes/ep-_vg7ucP1E0g.md#t-00-21-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2018-05-candace-owens-met-george-farmer-at-a-lon" data-filter-key="event-2018-05-candace-owens-met-george-farmer-at-a-lon">
+<div class="timeline-date">2018-05</div>
+<div class="timeline-desc"><a href="/events/event-2018-05-candace-owens-met-george-farmer-at-a-lon.md">Candace Owens met George Farmer at a London event hosted by John and Irina Mappin</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018-05: Candace Owens met George Farmer at a London event hosted by John and Irina Mappin - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:04:22](/episodes/ep-JrhGEm8MGRY.md#t-00-04-22)
 
 </details>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: "Individual Retirement Arrangement"
-description: "Individual Retirement Arrangement (Concepts) - 43 mentions"
+description: "Individual Retirement Arrangement (Concepts) - 44 mentions"
 id: "concept-individual-retirement-arrangement"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-concept-individual-retirement-arrangement-t-00-36-10">2026-02-05 · 00:36:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-individual-retirement-arrangement-t-01-14-47">2026-08-17 · 01:15:18</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-individual-retirement-arrangement-t-00-41-10">2026-08-31 · 00:41:10</a></strong></div>
+<div><span>Episodes</span><strong>34</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -69,6 +69,7 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-concept-individual-retirement-arrangement-t-00-25-23" style="--pulse-height:33%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-individual-retirement-arrangement-t-02-31-28" style="--pulse-height:33%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-individual-retirement-arrangement-t-01-14-47" style="--pulse-height:33%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-individual-retirement-arrangement-t-00-41-10" style="--pulse-height:33%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -107,6 +108,7 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-concept-individual-retirement-arrangement-t-00-25-23) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-concept-individual-retirement-arrangement-t-02-31-28) | 1 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-concept-individual-retirement-arrangement-t-01-14-47) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-concept-individual-retirement-arrangement-t-00-41-10) | 1 |
 
 </details>
 </section>
@@ -114,7 +116,15 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:41:10](/episodes/ep-JrhGEm8MGRY.md#ent-concept-individual-retirement-arrangement-t-00-41-10)**
+> "Maybe you withdrew money from a 401k or an IRA and suddenly got hit with a tax bill that you never expected."
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>

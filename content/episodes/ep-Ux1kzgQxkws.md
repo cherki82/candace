@@ -2669,7 +2669,7 @@ youtube_url: "https://www.youtube.com/watch?v=Ux1kzgQxkws"
 </details>
 
 <details>
-<summary><strong>Statements (36)</strong></summary>
+<summary><strong>Statements (40)</strong></summary>
 
 - [00:02:08](#t-00-02-08) [○] (Claim) **Hunter Biden**: ["The cocaine found at the White House was not mine."](/statements/statement-b7afa40e8955.md)
   - About: [Hunter Biden](/entities/person-hunter-biden.md), [White House](/entities/org-white-house.md)
@@ -2711,8 +2711,16 @@ youtube_url: "https://www.youtube.com/watch?v=Ux1kzgQxkws"
   - About: [Tim Pool](/entities/person-tim-pool.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:59:59](#t-00-59-59) [○] (Opinion) **Candace Owens**: ["Donald Trump, Kash Patel, and JD Vance have shown zero interest in the obvious h..."](/statements/statement-5412eb913b0a.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Kash Patel](/entities/person-kash-patel.md)
+- [01:00:26](#t-00-59-59) [○] (Accusation) **Candace Owens**: ["Trump, Kash Patel, and J.D. Vance are accepting the official Charlie Kirk assass..."](/statements/statement-77e2d7486bc5.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md), [JD Vance](/entities/person-jd-vance.md)
 - [01:02:22](#t-01-02-22) [◐] (Accusation) **Candace Owens**: ["Donald Trump is protecting his donors by withholding the Epstein files."](/statements/statement-5b8ae82f98e2.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Epstein Files](/entities/work-epstein-files.md)
+- [01:04:08](#t-01-04-08) [○] (Opinion) **Hunter Biden**: ["The political response to Charlie Kirk's assassination may reflect disloyalty or..."](/statements/statement-4cc3b49c97d3.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md)
+- [01:05:05](#t-01-04-52) [○] (Opinion) **Hunter Biden**: ["The corruption and obfuscation surrounding Charlie Kirk's assassination are visi..."](/statements/statement-8654a32e376f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [01:06:12](#t-01-06-12) [○] (Accusation) **Candace Owens**: ["Erika Kirk's rapid acceptance of the official narrative and desire to close the ..."](/statements/statement-95c1d3991fb5.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [01:08:27](#t-01-08-27) [◐] (Claim) **Hunter Biden**: ["Donald Trump has posted images of himself as a king about half a dozen times."](/statements/statement-7b87d710bc71.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md)
 - [01:11:22](#t-01-11-13) [◐] (Accusation) **Hunter Biden**: ["Joe Biden did not greenlight turning Gaza into a Trump golf course with Jared Ku..."](/statements/statement-245428c642ae.md)

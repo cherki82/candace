@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 160_
+_Total episodes: 161_
 
 <div class="page-filter-container">
   <input type="search" class="page-filter" placeholder="Filter episodes..." aria-label="Filter episodes..." autocomplete="off">
@@ -22,6 +22,10 @@ _Total episodes: 160_
 </style>
 
 
+
+## Week of Aug 31 - Sep 06, 2026
+
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md) — Mon, Aug 31
 
 ## Week of Aug 17 - 23, 2026
 

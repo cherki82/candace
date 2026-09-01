@@ -72,7 +72,7 @@ Source: [Brunel verified complaint identifying MC2 Model Management](https://sta
 > "...amed as a defendant alongside MC2, Jean-Luc Brunel's agency named as defendants. An..."
 
 **[00:22:32](/episodes/ep-IqHsl7d2dos.md#ent-org-mc2-model-management-t-00-22-32)**
-> "... Brunel, who is now dead, and MC2, which he ran, and Faith Cates and Next Model Man..."
+> "Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Kates and Next Model Management, which he started with Faith Kates, are all listed as defendants in these allegations, which span back decades."
 
 </details>
 

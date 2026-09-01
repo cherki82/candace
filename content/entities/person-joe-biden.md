@@ -208,7 +208,7 @@ Source: [President Joseph R. Biden | Joseph R. Biden Jr. Presidential Library](h
 > "...had communication with Hunter Biden or that they knew anybody that knew him."
 
 **[00:06:18](/episodes/ep-1QZ4X6q1DPg.md#t-00-06-09)**
-> "...you saw in the trailer hunter biden i did in fact discuss charlie kirk because it's w..."
+> "It will drop this Thursday, and I very much look forward to all of the surrounding commentary. Moving on—or I should say, as you saw in the trailer, Hunter Biden and I did in fact discuss Charlie Kirk, because it's weird. You didn't need Hunter Biden to tell you that it's weird. Everyone left and right, all across the world, knows it's weird. But Turning Point USA has a lot of money and they have a lot of power."
 
 **[00:26:28](/episodes/ep-1QZ4X6q1DPg.md#t-00-26-24)**
 > "...our takeaway should be Hunter Biden was smoking crack, but what's Blake Neff's excuse..."

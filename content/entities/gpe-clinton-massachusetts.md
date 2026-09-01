@@ -5,11 +5,16 @@ id: "gpe-clinton-massachusetts"
 type: "GPE"
 aliases:
   - "Clinton, MA"
+categories:
+  - "town"
+  - "Massachusetts"
 ---
 
 _Type: Places_
 
 **Also known as:** Clinton, MA
+
+**Categories:** town, Massachusetts
 
 **Entity verification:** verified
 > The museum’s official site gives its address as 203 Union Street, Clinton, Massachusetts 01510.

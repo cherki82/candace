@@ -1,6 +1,6 @@
 ---
 title: "Bill Ackman"
-description: "Bill Ackman (People) - 83 mentions"
+description: "Bill Ackman (People) - 87 mentions"
 id: "person-bill-ackman"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-13-40">2025-09-15 · 00:14:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-bill-ackman-t-00-55-00">2026-08-21 · 00:55:00</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>83</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-bill-ackman-t-00-44-09">2026-08-31 · 00:44:09</a></strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>28</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -64,6 +64,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-bill-ackman-t-00-05-29" style="--pulse-height:21%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 4 mentions" title="2026-08-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-bill-ackman-t-00-50-37" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-bill-ackman-t-00-31-46" style="--pulse-height:21%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -97,6 +98,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-bill-ackman-t-00-05-29) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-bill-ackman-t-00-50-37) | 2 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-bill-ackman-t-00-31-46) | 4 |
 
 </details>
 </section>
@@ -108,7 +110,24 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (83)</strong></summary>
+<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (4 mentions)</summary>
+
+**[00:31:54](/episodes/ep-JrhGEm8MGRY.md#ent-person-bill-ackman-t-00-31-46)**
+> "So beyond in this very same day, oh, actually three days later, Bill Ackman promotes Data Republican, an important read on Charlie Kirk and Candace Owens. I bet, Bill (Bill Ackman), I bet you're always a little too close to the situation, Bill (Bill Ackman)."
+
+**[00:32:19](/episodes/ep-JrhGEm8MGRY.md#ent-person-bill-ackman-t-00-32-19)**
+> "It's something. Bill Ackman, you're a billionaire. Why are you retweeting Dat..."
+
+**[00:35:16](/episodes/ep-JrhGEm8MGRY.md#ent-person-bill-ackman-t-00-35-16)**
+> "...s funding her. I'd guess that Bill Ackman may be cutting a check somewhere in the backgroun..."
+
+**[00:44:09](/episodes/ep-JrhGEm8MGRY.md#ent-person-bill-ackman-t-00-44-09)**
+> "... along with billionaires like Bill Ackman who are willing to promote your nonsense. But we ..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -548,9 +567,10 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00): “We also have Bill Ackman, who is sending his press hounds after me.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:31:54](/episodes/ep-JrhGEm8MGRY.md#t-00-31-46): “So beyond in this very same day, oh, actually three days later, Bill Ackman promotes Data Republican, an important read on Charlie Kirk and Candace Owens. I bet, Bill (Bill Ackman), I bet you're always a little too close to the situation, Bill (Bill Ackman).”
 
 </details>
 
@@ -619,9 +639,10 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00): “We also have Bill Ackman, who is sending his press hounds after me.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:31:54](/episodes/ep-JrhGEm8MGRY.md#t-00-31-46): “So beyond in this very same day, oh, actually three days later, Bill Ackman promotes Data Republican, an important read on Charlie Kirk and Candace Owens. I bet, Bill (Bill Ackman), I bet you're always a little too close to the situation, Bill (Bill Ackman).”
 
 </details>
 
@@ -687,7 +708,15 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Bill Ackman (1)</strong></summary>
+<summary><strong class="section-title">Statements by Bill Ackman (2)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:31:54](/episodes/ep-JrhGEm8MGRY.md#t-00-31-46) [○] (Opinion) ["Bill Ackman promoted Jennica Pounds’s thread as “an important read on Charlie Ki..."](/statements/statement-135efe0c7da8.md)
+  - About: [Jennica Pounds](/entities/person-jennica-pounds.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1)</summary>
@@ -700,7 +729,15 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bill Ackman (27)</strong></summary>
+<summary><strong class="section-title">Statements about Bill Ackman (28)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:35:16](/episodes/ep-JrhGEm8MGRY.md#t-00-35-16) (Accusation) **Candace Owens**: ["Owens guessed that Bill Ackman might be funding Jennica Pounds’s insti..."](/statements/statement-c90d46b58982.md)
+  - Also about: [Jennica Pounds](/entities/person-jennica-pounds.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>

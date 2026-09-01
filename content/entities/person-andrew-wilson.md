@@ -1,6 +1,6 @@
 ---
 title: "Andrew Wilson"
-description: "Andrew Wilson (People) - 120 mentions"
+description: "Andrew Wilson (People) - 121 mentions"
 id: "person-andrew-wilson"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-andrew-wilson-t-00-02-36">2026-08-07 · 00:02:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-wilson-t-01-03-37">2026-08-21 · 01:03:37</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>120</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-wilson-t-00-45-20">2026-08-31 · 00:45:20</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>121</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
 <div><span>Statements about</span><strong>29</strong></div>
 <div><span>Relationships</span><strong>33</strong></div>
@@ -40,6 +40,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-andrew-wilson-t-00-33-14" style="--pulse-height:15%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 6 mentions" title="2026-08-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-andrew-wilson-t-00-24-33" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 5 mentions" title="2026-08-19 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-wilson-t-00-00-39" style="--pulse-height:24%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 10 mentions" title="2026-08-21 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-wilson-t-00-45-20" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-andrew-wilson-t-00-33-14) | 6 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-andrew-wilson-t-00-24-33) | 5 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-wilson-t-00-00-39) | 10 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-wilson-t-00-45-20) | 1 |
 
 </details>
 </section>
@@ -61,7 +63,15 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (120)</strong></summary>
+<summary><strong class="section-title">Raw mentions (121)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:45:20](/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-wilson-t-00-45-20)**
+> "...istract me with nonsense from andrew wilson and we see you guys i love that they're using him..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (10 mentions)</summary>

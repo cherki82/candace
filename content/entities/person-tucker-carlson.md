@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 642 mentions"
+description: "Tucker Carlson (People) - 643 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tucker-carlson-t-00-22-14">2026-08-21 · 00:22:35</a></strong></div>
-<div><span>Episodes</span><strong>105</strong></div>
-<div><span>Mentions</span><strong>642</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-tucker-carlson-t-00-49-01">2026-08-31 · 00:49:01</a></strong></div>
+<div><span>Episodes</span><strong>106</strong></div>
+<div><span>Mentions</span><strong>643</strong></div>
 <div><span>Statements by</span><strong>62</strong></div>
 <div><span>Statements about</span><strong>94</strong></div>
 <div><span>Relationships</span><strong>124</strong></div>
@@ -140,6 +140,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-tucker-carlson-t-00-04-16" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-tucker-carlson-t-00-14-30" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tucker-carlson-t-00-22-14" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-tucker-carlson-t-00-49-01" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -250,6 +251,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-tucker-carlson-t-00-04-16) | 3 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-tucker-carlson-t-00-14-30) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-tucker-carlson-t-00-22-14) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-tucker-carlson-t-00-49-01) | 1 |
 
 </details>
 </section>
@@ -261,7 +263,15 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (642)</strong></summary>
+<summary><strong class="section-title">Raw mentions (643)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:49:01](/episodes/ep-JrhGEm8MGRY.md#ent-person-tucker-carlson-t-00-49-01)**
+> "They just lie. I think, when Tucker Carlson is not slated to speak and Ben Shapiro is, there's something so sick about it. But it's now laughably sick, where you can just go, 'Okay, this is all fake.' The whole thing is you're going to get a bunch of YAF people to come in, pay them to come hear him speak, and pretend like you've taken over the youth movement. I mean, you should just laugh at it, and in that regard, we already won. Again, not referencing everybody who's on that list."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>

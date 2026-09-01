@@ -1,6 +1,6 @@
 ---
 title: "Shmuley Boteach"
-description: "Shmuley Boteach (People) - 8 mentions"
+description: "Shmuley Boteach (People) - 11 mentions"
 id: "person-shmuley-boteach"
 type: "PERSON"
 aliases:
@@ -25,9 +25,9 @@ Source: [Kanye Is EVIL! Ye Censorship Debate | Piers Morgan Uncensored](https://
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-shmuley-boteach-t-00-34-43">2026-01-16 · 00:34:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-shmuley-boteach-t-01-10-52">2026-08-17 · 01:11:23</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-shmuley-boteach-t-00-02-22">2026-08-31 · 00:02:31</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -41,6 +41,7 @@ Source: [Kanye Is EVIL! Ye Censorship Debate | Piers Morgan Uncensored](https://
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-shmuley-boteach-t-00-34-43" style="--pulse-height:40%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-shmuley-boteach-t-00-48-49" style="--pulse-height:100%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 5 mentions" title="2026-08-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-shmuley-boteach-t-01-10-52" style="--pulse-height:20%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-shmuley-boteach-t-00-00-01" style="--pulse-height:60%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 3 mentions" title="2026-08-31 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [Kanye Is EVIL! Ye Censorship Debate | Piers Morgan Uncensored](https://
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-shmuley-boteach-t-00-34-43) | 2 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-shmuley-boteach-t-00-48-49) | 5 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-shmuley-boteach-t-01-10-52) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-shmuley-boteach-t-00-00-01) | 3 |
 
 </details>
 </section>
@@ -56,7 +58,21 @@ Source: [Kanye Is EVIL! Ye Censorship Debate | Piers Morgan Uncensored](https://
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3 mentions)</summary>
+
+**[00:00:17](/episodes/ep-JrhGEm8MGRY.md#ent-person-shmuley-boteach-t-00-00-01)**
+> "And I have to tell you that I was mildly concerned when I saw Rumpelstiltskin, known to some people as Rabbi Shmuley (Shmuley Boteach) up in Iceland, as well as Ivanka (Ivanka Trump)."
+
+**[00:00:26](/episodes/ep-JrhGEm8MGRY.md#ent-person-shmuley-boteach-t-00-00-01)**
+> "...sland and that Rabbi Shmuley (Shmuley Boteach) was going to clear it out for her."
+
+**[00:02:31](/episodes/ep-JrhGEm8MGRY.md#ent-person-shmuley-boteach-t-00-02-22)**
+> "...ctively chased Rabbi Shmuley (Shmuley Boteach) out weeks earlier."
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>

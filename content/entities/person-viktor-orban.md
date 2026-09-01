@@ -6,11 +6,16 @@ type: "PERSON"
 aliases:
   - "Viktor Orban"
   - "Orbán"
+categories:
+  - "Hungarian politics"
+  - "prime minister"
 ---
 
 _Type: People_
 
 **Also known as:** Viktor Orban, Orbán
+
+**Categories:** Hungarian politics, prime minister
 
 **Entity verification:** verified
 > Official Hungarian government biography identifies Viktor Orbán as prime minister.

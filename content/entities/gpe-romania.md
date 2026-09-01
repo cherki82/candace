@@ -55,7 +55,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-18-27" style="--pulse-height:45%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 13 mentions" title="2026-06-17 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-romania-t-00-19-10" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-romania-t-00-10-41" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-11-49" style="--pulse-height:59%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 17 mentions" title="2026-06-26 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-11-49" style="--pulse-height:55%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 16 mentions" title="2026-06-26 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-romania-t-00-47-09" style="--pulse-height:10%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-romania-t-00-24-47" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-romania-t-00-56-28" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
@@ -88,7 +88,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-18-27) | 13 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-romania-t-00-19-10) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-romania-t-00-10-41) | 2 |
-| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-11-49) | 17 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-11-49) | 16 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-romania-t-00-47-09) | 3 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-romania-t-00-24-47) | 2 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-romania-t-00-56-28) | 1 |
@@ -125,7 +125,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 </details>
 
 <details>
-<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (17 mentions)</summary>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (16 mentions)</summary>
 
 **[00:12:03](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-11-49)**
 > "...ely deploy, of all places, to Romania to conduct unconventional warfare. They train wit..."
@@ -169,14 +169,11 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 **[00:46:47](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-46-47)**
 > "...ntially having involvement in Romania, I think everyone in the world needs to take a lo..."
 
-**[00:47:12](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-46-47)**
-> "...een at various times based in romania on that very base That the French Foreign Legion,"
-
 **[00:47:31](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-47-31)**
 > "...een at various times based in Romania on that very base."
 
 **[00:57:00](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-56-54)**
-> "... get emails from Africa, from Romania, from France, from Italy, from wherever it is, an..."
+> "And I will say that I'm getting there. I totally understand how it has brought countries and people together to research—emails arrive from Africa, Romania, France, Italy, and elsewhere, with people participating in this investigation."
 
 </details>
 

@@ -26,9 +26,9 @@ Source: [Office of the Secretary of Defense](https://www.defense.gov/About/offic
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -47,6 +47,10 @@ Source: [Office of the Secretary of Defense](https://www.defense.gov/About/offic
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -101,10 +105,10 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Office of the Secretary of Defense (4)</strong></summary>
+<summary><strong class="section-title">Statements about Office of the Secretary of Defense (5)</strong></summary>
 
 <details>
-<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3)</summary>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (4)</summary>
 
 - [00:45:48](/episodes/ep-WoXd4oLwd3w.md#t-00-45-24) (Citation) **Office of the Secretary of Defense** (via quoted document): ["The Office of the Secretary of Defense said it could not respond to th..."](/statements/statement-3d734b0826a2.md)
   - Also about: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [SAM 702](/entities/vehicle-sam-702.md)
@@ -114,6 +118,9 @@ _No relationships extracted yet._
 
 - [00:47:31](/episodes/ep-WoXd4oLwd3w.md#t-00-47-31) (Citation) **Office of the Secretary of Defense** (via quoted document): ["The FOIA response said the request had been placed in a complex proces..."](/statements/statement-75961026282d.md)
   - Also about: [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
+
+- [00:48:17](/episodes/ep-WoXd4oLwd3w.md#t-00-48-05) (Accusation) **Candace Owens**: ["Candace Owens speculated that the FOIA delay might reflect consultatio..."](/statements/statement-32eb670bee0f.md)
+  - Also about: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [FBI](/entities/org-fbi.md), [Kash Patel](/entities/person-kash-patel.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Britney Spears"
-description: "Britney Spears (People) - 25 mentions"
+description: "Britney Spears (People) - 27 mentions"
 id: "person-britney-spears"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-00-44">2025-11-15 · 00:00:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-britney-spears-t-00-39-20">2026-08-06 · 00:39:43</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-britney-spears-t-00-06-15">2026-08-31 · 00:06:25</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
@@ -40,6 +40,7 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-britney-spears-t-00-57-15" style="--pulse-height:13%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-29-37" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-britney-spears-t-00-39-20" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-britney-spears-t-00-05-38" style="--pulse-height:13%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-britney-spears-t-00-57-15) | 2 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#t-00-29-37) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-britney-spears-t-00-39-20) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-britney-spears-t-00-05-38) | 2 |
 
 </details>
 </section>
@@ -61,7 +63,18 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
+
+**[00:05:47](/episodes/ep-JrhGEm8MGRY.md#ent-person-britney-spears-t-00-05-38)**
+> "actually. And anyway, I'm saying all that just to express that they played an extremely significant role in keeping me sane following Charlie (Charlie Kirk)'s assassination because they knew the players and they were not biased one way or the other. Upon reflection, I believe that there was a very obvious and intentional effort to drive me to the point of insanity, to bring me to the point that Britney Spears was in back in 2007 when she just."
+
+**[00:06:25](/episodes/ep-JrhGEm8MGRY.md#ent-person-britney-spears-t-00-06-15)**
+> "And let me just say this, Britney Spears did not watch her friend get murdered. And then w..."
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>

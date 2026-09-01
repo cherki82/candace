@@ -120,7 +120,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
 
 **[00:47:12](/episodes/ep-IqHsl7d2dos.md#ent-org-french-foreign-legion-t-00-46-47)**
-> "...'ve always said also that the french foreign legion was there on the ground that day this has never b..."
+> "Sharp viewers are going to identify one or two of these people as ordinary Utah students, but I do not think that explains all of them. I have also always said that the French Foreign Legion was on the ground that day; authorities have ignored rather than disputed that claim, and I stand by it."
 
 **[00:48:02](/episodes/ep-IqHsl7d2dos.md#ent-org-french-foreign-legion-t-00-48-02)**
 > "...at is a facet of being in the French Foreign Legion is that you get a new identity."

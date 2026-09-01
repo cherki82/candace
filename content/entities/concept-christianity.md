@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 287 mentions"
+description: "Christianity (Concepts) - 289 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-concept-christianity-t-00-24-50">2025-10-07 · 00:24:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10">2026-08-14 · 02:57:10</a></strong></div>
-<div><span>Episodes</span><strong>75</strong></div>
-<div><span>Mentions</span><strong>287</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-christianity-t-00-45-20">2026-08-31 · 00:45:46</a></strong></div>
+<div><span>Episodes</span><strong>76</strong></div>
+<div><span>Mentions</span><strong>289</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>24</strong></div>
+<div><span>Statements about</span><strong>25</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -110,6 +110,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-concept-christianity-t-00-45-48" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-christianity-t-00-01-27" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-christianity-t-00-08-13" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -190,6 +191,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-concept-christianity-t-00-45-48) | 1 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-christianity-t-00-01-27) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-concept-christianity-t-00-08-13) | 2 |
 
 </details>
 </section>
@@ -201,7 +203,18 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (287)</strong></summary>
+<summary><strong class="section-title">Raw mentions (289)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
+
+**[00:08:27](/episodes/ep-JrhGEm8MGRY.md#ent-concept-christianity-t-00-08-13)**
+> "...guilty of that crime and that Christian souls would tolerate that possibility is anathema..."
+
+**[00:45:46](/episodes/ep-JrhGEm8MGRY.md#ent-concept-christianity-t-00-45-20)**
+> "And that purports to be Christian while using attack dogs throughout government and..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -1443,7 +1456,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Christianity (24)</strong></summary>
+<summary><strong class="section-title">Statements about Christianity (25)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
+
+- [00:08:27](/episodes/ep-JrhGEm8MGRY.md#t-00-08-13) (Opinion) **John Mappin** (via quoted article): ["John and Irina Mappin wrote that executing a possibly innocent person ..."](/statements/statement-2bae472d17ac.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Irina Mappin](/entities/person-irina-mappin.md)
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2)</summary>

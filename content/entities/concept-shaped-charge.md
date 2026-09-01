@@ -28,14 +28,14 @@ Source: [Demolition Systems | U.S. Army](https://www.cpeae.army.mil/Project-Offi
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-shaped-charge-t-00-13-02">I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-h76ZN-xXC6c.md#ent-concept-shaped-charge-t-00-08-57" style="--pulse-height:50%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 4 mentions" title="2026-06-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-concept-shaped-charge-t-00-08-57" style="--pulse-height:38%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 3 mentions" title="2026-06-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-shaped-charge-t-00-13-02" style="--pulse-height:100%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 8 mentions" title="2026-06-22 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-concept-shaped-charge-t-00-32-07" style="--pulse-height:75%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 6 mentions" title="2026-07-31 · 6 mentions"><span></span></a>
 </div>
@@ -43,12 +43,16 @@ Source: [Demolition Systems | U.S. Army](https://www.cpeae.army.mil/Project-Offi
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-concept-shaped-charge-t-00-08-57) | 4 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-concept-shaped-charge-t-00-08-57) | 3 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-concept-shaped-charge-t-00-13-02) | 8 |
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-concept-shaped-charge-t-00-32-07) | 6 |
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -108,13 +112,10 @@ Source: [Demolition Systems | U.S. Army](https://www.cpeae.army.mil/Project-Offi
 </details>
 
 <details>
-<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (4 mentions)</summary>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (3 mentions)</summary>
 
 **[00:08:57](/episodes/ep-h76ZN-xXC6c.md#ent-concept-shaped-charge-t-00-08-57)**
 > "...let and he kept saying it's a shape charge to shape charge and finally after i got into his ..."
-
-**[00:09:23](/episodes/ep-h76ZN-xXC6c.md#ent-concept-shaped-charge-t-00-08-57)**
-> "...down the rabbit hole yourself shape charge and it's show it's just showing you here okay it ..."
 
 **[00:12:54](/episodes/ep-h76ZN-xXC6c.md#ent-concept-shaped-charge-t-00-12-46)**
 > "a shape charge a rigged microphone that was inside of that which..."

@@ -32,7 +32,7 @@ veracity: "true"
 **Timestamp:** [00:38:00](/episodes/ep-Pb7UlpRdW6U.md#t-00-38-00) 
 <a href="https://www.youtube.com/watch?v=Pb7UlpRdW6U&t=2280s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> he tweeted the fact is we don't know it hasn't been clarified by Erika (Erika Kirk) but it doesn't It doesn't matter. ... The content of the picture was irrelevant. ... It was proof that she wasn't at Fort Huachuca on the night.
+> Do you know what an alibi is? If you're saying her alibi is that she was with her children, it would be relevant, Gary Melton, if these are in fact her children. Okay, so this is what he tweeted. This is peak hilarity. He tweeted, 'The fact is we don't know. It hasn't been clarified by Erika Kirk, but it doesn't matter.' ... The content of the picture was irrelevant. ... It was proof that she wasn't at Fort Huachuca on the night. Gary (Gary Melton), let's just take apart that sentence.
 
 ## Verification
 
