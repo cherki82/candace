@@ -21,16 +21,14 @@ const verificationBadge = (item: IndexRecord) => {
   return `<span class="status-badge status-${escapeHtml(outcome)}">${escapeHtml(text)}</span>`
 }
 
-const siteRoot = () => {
-  const stylesheet = document.querySelector<HTMLLinkElement>(
-    'link[rel="stylesheet"][href$="index.css"]',
-  )
-  return stylesheet
-    ? new URL(stylesheet.href, location.href).pathname.replace(/\/index\.css$/, "")
-    : ""
-}
+const stylesheet = document.querySelector<HTMLLinkElement>(
+  'link[rel="stylesheet"][href$="index.css"]',
+)
+const siteRoot = stylesheet
+  ? new URL(stylesheet.href, location.href).pathname.replace(/\/index\.css$/, "")
+  : ""
 
-const localHref = (href: string) => (href.startsWith("/") ? `${siteRoot()}${href}` : href)
+const localHref = (href: string) => (href.startsWith("/") ? `${siteRoot}${href}` : href)
 
 const optionValues = (items: IndexRecord[], key: string) => {
   const counts = new Map<string, number>()
