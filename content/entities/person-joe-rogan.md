@@ -21,10 +21,10 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-joe-rogan-t-00-01-00">2026-08-19 · 00:01:28</a></strong></div>
 <div><span>Episodes</span><strong>23</strong></div>
 <div><span>Mentions</span><strong>62</strong></div>
-<div><span>Statements by</span><strong>11</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements by</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>24</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -85,6 +85,10 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -585,7 +589,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Joe Rogan (11)</strong></summary>
+<summary><strong class="section-title">Statements by Joe Rogan (12)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2)</summary>
@@ -635,10 +639,13 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 </details>
 
 <details>
-<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2)</summary>
 
 - [00:41:36](/episodes/ep-B9TyCs-6o_0.md#t-00-41-31) [✗] (Claim) ["Erika Kirk appeared in internal films or documents associated with the CIA."](/statements/statement-67cb2cb4f42b.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+- [00:43:01](/episodes/ep-B9TyCs-6o_0.md#t-00-43-00) [✓] (Citation) ["Joe Rogan said many people think Erika Kirk was Charlie Kirk's handler, while no..."](/statements/statement-12c612921b85.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Joe Rogan](/entities/person-joe-rogan.md)
 
 </details>
 
@@ -653,7 +660,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Joe Rogan (4)</strong></summary>
+<summary><strong class="section-title">Statements about Joe Rogan (5)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
@@ -675,6 +682,14 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 
 - [00:35:12](/episodes/ep-5NQyGuRYbU8.md#t-00-35-12) (Accusation) **Joe Rogan** (via quoted speech): ["Joe Rogan rhetorically asked why the account of Charlie Kirk's killing..."](/statements/statement-a92777d65883.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
+
+- [00:43:01](/episodes/ep-B9TyCs-6o_0.md#t-00-43-00) (Citation) **Joe Rogan**: ["Joe Rogan said many people think Erika Kirk was Charlie Kirk's handler..."](/statements/statement-12c612921b85.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

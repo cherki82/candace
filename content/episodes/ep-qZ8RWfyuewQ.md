@@ -1,14 +1,14 @@
 ---
 id: "qZ8RWfyuewQ"
 title: "TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330"
-description: "TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 - 117 entities, 12 events, 13 factual claims"
+description: "TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 - 117 entities, 12 events, 14 factual claims"
 published: "2026-04-29"
 youtube_url: "https://www.youtube.com/watch?v=qZ8RWfyuewQ"
 ---
 
 **Published:** 2026-04-29 | [Watch on YouTube](https://www.youtube.com/watch?v=qZ8RWfyuewQ)
 
-**Stats:** 117 entities | 12 events | 13 factual claims
+**Stats:** 117 entities | 12 events | 14 factual claims
 
 ---
 
@@ -413,7 +413,7 @@ youtube_url: "https://www.youtube.com/watch?v=qZ8RWfyuewQ"
 </details>
 
 <details>
-<summary><strong>Statements (31)</strong></summary>
+<summary><strong>Statements (33)</strong></summary>
 
 - [00:02:41](#t-00-02-41) [○] (Opinion) **Donald J. Trump**: ["Donald Trump said Candace Owens's standing had fallen, called her attack on Brig..."](/statements/statement-5b7adb4a34a5.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Brigitte Macron](/entities/person-brigitte-macron.md)
@@ -449,6 +449,8 @@ youtube_url: "https://www.youtube.com/watch?v=qZ8RWfyuewQ"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Daily Mail](/entities/org-daily-mail.md)
 - [00:42:18](#t-00-42-09) [✓] (Accusation) **Erika Kirk**: ["Erika Kirk accused journalists at the White House correspondents event of priori..."](/statements/statement-ede82364e6ba.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [White House](/entities/org-white-house.md)
+- [00:44:37](#t-00-44-26) [○] (Opinion) **Candace Owens**: ["Candace Owens said it was inconsistent for Erika Kirk to criticize journalists f..."](/statements/statement-91a1f3495208.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
 - [00:45:55](#t-00-45-38) [○] (Opinion) **Jimmy Kimmel**: ["Jimmy Kimmel joked that Melania Trump had the glow of an expected widow"](/statements/statement-6497ffdf5845.md)
   - About: [Melania Trump](/entities/person-melania-trump.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md)
 - [00:47:25](#t-00-47-25) [✓] (Accusation) **Erika Kirk**: ["Erika Kirk said Candace Owens was claiming that Kirk murdered her husband"](/statements/statement-20fd6f44d9be.md)
@@ -463,6 +465,8 @@ youtube_url: "https://www.youtube.com/watch?v=qZ8RWfyuewQ"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:55:13](#t-00-54-47) [○] (Accusation) **Anonymous Source #2 (Ep qZ8RWfyuewQ)**: ["Unnamed donors who attended the Aspen event told Candace Owens that the recordin..."](/statements/statement-2e17128d7489.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
+- [00:56:04](#t-00-55-23) [○] (Claim) **Candace Owens**: ["Candace Owens explicitly said she was not accusing Erika Kirk of shooting Charli..."](/statements/statement-78bd5a4b9cdf.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:57:00](#t-00-56-49) [○] (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of lying about a surgeon going rogue, saying Ki..."](/statements/statement-091c9677222c.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Lee Trotter](/entities/person-lee-trotter.md)
 - [00:58:23](#t-00-58-23) [○] (Opinion) **Baron Coleman**: ["Baron Coleman said widowhood does not exempt Erika Kirk from criticism and that ..."](/statements/statement-e6b2d64d7962.md)

@@ -26,9 +26,9 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 <div><span>Episodes</span><strong>20</strong></div>
 <div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -83,6 +83,10 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -289,7 +293,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Zoom Communications (3)</strong></summary>
+<summary><strong class="section-title">Statements about Zoom Communications (4)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
@@ -308,7 +312,10 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2)</summary>
+
+- [00:39:50](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33) (Claim) **Josh Hammer** (via quoted speech): ["Josh Hammer said he and several others joined a Zoom call organized by..."](/statements/statement-1017c522e44f.md)
+  - Also about: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:39:54](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33) (Claim) **Josh Hammer**: ["On the night before Charlie Kirk was killed, Josh Hammer and several o..."](/statements/statement-3f7895d04005.md)
   - Also about: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Christianity](/entities/concept-christianity.md)

@@ -25,10 +25,10 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#t-00-04-26">2026-08-11 · 00:04:55</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -49,6 +49,10 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -111,7 +115,7 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by David Freiheit (4)</strong></summary>
+<summary><strong class="section-title">Statements by David Freiheit (6)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1)</summary>
@@ -133,10 +137,16 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
+
+- [00:54:41](/episodes/ep-es7PWdFGoFI.md#t-00-54-41) [✓] (Opinion) ["Viva Frei proposed that people in Tyler Robinson’s Discord environment or anothe..."](/statements/statement-a1e46cef90d0.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:55:26](/episodes/ep-es7PWdFGoFI.md#t-00-55-26) [✓] (Claim) ["George Zinn was arrested for claiming to be the shooter on the day of the shooti..."](/statements/statement-5c86b3c214a4.md)
   - About: [George Zinn](/entities/person-george-zinn.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:55:32](/episodes/ep-es7PWdFGoFI.md#t-00-55-26) [✓] (Opinion) ["Viva Frei theorized that George Zinn learned of the plan through a Discord group..."](/statements/statement-456077877849.md)
+  - About: [George Zinn](/entities/person-george-zinn.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 

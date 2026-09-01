@@ -28,9 +28,9 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <div><span>Episodes</span><strong>74</strong></div>
 <div><span>Mentions</span><strong>358</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>85</strong></div>
+<div><span>Statements about</span><strong>87</strong></div>
 <div><span>Relationships</span><strong>43</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -193,6 +193,10 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -707,7 +711,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 **[00:18:54](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-18-54)**
 > "...lvet is to be believed, where Mikey McCoy met them all outside and Elizabeth was thereafter..."
 
-**[00:19:00](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-18-54)**
+**[00:18:54](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-18-54)**
 > "where Mikey McCoy met them all outside and Elizabeth was thereafter..."
 
 **[00:49:27](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-49-17)**
@@ -2129,7 +2133,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (85)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (87)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2247,9 +2251,12 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
-<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2)</summary>
 
 - [01:00:01](/episodes/ep-eMtjzXkQrsU.md#t-00-59-53) (Claim) **Anonymous Source #4 (Ep eMtjzXkQrsU)** (via read message): ["Michael McCoy was an absolute mess at the hospital."](/statements/statement-097658b584b9.md)
+
+- [01:00:10](/episodes/ep-eMtjzXkQrsU.md#t-00-59-53) (Opinion) **Candace Owens**: ["Candace Owens theorized that TPUSA repeatedly praised Michael McCoy af..."](/statements/statement-d20e182edc1f.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 
@@ -2265,10 +2272,13 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
-<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (2)</summary>
 
 - [00:04:09](/episodes/ep-jsqUIkszZd0.md#t-00-04-09) (Claim) **Candace Owens**: ["After Michael McCoy became Charlie Kirk's chief of staff in January 20..."](/statements/statement-fd9c61e02576.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:04:34](/episodes/ep-jsqUIkszZd0.md#t-00-04-09) (Accusation) **Candace Owens**: ["Candace Owens said the Egyptian planes appeared to track Turning Point..."](/statements/statement-52ea3304e8d6.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -2384,7 +2394,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 
 - [00:27:08](/episodes/ep-es7PWdFGoFI.md#t-00-26-36) (Claim) **Candace Owens**: ["According to call logs, the first person Mikey McCoy called after the ..."](/statements/statement-205006fadffd.md)
 
-- [00:27:08](/episodes/ep-es7PWdFGoFI.md#t-00-26-36) (Claim) **Candace Owens**: ["Mikey McCoy three-wayed Erika Kirk into the call with his wife three m..."](/statements/statement-7f1b803184a3.md)
+- [00:27:17](/episodes/ep-es7PWdFGoFI.md#t-00-27-17) (Claim) **Candace Owens**: ["Mikey McCoy three-wayed Erika Kirk into the call with his wife three m..."](/statements/statement-7f1b803184a3.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:28:02](/episodes/ep-es7PWdFGoFI.md#t-00-28-02) (Claim) **Candace Owens**: ["Candace Owens said Mikey McCoy added Erika Kirk to his call after Blak..."](/statements/statement-20ddd092b3d2.md)

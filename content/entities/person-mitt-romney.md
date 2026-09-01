@@ -23,9 +23,9 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -54,6 +54,10 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -309,7 +313,7 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mitt Romney (5)</strong></summary>
+<summary><strong class="section-title">Statements about Mitt Romney (6)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
@@ -339,10 +343,13 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 </details>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
 
 - [00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24) (Claim) **Candace Owens**: ["Benjamin Netanyahu and Mitt Romney have been close friends since they ..."](/statements/statement-487487ee59d1.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Boston Consulting Group](/entities/org-boston-consulting-group.md)
+
+- [00:34:34](/episodes/ep-rupRLXmSndU.md#t-00-34-18) (Opinion) **Candace Owens**: ["The surname Robinson appearing in the Romney family does not necessari..."](/statements/statement-918ce4879e3b.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 

@@ -1,14 +1,14 @@
 ---
 id: "eLgD5yUVbko"
 title: "Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323"
-description: "Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 - 112 entities, 25 events, 10 factual claims"
+description: "Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 - 112 entities, 25 events, 11 factual claims"
 published: "2026-04-13"
 youtube_url: "https://www.youtube.com/watch?v=eLgD5yUVbko"
 ---
 
 **Published:** 2026-04-13 | [Watch on YouTube](https://www.youtube.com/watch?v=eLgD5yUVbko)
 
-**Stats:** 112 entities | 25 events | 10 factual claims
+**Stats:** 112 entities | 25 events | 11 factual claims
 
 ---
 
@@ -360,7 +360,7 @@ youtube_url: "https://www.youtube.com/watch?v=eLgD5yUVbko"
 </details>
 
 <details>
-<summary><strong>Statements (38)</strong></summary>
+<summary><strong>Statements (42)</strong></summary>
 
 - [00:00:26](#t-00-00-26) [✓] (Opinion) **Candace Owens**: ["In Candace Owens's view, Tyler Robinson did not commit Charlie Kirk's murder."](/statements/statement-71dd61a0b518.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -398,12 +398,18 @@ youtube_url: "https://www.youtube.com/watch?v=eLgD5yUVbko"
   - About: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:31:13](#t-00-31-03) [○] (Claim) **Anonymous Source #2 (Ep 2WEHTk0Xewg)**: ["The arrest source told Candace Owens that police initially planned to pick Tyler..."](/statements/statement-cb379db076a1.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Warner Valley](/entities/gpe-warner-valley.md)
-- [00:32:13](#t-00-31-40) [◐] (Citation) **Candace Owens**: ["Candace Owens said a defense motion indicates Tyler Robinson had been Mirandized..."](/statements/statement-d2e836242bc0.md)
+- [00:31:54](#t-00-31-40) [○] (Opinion) **Candace Owens**: ["Candace Owens speculated that, if the official account was fabricated, authoriti..."](/statements/statement-b60960331870.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+- [00:32:13](#t-00-31-40) [◐] (Citation) **Candace Owens**: ["Candace Owens said she interpreted a defense motion as showing Tyler Robinson ha..."](/statements/statement-d2e836242bc0.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:35:51](#t-00-35-25) [◐] (Accusation) **Candace Owens**: ["Candace Owens argued that the FBI released suspect photos and sought public iden..."](/statements/statement-3d4ae6743ef6.md)
   - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Spencer Cox](/entities/person-spencer-cox.md)
 - [00:38:41](#t-00-38-00) [✓] (Citation) **Candace Owens**: ["Candace Owens said public records conflict on Tyler Robinson's arrival time: She..."](/statements/statement-bd303a44e87d.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Nate Brooksby](/entities/person-nate-brooksby.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
+- [00:38:59](#t-00-38-41) [○] (Opinion) **Candace Owens**: ["Candace Owens suggested the repeated claim that Tyler Robinson was caught in the..."](/statements/statement-b0495c24f455.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Freemasonry](/entities/concept-freemasonry.md)
+- [00:40:19](#t-00-39-34) [○] (Claim) **Candace Owens**: ["Candace Owens said local press had been unable to obtain footage of Tyler Robins..."](/statements/statement-c5640c435093.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:41:44](#t-00-41-37) [✓] (Claim) **Spencer Cox**: ["Spencer Cox said investigators were shown Discord messages between Tyler Robinso..."](/statements/statement-9e5da808822c.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Discord](/entities/org-discord.md)
 - [00:43:00](#t-00-42-52) [◐] (Accusation) **Candace Owens**: ["Candace Owens accused federal authorities of changing their account from Discord..."](/statements/statement-377e9550e3a3.md)
@@ -414,6 +420,8 @@ youtube_url: "https://www.youtube.com/watch?v=eLgD5yUVbko"
   - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
 - [00:45:40](#t-00-45-03) [○] (Accusation) **Anonymous Source #2 (Ep eLgD5yUVbko)**: ["Members of Lance Twiggs's family told Candace Owens that it was "completely insa..."](/statements/statement-f109089222e8.md)
   - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [FBI](/entities/org-fbi.md)
+- [00:46:42](#t-00-46-23) [○] (Opinion) **Candace Owens**: ["Candace Owens hypothesized that federal authorities could have coerced Lance Twi..."](/statements/statement-704f32bdb23f.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
 - [00:47:49](#t-00-47-08) [✓] (Citation) **Candace Owens**: ["Candace Owens cited a state filing saying the prosecution did not intend to offe..."](/statements/statement-69c641e20bd3.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
 - [00:48:33](#t-00-47-49) [○] (Accusation) **Candace Owens**: ["Candace Owens said the Tyler Robinson case is a setup and that Robinson is a pat..."](/statements/statement-1eecc57afa84.md)

@@ -4,9 +4,10 @@ description: "\"I don't believe that Tyler Robinson pulled the trigger\" — Can
 statement_id: "statement-cdeead784a48"
 speaker: "Candace Owens"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -43,7 +44,20 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified as direct attribution of Owens’s opinion. This does not establish who fired the shot and does not displace the pending criminal charge against Robinson.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](https://www.youtube.com/watch?v=es7PWdFGoFI)
+
+*Verified: 2026-08-31T23:46:11.035349*
 
 ---
 

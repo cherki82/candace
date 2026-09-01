@@ -27,7 +27,7 @@ Source: [About Flightradar24](https://www.flightradar24.com/about)
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -48,6 +48,10 @@ Source: [About Flightradar24](https://www.flightradar24.com/about)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -114,8 +118,8 @@ _No relationships extracted yet._
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>
 
-- [00:16:13](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-51) (Claim) **Candace Owens**: ["The Egyptian plane SUBTU departed on June 2nd without transponding, so..."](/statements/statement-7ca87b7af6a8.md)
-  - Also about: [SU-BTU](/entities/vehicle-su-btu.md)
+- [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09) (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27 aboard Egyptian military plane S..."](/statements/statement-9a21f286b0b6.md)
+  - Also about: [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md), [Provo](/entities/gpe-provo.md), [SU-BTU](/entities/vehicle-su-btu.md)
 
 </details>
 

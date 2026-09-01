@@ -13,8 +13,12 @@ _Type: Anonymous Sources_
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -38,10 +42,10 @@ _No relationships extracted yet._
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2)</summary>
 
-- [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51) [✓] (Accusation) ["After being hired as Alton C. Jennings's caretaker, Mitchell Manley Sr. isolated..."](/statements/statement-35de484f46fe.md)
+- [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51) [✓] (Accusation) ["Jennings's grandson alleged in the December 2024 estate petition that caretaker ..."](/statements/statement-35de484f46fe.md)
   - About: [Mitchell Manley Sr.](/entities/person-mitchell-manley-sr.md), [Alton C. Jennings](/entities/person-alton-c-jennings.md)
 
-- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) [✓] (Accusation) ["Four months before Alton C. Jennings died, his will was changed in November 2023..."](/statements/statement-c59ce538da60.md)
+- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) [✓] (Accusation) ["The December 2024 estate petition said that four months before Jennings died, a ..."](/statements/statement-c59ce538da60.md)
   - About: [Alton C. Jennings](/entities/person-alton-c-jennings.md), [Turning Point Action](/entities/org-turning-point-action.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </details>

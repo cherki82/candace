@@ -849,13 +849,13 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3)</summary>
 
 - [00:13:44](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["The Egyptian plane that flew from Provo to Delaware on the morning of ..."](/statements/statement-433bf618ec0f.md)
-  - Also about: [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [SU-BTT](/entities/vehicle-su-btt.md)
 
 - [00:14:06](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["Walid Mahmood was one of four people aboard the Egyptian plane that fl..."](/statements/statement-4e84712d393b.md)
-  - Also about: [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md)
+  - Also about: [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md), [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09) (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27 aboard Egyptian military plane S..."](/statements/statement-9a21f286b0b6.md)
-  - Also about: [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md)
+  - Also about: [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md), [FlightRadar](/entities/org-flightradar.md), [SU-BTU](/entities/vehicle-su-btu.md)
 
 </details>
 

@@ -37,7 +37,7 @@ Source: [United States v. Erpenbeck, Sixth Circuit opinion](https://www.opn.ca6.
 <p>Highest activity: <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-anthony-erpenbeck-sr-t-00-09-00">Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-anthony-erpenbeck-sr-t-00-09-00" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 11 mentions" title="2026-02-28 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#t-00-13-05" style="--pulse-height:9%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-anthony-erpenbeck-sr-t-00-13-05" style="--pulse-height:9%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-anthony-erpenbeck-sr-t-00-36-53" style="--pulse-height:18%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -45,7 +45,7 @@ Source: [United States v. Erpenbeck, Sixth Circuit opinion](https://www.opn.ca6.
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-anthony-erpenbeck-sr-t-00-09-00) | 11 |
-| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05) | 1 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-anthony-erpenbeck-sr-t-00-13-05) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-anthony-erpenbeck-sr-t-00-36-53) | 2 |
 
 </details>
@@ -70,8 +70,8 @@ Source: [United States v. Erpenbeck, Sixth Circuit opinion](https://www.opn.ca6.
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
 
-**[00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05)**
-> "And Rick (Rick Erpenbeck)'s father, Tony (William 'Tony' Erpenbeck), tried to arrange"
+**[00:13:21](/episodes/ep-jTj9Ip46r4w.md#ent-person-anthony-erpenbeck-sr-t-00-13-05)**
+> "And Rick (Rick Erpenbeck)'s father, Tony (Tony Erpenbeck), tried to arrange for the kidnapping and murder of some kids because he was upset that he was getting time in prison."
 
 </details>
 
@@ -132,7 +132,7 @@ Source: [United States v. Erpenbeck, Sixth Circuit opinion](https://www.opn.ca6.
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:08:47](/episodes/ep-cZxHqYsWRYg.md#t-00-08-29): “The family had four brothers, Bill Erpenbeck, our boy Rick (Richard Erpenbeck), Gary Erpenbeck, married to Donna Erpenbeck, who we just saw as a notary. ... And we have Jeff Erpenbeck plus their dad, Tony (Tony Erpenbeck).”
-- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05): “And Rick (Rick Erpenbeck)'s father, Tony (William 'Tony' Erpenbeck), tried to arrange for the kidnapping and murder of some kids because he was upset that he was getting time in prison.”
+- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05): “And Rick (Rick Erpenbeck)'s father, Tony (Tony Erpenbeck), tried to arrange for the kidnapping and murder of some kids because he was upset that he was getting time in prison.”
 
 </details>
 
@@ -173,7 +173,7 @@ Source: [United States v. Erpenbeck, Sixth Circuit opinion](https://www.opn.ca6.
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:08:47](/episodes/ep-cZxHqYsWRYg.md#t-00-08-29): “The family had four brothers, Bill Erpenbeck, our boy Rick (Richard Erpenbeck), Gary Erpenbeck, married to Donna Erpenbeck, who we just saw as a notary. ... And we have Jeff Erpenbeck plus their dad, Tony (Tony Erpenbeck).”
-- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05): “And Rick (Rick Erpenbeck)'s father, Tony (William 'Tony' Erpenbeck), tried to arrange for the kidnapping and murder of some kids because he was upset that he was getting time in prison.”
+- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05): “And Rick (Rick Erpenbeck)'s father, Tony (Tony Erpenbeck), tried to arrange for the kidnapping and murder of some kids because he was upset that he was getting time in prison.”
 
 </details>
 
@@ -208,7 +208,7 @@ Source: [United States v. Erpenbeck, Sixth Circuit opinion](https://www.opn.ca6.
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>
 
-- [00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05) (Accusation) **Candace Owens**: ["William 'Tony' Erpenbeck tried to arrange the kidnapping and murder of..."](/statements/statement-aa2c7efb9870.md)
+- [00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05) (Accusation) **Candace Owens**: ["Anthony 'Tony' Erpenbeck tried to arrange the kidnapping and murder of..."](/statements/statement-aa2c7efb9870.md)
 
 </details>
 

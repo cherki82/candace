@@ -21,10 +21,10 @@ Source: [About | FoldAR](https://foldar.com/about/)
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-01-18-09">2026-05-19 · 01:18:09</a></strong></div>
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>89</strong></div>
-<div><span>Statements by</span><strong>14</strong></div>
+<div><span>Statements by</span><strong>21</strong></div>
 <div><span>Statements about</span><strong>39</strong></div>
 <div><span>Relationships</span><strong>25</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -55,6 +55,10 @@ Source: [About | FoldAR](https://foldar.com/about/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -100,8 +104,8 @@ Source: [About | FoldAR](https://foldar.com/about/)
 **[00:18:55](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-18-17)**
 > "...dy) contact y'all, not Corby (Corby Hall), but did Corey (Corey Kennedy) contact y'all wit..."
 
-**[00:19:00](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-19-00)**
-> "contact y'all, not Corby (Corby Hall), but did Corby (Corby Hall) contact y'all with t..."
+**[00:18:55](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-18-17)**
+> "But I need you to at least acknowledge, did Corey (Corey Kennedy) contact y'all, not Corby (Corby Hall), but did Corey (Corey Kennedy) contact y'all with the concerns of not platforming Corby (Corby Hall) again?"
 
 **[00:20:01](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-19-43)**
 > "...I said, we can discuss Corby (Corby Hall)'s allegations."
@@ -632,10 +636,10 @@ Source: [About | FoldAR](https://foldar.com/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Corby Hall (14)</strong></summary>
+<summary><strong class="section-title">Statements by Corby Hall (21)</strong></summary>
 
 <details>
-<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (7)</summary>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (13)</summary>
 
 - [00:21:21](/episodes/ep--9MOUvgGyi4.md#t-00-21-07) [✓] (Accusation) ["Corby Hall said Victor Marx's recorded retooling prayer asked Hall to name assig..."](/statements/statement-24b076d59092.md)
   - About: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md), [Beelzebub](/entities/concept-beelzebub.md)
@@ -649,11 +653,29 @@ Source: [About | FoldAR](https://foldar.com/about/)
 - [01:55:53](/episodes/ep--9MOUvgGyi4.md#t-01-55-53) [○] (Claim) ["Corby Hall said he received an ATF trace for the FoldAR on September 10, 2025."](/statements/statement-0d4307aa00f9.md)
   - About: [Corby Hall](/entities/person-corby-hall.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [FoldAR](/entities/org-foldar.md)
 
+- [02:14:42](/episodes/ep--9MOUvgGyi4.md#t-02-14-18) [○] (Claim) ["Corby Hall said a reported .30-caliber finding would not necessarily mean .30-06..."](/statements/statement-ce3a90960125.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [02:16:01](/episodes/ep--9MOUvgGyi4.md#t-02-15-47) [○] (Opinion) ["Corby Hall explicitly described his barrel-swap assassination scenario as specul..."](/statements/statement-a41e791bc4b1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [02:16:26](/episodes/ep--9MOUvgGyi4.md#t-02-16-26) [✓] (Claim) ["Corby Hall said FoldAR's interchangeable barrel system could be used after an as..."](/statements/statement-46e8cd59ceee.md)
   - About: [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md)
 
+- [02:16:26](/episodes/ep--9MOUvgGyi4.md#t-02-16-26) [○] (Claim) ["Corby Hall said the barrel-removal mechanism in his assassination scenario was n..."](/statements/statement-735fd51223d2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [02:20:48](/episodes/ep--9MOUvgGyi4.md#t-02-20-44) [○] (Claim) ["Corby Hall said he was not a ballistics expert and characterized himself instead..."](/statements/statement-274340e4880b.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [02:22:24](/episodes/ep--9MOUvgGyi4.md#t-02-22-24) [✓] (Claim) ["Corby Hall said, conditionally and without seeing the body, that a subsonic .300..."](/statements/statement-e3f650e156dc.md)
   - About: [Corby Hall](/entities/person-corby-hall.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [02:24:47](/episodes/ep--9MOUvgGyi4.md#t-02-24-08) [○] (Claim) ["Corby Hall said a Marine sniper he consulted could envision a .30-06 Core-Lokt r..."](/statements/statement-9b6505fdee39.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [02:26:47](/episodes/ep--9MOUvgGyi4.md#t-02-26-44) [○] (Claim) ["Corby Hall said the missing FoldAR traced on September 10 used a 16-inch .223 ba..."](/statements/statement-826353a71a8f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [02:33:13](/episodes/ep--9MOUvgGyi4.md#t-02-33-13) [○] (Opinion) ["Corby Hall said Israel should be protected defensively like any other nation but..."](/statements/statement-fb5cf1ff93f9.md)
   - About: [Corby Hall](/entities/person-corby-hall.md), [Israel](/entities/gpe-israel.md)
@@ -669,7 +691,7 @@ Source: [About | FoldAR](https://foldar.com/about/)
 </details>
 
 <details>
-<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (6)</summary>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (7)</summary>
 
 - [00:18:02](/episodes/ep-jsqUIkszZd0.md#t-00-18-02) [◐] (Claim) ["Corby Hall is the inventor, founder, and sole owner of FoldAR, which produces co..."](/statements/statement-616d26308603.md)
   - About: [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md)
@@ -685,6 +707,9 @@ Source: [About | FoldAR](https://foldar.com/about/)
 
 - [00:25:29](/episodes/ep-jsqUIkszZd0.md#t-00-25-29) [✓] (Claim) ["All Things Possible Ministries purchased five FoldAR weapon systems for Lindale ..."](/statements/statement-6ff4b1d286f0.md)
   - About: [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md), [FoldAR](/entities/org-foldar.md), [Lindale High School](/entities/org-lindale-high-school.md)
+
+- [00:28:17](/episodes/ep-jsqUIkszZd0.md#t-00-28-07) [○] (Claim) ["Corby Hall said he left a long-range-configured FoldAR rifle with Victor Marx af..."](/statements/statement-3c617ac3cdfa.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [FoldAR](/entities/org-foldar.md)
 
 - [00:34:37](/episodes/ep-jsqUIkszZd0.md#t-00-34-17) [✓] (Promise) ["Corby Hall refused an investor or buyer who would not fully commit to FoldAR's m..."](/statements/statement-f4a3795af286.md)
   - About: [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md)

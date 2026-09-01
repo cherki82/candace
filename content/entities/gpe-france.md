@@ -26,9 +26,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div><span>Episodes</span><strong>56</strong></div>
 <div><span>Mentions</span><strong>349</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>42</strong></div>
+<div><span>Statements about</span><strong>43</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -155,6 +155,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -1639,7 +1643,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about France (42)</strong></summary>
+<summary><strong class="section-title">Statements about France (43)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
@@ -1745,7 +1749,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>An Open Letter To Erika Kirk | Candace Ep 303 (1)</summary>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (2)</summary>
+
+- [00:15:54](/episodes/ep-mFuno0TuuQQ.md#t-00-15-54) (Accusation) **Candace Owens**: ["Owens theorized that France, Israel, the United States, and Egypt were..."](/statements/statement-b19e929dcdf2.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md), [Egypt](/entities/gpe-egypt.md)
 
 - [00:19:00](/episodes/ep-mFuno0TuuQQ.md#t-00-18-38) (Accusation) **Candace Owens**: ["Candace Owens said, 'I think France and Israel are involved in Charlie..."](/statements/statement-ec63bfd7c4f9.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)

@@ -4,9 +4,10 @@ description: "\"Blake Neff announced via tweet around midnight that a livestream
 statement_id: "statement-0d205acc4067"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The primary recording displays and reads Neff's post scheduling the livestream for December 15 at 4 p.m. Eastern before AmericaFest, with Kirk's friends responding to Owens.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Shocking Revelation About The Egyptian Planes — Candace Ep 274](https://www.youtube.com/watch?v=ZAuuSq_j2_w)
+
+*Verified: 2026-08-31T23:24:09.890614*
 
 ---
 

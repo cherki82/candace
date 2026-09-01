@@ -1,14 +1,14 @@
 ---
 id: "i8m_6D4QGmk"
 title: "Donald Trump Has Betrayed America. | Candace Ep 308"
-description: "Donald Trump Has Betrayed America. | Candace Ep 308 - 127 entities, 6 events, 20 factual claims"
+description: "Donald Trump Has Betrayed America. | Candace Ep 308 - 127 entities, 6 events, 21 factual claims"
 published: "2026-03-09"
 youtube_url: "https://www.youtube.com/watch?v=i8m_6D4QGmk"
 ---
 
 **Published:** 2026-03-09 | [Watch on YouTube](https://www.youtube.com/watch?v=i8m_6D4QGmk)
 
-**Stats:** 127 entities | 6 events | 20 factual claims
+**Stats:** 127 entities | 6 events | 21 factual claims
 
 ---
 
@@ -378,7 +378,7 @@ youtube_url: "https://www.youtube.com/watch?v=i8m_6D4QGmk"
 
 **<a href="/timestamps/ep-i8m_6D4QGmk/t-00-53-11.md" class="timestamp-link">00:53:11</a> <a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3191" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Better yet, show me which guaranteed constitutional right you believe that <span id="ent-person-donald-trump-t-00-53-11"><a href="/entities/person-donald-trump.md">Trump</a></span> will not violate for <span id="ent-gpe-israel-t-00-53-11"><a href="/entities/gpe-israel.md">Israel</a></span>. Can you point to one? Because I feel like right now we are all being forced into the servitude of a foreign nation. That seems to be the American reality right now. So I say by all means allow the Mark Levins, the Ben Shapiros to sign their offspring up instead. Allow the <span id="ent-concept-christian-zionism-t-00-53-11"><a href="/entities/concept-christian-zionism.md">Christian Zionists</a></span>, the ones who make videos telling you how devilish it is if you don't support <a href="/entities/gpe-israel.md">Israel</a>. They believe this is messianic, that <span id="ent-person-benjamin-netanyahu-t-00-53-11"><a href="/entities/person-benjamin-netanyahu.md">Bibi</a></span> was sent to usher in <span id="ent-concept-armageddon-t-00-53-11"><a href="/entities/concept-armageddon.md">Armageddon</a></span>. That's going to bring <span id="ent-person-jesus-christ-t-00-53-11"><a href="/entities/person-jesus-christ.md">Jesus</a></span> back. ^t-00-53-11
 
-**<a href="/timestamps/ep-i8m_6D4QGmk/t-00-53-52.md" class="timestamp-link">00:53:52</a> <a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3232" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I urge you, all of you <span id="ent-concept-christianity-t-00-53-52"><a href="/entities/concept-christianity.md">Christian</a></span> <span id="ent-concept-zionism-t-00-53-52"><a href="/entities/concept-zionism.md">Zionists</a></span>, sign up for the military today. Please, you guys, stop tweeting. Stop screaming about <span id="ent-person-tucker-carlson-t-00-53-52"><a href="/entities/person-tucker-carlson.md">Tucker Carlson</a></span>. You have something much more important to do. There's a messianic mission right now. Go to <span id="ent-gpe-iran-t-00-53-52"><a href="/entities/gpe-iran.md">Iran</a></span>. Go remove the thousands of dead, innocent <span id="ent-concept-palestinians-t-00-53-52"><a href="/entities/concept-palestinians.md">Palestinian</a></span> children from beneath the rubble in <span id="ent-gpe-gaza-t-00-53-52"><a href="/entities/gpe-gaza.md">Gaza</a></span> so that <span id="ent-person-donald-trump-t-00-53-52"><a href="/entities/person-donald-trump.md">Trump</a></span> can build his hotel. I want you guys to be the change that you wish to see in the world. You've got this. The <span id="ent-concept-goyim-t-00-53-52"><a href="/entities/concept-goyim.md">goyim</a></span> must stand down because you guys have the vision. You have the understanding. It's biblical. Go for it. You can do this without us. ^t-00-53-52
+**<a href="/timestamps/ep-i8m_6D4QGmk/t-00-53-52.md" class="timestamp-link">00:53:52</a> <a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3232" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I urge you, all of you <span id="ent-concept-christian-zionism-t-00-53-52"><a href="/entities/concept-christian-zionism.md">Christian Zionists</a></span>, sign up for the military today. Please, you guys, stop tweeting. Stop screaming about <span id="ent-person-tucker-carlson-t-00-53-52"><a href="/entities/person-tucker-carlson.md">Tucker Carlson</a></span>. You have something much more important to do. There's a messianic mission right now. Go to <span id="ent-gpe-iran-t-00-53-52"><a href="/entities/gpe-iran.md">Iran</a></span>. Go remove the thousands of dead, innocent <span id="ent-concept-palestinians-t-00-53-52"><a href="/entities/concept-palestinians.md">Palestinian</a></span> children from beneath the rubble in <span id="ent-gpe-gaza-t-00-53-52"><a href="/entities/gpe-gaza.md">Gaza</a></span> so that <span id="ent-person-donald-trump-t-00-53-52"><a href="/entities/person-donald-trump.md">Trump</a></span> can build his hotel. I want you guys to be the change that you wish to see in the world. You've got this. The <span id="ent-concept-goyim-t-00-53-52"><a href="/entities/concept-goyim.md">goyim</a></span> must stand down because you guys have the vision. You have the understanding. It's biblical. Go for it. You can do this without us. ^t-00-53-52
 
 **<a href="/timestamps/ep-i8m_6D4QGmk/t-00-54-33.md" class="timestamp-link">00:54:33</a> <a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3273" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** We'll be right back after a break. All right, you guys, way before the food industry failed us and started making low quality foods and hiding behind nutrition labels, one thing was always true. Organic fruits and vegetables are the superfoods that your body needs. Fast food tastes great for like 20 seconds, but the junk and inflammation that follows is trashing your system. It keeps you tired and weak. That's why you need to check out fieldofgreens.com. <span id="ent-org-field-of-greens-t-00-54-33"><a href="/entities/org-field-of-greens.md">Field of Greens</a></span> is 100% organic fruits and vegetables that are dehydrated and... and ground into a fine powder. Every ingredient was selected to support critical functions throughout your body, like your liver, kidneys, heart, and lungs. This is the easiest health upgrade that you will make. Just one scoop a day, and <a href="/entities/org-field-of-greens.md">Field of Greens</a> promises your doctor will notice your improved health or you'll get your money back. ^t-00-54-33
 
@@ -404,7 +404,7 @@ youtube_url: "https://www.youtube.com/watch?v=i8m_6D4QGmk"
 
 **<a href="/timestamps/ep-i8m_6D4QGmk/t-01-01-30.md" class="timestamp-link">01:01:30</a> <a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3690" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** of an alleged, now billion-dollar company. I mean, again, they think we have no common sense—that you really can just be a single mom and somehow run an organization and say, no, my children are happy because they're at the office. They're at the office. This is exactly where toddlers love to be. They love to just be running around an office. Intuition Jen writes, <span id="ent-person-candace-owens-t-01-01-30"><a href="/entities/person-candace-owens.md">Candace</a></span>, great job. <span id="ent-concept-kabbalah-t-01-01-30"><a href="/entities/concept-kabbalah.md">Kabbalah</a></span>, <span id="ent-concept-satanism-t-01-01-30"><a href="/entities/concept-satanism.md">Satanism</a></span>—there are many commonalities. Yes, there are indeed. They are attempting to bring their <span id="ent-concept-messianism-t-01-01-30"><a href="/entities/concept-messianism.md">Messiah</a></span> back. Who is that exactly? We don't know what we know. Yeah, I mean, we are looking at the synagogue of <span id="ent-concept-satan-t-01-01-30"><a href="/entities/concept-satan.md">Satan</a></span>. There's no question. I mean, look up the amount of blood sacrifices required. ^t-01-01-30
 
-**<a href="/timestamps/ep-i8m_6D4QGmk/t-01-02-09.md" class="timestamp-link">01:02:09</a> <a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3729" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** How can anybody be under any delusions? This is—it's very clear what they want and what they are willing to do to get it. That's more important, what they are willing to do to get it. And this is why you have to learn about <span id="ent-concept-frankism-t-01-02-09"><a href="/entities/concept-frankism.md">Frankism</a></span>. You've got to learn about <span id="ent-person-jacob-frank-t-01-02-09"><a href="/entities/person-jacob-frank.md">Jacob Frank</a></span>. You have to learn that similarly you had this movement of people, similar to the <span id="ent-concept-christianity-t-01-02-09"><a href="/entities/concept-christianity.md">Christian</a></span> <span id="ent-concept-zionism-t-01-02-09"><a href="/entities/concept-zionism.md">Zionists</a></span>, that are, like, unhinged. Look at <span id="ent-person-paula-white-cain-t-01-02-09"><a href="/entities/person-paula-white-cain.md">Paula White</a></span>, the pastors that are surrounding <span id="ent-person-donald-trump-t-01-02-09"><a href="/entities/person-donald-trump.md">Trump</a></span>, that they believed in this messianic mission. And what he was—a mentally disturbed psychopath—is what <a href="/entities/person-jacob-frank.md">Jacob Frank</a> was. And they followed him anyway. ^t-01-02-09
+**<a href="/timestamps/ep-i8m_6D4QGmk/t-01-02-09.md" class="timestamp-link">01:02:09</a> <a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3729" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** How can anybody be under any delusions? This is—it's very clear what they want and what they are willing to do to get it. That's more important, what they are willing to do to get it. And this is why you have to learn about <span id="ent-concept-frankism-t-01-02-09"><a href="/entities/concept-frankism.md">Frankism</a></span>. You've got to learn about <span id="ent-person-jacob-frank-t-01-02-09"><a href="/entities/person-jacob-frank.md">Jacob Frank</a></span>. You have to learn that similarly you had this movement of people, similar to the <span id="ent-concept-christian-zionism-t-01-02-09"><a href="/entities/concept-christian-zionism.md">Christian Zionists</a></span>, that are, like, unhinged. Look at <span id="ent-person-paula-white-cain-t-01-02-09"><a href="/entities/person-paula-white-cain.md">Paula White</a></span>, the pastors that are surrounding <span id="ent-person-donald-trump-t-01-02-09"><a href="/entities/person-donald-trump.md">Trump</a></span>, that they believed in this messianic mission. And what he was—a mentally disturbed psychopath—is what <a href="/entities/person-jacob-frank.md">Jacob Frank</a> was. And they followed him anyway. ^t-01-02-09
 
 **<a href="/timestamps/ep-i8m_6D4QGmk/t-01-02-44.md" class="timestamp-link">01:02:44</a> <a href="https://www.youtube.com/watch?v=i8m_6D4QGmk&t=3764" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** They thought he was a <span id="ent-concept-messianism-t-01-02-44"><a href="/entities/concept-messianism.md">Messiah</a></span>. That's what I see when I look at the people who are unflinchingly following <span id="ent-person-benjamin-netanyahu-t-01-02-44"><a href="/entities/person-benjamin-netanyahu.md">Bibi</a></span>, who can look at what happened in <span id="ent-gpe-gaza-t-01-02-44"><a href="/entities/gpe-gaza.md">Gaza</a></span> and go, this was by God's design. Who is the God that you are referring to? What God requires sacrifice of children in that manner? At least of all for a hotel. For property that was promised to a lot of these pastors, by the way, property in <a href="/entities/gpe-gaza.md">Gaza</a>, they've already got like homes that are promised to them to convince their churches to support this, just so you know. ^t-01-02-44
 
@@ -468,7 +468,7 @@ youtube_url: "https://www.youtube.com/watch?v=i8m_6D4QGmk"
 </details>
 
 <details>
-<summary><strong>Statements (68)</strong></summary>
+<summary><strong>Statements (72)</strong></summary>
 
 - [00:00:19](#t-00-00-00) [◐] (Accusation) **Candace Owens**: ["Perhaps this entire war has been engineered by Israel."](/statements/statement-46ccdc1038d7.md)
   - About: [Israel](/entities/gpe-israel.md)
@@ -476,10 +476,10 @@ youtube_url: "https://www.youtube.com/watch?v=i8m_6D4QGmk"
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
 - [00:00:29](#t-00-00-00) [○] (Accusation) **Candace Owens**: ["Donald Trump is very clearly not the commander of the armed forces; Benjamin Net..."](/statements/statement-141107d3fbba.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Miriam Adelson](/entities/person-miriam-adelson.md)
-- [00:00:38](#t-00-00-38) [○] (Opinion) **Candace Owens**: ["Charlie Kirk was the first casualty of the war in Iran."](/statements/statement-2631d93a742e.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
-- [00:00:49](#t-00-00-38) [○] (Accusation) **Candace Owens**: ["Erika Kirk's desire was to become president one day."](/statements/statement-3702965a666e.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:00:38](#t-00-00-38) [✓] (Opinion) **Candace Owens**: ["Candace Owens believes Charlie Kirk was the first casualty of the Iran war and w..."](/statements/statement-2631d93a742e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md), [Israel](/entities/gpe-israel.md)
+- [00:00:49](#t-00-00-38) [✓] (Accusation) **Candace Owens**: ["Candace Owens alleged that Erika Kirk's desire and ultimate goal was to become p..."](/statements/statement-3702965a666e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [White House](/entities/org-white-house.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:01:49](#t-00-01-17) [○] (Opinion) **Tucker Carlson**: ["Pray that the spell breaks and the world is saved."](/statements/statement-58df76d9bd31.md)
 - [00:04:28](#t-00-04-28) [✓] (Claim) **Candace Owens**: ["In a 1974 performance, Marina Abramovic used a burning petroleum-drenched pentag..."](/statements/statement-acffb37370a8.md)
   - About: [Marina Abramović](/entities/person-marina-abramovic.md)
@@ -489,6 +489,8 @@ youtube_url: "https://www.youtube.com/watch?v=i8m_6D4QGmk"
   - About: [Freemasonry](/entities/concept-freemasonry.md)
 - [00:07:44](#t-00-07-29) [○] (Claim) **Candace Owens**: ["Charlie Kirk said he knew from when he signed on with Turning Point USA that he ..."](/statements/statement-688048a715c1.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:10:40](#t-00-10-11) [✓] (Citation) **Candace Owens**: ["Candace Owens said a book she described as a Freemason Bible placed sacrifice or..."](/statements/statement-52e6d4d2436c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Freemasons](/entities/org-freemasons.md)
 - [00:11:14](#t-00-10-54) [○] (Accusation) **Candace Owens**: ["B'nai B'rith has been running the United States since at least the Civil War."](/statements/statement-18e6748b46fd.md)
   - About: [B'nai B'rith International](/entities/org-bnai-brith-international.md), [United States](/entities/gpe-united-states.md)
 - [00:12:04](#t-00-11-29) [◐] (Claim) **Candace Owens**: ["The Star of David is an occult symbol meant to represent King Solomon's ring."](/statements/statement-ac4a1ce56c1f.md)
@@ -499,6 +501,10 @@ youtube_url: "https://www.youtube.com/watch?v=i8m_6D4QGmk"
   - About: [Freemasonry](/entities/concept-freemasonry.md), [King Solomon](/entities/person-king-solomon.md)
 - [00:13:48](#t-00-13-39) [◐] (Claim) **Candace Owens**: ["Aleister Crowley created an entire religion, books, and pentacles meant to summo..."](/statements/statement-bdcdf1a2d99a.md)
   - About: [Aleister Crowley](/entities/person-aleister-crowley.md)
+- [00:14:33](#t-00-14-24) [✓] (Accusation) **Candace Owens**: ["Candace Owens said the manner and broadcast of Charlie Kirk's death were intende..."](/statements/statement-8e46b4fdcd06.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Psychological operations](/entities/concept-psychological-operations.md)
+- [00:14:48](#t-00-14-24) [✓] (Claim) **Candace Owens**: ["Candace Owens explicitly said Chad Ripperger's discussion of Satanism and 'revea..."](/statements/statement-63ae3ac18abd.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Chad Ripperger](/entities/person-chad-ripperger.md)
 - [00:15:21](#t-00-15-21) [○] (Claim) **Chad Ripperger**: ["The technical term for Satanists revealing what they are doing is 'the revealing..."](/statements/statement-58311b2e865c.md)
   - About: [Satanism](/entities/concept-satanism.md)
 - [00:15:42](#t-00-15-28) [○] (Accusation) **Chad Ripperger**: ["Satanists and Freemasons tend to reveal themselves even while remaining hidden."](/statements/statement-d4236742bc46.md)
@@ -509,16 +515,12 @@ youtube_url: "https://www.youtube.com/watch?v=i8m_6D4QGmk"
   - About: [Freemasonry](/entities/concept-freemasonry.md)
 - [00:18:09](#t-00-17-51) [○] (Accusation) **Candace Owens**: ["Kash Patel's repeated emphasis on 33 hours was not random and appeared to be sig..."](/statements/statement-e2ff502258ee.md)
   - About: [Kash Patel](/entities/person-kash-patel.md)
-- [00:19:22](#t-00-19-04) [○] (Accusation) **Candace Owens**: ["There was an ultimate goal of raising Erika Kirk's political profile as a potent..."](/statements/statement-e7bf77417bb7.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:20:13](#t-00-19-59) [✓] (Claim) **Tyler Bowyer**: ["Charlie Kirk firmly believed Erika Kirk was going to be president someday."](/statements/statement-db1be83b266f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:21:30](#t-00-21-30) [○] (Opinion) **Frank Turek**: ["Erika Kirk would be an amazing president someday."](/statements/statement-8cd08d3b9686.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:22:21](#t-00-22-21) [○] (Prediction) **Michael McCoy**: ["Maybe there still will be a Vance-Kirk presidential ticket."](/statements/statement-8f26986bfc02.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [JD Vance](/entities/person-jd-vance.md)
-- [00:23:09](#t-00-22-33) [○] (Accusation) **Candace Owens**: ["Candace Owens said she believed Erika Kirk’s ultimate goal was the White House."](/statements/statement-a8dfd05f6af8.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [White House](/entities/org-white-house.md)
 - [00:23:14](#t-00-23-14) [◐] (Accusation) **Candace Owens**: ["After Charlie Kirk's assassination, Erika Kirk offered a raise to security guard..."](/statements/statement-1a48dd9e231a.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Dan Flood](/entities/person-dan-flood.md), [The New York Times](/entities/org-the-new-york-times.md)
 - [00:23:55](#t-00-23-14) [✓] (Claim) **Candace Owens**: ["Erika Kirk told a New York Times journalist that the least traumatizing part was..."](/statements/statement-cc8c1ac2a8de.md)
@@ -527,6 +529,10 @@ youtube_url: "https://www.youtube.com/watch?v=i8m_6D4QGmk"
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:24:54](#t-00-24-54) [◐] (Accusation) **Candace Owens**: ["Erika Kirk helped validate implausible parts of the narrative about Tyler Robins..."](/statements/statement-c7b381cc29f5.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:28:11](#t-00-27-42) [✓] (Accusation) **Tim Dillon**: ["In a comedic monologue, Tim Dillon speculated that Erika Kirk was a Mossad handl..."](/statements/statement-5ceb1e6aaa9f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Mossad](/entities/org-mossad.md)
+- [00:29:42](#t-00-29-42) [✓] (Opinion) **Candace Owens**: ["Candace Owens endorsed Tim Dillon's handler monologue as correct and said the pu..."](/statements/statement-7787055883d5.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:33:54](#t-00-33-30) [○] (Accusation) **Candace Owens**: ["After Charlie Kirk was assassinated, Donald Trump devoted at most three tweets t..."](/statements/statement-d7b571230e71.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 - [00:34:41](#t-00-34-41) [○] (Opinion) **Candace Owens**: ["Donald Trump has loyalty to no one but himself."](/statements/statement-e675a9144e30.md)
@@ -555,6 +561,8 @@ youtube_url: "https://www.youtube.com/watch?v=i8m_6D4QGmk"
   - About: [Israel](/entities/gpe-israel.md), [Lebanon](/entities/gpe-lebanon.md)
 - [00:41:28](#t-00-41-20) [◐] (Accusation) **Candace Owens**: ["Benjamin Netanyahu instructed Trump to bomb Iran, initially limiting the attack ..."](/statements/statement-e68e8a88e688.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+- [00:41:49](#t-00-41-20) [✓] (Accusation) **Candace Owens**: ["Candace Owens said Charlie Kirk was an obstacle who was removed before the Unite..."](/statements/statement-5c6ed3a7f13e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md), [Israel](/entities/gpe-israel.md)
 - [00:42:00](#t-00-41-20) [✓] (Claim) **Candace Owens**: ["The United States is preemptively bombing Iran."](/statements/statement-6e31f3a4c1f9.md)
   - About: [United States](/entities/gpe-united-states.md), [Iran](/entities/gpe-iran.md)
 - [00:42:27](#t-00-42-27) [✓] (Claim) **Marco Rubio**: ["The United States knew Israeli action would precipitate an attack on American fo..."](/statements/statement-d70f814454fc.md)

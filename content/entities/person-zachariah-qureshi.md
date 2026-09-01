@@ -26,9 +26,9 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -53,6 +53,10 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -265,7 +269,7 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Zachariah Qureshi (6)</strong></summary>
+<summary><strong class="section-title">Statements about Zachariah Qureshi (7)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
@@ -284,7 +288,7 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 </details>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4)</summary>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (5)</summary>
 
 - [00:08:09](/episodes/ep-rupRLXmSndU.md#t-00-07-43) (Claim) **Kash Patel** (via quoted post): ["The subject for the shooting that killed Charlie Kirk was in custody."](/statements/statement-a36d199d39d4.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
@@ -294,6 +298,9 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 
 - [00:09:45](/episodes/ep-rupRLXmSndU.md#t-00-09-38) (Claim) **Candace Owens**: ["Ahmed Qureshi, Zachariah Qureshi's father, is an 06 in the U.S. Navy a..."](/statements/statement-d5a489fc7771.md)
   - Also about: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [United States Navy](/entities/org-united-states-navy.md)
+
+- [00:17:20](/episodes/ep-rupRLXmSndU.md#t-00-16-47) (Opinion) **Candace Owens**: ["The Henderson and Qureshi families' shared Keller address might reflec..."](/statements/statement-4d05c49f26a8.md)
+  - Also about: [Connor Henderson](/entities/person-connor-henderson.md)
 
 - [00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00) (Claim) **Candace Owens**: ["Connor Henderson and Zachariah Qureshi attended BYU at the same time a..."](/statements/statement-869a9611ac9f.md)
   - Also about: [Connor Henderson](/entities/person-connor-henderson.md), [Brigham Young University](/entities/org-brigham-young-university.md), [BILT Incorporated](/entities/org-bilt-incorporated.md)

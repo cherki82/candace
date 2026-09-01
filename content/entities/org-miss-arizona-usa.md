@@ -5,7 +5,6 @@ id: "org-miss-arizona-usa"
 type: "ORG"
 aliases:
   - "Miss Arizona USA pageant"
-  - "Miss Arizona"
 categories:
   - "beauty pageants"
   - "Arizona"
@@ -13,7 +12,7 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** Miss Arizona USA pageant, Miss Arizona
+**Also known as:** Miss Arizona USA pageant
 
 **Categories:** beauty pageants, Arizona
 
@@ -22,8 +21,8 @@ _Type: Organizations_
 Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-miss-arizona-usa-t-00-28-51">2026-01-06 · 00:29:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-miss-arizona-usa-t-00-42-45">2026-06-23 · 00:42:56</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#t-00-28-51">2026-01-06 · 00:29:20</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#t-00-42-45">2026-06-23 · 00:42:56</a></strong></div>
 <div><span>Episodes</span><strong>10</strong></div>
 <div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -34,33 +33,33 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-24-29">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-29-16">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-miss-arizona-usa-t-00-28-51" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#t-00-28-51" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-miss-arizona-usa-t-00-08-31" style="--pulse-height:75%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-miss-arizona-usa-t-00-48-23" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-miss-arizona-usa-t-00-32-26" style="--pulse-height:25%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-miss-arizona-usa-t-00-15-23" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-24-29" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#t-00-15-23" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-29-16" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-miss-arizona-usa-t-00-19-45" style="--pulse-height:25%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-miss-arizona-usa-t-00-12-32" style="--pulse-height:25%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-miss-arizona-usa-t-00-20-20" style="--pulse-height:25%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-miss-arizona-usa-t-00-39-22" style="--pulse-height:50%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#t-00-20-20" style="--pulse-height:25%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#t-00-39-22" style="--pulse-height:50%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-miss-arizona-usa-t-00-28-51) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-miss-arizona-usa-t-00-08-31) | 3 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-miss-arizona-usa-t-00-48-23) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-miss-arizona-usa-t-00-32-26) | 1 |
-| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-miss-arizona-usa-t-00-15-23) | 2 |
-| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-24-29) | 4 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#t-00-15-23) | 2 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-29-16) | 4 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-miss-arizona-usa-t-00-19-45) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-miss-arizona-usa-t-00-12-32) | 1 |
-| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-miss-arizona-usa-t-00-20-20) | 1 |
-| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-miss-arizona-usa-t-00-39-22) | 2 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#t-00-20-20) | 1 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#t-00-39-22) | 2 |
 
 </details>
 </section>
@@ -73,10 +72,10 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2 mentions)</summary>
 
-**[00:39:57](/episodes/ep-9CuC1yf8-PU.md#ent-org-miss-arizona-usa-t-00-39-22)**
+**[00:39:57](/episodes/ep-9CuC1yf8-PU.md#t-00-39-22)**
 > "When Erika (Erika Kirk) was Miss Arizona."
 
-**[00:42:56](/episodes/ep-9CuC1yf8-PU.md#ent-org-miss-arizona-usa-t-00-42-45)**
+**[00:42:56](/episodes/ep-9CuC1yf8-PU.md#t-00-42-45)**
 > "...ika Kirk) that existed during Miss Arizona years doesn't exist anymore."
 
 </details>
@@ -84,7 +83,7 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
 
-**[00:20:49](/episodes/ep-xi8SYJTUXPM.md#ent-org-miss-arizona-usa-t-00-20-20)**
+**[00:20:49](/episodes/ep-xi8SYJTUXPM.md#t-00-20-20)**
 > "...ions as well. And look, she's Miss Arizona, right?"
 
 </details>
@@ -108,13 +107,13 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (4 mentions)</summary>
 
-**[00:24:36](/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-24-29)**
+**[00:24:36](/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-29-16)**
 > "...s her come up, Erika wins the Miss Arizona competition in November. OK, that makes her Miss ..."
 
-**[00:24:48](/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-24-29)**
+**[00:24:48](/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-29-16)**
 > "... win in 2011 and then you are Miss Arizona for 2012 for those of you who know nothing about ..."
 
-**[00:25:52](/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-25-52)**
+**[00:25:52](/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-29-16)**
 > "that begins her year as Miss Arizona. In February, Everyday Heroes Like You begins wha..."
 
 **[00:29:16](/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-29-16)**
@@ -125,10 +124,10 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2 mentions)</summary>
 
-**[00:15:23](/episodes/ep-jTj9Ip46r4w.md#ent-org-miss-arizona-usa-t-00-15-23)**
+**[00:15:23](/episodes/ep-jTj9Ip46r4w.md#t-00-15-23)**
 > "potential pathway for her to win Miss Arizona in 2012"
 
-**[00:43:59](/episodes/ep-jTj9Ip46r4w.md#ent-org-miss-arizona-usa-t-00-43-59)**
+**[00:43:59](/episodes/ep-jTj9Ip46r4w.md#t-00-43-59)**
 > "like with Miss Arizona I was so done with that world"
 
 </details>
@@ -158,7 +157,7 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 **[00:08:44](/episodes/ep-9naMwS0kMBE.md#ent-org-miss-arizona-usa-t-00-08-31)**
 > "...back to Erika Kirk's reign as Miss Arizona USA and read her social media, including interesting ..."
 
-**[00:09:30](/episodes/ep-9naMwS0kMBE.md#ent-org-miss-arizona-usa-t-00-09-01)**
+**[00:09:30](/episodes/ep-9naMwS0kMBE.md#ent-org-miss-arizona-usa-t-00-08-31)**
 > "... Erika was it was her year as Miss Arizona, somebody just randomly tweeted at her like, why ..."
 
 </details>
@@ -166,7 +165,7 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:29:20](/episodes/ep-HYn0P-P1wUw.md#ent-org-miss-arizona-usa-t-00-28-51)**
+**[00:29:20](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51)**
 > "... a call from Miss Erika Kirk. Miss Arizona 2012. I just want to help, she said."
 
 </details>

@@ -28,10 +28,10 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-brigitte-macron-t-00-23-05">2026-08-19 · 00:23:21</a></strong></div>
 <div><span>Episodes</span><strong>66</strong></div>
 <div><span>Mentions</span><strong>255</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>48</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>49</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -178,6 +178,10 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -1441,19 +1445,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Brigitte Macron (1)</strong></summary>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1)</summary>
-
-- [00:37:32](/episodes/ep-tB5SXXmd9vU.md#t-00-37-15) [○] (Opinion) ["I'm pretty convinced that Brigitte Macron has been involved, on the basis of my ..."](/statements/statement-6c37c0f1f852.md)
-
-</details>
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Statements about Brigitte Macron (48)</strong></summary>
+<summary><strong class="section-title">Statements about Brigitte Macron (49)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
@@ -1597,6 +1589,14 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 
 - [00:12:04](/episodes/ep-a-e7HC6SeK8.md#t-00-11-53) (Claim) **Candace Owens**: ["Stacey Sheridan's registered agent for Cloverstone Ventures is in the ..."](/statements/statement-15658318a1f2.md)
   - Also about: [Wilmington](/entities/gpe-wilmington.md), [Cloverstone Ventures](/entities/org-cloverstone-ventures.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md)
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1)</summary>
+
+- [00:37:32](/episodes/ep-tB5SXXmd9vU.md#t-00-37-15) (Opinion) **Candace Owens**: ["I'm pretty convinced that Brigitte Macron has been involved, on the ba..."](/statements/statement-6c37c0f1f852.md)
+  - Also about: [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md)
 
 </details>
 

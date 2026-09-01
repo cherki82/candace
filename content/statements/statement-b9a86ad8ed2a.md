@@ -1,6 +1,6 @@
 ---
 title: "Diligent Denison claimed that Mark Amodei was absent from th..."
-description: "\"Diligent Denison claimed that Mark Amodei was absent from the first two September 9 roll calls and first appeared at the third roll call in mid-aftern...\" — Diligent Denison (X account; identity unverified)"
+description: "\"Diligent Denison claimed that Mark Amodei was absent from the first two September 9 committee roll calls and first appeared on the third.\" — Diligent Denison (X account; identity unverified)"
 statement_id: "statement-b9a86ad8ed2a"
 speaker: "Diligent Denison (X account; identity unverified)"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Diligent Denison claimed that Mark Amodei was absent from the first two September 9 roll calls and first appeared at the third roll call in mid-afternoon
+> Diligent Denison claimed that Mark Amodei was absent from the first two September 9 committee roll calls and first appeared on the third.
 
 ## Attribution
 

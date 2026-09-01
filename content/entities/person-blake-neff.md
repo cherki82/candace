@@ -27,10 +27,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-blake-neff-t-00-24-21">2026-08-21 · 00:24:21</a></strong></div>
 <div><span>Episodes</span><strong>72</strong></div>
 <div><span>Mentions</span><strong>371</strong></div>
-<div><span>Statements by</span><strong>48</strong></div>
-<div><span>Statements about</span><strong>50</strong></div>
+<div><span>Statements by</span><strong>45</strong></div>
+<div><span>Statements about</span><strong>52</strong></div>
 <div><span>Relationships</span><strong>41</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -189,6 +189,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -2115,7 +2119,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (48)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (45)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2)</summary>
@@ -2307,19 +2311,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5)</summary>
-
-- [00:05:38](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) [○] (Claim) ["I made the initial statement at the request of Erika. All of this has been at th..."](/statements/statement-5d921b2d7320.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2)</summary>
 
 - [00:05:42](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) [✓] (Claim) ["The initial TPUSA response and subsequent plan concerning Candace Owens were mad..."](/statements/statement-f833b3c11253.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Blake Neff](/entities/person-blake-neff.md), [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:05:45](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) [○] (Claim) ["I made it at the request of Erika"](/statements/statement-b869c1fdd88e.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:05:47](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) [○] (Claim) ["All of this has been at the direction and approval of Erika because she heads th..."](/statements/statement-4c707e5d4f97.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:46:42](/episodes/ep-DqGNvi36ol8.md#t-00-46-35) [○] (Accusation) ["We are not booking a guest and never said that we were. We are delivering a resp..."](/statements/statement-201657009b78.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -2364,7 +2359,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (50)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (52)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2524,6 +2519,14 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1)</summary>
+
+- [00:12:12](/episodes/ep-KpxIBWkNsSs.md#t-00-12-12) (Opinion) **Candace Owens**: ["Candace Owens said that if Erika Kirk, Blake Neff, and Andrew Kolvet k..."](/statements/statement-19ec6a3de1d8.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
+
+</details>
+
+<details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>
 
 - [00:57:36](/episodes/ep-k1b1NDCrNFs.md#t-00-57-36) (Claim) **Anonymous Source #3 (Ep k1b1NDCrNFs)** (via quoted speech): ["Blake Neff was writing Erika Kirk's speech, according to people with d..."](/statements/statement-f60df02e4b61.md)
@@ -2536,6 +2539,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 - [00:33:21](/episodes/ep-xi8SYJTUXPM.md#t-00-33-21) (Accusation) **Candace Owens**: ["Could you actually respond to me asserting that your own donors think ..."](/statements/statement-1e2202795a4e.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
+
+- [00:33:18](/episodes/ep-B9TyCs-6o_0.md#t-00-33-09) (Opinion) **Candace Owens**: ["Candace Owens inferred from Blake Neff saying 'that phone' that he may..."](/statements/statement-308484f93c57.md)
 
 </details>
 

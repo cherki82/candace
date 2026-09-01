@@ -1,14 +1,14 @@
 ---
 id: "es7PWdFGoFI"
 title: "Erika And I Sat Down. Here’s What Happened. | Candace Ep 280"
-description: "Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 - 106 entities, 9 events, 38 factual claims"
+description: "Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 - 106 entities, 9 events, 40 factual claims"
 published: "2025-12-16"
 youtube_url: "https://www.youtube.com/watch?v=es7PWdFGoFI"
 ---
 
 **Published:** 2025-12-16 | [Watch on YouTube](https://www.youtube.com/watch?v=es7PWdFGoFI)
 
-**Stats:** 106 entities | 9 events | 38 factual claims
+**Stats:** 106 entities | 9 events | 40 factual claims
 
 ---
 
@@ -328,7 +328,7 @@ youtube_url: "https://www.youtube.com/watch?v=es7PWdFGoFI"
 </details>
 
 <details>
-<summary><strong>Statements (49)</strong></summary>
+<summary><strong>Statements (55)</strong></summary>
 
 - [00:02:04](#t-00-02-04) [○] (Claim) **Candace Owens**: ["Candace Owens said her private meeting lasted four hours and 30 minutes with no ..."](/statements/statement-a00acb5ab7d2.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [George Farmer](/entities/person-george-farmer.md)
@@ -340,9 +340,11 @@ youtube_url: "https://www.youtube.com/watch?v=es7PWdFGoFI"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:06:34](#t-00-06-08) [○] (Claim) **Anonymous Source #1 (Ep es7PWdFGoFI)**: ["An unnamed person with access to Dan Flood's communications reportedly told Cand..."](/statements/statement-f4a80abe9a39.md)
   - About: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:06:43](#t-00-06-43) [○] (Claim) **Candace Owens**: ["Candace Owens reported that Erika Kirk had Charlie Kirk's phone and had been che..."](/statements/statement-103173d3a593.md)
+- [00:06:43](#t-00-06-43) [✓] (Claim) **Candace Owens**: ["Candace Owens reported that Erika Kirk had Charlie Kirk's phone and had been che..."](/statements/statement-103173d3a593.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:07:21](#t-00-07-21) [○] (Claim) **Candace Owens**: ["Candace Owens said meeting participants clarified that Dan Flood's message read,..."](/statements/statement-3e07e4f778ff.md)
+- [00:06:43](#t-00-06-43) [✓] (Claim) **Candace Owens**: ["Owens said Erika Kirk and Justin Streiff confirmed during their private meeting ..."](/statements/statement-f898b738a1f2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+- [00:07:21](#t-00-07-21) [✓] (Claim) **Candace Owens**: ["Candace Owens said meeting participants clarified that Dan Flood's message read,..."](/statements/statement-3e07e4f778ff.md)
   - About: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:08:12](#t-00-07-57) [○] (Claim) **Candace Owens**: ["Erika Kirk said the reason she didn't ask Candace to stop investigating in the b..."](/statements/statement-1ec2922d6566.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -360,13 +362,13 @@ youtube_url: "https://www.youtube.com/watch?v=es7PWdFGoFI"
   - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 - [00:12:48](#t-00-12-34) [✓] (Claim) **Andrew Kolvet**: ["Andrew Kolvet wrote on Twitter that he spoke with a surgeon who allegedly said C..."](/statements/statement-29b7a35a5f09.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:14:10](#t-00-13-53) [○] (Claim) **Candace Owens**: ["Candace Owens said Erika Kirk and Justin Streiff confirmed that Andrew Kolvet sp..."](/statements/statement-9d76e2356eb6.md)
+- [00:14:10](#t-00-13-53) [✓] (Claim) **Candace Owens**: ["Candace Owens said Erika Kirk and Justin Streiff confirmed that Andrew Kolvet sp..."](/statements/statement-9d76e2356eb6.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 - [00:15:13](#t-00-15-06) [○] (Claim) **Candace Owens**: ["Candace Owens said she believed Turning Point USA's assertion that it did not ap..."](/statements/statement-191d6deb062d.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:17:56](#t-00-17-36) [◐] (Claim) **Candace Owens**: ["Candace Owens said a Turning Point USA lawyer told her that Turning Point USA an..."](/statements/statement-ca6b4e9ab8ae.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [00:20:25](#t-00-20-25) [○] (Opinion) **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-cdeead784a48.md)
+- [00:20:25](#t-00-20-25) [✓] (Opinion) **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-cdeead784a48.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:21:29](#t-00-21-09) [○] (Claim) **Candace Owens**: ["Utah state investigators have not called the witness who filmed the person on th..."](/statements/statement-469c4efa041f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -375,7 +377,7 @@ youtube_url: "https://www.youtube.com/watch?v=es7PWdFGoFI"
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:27:08](#t-00-26-36) [○] (Claim) **Candace Owens**: ["According to call logs, the first person Mikey McCoy called after the shooting w..."](/statements/statement-205006fadffd.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md)
-- [00:27:08](#t-00-26-36) [○] (Claim) **Candace Owens**: ["Mikey McCoy three-wayed Erika Kirk into the call with his wife three minutes aft..."](/statements/statement-7f1b803184a3.md)
+- [00:27:17](#t-00-27-17) [○] (Claim) **Candace Owens**: ["Mikey McCoy three-wayed Erika Kirk into the call with his wife three minutes aft..."](/statements/statement-7f1b803184a3.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:27:52](#t-00-27-17) [○] (Claim) **Candace Owens**: ["Candace Owens said Blake Neff's call log showed a 45-second call to his mother, ..."](/statements/statement-0f55d4b039c7.md)
   - About: [Blake Neff](/entities/person-blake-neff.md)
@@ -413,14 +415,24 @@ youtube_url: "https://www.youtube.com/watch?v=es7PWdFGoFI"
   - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:51:08](#t-00-51-08) [○] (Claim) **Candace Owens**: ["Candace Owens said that, unless her team was mistaken, the earliest public menti..."](/statements/statement-fd2f725a87ac.md)
   - About: [Utah Valley University](/entities/org-utah-valley-university.md), [Turning Point USA at Utah Valley University](/entities/org-turning-point-usa-utah-valley-university.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:54:41](#t-00-54-41) [✓] (Opinion) **David Freiheit**: ["Viva Frei proposed that people in Tyler Robinson’s Discord environment or anothe..."](/statements/statement-a1e46cef90d0.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:55:26](#t-00-55-26) [✓] (Claim) **David Freiheit**: ["George Zinn was arrested for claiming to be the shooter on the day of the shooti..."](/statements/statement-5c86b3c214a4.md)
   - About: [George Zinn](/entities/person-george-zinn.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:55:32](#t-00-55-26) [✓] (Opinion) **David Freiheit**: ["Viva Frei theorized that George Zinn learned of the plan through a Discord group..."](/statements/statement-456077877849.md)
+  - About: [George Zinn](/entities/person-george-zinn.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:56:39](#t-00-56-34) [○] (Claim) **Candace Owens**: ["Candace Owens said George Zinn told nurses at Utah Valley Hospital that he had b..."](/statements/statement-67b910caa0a7.md)
   - About: [George Zinn](/entities/person-george-zinn.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md)
 - [00:58:00](#t-00-58-00) [○] (Claim) **Candace Owens**: ["Megyn Kelly offered to referee the conversation between Candace and Turning Poin..."](/statements/statement-5e460b52965e.md)
   - About: [Megyn Kelly](/entities/person-megyn-kelly.md)
+- [01:03:51](#t-01-03-44) [✓] (Opinion) **Handle Central848 (identity unverified)**: ["A viewer using the handle Central848 proposed that Charlie Kirk was electrocuted..."](/statements/statement-83599402ca41.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [01:04:23](#t-01-04-23) [○] (Claim) **Anonymous Source #17 (Ep es7PWdFGoFI)**: ["An unnamed source trusted by Candace Owens reportedly told her that Charlie Kirk..."](/statements/statement-8a1eef493e6a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [01:04:40](#t-01-04-23) [✓] (Opinion) **Baron Coleman**: ["Baron Coleman was described as suggesting that JD Vance might have been the VIP ..."](/statements/statement-45cd315e1bbc.md)
+  - About: [JD Vance](/entities/person-jd-vance.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+- [01:05:03](#t-01-04-23) [✓] (Claim) **Candace Owens**: ["Owens said she found video that ruled out JD Vance as the person allegedly prese..."](/statements/statement-52547029472b.md)
+  - About: [JD Vance](/entities/person-jd-vance.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [01:08:16](#t-01-07-49) [○] (Accusation) **Candace Owens**: ["Candace Owens accused Tim Pool of signaling that her security was weak or the sa..."](/statements/statement-430f661f6739.md)
   - About: [Tim Pool](/entities/person-tim-pool.md), [Candace Owens](/entities/person-candace-owens.md)
 - [01:10:49](#t-01-10-32) [○] (Claim) **Candace Owens**: ["Candace Owens said Erika Kirk confirmed that Charlie Kirk had been going to Mass..."](/statements/statement-f112fb56df83.md)

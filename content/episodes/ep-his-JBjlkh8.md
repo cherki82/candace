@@ -1,14 +1,14 @@
 ---
 id: "his-JBjlkh8"
 title: "BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273"
-description: "BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 - 112 entities, 6 events, 48 factual claims"
+description: "BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 - 112 entities, 6 events, 47 factual claims"
 published: "2025-12-03"
 youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 ---
 
 **Published:** 2025-12-03 | [Watch on YouTube](https://www.youtube.com/watch?v=his-JBjlkh8)
 
-**Stats:** 112 entities | 6 events | 48 factual claims
+**Stats:** 112 entities | 6 events | 47 factual claims
 
 ---
 
@@ -445,7 +445,7 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 <details>
 <summary><strong>Statements (59)</strong></summary>
 
-- [00:00:20](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Turning Point USA formally responded to Candace Owens' allegations and issued a ..."](/statements/statement-8af77782670c.md)
+- [00:00:20](#t-00-00-00) [✓] (Claim) **Candace Owens**: ["Turning Point USA formally responded to Candace Owens' allegations and issued a ..."](/statements/statement-8af77782670c.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:00:48](#t-00-00-44) [○] (Claim) **Candace Owens**: ["what transpired on September 10th"](/statements/statement-7a3c762ece87.md)
 - [00:01:00](#t-00-00-44) [✓] (Claim) **Candace Owens**: ["The Game is releasing a song titled 'The Assassination of Candace Owens'"](/statements/statement-b7e488a6b862.md)
@@ -471,7 +471,7 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 - [00:08:49](#t-00-08-43) [✗] (Claim) **Candace Owens**: ["Charlie Kirk's security team did not administer first aid after the shooting"](/statements/statement-b420756b32b9.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:09:02](#t-00-08-43) [○] (Claim) **Candace Owens**: ["In a sit-down with Sean Ryan, Brian Harpole said, 'It was because of the severit..."](/statements/statement-d1bd803f1ad9.md)
-- [00:09:02](#t-00-08-43) [○] (Claim) **Candace Owens**: ["Brian Harpole explained on Sean Ryan's show that no first aid was given due to t..."](/statements/statement-180b7eaf20c2.md)
+- [00:09:02](#t-00-08-43) [✗] (Claim) **Candace Owens**: ["Brian Harpole explained on Sean Ryan's show that no first aid was given due to t..."](/statements/statement-180b7eaf20c2.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md)
 - [00:10:22](#t-00-10-16) [○] (Claim) **Candace Owens**: ["Tyler Bowyer hooked up with an intern who was a lot younger than him."](/statements/statement-2f9b0721804c.md)
 - [00:10:41](#t-00-10-16) [○] (Claim) **Turning Point USA**: ["People that are currently working for Turning Point USA said that Tyler Bowyer t..."](/statements/statement-aa1aa3defea5.md)
@@ -480,10 +480,10 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:13:24](#t-00-13-03) [○] (Claim) **Josh Hammer**: ["Josh Hammer said 'this never happened, Charlie never blinked on Israel'."](/statements/statement-8971688f43be.md)
 - [00:14:34](#t-00-14-26) [◐] (Claim) **Blake Neff**: ["Charlie Kirk made sure the organization was audited by a third party every year...."](/statements/statement-2ce3746c3cd8.md)
-- [00:15:43](#t-00-15-03) [◐] (Claim) **Candace Owens**: ["Charlie Kirk's explicit request to put together a DOGE department seven days bef..."](/statements/statement-fb75f08d7867.md)
+- [00:15:43](#t-00-15-03) [○] (Claim) **Candace Owens**: ["Charlie Kirk's explicit request to put together a DOGE department seven days bef..."](/statements/statement-fb75f08d7867.md)
 - [00:16:32](#t-00-16-26) [✓] (Claim) **Candace Owens**: ["DOGE is a very new concept as of 2025, something that Trump put into place with ..."](/statements/statement-4dffd379050e.md)
 - [00:17:41](#t-00-17-22) [○] (Claim) **Candace Owens**: ["The Saudi king was on this plane at some point in 2023."](/statements/statement-b37ada29e237.md)
-- [00:18:34](#t-00-18-04) [○] (Claim) **Candace Owens**: ["the people that are wearing maroon shirts. They are going to, I will guarantee y..."](/statements/statement-838fd6bfcbb3.md)
+- [00:18:34](#t-00-18-04) [○] (Prediction) **Candace Owens**: ["the people that are wearing maroon shirts. They are going to, I will guarantee y..."](/statements/statement-838fd6bfcbb3.md)
 - [00:23:43](#t-00-23-08) [○] (Claim) **Candace Owens**: ["why the hell were these jets around Turning Point way before, years before, Char..."](/statements/statement-611dc05e5212.md)
 - [00:24:07](#t-00-23-52) [○] (Opinion) **Candace Owens**: ["The Egyptian planes hold the key, and that is obvious even in Blake Neff's state..."](/statements/statement-c3fd713bd1bf.md)
 - [00:26:22](#t-00-25-49) [✗] (Claim) **Candace Owens**: ["they were selling kit of what Charlie died in to the tune of 80 million plus dol..."](/statements/statement-95565e7978c9.md)
@@ -494,7 +494,7 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:39:20](#t-00-39-20) [◐] (Claim) **Candace Owens**: ["Laura Loomer is apparently not allowed to own a gun because of events that requi..."](/statements/statement-bda0f50e6aaf.md)
 - [00:40:02](#t-00-39-20) [○] (Claim) **Candace Owens**: ["Literally a couple of weeks before he died, Laura Loomer called Charlie Kirk a c..."](/statements/statement-f3d4ba4becca.md)
-- [00:41:04](#t-00-40-39) [◐] (Claim) **Candace Owens**: ["the French Foreign Legion were apparently on the ground on the day of Charlie Ki..."](/statements/statement-9dda70f256f6.md)
+- [00:41:04](#t-00-40-39) [○] (Claim) **Candace Owens**: ["the French Foreign Legion were apparently on the ground on the day of Charlie Ki..."](/statements/statement-9dda70f256f6.md)
 - [00:42:18](#t-00-42-06) [○] (Claim) **Cam Higby**: ["The DoW has no evidence of a French military plot to assassinate Candace Owens"](/statements/statement-7f5842e61af1.md)
 - [00:44:33](#t-00-44-11) [○] (Claim) **Candace Owens**: ["The president of France allegedly paid $1.5 million for my assassination"](/statements/statement-a537fa86423f.md)
 - [00:44:41](#t-00-44-11) [○] (Accusation) **Candace Owens**: ["I have evidence they had French Foreign Legion on the ground the day that Charli..."](/statements/statement-6feb1c06f193.md)
@@ -507,7 +507,7 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 - [00:48:24](#t-00-47-48) [○] (Claim) **Candace Owens**: ["Candace Owens has paid over a quarter of a million dollars in the Brigitte Macro..."](/statements/statement-ec1b59f00080.md)
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:49:16](#t-00-49-01) [○] (Claim) **Candace Owens**: ["There is a six-day gap in Brigitte Macron's schedule on the dates that the Egypt..."](/statements/statement-4d1587d8b999.md)
-- [00:49:54](#t-00-49-40) [○] (Accusation) **Candace Owens**: ["an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump an..."](/statements/statement-eaf9b9a167a8.md)
+- [00:49:54](#t-00-49-40) [✓] (Accusation) **Candace Owens**: ["an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump an..."](/statements/statement-eaf9b9a167a8.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
 - [00:57:46](#t-00-57-02) [✓] (Claim) **Candace Owens**: ["Candace Owens appeared on Russell Brand's show to discuss evil indoctrination an..."](/statements/statement-3c02ef325aba.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Russell Brand](/entities/person-russell-brand.md)

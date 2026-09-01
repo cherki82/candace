@@ -26,9 +26,9 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -49,6 +49,10 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -266,7 +270,7 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Eddie Farnsworth (6)</strong></summary>
+<summary><strong class="section-title">Statements about Eddie Farnsworth (8)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (2)</summary>
@@ -279,7 +283,7 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 </details>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (4)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (6)</summary>
 
 - [00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34) (Claim) **Candace Owens**: ["Arizona politicians Eddie and David Farnsworth are brothers and first ..."](/statements/statement-3913ecc31109.md)
   - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Dwayne Farnsworth](/entities/person-dwayne-farnsworth.md), [David Farnsworth](/entities/person-david-farnsworth.md)
@@ -292,6 +296,12 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 
 - [00:34:03](/episodes/ep-HYn0P-P1wUw.md#t-00-33-38) (Accusation) **Candace Owens**: ["In 2013, Arizona House Judiciary Committee chair Eddie Farnsworth bloc..."](/statements/statement-ea010d014b2b.md)
   - Also about: [Arizona House Judiciary Committee](/entities/org-arizona-house-judiciary-committee.md)
+
+- [00:37:24](/episodes/ep-HYn0P-P1wUw.md#t-00-37-24) (Opinion) **Candace Owens**: ["Candace Owens proposed Eddie Farnsworth as a possible Fort Huachuca at..."](/statements/statement-f7e2516eb5ac.md)
+  - Also about: [Mark Amodei](/entities/person-mark-amodei.md), [Mitch Snow](/entities/person-mitch-snow.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:37:37](/episodes/ep-HYn0P-P1wUw.md#t-00-37-24) (Opinion) **Mitch Snow** (via paraphrase): ["Mitch Snow said Eddie Farnsworth looked very familiar when Owens showe..."](/statements/statement-5c48de32cc0d.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md)
 
 </details>
 

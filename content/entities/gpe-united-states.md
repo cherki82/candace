@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1914 mentions"
+description: "United States (Places) - 1920 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -30,11 +30,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38">2026-08-19 · 00:32:38</a></strong></div>
 <div><span>Episodes</span><strong>155</strong></div>
-<div><span>Mentions</span><strong>1,914</strong></div>
+<div><span>Mentions</span><strong>1,920</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>168</strong></div>
+<div><span>Statements about</span><strong>169</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -68,7 +68,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23" style="--pulse-height:35%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 16 mentions" title="2025-11-04 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-03-14" style="--pulse-height:28%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 13 mentions" title="2025-11-05 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-00-00" style="--pulse-height:57%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 26 mentions" title="2025-11-06 · 26 mentions"><span></span></a>
-<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-united-states-t-00-07-09" style="--pulse-height:35%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 16 mentions" title="2025-11-08 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-united-states-t-00-07-09" style="--pulse-height:46%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 21 mentions" title="2025-11-08 · 21 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-united-states-t-00-40-35" style="--pulse-height:30%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 14 mentions" title="2025-11-10 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-09-46" style="--pulse-height:33%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 15 mentions" title="2025-11-12 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-38-32" style="--pulse-height:24%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 11 mentions" title="2025-11-13 · 11 mentions"><span></span></a>
@@ -122,7 +122,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-united-states-t-00-08-38" style="--pulse-height:17%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 8 mentions" title="2026-03-03 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-united-states-t-00-09-09" style="--pulse-height:17%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 8 mentions" title="2026-03-04 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-united-states-t-00-24-57" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 9 mentions" title="2026-03-06 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-united-states-t-00-30-59" style="--pulse-height:35%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 16 mentions" title="2026-03-09 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-united-states-t-00-30-59" style="--pulse-height:37%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 17 mentions" title="2026-03-09 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-united-states-t-00-04-12" style="--pulse-height:26%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 12 mentions" title="2026-03-10 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-united-states-t-00-11-49" style="--pulse-height:39%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 18 mentions" title="2026-03-11 · 18 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-united-states-t-00-00-39" style="--pulse-height:43%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 20 mentions" title="2026-03-12 · 20 mentions"><span></span></a>
@@ -141,7 +141,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-40" style="--pulse-height:22%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 10 mentions" title="2026-04-13 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-03-34" style="--pulse-height:28%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 13 mentions" title="2026-04-14 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-00-41" style="--pulse-height:26%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 12 mentions" title="2026-04-15 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-01-49" style="--pulse-height:35%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 16 mentions" title="2026-04-16 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-01-49" style="--pulse-height:33%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 15 mentions" title="2026-04-16 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-00-40-54" style="--pulse-height:17%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 8 mentions" title="2026-04-20 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-11-10" style="--pulse-height:35%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 16 mentions" title="2026-04-21 · 16 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-united-states-t-00-01-00" style="--pulse-height:15%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 7 mentions" title="2026-04-22 · 7 mentions"><span></span></a>
@@ -228,7 +228,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-united-states-t-00-20-23) | 16 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-united-states-t-00-03-14) | 13 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-united-states-t-00-00-00) | 26 |
-| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-united-states-t-00-07-09) | 16 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-united-states-t-00-07-09) | 21 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-united-states-t-00-40-35) | 14 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-united-states-t-00-09-46) | 15 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-38-32) | 11 |
@@ -282,7 +282,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-united-states-t-00-08-38) | 8 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-united-states-t-00-09-09) | 8 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-united-states-t-00-24-57) | 9 |
-| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-united-states-t-00-30-59) | 16 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-united-states-t-00-30-59) | 17 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-united-states-t-00-04-12) | 12 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-united-states-t-00-11-49) | 18 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-united-states-t-00-00-39) | 20 |
@@ -301,7 +301,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-40) | 10 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-03-34) | 13 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-00-41) | 12 |
-| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-01-49) | 16 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-01-49) | 15 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-00-40-54) | 8 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-11-10) | 16 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-united-states-t-00-01-00) | 7 |
@@ -360,10 +360,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1914)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1920)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -1860,7 +1864,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (16 mentions)</summary>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (15 mentions)</summary>
 
 **[00:01:49](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-01-49)**
 > "Hey, you probably shouldn't say that with the vice president in the room. You can't just say stuff. I always that's one of my phrases. You can't just say stuff, but you definitely shouldn't just say say stuff when you have the vice president of the United States with you. That would actually rise if there was a credible threat against you to a national security threat."
@@ -1879,9 +1883,6 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[00:28:14](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-25-09)**
 > "...ver half a million dollars to America's warrior partnership."
-
-**[00:28:24](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-25-09)**
-> "...suicide and pure talk creates american jobs with a u.s only workforce so sure it would b..."
 
 **[00:28:30](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-25-09)**
 > "creates American jobs with a U.S.-only workforce. So sure, it woul..."
@@ -2729,7 +2730,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (16 mentions)</summary>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (17 mentions)</summary>
 
 **[00:31:05](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-united-states-t-00-30-59)**
 > "The United States"
@@ -2778,6 +2779,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[01:04:52](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-united-states-t-01-04-35)**
 > "... of his time to is destroying America for Israel."
+
+**[00:31:17](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-united-states-t-00-30-59)**
+> "...mineral that's needed for the U.S. and the economy to survive."
 
 </details>
 
@@ -5396,7 +5400,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (16 mentions)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (21 mentions)</summary>
 
 **[00:04:38](/episodes/ep-r1PS67aRmcA.md#ent-gpe-united-states-t-00-07-09)**
 > "...eat, Democratic Socialists of America threat, and orienting in the same direction?"
@@ -5445,6 +5449,21 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[00:43:07](/episodes/ep-r1PS67aRmcA.md#ent-gpe-united-states-t-00-42-41)**
 > "If America throughout all these wars was not in a steep decl..."
+
+**[00:29:36](/episodes/ep-r1PS67aRmcA.md#ent-gpe-united-states-t-00-29-29)**
+> "... genetics to over 260 Western U.S. ranches."
+
+**[00:30:12](/episodes/ep-r1PS67aRmcA.md#ent-gpe-united-states-t-00-30-12)**
+> "...lso supporting over 260 other U.S. ranches and the hundreds of American families who..."
+
+**[00:39:46](/episodes/ep-r1PS67aRmcA.md#ent-gpe-united-states-t-00-39-41)**
+> "...l still attacked Iran and the U.S. still bombed on behalf of Israel."
+
+**[00:40:03](/episodes/ep-r1PS67aRmcA.md#ent-gpe-united-states-t-00-39-41)**
+> "... not been a great ally to the U.S. all the way since 1960 when they bombed the USS L..."
+
+**[00:45:52](/episodes/ep-r1PS67aRmcA.md#ent-gpe-united-states-t-00-45-22)**
+> "Kits are only available to U.S. residents."
 
 </details>
 
@@ -6944,7 +6963,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (168)</strong></summary>
+<summary><strong class="section-title">Statements about United States (169)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -7502,6 +7521,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1)</summary>
 
 - [00:04:20](/episodes/ep-4YgrOhhy708.md#t-00-04-02) (Opinion) **Candace Owens**: ["Everyone in the United States should speak English."](/statements/statement-02b2144db5e8.md)
+
+</details>
+
+<details>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (1)</summary>
+
+- [00:15:54](/episodes/ep-mFuno0TuuQQ.md#t-00-15-54) (Accusation) **Candace Owens**: ["Owens theorized that France, Israel, the United States, and Egypt were..."](/statements/statement-b19e929dcdf2.md)
+  - Also about: [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [Egypt](/entities/gpe-egypt.md)
 
 </details>
 

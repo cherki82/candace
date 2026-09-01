@@ -26,7 +26,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div><span>Episodes</span><strong>29</strong></div>
 <div><span>Mentions</span><strong>266</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>63</strong></div>
+<div><span>Statements about</span><strong>66</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1187,7 +1187,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lance Twiggs (63)</strong></summary>
+<summary><strong class="section-title">Statements about Lance Twiggs (66)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -1366,7 +1366,12 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2)</summary>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (4)</summary>
+
+- [01:01:16](/episodes/ep-kaWtDuoY_ns.md#t-01-00-57) (Accusation) **Candace Owens**: ["Candace Owens said she believed Lance Twiggs helped set up Tyler Robin..."](/statements/statement-7e9fd5a4621d.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [01:01:42](/episodes/ep-kaWtDuoY_ns.md#t-01-01-16) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Lance Twiggs's family questioned why federal invest..."](/statements/statement-d5ea3500c228.md)
 
 - [01:02:07](/episodes/ep-kaWtDuoY_ns.md#t-01-02-07) (Claim) **Candace Owens**: ["Candace Owens said her producer discovered that previously released te..."](/statements/statement-27158200430a.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -1377,7 +1382,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (4)</summary>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (5)</summary>
 
 - [00:41:44](/episodes/ep-eLgD5yUVbko.md#t-00-41-37) (Claim) **Spencer Cox** (via quoted speech): ["Spencer Cox said investigators were shown Discord messages between Tyl..."](/statements/statement-9e5da808822c.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Discord](/entities/org-discord.md)
@@ -1387,6 +1392,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [00:45:40](/episodes/ep-eLgD5yUVbko.md#t-00-45-03) (Accusation) **Anonymous Source #2 (Ep eLgD5yUVbko)** (via read message): ["Members of Lance Twiggs's family told Candace Owens that it was "compl..."](/statements/statement-f109089222e8.md)
   - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:46:42](/episodes/ep-eLgD5yUVbko.md#t-00-46-23) (Opinion) **Candace Owens**: ["Candace Owens hypothesized that federal authorities could have coerced..."](/statements/statement-704f32bdb23f.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
 
 - [00:47:49](/episodes/ep-eLgD5yUVbko.md#t-00-47-08) (Citation) **Candace Owens**: ["Candace Owens cited a state filing saying the prosecution did not inte..."](/statements/statement-69c641e20bd3.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)

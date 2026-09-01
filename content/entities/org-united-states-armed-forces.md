@@ -29,9 +29,9 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <div><span>Episodes</span><strong>16</strong></div>
 <div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>32</strong></div>
+<div><span>Statements about</span><strong>33</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -78,6 +78,10 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -342,7 +346,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Armed Forces (32)</strong></summary>
+<summary><strong class="section-title">Statements about United States Armed Forces (33)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (4)</summary>
@@ -435,10 +439,12 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (2)</summary>
+<summary>Myron Gaines x Candace Owens (3)</summary>
 
 - [00:52:43](/episodes/ep-2T39-oADLj0.md#t-00-52-09) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was a military hit."](/statements/statement-3a399e27bdc8.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:02:42](/episodes/ep-2T39-oADLj0.md#t-01-02-42) (Claim) **Candace Owens**: ["Owens said a person who recorded rooftop footage was military-affiliat..."](/statements/statement-36ded51245ce.md)
 
 - [01:03:17](/episodes/ep-2T39-oADLj0.md#t-01-03-01) (Claim) **Anonymous Source #1 (Ep 2T39-oADLj0)** (via read message): ["According to Candace Owens's anonymous source, something military-rela..."](/statements/statement-426165d54ef7.md)
 

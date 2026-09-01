@@ -28,7 +28,7 @@ Source: [PBS NewsHour: Authorities piece together killing of conservative activi
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -119,23 +119,18 @@ Source: [PBS NewsHour: Authorities piece together killing of conservative activi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Emmanuel Bierer (5)</strong></summary>
+<summary><strong class="section-title">Statements about Emmanuel Bierer (3)</strong></summary>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3)</summary>
 
-- [00:06:56](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) (Claim) **Candace Owens**: ["Emmanuel Behrer was a former employee of Oracle in engineering and att..."](/statements/statement-50f8be11edf4.md)
-  - Also about: [Oracle](/entities/org-oracle.md)
-
-- [00:07:00](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) (Claim) **Candace Owens**: ["Emmanuel Behrer was plucked from obscurity by the mainstream media as ..."](/statements/statement-bd8cb82db858.md)
-
-- [00:17:00](/episodes/ep-DqGNvi36ol8.md#t-00-16-48) (Claim) **Candace Owens**: ["He was plucked from obscurity by the mainstream media as an eyewitness..."](/statements/statement-aa2edf2fd579.md)
-
-- [00:17:01](/episodes/ep-DqGNvi36ol8.md#t-00-16-48) (Claim) **Candace Owens**: ["He's a former employee of Oracle, he's in engineering, I believe he's ..."](/statements/statement-3d47d03dc8b1.md)
+- [00:32:11](/episodes/ep-DqGNvi36ol8.md#t-00-31-57) (Claim) **Candace Owens**: ["Emmanuel Bierer was a former Oracle engineering employee who attended ..."](/statements/statement-50f8be11edf4.md)
   - Also about: [Oracle](/entities/org-oracle.md)
 
 - [00:32:11](/episodes/ep-DqGNvi36ol8.md#t-00-31-57) (Claim) **Candace Owens**: ["Owens identified PBS eyewitness Emmanuel Bierer as a former Oracle emp..."](/statements/statement-958a14802141.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:32:34](/episodes/ep-DqGNvi36ol8.md#t-00-31-57) (Claim) **Candace Owens**: ["Owens said mainstream media selected Emmanuel Bierer from obscurity as..."](/statements/statement-bd8cb82db858.md)
 
 </details>
 

@@ -26,9 +26,9 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>23</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -57,6 +57,10 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -427,7 +431,7 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terryl Farnsworth (22)</strong></summary>
+<summary><strong class="section-title">Statements about Terryl Farnsworth (23)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -463,7 +467,7 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 </details>
 
 <details>
-<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (9)</summary>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (10)</summary>
 
 - [00:02:55](/episodes/ep-xi8SYJTUXPM.md#t-00-02-55) (Claim) **Nisscee**: ["In the footage Terryl Farnsworth selectively shared with Candace Owens..."](/statements/statement-0c20028b68ab.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -487,6 +491,9 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 - [00:10:19](/episodes/ep-xi8SYJTUXPM.md#t-00-09-55) (Accusation) **Candace Owens**: ["Terryl Farnsworth very likely zoomed in on the footage."](/statements/statement-df6323d33af4.md)
 
 - [00:10:30](/episodes/ep-xi8SYJTUXPM.md#t-00-09-55) (Opinion) **Candace Owens**: ["Candace Owens believes Terryl Farnsworth zoomed in on the footage to o..."](/statements/statement-2f58ab6c8615.md)
+
+- [00:11:02](/episodes/ep-xi8SYJTUXPM.md#t-00-10-38) (Opinion) **Candace Owens**: ["Candace Owens said the unzoomed rear-camera footage could show the gro..."](/statements/statement-f2f563e11c0e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

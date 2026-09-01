@@ -1,14 +1,14 @@
 ---
 id: "w1oqQbR_bYs"
 title: "What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283"
-description: "What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 - 145 entities, 20 events, 29 factual claims"
+description: "What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 - 145 entities, 20 events, 32 factual claims"
 published: "2025-12-20"
 youtube_url: "https://www.youtube.com/watch?v=w1oqQbR_bYs"
 ---
 
 **Published:** 2025-12-20 | [Watch on YouTube](https://www.youtube.com/watch?v=w1oqQbR_bYs)
 
-**Stats:** 145 entities | 20 events | 29 factual claims
+**Stats:** 145 entities | 20 events | 32 factual claims
 
 ---
 
@@ -289,11 +289,11 @@ youtube_url: "https://www.youtube.com/watch?v=w1oqQbR_bYs"
 </details>
 
 <details>
-<summary><strong>Statements (44)</strong></summary>
+<summary><strong>Statements (47)</strong></summary>
 
 - [00:00:24](#t-00-00-00) [○] (Opinion) **Candace Owens**: ["Owens said Ben Shapiro had no allegiance to Charlie Kirk while Kirk was alive"](/statements/statement-239322b040f4.md)
   - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:00:36](#t-00-00-00) [○] (Opinion) **Candace Owens**: ["Owens said she thought Ben Shapiro knew something about Erika Kirk and was fearf..."](/statements/statement-3df10f2d2cce.md)
+- [00:00:36](#t-00-00-00) [✓] (Opinion) **Candace Owens**: ["Owens said she thought Ben Shapiro knew something about Erika Kirk and was fearf..."](/statements/statement-3df10f2d2cce.md)
   - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:01:27](#t-00-01-18) [○] (Claim) **Candace Owens**: ["Ben Shapiro returned to the AmericaFest speaker roster in 2024 after several yea..."](/statements/statement-efc7dc035bce.md)
   - About: [America Fest](/entities/event-america-fest.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
@@ -345,11 +345,15 @@ youtube_url: "https://www.youtube.com/watch?v=w1oqQbR_bYs"
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Mitch Snow](/entities/person-mitch-snow.md)
 - [00:33:48](#t-00-33-40) [○] (Claim) **Candace Owens**: ["Owens said paperwork she reviewed showed that Mitch had lawsuits and was placed ..."](/statements/statement-4ba55ebd24e4.md)
   - About: [Mitch Snow](/entities/person-mitch-snow.md)
+- [00:33:57](#t-00-33-40) [✓] (Claim) **Mitch Snow**: ["Mitch Snow reportedly believed the congressman he saw at the alleged Fort Huachu..."](/statements/statement-032baf367a98.md)
+  - About: [Mark Amodei](/entities/person-mark-amodei.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Mitch Snow](/entities/person-mitch-snow.md)
 - [00:34:23](#t-00-33-40) [✓] (Claim) **Candace Owens**: ["The number 702 in the aircraft call signs is also the Las Vegas area code; Owens..."](/statements/statement-f1340a1c50d0.md)
   - About: [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
 - [00:34:57](#t-00-34-25) [○] (Claim) **Candace Owens**: ["The alleged meeting at Fort Huachuca was concluding around 7:30 a.m. on the morn..."](/statements/statement-9c867c67f2e6.md)
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
-- [00:36:17](#t-00-35-37) [✓] (Claim) **Candace Owens**: ["Owens said she was still working to verify reports that Mark Amodei missed two m..."](/statements/statement-14390b402a8a.md)
+- [00:35:25](#t-00-34-58) [✓] (Claim) **Mark Amodei**: ["Mark Amodei said public records placed him returning to Washington and voting on..."](/statements/statement-bda5c580651d.md)
+  - About: [Mark Amodei](/entities/person-mark-amodei.md)
+- [00:36:17](#t-00-35-37) [✓] (Claim) **Candace Owens**: ["Owens said she was still working to verify reports that Mark Amodei was absent f..."](/statements/statement-14390b402a8a.md)
   - About: [Washington, D.C.](/entities/gpe-washington-d-c.md), [Mark Amodei](/entities/person-mark-amodei.md)
 - [00:36:24](#t-00-36-19) [✓] (Claim) **Diligent Denison (X account; identity unverified)**: ["Diligent Denison claimed that Mark Amodei was absent from the first two Septembe..."](/statements/statement-b9a86ad8ed2a.md)
   - About: [Washington, D.C.](/entities/gpe-washington-d-c.md), [Mark Amodei](/entities/person-mark-amodei.md)
@@ -357,6 +361,8 @@ youtube_url: "https://www.youtube.com/watch?v=w1oqQbR_bYs"
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Brian Harpole](/entities/person-brian-harpole.md)
 - [00:38:22](#t-00-37-49) [○] (Claim) **Candace Owens**: ["Candace Owens messaged Brian Harpole twice asking for clarification about his wh..."](/statements/statement-9767df83f2c6.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:38:53](#t-00-38-25) [○] (Claim) **Anonymous vetted Fort Huachuca evidence source (Ep w1oqQbR_bYs; identity unverified)**: ["An anonymous source being vetted by Owens claimed to possess evidence that the p..."](/statements/statement-49cf7ff287ea.md)
+  - About: [Mitch Snow](/entities/person-mitch-snow.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [00:40:39](#t-00-40-26) [○] (Accusation) **Candace Owens**: ["Owens said an allegation circulating on X claimed that Erika Kirk had falsely sa..."](/statements/statement-d680b6a6dcdb.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:41:32](#t-00-41-05) [○] (Claim) **Anonymous surgeon source (Ep w1oqQbR_bYs; identity unverified)**: ["Owens said a third party relayed the unnamed surgeon's claim that his frangible-..."](/statements/statement-997a2b519d2a.md)
@@ -368,7 +374,7 @@ youtube_url: "https://www.youtube.com/watch?v=w1oqQbR_bYs"
 - [00:42:59](#t-00-42-27) [✗] (Claim) **Candace Owens**: ["Owens said she did not find Cabot Phillips on Morning Wire from September 4 thro..."](/statements/statement-88ef12af870f.md)
   - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Cabot Phillips](/entities/person-cabot-phillips.md)
 - [00:43:31](#t-00-43-06) [◐] (Claim) **Candace Owens**: ["Owens said she found information indicating that Cabot Phillips's father was tak..."](/statements/statement-ac23843213dd.md)
-  - About: [Graham Phillips](/entities/person-graham-phillips.md), [Miriam Adelson](/entities/person-miriam-adelson.md), [Sheldon Adelson](/entities/person-sheldon-adelson.md)
+  - About: [Miriam Adelson](/entities/person-miriam-adelson.md), [Sheldon Adelson](/entities/person-sheldon-adelson.md)
 - [00:44:45](#t-00-44-30) [○] (Claim) **Nicole Rothstein**: ["Nicole Rothstein said she was Erika Kirk's cousin and that Erika was half Jewish"](/statements/statement-c902a0c9287a.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Nicole Rothstein](/entities/person-nicole-rothstein.md)
 - [00:45:41](#t-00-45-12) [✓] (Accusation) **Candace Owens**: ["Owens said she was starting to think in a major way that Israel had something to..."](/statements/statement-9eb64b2d9640.md)

@@ -4,9 +4,10 @@ description: "\"an hour and a half before Charlie Kirk was assassinated in Utah,
 statement_id: "statement-eaf9b9a167a8"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -36,7 +37,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The Élysée's official September 10 calendar records a Trump call at 18:45 Paris time, equal to 10:45 a.m. MDT. Utah County's charging information places the shooting approximately fifteen minutes after the noon event began, so the claimed roughly 90-minute interval is accurate. Neither source provides the call's subject or links it to the assassination.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Élysée: President's agenda, September 2025](https://www.elysee.fr/en/agenda-septembre-2025)
+- [Utah County charging information in State v. Tyler James Robinson](https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf)
+
+*Verified: 2026-08-31T23:20:22.983755*
 
 ---
 

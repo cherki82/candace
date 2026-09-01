@@ -28,7 +28,7 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -177,7 +177,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jean-Michel Trogneux (1)</strong></summary>
+<summary><strong class="section-title">Statements about Jean-Michel Trogneux (2)</strong></summary>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1)</summary>
+
+- [00:37:32](/episodes/ep-tB5SXXmd9vU.md#t-00-37-15) (Opinion) **Candace Owens**: ["I'm pretty convinced that Brigitte Macron has been involved, on the ba..."](/statements/statement-6c37c0f1f852.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md)
+
+</details>
 
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>

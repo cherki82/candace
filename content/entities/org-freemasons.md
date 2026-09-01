@@ -23,9 +23,9 @@ Source: [Freemasonry](https://en.wikipedia.org/wiki/Freemasonry)
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -50,6 +50,10 @@ Source: [Freemasonry](https://en.wikipedia.org/wiki/Freemasonry)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -134,7 +138,15 @@ Source: [Freemasonry](https://en.wikipedia.org/wiki/Freemasonry)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Freemasons (3)</strong></summary>
+<summary><strong class="section-title">Statements about Freemasons (4)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:10:40](/episodes/ep-i8m_6D4QGmk.md#t-00-10-11) (Citation) **Candace Owens**: ["Candace Owens said a book she described as a Freemason Bible placed sa..."](/statements/statement-52e6d4d2436c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>

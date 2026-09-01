@@ -41,7 +41,7 @@ veracity: "true"
 
 ### Analysis
 
-Verified as direct attribution: after Santos summarized Trump's dismissal of Epstein-files questions, Yiannopoulos replied, 'That is the moment Trumpism died.' The appearance snippet was moved from a neighboring later remark to the exact line.
+Verified only as direct attribution: the primary Timcast recording contains Yiannopoulos describing the federal and TPUSA account as inadequate and saying perceived inconsistencies seemed to point to a different etiology for the crime. His interpretation is not independent evidence that the official account is false.
 
 **Confidence:** High
 
@@ -49,7 +49,7 @@ Verified as direct attribution: after Santos summarized Trump's dismissal of Eps
 
 - [Tim Pool debates Milo Yiannopoulos and George Santos](https://www.youtube.com/watch?v=6FrUZXa2B9U)
 
-*Verified: 2026-08-26T09:08:27.671196*
+*Verified: 2026-08-31T23:38:23.914292*
 
 ---
 

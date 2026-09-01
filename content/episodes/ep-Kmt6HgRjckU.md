@@ -1,14 +1,14 @@
 ---
 id: "Kmt6HgRjckU"
 title: "Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276"
-description: "Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 - 99 entities, 11 events, 26 factual claims"
+description: "Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 - 99 entities, 11 events, 25 factual claims"
 published: "2025-12-08"
 youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
 ---
 
 **Published:** 2025-12-08 | [Watch on YouTube](https://www.youtube.com/watch?v=Kmt6HgRjckU)
 
-**Stats:** 99 entities | 11 events | 26 factual claims
+**Stats:** 99 entities | 11 events | 25 factual claims
 
 ---
 
@@ -311,7 +311,7 @@ youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
   - About: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:09:57](#t-00-09-57) [○] (Opinion) **Candace Owens**: ["Owens asserted that Kash Patel knew she was telling the truth about alleged Fren..."](/statements/statement-183d0d63d3e0.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [France](/entities/gpe-france.md)
-- [00:11:29](#t-00-11-24) [✓] (Accusation) **Anonymous Source #5 (Ep Kmt6HgRjckU)**: ["An anonymous overseas tipster alleged that people associated with Turning Point ..."](/statements/statement-6d276f41ecf7.md)
+- [00:11:29](#t-00-11-24) [○] (Accusation) **Anonymous Source #5 (Ep Kmt6HgRjckU)**: ["An anonymous overseas tipster alleged that people associated with Turning Point ..."](/statements/statement-6d276f41ecf7.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Pierre Falcone](/entities/person-pierre-falcone.md)
 - [00:12:11](#t-00-12-04) [◐] (Claim) **Candace Owens**: ["Owens said Pierre Falcone was a billionaire living in Scottsdale, Arizona, where..."](/statements/statement-9f2ac6d1359d.md)
   - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -363,13 +363,13 @@ youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
   - About: [Jesse Kaag](/entities/person-jesse-kaag.md)
 - [00:33:10](#t-00-32-25) [✓] (Claim) **Jesse Kaag**: ["Jesse reported that the .30-06 round penetrated the water jugs in his ballistic ..."](/statements/statement-abed28a75652.md)
   - About: [1ShotTV](/entities/org-1shottv.md), [Jesse Kaag](/entities/person-jesse-kaag.md)
-- [00:33:49](#t-00-33-36) [✓] (Claim) **Candace Owens**: ["Owens said the particular .30-06 round would have decapitated Charlie Kirk and c..."](/statements/statement-ef74ad894086.md)
+- [00:33:49](#t-00-33-36) [✓] (Opinion) **Candace Owens**: ["Owens said the particular .30-06 round would have decapitated Charlie Kirk and c..."](/statements/statement-ef74ad894086.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [the federal government](/entities/org-the-federal-government.md)
 - [00:35:11](#t-00-35-04) [○] (Accusation) **Candace Owens**: ["Owens said she truly believed the deep state and multiple states were involved i..."](/statements/statement-c8cb29812aa4.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:39:42](#t-00-39-23) [✓] (Claim) **Candace Owens**: ["Owens said Qatar stated that it had a relationship with Hamas because the U.S. g..."](/statements/statement-b9887fea08a7.md)
   - About: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md), [the federal government](/entities/org-the-federal-government.md)
-- [00:41:32](#t-00-41-32) [○] (Citation) **Candace Owens**: ["Owens said the Daily Mail reported that a life insurance policy had been taken o..."](/statements/statement-8f9f7ee2947f.md)
+- [00:41:32](#t-00-41-32) [✓] (Citation) **Candace Owens**: ["Owens said the Daily Mail reported that a life insurance policy had been taken o..."](/statements/statement-8f9f7ee2947f.md)
   - About: [Daily Mail](/entities/org-daily-mail.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:42:00](#t-00-41-32) [○] (Citation) **Candace Owens**: ["Owens said reports claiming Charlie Kirk had not yet been buried were going vira..."](/statements/statement-b5fcb09b0f7b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)

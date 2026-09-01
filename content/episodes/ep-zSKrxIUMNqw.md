@@ -306,7 +306,7 @@ youtube_url: "https://www.youtube.com/watch?v=zSKrxIUMNqw"
 </details>
 
 <details>
-<summary><strong>Statements (66)</strong></summary>
+<summary><strong>Statements (67)</strong></summary>
 
 - [00:00:37](#t-00-00-00) [○] (Opinion) **Candace Owens**: ["Kanye West was right that people who oppose a particular agenda are blackballed."](/statements/statement-0ad5a79042eb.md)
   - About: [Kanye West](/entities/person-kanye-west.md), [Antisemitism](/entities/concept-antisemitism.md)
@@ -342,10 +342,12 @@ youtube_url: "https://www.youtube.com/watch?v=zSKrxIUMNqw"
   - About: [Hollywood](/entities/gpe-hollywood.md), [Organized crime](/entities/concept-organized-crime.md)
 - [00:16:05](#t-00-15-27) [✗] (Accusation) **Candace Owens**: ["Candace Owens said she believed the Justin Baldoni dispute was an attempted host..."](/statements/statement-832b6566502e.md)
   - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Ryan Reynolds](/entities/person-ryan-reynolds.md), [Blake Lively](/entities/person-blake-lively.md)
-- [00:16:42](#t-00-16-11) [✗] (Accusation) **Candace Owens**: ["Charlie Kirk was killed when he tried to leave an entertainment gang."](/statements/statement-9e4c24f34534.md)
+- [00:16:42](#t-00-16-11) [○] (Accusation) **Candace Owens**: ["Charlie Kirk was killed when he tried to leave an entertainment gang."](/statements/statement-9e4c24f34534.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Organized crime](/entities/concept-organized-crime.md)
 - [00:16:48](#t-00-16-11) [○] (Accusation) **Candace Owens**: ["Candace Owens said Ben Shapiro's behavior since Charlie Kirk's assassination led..."](/statements/statement-b2b9cb99572e.md)
   - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:17:06](#t-00-16-56) [○] (Opinion) **Candace Owens**: ["Candace Owens said Ben Shapiro behaved as though he expected to benefit from Cha..."](/statements/statement-ec68cd24592f.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:18:09](#t-00-17-38) [✓] (Opinion) **Steve Bannon**: ["Ben Shapiro is like a cancer that spreads and metastasizes."](/statements/statement-7617a96d8f2d.md)
   - About: [Ben Shapiro](/entities/person-ben-shapiro.md)
 - [00:18:21](#t-00-18-09) [○] (Accusation) **Steve Bannon**: ["Ben Shapiro tried to take over Breitbart, and Steve Bannon ran him out."](/statements/statement-ea849b863091.md)
@@ -404,7 +406,7 @@ youtube_url: "https://www.youtube.com/watch?v=zSKrxIUMNqw"
   - About: [Kanye West](/entities/person-kanye-west.md), [Adidas](/entities/org-adidas.md), [Gap Inc.](/entities/org-gap-inc.md)
 - [00:39:34](#t-00-39-19) [○] (Accusation) **Candace Owens**: ["The Daily Wire threatened to reduce Candace Owens's contract unless she publicly..."](/statements/statement-ced70ad0f846.md)
   - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
-- [00:41:49](#t-00-41-17) [○] (Claim) **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he would die young and that Turn..."](/statements/statement-aeb277b5e217.md)
+- [00:41:49](#t-00-41-17) [○] (Claim) **Charlie Kirk**: ["Charlie Kirk repeatedly told Candace Owens that he would die young and that Turn..."](/statements/statement-aeb277b5e217.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:42:21](#t-00-41-57) [○] (Claim) **Candace Owens**: ["Candace Owens said Schaefer Security provided Charlie Kirk's travel security whe..."](/statements/statement-e858de21dbac.md)
   - About: [Schaefer Security](/entities/org-schaefer-security.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)

@@ -27,7 +27,7 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 <div><span>Episodes</span><strong>11</strong></div>
 <div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -305,7 +305,7 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lee Trotter (12)</strong></summary>
+<summary><strong class="section-title">Statements about Lee Trotter (13)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1)</summary>
@@ -320,6 +320,14 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 
 - [00:57:00](/episodes/ep-qZ8RWfyuewQ.md#t-00-56-49) (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of lying about a surgeon going rogue,..."](/statements/statement-091c9677222c.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
+
+- [00:19:19](/episodes/ep-rupRLXmSndU.md#t-00-19-19) (Opinion) **Candace Owens**: ["Connor Henderson may have left his Timpanogos scribe job on September ..."](/statements/statement-84945101f6d1.md)
+  - Also about: [Connor Henderson](/entities/person-connor-henderson.md)
 
 </details>
 

@@ -22,9 +22,9 @@ Source: [Pierre S. du Pont — Longwood Gardens](https://longwoodgardens.org/his
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -41,6 +41,10 @@ Source: [Pierre S. du Pont — Longwood Gardens](https://longwoodgardens.org/his
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -84,6 +88,19 @@ Source: [Pierre S. du Pont — Longwood Gardens](https://longwoodgardens.org/his
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:28](/episodes/ep-tB5SXXmd9vU.md#t-00-29-13): “legislation was passed which would provide financial support to the Longwood Foundation, a philanthropic nonprofit that was founded by Pierre S. du Pont”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Pierre S. du Pont (1)</strong></summary>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:31:49](/episodes/ep-a-e7HC6SeK8.md#t-00-31-21) (Accusation) **Candace Owens**: ["Owens asked whether the anonymous French-American donor named Pierre w..."](/statements/statement-6ad1dc90fc22.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

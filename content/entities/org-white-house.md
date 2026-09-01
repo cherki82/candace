@@ -24,7 +24,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>72</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -187,6 +187,10 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -1796,8 +1800,8 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2)</summary>
 
-- [00:23:09](/episodes/ep-i8m_6D4QGmk.md#t-00-22-33) (Accusation) **Candace Owens**: ["Candace Owens said she believed Erika Kirk’s ultimate goal was the Whi..."](/statements/statement-a8dfd05f6af8.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:00:49](/episodes/ep-i8m_6D4QGmk.md#t-00-00-38) (Accusation) **Candace Owens**: ["Candace Owens alleged that Erika Kirk's desire and ultimate goal was t..."](/statements/statement-3702965a666e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [01:04:13](/episodes/ep-i8m_6D4QGmk.md#t-01-04-01) (Accusation) **Candace Owens**: ["The same apparatus ran the White House under Joe Biden, would have run..."](/statements/statement-554585975e83.md)
   - Also about: [Joe Biden](/entities/person-joe-biden.md), [Kamala Harris](/entities/person-kamala-harris.md), [Donald J. Trump](/entities/person-donald-trump.md)

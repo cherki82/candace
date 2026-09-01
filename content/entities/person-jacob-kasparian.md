@@ -24,7 +24,7 @@ Source: [Charlie Kirk source episode](https://www.youtube.com/watch?v=DqGNvi36ol
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -43,6 +43,10 @@ Source: [Charlie Kirk source episode](https://www.youtube.com/watch?v=DqGNvi36ol
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -96,10 +100,10 @@ _No relationships extracted yet._
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2)</summary>
 
-- [00:15:02](/episodes/ep-DqGNvi36ol8.md#t-00-14-37) (Opinion) **Candace Owens**: ["I do not think Jacob Kasparian shot Charlie Kirk"](/statements/statement-55127cb10cf9.md)
+- [00:23:54](/episodes/ep-DqGNvi36ol8.md#t-00-23-36) (Claim) **Candace Owens**: ["Jacob Kasparian did not duck when everyone else ducked after the shot ..."](/statements/statement-dafe9b83fe57.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:23:54](/episodes/ep-DqGNvi36ol8.md#t-00-23-36) (Claim) **Candace Owens**: ["Jacob Kasparian did not duck when everyone else ducked after the shot ..."](/statements/statement-dafe9b83fe57.md)
+- [00:24:20](/episodes/ep-DqGNvi36ol8.md#t-00-24-20) (Opinion) **Candace Owens**: ["I do not think Jacob Kasparian shot Charlie Kirk"](/statements/statement-55127cb10cf9.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

@@ -1,8 +1,8 @@
 ---
 title: "I'm pretty convinced that Brigitte Macron has been involved,..."
-description: "\"I'm pretty convinced that Brigitte Macron has been involved, on the basis of my lawsuit and the mentioning of MKUltra 18 times absurdly in my lawsuit,...\" — Brigitte Macron"
+description: "\"I'm pretty convinced that Brigitte Macron has been involved, on the basis of my lawsuit and the mentioning of MKUltra 18 times absurdly in my lawsuit,...\" — Candace Owens"
 statement_id: "statement-6c37c0f1f852"
-speaker: "Brigitte Macron"
+speaker: "Candace Owens"
 type: "opinion"
 ---
 
@@ -14,11 +14,14 @@ type: "opinion"
 
 ## Attribution
 
-**Speaker:** [Brigitte Macron](/entities/person-brigitte-macron.md) (Quoted)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Quoted from speech/interview
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Made directly
+
+## About
+
+- [Brigitte Macron](/entities/person-brigitte-macron.md) (person)
+- [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md) (person)
 
 ## Source
 

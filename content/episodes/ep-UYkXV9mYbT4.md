@@ -1,14 +1,14 @@
 ---
 id: "UYkXV9mYbT4"
 title: "PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319"
-description: "PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 - 84 entities, 28 events, 12 factual claims"
+description: "PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 - 84 entities, 28 events, 13 factual claims"
 published: "2026-03-31"
 youtube_url: "https://www.youtube.com/watch?v=UYkXV9mYbT4"
 ---
 
 **Published:** 2026-03-31 | [Watch on YouTube](https://www.youtube.com/watch?v=UYkXV9mYbT4)
 
-**Stats:** 84 entities | 28 events | 12 factual claims
+**Stats:** 84 entities | 28 events | 13 factual claims
 
 ---
 
@@ -319,7 +319,7 @@ youtube_url: "https://www.youtube.com/watch?v=UYkXV9mYbT4"
 </details>
 
 <details>
-<summary><strong>Statements (33)</strong></summary>
+<summary><strong>Statements (36)</strong></summary>
 
 - [00:00:50](#t-00-00-42) [○] (Opinion) **Candace Owens**: ["In my opinion, it is definitive proof that Tyler Robinson is a patsy."](/statements/statement-5d0d4715d2cc.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
@@ -343,6 +343,8 @@ youtube_url: "https://www.youtube.com/watch?v=UYkXV9mYbT4"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:13:36](#t-00-13-23) [○] (Claim) **Andrew Kolvet**: ["The bullet traveled from C2 to C6 and then moved downward into Charlie's thorax,..."](/statements/statement-28ba667d2ca6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:14:42](#t-00-14-06) [○] (Opinion) **Candace Owens**: ["The federal government's initial projectile narrative was ruined by the rear-cam..."](/statements/statement-9e40f71edc81.md)
+  - About: [FBI](/entities/org-fbi.md)
 - [00:14:49](#t-00-14-49) [○] (Claim) **Anonymous Source #1 (Ep UYkXV9mYbT4)**: ["The Robinson family-heirloom gun takes special bullets, and there was no way the..."](/statements/statement-4fc13f1ba0b3.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:16:31](#t-00-16-08) [○] (Accusation) **Anonymous Source #2 (Ep UYkXV9mYbT4)**: ["The sources said they were convinced that federal agents planted the gun when th..."](/statements/statement-8694331bb2fc.md)
@@ -353,6 +355,8 @@ youtube_url: "https://www.youtube.com/watch?v=UYkXV9mYbT4"
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:18:01](#t-00-18-01) [○] (Opinion) **Candace Owens**: ["Based on the evidence and the people I have spoken to, I believe the feds are pa..."](/statements/statement-8d024ceb9198.md)
   - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:18:44](#t-00-18-01) [○] (Opinion) **Candace Owens**: ["Robinson's request for a continuance to obtain and review evidence undermines th..."](/statements/statement-7ed7cc8e0d27.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:20:05](#t-00-20-05) [✓] (Citation) **Candace Owens**: ["Mr. Robinson seeks to continue the May 2026 preliminary hearing to a setting tha..."](/statements/statement-b54eabdeaada.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:20:54](#t-00-20-47) [✓] (Citation) **Candace Owens**: ["The state intended to present conclusory FBI and ATF forensic DNA and ballistics..."](/statements/statement-e713942a76ce.md)
@@ -367,7 +371,7 @@ youtube_url: "https://www.youtube.com/watch?v=UYkXV9mYbT4"
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:32:32](#t-00-32-17) [✓] (Citation) **Candace Owens**: ["FBI and ATF summary DNA reports said minute quantities of DNA recovered from evi..."](/statements/statement-6f05019158ad.md)
   - About: [FBI](/entities/org-fbi.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [00:37:26](#t-00-37-11) [◐] (Citation) **Candace Owens**: ["The ATF summary indicated that the agency was unable to identify the bullets rec..."](/statements/statement-22e9b4f4a3c0.md)
+- [00:37:26](#t-00-37-11) [◐] (Citation) **Candace Owens**: ["The ATF summary indicated that the agency was unable to identify the bullet reco..."](/statements/statement-22e9b4f4a3c0.md)
   - About: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:38:51](#t-00-38-32) [✓] (Citation) **Candace Owens**: ["The ATF case file and examination protocols had not been provided to the defense..."](/statements/statement-66f945dd09e3.md)
   - About: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -383,6 +387,8 @@ youtube_url: "https://www.youtube.com/watch?v=UYkXV9mYbT4"
   - About: [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:51:46](#t-00-51-24) [◐] (Claim) **Anonymous Source #3 (Ep UYkXV9mYbT4)**: ["Long Beach Airport is a 10-to-15-minute drive from Joint Forces Training Base Lo..."](/statements/statement-d7a07075f6b5.md)
   - About: [Long Beach Airport](/entities/org-long-beach-airport.md), [Joint Forces Training Base Los Alamitos](/entities/org-joint-forces-training-base-los-alamitos.md), [Los Alamitos, California](/entities/gpe-los-alamitos-california.md)
+- [00:52:24](#t-00-52-00) [○] (Claim) **Anonymous Source #3 (Ep UYkXV9mYbT4)**: ["It is common for U.S. government officials using the Los Alamitos base to drive ..."](/statements/statement-3592257ed7e4.md)
+  - About: [the federal government](/entities/org-the-federal-government.md)
 - [00:53:27](#t-00-53-20) [○] (Opinion) **Candace Owens**: ["The people Charlie put into positions of power turned on him for money."](/statements/statement-b66582de7705.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:54:52](#t-00-54-27) [○] (Claim) **Candace Owens**: ["Charlie had carefully explained to me that he was going to die."](/statements/statement-444970934f2d.md)

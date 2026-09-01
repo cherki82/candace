@@ -29,7 +29,7 @@ Source: [Forensic Evidence Summary](https://followtheepicenter.com/Forensic_Evid
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -66,6 +66,10 @@ Source: [Forensic Evidence Summary](https://followtheepicenter.com/Forensic_Evid
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -207,8 +211,8 @@ Source: [Forensic Evidence Summary](https://followtheepicenter.com/Forensic_Evid
 **[00:56:43](/episodes/ep-5-HUyv9LyMg.md#ent-person-jon-aaron-bray-t-00-56-43)**
 > "... monologues and taking us on; John Bray, who's looking into the microphone theory and why..."
 
-**[00:57:00](/episodes/ep-5-HUyv9LyMg.md#ent-person-jon-aaron-bray-t-00-56-43)**
-> "...s monologues and taking us on John Bray, who's looking into the microphone theory and why..."
+**[00:56:43](/episodes/ep-5-HUyv9LyMg.md#ent-person-jon-aaron-bray-t-00-56-43)**
+> "And that is thanks to the YouTubers, everyone giving a different piece, piecing together things. I mean, whether it's Missy (YouTube researcher; surname/channel unverified), who looked into Nisi (name spelling uncertain in source)—I hope I'm saying her name right—who looked into the Jillian material (referent unverified); whether you've got Baron Coleman, um, his monologues and taking us on; John Bray, who's looking into the microphone theory and why there was that explosion that happened here in Tennessee. By the way, John Bray, you should probably look into Nelda Buckman's family. I'm only saying that"
 
 **[00:57:09](/episodes/ep-5-HUyv9LyMg.md#ent-person-jon-aaron-bray-t-00-56-43)**
 > "By the way, John Bray, you should probably look into Nelda Buckman's fa..."

@@ -25,10 +25,10 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-joe-kent-t-00-55-00">2026-08-21 · 00:55:00</a></strong></div>
 <div><span>Episodes</span><strong>21</strong></div>
 <div><span>Mentions</span><strong>108</strong></div>
-<div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>25</strong></div>
+<div><span>Statements by</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>26</strong></div>
 <div><span>Relationships</span><strong>36</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -85,6 +85,10 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -828,13 +832,19 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Joe Kent (7)</strong></summary>
+<summary><strong class="section-title">Statements by Joe Kent (9)</strong></summary>
 
 <details>
-<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (3)</summary>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (5)</summary>
 
 - [00:02:42](/episodes/ep-B9TyCs-6o_0.md#t-00-02-37) [✓] (Claim) ["The National Counterterrorism Center was stopped from continuing to investigate ..."](/statements/statement-6cb26b41836f.md)
   - About: [National Counterterrorism Center](/entities/org-national-counterterrorism-center.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+- [00:02:56](/episodes/ep-B9TyCs-6o_0.md#t-00-02-42) [✓] (Citation) ["Joe Kent said the FBI's stated reason for stopping the counterterrorism inquiry ..."](/statements/statement-1ee6e884dc7c.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:03:05](/episodes/ep-B9TyCs-6o_0.md#t-00-02-42) [✓] (Opinion) ["Joe Kent said he was not drawing any conclusion from the uninvestigated linkages..."](/statements/statement-b8bec5cc7b7d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:03:21](/episodes/ep-B9TyCs-6o_0.md#t-00-03-17) [✓] (Claim) ["Public text messages show Charlie Kirk was under substantial pressure from pro-I..."](/statements/statement-1b1b7d9e9287.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
@@ -864,7 +874,7 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Joe Kent (25)</strong></summary>
+<summary><strong class="section-title">Statements about Joe Kent (26)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1)</summary>
@@ -925,13 +935,16 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 </details>
 
 <details>
-<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (7)</summary>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (8)</summary>
 
 - [00:00:15](/episodes/ep-B9TyCs-6o_0.md#t-00-00-00) (Claim) **Candace Owens**: ["Andrew Kolvet retweeted a post suggesting Joe Kent should be arrested ..."](/statements/statement-b279f7327bc5.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 - [00:07:19](/episodes/ep-B9TyCs-6o_0.md#t-00-07-06) (Claim) **Candace Owens**: ["Joe Kent did not leak Candace Owens information for the purpose of att..."](/statements/statement-35c00871c9b7.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:07:54](/episodes/ep-B9TyCs-6o_0.md#t-00-07-49) (Accusation) **Candace Owens**: ["Candace Owens argued that even if Joe Kent leaked assassination-invest..."](/statements/statement-074839b4e524.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:09:49](/episodes/ep-B9TyCs-6o_0.md#t-00-09-43) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet provided the private group-chat screen grabs to Joe Kent..."](/statements/statement-07a9f1b73a57.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)

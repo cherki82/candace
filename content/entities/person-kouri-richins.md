@@ -187,7 +187,7 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 - **[Eric Richins](/entities/person-eric-richins.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24): “March 4th, 2022 is when her husband Eric Richens was murdered, and it took them until May of 2023 to bring charges against her. So more than a year to build a case.”
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24): “March 4th, 2022 is when her husband Eric Richins was murdered, and it took them until May of 2023 to bring charges against her. So more than a year to build a case.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:25:06](/episodes/ep-cPidFQDJLbo.md#t-00-25-06): “Kouri Richins was her name. Her husband died of an overdose. She then wrote a children's book and went on a public book tour to promote how to cope with loss, the loss of a, with her grieving children. ... See, her husband, Eric Richins. Also, her victim gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away, before he was murdered.”
 
 </details>
@@ -236,7 +236,7 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 - **[Eric Richins](/entities/person-eric-richins.md)** deceased husband of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24): “March 4th, 2022 is when her husband Eric Richens was murdered, and it took them until May of 2023 to bring charges against her. So more than a year to build a case.”
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24): “March 4th, 2022 is when her husband Eric Richins was murdered, and it took them until May of 2023 to bring charges against her. So more than a year to build a case.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:25:06](/episodes/ep-cPidFQDJLbo.md#t-00-25-06): “Kouri Richins was her name. Her husband died of an overdose. She then wrote a children's book and went on a public book tour to promote how to cope with loss, the loss of a, with her grieving children. ... See, her husband, Eric Richins. Also, her victim gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away, before he was murdered.”
 
 </details>

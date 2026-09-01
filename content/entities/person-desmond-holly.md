@@ -26,9 +26,9 @@ Source: [Authorities say student who had been radicalized fired revolver at Colo
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -45,6 +45,10 @@ Source: [Authorities say student who had been radicalized fired revolver at Colo
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -66,7 +70,7 @@ Source: [Authorities say student who had been radicalized fired revolver at Colo
 **[00:14:44](/episodes/ep-4DvYXBn_5JI.md#ent-person-desmond-holly-t-00-14-44)**
 > "Now when the officers and Desmond Holly had both moved out of frame, out of the view of t..."
 
-**[00:18:54](/episodes/ep-4DvYXBn_5JI.md#ent-person-desmond-holly-t-00-18-30)**
+**[00:18:54](/episodes/ep-4DvYXBn_5JI.md#ent-person-desmond-holly-t-00-14-44)**
 > "...like i said at no point shows desmond holly's suicide just the police officers and the scuffle ..."
 
 **[00:19:00](/episodes/ep-4DvYXBn_5JI.md#ent-person-desmond-holly-t-00-19-00)**
@@ -125,10 +129,10 @@ Source: [Authorities say student who had been radicalized fired revolver at Colo
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Desmond Holly (3)</strong></summary>
+<summary><strong class="section-title">Statements about Desmond Holly (4)</strong></summary>
 
 <details>
-<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (3)</summary>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4)</summary>
 
 - [00:13:26](/episodes/ep-4DvYXBn_5JI.md#t-00-13-26) (Claim) **Candace Owens**: ["Candace Owens said Desmond Holly entered Evergreen High School with a ..."](/statements/statement-6dde1ae7be74.md)
   - Also about: [Matthew Silverstone](/entities/person-matthew-silverstone.md), [Evergreen High School](/entities/org-evergreen-high-school.md), [Smith & Wesson](/entities/org-smith-and-wesson.md)
@@ -138,6 +142,9 @@ Source: [Authorities say student who had been radicalized fired revolver at Colo
 
 - [00:19:56](/episodes/ep-4DvYXBn_5JI.md#t-00-19-56) (Claim) **Delmer Martinez** (via quoted speech): ["Delmer Martinez said he saw a young person holding another student by ..."](/statements/statement-bb1b2693fca9.md)
   - Also about: [Matthew Silverstone](/entities/person-matthew-silverstone.md)
+
+- [00:24:49](/episodes/ep-4DvYXBn_5JI.md#t-00-24-41) (Opinion) **Candace Owens**: ["Candace Owens explicitly said the near-simultaneous Evergreen High Sch..."](/statements/statement-f24029a25476.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Evergreen High School](/entities/org-evergreen-high-school.md)
 
 </details>
 

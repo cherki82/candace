@@ -62,7 +62,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-pure-talk-t-00-23-45" style="--pulse-height:50%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-pure-talk-t-00-48-40" style="--pulse-height:25%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-pure-talk-t-00-22-37" style="--pulse-height:62%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 5 mentions" title="2026-04-10 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-pure-talk-t-00-27-54" style="--pulse-height:62%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 5 mentions" title="2026-04-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-pure-talk-t-00-27-54" style="--pulse-height:50%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 4 mentions" title="2026-04-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-pure-talk-t-00-26-01" style="--pulse-height:62%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-pure-talk-t-00-26-41" style="--pulse-height:62%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 5 mentions" title="2026-05-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-pure-talk-t-00-21-14" style="--pulse-height:50%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
@@ -110,7 +110,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-pure-talk-t-00-23-45) | 4 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-pure-talk-t-00-48-40) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-pure-talk-t-00-22-37) | 5 |
-| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-pure-talk-t-00-27-54) | 5 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-pure-talk-t-00-27-54) | 4 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-pure-talk-t-00-26-01) | 5 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-pure-talk-t-00-26-41) | 5 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-pure-talk-t-00-21-14) | 4 |
@@ -487,16 +487,13 @@ Source: [PureTalk](https://www.puretalk.com/)
 </details>
 
 <details>
-<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (5 mentions)</summary>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (4 mentions)</summary>
 
 **[00:28:06](/episodes/ep-1mYNOqzAdXs.md#ent-org-pure-talk-t-00-27-54)**
 > "That's n-i-m-i skincare.com. Also telling you guys about Pure Talk because they were one of the first companies that I ever endorsed almost five years ago."
 
 **[00:28:14](/episodes/ep-1mYNOqzAdXs.md#ent-org-pure-talk-t-00-27-54)**
 > "...ompany that shares my values. Pure Talk is veteran led. So helping veterans is their Nort..."
-
-**[00:28:24](/episodes/ep-1mYNOqzAdXs.md#ent-org-pure-talk-t-00-27-54)**
-> "...reventing veteran suicide and pure talk creates american jobs with a u.s only workforce s..."
 
 **[00:28:40](/episodes/ep-1mYNOqzAdXs.md#ent-org-pure-talk-t-00-28-30)**
 > "I love PureTalk's service. They give you the same towers, the same ..."

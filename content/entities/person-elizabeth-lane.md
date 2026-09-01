@@ -21,10 +21,10 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-elizabeth-lane-t-00-38-15">2026-06-13 · 00:38:25</a></strong></div>
 <div><span>Episodes</span><strong>13</strong></div>
 <div><span>Mentions</span><strong>25</strong></div>
-<div><span>Statements by</span><strong>8</strong></div>
+<div><span>Statements by</span><strong>9</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -65,6 +65,10 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -266,7 +270,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Elizabeth Lane (8)</strong></summary>
+<summary><strong class="section-title">Statements by Elizabeth Lane (9)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>
@@ -277,7 +281,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 <details>
-<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (6)</summary>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (7)</summary>
 
 - [00:05:19](/episodes/ep-ZAsV0fHGBiM.md#t-00-04-51) [○] (Opinion) ["Erika Kirk is deeply disturbing because of consistent observable patterns of beh..."](/statements/statement-b5bb8b3b3510.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -293,6 +297,9 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 - [00:09:17](/episodes/ep-ZAsV0fHGBiM.md#t-00-09-17) [○] (Opinion) ["Erika Kirk's public identity changed after her relationship with Charlie Kirk be..."](/statements/statement-2ed73b3574b4.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Christianity](/entities/concept-christianity.md)
+
+- [00:10:11](/episodes/ep-ZAsV0fHGBiM.md#t-00-10-00) [○] (Opinion) ["Elizabeth Lane theorized that Charlie Kirk's conscience-driven rejection of mone..."](/statements/statement-063a20a2eb58.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:10:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-10-44) [✓] (Claim) ["Just days after Charlie Kirk's death, Erika Kirk was laying out ambitious plans ..."](/statements/statement-abcccb467cb0.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)

@@ -17,7 +17,7 @@ _Type: People_
 Source: [A mom wrote a book to help her kids process their dad's death. Now she's on trial for his killing](https://apnews.com/article/fb8c485bf705e7bb2c57a4f038ad76a4)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-eric-richins-t-00-37-48">2026-03-18 · 00:36:38</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-eric-richins-t-00-36-24">2026-03-18 · 00:36:38</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-person-eric-richins-t-00-26-43">2026-05-20 · 00:26:59</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -66,8 +66,8 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 **[00:39:52](/episodes/ep-_vg7ucP1E0g.md#ent-person-eric-richins-t-00-39-52)**
 > "...s to say that were it not for Eric Richins's actual friends, siblings, the housekeeper, even K..."
 
-**[00:36:38](/episodes/ep-_vg7ucP1E0g.md#ent-person-eric-richins-t-00-37-48)**
-> "March 4th, 2022 is when her husband Eric Richens was murdered, and it took them until May of 2023 to bring charges against her. So more than a year to build a case."
+**[00:36:38](/episodes/ep-_vg7ucP1E0g.md#ent-person-eric-richins-t-00-36-24)**
+> "March 4th, 2022 is when her husband Eric Richins was murdered, and it took them until May of 2023 to bring charges against her. So more than a year to build a case."
 
 </details>
 
@@ -94,7 +94,7 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 - **[Kouri Richins](/entities/person-kouri-richins.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24): “March 4th, 2022 is when her husband Eric Richens was murdered, and it took them until May of 2023 to bring charges against her. So more than a year to build a case.”
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24): “March 4th, 2022 is when her husband Eric Richins was murdered, and it took them until May of 2023 to bring charges against her. So more than a year to build a case.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:25:06](/episodes/ep-cPidFQDJLbo.md#t-00-25-06): “Kouri Richins was her name. Her husband died of an overdose. She then wrote a children's book and went on a public book tour to promote how to cope with loss, the loss of a, with her grieving children. ... See, her husband, Eric Richins. Also, her victim gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away, before he was murdered.”
 
 </details>
@@ -114,7 +114,7 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 - **[Kouri Richins](/entities/person-kouri-richins.md)** widow of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24): “March 4th, 2022 is when her husband Eric Richens was murdered, and it took them until May of 2023 to bring charges against her. So more than a year to build a case.”
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24): “March 4th, 2022 is when her husband Eric Richins was murdered, and it took them until May of 2023 to bring charges against her. So more than a year to build a case.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:25:06](/episodes/ep-cPidFQDJLbo.md#t-00-25-06): “Kouri Richins was her name. Her husband died of an overdose. She then wrote a children's book and went on a public book tour to promote how to cope with loss, the loss of a, with her grieving children. ... See, her husband, Eric Richins. Also, her victim gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away, before he was murdered.”
 
 </details>

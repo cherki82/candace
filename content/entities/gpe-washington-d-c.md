@@ -35,7 +35,7 @@ Source: [Washington, DC](https://dc.gov/)
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -142,6 +142,10 @@ Source: [Washington, DC](https://dc.gov/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -802,7 +806,7 @@ Source: [Washington, DC](https://dc.gov/)
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
 
-- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Owens said she was still working to verify reports that Mark Amodei mi..."](/statements/statement-14390b402a8a.md)
+- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Owens said she was still working to verify reports that Mark Amodei wa..."](/statements/statement-14390b402a8a.md)
   - Also about: [Mark Amodei](/entities/person-mark-amodei.md)
 
 - [00:36:24](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19) (Claim) **Diligent Denison (X account; identity unverified)** (via quoted post): ["Diligent Denison claimed that Mark Amodei was absent from the first tw..."](/statements/statement-b9a86ad8ed2a.md)

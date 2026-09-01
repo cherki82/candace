@@ -27,9 +27,9 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <div><span>Episodes</span><strong>19</strong></div>
 <div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -82,6 +82,10 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -454,7 +458,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point Action (19)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point Action (21)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
@@ -514,20 +518,26 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details>
-<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1)</summary>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2)</summary>
 
 - [00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01) (Claim) **Candace Owens**: ["Lori Frantzve was placed on the Superfeed Technologies board alongside..."](/statements/statement-7005646340ac.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)
 
+- [00:00:52](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42) (Citation) **Candace Owens** (via paraphrase): ["Owens reported unverified online rumors that money from Turning Point ..."](/statements/statement-45cb806aceb1.md)
+  - Also about: [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
 </details>
 
 <details>
-<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2)</summary>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (3)</summary>
 
 - [00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57) (Accusation) **Anonymous Source #4 (Ep 1IY2oD-_xVA)** (via quoted speech): ["The missing money was specifically from Turning Point Action, which Ty..."](/statements/statement-fc9de08969ab.md)
   - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 - [00:56:20](/episodes/ep-1IY2oD-_xVA.md#t-00-56-20) (Citation) **Candace Owens**: ["Two separate sources said Turning Point Action was missing about $10 m..."](/statements/statement-1d028d0b03b3.md)
+
+- [00:56:29](/episodes/ep-1IY2oD-_xVA.md#t-00-56-20) (Accusation) **Candace Owens**: ["Owens accused Erika Kirk of covering for the roughly $10 million alleg..."](/statements/statement-864b86203e5c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </details>
 
@@ -542,7 +552,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["Four months before Alton C. Jennings died, his will was changed in Nov..."](/statements/statement-c59ce538da60.md)
+- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["The December 2024 estate petition said that four months before Jenning..."](/statements/statement-c59ce538da60.md)
   - Also about: [Alton C. Jennings](/entities/person-alton-c-jennings.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </details>

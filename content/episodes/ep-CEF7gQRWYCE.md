@@ -1,14 +1,14 @@
 ---
 id: "CEF7gQRWYCE"
 title: "BAAL SO HARD: The Epstein Files | Candace Ep 300"
-description: "BAAL SO HARD: The Epstein Files | Candace Ep 300 - 178 entities, 16 events, 20 factual claims"
+description: "BAAL SO HARD: The Epstein Files | Candace Ep 300 - 178 entities, 16 events, 23 factual claims"
 published: "2026-02-02"
 youtube_url: "https://www.youtube.com/watch?v=CEF7gQRWYCE"
 ---
 
 **Published:** 2026-02-02 | [Watch on YouTube](https://www.youtube.com/watch?v=CEF7gQRWYCE)
 
-**Stats:** 178 entities | 16 events | 20 factual claims
+**Stats:** 178 entities | 16 events | 23 factual claims
 
 ---
 
@@ -422,7 +422,7 @@ youtube_url: "https://www.youtube.com/watch?v=CEF7gQRWYCE"
 </details>
 
 <details>
-<summary><strong>Statements (38)</strong></summary>
+<summary><strong>Statements (42)</strong></summary>
 
 - [00:01:34](#t-00-01-27) [?] (Accusation) **Candace Owens**: ["Donald Trump kept information in the Epstein files secret to protect elites."](/statements/statement-7dbd692e5719.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Epstein Files](/entities/work-epstein-files.md)
@@ -484,6 +484,8 @@ youtube_url: "https://www.youtube.com/watch?v=CEF7gQRWYCE"
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
 - [00:39:33](#t-00-39-33) [✓] (Claim) **Josh Hammer**: ["A Jewish donor was withholding a two-million-dollar donation from Charlie Kirk."](/statements/statement-b631f0dd7ef6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:39:50](#t-00-39-33) [✓] (Claim) **Josh Hammer**: ["Josh Hammer said he and several others joined a Zoom call organized by Charlie K..."](/statements/statement-1017c522e44f.md)
+  - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Zoom Communications](/entities/org-zoom-communications.md)
 - [00:39:54](#t-00-39-33) [✓] (Claim) **Josh Hammer**: ["On the night before Charlie Kirk was killed, Josh Hammer and several others join..."](/statements/statement-3f7895d04005.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Christianity](/entities/concept-christianity.md)
 - [00:43:56](#t-00-43-43) [?] (Claim) **Candace Owens**: ["On the night before his death, Charlie Kirk texted Dan Flood and Andrew Kolvet t..."](/statements/statement-c22432e9c7f9.md)
@@ -498,7 +500,13 @@ youtube_url: "https://www.youtube.com/watch?v=CEF7gQRWYCE"
   - About: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:48:41](#t-00-48-33) [?] (Claim) **Anonymous Source #2 (Ep CEF7gQRWYCE)**: ["A resident saw Charlie Kirk on a walk with an unidentified tall person who was n..."](/statements/statement-a13989fc1f47.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md)
+- [00:49:11](#t-00-49-11) [✓] (Claim) **Candace Owens**: ["Owens said she had not found anyone at the doctor's office, parking lot, or resi..."](/statements/statement-84de7379f697.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:51:14](#t-00-50-41) [?] (Accusation) **Candace Owens**: ["Erika Kirk is covering up for bad people and bringing them into Turning Point US..."](/statements/statement-d479b5a724c8.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:53:56](#t-00-53-56) [✓] (Accusation) **Candace Owens**: ["Owens alleged that people were being offered money to tolerate Charlie Kirk's mu..."](/statements/statement-1ff03e1b2738.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:54:08](#t-00-53-56) [✓] (Claim) **Candace Owens**: ["Owens said a large prospective donation involving someone named Pierre was at st..."](/statements/statement-af1e0584ab19.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

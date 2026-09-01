@@ -30,7 +30,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <div><span>Episodes</span><strong>108</strong></div>
 <div><span>Mentions</span><strong>763</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>213</strong></div>
+<div><span>Statements about</span><strong>218</strong></div>
 <div><span>Relationships</span><strong>39</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -3363,7 +3363,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (213)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (218)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -3793,7 +3793,10 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (5)</summary>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (7)</summary>
+
+- [00:31:54](/episodes/ep-eLgD5yUVbko.md#t-00-31-40) (Opinion) **Candace Owens**: ["Candace Owens speculated that, if the official account was fabricated,..."](/statements/statement-b60960331870.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:35:51](/episodes/ep-eLgD5yUVbko.md#t-00-35-25) (Accusation) **Candace Owens**: ["Candace Owens argued that the FBI released suspect photos and sought p..."](/statements/statement-3d4ae6743ef6.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Spencer Cox](/entities/person-spencer-cox.md), [Kash Patel](/entities/person-kash-patel.md)
@@ -3806,6 +3809,9 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 
 - [00:45:40](/episodes/ep-eLgD5yUVbko.md#t-00-45-03) (Accusation) **Anonymous Source #2 (Ep eLgD5yUVbko)** (via read message): ["Members of Lance Twiggs's family told Candace Owens that it was "compl..."](/statements/statement-f109089222e8.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [00:46:42](/episodes/ep-eLgD5yUVbko.md#t-00-46-23) (Opinion) **Candace Owens**: ["Candace Owens hypothesized that federal authorities could have coerced..."](/statements/statement-704f32bdb23f.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:48:33](/episodes/ep-eLgD5yUVbko.md#t-00-47-49) (Accusation) **Candace Owens**: ["Candace Owens said the Tyler Robinson case is a setup and that Robinso..."](/statements/statement-1eecc57afa84.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -3844,7 +3850,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (12)</summary>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (13)</summary>
 
 - [00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42) (Opinion) **Candace Owens**: ["In my opinion, it is definitive proof that Tyler Robinson is a patsy."](/statements/statement-5d0d4715d2cc.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -3857,6 +3863,8 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 
 - [00:08:17](/episodes/ep-UYkXV9mYbT4.md#t-00-08-03) (Claim) **Candace Owens**: ["The FBI was apparently on the phone with Justin Streiff and Frank Carn..."](/statements/statement-53b46473615f.md)
   - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Frank Carni](/entities/person-frank-carni.md)
+
+- [00:14:42](/episodes/ep-UYkXV9mYbT4.md#t-00-14-06) (Opinion) **Candace Owens**: ["The federal government's initial projectile narrative was ruined by th..."](/statements/statement-9e40f71edc81.md)
 
 - [00:16:31](/episodes/ep-UYkXV9mYbT4.md#t-00-16-08) (Accusation) **Anonymous Source #2 (Ep UYkXV9mYbT4)** (via read message): ["The sources said they were convinced that federal agents planted the g..."](/statements/statement-8694331bb2fc.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -3924,10 +3932,13 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2)</summary>
 
 - [00:02:42](/episodes/ep-B9TyCs-6o_0.md#t-00-02-37) (Claim) **Joe Kent** (via quoted speech): ["The National Counterterrorism Center was stopped from continuing to in..."](/statements/statement-6cb26b41836f.md)
   - Also about: [National Counterterrorism Center](/entities/org-national-counterterrorism-center.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:02:56](/episodes/ep-B9TyCs-6o_0.md#t-00-02-42) (Citation) **Joe Kent** (via paraphrase): ["Joe Kent said the FBI's stated reason for stopping the counterterroris..."](/statements/statement-1ee6e884dc7c.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 
@@ -3994,13 +4005,19 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (2)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (4)</summary>
+
+- [00:08:59](/episodes/ep-NIEbqsLAK8g.md#t-00-08-59) (Accusation) **Candace Owens**: ["Owens concluded that Robert Eugene Flood was a federal operative and s..."](/statements/statement-0cea143d2dfa.md)
+  - Also about: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [FBI Agents Association](/entities/org-fbi-agents-association.md)
 
 - [00:09:17](/episodes/ep-NIEbqsLAK8g.md#t-00-08-59) (Citation) **Candace Owens**: ["The FBI Agents Association is a charity founded in 1981 that says it h..."](/statements/statement-d70f584ccc65.md)
   - Also about: [FBI Agents Association](/entities/org-fbi-agents-association.md)
 
 - [00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-05) (Claim) **Candace Owens**: ["Greg Shaffer worked for the FBI Hostage Rescue Team, supervised the Da..."](/statements/statement-69178e8428ef.md)
   - Also about: [Greg Shaffer](/entities/person-greg-shaffer.md), [FBI Hostage Rescue Team](/entities/org-fbi-hostage-rescue-team.md), [North Texas Joint Terrorism Task Force](/entities/org-north-texas-joint-terrorism-task-force.md)
+
+- [00:16:00](/episodes/ep-NIEbqsLAK8g.md#t-00-15-32) (Accusation) **Candace Owens**: ["Owens posed a hypothetical that Dan Flood and Brian Harpole might have..."](/statements/statement-1b28998b14ea.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -4095,15 +4112,13 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (4)</summary>
 
 - [00:01:15](/episodes/ep-DqGNvi36ol8.md#t-00-00-41) (Opinion) **Candace Owens**: ["The public is more perceptive and capable than our FBI"](/statements/statement-0d8760c22327.md)
 
-- [00:04:48](/episodes/ep-DqGNvi36ol8.md#t-00-04-31) (Claim) **Candace Owens** (via paraphrase): ["Someone in his family submitted video footage to the FBI and the FBI a..."](/statements/statement-25aeef2ad429.md)
-
 - [00:10:32](/episodes/ep-DqGNvi36ol8.md#t-00-09-58) (Citation) **Candace Owens** (via read message): ["When police are in undercover units, the FBI, et cetera, and they are ..."](/statements/statement-a3b288bf6380.md)
 
-- [00:13:33](/episodes/ep-DqGNvi36ol8.md#t-00-13-15) (Accusation) **Candace Owens** (via paraphrase): ["The FBI asked him to delete that footage"](/statements/statement-7ae6804dd8de.md)
+- [00:23:27](/episodes/ep-DqGNvi36ol8.md#t-00-22-59) (Accusation) **Candace Owens** (via paraphrase): ["Owens relayed an unidentified TikTok user's claim that a relative subm..."](/statements/statement-25aeef2ad429.md)
 
 - [00:43:47](/episodes/ep-DqGNvi36ol8.md#t-00-43-37) (Claim) **Candace Owens** (via read message): ["A news station at the CK Memorial talked to attendees for three hours ..."](/statements/statement-7e27c29aa9ad.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Charlie Kirk](/entities/person-charlie-kirk.md)

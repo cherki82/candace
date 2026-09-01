@@ -28,7 +28,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <div><span>Episodes</span><strong>49</strong></div>
 <div><span>Mentions</span><strong>241</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>96</strong></div>
+<div><span>Statements about</span><strong>104</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1236,7 +1236,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fort Huachuca (96)</strong></summary>
+<summary><strong class="section-title">Statements about Fort Huachuca (104)</strong></summary>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
@@ -1324,7 +1324,21 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (4)</summary>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
+
+- [00:41:04](/episodes/ep-7FS1tUeSfdE.md#t-00-40-37) (Claim) **Candace Owens**: ["Candace Owens said her team found Captain Adam Neff and determined tha..."](/statements/statement-b0e8e478c220.md)
+  - Also about: [Captain Adam Neff](/entities/person-captain-adam-neff.md), [Mitch Snow](/entities/person-mitch-snow.md)
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (6)</summary>
+
+- [00:46:44](/episodes/ep-KpxIBWkNsSs.md#t-00-46-44) (Claim) **Candace Owens**: ["Candace Owens clarified that Mitch Snow claimed to see Erika Kirk at a..."](/statements/statement-6644fd455382.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Brian Harpole](/entities/person-brian-harpole.md), [Mitch Snow](/entities/person-mitch-snow.md)
+
+- [00:50:19](/episodes/ep-KpxIBWkNsSs.md#t-00-50-02) (Claim) **Candace Owens**: ["Candace Owens said the Harpole flight information Erika Kirk gave her ..."](/statements/statement-c69862a2963a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Brian Harpole](/entities/person-brian-harpole.md), [Mitch Snow](/entities/person-mitch-snow.md)
 
 - [00:51:13](/episodes/ep-KpxIBWkNsSs.md#t-00-51-13) (Accusation) **Candace Owens**: ["Candace Owens accused Valhalla VFT of threatening to ruin her if she d..."](/statements/statement-3c6a99a61590.md)
   - Also about: [Valhalla VFT](/entities/org-valhalla-vft.md), [Candace Owens](/entities/person-candace-owens.md), [Mitch Snow](/entities/person-mitch-snow.md)
@@ -1529,10 +1543,13 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2)</summary>
 
 - [00:19:39](/episodes/ep-HYn0P-P1wUw.md#t-00-19-25) (Claim) **Candace Owens**: ["Brian Harpole and Dan Flood had not responded to Candace Owens's quest..."](/statements/statement-7ef73732498c.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:37:24](/episodes/ep-HYn0P-P1wUw.md#t-00-37-24) (Opinion) **Candace Owens**: ["Candace Owens proposed Eddie Farnsworth as a possible Fort Huachuca at..."](/statements/statement-f7e2516eb5ac.md)
+  - Also about: [Eddie Farnsworth](/entities/person-eddie-farnsworth.md), [Mark Amodei](/entities/person-mark-amodei.md), [Mitch Snow](/entities/person-mitch-snow.md)
 
 </details>
 
@@ -1560,7 +1577,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (8)</summary>
 
 - [00:31:54](/episodes/ep-w1oqQbR_bYs.md#t-00-31-41) (Claim) **Candace Owens**: ["Fort Huachuca Education Center has connected students with Liberty Uni..."](/statements/statement-4a1ea3561680.md)
   - Also about: [Liberty University](/entities/org-liberty-university.md)
@@ -1568,10 +1585,16 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 - [00:32:38](/episodes/ep-w1oqQbR_bYs.md#t-00-32-19) (Claim) **Candace Owens**: ["Owens said she had verified Mitch's location and Captain Neff's presen..."](/statements/statement-614098d3d935.md)
   - Also about: [Mitch Snow](/entities/person-mitch-snow.md)
 
+- [00:33:57](/episodes/ep-w1oqQbR_bYs.md#t-00-33-40) (Claim) **Mitch Snow** (via paraphrase): ["Mitch Snow reportedly believed the congressman he saw at the alleged F..."](/statements/statement-032baf367a98.md)
+  - Also about: [Mark Amodei](/entities/person-mark-amodei.md), [Mitch Snow](/entities/person-mitch-snow.md)
+
 - [00:34:57](/episodes/ep-w1oqQbR_bYs.md#t-00-34-25) (Claim) **Candace Owens**: ["The alleged meeting at Fort Huachuca was concluding around 7:30 a.m. o..."](/statements/statement-9c867c67f2e6.md)
 
 - [00:37:55](/episodes/ep-w1oqQbR_bYs.md#t-00-37-49) (Claim) **Candace Owens**: ["Owens says private travel logs made it possible for Brian Harpole to r..."](/statements/statement-b42ceeaf4f20.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:38:53](/episodes/ep-w1oqQbR_bYs.md#t-00-38-25) (Claim) **Anonymous vetted Fort Huachuca evidence source (Ep w1oqQbR_bYs; identity unverified)** (via paraphrase): ["An anonymous source being vetted by Owens claimed to possess evidence ..."](/statements/statement-49cf7ff287ea.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md)
 
 - [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) (Claim) **Candace Owens**: ["Mitch tentatively identified Cabot Phillips from a photo, but Owens ca..."](/statements/statement-b16f405410db.md)
   - Also about: [Cabot Phillips](/entities/person-cabot-phillips.md), [Mitch Snow](/entities/person-mitch-snow.md)
@@ -1623,6 +1646,17 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 - [01:02:06](/episodes/ep-9k2xrAC0H88.md#t-01-01-46) (Claim) **Candace Owens**: ["One of the congressmen that the Fort Huachuca eyewitness believes he s..."](/statements/statement-ff98d3afb248.md)
   - Also about: [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Harry Myers](/entities/person-harry-myers.md)
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+
+- [01:04:40](/episodes/ep-es7PWdFGoFI.md#t-01-04-23) (Opinion) **Baron Coleman** (via paraphrase): ["Baron Coleman was described as suggesting that JD Vance might have bee..."](/statements/statement-45cd315e1bbc.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md)
+
+- [01:05:03](/episodes/ep-es7PWdFGoFI.md#t-01-04-23) (Claim) **Candace Owens**: ["Owens said she found video that ruled out JD Vance as the person alleg..."](/statements/statement-52547029472b.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md)
 
 </details>
 

@@ -4,10 +4,9 @@ description: "\"Charlie Kirk was killed when he tried to leave an entertainment 
 statement_id: "statement-9e4c24f34534"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "false"
 ---
 
-**Status:** ✗ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -34,21 +33,7 @@ veracity: "false"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-Utah prosecutors charged Tyler Robinson with targeting Kirk because of Kirk's political expression. The case remains pending, but the public evidentiary record does not support an entertainment-gang motive or killing tied to Kirk trying to leave one.
-
-**Confidence:** Medium
-
-**Sources:**
-
-- [State of Utah v. Tyler James Robinson — Criminal Information](https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf)
-- [FBI Director Patel's opening statement on the Charlie Kirk assassination](https://www.fbi.gov/news/speeches-and-testimony/director-patel-opening-statement-to-the-senate-committee-on-the-judiciary-091625)
-
-*Verified: 2026-08-15T12:20:17.873917*
+_This statement has not yet been verified._
 
 ---
 

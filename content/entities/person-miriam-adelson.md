@@ -25,7 +25,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -68,6 +68,10 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -443,7 +447,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
 - [00:43:31](/episodes/ep-w1oqQbR_bYs.md#t-00-43-06) (Claim) **Candace Owens**: ["Owens said she found information indicating that Cabot Phillips's fath..."](/statements/statement-ac23843213dd.md)
-  - Also about: [Graham Phillips](/entities/person-graham-phillips.md), [Sheldon Adelson](/entities/person-sheldon-adelson.md)
+  - Also about: [Sheldon Adelson](/entities/person-sheldon-adelson.md)
 
 </details>
 

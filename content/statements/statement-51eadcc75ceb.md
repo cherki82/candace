@@ -1,6 +1,6 @@
 ---
-title: "Justin Strife was announced as the new COO of Turning Point ..."
-description: "\"Justin Strife was announced as the new COO of Turning Point USA on September 2nd, taking over for Tyler Bowyer\" — Candace Owens"
+title: "Justin Streiff was announced as the new COO of Turning Point..."
+description: "\"Justin Streiff was announced as the new COO of Turning Point USA on September 2, taking over for Tyler Bowyer.\" — Candace Owens"
 statement_id: "statement-51eadcc75ceb"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Justin Strife was announced as the new COO of Turning Point USA on September 2nd, taking over for Tyler Bowyer
+> Justin Streiff was announced as the new COO of Turning Point USA on September 2, taking over for Tyler Bowyer.
 
 ## Attribution
 

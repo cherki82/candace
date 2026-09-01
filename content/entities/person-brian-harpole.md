@@ -25,8 +25,8 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-brian-harpole-t-00-21-41">2026-08-19 · 00:22:10</a></strong></div>
 <div><span>Episodes</span><strong>52</strong></div>
 <div><span>Mentions</span><strong>341</strong></div>
-<div><span>Statements by</span><strong>27</strong></div>
-<div><span>Statements about</span><strong>109</strong></div>
+<div><span>Statements by</span><strong>28</strong></div>
+<div><span>Statements about</span><strong>117</strong></div>
 <div><span>Relationships</span><strong>36</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1839,7 +1839,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Brian Harpole (27)</strong></summary>
+<summary><strong class="section-title">Statements by Brian Harpole (28)</strong></summary>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (4)</summary>
@@ -1928,7 +1928,10 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (3)</summary>
+
+- [00:09:44](/episodes/ep-69A8TzAGHlU.md#t-00-09-31) [○] (Claim) ["Brian Harpole's complaint said he did not play a role in Charlie Kirk's assassin..."](/statements/statement-05f2a31b2da1.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:10:31](/episodes/ep-69A8TzAGHlU.md#t-00-10-31) [✓] (Claim) ["Brian Harpole spent thousands of dollars on drones and obtained a licensed opera..."](/statements/statement-947ff90429d1.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Provo](/entities/gpe-provo.md), [Utah Valley University](/entities/org-utah-valley-university.md)
@@ -1984,7 +1987,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (109)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (117)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
@@ -2186,10 +2189,19 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (3)</summary>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (6)</summary>
+
+- [00:46:44](/episodes/ep-KpxIBWkNsSs.md#t-00-46-44) (Claim) **Candace Owens**: ["Candace Owens clarified that Mitch Snow claimed to see Erika Kirk at a..."](/statements/statement-6644fd455382.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Mitch Snow](/entities/person-mitch-snow.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 - [00:48:52](/episodes/ep-KpxIBWkNsSs.md#t-00-48-33) (Claim) **Candace Owens**: ["Candace Owens said she messaged Brian Harpole four times seeking a res..."](/statements/statement-db50e6302922.md)
   - Also about: [Mitch Snow](/entities/person-mitch-snow.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:49:32](/episodes/ep-KpxIBWkNsSs.md#t-00-49-18) (Claim) **Candace Owens**: ["Candace Owens said Erika Kirk handed her an alibi for Brian Harpole de..."](/statements/statement-1fefd0eb7e9e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:50:19](/episodes/ep-KpxIBWkNsSs.md#t-00-50-02) (Claim) **Candace Owens**: ["Candace Owens said the Harpole flight information Erika Kirk gave her ..."](/statements/statement-c69862a2963a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Mitch Snow](/entities/person-mitch-snow.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 - [00:54:59](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59) (Accusation) **Candace Owens**: ["Candace Owens accused Brian Harpole of making false claims in a court ..."](/statements/statement-16ff80b0c9af.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md)
@@ -2250,7 +2262,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2)</summary>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (3)</summary>
 
 - [00:00:41](/episodes/ep-uC_GjKU8rs8.md#t-00-00-41) (Claim) **Candace Owens**: ["The lawyer who sent Brian Harpole’s lawsuit had already been suing Can..."](/statements/statement-efb425af7419.md)
   - Also about: [Matthew Sarelson](/entities/person-matthew-sarelson.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -2258,10 +2270,13 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [00:00:57](/episodes/ep-uC_GjKU8rs8.md#t-00-00-41) (Claim) **Candace Owens**: ["Jacob William Roth is a partner at the law firm and Ben Shapiro’s brot..."](/statements/statement-3c3a9d78cecd.md)
   - Also about: [Jacob William Roth](/entities/person-jacob-william-roth.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
 
+- [00:50:52](/episodes/ep-uC_GjKU8rs8.md#t-00-50-13) (Opinion) **Candace Owens**: ["Candace Owens said she hoped discovery in Harpole's lawsuit would prov..."](/statements/statement-176416073914.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
 </details>
 
 <details>
-<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (25)</summary>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (28)</summary>
 
 - [00:01:58](/episodes/ep-69A8TzAGHlU.md#t-00-01-23) (Claim) **Candace Owens**: ["Brian Harpole filed a lawsuit without first communicating with Candace..."](/statements/statement-937a3e4c96ed.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
@@ -2286,6 +2301,9 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 - [00:09:28](/episodes/ep-69A8TzAGHlU.md#t-00-08-48) (Accusation) **Matthew Sarelson** (via quoted document): ["Candace Owens falsely accused Brian Harpole of failing to render effec..."](/statements/statement-8d57d975c7b5.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:09:44](/episodes/ep-69A8TzAGHlU.md#t-00-09-31) (Claim) **Brian Harpole** (via quoted document): ["Brian Harpole's complaint said he did not play a role in Charlie Kirk'..."](/statements/statement-05f2a31b2da1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:10:31](/episodes/ep-69A8TzAGHlU.md#t-00-10-31) (Claim) **Brian Harpole**: ["Brian Harpole spent thousands of dollars on drones and obtained a lice..."](/statements/statement-947ff90429d1.md)
   - Also about: [Provo](/entities/gpe-provo.md), [Utah Valley University](/entities/org-utah-valley-university.md)
@@ -2322,6 +2340,9 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [00:28:06](/episodes/ep-69A8TzAGHlU.md#t-00-27-52) (Accusation) **Candace Owens**: ["Brian Harpole presented Dan Flood's messages as though they were his o..."](/statements/statement-a49494525cd8.md)
   - Also about: [Dan Flood](/entities/person-dan-flood.md)
 
+- [00:28:06](/episodes/ep-69A8TzAGHlU.md#t-00-27-52) (Claim) **Candace Owens**: ["Candace Owens said Brian Harpole's lawsuit acknowledged that the rooft..."](/statements/statement-e83fc00c4d34.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md)
+
 - [00:28:40](/episodes/ep-69A8TzAGHlU.md#t-00-28-30) (Accusation) **Candace Owens**: ["Brian Harpole's lawyer lied in the filing by claiming Candace Owens re..."](/statements/statement-b9e79eec1b28.md)
   - Also about: [Matthew Sarelson](/entities/person-matthew-sarelson.md), [Candace Owens](/entities/person-candace-owens.md), [Mitch Snow](/entities/person-mitch-snow.md)
 
@@ -2330,6 +2351,9 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 - [00:34:24](/episodes/ep-69A8TzAGHlU.md#t-00-34-24) (Opinion) **Candace Owens**: ["Is Brian Harpole's lawsuit a public-relations move?"](/statements/statement-6476ff08ce96.md)
   - Also about: [Matthew Sarelson](/entities/person-matthew-sarelson.md)
+
+- [00:35:02](/episodes/ep-69A8TzAGHlU.md#t-00-34-24) (Opinion) **Candace Owens**: ["Candace Owens said Harpole's lawsuit might create an opportunity to su..."](/statements/statement-547999361b9c.md)
+  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [01:09:16](/episodes/ep-69A8TzAGHlU.md#t-01-09-16) (Opinion) **Candace Owens**: ["The attacks on Candace Owens, including Brian Harpole's lawsuit, may h..."](/statements/statement-53b975735ecf.md)
   - Also about: [Matthew Sarelson](/entities/person-matthew-sarelson.md), [Laura Loomer](/entities/person-laura-loomer.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -2348,10 +2372,13 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (2)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (3)</summary>
 
 - [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-13-35) (Claim) **Candace Owens**: ["All of Charlie Kirk's security personnel on the day of his assassinati..."](/statements/statement-cb561dcf34d6.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rick Cutler](/entities/person-rick-cutler.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:16:00](/episodes/ep-NIEbqsLAK8g.md#t-00-15-32) (Accusation) **Candace Owens**: ["Owens posed a hypothetical that Dan Flood and Brian Harpole might have..."](/statements/statement-1b28998b14ea.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
 
 - [00:29:45](/episodes/ep-NIEbqsLAK8g.md#t-00-29-42) (Accusation) **Candace Owens**: ["Turning Point USA and its security representatives are lying about the..."](/statements/statement-73e35afd8842.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)

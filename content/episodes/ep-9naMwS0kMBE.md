@@ -1,14 +1,14 @@
 ---
 id: "9naMwS0kMBE"
 title: "Candace x Baron Coleman LIVE!! | Candace Ep 293"
-description: "Candace x Baron Coleman LIVE!! | Candace Ep 293 - 137 entities, 15 events, 26 factual claims"
+description: "Candace x Baron Coleman LIVE!! | Candace Ep 293 - 137 entities, 15 events, 28 factual claims"
 published: "2026-01-20"
 youtube_url: "https://www.youtube.com/watch?v=9naMwS0kMBE"
 ---
 
 **Published:** 2026-01-20 | [Watch on YouTube](https://www.youtube.com/watch?v=9naMwS0kMBE)
 
-**Stats:** 137 entities | 15 events | 26 factual claims
+**Stats:** 137 entities | 15 events | 28 factual claims
 
 ---
 
@@ -281,7 +281,7 @@ youtube_url: "https://www.youtube.com/watch?v=9naMwS0kMBE"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-9naMwS0kMBE/t-00-09-01.md" class="timestamp-link">00:09:01</a> <a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=541" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Yes. So back in 2012, you guys may or may not recall, but we will now that I say it, there was this mass shooting that happened in a movie theater where a guy, we were told, the public were told, kind of similar to the <span id="ent-person-charlie-kirk-t-00-09-01"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span> assassination. Some guy walks in in tactical gear, but this was like he was like throwing smoke grenades. I mean, it looks in retrospect pretty military. And then they pull out this guy and they're like, hey, this movie was coming out here. Oh, here he is. It's this guy. He did the whole thing. He did the whole thing. Well, at that time when when <span id="ent-person-erika-kirk-t-00-09-01"><a href="/entities/person-erika-kirk.md">Erika</a></span> was it was her year as <span id="ent-org-miss-arizona-usa-t-00-09-01"><a href="/entities/org-miss-arizona-usa.md">Miss Arizona</a></span>, somebody just randomly tweeted at her like, why haven't you made a statement about this horrific shooting? ^t-00-09-01
+**<a href="/timestamps/ep-9naMwS0kMBE/t-00-09-01.md" class="timestamp-link">00:09:01</a> <a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=541" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Yes. So back in 2012, you guys may or may not recall, but we will now that I say it, there was this mass shooting that happened in a movie theater where a guy, we were told, the public were told, kind of similar to the <span id="ent-person-charlie-kirk-t-00-09-01"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span> assassination. Some guy walks in in tactical gear, but this was like he was like throwing smoke grenades. I mean, it looks in retrospect pretty military. And then they pull out this guy and they're like, hey, this movie was coming out here. Oh, here he is. It's this guy. He did the whole thing. He did the whole thing. Well, at that time when when <span id="ent-person-erika-kirk-t-00-09-01"><a href="/entities/person-erika-kirk.md">Erika</a></span> was it was her year as Miss <span id="ent-gpe-arizona-t-00-09-01"><a href="/entities/gpe-arizona.md">Arizona</a></span>, somebody just randomly tweeted at her like, why haven't you made a statement about this horrific shooting? ^t-00-09-01
 
 **<a href="/timestamps/ep-9naMwS0kMBE/t-00-09-42.md" class="timestamp-link">00:09:42</a> <a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=582" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And <span id="ent-person-erika-kirk-t-00-09-42"><a href="/entities/person-erika-kirk.md">Erika</a></span> replies and this is what she said. We can show this. And now it says just you guys are clear. It says <span id="ent-person-candace-owens-t-00-09-42"><a href="/entities/person-candace-owens.md">Candace</a></span> Knable because she now runs that feed as he was explaining. But this was <a href="/entities/person-erika-kirk.md">Erika</a> tweeting this back at that person. <a href="/entities/person-erika-kirk.md">Erika</a> says, one of my best friends was in the theater. So although my acknowledgement hasn't been blasted via social media, it's been more on a personal level. So <a href="/entities/person-erika-kirk.md">Erika</a> has a personal attachment via her friend who was in this theater at the time of another shooting. ^t-00-09-42
 
@@ -2553,7 +2553,7 @@ youtube_url: "https://www.youtube.com/watch?v=9naMwS0kMBE"
 </details>
 
 <details>
-<summary><strong>Statements (49)</strong></summary>
+<summary><strong>Statements (53)</strong></summary>
 
 - [00:01:11](#t-00-01-11) [◐] (Claim) **Baron Coleman**: ["Turning Point USA purged 30 to 40 people because it was looking for an internal ..."](/statements/statement-e8f3cf662b8e.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -2627,16 +2627,22 @@ youtube_url: "https://www.youtube.com/watch?v=9naMwS0kMBE"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:46:49](#t-00-46-48) [◐] (Claim) **Candace Owens**: ["Protestant and evangelical churches are experiencing a mass exodus."](/statements/statement-bce85d95243d.md)
   - About: [Christianity](/entities/concept-christianity.md)
+- [00:49:45](#t-00-49-23) [○] (Claim) **Candace Owens**: ["Owens said private group-chat messages show that before Kirk's death she warned ..."](/statements/statement-bf66e09dc86c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Shaffer Security Group](/entities/org-shaffer-security-group.md)
 - [00:50:09](#t-00-49-55) [○] (Accusation) **Candace Owens**: ["The United States military may be identifying gifted children through testing an..."](/statements/statement-ac859b5569d0.md)
   - About: [United States Department of Defense](/entities/org-us-department-of-defense.md)
 - [00:51:33](#t-00-51-26) [✓] (Claim) **Candace Owens**: ["At AmericaFest, Turning Point USA played audio of Charlie Kirk saying that he wa..."](/statements/statement-8fe6d7e87349.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:53:30](#t-00-53-30) [○] (Claim) **Candace Owens**: ["Owens said Erika Kirk and TPUSA presented her with a printed transcript of Charl..."](/statements/statement-b2cb3148c13c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:54:34](#t-00-54-01) [○] (Claim) **Candace Owens**: ["Two attendees at the August Aspen donor retreat told Candace Owens they did not ..."](/statements/statement-b5dc191ed914.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:55:13](#t-00-55-13) [○] (Accusation) **Baron Coleman**: ["A person who asks a healthy 31-year-old what will happen when he dies intends to..."](/statements/statement-5fab769c8c7b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:59:10](#t-00-58-54) [?] (Claim) **Candace Owens**: ["On the night before his death, Charlie Kirk texted Dan Flood and Andrew Kolvet t..."](/statements/statement-c22432e9c7f9.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+- [00:59:49](#t-00-59-49) [○] (Accusation) **Candace Owens**: ["Owens said Erika Kirk first learned from Owens about Charlie Kirk's death-warnin..."](/statements/statement-890947deab4d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
 - [01:00:19](#t-00-59-56) [○] (Accusation) **Baron Coleman**: ["In Baron Coleman's opinion, Erika Kirk knew before September 10 that Charlie Kir..."](/statements/statement-e690f0974d52.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [01:01:41](#t-01-01-33) [○] (Claim) **Andrew Kolvet**: ["Andrew Kolvet told Candace Owens that after his plane landed following Charlie K..."](/statements/statement-fbce87851eb6.md)
@@ -2647,6 +2653,8 @@ youtube_url: "https://www.youtube.com/watch?v=9naMwS0kMBE"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Arizona](/entities/gpe-arizona.md)
 - [01:02:58](#t-01-02-36) [○] (Claim) **Candace Owens**: ["After waiting for Andrew Kolvet to land, Erika Kirk and Kolvet entered the hospi..."](/statements/statement-906406142ac4.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+- [01:09:02](#t-01-08-36) [○] (Accusation) **Candace Owens**: ["Owens said Kolvet narrated his flight to Provo as though he were alone with pent..."](/statements/statement-325e08874b64.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 - [01:10:18](#t-01-10-18) [○] (Claim) **Justin Streiff**: ["Justin Streiff told Candace Owens that Andrew Kolvet's wife was on Kolvet's flig..."](/statements/statement-3127ea4e2945.md)
   - About: [Justin Streiff](/entities/person-justin-streiff.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [01:11:19](#t-01-11-10) [○] (Accusation) **Candace Owens**: ["Candace Owens said Erika Kirk told her that Andrew Kolvet had gone rogue."](/statements/statement-1d6dcce1740b.md)

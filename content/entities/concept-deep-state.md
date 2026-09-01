@@ -18,9 +18,9 @@ _Type: Concepts_
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -45,6 +45,10 @@ _Type: Concepts_
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -119,7 +123,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Deep state (3)</strong></summary>
+<summary><strong class="section-title">Statements about Deep state (5)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2)</summary>
@@ -137,6 +141,17 @@ _No relationships extracted yet._
 
 - [00:24:00](/episodes/ep-tXoI0TTKVrs.md#t-00-24-00) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was a deep-state operation akin to the JF..."](/statements/statement-043b57b3d671.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2)</summary>
+
+- [00:21:50](/episodes/ep-BKcOm32ZEGk.md#t-00-21-49) (Accusation) **Candace Owens**: ["Owens said it was plausible that agents had marked and monitored Kirk ..."](/statements/statement-9174949efe58.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:23:15](/episodes/ep-BKcOm32ZEGk.md#t-00-22-34) (Opinion) **Candace Owens**: ["Owens said Kirk's assassination backfired by catalyzing the loss of co..."](/statements/statement-e60428fdd144.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </details>
 

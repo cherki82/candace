@@ -22,9 +22,9 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -47,6 +47,10 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -222,7 +226,7 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Zenger (4)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Zenger (5)</strong></summary>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
@@ -233,10 +237,13 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 </details>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3)</summary>
 
 - [00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21) (Claim) **Candace Owens**: ["Andrew Zenger was appointed CEO of Timpanogos Regional Hospital on Aug..."](/statements/statement-a9204a5bd0b6.md)
   - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Medical City McKinney](/entities/org-medical-city-mckinney.md), [McKinney, Texas](/entities/gpe-mckinney-texas.md)
+
+- [00:27:00](/episodes/ep-rupRLXmSndU.md#t-00-26-20) (Opinion) **Candace Owens**: ["Whether Andrew Zenger was recruited by the CIA remains an open questio..."](/statements/statement-12abc8688520.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 - [00:27:04](/episodes/ep-rupRLXmSndU.md#t-00-27-04) (Claim) **Candace Owens**: ["Michael Sean Covey, who roomed with Andrew Zenger in Jerusalem, later ..."](/statements/statement-aa6071978dd3.md)
   - Also about: [Michael Sean Covey](/entities/person-michael-sean-covey.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Jerusalem](/entities/gpe-jerusalem.md)

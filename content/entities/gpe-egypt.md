@@ -25,7 +25,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <div><span>Episodes</span><strong>49</strong></div>
 <div><span>Mentions</span><strong>240</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1196,7 +1196,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Egypt (18)</strong></summary>
+<summary><strong class="section-title">Statements about Egypt (19)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
@@ -1219,6 +1219,14 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 
 - [00:30:25](/episodes/ep-B9TyCs-6o_0.md#t-00-29-47) (Citation) **Candace Owens**: ["An Egyptian plane transponded in Provo from 10:05 a.m. to 11:34 a.m. U..."](/statements/statement-715e0bab86a0.md)
   - Also about: [Provo](/entities/gpe-provo.md)
+
+</details>
+
+<details>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (1)</summary>
+
+- [00:15:54](/episodes/ep-mFuno0TuuQQ.md#t-00-15-54) (Accusation) **Candace Owens**: ["Owens theorized that France, Israel, the United States, and Egypt were..."](/statements/statement-b19e929dcdf2.md)
+  - Also about: [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
 
 </details>
 

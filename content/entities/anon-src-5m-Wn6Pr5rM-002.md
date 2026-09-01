@@ -20,7 +20,7 @@ _Type: Anonymous Sources_
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -37,6 +37,10 @@ _Type: Anonymous Sources_
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -91,7 +95,7 @@ _Type: Anonymous Sources_
 - [00:21:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-20-48) [◐] (Claim) ["Hopkinson Aircraft is not a CIA front company and does real business."](/statements/statement-59e8090f70bf.md)
   - About: [Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
-- [00:22:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-22-59) [○] (Claim) ["I will not confirm or deny whether I saw Erika Kirk at Hopkinson Aircraft that d..."](/statements/statement-ead9172d000f.md)
+- [00:22:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-22-59) [✓] (Claim) ["I will not confirm or deny whether I saw Erika Kirk at Hopkinson Aircraft that d..."](/statements/statement-ead9172d000f.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md)
 
 </details>

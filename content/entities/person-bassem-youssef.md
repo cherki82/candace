@@ -28,10 +28,10 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-bassem-youssef-t-01-17-15">2026-05-28 · 01:17:15</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
-<div><span>Statements by</span><strong>29</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements by</span><strong>31</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -60,6 +60,10 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -265,10 +269,10 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Bassem Youssef (29)</strong></summary>
+<summary><strong class="section-title">Statements by Bassem Youssef (31)</strong></summary>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (29)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (31)</summary>
 
 - [00:03:10](/episodes/ep-xjzb_t5Tk9o.md#t-00-03-10) [○] (Accusation) ["Ben Shapiro is a confident liar who lies easily and speaks quickly so facts cann..."](/statements/statement-5b5bc40c1951.md)
   - About: [Ben Shapiro](/entities/person-ben-shapiro.md)
@@ -293,6 +297,9 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 
 - [00:15:31](/episodes/ep-xjzb_t5Tk9o.md#t-00-15-28) [✗] (Accusation) ["Arsen Ostrovsky's photographs from the Bondi attack were staged and his bandages..."](/statements/statement-79ca9bb2cf94.md)
   - About: [Arsen Ostrovsky](/entities/person-arsen-ostrovsky.md), [2025 Bondi Beach shooting](/entities/event-2025-bondi-beach-shooting.md)
+
+- [00:26:43](/episodes/ep-xjzb_t5Tk9o.md#t-00-26-33) [✓] (Opinion) ["Youssef said he agreed Kirk was beginning to 'wake up' near the end because Kirk..."](/statements/statement-6b3e54bae36e.md)
+  - About: [Bassem Youssef](/entities/person-bassem-youssef.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 - [00:27:26](/episodes/ep-xjzb_t5Tk9o.md#t-00-27-02) [○] (Accusation) ["Charlie Kirk falsely claimed that a Jewish person entering an Arab neighborhood ..."](/statements/statement-7f5ab000e3f0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Judaism](/entities/concept-judaism.md), [Israel](/entities/gpe-israel.md)
@@ -336,6 +343,9 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 - [00:57:32](/episodes/ep-xjzb_t5Tk9o.md#t-00-57-32) [✓] (Claim) ["A Palestinian friend of Bassem Youssef and two companions were shot while he was..."](/statements/statement-dc58e12a62df.md)
   - About: [Palestine](/entities/gpe-palestine.md), [United States](/entities/gpe-united-states.md)
 
+- [01:07:17](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-58) [✓] (Opinion) ["Youssef implied that insiders such as Owens and Kirk who began turning against p..."](/statements/statement-3d9fcc2922d3.md)
+  - About: [Bassem Youssef](/entities/person-bassem-youssef.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [01:21:46](/episodes/ep-xjzb_t5Tk9o.md#t-01-21-46) [◐] (Citation) ["Bassem Youssef said Breaking the Silence is a group of former IDF soldiers who d..."](/statements/statement-7bd7a3fccfcd.md)
   - About: [Breaking the Silence](/entities/org-breaking-the-silence.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Gaza](/entities/gpe-gaza.md)
 
@@ -362,13 +372,19 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bassem Youssef (2)</strong></summary>
+<summary><strong class="section-title">Statements about Bassem Youssef (4)</strong></summary>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (3)</summary>
 
 - [00:02:52](/episodes/ep-xjzb_t5Tk9o.md#t-00-02-28) (Accusation) **Candace Owens**: ["The Daily Wire refused to host Bassem Youssef because he had hurt Ben ..."](/statements/statement-07991641f9f1.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:26:43](/episodes/ep-xjzb_t5Tk9o.md#t-00-26-33) (Opinion) **Bassem Youssef**: ["Youssef said he agreed Kirk was beginning to 'wake up' near the end be..."](/statements/statement-6b3e54bae36e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+- [01:07:17](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-58) (Opinion) **Bassem Youssef**: ["Youssef implied that insiders such as Owens and Kirk who began turning..."](/statements/statement-3d9fcc2922d3.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 </details>
 

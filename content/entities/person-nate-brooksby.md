@@ -27,9 +27,9 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 <div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -62,6 +62,10 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -351,7 +355,7 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nate Brooksby (7)</strong></summary>
+<summary><strong class="section-title">Statements about Nate Brooksby (8)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>
@@ -370,10 +374,13 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 </details>
 
 <details>
-<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (5)</summary>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (6)</summary>
 
 - [00:28:14](/episodes/ep-7ERqbYElOfs.md#t-00-28-14) (Claim) **Candace Owens**: ["Washington County Sheriff Nate Brooksby abruptly resigned during an el..."](/statements/statement-cb0cf1a88246.md)
   - Also about: [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md), [Washington County](/entities/gpe-washington-county.md)
+
+- [00:29:26](/episodes/ep-7ERqbYElOfs.md#t-00-28-49) (Citation) **Candace Owens**: ["Candace Owens said she wondered whether Nate Brooksby's sudden resigna..."](/statements/statement-6658a08b542c.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:29:32](/episodes/ep-7ERqbYElOfs.md#t-00-29-32) (Citation) **Candace Owens**: ["The Washington County Commission confirmed that Nate Brooksby resigned..."](/statements/statement-1e7fc8e95de2.md)
   - Also about: [Washington County Commission](/entities/org-washington-county-commission.md)

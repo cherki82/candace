@@ -1,23 +1,29 @@
 ---
-title: "this person claims that Charlie Kirk's assassin trained with..."
-description: "\"this person claims that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement\" — Candace Owens"
+title: "An anonymous purported French-government source alleged that..."
+description: "\"An anonymous purported French-government source alleged that Charlie Kirk’s assassin trained with the French Foreign Legion “13th Brigade” and that mu...\" — Anonymous French government source (Ep tB5SXXmd9vU)"
 statement_id: "statement-dd336cf8fac8"
-speaker: "Candace Owens"
-type: "factual_claim"
+speaker: "Anonymous French government source (Ep tB5SXXmd9vU)"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> this person claims that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement
+> An anonymous purported French-government source alleged that Charlie Kirk’s assassin trained with the French Foreign Legion “13th Brigade” and that multiple states were involved.
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Anonymous French government source (Ep tB5SXXmd9vU)](/entities/anon-src-tB5SXXmd9vU-001.md) (Anonymous Source)
 
-**Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+**Delivery:** Paraphrased
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** private French-government source summarized in Owens’s November 25 post
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [French Foreign Legion](/entities/org-french-foreign-legion.md) (org)
 
 ## Source
 
@@ -29,8 +35,8 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

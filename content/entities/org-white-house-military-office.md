@@ -26,9 +26,9 @@ Source: [The Executive Branch - The White House](https://www.whitehouse.gov/gove
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -51,6 +51,10 @@ Source: [The Executive Branch - The White House](https://www.whitehouse.gov/gove
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -159,7 +163,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about White House Military Office (10)</strong></summary>
+<summary><strong class="section-title">Statements about White House Military Office (12)</strong></summary>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
@@ -192,10 +196,16 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (5)</summary>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (7)</summary>
+
+- [00:02:34](/episodes/ep-7FS1tUeSfdE.md#t-00-02-23) (Opinion) **Candace Owens**: ["Candace Owens acknowledged that military coordination of safety messag..."](/statements/statement-9aa821cfa44b.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [JD Vance](/entities/person-jd-vance.md)
 
 - [00:03:53](/episodes/ep-7FS1tUeSfdE.md#t-00-03-43) (Citation) **Candace Owens**: ["At approximately 9:49 p.m., the White House Military Office sent an up..."](/statements/statement-01816f223cb6.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:04:46](/episodes/ep-7FS1tUeSfdE.md#t-00-04-19) (Claim) **Candace Owens**: ["Candace Owens said she would not publish the White House Military Offi..."](/statements/statement-8511c7e80a4d.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md)
 
 - [00:06:51](/episodes/ep-7FS1tUeSfdE.md#t-00-06-51) (Claim) **White House Military Office** (via quoted document): ["The Erika Kirk “I just want to go home” clip was driving the highest o..."](/statements/statement-623ffc87f369.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)

@@ -26,10 +26,10 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jd-vance-t-00-48-48">2026-08-21 · 00:48:55</a></strong></div>
 <div><span>Episodes</span><strong>31</strong></div>
 <div><span>Mentions</span><strong>79</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -106,6 +106,10 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -650,7 +654,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by JD Vance (3)</strong></summary>
+<summary><strong class="section-title">Statements by JD Vance (4)</strong></summary>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>
@@ -661,10 +665,13 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details>
-<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2)</summary>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (3)</summary>
 
 - [00:24:07](/episodes/ep-SubDoZWHARo.md#t-00-24-07) [○] (Opinion) ["People whose instinct is to attack a young mother for grieving in a way they con..."](/statements/statement-396361878d26.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:24:07](/episodes/ep-SubDoZWHARo.md#t-00-24-07) [○] (Claim) ["J.D. Vance referred in the plural to 'the people who shot Charlie Kirk' while cr..."](/statements/statement-43d49a7e1909.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:25:02](/episodes/ep-SubDoZWHARo.md#t-00-25-02) [○] (Opinion) ["The desire to attack Erika Kirk for how she grieves her husband was the most pre..."](/statements/statement-a16d91b48960.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -674,7 +681,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about JD Vance (18)</strong></summary>
+<summary><strong class="section-title">Statements about JD Vance (21)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
@@ -713,6 +720,14 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 - [00:59:59](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59) (Opinion) **Candace Owens**: ["Donald Trump, Kash Patel, and JD Vance have shown zero interest in the..."](/statements/statement-5412eb913b0a.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
+
+- [00:02:34](/episodes/ep-7FS1tUeSfdE.md#t-00-02-23) (Opinion) **Candace Owens**: ["Candace Owens acknowledged that military coordination of safety messag..."](/statements/statement-9aa821cfa44b.md)
+  - Also about: [White House Military Office](/entities/org-white-house-military-office.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>
 
@@ -787,6 +802,17 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 - [01:01:39](/episodes/ep-9k2xrAC0H88.md#t-01-01-03) (Claim) **Candace Owens**: ["I found JD Vance with Donald Trump at a restaurant in DC at around six..."](/statements/statement-210e1a3d7222.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+
+- [01:04:40](/episodes/ep-es7PWdFGoFI.md#t-01-04-23) (Opinion) **Baron Coleman** (via paraphrase): ["Baron Coleman was described as suggesting that JD Vance might have bee..."](/statements/statement-45cd315e1bbc.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [01:05:03](/episodes/ep-es7PWdFGoFI.md#t-01-04-23) (Claim) **Candace Owens**: ["Owens said she found video that ruled out JD Vance as the person alleg..."](/statements/statement-52547029472b.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </details>
 

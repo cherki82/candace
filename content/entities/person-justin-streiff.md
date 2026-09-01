@@ -28,9 +28,9 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <div><span>Episodes</span><strong>39</strong></div>
 <div><span>Mentions</span><strong>100</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>31</strong></div>
+<div><span>Statements about</span><strong>33</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -123,6 +123,10 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -819,7 +823,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Streiff (31)</strong></summary>
+<summary><strong class="section-title">Statements about Justin Streiff (33)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
@@ -920,7 +924,10 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (4)</summary>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (5)</summary>
+
+- [00:39:31](/episodes/ep-y8lak3CRwDw.md#t-00-39-31) (Accusation) **Candace Owens**: ["A number of people surrounding Charlie Kirk had some proximity or pers..."](/statements/statement-94895eac74ac.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Rob McCoy](/entities/person-rob-mccoy.md)
 
 - [00:42:10](/episodes/ep-y8lak3CRwDw.md#t-00-42-10) (Claim) **Candace Owens**: ["Justin Streiff became Turning Point USA's chief operating officer seve..."](/statements/statement-f00fe411079f.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -972,17 +979,20 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
 
 - [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-02-04) (Claim) **Candace Owens**: ["Candace Owens said her private meeting lasted four hours and 30 minute..."](/statements/statement-a00acb5ab7d2.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [George Farmer](/entities/person-george-farmer.md), [Mia Grant](/entities/person-mia-grant.md)
+
+- [00:06:43](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens**: ["Owens said Erika Kirk and Justin Streiff confirmed during their privat..."](/statements/statement-f898b738a1f2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Dan Flood](/entities/person-dan-flood.md)
 
 </details>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2)</summary>
 
-- [00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50) (Claim) **Candace Owens**: ["Justin Strife was announced as the new COO of Turning Point USA on Sep..."](/statements/statement-51eadcc75ceb.md)
+- [00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50) (Claim) **Candace Owens**: ["Justin Streiff was announced as the new COO of Turning Point USA on Se..."](/statements/statement-51eadcc75ceb.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 - [00:27:29](/episodes/ep-a-e7HC6SeK8.md#t-00-27-29) (Claim) **Anonymous Source #4 (Ep a-e7HC6SeK8)** (via read message): ["Turning Point USA sources alleged that Justin Streiff placed an immedi..."](/statements/statement-c1f179233d39.md)

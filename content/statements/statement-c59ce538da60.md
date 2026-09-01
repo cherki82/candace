@@ -1,6 +1,6 @@
 ---
-title: "Four months before Alton C. Jennings died, his will was chan..."
-description: "\"Four months before Alton C. Jennings died, his will was changed in November 2023, and his estate—valued at $25 million—was left in part to Turning Poi...\" — Anonymous Source #1 (Ep ZZGWo6oDscc)"
+title: "The December 2024 estate petition said that four months befo..."
+description: "\"The December 2024 estate petition said that four months before Jennings died, a November 2023 will amendment made Turning Point Action one of the bene...\" — Anonymous Source #1 (Ep ZZGWo6oDscc)"
 statement_id: "statement-c59ce538da60"
 speaker: "Anonymous Source #1 (Ep ZZGWo6oDscc)"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Four months before Alton C. Jennings died, his will was changed in November 2023, and his estate—valued at $25 million—was left in part to Turning Point Action.
+> The December 2024 estate petition said that four months before Jennings died, a November 2023 will amendment made Turning Point Action one of the beneficiaries of an estate valued around 5 million.
 
 ## Attribution
 

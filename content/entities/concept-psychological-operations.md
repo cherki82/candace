@@ -27,9 +27,9 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 <div><span>Episodes</span><strong>23</strong></div>
 <div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -90,6 +90,10 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -371,7 +375,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Psychological operations (9)</strong></summary>
+<summary><strong class="section-title">Statements about Psychological operations (12)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
@@ -393,10 +397,24 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:14:33](/episodes/ep-i8m_6D4QGmk.md#t-00-14-24) (Accusation) **Candace Owens**: ["Candace Owens said the manner and broadcast of Charlie Kirk's death we..."](/statements/statement-8e46b4fdcd06.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3)</summary>
 
 - [00:29:24](/episodes/ep-1hcjQGgvxUY.md#t-00-29-04) (Accusation) **Candace Owens**: ["Candace Owens believes September 10 was a military operation."](/statements/statement-79309b49d3b4.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:32:24](/episodes/ep-1hcjQGgvxUY.md#t-00-32-12) (Opinion) **Candace Owens**: ["Candace Owens acknowledged that the alleged September 10 color-of-the-..."](/statements/statement-aab37a22b0eb.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:56:27](/episodes/ep-1hcjQGgvxUY.md#t-00-56-27) (Accusation) **Candace Owens**: ["Candace Owens accused Turning Point USA of using the broadcast assassi..."](/statements/statement-b8484cf5e22b.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

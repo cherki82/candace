@@ -26,7 +26,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <div><span>Episodes</span><strong>18</strong></div>
 <div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>23</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -426,7 +426,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bureau of Alcohol, Tobacco, Firearms and Explosives (22)</strong></summary>
+<summary><strong class="section-title">Statements about Bureau of Alcohol, Tobacco, Firearms and Explosives (23)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -501,7 +501,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 </details>
 
 <details>
-<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (5)</summary>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (6)</summary>
 
 - [00:37:48](/episodes/ep-jsqUIkszZd0.md#t-00-37-34) (Citation) **Candace Owens**: ["The ATF emailed Corby Hall at 9:33 a.m. Central on September 10, 2025,..."](/statements/statement-8293d5681ba1.md)
   - Also about: [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md)
@@ -516,6 +516,9 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 
 - [00:57:51](/episodes/ep-jsqUIkszZd0.md#t-00-57-26) (Promise) **Candace Owens**: ["Candace Owens will try to obtain a response from the ATF."](/statements/statement-eb7a2e9932ec.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:58:03](/episodes/ep-jsqUIkszZd0.md#t-00-57-26) (Opinion) **Candace Owens**: ["Candace Owens explicitly said it was unknown whether the ATF-traced Fo..."](/statements/statement-c0a4ed126ccc.md)
+  - Also about: [FoldAR](/entities/org-foldar.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

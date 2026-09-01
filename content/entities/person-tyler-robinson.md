@@ -27,7 +27,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div><span>Episodes</span><strong>103</strong></div>
 <div><span>Mentions</span><strong>988</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
-<div><span>Statements about</span><strong>372</strong></div>
+<div><span>Statements about</span><strong>390</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -4090,7 +4090,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (372)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (390)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (9)</summary>
@@ -4753,6 +4753,14 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>
+
+- [00:26:22](/episodes/ep-FFQ9675oqRI.md#t-00-26-15) (Accusation) **Candace Owens**: ["A major part of the Charlie Kirk story is a public-relations war tryin..."](/statements/statement-174dd433bdc7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>
 
 - [01:06:37](/episodes/ep-eMtjzXkQrsU.md#t-01-06-05) (Opinion) **Candace Owens**: ["Tyler Robinson did not kill Charlie Kirk."](/statements/statement-222634d0043a.md)
@@ -4789,10 +4797,15 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (12)</summary>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (16)</summary>
 
 - [00:03:07](/episodes/ep-kaWtDuoY_ns.md#t-00-02-47) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens said Sheriff Nate Brooksby admitted Tyler Robinson was e..."](/statements/statement-f86ed8b94b50.md)
   - Also about: [Nate Brooksby](/entities/person-nate-brooksby.md)
+
+- [00:05:03](/episodes/ep-kaWtDuoY_ns.md#t-00-05-03) (Opinion) **Candace Owens**: ["Candace Owens said Tyler Robinson's grandfather was at the hearing to ..."](/statements/statement-d75ba4478285.md)
+
+- [00:05:18](/episodes/ep-kaWtDuoY_ns.md#t-00-05-03) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Tyler Robinson's grandfather described himself as a..."](/statements/statement-605b7a4f6188.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:10:57](/episodes/ep-kaWtDuoY_ns.md#t-00-10-57) (Claim) **Richard G. Novak** (via quoted speech): ["Richard G. Novak said the defense lacked the underlying data files nee..."](/statements/statement-5d96d877240e.md)
   - Also about: [FBI](/entities/org-fbi.md)
@@ -4818,6 +4831,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:56:48](/episodes/ep-kaWtDuoY_ns.md#t-00-56-19) (Opinion) **Candace Owens**: ["Candace Owens said she believed multiple Tyler Robinson lookalikes wea..."](/statements/statement-bc7c92541366.md)
+
+- [00:57:27](/episodes/ep-kaWtDuoY_ns.md#t-00-57-00) (Claim) **Candace Owens**: ["Candace Owens relayed a rumor that surveillance footage from roughly t..."](/statements/statement-55d6e8f84038.md)
+
+- [01:01:16](/episodes/ep-kaWtDuoY_ns.md#t-01-00-57) (Accusation) **Candace Owens**: ["Candace Owens said she believed Lance Twiggs helped set up Tyler Robin..."](/statements/statement-7e9fd5a4621d.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
 
 - [01:02:07](/episodes/ep-kaWtDuoY_ns.md#t-01-02-07) (Claim) **Candace Owens**: ["Candace Owens said her producer discovered that previously released te..."](/statements/statement-27158200430a.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
@@ -4855,7 +4873,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (12)</summary>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (16)</summary>
 
 - [00:00:26](/episodes/ep-eLgD5yUVbko.md#t-00-00-26) (Opinion) **Candace Owens**: ["In Candace Owens's view, Tyler Robinson did not commit Charlie Kirk's ..."](/statements/statement-71dd61a0b518.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -4868,13 +4886,21 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [00:31:13](/episodes/ep-eLgD5yUVbko.md#t-00-31-03) (Claim) **Anonymous Source #2 (Ep 2WEHTk0Xewg)** (via read message): ["The arrest source told Candace Owens that police initially planned to ..."](/statements/statement-cb379db076a1.md)
   - Also about: [Warner Valley](/entities/gpe-warner-valley.md)
 
-- [00:32:13](/episodes/ep-eLgD5yUVbko.md#t-00-31-40) (Citation) **Candace Owens**: ["Candace Owens said a defense motion indicates Tyler Robinson had been ..."](/statements/statement-d2e836242bc0.md)
+- [00:31:54](/episodes/ep-eLgD5yUVbko.md#t-00-31-40) (Opinion) **Candace Owens**: ["Candace Owens speculated that, if the official account was fabricated,..."](/statements/statement-b60960331870.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:32:13](/episodes/ep-eLgD5yUVbko.md#t-00-31-40) (Citation) **Candace Owens**: ["Candace Owens said she interpreted a defense motion as showing Tyler R..."](/statements/statement-d2e836242bc0.md)
 
 - [00:35:51](/episodes/ep-eLgD5yUVbko.md#t-00-35-25) (Accusation) **Candace Owens**: ["Candace Owens argued that the FBI released suspect photos and sought p..."](/statements/statement-3d4ae6743ef6.md)
   - Also about: [FBI](/entities/org-fbi.md), [Spencer Cox](/entities/person-spencer-cox.md), [Kash Patel](/entities/person-kash-patel.md)
 
 - [00:38:41](/episodes/ep-eLgD5yUVbko.md#t-00-38-00) (Citation) **Candace Owens**: ["Candace Owens said public records conflict on Tyler Robinson's arrival..."](/statements/statement-bd303a44e87d.md)
   - Also about: [Nate Brooksby](/entities/person-nate-brooksby.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
+
+- [00:38:59](/episodes/ep-eLgD5yUVbko.md#t-00-38-41) (Opinion) **Candace Owens**: ["Candace Owens suggested the repeated claim that Tyler Robinson was cau..."](/statements/statement-b0495c24f455.md)
+  - Also about: [Freemasonry](/entities/concept-freemasonry.md)
+
+- [00:40:19](/episodes/ep-eLgD5yUVbko.md#t-00-39-34) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said local press had been unable to obtain footage of Ty..."](/statements/statement-c5640c435093.md)
 
 - [00:41:44](/episodes/ep-eLgD5yUVbko.md#t-00-41-37) (Claim) **Spencer Cox** (via quoted speech): ["Spencer Cox said investigators were shown Discord messages between Tyl..."](/statements/statement-9e5da808822c.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Discord](/entities/org-discord.md)
@@ -4883,6 +4909,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
   - Also about: [FBI](/entities/org-fbi.md), [Discord](/entities/org-discord.md), [iMessage](/entities/work-imessage.md)
 
 - [00:45:32](/episodes/ep-eLgD5yUVbko.md#t-00-45-03) (Accusation) **Candace Owens**: ["Candace Owens accused Lance Twiggs of being a federal informant workin..."](/statements/statement-3d9aac692b7f.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [FBI](/entities/org-fbi.md)
+
+- [00:46:42](/episodes/ep-eLgD5yUVbko.md#t-00-46-23) (Opinion) **Candace Owens**: ["Candace Owens hypothesized that federal authorities could have coerced..."](/statements/statement-704f32bdb23f.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [FBI](/entities/org-fbi.md)
 
 - [00:47:49](/episodes/ep-eLgD5yUVbko.md#t-00-47-08) (Citation) **Candace Owens**: ["Candace Owens cited a state filing saying the prosecution did not inte..."](/statements/statement-69c641e20bd3.md)
@@ -4907,10 +4936,13 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3)</summary>
 
 - [00:34:11](/episodes/ep-rupRLXmSndU.md#t-00-33-34) (Opinion) **Candace Owens**: ["The FBI knows Tyler Robinson did not kill Charlie Kirk."](/statements/statement-ee577096d11a.md)
   - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:34:34](/episodes/ep-rupRLXmSndU.md#t-00-34-18) (Opinion) **Candace Owens**: ["The surname Robinson appearing in the Romney family does not necessari..."](/statements/statement-918ce4879e3b.md)
+  - Also about: [Mitt Romney](/entities/person-mitt-romney.md)
 
 - [00:43:27](/episodes/ep-rupRLXmSndU.md#t-00-43-05) (Promise) **Candace Owens**: ["Candace Owens promised to review all 600,000 documents from Tyler Robi..."](/statements/statement-167d0a1ace68.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
@@ -4918,7 +4950,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (20)</summary>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (21)</summary>
 
 - [00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42) (Opinion) **Candace Owens**: ["In my opinion, it is definitive proof that Tyler Robinson is a patsy."](/statements/statement-5d0d4715d2cc.md)
   - Also about: [FBI](/entities/org-fbi.md)
@@ -4937,6 +4969,8 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [00:18:01](/episodes/ep-UYkXV9mYbT4.md#t-00-18-01) (Opinion) **Candace Owens**: ["Based on the evidence and the people I have spoken to, I believe the f..."](/statements/statement-8d024ceb9198.md)
   - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:18:44](/episodes/ep-UYkXV9mYbT4.md#t-00-18-01) (Opinion) **Candace Owens**: ["Robinson's request for a continuance to obtain and review evidence und..."](/statements/statement-7ed7cc8e0d27.md)
 
 - [00:20:05](/episodes/ep-UYkXV9mYbT4.md#t-00-20-05) (Citation) **Candace Owens**: ["Mr. Robinson seeks to continue the May 2026 preliminary hearing to a s..."](/statements/statement-b54eabdeaada.md)
 
@@ -4978,7 +5012,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (17)</summary>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (19)</summary>
 
 - [00:03:31](/episodes/ep-7ERqbYElOfs.md#t-00-03-09) (Claim) **Candace Owens**: ["The Freemason lodge in St. George, Utah, where Tyler Robinson was brou..."](/statements/statement-28a7438fd6ff.md)
   - Also about: [Freemasonry](/entities/concept-freemasonry.md), [St. George](/entities/gpe-st-george.md), [France](/entities/gpe-france.md)
@@ -4988,6 +5022,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [00:17:35](/episodes/ep-7ERqbYElOfs.md#t-00-17-35) (Accusation) **Candace Owens**: ["Erika Kirk was lying and acting when she said she had seen the case an..."](/statements/statement-c0d316148608.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:29:26](/episodes/ep-7ERqbYElOfs.md#t-00-28-49) (Citation) **Candace Owens**: ["Candace Owens said she wondered whether Nate Brooksby's sudden resigna..."](/statements/statement-6658a08b542c.md)
+  - Also about: [Nate Brooksby](/entities/person-nate-brooksby.md)
 
 - [00:29:40](/episodes/ep-7ERqbYElOfs.md#t-00-29-32) (Claim) **Candace Owens**: ["There is no evidence that Tyler Robinson's father turned him in or tha..."](/statements/statement-0c5eb922496d.md)
   - Also about: [Matt Robinson](/entities/person-matt-robinson.md)
@@ -5014,6 +5051,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [00:36:49](/episodes/ep-7ERqbYElOfs.md#t-00-36-14) (Claim) **Nate Brooksby** (via quoted speech): ["Tyler Robinson may have had suicidal thoughts and was headed to a remo..."](/statements/statement-6d374c5ff6d9.md)
   - Also about: [Washington County](/entities/gpe-washington-county.md)
+
+- [00:37:41](/episodes/ep-7ERqbYElOfs.md#t-00-37-12) (Opinion) **Candace Owens**: ["Candace Owens said her theory that Mike Mitchell worked with federal a..."](/statements/statement-0df5e407ed6c.md)
+  - Also about: [Mike Mitchell](/entities/person-mike-mitchell.md)
 
 - [00:37:41](/episodes/ep-7ERqbYElOfs.md#t-00-37-12) (Opinion) **Candace Owens**: ["Mike Mitchell was working with federal agents to put the Charlie Kirk ..."](/statements/statement-4f479f057f03.md)
   - Also about: [Mike Mitchell](/entities/person-mike-mitchell.md), [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -5075,10 +5115,24 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (3)</summary>
 
 - [00:02:42](/episodes/ep-B9TyCs-6o_0.md#t-00-02-37) (Claim) **Joe Kent** (via quoted speech): ["The National Counterterrorism Center was stopped from continuing to in..."](/statements/statement-6cb26b41836f.md)
   - Also about: [National Counterterrorism Center](/entities/org-national-counterterrorism-center.md), [FBI](/entities/org-fbi.md)
+
+- [00:02:56](/episodes/ep-B9TyCs-6o_0.md#t-00-02-42) (Citation) **Joe Kent** (via paraphrase): ["Joe Kent said the FBI's stated reason for stopping the counterterroris..."](/statements/statement-1ee6e884dc7c.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:03:05](/episodes/ep-B9TyCs-6o_0.md#t-00-02-42) (Opinion) **Joe Kent**: ["Joe Kent said he was not drawing any conclusion from the uninvestigate..."](/statements/statement-b8bec5cc7b7d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
+
+- [00:46:48](/episodes/ep-k8ueJdPFel4.md#t-00-46-48) (Accusation) **Candace Owens**: ["Candace Owens accused an Epstein-protecting political class of startin..."](/statements/statement-2b9bad1f8c9b.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -5110,10 +5164,13 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1)</summary>
+<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (2)</summary>
 
 - [00:42:53](/episodes/ep-Wjul6YV6izo.md#t-00-42-21) (Opinion) **Candace Owens**: ["Candace Owens has presented more evidence than the FBI did against Tyl..."](/statements/statement-eb24f2d12e67.md)
   - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:43:11](/episodes/ep-Wjul6YV6izo.md#t-00-42-53) (Opinion) **Candace Owens**: ["Owens argued that Erika publicly forgiving Tyler Robinson implied that..."](/statements/statement-e09c48bade79.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 
@@ -5177,13 +5234,18 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4)</summary>
 
 - [00:17:56](/episodes/ep-es7PWdFGoFI.md#t-00-17-36) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said a Turning Point USA lawyer told her that Turning Po..."](/statements/statement-ca6b4e9ab8ae.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:20:25](/episodes/ep-es7PWdFGoFI.md#t-00-20-25) (Opinion) **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-cdeead784a48.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:54:41](/episodes/ep-es7PWdFGoFI.md#t-00-54-41) (Opinion) **David Freiheit**: ["Viva Frei proposed that people in Tyler Robinson’s Discord environment..."](/statements/statement-a1e46cef90d0.md)
+
+- [00:55:32](/episodes/ep-es7PWdFGoFI.md#t-00-55-26) (Opinion) **David Freiheit**: ["Viva Frei theorized that George Zinn learned of the plan through a Dis..."](/statements/statement-456077877849.md)
+  - Also about: [George Zinn](/entities/person-george-zinn.md)
 
 </details>
 
@@ -5210,11 +5272,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1)</summary>
 
-- [00:10:32](/episodes/ep-DqGNvi36ol8.md#t-00-09-58) (Claim) **Candace Owens** (via paraphrase): ["Tyler Robinson's defense lawyer has not reached out to the videographe..."](/statements/statement-cf5becec56e1.md)
-
-- [00:45:10](/episodes/ep-DqGNvi36ol8.md#t-00-45-05) (Claim) **Candace Owens**: ["Tyler Robinson's defense lawyer has not reached out to the person who ..."](/statements/statement-4b63f3aaa942.md)
+- [00:45:07](/episodes/ep-DqGNvi36ol8.md#t-00-45-05) (Claim) **Candace Owens** (via paraphrase): ["Tyler Robinson's defense lawyer has not reached out to the videographe..."](/statements/statement-cf5becec56e1.md)
 
 </details>
 

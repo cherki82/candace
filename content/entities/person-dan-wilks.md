@@ -22,9 +22,9 @@ Source: [Schedule 13D — Dan Wilks, Farris Wilks, and Wilks Brothers](https://w
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -43,6 +43,10 @@ Source: [Schedule 13D — Dan Wilks, Farris Wilks, and Wilks Brothers](https://w
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -118,7 +122,7 @@ Source: [Schedule 13D — Dan Wilks, Farris Wilks, and Wilks Brothers](https://w
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Wilks (2)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Wilks (3)</strong></summary>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1)</summary>
@@ -129,7 +133,10 @@ Source: [Schedule 13D — Dan Wilks, Farris Wilks, and Wilks Brothers](https://w
 </details>
 
 <details>
-<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2)</summary>
+
+- [01:22:35](/episodes/ep-wcD2khO3rOA.md#t-01-22-35) (Opinion) **Candace Owens**: ["Owens said a vivid dream led her to suspect Ben Shapiro was being sent..."](/statements/statement-4a6d2aa1cd0e.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Farris Wilks](/entities/person-farris-wilks.md)
 
 - [01:23:18](/episodes/ep-wcD2khO3rOA.md#t-01-22-35) (Claim) **Candace Owens**: ["Farris and Dan Wilks fund PragerU, The Daily Wire, megachurches, and R..."](/statements/statement-ef9d6dc77953.md)
   - Also about: [Farris Wilks](/entities/person-farris-wilks.md), [PragerU](/entities/org-prageru.md), [The Daily Wire](/entities/org-the-daily-wire.md)

@@ -28,9 +28,9 @@ Source: [Yrefy's Story](https://www.investyrefy.com/yrefys-story)
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -59,6 +59,10 @@ Source: [Yrefy's Story](https://www.investyrefy.com/yrefys-story)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -183,7 +187,7 @@ Source: [Yrefy's Story](https://www.investyrefy.com/yrefys-story)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Yrefy (8)</strong></summary>
+<summary><strong class="section-title">Statements about Yrefy (9)</strong></summary>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>
@@ -210,7 +214,10 @@ Source: [Yrefy's Story](https://www.investyrefy.com/yrefys-story)
 </details>
 
 <details>
-<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (4)</summary>
+
+- [00:01:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-06) (Claim) **Candace Owens**: ["Candace Owens retracted her prior claim that a live show would exclude..."](/statements/statement-039ea868c86f.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 - [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Santa Barbara](/entities/gpe-santa-barbara.md)

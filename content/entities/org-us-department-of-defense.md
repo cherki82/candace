@@ -32,9 +32,9 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <div><span>Episodes</span><strong>31</strong></div>
 <div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>41</strong></div>
+<div><span>Statements about</span><strong>42</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -111,6 +111,10 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -691,7 +695,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Defense (41)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Defense (42)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
@@ -832,10 +836,13 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 <details>
-<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2)</summary>
 
 - [00:04:46](/episodes/ep-7FS1tUeSfdE.md#t-00-04-19) (Claim) **Candace Owens**: ["The Department of Defense used a canary trap with slight variations in..."](/statements/statement-c6e246386d2f.md)
   - Also about: [Canary trap](/entities/concept-canary-trap.md)
+
+- [00:04:46](/episodes/ep-7FS1tUeSfdE.md#t-00-04-19) (Claim) **Candace Owens**: ["Candace Owens said she would not publish the White House Military Offi..."](/statements/statement-8511c7e80a4d.md)
+  - Also about: [White House Military Office](/entities/org-white-house-military-office.md)
 
 </details>
 

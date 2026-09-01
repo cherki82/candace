@@ -22,9 +22,9 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -53,6 +53,10 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -265,7 +269,15 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nicole Rothstein (5)</strong></summary>
+<summary><strong class="section-title">Statements about Nicole Rothstein (6)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1)</summary>
+
+- [00:10:26](/episodes/ep-H9p2ZGHAs9A.md#t-00-10-26) (Opinion) **Candace Owens**: ["Candace Owens suggested Erika Kirk's reference to doing real-estate de..."](/statements/statement-47008c093969.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Allan P. Rothstein](/entities/person-allan-p-rothstein.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (4)</summary>

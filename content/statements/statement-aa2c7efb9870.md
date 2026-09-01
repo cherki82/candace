@@ -1,6 +1,6 @@
 ---
-title: "William 'Tony' Erpenbeck tried to arrange the kidnapping and..."
-description: "\"William 'Tony' Erpenbeck tried to arrange the kidnapping and murder of children because he was upset about receiving prison time.\" — Candace Owens"
+title: "Anthony 'Tony' Erpenbeck tried to arrange the kidnapping and..."
+description: "\"Anthony 'Tony' Erpenbeck tried to arrange the kidnapping and murder of children because he was upset about receiving prison time.\" — Candace Owens"
 statement_id: "statement-aa2c7efb9870"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> William 'Tony' Erpenbeck tried to arrange the kidnapping and murder of children because he was upset about receiving prison time.
+> Anthony 'Tony' Erpenbeck tried to arrange the kidnapping and murder of children because he was upset about receiving prison time.
 
 ## Attribution
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 **Timestamp:** [00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05) 
 <a href="https://www.youtube.com/watch?v=jTj9Ip46r4w&t=801s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And Rick (Rick Erpenbeck)'s father, Tony (William 'Tony' Erpenbeck), tried to arrange for the kidnapping and murder of some kids because he was upset that he was getting time in prison.
+> And Rick (Rick Erpenbeck)'s father, Tony (Tony Erpenbeck), tried to arrange for the kidnapping and murder of some kids because he was upset that he was getting time in prison.
 
 ## Verification
 

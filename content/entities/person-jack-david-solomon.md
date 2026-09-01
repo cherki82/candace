@@ -26,9 +26,9 @@ Source: [SEC News Digest, February 3, 1986](https://www.sec.gov/news/digest/1986
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>26</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -47,6 +47,10 @@ Source: [SEC News Digest, February 3, 1986](https://www.sec.gov/news/digest/1986
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -365,7 +369,7 @@ Source: [SEC News Digest, February 3, 1986](https://www.sec.gov/news/digest/1986
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jack David Solomon (5)</strong></summary>
+<summary><strong class="section-title">Statements about Jack David Solomon (6)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2)</summary>
@@ -379,13 +383,16 @@ Source: [SEC News Digest, February 3, 1986](https://www.sec.gov/news/digest/1986
 </details>
 
 <details>
-<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (3)</summary>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (4)</summary>
 
 - [00:43:43](/episodes/ep-ZAsV0fHGBiM.md#t-00-43-15) (Claim) **Candace Owens**: ["Jack Solomon married Karla Frantzve in 2002 and financed the restorati..."](/statements/statement-11c01e36b823.md)
   - Also about: [Karla Marie Frantzve Solomon](/entities/person-karla-marie-frantzve-solomon.md), [Zion Gate](/entities/gpe-zion-gate.md), [Jerusalem](/entities/gpe-jerusalem.md)
 
 - [00:44:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39) (Claim) **Candace Owens**: ["Jack Solomon graduated from Utah Valley University, created its Center..."](/statements/statement-244d63ae0c3c.md)
   - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Utah Center for Jewish Studies](/entities/org-utah-center-for-jewish-studies.md), [Brigham Young University](/entities/org-brigham-young-university.md)
+
+- [00:45:06](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39) (Opinion) **Candace Owens**: ["Owens questioned why Erika Kirk's Utah relatives did not go to the hos..."](/statements/statement-9c1de331e9ce.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
 - [00:45:51](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19) (Claim) **Candace Owens**: ["Jack Solomon and Norman Vance founded Advanced Patent Technology in 19..."](/statements/statement-2e0ea31a6b66.md)
   - Also about: [Norman LaVerne Vance](/entities/person-norman-laverne-vance.md), [Advanced Patent Technology, Inc.](/entities/org-advanced-patent-technology.md), [United Coin Machine Co.](/entities/org-united-coin.md)

@@ -1,6 +1,6 @@
 ---
 title: "The Wellness Company"
-description: "The Wellness Company (Organizations) - 99 mentions"
+description: "The Wellness Company (Organizations) - 101 mentions"
 id: "org-the-wellness-company"
 type: "ORG"
 aliases:
@@ -26,7 +26,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29">2025-09-17 · 00:59:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-the-wellness-company-t-00-29-09">2026-08-18 · 00:29:20</a></strong></div>
 <div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>99</strong></div>
+<div><span>Mentions</span><strong>101</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -44,7 +44,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <a href="/episodes/ep-c5BcKF91iec.md#ent-org-the-wellness-company-t-00-44-31" style="--pulse-height:60%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 3 mentions" title="2025-10-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-org-the-wellness-company-t-00-24-44" style="--pulse-height:60%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-the-wellness-company-t-00-45-22" style="--pulse-height:60%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 3 mentions" title="2025-10-31 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-r1PS67aRmcA.md#ent-org-the-wellness-company-t-00-44-40" style="--pulse-height:40%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 2 mentions" title="2025-11-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-org-the-wellness-company-t-00-44-40" style="--pulse-height:80%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 4 mentions" title="2025-11-08 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-org-the-wellness-company-t-00-25-38" style="--pulse-height:100%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 5 mentions" title="2025-11-19 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-the-wellness-company-t-00-35-51" style="--pulse-height:40%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-the-wellness-company-t-00-21-19" style="--pulse-height:60%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 3 mentions" title="2025-12-18 · 3 mentions"><span></span></a>
@@ -86,7 +86,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-the-wellness-company-t-00-44-31) | 3 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-the-wellness-company-t-00-24-44) | 3 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-the-wellness-company-t-00-45-22) | 3 |
-| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-the-wellness-company-t-00-44-40) | 2 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-the-wellness-company-t-00-44-40) | 4 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-the-wellness-company-t-00-25-38) | 5 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-the-wellness-company-t-00-35-51) | 2 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-the-wellness-company-t-00-21-19) | 3 |
@@ -123,7 +123,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (99)</strong></summary>
+<summary><strong class="section-title">Raw mentions (101)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>
@@ -484,13 +484,19 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (4 mentions)</summary>
 
 **[00:45:02](/episodes/ep-r1PS67aRmcA.md#ent-org-the-wellness-company-t-00-44-40)**
 > "... Contagion Emergency Kit from The Wellness Company."
 
 **[00:45:19](/episodes/ep-r1PS67aRmcA.md#ent-org-the-wellness-company-t-00-44-40)**
 > "... Contagion Emergency Kit from The Wellness Company because I refuse to be trapped in line at an emer..."
+
+**[00:45:38](/episodes/ep-r1PS67aRmcA.md#ent-org-the-wellness-company-t-00-45-22)**
+> "So go to TWC.health/Candace today and use code CANDACE to save..."
+
+**[00:45:49](/episodes/ep-r1PS67aRmcA.md#ent-org-the-wellness-company-t-00-45-22)**
+> "Again, that's TWC.health/Candace, code CANDACE, for $48 off."
 
 </details>
 

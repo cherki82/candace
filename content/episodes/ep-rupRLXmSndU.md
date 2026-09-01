@@ -1,14 +1,14 @@
 ---
 id: "rupRLXmSndU"
 title: "Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320"
-description: "Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 - 103 entities, 25 events, 22 factual claims"
+description: "Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 - 103 entities, 25 events, 23 factual claims"
 published: "2026-04-01"
 youtube_url: "https://www.youtube.com/watch?v=rupRLXmSndU"
 ---
 
 **Published:** 2026-04-01 | [Watch on YouTube](https://www.youtube.com/watch?v=rupRLXmSndU)
 
-**Stats:** 103 entities | 25 events | 22 factual claims
+**Stats:** 103 entities | 25 events | 23 factual claims
 
 ---
 
@@ -250,7 +250,7 @@ youtube_url: "https://www.youtube.com/watch?v=rupRLXmSndU"
 </details>
 
 <details>
-<summary><strong>Statements (40)</strong></summary>
+<summary><strong>Statements (48)</strong></summary>
 
 - [00:01:34](#t-00-01-34) [○] (Claim) **Candace Owens**: ["Charlie Kirk described his final call with Benjamin Netanyahu as an intervention..."](/statements/statement-cea35d129a59.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
@@ -280,8 +280,12 @@ youtube_url: "https://www.youtube.com/watch?v=rupRLXmSndU"
   - About: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [United States Navy](/entities/org-united-states-navy.md)
 - [00:10:25](#t-00-10-19) [✓] (Citation) **Candace Owens**: ["Ahmed Qureshi is president and COO of BILT Incorporated."](/statements/statement-afc7b2581f40.md)
   - About: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [BILT Incorporated](/entities/org-bilt-incorporated.md), [LinkedIn](/entities/org-linkedin.md)
+- [00:10:46](#t-00-10-19) [○] (Opinion) **Candace Owens**: ["The Texas-linked planes and people suggest there may have been a Texas component..."](/statements/statement-eec6eff11f4d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:12:27](#t-00-12-27) [◐] (Citation) **Candace Owens**: ["Ahmed Qureshi co-founded BILT in 2015 while serving full-time as an O-5 in the m..."](/statements/statement-4bf958f5ad4c.md)
   - About: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [BILT Incorporated](/entities/org-bilt-incorporated.md), [LinkedIn](/entities/org-linkedin.md)
+- [00:14:57](#t-00-14-40) [○] (Opinion) **Baron Coleman**: ["The timing of BILT's June 2025 federal contracts would be suspicious if it coinc..."](/statements/statement-6bbd9ae9a130.md)
+  - About: [BILT Incorporated](/entities/org-bilt-incorporated.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:15:27](#t-00-15-13) [✓] (Citation) **Baron Coleman**: ["BILT received approximately $7.5 million in federal contracts dated June 1 and J..."](/statements/statement-e62d55f45502.md)
   - About: [BILT Incorporated](/entities/org-bilt-incorporated.md), [USAspending.gov](/entities/org-usaspending-gov.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
 - [00:16:05](#t-00-16-05) [◐] (Citation) **Candace Owens**: ["BILT received nearly $8 million in June 2025 from the Department of Defense, inc..."](/statements/statement-9dc82c68913f.md)
@@ -290,12 +294,16 @@ youtube_url: "https://www.youtube.com/watch?v=rupRLXmSndU"
   - About: [Nathan Henderson](/entities/person-nathan-henderson.md), [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [BILT Incorporated](/entities/org-bilt-incorporated.md)
 - [00:17:20](#t-00-16-47) [○] (Claim) **Candace Owens**: ["The Henderson and Qureshi families both lived in the same house in Keller, Texas..."](/statements/statement-bc9fda4b2225.md)
   - About: [Nathan Henderson](/entities/person-nathan-henderson.md), [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [Keller, Texas](/entities/gpe-keller-texas.md)
+- [00:17:20](#t-00-16-47) [○] (Opinion) **Candace Owens**: ["The Henderson and Qureshi families' shared Keller address might reflect a busine..."](/statements/statement-4d05c49f26a8.md)
+  - About: [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [Connor Henderson](/entities/person-connor-henderson.md)
 - [00:17:38](#t-00-17-20) [✓] (Citation) **Candace Owens**: ["Gina Romney Henderson is married to BILT co-founder Nathan Henderson and works a..."](/statements/statement-465aa7e9aafc.md)
   - About: [Gina Romney Henderson](/entities/person-gina-romney-henderson.md), [Nathan Henderson](/entities/person-nathan-henderson.md), [BILT Incorporated](/entities/org-bilt-incorporated.md)
 - [00:18:07](#t-00-18-00) [✓] (Claim) **Candace Owens**: ["Connor Henderson and Zachariah Qureshi attended BYU at the same time and both in..."](/statements/statement-869a9611ac9f.md)
   - About: [Connor Henderson](/entities/person-connor-henderson.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [Brigham Young University](/entities/org-brigham-young-university.md)
 - [00:18:41](#t-00-18-41) [◐] (Claim) **Candace Owens**: ["Connor Henderson worked as an emergency-room scribe at Timpanogos Regional Hospi..."](/statements/statement-741e9bfcb950.md)
   - About: [Connor Henderson](/entities/person-connor-henderson.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+- [00:19:19](#t-00-19-19) [○] (Opinion) **Candace Owens**: ["Connor Henderson may have left his Timpanogos scribe job on September 10 and may..."](/statements/statement-84945101f6d1.md)
+  - About: [Connor Henderson](/entities/person-connor-henderson.md), [Lee Trotter](/entities/person-lee-trotter.md)
 - [00:23:30](#t-00-23-21) [✓] (Claim) **Candace Owens**: ["Andrew Zenger was appointed CEO of Timpanogos Regional Hospital on August 19, af..."](/statements/statement-a9204a5bd0b6.md)
   - About: [Andrew Zenger](/entities/person-andrew-zenger.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Medical City McKinney](/entities/org-medical-city-mckinney.md)
 - [00:24:16](#t-00-23-58) [◐] (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)**: ["The CIA recruits directly from BYU and specifically from BYU's Jerusalem Center."](/statements/statement-862b7ba82e4c.md)
@@ -304,12 +312,18 @@ youtube_url: "https://www.youtube.com/watch?v=rupRLXmSndU"
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md), [Knesset](/entities/org-knesset.md)
 - [00:26:30](#t-00-26-20) [?] (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)**: ["The CIA uses a company called Metro One Talent to interview young recruits and p..."](/statements/statement-6a06b35888db.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+- [00:27:00](#t-00-26-20) [○] (Opinion) **Candace Owens**: ["Whether Andrew Zenger was recruited by the CIA remains an open question."](/statements/statement-12abc8688520.md)
+  - About: [Andrew Zenger](/entities/person-andrew-zenger.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 - [00:27:04](#t-00-27-04) [?] (Claim) **Candace Owens**: ["Michael Sean Covey, who roomed with Andrew Zenger in Jerusalem, later did contra..."](/statements/statement-aa6071978dd3.md)
   - About: [Michael Sean Covey](/entities/person-michael-sean-covey.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+- [00:29:49](#t-00-29-34) [○] (Claim) **Candace Owens**: ["Owens could not locate a document re-establishing the alleged marriage connectio..."](/statements/statement-87fa312c10f1.md)
+  - About: [Rob Hild](/entities/person-rob-hild.md)
 - [00:33:08](#t-00-32-56) [✓] (Claim) **Candace Owens**: ["The FBI abandoned comparative bullet lead analysis in 2005."](/statements/statement-377b703daf79.md)
   - About: [FBI](/entities/org-fbi.md), [Comparative bullet lead analysis](/entities/concept-comparative-bullet-lead-analysis.md)
 - [00:34:11](#t-00-33-34) [○] (Opinion) **Candace Owens**: ["The FBI knows Tyler Robinson did not kill Charlie Kirk."](/statements/statement-ee577096d11a.md)
   - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:34:34](#t-00-34-18) [○] (Opinion) **Candace Owens**: ["The surname Robinson appearing in the Romney family does not necessarily establi..."](/statements/statement-918ce4879e3b.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Mitt Romney](/entities/person-mitt-romney.md)
 - [00:35:50](#t-00-35-28) [○] (Accusation) **Candace Owens**: ["How many private equity firms wanted Charlie Kirk gone?"](/statements/statement-7a7488bb8882.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:36:17](#t-00-36-17) [○] (Opinion) **Candace Owens**: ["Candace Owens said she was not claiming Benjamin Netanyahu was aboard the Egypti..."](/statements/statement-f1817735b17d.md)
@@ -324,6 +338,8 @@ youtube_url: "https://www.youtube.com/watch?v=rupRLXmSndU"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:45:36](#t-00-45-36) [✓] (Citation) **Candace Owens**: ["The Republican National Committee changed its convention rules to bind delegates..."](/statements/statement-600b45824157.md)
   - About: [Republican National Committee](/entities/org-republican-national-committee.md), [Ron Paul](/entities/person-ron-paul.md), [Maine](/entities/gpe-maine.md)
+- [00:47:30](#t-00-46-56) [○] (Opinion) **Candace Owens**: ["Owens was not claiming that everyone who attends BYU is affiliated with the CIA."](/statements/statement-5ce402da0028.md)
+  - About: [Brigham Young University](/entities/org-brigham-young-university.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 - [00:47:40](#t-00-47-40) [?] (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)**: ["The CIA approaches selected students at BYU's Hawaii and Jerusalem campuses abou..."](/statements/statement-55fc338c7349.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Brigham Young University](/entities/org-brigham-young-university.md), [Hawaii](/entities/gpe-hawaii.md)
 - [00:48:20](#t-00-48-20) [○] (Opinion) **Candace Owens**: ["The CIA apparatus was being used to socially engineer support for Israel after C..."](/statements/statement-252982585ec2.md)

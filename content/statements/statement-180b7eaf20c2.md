@@ -4,9 +4,10 @@ description: "\"Brian Harpole explained on Sean Ryan's show that no first aid wa
 statement_id: "statement-180b7eaf20c2"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "false"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✗ False
 
 ## Statement
 
@@ -33,7 +34,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Owens's paraphrase is contradicted by Harpole's actual account: he said he immediately applied pressure, packed the neck wound with gauze and hemostatic dressings, and maintained pressure during transport. Severity explained the injury and prognosis, not an omission of first aid.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Transcript: Charlie Kirk's Security Chief Brian Harpole on Shawn Ryan Show](https://singjupost.com/transcript-charlie-kirks-security-chief-brian-harpole-on-shawn-ryan-show-srs-254/)
+- [Security chief recounts harrowing moments after Charlie Kirk was shot](https://www.yahoo.com/news/articles/security-chief-recounts-podcast-harrowing-004625179.html)
+
+*Verified: 2026-08-31T23:20:21.861535*
 
 ---
 

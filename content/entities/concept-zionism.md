@@ -28,9 +28,9 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <div><span>Episodes</span><strong>81</strong></div>
 <div><span>Mentions</span><strong>344</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>29</strong></div>
+<div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -207,6 +207,10 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -723,10 +727,10 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 **[00:53:38](/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-00-52-34)**
 > "Allow the Christian Zionists, the ones who make videos telling you how devilis..."
 
-**[00:53:52](/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-00-53-52)**
+**[00:53:52](/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-00-52-34)**
 > "...rge you, all of you Christian Zionists, sign up for the military today. Please, you guys..."
 
-**[01:02:25](/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-01-02-09)**
+**[01:02:25](/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-00-52-34)**
 > "...ple, similar to the Christian Zionists, that are, like, unhinged. Look at Paula White, t..."
 
 </details>
@@ -1682,7 +1686,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Zionism (29)</strong></summary>
+<summary><strong class="section-title">Statements about Zionism (30)</strong></summary>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
@@ -1713,6 +1717,14 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 - [00:32:18](/episodes/ep-BxN2-aeMYIs.md#t-00-32-18) (Opinion) **Candace Owens**: ["Natalie Beisner is another washed-up D-list actress whose last act is ..."](/statements/statement-13951b16e411.md)
   - Also about: [Natalie Jean Beisner](/entities/person-natalie-jean-beisner.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
+
+- [00:25:42](/episodes/ep-7FS1tUeSfdE.md#t-00-25-42) (Opinion) **Candace Owens**: ["Candace Owens said a full anti-Israel shift by Charlie Kirk would have..."](/statements/statement-e7ba6d69a473.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

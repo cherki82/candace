@@ -1,14 +1,14 @@
 ---
 id: "xjzb_t5Tk9o"
 title: "Candace x Bassem Youssef | Candace Ep 298"
-description: "Candace x Bassem Youssef | Candace Ep 298 - 193 entities, 14 events, 23 factual claims"
+description: "Candace x Bassem Youssef | Candace Ep 298 - 193 entities, 14 events, 24 factual claims"
 published: "2026-01-29"
 youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 
 **Published:** 2026-01-29 | [Watch on YouTube](https://www.youtube.com/watch?v=xjzb_t5Tk9o)
 
-**Stats:** 193 entities | 14 events | 23 factual claims
+**Stats:** 193 entities | 14 events | 24 factual claims
 
 ---
 
@@ -4456,7 +4456,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 </details>
 
 <details>
-<summary><strong>Statements (64)</strong></summary>
+<summary><strong>Statements (69)</strong></summary>
 
 - [00:01:46](#t-00-01-41) [◐] (Claim) **Candace Owens**: ["The Daily Wire fired Candace Owens in March 2024 without advance warning."](/statements/statement-27686b3d8a63.md)
   - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -4494,12 +4494,16 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
   - About: [Manson Family murders](/entities/event-manson-family-murders.md), [United States](/entities/gpe-united-states.md)
 - [00:26:09](#t-00-26-09) [○] (Opinion) **Candace Owens**: ["Candace Owens and Charlie Kirk genuinely supported Israel because they believed ..."](/statements/statement-eddb81ad71ef.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+- [00:26:43](#t-00-26-33) [✓] (Opinion) **Bassem Youssef**: ["Youssef said he agreed Kirk was beginning to 'wake up' near the end because Kirk..."](/statements/statement-6b3e54bae36e.md)
+  - About: [Bassem Youssef](/entities/person-bassem-youssef.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 - [00:27:26](#t-00-27-02) [○] (Accusation) **Bassem Youssef**: ["Charlie Kirk falsely claimed that a Jewish person entering an Arab neighborhood ..."](/statements/statement-7f5ab000e3f0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Judaism](/entities/concept-judaism.md), [Israel](/entities/gpe-israel.md)
 - [00:28:02](#t-00-28-02) [✓] (Opinion) **Charlie Kirk**: ["Islam is the sword the left is using to slit America's throat."](/statements/statement-ba0363b34bd7.md)
   - About: [Islam](/entities/concept-islam.md), [United States](/entities/gpe-united-states.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:28:30](#t-00-28-30) [○] (Claim) **Candace Owens**: ["Charlie Kirk did not run his Twitter feed; Andrew Kolvet did."](/statements/statement-a0ce59f5bb16.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [X](/entities/org-x-platform.md)
+- [00:28:38](#t-00-28-34) [✓] (Claim) **Candace Owens**: ["Owens said that although Kolvet ran Kirk's Twitter feed, Kirk did believe Islam ..."](/statements/statement-b2ba2f5e2d65.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 - [00:29:55](#t-00-29-27) [✓] (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk was changing and had written that he had no choi..."](/statements/statement-e53e9c33f4b6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 - [00:30:14](#t-00-30-14) [?] (Claim) **Candace Owens**: ["Benjamin Netanyahu offered to take Turning Point USA to the next level, but Char..."](/statements/statement-5c2477ef3180.md)
@@ -4542,6 +4546,8 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
   - About: [Jonathan Conricus](/entities/person-jonathan-conricus.md), [Gaza](/entities/gpe-gaza.md), [Palestine](/entities/gpe-palestine.md)
 - [01:06:21](#t-01-06-12) [○] (Accusation) **Candace Owens**: ["The media company where Candace Owens worked used her to appear committed to fre..."](/statements/statement-2a737a7f8122.md)
   - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Israel](/entities/gpe-israel.md), [Candace Owens](/entities/person-candace-owens.md)
+- [01:07:17](#t-01-06-58) [✓] (Opinion) **Bassem Youssef**: ["Youssef implied that insiders such as Owens and Kirk who began turning against p..."](/statements/statement-3d9fcc2922d3.md)
+  - About: [Bassem Youssef](/entities/person-bassem-youssef.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [01:09:18](#t-01-09-18) [○] (Accusation) **Candace Owens**: ["Candace Owens is convinced the Egyptian planes connected to Charlie Kirk were Is..."](/statements/statement-cca1d6a784f0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [Egypt](/entities/gpe-egypt.md)
 - [01:09:31](#t-01-09-31) [○] (Claim) **Candace Owens**: ["A dead Palestinian's exact full name appeared on the list of names connected to ..."](/statements/statement-f9e8a15fff29.md)
@@ -4552,6 +4558,8 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 - [01:14:20](#t-01-14-20) [○] (Accusation) **Candace Owens**: ["U.S. state actors are colluding to cover up Charlie Kirk's assassination, which ..."](/statements/statement-31fb534345ef.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+- [01:14:41](#t-01-14-26) [✓] (Opinion) **Candace Owens**: ["Owens said Netanyahu's immediate post-assassination denial and Trump's image of ..."](/statements/statement-c99843036503.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 - [01:21:46](#t-01-21-46) [◐] (Citation) **Bassem Youssef**: ["Bassem Youssef said Breaking the Silence is a group of former IDF soldiers who d..."](/statements/statement-7bd7a3fccfcd.md)
   - About: [Breaking the Silence](/entities/org-breaking-the-silence.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Gaza](/entities/gpe-gaza.md)
 - [01:22:12](#t-01-22-12) [✓] (Accusation) **Ward Boston**: ["The USS Liberty investigation was a cover-up and the attack was deliberate."](/statements/statement-477a982ea9ac.md)
@@ -4584,6 +4592,8 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
   - About: [Michael Aquino](/entities/person-michael-aquino.md), [Temple of Set](/entities/org-temple-of-set.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [01:44:18](#t-01-44-14) [○] (Accusation) **Candace Owens**: ["The post-9/11 media environment conditioned children to fear Muslims so the Unit..."](/statements/statement-2350154ebb84.md)
   - About: [Islam](/entities/concept-islam.md), [Middle East](/entities/gpe-middle-east.md), [Israel](/entities/gpe-israel.md)
+- [01:44:45](#t-01-44-43) [✓] (Accusation) **Candace Owens**: ["Owens said Netanyahu doing U.S. podcasts after Kirk's death would not be an obje..."](/statements/statement-3d51f515c510.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 - [01:44:55](#t-01-44-43) [✓] (Promise) **Candace Owens**: ["Candace Owens said she will find out who killed Charlie Kirk."](/statements/statement-26964063f24a.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 

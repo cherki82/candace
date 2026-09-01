@@ -238,7 +238,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 > "And because it's from Paleo Valley, you know that you're getting high quality ingred..."
 
 **[01:25:30](/episodes/ep-Dkxa9OUA9K8.md#ent-org-paleovalley-t-01-25-18)**
-> "...t 20% off your first order at paleovalley.com and you can use code Candice at checkout."
+> "Right now, you'll get 20% off your first order at paleovalley.com, and you can use code Candace at checkout."
 
 **[01:25:38](/episodes/ep-Dkxa9OUA9K8.md#ent-org-paleovalley-t-01-25-18)**
 > "Again, that's paleovalley.com promo code Candice at checkout. I also want t..."

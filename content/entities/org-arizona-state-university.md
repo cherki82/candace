@@ -25,9 +25,9 @@ Source: [Arizona State University](https://www.asu.edu/)
 <div><span>Episodes</span><strong>12</strong></div>
 <div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -66,6 +66,10 @@ Source: [Arizona State University](https://www.asu.edu/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -347,7 +351,7 @@ Source: [Arizona State University](https://www.asu.edu/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Arizona State University (17)</strong></summary>
+<summary><strong class="section-title">Statements about Arizona State University (18)</strong></summary>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
@@ -358,7 +362,7 @@ Source: [Arizona State University](https://www.asu.edu/)
 </details>
 
 <details>
-<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (5)</summary>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (6)</summary>
 
 - [00:13:16](/episodes/ep-H9p2ZGHAs9A.md#t-00-12-32) (Accusation) **Candace Owens**: ["Candace Owens said she could not confirm Erika Kirk's claim to have gr..."](/statements/statement-42bd8e5a50f4.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -374,6 +378,9 @@ Source: [Arizona State University](https://www.asu.edu/)
 
 - [00:24:15](/episodes/ep-H9p2ZGHAs9A.md#t-00-23-53) (Claim) **Candace Owens**: ["Candace Owens said Arizona State University's Romanian program inaugur..."](/statements/statement-2ebbeedfc02b.md)
   - Also about: [Romania](/entities/gpe-romania.md)
+
+- [00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12) (Accusation) **Candace Owens**: ["Candace Owens said the Arizona–Romania pipeline and its links around T..."](/statements/statement-97b910cdee93.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </details>
 

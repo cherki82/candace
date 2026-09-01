@@ -111,8 +111,8 @@ _No relationships extracted yet._
 - [00:03:38](/episodes/ep-DqGNvi36ol8.md#t-00-02-57) (Claim) **Candace Owens**: ["In 2014, John McCain went over to Ukraine and led the protesters in th..."](/statements/statement-2657ec89fb0f.md)
   - Also about: [Ukraine](/entities/gpe-ukraine.md)
 
-- [00:11:35](/episodes/ep-DqGNvi36ol8.md#t-00-11-19) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was about as organic as John McCain leadi..."](/statements/statement-6873b7794fe9.md)
-  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:03:55](/episodes/ep-DqGNvi36ol8.md#t-00-03-41) (Opinion) **Candace Owens**: ["I believe in my heart and in my rational mind that Charlie Kirk's assa..."](/statements/statement-e054d5b0731f.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:18:12](/episodes/ep-DqGNvi36ol8.md#t-00-17-32) (Accusation) **Candace Owens**: ["In discussing Ukraine’s 2014 revolution, Owens played John McCain’s De..."](/statements/statement-f5f41417afd9.md)
 

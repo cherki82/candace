@@ -1,14 +1,14 @@
 ---
 id: "-9MOUvgGyi4"
 title: "Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329"
-description: "Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 - 84 entities, 22 events, 12 factual claims"
+description: "Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 - 84 entities, 22 events, 17 factual claims"
 published: "2026-04-22"
 youtube_url: "https://www.youtube.com/watch?v=-9MOUvgGyi4"
 ---
 
 **Published:** 2026-04-22 | [Watch on YouTube](https://www.youtube.com/watch?v=-9MOUvgGyi4)
 
-**Stats:** 84 entities | 22 events | 12 factual claims
+**Stats:** 84 entities | 22 events | 17 factual claims
 
 ---
 
@@ -738,9 +738,9 @@ youtube_url: "https://www.youtube.com/watch?v=-9MOUvgGyi4"
 **<a href="/timestamps/ep--9MOUvgGyi4/t-00-47-56.md" class="timestamp-link">00:47:56</a> <a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=2876" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Sebastian Gorka:** Tell us the genesis, before we talk about <span id="ent-person-victor-marx-t-00-47-56"><a href="/entities/person-victor-marx.md">Victor</a></span> and the very exciting plans you have for this weapon, what is the genesis, how did you get this idea? ^t-00-47-56
 
 ---
-**🎤 Melody (Corby Hall’s wife and FoldAR COO; surname unverified)**
+**🎤 Melody Hall**
 
-**<a href="/timestamps/ep--9MOUvgGyi4/t-00-48-05.md" class="timestamp-link">00:48:05</a> <a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=2885" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Melody (Corby Hall’s wife and FoldAR COO; surname unverified):** So our inventor, <span id="ent-person-corby-hall-t-00-48-05"><a href="/entities/person-corby-hall.md">Corby</a></span>, he's my husband also, but he came out with the product about seven years ago and he came out with it because he was looking for a way to get the AR to be more compact and decided to take the barrel nut off. And then when he figured that out, he figured that you could also fold it. And after a lot of testing and and a couple of years of development, you know, we. made this a possibility. ^t-00-48-05
+**<a href="/timestamps/ep--9MOUvgGyi4/t-00-48-05.md" class="timestamp-link">00:48:05</a> <a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=2885" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Melody Hall:** So our inventor, <span id="ent-person-corby-hall-t-00-48-05"><a href="/entities/person-corby-hall.md">Corby</a></span>, he's my husband also, but he came out with the product about seven years ago and he came out with it because he was looking for a way to get the AR to be more compact and decided to take the barrel nut off. And then when he figured that out, he figured that you could also fold it. And after a lot of testing and and a couple of years of development, you know, we. made this a possibility. ^t-00-48-05
 
 ---
 **🎤 Sebastian Gorka**
@@ -2249,7 +2249,7 @@ youtube_url: "https://www.youtube.com/watch?v=-9MOUvgGyi4"
 
 **<a href="/timestamps/ep--9MOUvgGyi4/t-02-02-24.md" class="timestamp-link">02:02:24</a> <a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=7344" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Okay, so that's something that is could definitely be chased down. Okay, I'm definitely going to take a look into that. I do find that to be, as you did, for the same reasons, just like, oh, it's kind of precise timing and it also is sort of. you know the timeline that I'm just a lot going on at that in that timeline in 2024 so we'll see um but that is that definitely was of interest to me of just just a lot of planes were coming out of <span id="ent-gpe-texas-t-02-02-24"><a href="/entities/gpe-texas.md">Texas</a></span> that day in general I think is why it kind of also flagged me um as weird is just looking into the <span id="ent-person-charlie-kirk-t-02-02-24"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span> assassination and things of that nature and then ^t-02-02-24
 
-**<a href="/timestamps/ep--9MOUvgGyi4/t-02-03-03.md" class="timestamp-link">02:03:03</a> <a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=7383" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** kind of this weird connection with <span id="ent-person-victor-marx-t-02-03-03"><a href="/entities/person-victor-marx.md">Victor</a></span> like trying to get these guns from you in that time frame for different things and he's giving you the <span id="ent-gpe-haiti-t-02-03-03"><a href="/entities/gpe-haiti.md">Haiti</a></span> spiel but now I'm in contact with someone from <a href="/entities/gpe-haiti.md">Haiti</a> who knows <a href="/entities/person-victor-marx.md">Victor Marx</a> and it's very it's just getting even more interesting I don't think anybody really knows <a href="/entities/person-victor-marx.md">Victor Marx</a> I was that person shared with me messages I was surprised to learn that his backstory about being abused by his dad his dad being named Karl Marx I guess it was right there but I didn't know that Karl Marx was <span id="ent-concept-judaism-t-02-03-03"><a href="/entities/concept-judaism.md">Jewish</a></span> this Karl Marx's dad that was um something that came across in text messages that were given to me that uh he's quite defensive about <span id="ent-gpe-israel-t-02-03-03"><a href="/entities/gpe-israel.md">Israel</a></span> is what I would say he's he is similarly how he right there but i didn't know that <span id="ent-person-karl-w-marx-sr-t-02-03-03"><a href="/entities/person-karl-w-marx-sr.md">carl marx</a></span> was <a href="/entities/concept-judaism.md">jewish</a> this <a href="/entities/person-karl-w-marx-sr.md">carl marx</a>'s dad that was um something that came across in text messages that were given to me that uh he's quite defensive about <a href="/entities/gpe-israel.md">israel</a> is what i would say he's he is similarly how he ^t-02-03-03
+**<a href="/timestamps/ep--9MOUvgGyi4/t-02-03-03.md" class="timestamp-link">02:03:03</a> <a href="https://www.youtube.com/watch?v=-9MOUvgGyi4&t=7383" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** kind of this weird connection with <span id="ent-person-victor-marx-t-02-03-03"><a href="/entities/person-victor-marx.md">Victor</a></span> like trying to get these guns from you in that time frame for different things and he's giving you the <span id="ent-gpe-haiti-t-02-03-03"><a href="/entities/gpe-haiti.md">Haiti</a></span> spiel but now I'm in contact with someone from <a href="/entities/gpe-haiti.md">Haiti</a> who knows <a href="/entities/person-victor-marx.md">Victor Marx</a> and it's very it's just getting even more interesting I don't think anybody really knows <a href="/entities/person-victor-marx.md">Victor Marx</a> I was that person shared with me messages I was surprised to learn that his backstory about being abused by his dad his dad being named Karl Marx I guess it was right there but I didn't know that Karl Marx was <span id="ent-concept-judaism-t-02-03-03"><a href="/entities/concept-judaism.md">Jewish</a></span> this Karl Marx's dad that was um something that came across in text messages that were given to me that uh he's quite defensive about <span id="ent-gpe-israel-t-02-03-03"><a href="/entities/gpe-israel.md">Israel</a></span> is what I would say he's he is similarly how he ^t-02-03-03
 
 ---
 **🎤 Corby Hall**
@@ -2951,7 +2951,7 @@ youtube_url: "https://www.youtube.com/watch?v=-9MOUvgGyi4"
 </details>
 
 <details>
-<summary><strong>Statements (29)</strong></summary>
+<summary><strong>Statements (35)</strong></summary>
 
 - [00:02:41](#t-00-02-41) [◐] (Claim) **Corby Hall**: ["Corby Hall is the inventor, founder, and sole owner of FoldAR, which produces co..."](/statements/statement-616d26308603.md)
   - About: [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md)
@@ -3001,10 +3001,22 @@ youtube_url: "https://www.youtube.com/watch?v=-9MOUvgGyi4"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Victor Marx](/entities/person-victor-marx.md)
 - [02:09:56](#t-02-09-45) [◐] (Accusation) **Candace Owens**: ["Candace Owens said Erika Kirk abandoned a University of Georgia appearance after..."](/statements/statement-31f325b4d73f.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [University of Georgia](/entities/org-university-of-georgia.md)
+- [02:14:42](#t-02-14-18) [○] (Claim) **Corby Hall**: ["Corby Hall said a reported .30-caliber finding would not necessarily mean .30-06..."](/statements/statement-ce3a90960125.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [02:16:01](#t-02-15-47) [○] (Opinion) **Corby Hall**: ["Corby Hall explicitly described his barrel-swap assassination scenario as specul..."](/statements/statement-a41e791bc4b1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [02:16:26](#t-02-16-26) [✓] (Claim) **Corby Hall**: ["Corby Hall said FoldAR's interchangeable barrel system could be used after an as..."](/statements/statement-46e8cd59ceee.md)
   - About: [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md)
+- [02:16:26](#t-02-16-26) [○] (Claim) **Corby Hall**: ["Corby Hall said the barrel-removal mechanism in his assassination scenario was n..."](/statements/statement-735fd51223d2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [02:20:48](#t-02-20-44) [○] (Claim) **Corby Hall**: ["Corby Hall said he was not a ballistics expert and characterized himself instead..."](/statements/statement-274340e4880b.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [02:22:24](#t-02-22-24) [✓] (Claim) **Corby Hall**: ["Corby Hall said, conditionally and without seeing the body, that a subsonic .300..."](/statements/statement-e3f650e156dc.md)
   - About: [Corby Hall](/entities/person-corby-hall.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [02:24:47](#t-02-24-08) [○] (Claim) **Corby Hall**: ["Corby Hall said a Marine sniper he consulted could envision a .30-06 Core-Lokt r..."](/statements/statement-9b6505fdee39.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [02:26:47](#t-02-26-44) [○] (Claim) **Corby Hall**: ["Corby Hall said the missing FoldAR traced on September 10 used a 16-inch .223 ba..."](/statements/statement-826353a71a8f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [02:30:08](#t-02-29-52) [○] (Opinion) **Candace Owens**: ["Candace Owens called Victor Marx wildly manipulative and opined that he was prob..."](/statements/statement-6c3297843320.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Victor Marx](/entities/person-victor-marx.md)
 - [02:30:45](#t-02-30-28) [○] (Opinion) **Candace Owens**: ["Candace Owens opined that Victor Marx targeted Corby Hall for Hall's product rat..."](/statements/statement-a519dc4e6118.md)

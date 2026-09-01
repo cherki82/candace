@@ -27,9 +27,9 @@ Source: [FBI Agents Association | LinkedIn](https://www.linkedin.com/company/fbi
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -46,6 +46,10 @@ Source: [FBI Agents Association | LinkedIn](https://www.linkedin.com/company/fbi
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -76,10 +80,13 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI Agents Association (1)</strong></summary>
+<summary><strong class="section-title">Statements about FBI Agents Association (2)</strong></summary>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (2)</summary>
+
+- [00:08:59](/episodes/ep-NIEbqsLAK8g.md#t-00-08-59) (Accusation) **Candace Owens**: ["Owens concluded that Robert Eugene Flood was a federal operative and s..."](/statements/statement-0cea143d2dfa.md)
+  - Also about: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [FBI](/entities/org-fbi.md)
 
 - [00:09:17](/episodes/ep-NIEbqsLAK8g.md#t-00-08-59) (Citation) **Candace Owens**: ["The FBI Agents Association is a charity founded in 1981 that says it h..."](/statements/statement-d70f584ccc65.md)
   - Also about: [FBI](/entities/org-fbi.md)

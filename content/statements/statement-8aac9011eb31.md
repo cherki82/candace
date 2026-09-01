@@ -1,23 +1,27 @@
 ---
-title: "Anybody who trained with the French Foreign Legion was on th..."
-description: "\"Anybody who trained with the French Foreign Legion was on the ground on September 10th at Utah Valley University\" — Candace Owens"
+title: "Was anyone who trained with the French Foreign Legion presen..."
+description: "\"Was anyone who trained with the French Foreign Legion present at Utah Valley University on September 10?\" — Candace Owens"
 statement_id: "statement-8aac9011eb31"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Anybody who trained with the French Foreign Legion was on the ground on September 10th at Utah Valley University
+> Was anyone who trained with the French Foreign Legion present at Utah Valley University on September 10?
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Made directly
-**Original Source:** legacy claim transcript evidence
+
+## About
+
+- [French Foreign Legion](/entities/org-french-foreign-legion.md) (org)
+- [Utah Valley University](/entities/org-utah-valley-university.md) (org)
 
 ## Source
 
@@ -33,4 +37,4 @@ _This statement has not yet been verified._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

@@ -359,7 +359,7 @@ youtube_url: "https://www.youtube.com/watch?v=DEtFh2Ff-58"
 </details>
 
 <details>
-<summary><strong>Statements (35)</strong></summary>
+<summary><strong>Statements (39)</strong></summary>
 
 - [00:02:44](#t-00-02-35) [✓] (Claim) **Anonymous Source #1 (Ep DEtFh2Ff-58)**: ["The victim's wife is arriving at 3:30."](/statements/statement-599ccdf40310.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Provo Airport](/entities/org-provo-airport.md)
@@ -379,6 +379,10 @@ youtube_url: "https://www.youtube.com/watch?v=DEtFh2Ff-58"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Truth Social](/entities/org-truth-social.md)
 - [00:08:55](#t-00-08-45) [○] (Accusation) **Baron Coleman**: ["If Andrew Kolvet left Santa Barbara before Charlie Kirk was shot, then there was..."](/statements/statement-ba85fbee4ed4.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:09:23](#t-00-08-45) [✓] (Opinion) **Candace Owens**: ["Candace Owens said the early-flight timing suggested but did not conclude that A..."](/statements/statement-4c3599bb1c12.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+- [00:09:58](#t-00-09-23) [✓] (Opinion) **Candace Owens**: ["Candace Owens acknowledged a non-conspiratorial possibility that Andrew Kolvet m..."](/statements/statement-af3a9fe8a3c7.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 - [00:10:36](#t-00-10-36) [○] (Opinion) **Candace Owens**: ["My very strong opinion is that the TPUSA core crew met at Scottsdale Airport and..."](/statements/statement-e0c42d3a79b5.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md), [Provo Airport](/entities/org-provo-airport.md)
 - [00:11:58](#t-00-11-58) [✓] (Promise) **Candace Owens**: ["I will try to identify and reach out to Charlie Kirk's pilot, known only as Jami..."](/statements/statement-ab9bfe7468d0.md)
@@ -387,6 +391,8 @@ youtube_url: "https://www.youtube.com/watch?v=DEtFh2Ff-58"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:12:47](#t-00-12-37) [◐] (Claim) **Candace Owens**: ["My theory is that Andrew Kolvet departed Santa Barbara for Scottsdale at approxi..."](/statements/statement-292c8e97cfc2.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md)
+- [00:14:10](#t-00-13-58) [✓] (Opinion) **Candace Owens**: ["Candace Owens theorized that the TPUSA group had their phones turned off during ..."](/statements/statement-d6fddb810c29.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:14:19](#t-00-13-58) [○] (Claim) **Candace Owens**: ["Justin Streiff sent Aubrey Laitsch's drafted email announcing Charlie Kirk's dea..."](/statements/statement-ec9196dc6904.md)
   - About: [Justin Streiff](/entities/person-justin-streiff.md), [Aubrey Laitsch](/entities/person-aubrey-laitsch.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:14:28](#t-00-13-58) [○] (Claim) **Candace Owens**: ["I believe Charlie Kirk's plane departed Scottsdale at 2:31 with the TPUSA group ..."](/statements/statement-5ae440fa7dce.md)
@@ -424,6 +430,8 @@ youtube_url: "https://www.youtube.com/watch?v=DEtFh2Ff-58"
 - [00:43:22](#t-00-43-07) [○] (Claim) **Anonymous Source #3 (Ep DEtFh2Ff-58)**: ["Stacey Sheridan, Michael McCoy, and Elizabeth McCoy are at Charlie and Erika Kir..."](/statements/statement-30bada1746a8.md)
   - About: [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
 - [00:48:56](#t-00-48-56) [○] (Claim) **Anonymous Source #4 (Ep DEtFh2Ff-58)**: ["Frank Turek changed his schedule at the last second, canceling an appointment in..."](/statements/statement-67d52ae00784.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md)
+- [00:49:27](#t-00-48-56) [✓] (Citation) **Candace Owens**: ["Candace Owens said she was still working on the tip that Frank Turek changed his..."](/statements/statement-55eb136f6d72.md)
   - About: [Frank Turek](/entities/person-frank-turek.md)
 - [00:50:19](#t-00-49-39) [✓] (Claim) **Candace Owens**: ["Tyler Robinson had not yet entered a plea or had his arraignment."](/statements/statement-4a1f623051ad.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)

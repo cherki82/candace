@@ -29,7 +29,7 @@ Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -46,6 +46,10 @@ Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -105,10 +109,10 @@ Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over
 
 - [00:15:42](/episodes/ep-ZZGWo6oDscc.md#t-00-15-12) (Citation) **Candace Owens**: ["A December 2024 court petition challenged the last will, testament, an..."](/statements/statement-5a11a9e8c496.md)
 
-- [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["After being hired as Alton C. Jennings's caretaker, Mitchell Manley Sr..."](/statements/statement-35de484f46fe.md)
+- [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["Jennings's grandson alleged in the December 2024 estate petition that ..."](/statements/statement-35de484f46fe.md)
   - Also about: [Mitchell Manley Sr.](/entities/person-mitchell-manley-sr.md)
 
-- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["Four months before Alton C. Jennings died, his will was changed in Nov..."](/statements/statement-c59ce538da60.md)
+- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["The December 2024 estate petition said that four months before Jenning..."](/statements/statement-c59ce538da60.md)
   - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </details>

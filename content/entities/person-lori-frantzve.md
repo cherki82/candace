@@ -26,9 +26,9 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <div><span>Episodes</span><strong>29</strong></div>
 <div><span>Mentions</span><strong>232</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>101</strong></div>
+<div><span>Statements about</span><strong>106</strong></div>
 <div><span>Relationships</span><strong>49</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -46,7 +46,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-lori-frantzve-t-00-09-56" style="--pulse-height:20%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 12 mentions" title="2026-02-27 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-lori-frantzve-t-00-00-01" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 59 mentions" title="2026-02-28 · 59 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-lori-frantzve-t-00-10-59" style="--pulse-height:39%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 23 mentions" title="2026-03-02 · 23 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-lori-frantzve-t-00-00-01" style="--pulse-height:47%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 28 mentions" title="2026-03-03 · 28 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-lori-frantzve-t-00-00-01" style="--pulse-height:46%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 27 mentions" title="2026-03-03 · 27 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-lori-frantzve-t-00-09-42" style="--pulse-height:12%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 7 mentions" title="2026-03-04 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-03-47" style="--pulse-height:27%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 16 mentions" title="2026-03-06 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-lori-frantzve-t-00-39-15" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
@@ -80,7 +80,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-lori-frantzve-t-00-09-56) | 12 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-lori-frantzve-t-00-00-01) | 59 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-lori-frantzve-t-00-10-59) | 23 |
-| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-lori-frantzve-t-00-00-01) | 28 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-lori-frantzve-t-00-00-01) | 27 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-lori-frantzve-t-00-09-42) | 7 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-03-47) | 16 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-lori-frantzve-t-00-39-15) | 2 |
@@ -101,6 +101,10 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -388,7 +392,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>Bride Of Charlie: The Lost Years... | Episode 5 (28 mentions)</summary>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (27 mentions)</summary>
 
 **[00:00:17](/episodes/ep-2tFYJf1klgY.md#ent-person-lori-frantzve-t-00-00-01)**
 > "...so, is it possible that Lori (Lori Frantzve), her mom, was in Afghanistan? Is Lori (Lori Fran..."
@@ -446,9 +450,6 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 **[00:18:38](/episodes/ep-2tFYJf1klgY.md#ent-person-lori-frantzve-t-00-18-13)**
 > "...July 2nd of 2009. Okay, Lori (Lori Frantzve) seems a bit busy."
-
-**[00:18:48](/episodes/ep-2tFYJf1klgY.md#ent-person-lori-frantzve-t-00-18-48)**
-> "...everything I know about Lori (Lori Frantzve) help vulnerable children."
 
 **[00:19:14](/episodes/ep-2tFYJf1klgY.md#ent-person-lori-frantzve-t-00-18-48)**
 > "...everything I know about Lori (Lori Frantzve), I don't love it."
@@ -1456,7 +1457,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lori Frantzve (101)</strong></summary>
+<summary><strong class="section-title">Statements about Lori Frantzve (106)</strong></summary>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2)</summary>
@@ -1490,7 +1491,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (10)</summary>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (11)</summary>
 
 - [00:10:21](/episodes/ep-q1NRQQAYS_Q.md#t-00-10-21) (Accusation) **Candace Owens**: ["Erika Kirk was not raised by a single mother; she had a stepfather in ..."](/statements/statement-562d5c2ba1f0.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -1518,6 +1519,9 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 - [00:42:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13) (Claim) **Candace Owens** (via paraphrase): ["A woman from Dassel, Minnesota claimed that she, rather than Erika Kir..."](/statements/statement-04a77136224d.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dassel, Minnesota](/entities/gpe-dassel-minnesota.md)
+
+- [00:43:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-43-35) (Opinion) **Candace Owens**: ["Either the clinic alibi was circulated without Erika being there, or E..."](/statements/statement-f2b78daecd53.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Derek Niekerk](/entities/person-derek-niekerk.md)
 
 - [00:44:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-07) (Opinion) **Candace Owens**: ["Candace Owens does not believe Erika Kirk was with her mother on Septe..."](/statements/statement-ed2126b3b2c0.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -1577,7 +1581,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>Bride Of Charlie: The Lost Years... | Episode 5 (10)</summary>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (11)</summary>
 
 - [00:06:11](/episodes/ep-2tFYJf1klgY.md#t-00-06-06) (Citation) **Candace Owens**: ["Candace Owens's team could find neither marriage records for Lori Fran..."](/statements/statement-22de5f4af6e6.md)
   - Also about: [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md)
@@ -1607,6 +1611,9 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [00:35:36](/episodes/ep-2tFYJf1klgY.md#t-00-35-26) (Accusation) **Candace Owens**: ["I think Erika Kirk, the Frantzves, and Tyler Bowyer may have known one..."](/statements/statement-4e6bbf5f346f.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Afghanistan](/entities/gpe-afghanistan.md)
 
+- [00:56:43](/episodes/ep-2tFYJf1klgY.md#t-00-56-43) (Accusation) **Candace Owens**: ["Owens's theory is that Erika Kirk, the Frantzves, and Tyler Bowyer kne..."](/statements/statement-6c35e401fb0e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 </details>
 
 <details>
@@ -1628,13 +1635,16 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (14)</summary>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (16)</summary>
 
 - [00:00:24](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01) (Claim) **Candace Owens**: ["Candace Owens disputed that Erika Kirk was with Lori Frantzve on Septe..."](/statements/statement-69af9bf5ce80.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01) (Claim) **Candace Owens**: ["Lori Frantzve was placed on the Superfeed Technologies board alongside..."](/statements/statement-7005646340ac.md)
   - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+- [00:00:52](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42) (Citation) **Candace Owens** (via paraphrase): ["Owens reported unverified online rumors that money from Turning Point ..."](/statements/statement-45cb806aceb1.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 - [00:01:03](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42) (Accusation) **Candace Owens**: ["Candace Owens said Lori Frantzve and Tyler Bowyer were in cahoots"](/statements/statement-300d4c89979b.md)
   - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
@@ -1667,6 +1677,9 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 - [00:36:17](/episodes/ep-cZxHqYsWRYg.md#t-00-36-06) (Claim) **Candace Owens**: ["Arizona tax authorities canceled Virtual Registration International be..."](/statements/statement-afc9c97d744b.md)
   - Also about: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Arizona](/entities/gpe-arizona.md)
+
+- [00:57:29](/episodes/ep-cZxHqYsWRYg.md#t-00-57-02) (Opinion) **Candace Owens**: ["Owens theorized that Lori Frantzve knew what Erika needed from Charlie..."](/statements/statement-1845c929b481.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:57:41](/episodes/ep-cZxHqYsWRYg.md#t-00-57-02) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens said reports that Lori Frantzve tells Erika Kirk what to..."](/statements/statement-f50fcfbd5748.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -1757,7 +1770,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (14)</summary>
+<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (15)</summary>
 
 - [00:21:06](/episodes/ep-QRS_hR7NXaQ.md#t-00-20-29) (Accusation) **Candace Owens**: ["Turning Point USA became a literal military operation populated by peo..."](/statements/statement-cb72e725ec7a.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -1787,6 +1800,8 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 - [00:28:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-27-58) (Claim) **Candace Owens**: ["Candace Owens said she had learned, and believed it accurate, that on ..."](/statements/statement-68103e28f508.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:29:00](/episodes/ep-QRS_hR7NXaQ.md#t-00-28-41) (Opinion) **Candace Owens**: ["Owens said Lori Frantzve's Lyme disease was real and that intensive tr..."](/statements/statement-d66a52fb4514.md)
 
 - [00:29:32](/episodes/ep-QRS_hR7NXaQ.md#t-00-29-18) (Claim) **Candace Owens**: ["Charlie Kirk appeared from his home studio on September 8, did not go ..."](/statements/statement-02ee1c00b0fd.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)

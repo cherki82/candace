@@ -1,24 +1,29 @@
 ---
-title: "the green light was given to a small team in the National Ge..."
-description: "\"the green light was given to a small team in the National Gendarmerie Intervention Group. I am told there is one Israeli that is on the assassination ...\" — National Gendarmerie Intervention Group"
+title: "An anonymous purported French-government source alleged that..."
+description: "\"An anonymous purported French-government source alleged that a small National Gendarmerie Intervention Group team received authorization for a plot ag...\" — Anonymous French government source (Ep tB5SXXmd9vU)"
 statement_id: "statement-d2fe1a2c7252"
-speaker: "National Gendarmerie Intervention Group"
-type: "factual_claim"
+speaker: "Anonymous French government source (Ep tB5SXXmd9vU)"
+type: "accusation"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> the green light was given to a small team in the National Gendarmerie Intervention Group. I am told there is one Israeli that is on the assassination squad
+> An anonymous purported French-government source alleged that a small National Gendarmerie Intervention Group team received authorization for a plot against Candace Owens and that one Israeli was on the alleged squad.
 
 ## Attribution
 
-**Speaker:** [National Gendarmerie Intervention Group](/entities/org-national-gendarmerie-intervention-group.md) (Quoted)
+**Speaker:** [Anonymous French government source (Ep tB5SXXmd9vU)](/entities/anon-src-tB5SXXmd9vU-001.md) (Anonymous Source)
 
-**Delivery:** Quoted from speech/interview
+**Delivery:** Paraphrased
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** legacy claim transcript evidence
+**Original Source:** private French-government source summarized in Owens’s November 25 post
+
+## About
+
+- [National Gendarmerie Intervention Group](/entities/org-national-gendarmerie-intervention-group.md) (org)
+- [Candace Owens](/entities/person-candace-owens.md) (person)
 
 ## Source
 
@@ -30,8 +35,8 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

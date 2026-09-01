@@ -40,15 +40,15 @@ veracity: "true"
 
 ### Analysis
 
-Axios confirms TPUSA scheduled a December 15, 2025 livestream to respond to Owens's claims. It was later postponed amid Erika Kirk's private meeting with Owens; that later change does not negate that it had been scheduled when Owens spoke.
+Verified as a report of Kaag’s demonstrated test result and his stated conclusion: the reproduced clip shows the shot penetrating the water jugs, after which he calls the .30-06 hard to stop. A water-jug and dummy setup is not a forensic reconstruction of Kirk’s wound and cannot by itself establish the real bullet’s trajectory or terminal effect.
 
 **Confidence:** High
 
 **Sources:**
 
-- [Erika Kirk to address assassination claims privately with Candace Owens](https://www.axios.com/2025/12/15/candace-owens-erika-kirk-turning-point-livestream)
+- [Who Stood To Benefit From Charlie Kirk’s Assassination? | Candace Ep 276](https://www.youtube.com/watch?v=Kmt6HgRjckU)
 
-*Verified: 2026-08-26T09:08:00.197970*
+*Verified: 2026-08-31T23:36:42.540622*
 
 ---
 

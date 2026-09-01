@@ -5,6 +5,7 @@ id: "anon-src-h76ZN-xXC6c-ashley-producer"
 type: "ANONYMOUS_SOURCE"
 aliases:
   - "Ashley"
+  - "Ash"
 categories:
   - "Candace production team"
   - "control-room producer"
@@ -12,7 +13,7 @@ categories:
 
 _Type: Anonymous Sources_
 
-**Also known as:** Ashley
+**Also known as:** Ashley, Ash
 
 **Categories:** Candace production team, control-room producer
 

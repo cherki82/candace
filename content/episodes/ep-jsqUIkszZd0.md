@@ -1,14 +1,14 @@
 ---
 id: "jsqUIkszZd0"
 title: "BREAKING: The ATF Traced A Gun On 9/10. Erika's \"Friend\" Wanted To Own Its Company. | Candace Ep 324"
-description: "BREAKING: The ATF Traced A Gun On 9/10. Erika's \"Friend\" Wanted To Own Its Company. | Candace Ep 324 - 104 entities, 25 events, 21 factual claims"
+description: "BREAKING: The ATF Traced A Gun On 9/10. Erika's \"Friend\" Wanted To Own Its Company. | Candace Ep 324 - 104 entities, 25 events, 23 factual claims"
 published: "2026-04-14"
 youtube_url: "https://www.youtube.com/watch?v=jsqUIkszZd0"
 ---
 
 **Published:** 2026-04-14 | [Watch on YouTube](https://www.youtube.com/watch?v=jsqUIkszZd0)
 
-**Stats:** 104 entities | 25 events | 21 factual claims
+**Stats:** 104 entities | 25 events | 23 factual claims
 
 ---
 
@@ -161,7 +161,7 @@ youtube_url: "https://www.youtube.com/watch?v=jsqUIkszZd0"
 
 **<a href="/timestamps/ep-jsqUIkszZd0/t-00-36-53.md" class="timestamp-link">00:36:53</a> <a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=2213" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** <span id="ent-person-corby-hall-t-00-36-53"><a href="/entities/person-corby-hall.md">Corby</a></span> met with a buyer, a person who wanted to purchase just one of his Fold ARs. And it was a <span id="ent-gpe-texas-t-00-36-53"><a href="/entities/gpe-texas.md">Texas</a></span> deputy, no less. And he purchased a <span id="ent-org-foldar-t-00-36-53"><a href="/entities/org-foldar.md">Fold AR</a></span> with the serial number 02735. Fast forward about a month later, on the 4th of July in 2024, that <a href="/entities/gpe-texas.md">Texas</a> deputy contacted <a href="/entities/person-corby-hall.md">Corby</a> and he told him that the gun was stolen. At a gas station in <span id="ent-gpe-midland-texas-t-00-36-53"><a href="/entities/gpe-midland-texas.md">Midland, Texas</a></span>, he said that he had accidentally left the car doors, the windows down and someone grabbed the backpack with the <a href="/entities/org-foldar.md">fold AR</a> inside of it. ^t-00-36-53
 
-**<a href="/timestamps/ep-jsqUIkszZd0/t-00-37-34.md" class="timestamp-link">00:37:34</a> <a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=2254" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And that <span id="ent-gpe-texas-t-00-37-34"><a href="/entities/gpe-texas.md">Texas</a></span> deputy then claimed that he reported it to local <span id="ent-gpe-midland-texas-t-00-37-34"><a href="/entities/gpe-midland-texas.md">Midland</a></span> police and that was it. No more follow up. No one contacted <span id="ent-person-corby-hall-t-00-37-34"><a href="/entities/person-corby-hall.md">Corby</a></span>. Nothing. Just a missing gun. We're going to fast forward again to September 10th, 2025, the morning of <span id="ent-person-charlie-kirk-t-00-37-34"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span>'s assassination at 9.33 a.m. Central.<span id="event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-37-34"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md" class="event-indicator" title="Timeline event">📅</a></span> So again, this is a full year and two months later after this gun went missing and <a href="/entities/person-corby-hall.md">Corby</a> receives an email from the <span id="ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34"><a href="/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md">ATF</a></span>. Full year and two months later after this gun went missing and <a href="/entities/person-corby-hall.md">Corby</a> receives an email from the <a href="/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md">ATF</a>. They're conducting a trace on that exact gun. Now you might be like me. You might not know what that means. What is an <a href="/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md">ATF</a> trace on a gun? Why do they do that? ^t-00-37-34
+**<a href="/timestamps/ep-jsqUIkszZd0/t-00-37-34.md" class="timestamp-link">00:37:34</a> <a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=2254" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And that <span id="ent-gpe-texas-t-00-37-34"><a href="/entities/gpe-texas.md">Texas</a></span> deputy then claimed that he reported it to local <span id="ent-gpe-midland-texas-t-00-37-34"><a href="/entities/gpe-midland-texas.md">Midland</a></span> police and that was it. No more follow up. No one contacted <span id="ent-person-corby-hall-t-00-37-34"><a href="/entities/person-corby-hall.md">Corby</a></span>. Nothing. Just a missing gun. We're going to fast forward again to September 10th, 2025, the morning of <span id="ent-person-charlie-kirk-t-00-37-34"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span>'s assassination at 9.33 a.m. Central.<span id="event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-37-34"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md" class="event-indicator" title="Timeline event">📅</a></span> So again, this is a full year and two months later after this gun went missing and <a href="/entities/person-corby-hall.md">Corby</a> receives an email from the <span id="ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34"><a href="/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md">ATF</a></span>. They're conducting a trace on that exact gun. Now you might be like me. You might not know what that means. What is an <a href="/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md">ATF</a> trace on a gun? Why do they do that? ^t-00-37-34
 
 **<a href="/timestamps/ep-jsqUIkszZd0/t-00-38-16.md" class="timestamp-link">00:38:16</a> <a href="https://www.youtube.com/watch?v=jsqUIkszZd0&t=2296" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** What does it mean? While the <span id="ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-38-16"><a href="/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md">ATF</a></span> is, of course, the Federal Bureau of Alcohol and Tobacco and Firearms and Explosives, they're involved, got involved in this case quickly, as we know, came back with the inconclusive trace on the <span id="ent-person-tyler-robinson-t-00-38-16"><a href="/entities/person-tyler-robinson.md">Tyler Robinson</a></span> gun. And when they are doing a trace, when they email you and say that they are conducting a trace, what it means is that they are seeking to identify the first retail purchase of a firearm that they have determined is involved in a crime. So let me restate that to you. On the morning of <span id="ent-person-charlie-kirk-t-00-38-16"><a href="/entities/person-charlie-kirk.md">Charlie</a></span>'s assassination, they reached out to <span id="ent-person-corby-hall-t-00-38-16"><a href="/entities/person-corby-hall.md">Corby</a></span> effectively saying this gun is involved in a crime. ^t-00-38-16
 
@@ -286,16 +286,20 @@ youtube_url: "https://www.youtube.com/watch?v=jsqUIkszZd0"
 </details>
 
 <details>
-<summary><strong>Statements (37)</strong></summary>
+<summary><strong>Statements (43)</strong></summary>
 
 - [00:01:16](#t-00-00-42) [○] (Accusation) **Candace Owens**: ["Turning Point Faith was the infiltration."](/statements/statement-1307f6f686b8.md)
   - About: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 - [00:04:09](#t-00-04-09) [○] (Claim) **Candace Owens**: ["After Michael McCoy became Charlie Kirk's chief of staff in January 2024, Kirk's..."](/statements/statement-fd9c61e02576.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:04:34](#t-00-04-09) [○] (Accusation) **Candace Owens**: ["Candace Owens said the Egyptian planes appeared to track Turning Point USA Faith..."](/statements/statement-52ea3304e8d6.md)
+  - About: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:07:02](#t-00-07-02) [◐] (Claim) **Candace Owens**: ["Victor Marx announced his Colorado gubernatorial run at a Charlie Kirk memorial ..."](/statements/statement-c10e5446c0d4.md)
   - About: [Victor Marx](/entities/person-victor-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Colorado](/entities/gpe-colorado.md)
 - [00:07:35](#t-00-07-35) [✓] (Claim) **Victor Marx**: ["Victor Marx says his 20-year-old son was once Charlie Kirk's assistant and spent..."](/statements/statement-aad6e47f555d.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:08:04](#t-00-07-35) [○] (Claim) **Candace Owens**: ["Candace Owens said Victor and Eileen Marx were among the first people to visit E..."](/statements/statement-386a05a13f58.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:13:17](#t-00-13-04) [✓] (Claim) **Victor Marx**: ["Victor Marx says his stepfather forced him, at age seven, to shoot and kill a ma..."](/statements/statement-0246d2752607.md)
   - About: [Victor Marx](/entities/person-victor-marx.md)
 - [00:15:17](#t-00-15-12) [◐] (Claim) **Candace Owens**: ["Victor Marx served two years in the Marine Corps during peacetime, stateside, wi..."](/statements/statement-0ede9e4686fc.md)
@@ -320,6 +324,8 @@ youtube_url: "https://www.youtube.com/watch?v=jsqUIkszZd0"
   - About: [Victor Marx](/entities/person-victor-marx.md), [Haiti](/entities/gpe-haiti.md)
 - [00:27:57](#t-00-27-24) [○] (Accusation) **Victor Marx**: ["Victor Marx told Corby Hall that Marx's team was going to capture or execute Jim..."](/statements/statement-75ec91e5abc7.md)
   - About: [Victor Marx](/entities/person-victor-marx.md), [Jimmy Chérizier](/entities/person-jimmy-cherizier.md), [Haiti](/entities/gpe-haiti.md)
+- [00:28:17](#t-00-28-07) [○] (Claim) **Corby Hall**: ["Corby Hall said he left a long-range-configured FoldAR rifle with Victor Marx af..."](/statements/statement-3c617ac3cdfa.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [FoldAR](/entities/org-foldar.md)
 - [00:29:29](#t-00-29-29) [✓] (Claim) **Victor Marx**: ["Victor Marx said he traveled to Haiti after an orphanage urgently requested help..."](/statements/statement-b63905f87fe3.md)
   - About: [Victor Marx](/entities/person-victor-marx.md), [400 Mawozo](/entities/org-400-mawozo.md), [Haiti](/entities/gpe-haiti.md)
 - [00:32:54](#t-00-32-54) [○] (Claim) **Victor Marx**: ["Victor Marx told Corby Hall that SIG Sauer and Daniel Horner were discussing Fol..."](/statements/statement-2a8ed0098674.md)
@@ -352,6 +358,10 @@ youtube_url: "https://www.youtube.com/watch?v=jsqUIkszZd0"
   - About: [Candace Owens](/entities/person-candace-owens.md), [Corby Hall](/entities/person-corby-hall.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md)
 - [00:43:08](#t-00-43-08) [◐] (Claim) **Donald J. Trump**: ["The United States sent many guns intended for Iranian protesters, but the group ..."](/statements/statement-058aea3e3931.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [United States](/entities/gpe-united-states.md)
+- [00:45:51](#t-00-45-51) [○] (Opinion) **Candace Owens**: ["Candace Owens asked whether Victor Marx's reported overseas weapons and high-ris..."](/statements/statement-13fc1eb8c40b.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+- [00:45:59](#t-00-45-51) [○] (Accusation) **Candace Owens**: ["Candace Owens said her sense was that Charlie Kirk was betrayed and framed the T..."](/statements/statement-b02dd2ea66f4.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 - [00:46:45](#t-00-46-35) [○] (Opinion) **Candace Owens**: ["Candace Owens suspects the Jeffrey Epstein network did not disappear but reemerg..."](/statements/statement-bd47971150e9.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 - [00:50:37](#t-00-50-33) [✓] (Accusation) **Candace Owens**: ["Greg Laurie and Harvest Christian Fellowship have been accused of trafficking pe..."](/statements/statement-dd069fd32378.md)
@@ -362,5 +372,7 @@ youtube_url: "https://www.youtube.com/watch?v=jsqUIkszZd0"
   - About: [Candace Owens](/entities/person-candace-owens.md), [Corby Hall](/entities/person-corby-hall.md)
 - [00:57:51](#t-00-57-26) [○] (Promise) **Candace Owens**: ["Candace Owens will try to obtain a response from the ATF."](/statements/statement-eb7a2e9932ec.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md)
+- [00:58:03](#t-00-57-26) [○] (Opinion) **Candace Owens**: ["Candace Owens explicitly said it was unknown whether the ATF-traced FoldAR had a..."](/statements/statement-c0a4ed126ccc.md)
+  - About: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [FoldAR](/entities/org-foldar.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

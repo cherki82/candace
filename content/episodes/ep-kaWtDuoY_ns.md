@@ -1,14 +1,14 @@
 ---
 id: "kaWtDuoY_ns"
 title: "EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327"
-description: "EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 - 105 entities, 13 events, 16 factual claims"
+description: "EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 - 105 entities, 13 events, 19 factual claims"
 published: "2026-04-20"
 youtube_url: "https://www.youtube.com/watch?v=kaWtDuoY_ns"
 ---
 
 **Published:** 2026-04-20 | [Watch on YouTube](https://www.youtube.com/watch?v=kaWtDuoY_ns)
 
-**Stats:** 105 entities | 13 events | 16 factual claims
+**Stats:** 105 entities | 13 events | 19 factual claims
 
 ---
 
@@ -707,10 +707,14 @@ youtube_url: "https://www.youtube.com/watch?v=kaWtDuoY_ns"
 </details>
 
 <details>
-<summary><strong>Statements (35)</strong></summary>
+<summary><strong>Statements (40)</strong></summary>
 
 - [00:03:07](#t-00-02-47) [◐] (Accusation) **Candace Owens**: ["Candace Owens said Sheriff Nate Brooksby admitted Tyler Robinson was essentially..."](/statements/statement-f86ed8b94b50.md)
   - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:05:03](#t-00-05-03) [○] (Opinion) **Candace Owens**: ["Candace Owens said Tyler Robinson's grandfather was at the hearing to support hi..."](/statements/statement-d75ba4478285.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:05:18](#t-00-05-03) [○] (Claim) **Candace Owens**: ["Candace Owens said Tyler Robinson's grandfather described himself as a hunter, s..."](/statements/statement-605b7a4f6188.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:05:39](#t-00-05-39) [◐] (Claim) **Candace Owens**: ["Candace Owens said the .30-06 did not pass through Charlie Kirk and did not caus..."](/statements/statement-b2b50d66714f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:10:57](#t-00-10-57) [✓] (Claim) **Richard G. Novak**: ["Richard G. Novak said the defense lacked the underlying data files needed to ana..."](/statements/statement-5d96d877240e.md)
@@ -775,6 +779,12 @@ youtube_url: "https://www.youtube.com/watch?v=kaWtDuoY_ns"
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Laura Loomer](/entities/person-laura-loomer.md)
 - [00:56:48](#t-00-56-19) [○] (Opinion) **Candace Owens**: ["Candace Owens said she believed multiple Tyler Robinson lookalikes wearing maroo..."](/statements/statement-bc7c92541366.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:57:27](#t-00-57-00) [○] (Claim) **Candace Owens**: ["Candace Owens relayed a rumor that surveillance footage from roughly the two wee..."](/statements/statement-55d6e8f84038.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [01:01:16](#t-01-00-57) [○] (Accusation) **Candace Owens**: ["Candace Owens said she believed Lance Twiggs helped set up Tyler Robinson and wa..."](/statements/statement-7e9fd5a4621d.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [01:01:42](#t-01-01-16) [○] (Claim) **Candace Owens**: ["Candace Owens said Lance Twiggs's family questioned why federal investigators br..."](/statements/statement-d5ea3500c228.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md)
 - [01:02:07](#t-01-02-07) [◐] (Claim) **Candace Owens**: ["Candace Owens said her producer discovered that previously released text message..."](/statements/statement-27158200430a.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
 - [01:02:07](#t-01-02-07) [✓] (Promise) **Candace Owens**: ["Candace Owens promised to present her producer's findings about edits to the tex..."](/statements/statement-037a95e94ded.md)

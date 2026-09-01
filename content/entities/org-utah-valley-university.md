@@ -31,7 +31,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <div><span>Episodes</span><strong>76</strong></div>
 <div><span>Mentions</span><strong>253</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>71</strong></div>
+<div><span>Statements about</span><strong>73</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1554,7 +1554,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (71)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (73)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -1752,10 +1752,13 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details>
-<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2)</summary>
 
 - [00:44:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39) (Claim) **Candace Owens**: ["Jack Solomon graduated from Utah Valley University, created its Center..."](/statements/statement-244d63ae0c3c.md)
   - Also about: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Utah Center for Jewish Studies](/entities/org-utah-center-for-jewish-studies.md), [Brigham Young University](/entities/org-brigham-young-university.md)
+
+- [00:45:06](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39) (Opinion) **Candace Owens**: ["Owens questioned why Erika Kirk's Utah relatives did not go to the hos..."](/statements/statement-9c1de331e9ce.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Jack David Solomon](/entities/person-jack-david-solomon.md)
 
 </details>
 
@@ -1837,6 +1840,14 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 - [00:06:47](/episodes/ep-his-JBjlkh8.md#t-00-06-47) (Claim) **Candace Owens**: ["The Utah Valley University event came together very quickly, unlike ty..."](/statements/statement-9a4af3e58e11.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1)</summary>
+
+- [00:19:06](/episodes/ep-tB5SXXmd9vU.md#t-00-19-00) (Accusation) **Candace Owens**: ["Was anyone who trained with the French Foreign Legion present at Utah ..."](/statements/statement-8aac9011eb31.md)
+  - Also about: [French Foreign Legion](/entities/org-french-foreign-legion.md)
 
 </details>
 

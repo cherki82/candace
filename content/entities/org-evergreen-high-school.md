@@ -27,9 +27,9 @@ Source: [About - Evergreen High School](https://evergreen.jeffcopublicschools.or
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -46,6 +46,10 @@ Source: [About - Evergreen High School](https://evergreen.jeffcopublicschools.or
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -165,10 +169,10 @@ Source: [About - Evergreen High School](https://evergreen.jeffcopublicschools.or
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Evergreen High School (5)</strong></summary>
+<summary><strong class="section-title">Statements about Evergreen High School (6)</strong></summary>
 
 <details>
-<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (5)</summary>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (6)</summary>
 
 - [00:13:26](/episodes/ep-4DvYXBn_5JI.md#t-00-13-26) (Claim) **Candace Owens**: ["Candace Owens said Desmond Holly entered Evergreen High School with a ..."](/statements/statement-6dde1ae7be74.md)
   - Also about: [Desmond Holly](/entities/person-desmond-holly.md), [Matthew Silverstone](/entities/person-matthew-silverstone.md), [Smith & Wesson](/entities/org-smith-and-wesson.md)
@@ -183,6 +187,9 @@ Source: [About - Evergreen High School](https://evergreen.jeffcopublicschools.or
 
 - [00:23:48](/episodes/ep-4DvYXBn_5JI.md#t-00-23-17) (Claim) **Candace Owens**: ["Candace Owens said the sheriff's revised timeline placed the substitut..."](/statements/statement-351ed37c04fe.md)
   - Also about: [Jefferson County Sheriff's Office](/entities/org-jefferson-county-sheriffs-office.md), [Conifer High School](/entities/org-conifer-high-school.md)
+
+- [00:24:49](/episodes/ep-4DvYXBn_5JI.md#t-00-24-41) (Opinion) **Candace Owens**: ["Candace Owens explicitly said the near-simultaneous Evergreen High Sch..."](/statements/statement-f24029a25476.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Desmond Holly](/entities/person-desmond-holly.md)
 
 </details>
 

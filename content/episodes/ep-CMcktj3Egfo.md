@@ -256,12 +256,14 @@ youtube_url: "https://www.youtube.com/watch?v=CMcktj3Egfo"
 </details>
 
 <details>
-<summary><strong>Statements (58)</strong></summary>
+<summary><strong>Statements (62)</strong></summary>
 
 - [00:04:49](#t-00-04-12) [?] (Claim) **Candace Owens**: ["Candace Owens and Charlie Kirk traveled to Israel together in 2018."](/statements/statement-3f037ef51efe.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 - [00:08:03](#t-00-07-44) [?] (Claim) **Candace Owens**: ["Candace Owens texted Andrew Kolvet about the dream and said he never answered."](/statements/statement-857b2e90108b.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+- [00:08:03](#t-00-07-44) [○] (Opinion) **Candace Owens**: ["Owens said a recurring post-assassination dream led her to suspect Andrew Kolvet..."](/statements/statement-ad238de69578.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:08:07](#t-00-07-44) [?] (Accusation) **Candace Owens**: ["Andrew Kolvet orchestrated attacks against Candace Owens and was caught doing so..."](/statements/statement-312bf746c5f8.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:08:41](#t-00-08-29) [?] (Claim) **Anonymous Source #1 (Ep CMcktj3Egfo)**: ["Two people in Andrew Kolvet’s inner circle told Candace Owens to investigate Kol..."](/statements/statement-61a724f6d315.md)
@@ -276,8 +278,10 @@ youtube_url: "https://www.youtube.com/watch?v=CMcktj3Egfo"
   - About: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md), [Messianism](/entities/concept-messianism.md)
 - [00:11:20](#t-00-10-50) [✓] (Claim) **Candace Owens**: ["Sun Myung Moon became involved with Liberty University through Jerry Falwell Sr."](/statements/statement-e84babb7fb49.md)
   - About: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Liberty University](/entities/org-liberty-university.md), [Jerry Falwell Sr.](/entities/person-jerry-falwell-sr.md)
-- [00:11:26](#t-00-10-50) [?] (Accusation) **Candace Owens**: ["Turning Point Faith was intended to turn Charlie Kirk into a controllable messia..."](/statements/statement-14661745d0ac.md)
+- [00:11:30](#t-00-10-50) [?] (Accusation) **Candace Owens**: ["Turning Point Faith was intended to turn Charlie Kirk into a controllable messia..."](/statements/statement-14661745d0ac.md)
   - About: [Turning Point Faith](/entities/org-turning-point-faith.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Messianism](/entities/concept-messianism.md)
+- [00:11:30](#t-00-10-50) [○] (Opinion) **Candace Owens**: ["Owens theorized that Kirk's assassination was made globally visible so Turning P..."](/statements/statement-8dbeeb0d8f16.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:11:58](#t-00-11-30) [◐] (Accusation) **Candace Owens**: ["The Unification movement was riddled with allegations of sexual rituals, physica..."](/statements/statement-2e48da53b2e5.md)
   - About: [Unification Church](/entities/org-unification-church.md), [Cult](/entities/concept-cult.md)
 - [00:12:25](#t-00-11-58) [✓] (Claim) **Candace Owens**: ["Turning Point USA solicits supporters to include retirement assets, property, an..."](/statements/statement-ac75f227285b.md)
@@ -354,10 +358,14 @@ youtube_url: "https://www.youtube.com/watch?v=CMcktj3Egfo"
   - About: [Seth Dillon](/entities/person-seth-dillon.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:41:23](#t-00-40-43) [○] (Opinion) **Candace Owens**: ["Candace Owens characterized pro-Israel pressure campaigns as gang-like efforts t..."](/statements/statement-be67c305c846.md)
   - About: [Israel lobby](/entities/concept-israel-lobby.md), [Freedom of speech](/entities/concept-free-speech.md)
+- [00:42:00](#t-00-41-50) [○] (Accusation) **Candace Owens**: ["Owens said she believed Kirk was murdered because pro-Israel actors could not co..."](/statements/statement-caae9248df55.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:42:50](#t-00-42-32) [✓] (Claim) **Candace Owens**: ["U.S. taxpayers fund Israel’s military activities even as a Likud member publicly..."](/statements/statement-d02b6513720a.md)
   - About: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md), [Likud](/entities/org-likud.md)
 - [00:44:03](#t-00-43-49) [○] (Accusation) **Candace Owens**: ["Candace Owens said she did not believe the U.S. military’s purpose abroad was to..."](/statements/statement-eb6317325ddc.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md)
+- [00:47:54](#t-00-47-12) [○] (Opinion) **Candace Owens**: ["Owens said she had not heard evidence that Erika Kirk explicitly urged Charlie K..."](/statements/statement-91154c1374e4.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Falkirk Center](/entities/org-falkirk-center.md)
 - [00:48:27](#t-00-47-54) [✓] (Claim) **Erika Kirk**: ["Erika Kirk has said that she lived in China and Costa Rica."](/statements/statement-cb22194523f7.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [China](/entities/gpe-china.md), [Costa Rica](/entities/gpe-costa-rica.md)
 - [00:48:45](#t-00-48-27) [○] (Promise) **Candace Owens**: ["Candace Owens promised a future episode about Erika Kirk’s background and said s..."](/statements/statement-a32253660279.md)

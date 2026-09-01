@@ -22,13 +22,23 @@ type: "factual_claim"
 
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? ...
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
-**Timestamp:** [00:10:32](/episodes/ep-DqGNvi36ol8.md#t-00-09-58) 
-<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=632s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+**Timestamp:** [00:45:07](/episodes/ep-DqGNvi36ol8.md#t-00-45-05) 
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=2707s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So I asked him, did Tyler Robinson's defense lawyer reach out to you? No.
+
+### 2. Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? ...
+
+**Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
+**Timestamp:** [00:45:10](/episodes/ep-DqGNvi36ol8.md#t-00-45-05) 
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=2710s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> So I asked him, did Tyler Robinson's defense lawyer reach out to you? No. Have the feds reached out to you since I called you? No.
 
 ## Verification
 

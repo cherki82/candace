@@ -27,7 +27,7 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 <div><span>Episodes</span><strong>24</strong></div>
 <div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -493,7 +493,7 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Zinn (20)</strong></summary>
+<summary><strong class="section-title">Statements about George Zinn (21)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (2)</summary>
@@ -553,10 +553,13 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
 
 - [00:55:26](/episodes/ep-es7PWdFGoFI.md#t-00-55-26) (Claim) **David Freiheit** (via quoted speech): ["George Zinn was arrested for claiming to be the shooter on the day of ..."](/statements/statement-5c86b3c214a4.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:55:32](/episodes/ep-es7PWdFGoFI.md#t-00-55-26) (Opinion) **David Freiheit**: ["Viva Frei theorized that George Zinn learned of the plan through a Dis..."](/statements/statement-456077877849.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:56:39](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) (Claim) **Candace Owens**: ["Candace Owens said George Zinn told nurses at Utah Valley Hospital tha..."](/statements/statement-67b910caa0a7.md)
   - Also about: [Utah Valley Hospital](/entities/org-utah-valley-hospital.md)

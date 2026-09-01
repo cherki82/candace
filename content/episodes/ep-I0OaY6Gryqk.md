@@ -465,7 +465,7 @@ youtube_url: "https://www.youtube.com/watch?v=I0OaY6Gryqk"
 </details>
 
 <details>
-<summary><strong>Statements (44)</strong></summary>
+<summary><strong>Statements (47)</strong></summary>
 
 - [00:02:20](#t-00-02-06) [◐] (Claim) **Candace Owens**: ["India refused Donald Trump's request to send troops to the Strait of Hormuz and ..."](/statements/statement-ff0edd9ce8a7.md)
   - About: [India](/entities/gpe-india.md), [Donald J. Trump](/entities/person-donald-trump.md), [Strait of Hormuz](/entities/gpe-strait-of-hormuz.md)
@@ -531,6 +531,12 @@ youtube_url: "https://www.youtube.com/watch?v=I0OaY6Gryqk"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:36:59](#t-00-36-41) [?] (Claim) **Candace Owens**: ["Renee Crossman, with whom Erika Kirk partnered in Romania, was in The Family Int..."](/statements/statement-30e5a94744f0.md)
   - About: [Renee Crossman](/entities/person-renee-crossman.md), [Erika Kirk](/entities/person-erika-kirk.md), [The Family International](/entities/org-the-family-international.md)
+- [00:37:40](#t-00-37-25) [✓] (Citation) **Candace Owens**: ["Candace Owens said former members of The Family International told her it was pl..."](/statements/statement-c770efd806ae.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [The Family International](/entities/org-the-family-international.md), [Renee Crossman](/entities/person-renee-crossman.md)
+- [00:38:24](#t-00-38-00) [✓] (Citation) **Candace Owens**: ["While describing research she had not yet completed, Candace Owens raised a poss..."](/statements/statement-422e8a444118.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [The Family International](/entities/org-the-family-international.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+- [00:40:22](#t-00-40-16) [○] (Citation) **Candace Owens**: ["Candace Owens said Erika Kirk told her in December that Kirk had no more evidenc..."](/statements/statement-4c83e67c413f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 - [00:41:40](#t-00-41-40) [✓] (Accusation) **Candace Owens**: ["Harvest Church, which Erika Kirk was partnering with, was being sued over allega..."](/statements/statement-8cda77269d35.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Romania](/entities/gpe-romania.md)
 - [00:47:45](#t-00-47-45) [✓] (Claim) **Scott Bessent**: ["The U.S. mission against Iran was proceeding well ahead of schedule."](/statements/statement-d28a2086693c.md)

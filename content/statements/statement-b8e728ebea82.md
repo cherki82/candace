@@ -19,6 +19,10 @@ veracity: "true"
 
 **Delivery:** Made directly
 
+## About
+
+- [Robert Eugene Flood](/entities/person-robert-eugene-flood.md) (person)
+
 ## Source
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)

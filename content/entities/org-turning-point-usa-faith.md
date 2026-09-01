@@ -31,9 +31,9 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <div><span>Episodes</span><strong>20</strong></div>
 <div><span>Mentions</span><strong>75</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -88,6 +88,10 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -589,7 +593,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA Faith (7)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA Faith (9)</strong></summary>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1)</summary>
@@ -608,9 +612,15 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 <details>
-<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (3)</summary>
 
 - [00:01:16](/episodes/ep-jsqUIkszZd0.md#t-00-00-42) (Accusation) **Candace Owens**: ["Turning Point Faith was the infiltration."](/statements/statement-1307f6f686b8.md)
+
+- [00:04:34](/episodes/ep-jsqUIkszZd0.md#t-00-04-09) (Accusation) **Candace Owens**: ["Candace Owens said the Egyptian planes appeared to track Turning Point..."](/statements/statement-52ea3304e8d6.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:45:59](/episodes/ep-jsqUIkszZd0.md#t-00-45-51) (Accusation) **Candace Owens**: ["Candace Owens said her sense was that Charlie Kirk was betrayed and fr..."](/statements/statement-b02dd2ea66f4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

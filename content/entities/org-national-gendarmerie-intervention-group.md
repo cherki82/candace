@@ -20,8 +20,8 @@ Source: [GIGN](https://en.wikipedia.org/wiki/GIGN)
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-national-gendarmerie-intervention-group-t-00-12-02">2025-12-01 · 00:12:30</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -67,12 +67,13 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by National Gendarmerie Intervention Group (1)</strong></summary>
+<summary><strong class="section-title">Statements about National Gendarmerie Intervention Group (1)</strong></summary>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1)</summary>
 
-- [00:03:25](/episodes/ep-tB5SXXmd9vU.md#t-00-03-07) [○] (Claim) ["the green light was given to a small team in the National Gendarmerie Interventi..."](/statements/statement-d2fe1a2c7252.md)
+- [00:03:25](/episodes/ep-tB5SXXmd9vU.md#t-00-03-07) (Accusation) **Anonymous French government source (Ep tB5SXXmd9vU)** (via paraphrase): ["An anonymous purported French-government source alleged that a small N..."](/statements/statement-d2fe1a2c7252.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

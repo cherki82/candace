@@ -30,7 +30,7 @@ veracity: "unverifiable"
 **Timestamp:** [00:20:07](/episodes/ep-wcD2khO3rOA.md#t-00-19-58) 
 <a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=1207s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> The HADES military plane, which we haven't discussed too much, but I promise you we'll get there, inexplicably flew.
+> The HADES military plane, which we haven't discussed too much, but I promise you we'll get there, inexplicably flew. This route around UVU on the day of the assassination, just before and just after, which is interesting because that plane in particular has a lot to do with drones.
 
 ## Verification
 

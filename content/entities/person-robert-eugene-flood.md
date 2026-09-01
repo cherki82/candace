@@ -28,9 +28,9 @@ Source: [Robert Flood - Emergency Preparedness Advisory Committee | LinkedIn](ht
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -49,6 +49,10 @@ Source: [Robert Flood - Emergency Preparedness Advisory Committee | LinkedIn](ht
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -217,7 +221,14 @@ Source: [Robert Flood - Emergency Preparedness Advisory Committee | LinkedIn](ht
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Robert Eugene Flood (5)</strong></summary>
+<summary><strong class="section-title">Statements about Robert Eugene Flood (8)</strong></summary>
+
+<details>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1)</summary>
+
+- [00:01:32](/episodes/ep-QdM9jLwjwLw.md#t-00-01-26) (Claim) **Candace Owens**: ["Owens said the prior episode mistakenly showed Bob Ferguson as Bob Flo..."](/statements/statement-b8e728ebea82.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
@@ -228,7 +239,7 @@ Source: [Robert Flood - Emergency Preparedness Advisory Committee | LinkedIn](ht
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (4)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (6)</summary>
 
 - [00:05:42](/episodes/ep-NIEbqsLAK8g.md#t-00-05-25) (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)** (via read message): ["The email source claimed Dan Flood connected Charlie Kirk's alleged mo..."](/statements/statement-5af4e3a94351.md)
   - Also about: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
@@ -241,6 +252,12 @@ Source: [Robert Flood - Emergency Preparedness Advisory Committee | LinkedIn](ht
 
 - [00:07:59](/episodes/ep-NIEbqsLAK8g.md#t-00-07-59) (Claim) **Candace Owens**: ["Candace Owens could not find Illinois news coverage mentioning Robert ..."](/statements/statement-27f37317e429.md)
   - Also about: [Illinois](/entities/gpe-illinois.md)
+
+- [00:08:59](/episodes/ep-NIEbqsLAK8g.md#t-00-08-59) (Accusation) **Candace Owens**: ["Owens concluded that Robert Eugene Flood was a federal operative and s..."](/statements/statement-0cea143d2dfa.md)
+  - Also about: [FBI](/entities/org-fbi.md), [FBI Agents Association](/entities/org-fbi-agents-association.md)
+
+- [00:10:32](/episodes/ep-NIEbqsLAK8g.md#t-00-10-22) (Opinion) **Candace Owens**: ["Owens speculated that Robert Eugene Flood probably knew Bill Montgomer..."](/statements/statement-b057729b123c.md)
+  - Also about: [Bill Montgomery](/entities/person-bill-montgomery.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

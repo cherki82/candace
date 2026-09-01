@@ -16,10 +16,10 @@ _Type: Anonymous Sources_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#t-01-03-44">2025-12-16 · 01:03:51</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -36,6 +36,10 @@ _Type: Anonymous Sources_
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -56,6 +60,19 @@ _Type: Anonymous Sources_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Handle Central848 (identity unverified) (1)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [01:03:51](/episodes/ep-es7PWdFGoFI.md#t-01-03-44) [✓] (Opinion) ["A viewer using the handle Central848 proposed that Charlie Kirk was electrocuted..."](/statements/statement-83599402ca41.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 </details>
 

@@ -20,16 +20,27 @@ type: "opinion"
 
 ## About
 
-- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [John McCain](/entities/person-john-mccain.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? ...
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:03:55](/episodes/ep-DqGNvi36ol8.md#t-00-03-41) 
 <a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=235s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Anyways, I believe in my heart and in my rational mind as well that Charlie Kirk's assassination was about as organic as John McCain, he rest in peace, leading the people of Ukraine.
+
+### 2. Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? ...
+
+**Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
+**Timestamp:** [00:11:35](/episodes/ep-DqGNvi36ol8.md#t-00-11-19) 
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=695s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> I believe in my heart and in my rational mind as well that Charlie Kirk's assassination was about as organic as John McCain, he rest in peace, leading the people of Ukraine.
 
 ## Verification
 

@@ -25,10 +25,10 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-28-04">2026-08-21 · 00:28:11</a></strong></div>
 <div><span>Episodes</span><strong>45</strong></div>
 <div><span>Mentions</span><strong>141</strong></div>
-<div><span>Statements by</span><strong>28</strong></div>
+<div><span>Statements by</span><strong>31</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -133,6 +133,10 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -573,13 +577,13 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 **[00:56:52](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-56-25)**
 > "...m his entire statement Baron (Baron Coleman) does these like monologue statements that are re..."
 
-**[00:57:00](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-57-00)**
+**[00:57:00](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-56-25)**
 > "...m his entire statement Baron (Baron Coleman) does these like monologue statements that are re..."
 
-**[00:57:46](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-57-37)**
+**[00:57:46](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-57-22)**
 > "...as is your battle bun. Baron (Baron Coleman) was sporting his last night. Yeah, I love him. I..."
 
-**[00:57:55](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-57-37)**
+**[00:57:55](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-57-22)**
 > "...nnifer Deloach writes, Baron (Baron Coleman)'s red face."
 
 </details>
@@ -884,7 +888,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Baron Coleman (28)</strong></summary>
+<summary><strong class="section-title">Statements by Baron Coleman (31)</strong></summary>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2)</summary>
@@ -894,6 +898,14 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 - [00:06:36](/episodes/ep-k1b1NDCrNFs.md#t-00-06-29) [◐] (Claim) ["Douglas Blake Bednarz accuses Brian Harpole by name every day of murdering Charl..."](/statements/statement-286cffd7f3d0.md)
   - About: [Douglas Blake Bednarz](/entities/person-douglas-blake-bednarz.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>
+
+- [00:09:55](/episodes/ep-eMtjzXkQrsU.md#t-00-09-46) [○] (Opinion) ["Baron Coleman said Charlie Kirk was killed by people serving a satanic spiritual..."](/statements/statement-32dcf925df89.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -925,7 +937,10 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
+
+- [00:14:57](/episodes/ep-rupRLXmSndU.md#t-00-14-40) [○] (Opinion) ["The timing of BILT's June 2025 federal contracts would be suspicious if it coinc..."](/statements/statement-6bbd9ae9a130.md)
+  - About: [BILT Incorporated](/entities/org-bilt-incorporated.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:15:27](/episodes/ep-rupRLXmSndU.md#t-00-15-13) [✓] (Citation) ["BILT received approximately $7.5 million in federal contracts dated June 1 and J..."](/statements/statement-e62d55f45502.md)
   - About: [BILT Incorporated](/entities/org-bilt-incorporated.md), [USAspending.gov](/entities/org-usaspending-gov.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
@@ -1007,6 +1022,14 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 - [00:38:18](/episodes/ep-9k2xrAC0H88.md#t-00-38-03) [○] (Claim) ["The SAM000 flight went from Colorado Springs to Las Vegas, arriving at 4:48 PM l..."](/statements/statement-cf82c67961c5.md)
   - About: [Colorado Springs](/entities/gpe-colorado-springs.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [01:04:40](/episodes/ep-es7PWdFGoFI.md#t-01-04-23) [✓] (Opinion) ["Baron Coleman was described as suggesting that JD Vance might have been the VIP ..."](/statements/statement-45cd315e1bbc.md)
+  - About: [JD Vance](/entities/person-jd-vance.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </details>
 

@@ -26,9 +26,9 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <div><span>Episodes</span><strong>41</strong></div>
 <div><span>Mentions</span><strong>92</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>37</strong></div>
+<div><span>Statements about</span><strong>38</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -125,6 +125,10 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -694,7 +698,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mossad (37)</strong></summary>
+<summary><strong class="section-title">Statements about Mossad (38)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
@@ -777,6 +781,14 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 - [00:09:00](/episodes/ep-7ERqbYElOfs.md#t-00-09-00) (Citation) **Candace Owens**: ["The two arrested men told investigators they believed they had been as..."](/statements/statement-0087554e0b8e.md)
   - Also about: [France](/entities/gpe-france.md), [Marie-Hélène Dini](/entities/person-marie-helene-dini.md)
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:28:11](/episodes/ep-i8m_6D4QGmk.md#t-00-27-42) (Accusation) **Tim Dillon** (via quoted speech): ["In a comedic monologue, Tim Dillon speculated that Erika Kirk was a Mo..."](/statements/statement-5ceb1e6aaa9f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

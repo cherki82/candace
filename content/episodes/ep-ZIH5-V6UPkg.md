@@ -338,7 +338,7 @@ youtube_url: "https://www.youtube.com/watch?v=ZIH5-V6UPkg"
   - About: [Likud](/entities/org-likud.md), [Israel](/entities/gpe-israel.md)
 - [00:36:56](#t-00-36-32) [○] (Claim) **Candace Owens**: ["Jewish Americans and rabbis have written Candace Owens saying she is right about..."](/statements/statement-7272ca9671b8.md)
   - About: [Jewish people](/entities/concept-jewish-people.md), [Sabbateanism](/entities/concept-sabbateanism.md), [Frankism](/entities/concept-frankism.md)
-- [00:37:43](#t-00-37-43) [○] (Opinion) **Candace Owens**: ["The first casualty of the Iranian war was Charlie Kirk, whom Candace Owens belie..."](/statements/statement-3c65604ff9a1.md)
+- [00:37:43](#t-00-37-43) [✓] (Opinion) **Candace Owens**: ["Candace Owens believes Charlie Kirk was the first casualty of the Iran war and w..."](/statements/statement-2631d93a742e.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md), [Israel](/entities/gpe-israel.md)
 - [00:43:29](#t-00-43-29) [○] (Opinion) **Candace Owens**: ["Candace Owens is Christian first and will not support killing people to pursue a..."](/statements/statement-70ef91047b44.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Christianity](/entities/concept-christianity.md), [Greater Israel](/entities/concept-greater-israel.md)

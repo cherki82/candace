@@ -22,8 +22,8 @@ _Type: People_
 Source: [Biography | Patrick J. Buchanan](https://buchanan.org/blog/biography)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-pat-buchanan-t-00-58-48">2026-03-24 · 00:59:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-pat-buchanan-t-00-58-48">2026-03-24 · 00:59:21</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-pat-buchanan-t-00-58-43">2026-03-24 · 00:59:21</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-pat-buchanan-t-00-58-43">2026-03-24 · 00:59:21</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -34,15 +34,15 @@ Source: [Biography | Patrick J. Buchanan](https://buchanan.org/blog/biography)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-pat-buchanan-t-00-58-48">REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-pat-buchanan-t-00-58-43">REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-pat-buchanan-t-00-58-48" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-pat-buchanan-t-00-58-43" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-pat-buchanan-t-00-58-48) | 1 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-pat-buchanan-t-00-58-43) | 1 |
 
 </details>
 </section>
@@ -55,7 +55,7 @@ Source: [Biography | Patrick J. Buchanan](https://buchanan.org/blog/biography)
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
 
-**[00:59:21](/episodes/ep-SgVcnx4Oh30.md#ent-person-pat-buchanan-t-00-58-48)**
+**[00:59:21](/episodes/ep-SgVcnx4Oh30.md#ent-person-pat-buchanan-t-00-58-43)**
 > "interview the great Catholic non-interventionist Pat Buchanan"
 
 </details>

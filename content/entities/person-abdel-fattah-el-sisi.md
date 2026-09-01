@@ -26,9 +26,9 @@ Source: [President Abdel Fattah El-Sisi | Egyptian Presidency](https://www.presi
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -45,6 +45,10 @@ Source: [President Abdel Fattah El-Sisi | Egyptian Presidency](https://www.presi
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -140,21 +144,18 @@ Source: [President Abdel Fattah El-Sisi | Egyptian Presidency](https://www.presi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Abdel Fattah el-Sisi (5)</strong></summary>
+<summary><strong class="section-title">Statements about Abdel Fattah el-Sisi (4)</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (5)</summary>
-
-- [00:16:49](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) (Citation) **Candace Owens** (via quoted post): ["The Egyptian government website confirms that Egyptian President el-Si..."](/statements/statement-3bb428c91aab.md)
-  - Also about: [SU-BTU](/entities/vehicle-su-btu.md), [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md)
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4)</summary>
 
 - [00:16:52](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) (Claim) **Candace Owens**: ["Egyptian President el-Sisi flew aboard aircraft SUBTU on April 3rd, 20..."](/statements/statement-aa88b9c5ccfc.md)
-  - Also about: [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md)
+  - Also about: [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md), [SU-BTU](/entities/vehicle-su-btu.md)
 
 - [00:17:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-17-47) (Claim) **Candace Owens**: ["President Abdel Fattah el-Sisi could be ruled out as a passenger on th..."](/statements/statement-7eb3c0a74fc0.md)
   - Also about: [Sarra Zaafrani Zenzri](/entities/person-sarra-zaafrani-zenzri.md)
 
-- [00:18:13](/episodes/ep-ZAuuSq_j2_w.md#t-00-17-47) (Claim) **Candace Owens**: ["Al-Sisi can also be ruled out as being in Provo in May because he was ..."](/statements/statement-c071b6862b40.md)
+- [00:18:01](/episodes/ep-ZAuuSq_j2_w.md#t-00-17-47) (Claim) **Candace Owens**: ["Al-Sisi can also be ruled out as being in Provo in May because he was ..."](/statements/statement-c071b6862b40.md)
 
 - [00:18:38](/episodes/ep-ZAuuSq_j2_w.md#t-00-18-21) (Opinion) **Candace Owens**: ["Walid Mahmood is not the president of Egypt, but is almost certainly w..."](/statements/statement-0c0772a6830c.md)
   - Also about: [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md)

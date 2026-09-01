@@ -27,10 +27,10 @@ Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-mark-amodei-t-00-37-24">2026-01-06 · 00:38:02</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>18</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -53,6 +53,10 @@ Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -179,19 +183,40 @@ Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mark Amodei (4)</strong></summary>
+<summary><strong class="section-title">Statements by Mark Amodei (1)</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:35:25](/episodes/ep-w1oqQbR_bYs.md#t-00-34-58) [✓] (Claim) ["Mark Amodei said public records placed him returning to Washington and voting on..."](/statements/statement-bda5c580651d.md)
+  - About: [Mark Amodei](/entities/person-mark-amodei.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Mark Amodei (7)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2)</summary>
 
 - [00:20:50](/episodes/ep-HYn0P-P1wUw.md#t-00-20-39) (Opinion) **Candace Owens**: ["Mark Amodei's account of attending a House committee hearing appears t..."](/statements/statement-a70c7ec9ec4d.md)
+
+- [00:37:24](/episodes/ep-HYn0P-P1wUw.md#t-00-37-24) (Opinion) **Candace Owens**: ["Candace Owens proposed Eddie Farnsworth as a possible Fort Huachuca at..."](/statements/statement-f7e2516eb5ac.md)
+  - Also about: [Eddie Farnsworth](/entities/person-eddie-farnsworth.md), [Mitch Snow](/entities/person-mitch-snow.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4)</summary>
 
-- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Owens said she was still working to verify reports that Mark Amodei mi..."](/statements/statement-14390b402a8a.md)
+- [00:33:57](/episodes/ep-w1oqQbR_bYs.md#t-00-33-40) (Claim) **Mitch Snow** (via paraphrase): ["Mitch Snow reportedly believed the congressman he saw at the alleged F..."](/statements/statement-032baf367a98.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Mitch Snow](/entities/person-mitch-snow.md)
+
+- [00:35:25](/episodes/ep-w1oqQbR_bYs.md#t-00-34-58) (Claim) **Mark Amodei** (via quoted post): ["Mark Amodei said public records placed him returning to Washington and..."](/statements/statement-bda5c580651d.md)
+
+- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Owens said she was still working to verify reports that Mark Amodei wa..."](/statements/statement-14390b402a8a.md)
   - Also about: [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 - [00:36:24](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19) (Claim) **Diligent Denison (X account; identity unverified)** (via quoted post): ["Diligent Denison claimed that Mark Amodei was absent from the first tw..."](/statements/statement-b9a86ad8ed2a.md)

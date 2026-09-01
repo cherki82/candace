@@ -30,9 +30,9 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 <div><span>Episodes</span><strong>28</strong></div>
 <div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>25</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -104,6 +104,10 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
@@ -167,7 +171,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 **[00:09:27](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-09-01)**
 > "...ng to buy 50,000 guns for the IDF. We'll ask Victor Marx about that."
 
-**[00:09:30](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-09-01)**
+**[00:09:27](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-09-01)**
 > "...ng to buy 50,000 guns for the IDF. We'll ask Victor Marx about that."
 
 **[00:09:35](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-09-35)**
@@ -628,7 +632,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel Defense Forces (22)</strong></summary>
+<summary><strong class="section-title">Statements about Israel Defense Forces (25)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
@@ -647,10 +651,13 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details>
-<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (2)</summary>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (3)</summary>
 
 - [00:09:15](/episodes/ep-Dkxa9OUA9K8.md#t-00-09-01) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens says Corby Hall claimed that Victor Marx attempted to ar..."](/statements/statement-512ef69881f8.md)
   - Also about: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md)
+
+- [01:09:11](/episodes/ep-Dkxa9OUA9K8.md#t-01-09-11) (Claim) **Victor Marx**: ["Victor Marx says an Israeli nonprofit led by a former Israel Defense F..."](/statements/statement-084cee29164c.md)
+  - Also about: [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)
 
 - [01:09:32](/episodes/ep-Dkxa9OUA9K8.md#t-01-09-11) (Claim) **Victor Marx** (via paraphrase): ["Victor Marx says Israeli contacts told him their forces were unprepare..."](/statements/statement-98e0f4782b76.md)
   - Also about: [Israel](/entities/gpe-israel.md)
@@ -658,13 +665,19 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details>
-<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2)</summary>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4)</summary>
 
 - [00:04:33](/episodes/ep-4DvYXBn_5JI.md#t-00-04-29) (Claim) **Victor Marx** (via quoted speech): ["Victor Marx said his relationships with special-forces commanders in I..."](/statements/statement-e64379de8d2c.md)
   - Also about: [Victor Marx](/entities/person-victor-marx.md), [Israel](/entities/gpe-israel.md)
 
+- [00:05:04](/episodes/ep-4DvYXBn_5JI.md#t-00-05-04) (Claim) **Church-contact tips alleging early death knowledge via IDF contacts (identities unverified)** (via paraphrase): ["Anonymous tipsters told Candace Owens that some church attendees were ..."](/statements/statement-1c81a512ef0e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [00:05:25](/episodes/ep-4DvYXBn_5JI.md#t-00-05-04) (Accusation) **Candace Owens** (via paraphrase): ["Is it fair, at least after listening to that, to suggest that Corby Ha..."](/statements/statement-7d6f9b1396b3.md)
   - Also about: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md), [Israel](/entities/gpe-israel.md)
+
+- [00:05:25](/episodes/ep-4DvYXBn_5JI.md#t-00-05-04) (Opinion) **Candace Owens**: ["Candace Owens speculated that Israeli intelligence may have known of C..."](/statements/statement-72aa2f03ffba.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

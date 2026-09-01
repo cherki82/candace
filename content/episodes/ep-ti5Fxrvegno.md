@@ -1,14 +1,14 @@
 ---
 id: "ti5Fxrvegno"
 title: "Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305"
-description: "Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 - 98 entities, 12 events, 20 factual claims"
+description: "Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 - 98 entities, 12 events, 21 factual claims"
 published: "2026-02-10"
 youtube_url: "https://www.youtube.com/watch?v=ti5Fxrvegno"
 ---
 
 **Published:** 2026-02-10 | [Watch on YouTube](https://www.youtube.com/watch?v=ti5Fxrvegno)
 
-**Stats:** 98 entities | 12 events | 20 factual claims
+**Stats:** 98 entities | 12 events | 21 factual claims
 
 ---
 
@@ -254,10 +254,12 @@ youtube_url: "https://www.youtube.com/watch?v=ti5Fxrvegno"
 </details>
 
 <details>
-<summary><strong>Statements (36)</strong></summary>
+<summary><strong>Statements (37)</strong></summary>
 
 - [00:01:09](#t-00-00-45) [○] (Opinion) **Candace Owens**: ["Erika Kirk should be taken to a police precinct for questioning."](/statements/statement-76ca6651e83f.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:03:09](#t-00-02-54) [✓] (Claim) **Candace Owens**: ["Tracy Martin reportedly denied that she was with Erika Kirk when Erika received ..."](/statements/statement-da148167310d.md)
+  - About: [Tracy Martin](/entities/person-tracy-martin.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:03:23](#t-00-02-54) [◐] (Claim) **Candace Owens**: ["Tracy Martin's daughter is Erika Kirk's assistant, and Candace Owens said she co..."](/statements/statement-30c8648b1d4d.md)
   - About: [Tracy Martin](/entities/person-tracy-martin.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:05:12](#t-00-04-56) [○] (Claim) **Candace Owens**: ["Tracy Martin told friends that her daughter was supposed to be at Utah Valley Un..."](/statements/statement-6bf78afa1403.md)

@@ -28,7 +28,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -193,6 +193,10 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -710,10 +714,10 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 **[00:53:38](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-00-12-57)**
 > "Allow the Christian Zionists, the ones who make videos telling you ho..."
 
-**[00:53:52](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-00-53-52)**
+**[00:53:52](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-00-12-57)**
 > "I urge you, all of you Christian Zionists, sign up for the military today. Please,..."
 
-**[01:02:25](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-01-02-09)**
+**[01:02:25](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-00-12-57)**
 > "...ent of people, similar to the Christian Zionists, that are, like, unhinged. Look at Paula..."
 
 </details>

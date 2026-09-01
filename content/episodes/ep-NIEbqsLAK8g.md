@@ -311,7 +311,7 @@ youtube_url: "https://www.youtube.com/watch?v=NIEbqsLAK8g"
 </details>
 
 <details>
-<summary><strong>Statements (34)</strong></summary>
+<summary><strong>Statements (37)</strong></summary>
 
 - [00:00:27](#t-00-00-00) [✗] (Accusation) **Candace Owens**: ["Federal authorities are doing nothing to investigate Charlie Kirk's assassinatio..."](/statements/statement-1dfa3c1a7731.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -335,8 +335,12 @@ youtube_url: "https://www.youtube.com/watch?v=NIEbqsLAK8g"
   - About: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [United States Army](/entities/org-united-states-army.md)
 - [00:07:59](#t-00-07-59) [○] (Claim) **Candace Owens**: ["Candace Owens could not find Illinois news coverage mentioning Robert Eugene Flo..."](/statements/statement-27f37317e429.md)
   - About: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Illinois](/entities/gpe-illinois.md)
+- [00:08:59](#t-00-08-59) [○] (Accusation) **Candace Owens**: ["Owens concluded that Robert Eugene Flood was a federal operative and said a disp..."](/statements/statement-0cea143d2dfa.md)
+  - About: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [FBI](/entities/org-fbi.md), [FBI Agents Association](/entities/org-fbi-agents-association.md)
 - [00:09:17](#t-00-08-59) [◐] (Citation) **Candace Owens**: ["The FBI Agents Association is a charity founded in 1981 that says it has 14,000 ..."](/statements/statement-d70f584ccc65.md)
   - About: [FBI Agents Association](/entities/org-fbi-agents-association.md), [FBI](/entities/org-fbi.md)
+- [00:10:32](#t-00-10-22) [○] (Opinion) **Candace Owens**: ["Owens speculated that Robert Eugene Flood probably knew Bill Montgomery because ..."](/statements/statement-b057729b123c.md)
+  - About: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Bill Montgomery](/entities/person-bill-montgomery.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:11:11](#t-00-11-05) [○] (Claim) **Candace Owens**: ["Before he had much fame, Charlie Kirk was required to have security with him at ..."](/statements/statement-d72077f27f3f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Bill Montgomery](/entities/person-bill-montgomery.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:11:37](#t-00-11-05) [✓] (Claim) **Candace Owens**: ["Greg Shaffer worked for the FBI Hostage Rescue Team, supervised the Dallas Joint..."](/statements/statement-69178e8428ef.md)
@@ -351,6 +355,8 @@ youtube_url: "https://www.youtube.com/watch?v=NIEbqsLAK8g"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rick Cutler](/entities/person-rick-cutler.md), [Dan Flood](/entities/person-dan-flood.md)
 - [00:14:28](#t-00-14-16) [✓] (Claim) **Bobby Harpole**: ["Bobby Harpole said he began his law-enforcement career with the Texas Department..."](/statements/statement-5bf1f2178c87.md)
   - About: [Bobby Harpole](/entities/person-bobby-harpole.md), [Texas Department of Public Safety](/entities/org-texas-department-of-public-safety.md), [Erath County Sheriff's Office](/entities/org-erath-county-sheriffs-office.md)
+- [00:16:00](#t-00-15-32) [○] (Accusation) **Candace Owens**: ["Owens posed a hypothetical that Dan Flood and Brian Harpole might have organized..."](/statements/statement-1b28998b14ea.md)
+  - About: [Dan Flood](/entities/person-dan-flood.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:20:51](#t-00-20-06) [✓] (Claim) **Zach De Gregorio**: ["Zach De Gregorio received a Turning Point USA letter titled 'Demand to Cease and..."](/statements/statement-9db10fe7a657.md)
   - About: [Zach De Gregorio](/entities/person-zach-de-gregorio.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Wolves and Finance](/entities/org-wolves-and-finance.md)
 - [00:21:34](#t-00-21-32) [○] (Accusation) **Zach De Gregorio**: ["Turning Point USA's letter did not address most of Zach De Gregorio's questions ..."](/statements/statement-8da643fcc1bb.md)

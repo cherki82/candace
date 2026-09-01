@@ -26,9 +26,9 @@ Source: [Newly renamed Standing for Freedom Center holds steady to its mission |
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -49,6 +49,10 @@ Source: [Newly renamed Standing for Freedom Center holds steady to its mission |
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -187,10 +191,10 @@ Source: [Newly renamed Standing for Freedom Center holds steady to its mission |
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Falkirk Center (5)</strong></summary>
+<summary><strong class="section-title">Statements about Falkirk Center (6)</strong></summary>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (4)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (5)</summary>
 
 - [00:16:15](/episodes/ep-CMcktj3Egfo.md#t-00-15-43) (Accusation) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["A Liberty University insider alleged that corrupt evangelical pastors ..."](/statements/statement-32100222e57f.md)
   - Also about: [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md), [Liberty University](/entities/org-liberty-university.md)
@@ -203,6 +207,9 @@ Source: [Newly renamed Standing for Freedom Center holds steady to its mission |
 
 - [00:18:12](/episodes/ep-CMcktj3Egfo.md#t-00-17-45) (Claim) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["Johnnie Moore inserted himself into the 2021 Liberty University meetin..."](/statements/statement-ce4a641c25b3.md)
   - Also about: [Johnnie Moore](/entities/person-johnnie-moore.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Liberty University](/entities/org-liberty-university.md)
+
+- [00:47:54](/episodes/ep-CMcktj3Egfo.md#t-00-47-12) (Opinion) **Candace Owens**: ["Owens said she had not heard evidence that Erika Kirk explicitly urged..."](/statements/statement-91154c1374e4.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

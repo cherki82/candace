@@ -28,10 +28,10 @@ veracity: "unverifiable"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:11:26](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) 
-<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=686s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+**Timestamp:** [00:11:30](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) 
+<a href="https://www.youtube.com/watch?v=CMcktj3Egfo&t=690s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And my conclusion of that episode was that the true aim of Turning Point USA faith.
+> was to transform Charlie Kirk into a messiah of sorts whose image that they could control in his death and obviously an image that the public couldn't question because of how horrifically sad it was we all watched him be assassinated
 
 ## Verification
 

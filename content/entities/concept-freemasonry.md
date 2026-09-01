@@ -31,9 +31,9 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 <div><span>Episodes</span><strong>21</strong></div>
 <div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -90,6 +90,10 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -455,7 +459,7 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Freemasonry (16)</strong></summary>
+<summary><strong class="section-title">Statements about Freemasonry (17)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
@@ -470,6 +474,14 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 
 - [00:54:54](/episodes/ep-mLvJqdxS-FY.md#t-00-54-54) (Opinion) **Candace Owens**: ["Candace Owens said it was her opinion that Charlie Kirk was murdered i..."](/statements/statement-b2453df2c811.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
+
+- [00:38:59](/episodes/ep-eLgD5yUVbko.md#t-00-38-41) (Opinion) **Candace Owens**: ["Candace Owens suggested the repeated claim that Tyler Robinson was cau..."](/statements/statement-b0495c24f455.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 

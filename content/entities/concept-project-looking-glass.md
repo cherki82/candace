@@ -27,9 +27,9 @@ Source: [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](https:/
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -60,6 +60,10 @@ Source: [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](https:/
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -183,6 +187,18 @@ Source: [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](https:/
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:11:33](/episodes/ep-BKcOm32ZEGk.md#t-00-11-02): “This brings us obviously to the CIA, CIA's Project Looking Glass.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Project Looking Glass (1)</strong></summary>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1)</summary>
+
+- [00:13:06](/episodes/ep-BKcOm32ZEGk.md#t-00-13-05) (Claim) **Bill Wood** (via quoted speech): ["Bill Wood claimed Project Looking Glass was shut down because possible..."](/statements/statement-679396a7cc38.md)
 
 </details>
 

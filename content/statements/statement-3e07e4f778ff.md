@@ -4,9 +4,10 @@ description: "\"Candace Owens said meeting participants clarified that Dan Flood
 statement_id: "statement-3e07e4f778ff"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified only as attribution: Owens said the meeting participants told her Flood’s message said “the left is going to kill me,” while she emphasized that she had not seen the concrete message and had previously been told it said “they.” The underlying wording remains unverified.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](https://www.youtube.com/watch?v=es7PWdFGoFI)
+
+*Verified: 2026-08-31T23:46:08.402350*
 
 ---
 

@@ -112,7 +112,7 @@ Source: [Disciplinary Counsel v. Erpenbeck, 124 Ohio St.3d 1228 (2010)](https://
 > "Rick Erpenbeck is his name, whose brother Bill (Bill Erpenbeck) ..."
 
 **[00:13:21](/episodes/ep-jTj9Ip46r4w.md#ent-person-richard-william-erpenbeck-t-00-13-05)**
-> "And Rick (Rick Erpenbeck)'s father, Tony (William 'Tony' Erpenbeck), tried..."
+> "And Rick (Rick Erpenbeck)'s father, Tony (Tony Erpenbeck), tried to arrange for the kidnapping and murder of some kids because he was upset that he was getting time in prison."
 
 **[00:13:42](/episodes/ep-jTj9Ip46r4w.md#ent-person-richard-william-erpenbeck-t-00-13-42)**
 > "...ntzve) who was close to Rick (Rick Erpenbeck), but Erica (Erika Kirk) is close to Rick (Rick E..."
@@ -214,7 +214,7 @@ Source: [Disciplinary Counsel v. Erpenbeck, 124 Ohio St.3d 1228 (2010)](https://
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:08:47](/episodes/ep-cZxHqYsWRYg.md#t-00-08-29): “The family had four brothers, Bill Erpenbeck, our boy Rick (Richard Erpenbeck), Gary Erpenbeck, married to Donna Erpenbeck, who we just saw as a notary. ... And we have Jeff Erpenbeck plus their dad, Tony (Tony Erpenbeck).”
-- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05): “And Rick (Rick Erpenbeck)'s father, Tony (William 'Tony' Erpenbeck), tried to arrange for the kidnapping and murder of some kids because he was upset that he was getting time in prison.”
+- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05): “And Rick (Rick Erpenbeck)'s father, Tony (Tony Erpenbeck), tried to arrange for the kidnapping and murder of some kids because he was upset that he was getting time in prison.”
 
 </details>
 
@@ -343,7 +343,7 @@ Source: [Disciplinary Counsel v. Erpenbeck, 124 Ohio St.3d 1228 (2010)](https://
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:08:47](/episodes/ep-cZxHqYsWRYg.md#t-00-08-29): “The family had four brothers, Bill Erpenbeck, our boy Rick (Richard Erpenbeck), Gary Erpenbeck, married to Donna Erpenbeck, who we just saw as a notary. ... And we have Jeff Erpenbeck plus their dad, Tony (Tony Erpenbeck).”
-- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05): “And Rick (Rick Erpenbeck)'s father, Tony (William 'Tony' Erpenbeck), tried to arrange for the kidnapping and murder of some kids because he was upset that he was getting time in prison.”
+- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05): “And Rick (Rick Erpenbeck)'s father, Tony (Tony Erpenbeck), tried to arrange for the kidnapping and murder of some kids because he was upset that he was getting time in prison.”
 
 </details>
 

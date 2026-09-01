@@ -183,7 +183,7 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 **[00:56:43](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-tennessee-t-00-56-43)**
 > "...plosion that happened here in Tennessee. By the way, John Bray, you should probably look ..."
 
-**[00:57:00](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-tennessee-t-00-56-43)**
+**[00:56:43](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-tennessee-t-00-56-43)**
 > "...plosion that happened here in Tennessee."
 
 **[00:57:38](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-tennessee-t-00-57-24)**

@@ -29,9 +29,9 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -52,6 +52,10 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -336,16 +340,27 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about BILT Incorporated (7)</strong></summary>
+<summary><strong class="section-title">Statements about BILT Incorporated (9)</strong></summary>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (7)</summary>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>
+
+- [00:02:10](/episodes/ep-q1NRQQAYS_Q.md#t-00-02-10) (Opinion) **Candace Owens**: ["BILT's 3D walkthrough capability could be useful for planning a missio..."](/statements/statement-7c47ba1ef9e7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (8)</summary>
 
 - [00:10:25](/episodes/ep-rupRLXmSndU.md#t-00-10-19) (Citation) **Candace Owens**: ["Ahmed Qureshi is president and COO of BILT Incorporated."](/statements/statement-afc7b2581f40.md)
   - Also about: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [LinkedIn](/entities/org-linkedin.md)
 
 - [00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-12-27) (Citation) **Candace Owens**: ["Ahmed Qureshi co-founded BILT in 2015 while serving full-time as an O-..."](/statements/statement-4bf958f5ad4c.md)
   - Also about: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [LinkedIn](/entities/org-linkedin.md)
+
+- [00:14:57](/episodes/ep-rupRLXmSndU.md#t-00-14-40) (Opinion) **Baron Coleman**: ["The timing of BILT's June 2025 federal contracts would be suspicious i..."](/statements/statement-6bbd9ae9a130.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:15:27](/episodes/ep-rupRLXmSndU.md#t-00-15-13) (Citation) **Baron Coleman** (via quoted speech): ["BILT received approximately $7.5 million in federal contracts dated Ju..."](/statements/statement-e62d55f45502.md)
   - Also about: [USAspending.gov](/entities/org-usaspending-gov.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)

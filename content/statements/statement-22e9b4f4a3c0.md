@@ -1,6 +1,6 @@
 ---
 title: "The ATF summary indicated that the agency was unable to iden..."
-description: "\"The ATF summary indicated that the agency was unable to identify the bullets recovered at autopsy to the rifle allegedly tied to Mr. Robinson.\" — Candace Owens"
+description: "\"The ATF summary indicated that the agency was unable to identify the bullet recovered at autopsy to the rifle allegedly tied to Mr. Robinson.\" — Candace Owens"
 statement_id: "statement-22e9b4f4a3c0"
 speaker: "Candace Owens"
 type: "citation"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> The ATF summary indicated that the agency was unable to identify the bullets recovered at autopsy to the rifle allegedly tied to Mr. Robinson.
+> The ATF summary indicated that the agency was unable to identify the bullet recovered at autopsy to the rifle allegedly tied to Mr. Robinson.
 
 ## Attribution
 

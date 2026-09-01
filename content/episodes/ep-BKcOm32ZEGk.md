@@ -1,14 +1,14 @@
 ---
 id: "BKcOm32ZEGk"
 title: "PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290"
-description: "PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 - 113 entities, 9 events, 13 factual claims"
+description: "PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 - 113 entities, 9 events, 14 factual claims"
 published: "2026-01-14"
 youtube_url: "https://www.youtube.com/watch?v=BKcOm32ZEGk"
 ---
 
 **Published:** 2026-01-14 | [Watch on YouTube](https://www.youtube.com/watch?v=BKcOm32ZEGk)
 
-**Stats:** 113 entities | 9 events | 13 factual claims
+**Stats:** 113 entities | 9 events | 14 factual claims
 
 ---
 
@@ -396,7 +396,7 @@ youtube_url: "https://www.youtube.com/watch?v=BKcOm32ZEGk"
 </details>
 
 <details>
-<summary><strong>Statements (26)</strong></summary>
+<summary><strong>Statements (29)</strong></summary>
 
 - [00:00:19](#t-00-00-00) [✗] (Claim) **Candace Owens**: ["Fruit of the Loom's logo had a cornucopia."](/statements/statement-f364442bc84a.md)
   - About: [Fruit of the Loom](/entities/org-fruit-of-the-loom.md)
@@ -410,12 +410,18 @@ youtube_url: "https://www.youtube.com/watch?v=BKcOm32ZEGk"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:04:44](#t-00-04-21) [○] (Opinion) **Candace Owens**: ["Based on her conversations with Charlie Kirk, Candace Owens believes he had been..."](/statements/statement-578962b6dc1a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:13:06](#t-00-13-05) [○] (Claim) **Bill Wood**: ["Bill Wood claimed Project Looking Glass was shut down because possible future ti..."](/statements/statement-679396a7cc38.md)
+  - About: [Project Looking Glass](/entities/concept-project-looking-glass.md)
 - [00:19:52](#t-00-19-48) [✓] (Accusation) **Candace Owens**: ["The script for The Matrix was allegedly stolen."](/statements/statement-3d6f8ab67f82.md)
   - About: [The Matrix](/entities/work-the-matrix.md)
-- [00:19:56](#t-00-19-48) [○] (Claim) **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he would die young and that Turn..."](/statements/statement-aeb277b5e217.md)
+- [00:19:56](#t-00-19-48) [○] (Claim) **Charlie Kirk**: ["Charlie Kirk repeatedly told Candace Owens that he would die young and that Turn..."](/statements/statement-aeb277b5e217.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:21:50](#t-00-21-49) [○] (Accusation) **Candace Owens**: ["Owens said it was plausible that agents had marked and monitored Kirk since chil..."](/statements/statement-9174949efe58.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Deep state](/entities/concept-deep-state.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:22:27](#t-00-21-49) [○] (Accusation) **Candace Owens**: ["People managing Charlie Kirk seemed to panic when he began pushing back and, acc..."](/statements/statement-be49665a1d41.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:23:15](#t-00-22-34) [○] (Opinion) **Candace Owens**: ["Owens said Kirk's assassination backfired by catalyzing the loss of control over..."](/statements/statement-e60428fdd144.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Deep state](/entities/concept-deep-state.md)
 - [00:23:47](#t-00-23-15) [✗] (Accusation) **Candace Owens**: ["Brigitte Macron was born male."](/statements/statement-47af3411824d.md)
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
 - [00:24:11](#t-00-23-59) [◐] (Accusation) **Candace Owens**: ["COVID-19 was created in a lab, people were made sick, and people were forced to ..."](/statements/statement-ee790d7aa477.md)

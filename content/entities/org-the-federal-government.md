@@ -25,7 +25,7 @@ Source: [Branches of the U.S. government — USAGov](https://www.usa.gov/branche
 <div><span>Episodes</span><strong>11</strong></div>
 <div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -224,13 +224,20 @@ Source: [Branches of the U.S. government — USAGov](https://www.usa.gov/branche
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about the federal government (14)</strong></summary>
+<summary><strong class="section-title">Statements about the federal government (15)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
 
 - [00:39:58](/episodes/ep-9hRcfSrri70.md#t-00-39-45) (Accusation) **Candace Owens**: ["Owens said she felt the federal government was lying about Charlie Kir..."](/statements/statement-12daf66f197d.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1)</summary>
+
+- [00:52:24](/episodes/ep-UYkXV9mYbT4.md#t-00-52-00) (Claim) **Anonymous Source #3 (Ep UYkXV9mYbT4)** (via read message): ["It is common for U.S. government officials using the Los Alamitos base..."](/statements/statement-3592257ed7e4.md)
 
 </details>
 
@@ -261,7 +268,7 @@ Source: [Branches of the U.S. government — USAGov](https://www.usa.gov/branche
 
 - [00:18:48](/episodes/ep-Kmt6HgRjckU.md#t-00-18-13) (Accusation) **Candace Owens**: ["Owens said government behavior after Charlie Kirk's killing indicated ..."](/statements/statement-0a6bde54cccf.md)
 
-- [00:33:49](/episodes/ep-Kmt6HgRjckU.md#t-00-33-36) (Claim) **Candace Owens**: ["Owens said the particular .30-06 round would have decapitated Charlie ..."](/statements/statement-ef74ad894086.md)
+- [00:33:49](/episodes/ep-Kmt6HgRjckU.md#t-00-33-36) (Opinion) **Candace Owens**: ["Owens said the particular .30-06 round would have decapitated Charlie ..."](/statements/statement-ef74ad894086.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:39:42](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23) (Claim) **Candace Owens** (via paraphrase): ["Owens said Qatar stated that it had a relationship with Hamas because ..."](/statements/statement-b9887fea08a7.md)

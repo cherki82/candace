@@ -3,7 +3,7 @@ title: "Research Sources"
 description: "A deduplicated ledger of external sources used during statement verification."
 ---
 
-<div class="research-kicker">Evidence ledger · 3,055 unique URLs</div>
+<div class="research-kicker">Evidence ledger · 3,072 unique URLs</div>
 
 # Research Sources
 

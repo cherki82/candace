@@ -253,7 +253,7 @@ youtube_url: "https://www.youtube.com/watch?v=mFuno0TuuQQ"
 </details>
 
 <details>
-<summary><strong>Statements (28)</strong></summary>
+<summary><strong>Statements (32)</strong></summary>
 
 - [00:01:11](#t-00-01-11) [✓] (Opinion) **Erika Kirk**: ["I want there to always be full transparency, with all of the facts on the table ..."](/statements/statement-a59b8afdf1ec.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -261,6 +261,8 @@ youtube_url: "https://www.youtube.com/watch?v=mFuno0TuuQQ"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:04:49](#t-00-04-46) [○] (Accusation) **Candace Owens**: ["Charlie Kirk secretly took a fundraising meeting with Ike Perlmutter at Mar-a-La..."](/statements/statement-26537a852cc0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Isaac Perlmutter](/entities/person-isaac-perlmutter.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:07:07](#t-00-06-56) [✓] (Accusation) **Candace Owens**: ["Owens said she warned Kirk specifically about Stacy Sheridan and warned him abou..."](/statements/statement-04080850ecae.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 - [00:07:49](#t-00-07-40) [◐] (Accusation) **Candace Owens**: ["Erika Kirk lied to Candace Owens and authorized people with substantial money to..."](/statements/statement-3f803398419f.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:09:33](#t-00-09-03) [○] (Claim) **Candace Owens**: ["Charlie Kirk predicted his own death in detailed written messages and expressed ..."](/statements/statement-244422d9e416.md)
@@ -273,6 +275,10 @@ youtube_url: "https://www.youtube.com/watch?v=mFuno0TuuQQ"
   - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:13:27](#t-00-13-22) [○] (Claim) **Candace Owens**: ["Pierre Falcone spoke with Justin Streiff and another Turning Point USA represent..."](/statements/statement-71178c913be4.md)
   - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Justin Streiff](/entities/person-justin-streiff.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:14:39](#t-00-14-04) [✓] (Accusation) **Candace Owens**: ["Owens asked whether the alleged multibillion-dollar Pierre Falcone deal could ha..."](/statements/statement-7820befd9878.md)
+  - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:15:54](#t-00-15-54) [✓] (Accusation) **Candace Owens**: ["Owens theorized that France, Israel, the United States, and Egypt were working t..."](/statements/statement-b19e929dcdf2.md)
+  - About: [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
 - [00:16:41](#t-00-16-39) [○] (Claim) **Candace Owens**: ["Candace Owens said Andrew Kolvet told her that Benjamin Netanyahu offered to tak..."](/statements/statement-f609ed16db52.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:17:51](#t-00-17-23) [◐] (Claim) **Candace Owens**: ["Candace Owens said that, according to Andrew Kolvet, Charlie Kirk declined to ho..."](/statements/statement-763344341425.md)
@@ -311,5 +317,7 @@ youtube_url: "https://www.youtube.com/watch?v=mFuno0TuuQQ"
   - About: [Aubrey Laitsch](/entities/person-aubrey-laitsch.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:45:26](#t-00-45-20) [○] (Claim) **Candace Owens**: ["Charlie Kirk's message to Dan Flood was sent via iMessage rather than a self-del..."](/statements/statement-8db9b9aaa091.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:45:29](#t-00-45-20) [✓] (Opinion) **Candace Owens**: ["Owens said Kirk's warning messages were sent by iMessage but allowed that someon..."](/statements/statement-b9c8aff0f1ff.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
 
 </details>

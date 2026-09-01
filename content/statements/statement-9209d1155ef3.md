@@ -4,9 +4,10 @@ description: "\"Turning Point USA refused to allow Candace Owens to participate 
 statement_id: "statement-9209d1155ef3"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Neff's displayed public post limited the invitation to joining in person at the Phoenix studio, while Owens publicly offered remote participation. The episode supports that no remote option was offered in the public terms; it does not establish whether TPUSA privately rejected a specific virtual arrangement.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Shocking Revelation About The Egyptian Planes — Candace Ep 274](https://www.youtube.com/watch?v=ZAuuSq_j2_w)
+
+*Verified: 2026-08-31T23:24:16.768268*
 
 ---
 

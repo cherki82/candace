@@ -1,8 +1,8 @@
 ---
 title: "Charlie Kirk repeatedly told Candace Owens that he would die..."
-description: "\"Charlie Kirk repeatedly told Candace Owens that he would die young and that Turning Point USA would be involved.\" — Candace Owens"
+description: "\"Charlie Kirk repeatedly told Candace Owens that he would die young and that Turning Point USA would be involved.\" — Charlie Kirk"
 statement_id: "statement-aeb277b5e217"
-speaker: "Candace Owens"
+speaker: "Charlie Kirk"
 type: "factual_claim"
 ---
 
@@ -14,9 +14,11 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Charlie Kirk](/entities/person-charlie-kirk.md) (Quoted)
 
-**Delivery:** Made directly
+**Delivery:** Paraphrased
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Private text messages described by Candace Owens
 
 ## About
 

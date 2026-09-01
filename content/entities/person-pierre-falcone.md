@@ -25,9 +25,9 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>22</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -58,6 +58,10 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -400,7 +404,7 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pierre Falcone (14)</strong></summary>
+<summary><strong class="section-title">Statements about Pierre Falcone (15)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
@@ -411,7 +415,7 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 </details>
 
 <details>
-<summary>An Open Letter To Erika Kirk | Candace Ep 303 (3)</summary>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (4)</summary>
 
 - [00:12:26](/episodes/ep-mFuno0TuuQQ.md#t-00-11-55) (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk and Justin Streiff of lying about kno..."](/statements/statement-171d680155e3.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -421,6 +425,9 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 
 - [00:13:27](/episodes/ep-mFuno0TuuQQ.md#t-00-13-22) (Claim) **Candace Owens**: ["Pierre Falcone spoke with Justin Streiff and another Turning Point USA..."](/statements/statement-71178c913be4.md)
   - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:39](/episodes/ep-mFuno0TuuQQ.md#t-00-14-04) (Accusation) **Candace Owens**: ["Owens asked whether the alleged multibillion-dollar Pierre Falcone dea..."](/statements/statement-7820befd9878.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

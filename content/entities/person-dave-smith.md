@@ -49,7 +49,7 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-dave-smith-t-00-44-56" style="--pulse-height:29%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-smith-t-01-00-30" style="--pulse-height:14%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-dave-smith-t-00-13-18" style="--pulse-height:29%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-dave-smith-t-00-58-48" style="--pulse-height:29%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-dave-smith-t-00-58-43" style="--pulse-height:29%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-dave-smith-t-00-22-24" style="--pulse-height:14%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-dave-smith-t-01-27-52" style="--pulse-height:14%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-dave-smith-t-00-49-04" style="--pulse-height:14%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
@@ -71,7 +71,7 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-dave-smith-t-00-44-56) | 2 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-smith-t-01-00-30) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-dave-smith-t-00-13-18) | 2 |
-| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-dave-smith-t-00-58-48) | 2 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-dave-smith-t-00-58-43) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-dave-smith-t-00-22-24) | 1 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-dave-smith-t-01-27-52) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-dave-smith-t-00-49-04) | 1 |
@@ -111,7 +111,7 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (2 mentions)</summary>
 
-**[00:59:21](/episodes/ep-SgVcnx4Oh30.md#ent-person-dave-smith-t-00-58-48)**
+**[00:59:21](/episodes/ep-SgVcnx4Oh30.md#ent-person-dave-smith-t-00-58-43)**
 > "Dave Smith tells me often"
 
 **[00:59:28](/episodes/ep-SgVcnx4Oh30.md#ent-person-dave-smith-t-00-59-28)**

@@ -26,10 +26,10 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-josh-hammer-t-00-05-23">2026-07-14 · 00:05:46</a></strong></div>
 <div><span>Episodes</span><strong>38</strong></div>
 <div><span>Mentions</span><strong>186</strong></div>
-<div><span>Statements by</span><strong>18</strong></div>
-<div><span>Statements about</span><strong>36</strong></div>
+<div><span>Statements by</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>37</strong></div>
 <div><span>Relationships</span><strong>34</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -120,6 +120,10 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -1218,7 +1222,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Josh Hammer (18)</strong></summary>
+<summary><strong class="section-title">Statements by Josh Hammer (19)</strong></summary>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
@@ -1229,10 +1233,13 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details>
-<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2)</summary>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (3)</summary>
 
 - [00:39:33](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33) [✓] (Claim) ["A Jewish donor was withholding a two-million-dollar donation from Charlie Kirk."](/statements/statement-b631f0dd7ef6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:39:50](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33) [✓] (Claim) ["Josh Hammer said he and several others joined a Zoom call organized by Charlie K..."](/statements/statement-1017c522e44f.md)
+  - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Zoom Communications](/entities/org-zoom-communications.md)
 
 - [00:39:54](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33) [✓] (Claim) ["On the night before Charlie Kirk was killed, Josh Hammer and several others join..."](/statements/statement-3f7895d04005.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Christianity](/entities/concept-christianity.md)
@@ -1310,7 +1317,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Josh Hammer (36)</strong></summary>
+<summary><strong class="section-title">Statements about Josh Hammer (37)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
@@ -1353,10 +1360,13 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details>
-<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2)</summary>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (3)</summary>
 
 - [00:39:12](/episodes/ep-CEF7gQRWYCE.md#t-00-38-44) (Claim) **Candace Owens** (via paraphrase): ["Josh Hammer clarified that Charlie Kirk sent the message about abandon..."](/statements/statement-e58d9c8b9844.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+- [00:39:50](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33) (Claim) **Josh Hammer** (via quoted speech): ["Josh Hammer said he and several others joined a Zoom call organized by..."](/statements/statement-1017c522e44f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Zoom Communications](/entities/org-zoom-communications.md)
 
 - [00:39:54](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33) (Claim) **Josh Hammer**: ["On the night before Charlie Kirk was killed, Josh Hammer and several o..."](/statements/statement-3f7895d04005.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Christianity](/entities/concept-christianity.md), [Israel](/entities/gpe-israel.md)

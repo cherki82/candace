@@ -22,9 +22,9 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 <div><span>Episodes</span><strong>26</strong></div>
 <div><span>Mentions</span><strong>125</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>49</strong></div>
+<div><span>Statements about</span><strong>51</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -91,6 +91,10 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -763,7 +767,7 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terrell Farnsworth (49)</strong></summary>
+<summary><strong class="section-title">Statements about Terrell Farnsworth (51)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (11)</summary>
@@ -892,13 +896,24 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 </details>
 
 <details>
-<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (3)</summary>
 
 - [00:07:22](/episodes/ep-69A8TzAGHlU.md#t-00-06-57) (Claim) **Candace Owens**: ["The cited episode never mentioned Brian Harpole; its disputed quotatio..."](/statements/statement-9726775ea5c0.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Michael McCoy](/entities/person-michael-mccoy.md)
 
 - [00:07:41](/episodes/ep-69A8TzAGHlU.md#t-00-07-41) (Accusation) **Candace Owens**: ["Terrell Farnsworth announced that Charlie Kirk was dead roughly two mi..."](/statements/statement-c8ca5bd4afc8.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:35:02](/episodes/ep-69A8TzAGHlU.md#t-00-34-24) (Opinion) **Candace Owens**: ["Candace Owens said Harpole's lawsuit might create an opportunity to su..."](/statements/statement-547999361b9c.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
+
+- [00:44:37](/episodes/ep-qZ8RWfyuewQ.md#t-00-44-26) (Opinion) **Candace Owens**: ["Candace Owens said it was inconsistent for Erika Kirk to criticize jou..."](/statements/statement-91a1f3495208.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

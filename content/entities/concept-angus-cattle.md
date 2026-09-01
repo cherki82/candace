@@ -1,6 +1,6 @@
 ---
 title: "Angus cattle"
-description: "Angus cattle (Concepts) - 66 mentions"
+description: "Angus cattle (Concepts) - 71 mentions"
 id: "concept-angus-cattle"
 type: "CONCEPT"
 aliases:
@@ -24,8 +24,8 @@ Source: [About | American Angus Association](https://www.angus.org/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-concept-angus-cattle-t-00-24-38">2025-09-30 · 00:24:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-angus-cattle-t-00-26-18">2026-02-11 · 00:26:35</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>66</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>71</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,7 @@ Source: [About | American Angus Association](https://www.angus.org/about)
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-angus-cattle-t-00-23-23" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 6 mentions" title="2025-10-29 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-concept-angus-cattle-t-00-27-25" style="--pulse-height:67%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-angus-cattle-t-00-26-22" style="--pulse-height:50%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 3 mentions" title="2025-11-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-concept-angus-cattle-t-00-28-46" style="--pulse-height:83%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 5 mentions" title="2025-11-08 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-angus-cattle-t-00-26-13" style="--pulse-height:67%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-concept-angus-cattle-t-00-32-43" style="--pulse-height:67%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-concept-angus-cattle-t-00-24-58" style="--pulse-height:33%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
@@ -68,6 +69,7 @@ Source: [About | American Angus Association](https://www.angus.org/about)
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-concept-angus-cattle-t-00-23-23) | 6 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-angus-cattle-t-00-27-25) | 4 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-angus-cattle-t-00-26-22) | 3 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-concept-angus-cattle-t-00-28-46) | 5 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-angus-cattle-t-00-26-13) | 4 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-concept-angus-cattle-t-00-32-43) | 4 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-concept-angus-cattle-t-00-24-58) | 2 |
@@ -84,7 +86,7 @@ Source: [About | American Angus Association](https://www.angus.org/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (66)</strong></summary>
+<summary><strong class="section-title">Raw mentions (71)</strong></summary>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>
@@ -197,6 +199,26 @@ Source: [About | American Angus Association](https://www.angus.org/about)
 
 **[00:27:23](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-angus-cattle-t-00-26-55)**
 > "...his is not your average Black Angus beef. This is more flavorful and more tender than..."
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (5 mentions)</summary>
+
+**[00:29:27](/episodes/ep-r1PS67aRmcA.md#ent-concept-angus-cattle-t-00-28-46)**
+> "All right, you guys, I've been speaking a lot about Riverbend Ranch because you guys know I love their steaks, Black Angus beef that is famous for its great flavor."
+
+**[00:29:29](/episodes/ep-r1PS67aRmcA.md#ent-concept-angus-cattle-t-00-29-29)**
+> "...verbend Ranch has taken Black Angus beef to a whole new level because over the last 3..."
+
+**[00:29:36](/episodes/ep-r1PS67aRmcA.md#ent-concept-angus-cattle-t-00-29-29)**
+> "...rovides about 850 elite Black Angus bulls containing these special genetics to over 2..."
+
+**[00:30:27](/episodes/ep-r1PS67aRmcA.md#ent-concept-angus-cattle-t-00-30-12)**
+> "...his is not your average Black Angus beef."
+
+**[00:30:32](/episodes/ep-r1PS67aRmcA.md#ent-concept-angus-cattle-t-00-30-12)**
+> "...ore tender than even the best Angus beef that I've ever tasted."
 
 </details>
 

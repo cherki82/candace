@@ -1,14 +1,14 @@
 ---
 id: "DqGNvi36ol8"
 title: "Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275"
-description: "Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 - 88 entities, 6 events, 39 factual claims"
+description: "Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 - 88 entities, 6 events, 30 factual claims"
 published: "2025-12-05"
 youtube_url: "https://www.youtube.com/watch?v=DqGNvi36ol8"
 ---
 
 **Published:** 2025-12-05 | [Watch on YouTube](https://www.youtube.com/watch?v=DqGNvi36ol8)
 
-**Stats:** 88 entities | 6 events | 39 factual claims
+**Stats:** 88 entities | 6 events | 30 factual claims
 
 ---
 
@@ -261,7 +261,7 @@ youtube_url: "https://www.youtube.com/watch?v=DqGNvi36ol8"
 </details>
 
 <details>
-<summary><strong>Statements (55)</strong></summary>
+<summary><strong>Statements (44)</strong></summary>
 
 - [00:00:04](#t-00-00-00) [✓] (Claim) **Candace Owens**: ["The Game released a song titled The Assassination of Candace Owens that includes..."](/statements/statement-7073bda25aa5.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [The Game](/entities/person-the-game.md)
@@ -289,72 +289,52 @@ youtube_url: "https://www.youtube.com/watch?v=DqGNvi36ol8"
 - [00:03:38](#t-00-02-57) [○] (Claim) **Candace Owens**: ["In 2014, John McCain went over to Ukraine and led the protesters in the streets"](/statements/statement-2657ec89fb0f.md)
   - About: [John McCain](/entities/person-john-mccain.md), [Ukraine](/entities/gpe-ukraine.md)
 - [00:03:55](#t-00-03-41) [○] (Opinion) **Candace Owens**: ["I believe in my heart and in my rational mind that Charlie Kirk's assassination ..."](/statements/statement-e054d5b0731f.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-- [00:04:48](#t-00-04-31) [○] (Claim) **Candace Owens**: ["Someone in his family submitted video footage to the FBI and the FBI asked him t..."](/statements/statement-25aeef2ad429.md)
-  - About: [FBI](/entities/org-fbi.md)
-- [00:05:30](#t-00-05-13) [○] (Opinion) **Candace Owens**: ["I suspect that our maroon boys in general were tasked with taking footage from p..."](/statements/statement-fb9d542b32d5.md)
-- [00:05:38](#t-00-05-37) [○] (Claim) **Blake Neff**: ["I made the initial statement at the request of Erika. All of this has been at th..."](/statements/statement-5d921b2d7320.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [John McCain](/entities/person-john-mccain.md)
 - [00:05:42](#t-00-05-37) [✓] (Claim) **Blake Neff**: ["The initial TPUSA response and subsequent plan concerning Candace Owens were mad..."](/statements/statement-f833b3c11253.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Blake Neff](/entities/person-blake-neff.md), [Candace Owens](/entities/person-candace-owens.md)
-- [00:05:45](#t-00-05-37) [○] (Claim) **Blake Neff**: ["I made it at the request of Erika"](/statements/statement-b869c1fdd88e.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md)
-- [00:05:47](#t-00-05-37) [○] (Claim) **Blake Neff**: ["All of this has been at the direction and approval of Erika because she heads th..."](/statements/statement-4c707e5d4f97.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-- [00:06:56](#t-00-06-55) [○] (Claim) **Candace Owens**: ["Emmanuel Behrer was a former employee of Oracle in engineering and attended the ..."](/statements/statement-50f8be11edf4.md)
-  - About: [Emmanuel Bierer](/entities/person-emmanuel-bierer.md), [Oracle](/entities/org-oracle.md)
-- [00:07:00](#t-00-06-55) [○] (Claim) **Candace Owens**: ["Emmanuel Behrer was plucked from obscurity by the mainstream media as an eyewitn..."](/statements/statement-bd8cb82db858.md)
-  - About: [Emmanuel Bierer](/entities/person-emmanuel-bierer.md)
-- [00:10:20](#t-00-09-58) [○] (Claim) **Candace Owens**: ["The videographer who captured footage of someone on the roof at 12:23 said he ne..."](/statements/statement-d729fc3ff3cf.md)
 - [00:10:32](#t-00-09-58) [○] (Citation) **Candace Owens**: ["When police are in undercover units, the FBI, et cetera, and they are not in the..."](/statements/statement-a3b288bf6380.md)
   - About: [FBI](/entities/org-fbi.md)
-- [00:10:32](#t-00-09-58) [○] (Claim) **Candace Owens**: ["Tyler Robinson's defense lawyer has not reached out to the videographer who capt..."](/statements/statement-cf5becec56e1.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [00:10:33](#t-00-09-58) [○] (Claim) **Candace Owens**: ["The feds have not reached out to the videographer since Candace called him"](/statements/statement-6f9479a33a67.md)
 - [00:10:43](#t-00-10-37) [○] (Claim) **Candace Owens**: ["Blake Neff used to work for Tucker Carlson when Tucker Carlson was on Fox News"](/statements/statement-8db909ffb8cd.md)
   - About: [Blake Neff](/entities/person-blake-neff.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Fox News](/entities/org-fox-news.md)
 - [00:10:56](#t-00-10-37) [○] (Citation) **Candace Owens**: ["Maroon is the color famously associated with military forces such as the Maroon ..."](/statements/statement-b0d033b30c76.md)
   - About: [global state military](/entities/concept-global-state-military.md)
-- [00:11:35](#t-00-11-19) [○] (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was about as organic as John McCain leading the peo..."](/statements/statement-6873b7794fe9.md)
-  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [John McCain](/entities/person-john-mccain.md)
 - [00:12:08](#t-00-12-03) [○] (Claim) **Candace Owens**: ["TPUSA campus events now require that students tell them ahead of time what they'..."](/statements/statement-465ac751514c.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:12:14](#t-00-12-03) [○] (Claim) **Candace Owens**: ["Bari Weiss is interviewing Erika Kirk on December 13th"](/statements/statement-2caf424f7f48.md)
   - About: [Bari Weiss](/entities/person-bari-weiss.md), [Erika Kirk](/entities/person-erika-kirk.md)
-- [00:13:00](#t-00-12-38) [○] (Accusation) **Candace Owens**: ["I am beginning to suspect that our maroon boys in general were tasked with takin..."](/statements/statement-c0ea94abfe18.md)
-  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-- [00:13:33](#t-00-13-15) [○] (Accusation) **Candace Owens**: ["The FBI asked him to delete that footage"](/statements/statement-7ae6804dd8de.md)
-  - About: [FBI](/entities/org-fbi.md)
-- [00:15:02](#t-00-14-37) [○] (Opinion) **Candace Owens**: ["I do not think Jacob Kasparian shot Charlie Kirk"](/statements/statement-55127cb10cf9.md)
-  - About: [Jacob Kasparian](/entities/person-jacob-kasparian.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:16:57](#t-00-16-48) [○] (Claim) **Emmanuel Bierer**: ["I hear this loud sound and I'm like, that wasn't what I thought it was, is it? I..."](/statements/statement-7ad6821f1818.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-- [00:17:00](#t-00-16-48) [○] (Claim) **Candace Owens**: ["He was plucked from obscurity by the mainstream media as an eyewitness in Salt L..."](/statements/statement-aa2edf2fd579.md)
-  - About: [Emmanuel Bierer](/entities/person-emmanuel-bierer.md)
-- [00:17:01](#t-00-16-48) [○] (Claim) **Candace Owens**: ["He's a former employee of Oracle, he's in engineering, I believe he's from Germa..."](/statements/statement-3d47d03dc8b1.md)
-  - About: [Emmanuel Bierer](/entities/person-emmanuel-bierer.md), [Oracle](/entities/org-oracle.md)
 - [00:18:12](#t-00-17-32) [✓] (Accusation) **Candace Owens**: ["In discussing Ukraine’s 2014 revolution, Owens played John McCain’s December 201..."](/statements/statement-f5f41417afd9.md)
   - About: [John McCain](/entities/person-john-mccain.md)
 - [00:21:50](#t-00-21-34) [○] (Claim) **Candace Owens**: ["Airborne forces wear maroon not just in the UK, the USA, and France, as well as ..."](/statements/statement-008b9b51cd29.md)
 - [00:21:50](#t-00-21-34) [◐] (Claim) **Anonymous Source #2 (Ep DqGNvi36ol8)**: ["Maroon is associated with military airborne forces in the United Kingdom, United..."](/statements/statement-a019dbe1c291.md)
 - [00:22:49](#t-00-22-18) [○] (Accusation) **The Game**: ["His body is not yet settled in the dirt, why are you carrying on like that"](/statements/statement-c7cf4004e277.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:23:27](#t-00-22-59) [○] (Accusation) **Candace Owens**: ["Owens relayed an unidentified TikTok user's claim that a relative submitted vide..."](/statements/statement-25aeef2ad429.md)
+  - About: [FBI](/entities/org-fbi.md)
 - [00:23:54](#t-00-23-36) [○] (Claim) **Candace Owens**: ["Jacob Kasparian did not duck when everyone else ducked after the shot at the Cha..."](/statements/statement-dafe9b83fe57.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jacob Kasparian](/entities/person-jacob-kasparian.md)
+- [00:24:20](#t-00-24-20) [○] (Opinion) **Candace Owens**: ["I do not think Jacob Kasparian shot Charlie Kirk"](/statements/statement-55127cb10cf9.md)
+  - About: [Jacob Kasparian](/entities/person-jacob-kasparian.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:26:00](#t-00-25-44) [○] (Opinion) **Candace Owens**: ["I suspect that our maroon boys in general were tasked with taking footage from p..."](/statements/statement-fb9d542b32d5.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:27:07](#t-00-27-00) [○] (Claim) **Candace Owens**: ["Adam Bartholomew did not stop live streaming to run down and ensure that his wif..."](/statements/statement-413d905b5063.md)
   - About: [Adam Bartholomew](/entities/person-adam-bartholomew.md)
+- [00:32:11](#t-00-31-57) [○] (Claim) **Candace Owens**: ["Emmanuel Bierer was a former Oracle engineering employee who attended the Septem..."](/statements/statement-50f8be11edf4.md)
+  - About: [Oracle](/entities/org-oracle.md), [Emmanuel Bierer](/entities/person-emmanuel-bierer.md)
 - [00:32:11](#t-00-31-57) [✓] (Claim) **Candace Owens**: ["Owens identified PBS eyewitness Emmanuel Bierer as a former Oracle employee and ..."](/statements/statement-958a14802141.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Emmanuel Bierer](/entities/person-emmanuel-bierer.md)
-- [00:43:41](#t-00-43-37) [○] (Claim) **Candace Owens**: ["The person who shot the video said he didn't see the shooter take the shot and n..."](/statements/statement-518d930d55eb.md)
-  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-- [00:43:41](#t-00-43-37) [○] (Claim) **Candace Owens**: ["The eyewitness who filmed the roof footage said he did not see the person take t..."](/statements/statement-9cbbfa5d5670.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:32:34](#t-00-31-57) [○] (Claim) **Candace Owens**: ["Owens said mainstream media selected Emmanuel Bierer from obscurity as an eyewit..."](/statements/statement-bd8cb82db858.md)
+  - About: [Emmanuel Bierer](/entities/person-emmanuel-bierer.md)
 - [00:43:47](#t-00-43-37) [○] (Claim) **Candace Owens**: ["A news station at the CK Memorial talked to attendees for three hours and none o..."](/statements/statement-7e27c29aa9ad.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:44:21](#t-00-43-37) [○] (Claim) **Candace Owens**: ["Only two publicly available videos showed the alleged shooter on the roof at the..."](/statements/statement-f2fac82f55a7.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:45:10](#t-00-45-05) [○] (Claim) **Candace Owens**: ["Tyler Robinson's defense lawyer has not reached out to the person who filmed the..."](/statements/statement-4b63f3aaa942.md)
+- [00:44:33](#t-00-44-21) [○] (Claim) **Candace Owens**: ["The eyewitness who filmed the roof footage said he did not see the person take t..."](/statements/statement-9cbbfa5d5670.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:45:07](#t-00-45-05) [○] (Claim) **Candace Owens**: ["Tyler Robinson's defense lawyer has not reached out to the videographer who capt..."](/statements/statement-cf5becec56e1.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:45:10](#t-00-45-05) [○] (Claim) **Candace Owens**: ["The feds have not reached out to the videographer since Candace called him"](/statements/statement-6f9479a33a67.md)
 - [00:46:03](#t-00-45-50) [○] (Claim) **Candace Owens**: ["Blake Neff used to work for Tucker Carlson and was fired by Tucker Carlson for r..."](/statements/statement-b0bd39a15935.md)
   - About: [Blake Neff](/entities/person-blake-neff.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 - [00:46:42](#t-00-46-35) [○] (Accusation) **Blake Neff**: ["We are not booking a guest and never said that we were. We are delivering a resp..."](/statements/statement-201657009b78.md)

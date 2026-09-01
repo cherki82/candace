@@ -26,9 +26,9 @@ Source: [Connor Henderson - Brigham Young University | LinkedIn](https://www.lin
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -47,6 +47,10 @@ Source: [Connor Henderson - Brigham Young University | LinkedIn](https://www.lin
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -210,16 +214,22 @@ Source: [Connor Henderson - Brigham Young University | LinkedIn](https://www.lin
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Connor Henderson (2)</strong></summary>
+<summary><strong class="section-title">Statements about Connor Henderson (4)</strong></summary>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4)</summary>
+
+- [00:17:20](/episodes/ep-rupRLXmSndU.md#t-00-16-47) (Opinion) **Candace Owens**: ["The Henderson and Qureshi families' shared Keller address might reflec..."](/statements/statement-4d05c49f26a8.md)
+  - Also about: [Zachariah Qureshi](/entities/person-zachariah-qureshi.md)
 
 - [00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00) (Claim) **Candace Owens**: ["Connor Henderson and Zachariah Qureshi attended BYU at the same time a..."](/statements/statement-869a9611ac9f.md)
   - Also about: [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [Brigham Young University](/entities/org-brigham-young-university.md), [BILT Incorporated](/entities/org-bilt-incorporated.md)
 
 - [00:18:41](/episodes/ep-rupRLXmSndU.md#t-00-18-41) (Claim) **Candace Owens**: ["Connor Henderson worked as an emergency-room scribe at Timpanogos Regi..."](/statements/statement-741e9bfcb950.md)
   - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:19:19](/episodes/ep-rupRLXmSndU.md#t-00-19-19) (Opinion) **Candace Owens**: ["Connor Henderson may have left his Timpanogos scribe job on September ..."](/statements/statement-84945101f6d1.md)
+  - Also about: [Lee Trotter](/entities/person-lee-trotter.md)
 
 </details>
 

@@ -29,7 +29,7 @@ Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -46,6 +46,10 @@ Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -122,7 +126,7 @@ Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2)</summary>
 
-- [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["After being hired as Alton C. Jennings's caretaker, Mitchell Manley Sr..."](/statements/statement-35de484f46fe.md)
+- [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["Jennings's grandson alleged in the December 2024 estate petition that ..."](/statements/statement-35de484f46fe.md)
   - Also about: [Alton C. Jennings](/entities/person-alton-c-jennings.md)
 
 - [00:16:38](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) (Claim) **Candace Owens**: ["Mitch Manley Jr., the caretaker's son, was working for Turning Point U..."](/statements/statement-6e6155a9c6df.md)

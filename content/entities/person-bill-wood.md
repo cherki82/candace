@@ -21,10 +21,10 @@ Source: [Bill Wood: Project Looking Glass | Project Camelot](https://projectcame
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-wood-t-00-14-57">2026-01-14 · 00:14:57</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -41,6 +41,10 @@ Source: [Bill Wood: Project Looking Glass | Project Camelot](https://projectcame
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -103,6 +107,19 @@ Source: [Bill Wood: Project Looking Glass | Project Camelot](https://projectcame
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:14:57](/episodes/ep-BKcOm32ZEGk.md#t-00-14-57): “According to multiple whistleblowers, including Bill Wood and other interviewed by Project Camelot,”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Bill Wood (1)</strong></summary>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1)</summary>
+
+- [00:13:06](/episodes/ep-BKcOm32ZEGk.md#t-00-13-05) [○] (Claim) ["Bill Wood claimed Project Looking Glass was shut down because possible future ti..."](/statements/statement-679396a7cc38.md)
+  - About: [Project Looking Glass](/entities/concept-project-looking-glass.md)
 
 </details>
 

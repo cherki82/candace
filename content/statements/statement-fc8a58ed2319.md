@@ -1,17 +1,17 @@
 ---
-title: "Candace Owens said plane SU-BTT left Paris on September 4, l..."
-description: "\"Candace Owens said plane SU-BTT left Paris on September 4, later stayed in Wilmington for six days, and departed Wilmington on September 11 after Char...\" — Candace Owens"
+title: "Candace Owens said SU-BTT left Paris on September 4, stayed ..."
+description: "\"Candace Owens said SU-BTT left Paris on September 4, stayed at its next stop for six days before going to Wilmington, and departed Wilmington on Septe...\" — Candace Owens"
 statement_id: "statement-fc8a58ed2319"
 speaker: "Candace Owens"
 type: "factual_claim"
-veracity: "false"
+veracity: "true"
 ---
 
-**Status:** ✗ False
+**Status:** ✓ True
 
 ## Statement
 
-> Candace Owens said plane SU-BTT left Paris on September 4, later stayed in Wilmington for six days, and departed Wilmington on September 11 after Charlie Kirk's assassination
+> Candace Owens said SU-BTT left Paris on September 4, stayed at its next stop for six days before going to Wilmington, and departed Wilmington on September 11 after Charlie Kirk's assassination
 
 ## Attribution
 
@@ -23,6 +23,7 @@ veracity: "false"
 
 - [SU-BTT](/entities/vehicle-su-btt.md) (vehicle)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Wilmington](/entities/gpe-wilmington.md) (gpe)
 
 ## Source
 
@@ -39,7 +40,7 @@ veracity: "false"
 
 ### Analysis
 
-The historical aircraft claim was checked by tail number SU-BTT and hex 0101D3 across two raw ADS-B archives, with the identifier disagreement explicitly noted, and against Plane Finder history. The traces place SU-BTT on a Paris-to-Minot-to-Provo routing on September 4, on the ground at Provo until September 10, arriving near Wilmington on September 10, and departing the Wilmington area toward Cairo on September 11. It therefore stayed in Provo for roughly six days, not Wilmington. Direct archived track evidence contradicts the claimed six-day Wilmington stay.
+The corrected proposition matches the retained flight evidence: archived ADS-B traces place SU-BTT on a Paris-to-Minot-to-Provo routing on September 4, on the ground at Provo until September 10, arriving near Wilmington on September 10, and leaving the Wilmington area toward Cairo on September 11. The six-day interval therefore preceded the Wilmington leg. The tail/hex disagreement is documented; the 0101D3 trace self-identifies as SU-BTT.
 
 **Confidence:** High
 
@@ -48,7 +49,7 @@ The historical aircraft claim was checked by tail number SU-BTT and hex 0101D3 a
 - [Open Flight Data - Checking the Following Claim Against Primary ADS-B](https://whoassassinatedcharliekirk.com/Planes/following/apis/public_open_source/knowledge)
 - [Government of Egypt Flight 0101D3 History](https://planefinder.net/data/flight/0101D3/history/4-80460925)
 
-*Verified: 2026-08-30T21:24:37.186520*
+*Verified: 2026-08-31T22:53:28.552448*
 
 ---
 

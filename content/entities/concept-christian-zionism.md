@@ -1,6 +1,6 @@
 ---
 title: "Christian Zionism"
-description: "Christian Zionism (Concepts) - 49 mentions"
+description: "Christian Zionism (Concepts) - 51 mentions"
 id: "concept-christian-zionism"
 type: "CONCEPT"
 aliases:
@@ -21,11 +21,11 @@ _Type: Concepts_
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-christian-zionism-t-00-09-15">2025-10-29 · 00:09:38</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-christian-zionism-t-00-50-02">2026-04-16 · 00:50:18</a></strong></div>
 <div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -45,7 +45,7 @@ _Type: Concepts_
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-christian-zionism-t-00-00-01" style="--pulse-height:40%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christian-zionism-t-00-01-17" style="--pulse-height:50%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 5 mentions" title="2026-01-22 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-christian-zionism-t-00-40-45" style="--pulse-height:20%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-christian-zionism-t-00-53-11" style="--pulse-height:10%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-christian-zionism-t-00-53-11" style="--pulse-height:30%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-christian-zionism-t-00-50-02" style="--pulse-height:10%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -65,16 +65,20 @@ _Type: Concepts_
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-christian-zionism-t-00-00-01) | 4 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christian-zionism-t-00-01-17) | 5 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-christian-zionism-t-00-40-45) | 2 |
-| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christian-zionism-t-00-53-11) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christian-zionism-t-00-53-11) | 3 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-concept-christian-zionism-t-00-50-02) | 1 |
 
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
@@ -85,10 +89,16 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (3 mentions)</summary>
 
 **[00:53:38](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christian-zionism-t-00-53-11)**
 > "the Christian Zionists"
+
+**[00:53:52](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christian-zionism-t-00-53-52)**
+> "I urge you, all of you Christian Zionists, sign up for the military today. Please, you guys..."
+
+**[01:02:25](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christian-zionism-t-01-02-09)**
+> "...ent of people, similar to the Christian Zionists, that are, like, unhinged. Look at Paula White, t..."
 
 </details>
 

@@ -3,7 +3,7 @@ title: "the people that are wearing maroon shirts. They are going to..."
 description: "\"the people that are wearing maroon shirts. They are going to, I will guarantee you, represent a military unit somewhere. I'm very close to figuring ou...\" — Candace Owens"
 statement_id: "statement-838fd6bfcbb3"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "prediction"
 ---
 
 **Status:** ○ Not yet verified
@@ -33,4 +33,4 @@ _This statement has not yet been verified._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Prediction | **Verifiable:** Yes

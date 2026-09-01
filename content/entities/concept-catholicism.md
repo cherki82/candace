@@ -27,7 +27,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -69,7 +69,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-catholicism-t-00-18-37" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-catholicism-t-00-18-44" style="--pulse-height:28%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-02-24" style="--pulse-height:40%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 10 mentions" title="2026-03-18 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-57-37" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-58-01" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-40-43" style="--pulse-height:56%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 14 mentions" title="2026-03-25 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-catholicism-t-00-51-01" style="--pulse-height:20%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 5 mentions" title="2026-03-30 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-51-58" style="--pulse-height:28%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 7 mentions" title="2026-04-13 · 7 mentions"><span></span></a>
@@ -140,7 +140,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-catholicism-t-00-18-37) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-concept-catholicism-t-00-18-44) | 7 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-02-24) | 10 |
-| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-57-37) | 2 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-58-01) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-40-43) | 14 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-concept-catholicism-t-00-51-01) | 5 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-51-58) | 7 |
@@ -174,6 +174,10 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -699,10 +703,10 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (2 mentions)</summary>
 
-**[00:58:01](/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-57-37)**
+**[00:58:01](/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-58-01)**
 > "in that Catholic household"
 
-**[00:59:21](/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-58-48)**
+**[00:59:21](/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-58-43)**
 > "...e, please interview the great Catholic non-interventionist Pat Buchanan. Dave Smith tell..."
 
 </details>

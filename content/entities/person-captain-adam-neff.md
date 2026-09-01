@@ -28,9 +28,9 @@ Source: [Candace Ep 278 transcript mirror](https://fight.fudgie.org/search/show/
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -53,6 +53,10 @@ Source: [Candace Ep 278 transcript mirror](https://fight.fudgie.org/search/show/
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -181,7 +185,15 @@ Source: [Candace Ep 278 transcript mirror](https://fight.fudgie.org/search/show/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Captain Adam Neff (3)</strong></summary>
+<summary><strong class="section-title">Statements about Captain Adam Neff (4)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
+
+- [00:41:04](/episodes/ep-7FS1tUeSfdE.md#t-00-40-37) (Claim) **Candace Owens**: ["Candace Owens said her team found Captain Adam Neff and determined tha..."](/statements/statement-b0e8e478c220.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>

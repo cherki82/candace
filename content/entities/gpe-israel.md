@@ -29,7 +29,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div><span>Episodes</span><strong>142</strong></div>
 <div><span>Mentions</span><strong>1,581</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>329</strong></div>
+<div><span>Statements about</span><strong>337</strong></div>
 <div><span>Relationships</span><strong>74</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -6410,7 +6410,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (329)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (337)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (3)</summary>
@@ -6747,7 +6747,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2)</summary>
+
+- [00:30:04](/episodes/ep-BxN2-aeMYIs.md#t-00-29-58) (Accusation) **Candace Owens**: ["Candace Owens suggests that the people most aggressively defending the..."](/statements/statement-13c9fd6b8d6d.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:32:18](/episodes/ep-BxN2-aeMYIs.md#t-00-32-18) (Opinion) **Candace Owens**: ["Natalie Beisner is another washed-up D-list actress whose last act is ..."](/statements/statement-13951b16e411.md)
   - Also about: [Natalie Jean Beisner](/entities/person-natalie-jean-beisner.md), [Zionism](/entities/concept-zionism.md)
@@ -6897,7 +6900,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (9)</summary>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (8)</summary>
 
 - [00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31) (Accusation) **Tucker Carlson** (via quoted post): ["The Israeli government has a history of blackmailing U.S. presidents."](/statements/statement-e6c51d0b0c47.md)
   - Also about: [United States](/entities/gpe-united-states.md)
@@ -6918,9 +6921,6 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:36:18](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) (Opinion) **Candace Owens**: ["Candace Owens believes the Likud government celebrates murdering child..."](/statements/statement-62008193f486.md)
   - Also about: [Likud](/entities/org-likud.md)
-
-- [00:37:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-37-43) (Opinion) **Candace Owens**: ["The first casualty of the Iranian war was Charlie Kirk, whom Candace O..."](/statements/statement-3c65604ff9a1.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
 
 - [00:44:11](/episodes/ep-ZIH5-V6UPkg.md#t-00-44-11) (Accusation) **Candace Owens**: ["Politicians send U.S. tax money overseas, launder it, return it to the..."](/statements/statement-7ee1138bcbc4.md)
   - Also about: [United States](/entities/gpe-united-states.md)
@@ -7079,9 +7079,12 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (16)</summary>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (18)</summary>
 
 - [00:00:19](/episodes/ep-i8m_6D4QGmk.md#t-00-00-00) (Accusation) **Candace Owens**: ["Perhaps this entire war has been engineered by Israel."](/statements/statement-46ccdc1038d7.md)
+
+- [00:00:38](/episodes/ep-i8m_6D4QGmk.md#t-00-00-38) (Opinion) **Candace Owens**: ["Candace Owens believes Charlie Kirk was the first casualty of the Iran..."](/statements/statement-2631d93a742e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
 
 - [00:33:54](/episodes/ep-i8m_6D4QGmk.md#t-00-33-30) (Accusation) **Candace Owens**: ["After Charlie Kirk was assassinated, Donald Trump devoted at most thre..."](/statements/statement-d7b571230e71.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -7097,6 +7100,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:41:01](/episodes/ep-i8m_6D4QGmk.md#t-00-40-36) (Citation) **Candace Owens**: ["Israel is unlawfully using white phosphorus in Lebanon."](/statements/statement-223b4c32c900.md)
   - Also about: [Lebanon](/entities/gpe-lebanon.md)
+
+- [00:41:49](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20) (Accusation) **Candace Owens**: ["Candace Owens said Charlie Kirk was an obstacle who was removed before..."](/statements/statement-5c6ed3a7f13e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
 
 - [00:42:27](/episodes/ep-i8m_6D4QGmk.md#t-00-42-27) (Claim) **Marco Rubio** (via quoted speech): ["The United States knew Israeli action would precipitate an attack on A..."](/statements/statement-d70f814454fc.md)
   - Also about: [United States](/entities/gpe-united-states.md), [Iran](/entities/gpe-iran.md), [Donald J. Trump](/entities/person-donald-trump.md)
@@ -7138,10 +7144,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (4)</summary>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (5)</summary>
 
 - [00:01:21](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) (Accusation) **Candace Owens**: ["Candace Owens believes, based on evidence, that Charlie Kirk's murder ..."](/statements/statement-7812137609ed.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States](/entities/gpe-united-states.md)
+
+- [00:01:37](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) (Accusation) **Candace Owens**: ["Owens alleged that the military operation's purpose was to galvanize A..."](/statements/statement-cd43131f0279.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 - [00:01:45](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) (Claim) **Candace Owens**: ["Charlie Kirk had abandoned the pro-Israel cause entirely before his de..."](/statements/statement-2cd66649f19c.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Zionism](/entities/concept-zionism.md)
@@ -7209,7 +7218,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>An Open Letter To Erika Kirk | Candace Ep 303 (2)</summary>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (3)</summary>
+
+- [00:15:54](/episodes/ep-mFuno0TuuQQ.md#t-00-15-54) (Accusation) **Candace Owens**: ["Owens theorized that France, Israel, the United States, and Egypt were..."](/statements/statement-b19e929dcdf2.md)
+  - Also about: [France](/entities/gpe-france.md), [United States](/entities/gpe-united-states.md), [Egypt](/entities/gpe-egypt.md)
 
 - [00:19:00](/episodes/ep-mFuno0TuuQQ.md#t-00-18-38) (Accusation) **Candace Owens**: ["Candace Owens said, 'I think France and Israel are involved in Charlie..."](/statements/statement-ec63bfd7c4f9.md)
   - Also about: [France](/entities/gpe-france.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -7242,7 +7254,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (25)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (29)</summary>
 
 - [00:05:47](/episodes/ep-xjzb_t5Tk9o.md#t-00-05-22) (Claim) **Bassem Youssef**: ["After fighting the USS Liberty matter for 15 years, Israel paid six mi..."](/statements/statement-501294768e98.md)
   - Also about: [USS Liberty](/entities/vehicle-uss-liberty.md)
@@ -7264,6 +7276,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:26:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-26-09) (Opinion) **Candace Owens**: ["Candace Owens and Charlie Kirk genuinely supported Israel because they..."](/statements/statement-eddb81ad71ef.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Gaza](/entities/gpe-gaza.md)
+
+- [00:26:43](/episodes/ep-xjzb_t5Tk9o.md#t-00-26-33) (Opinion) **Bassem Youssef**: ["Youssef said he agreed Kirk was beginning to 'wake up' near the end be..."](/statements/statement-6b3e54bae36e.md)
+  - Also about: [Bassem Youssef](/entities/person-bassem-youssef.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:27:26](/episodes/ep-xjzb_t5Tk9o.md#t-00-27-02) (Accusation) **Bassem Youssef**: ["Charlie Kirk falsely claimed that a Jewish person entering an Arab nei..."](/statements/statement-7f5ab000e3f0.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Judaism](/entities/concept-judaism.md)
@@ -7295,6 +7310,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 - [01:06:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-12) (Accusation) **Candace Owens**: ["The media company where Candace Owens worked used her to appear commit..."](/statements/statement-2a737a7f8122.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
+- [01:07:17](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-58) (Opinion) **Bassem Youssef**: ["Youssef implied that insiders such as Owens and Kirk who began turning..."](/statements/statement-3d9fcc2922d3.md)
+  - Also about: [Bassem Youssef](/entities/person-bassem-youssef.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [01:09:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-18) (Accusation) **Candace Owens**: ["Candace Owens is convinced the Egyptian planes connected to Charlie Ki..."](/statements/statement-cca1d6a784f0.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Egypt](/entities/gpe-egypt.md)
 
@@ -7303,6 +7321,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [01:14:20](/episodes/ep-xjzb_t5Tk9o.md#t-01-14-20) (Accusation) **Candace Owens**: ["U.S. state actors are colluding to cover up Charlie Kirk's assassinati..."](/statements/statement-31fb534345ef.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States](/entities/gpe-united-states.md)
+
+- [01:14:41](/episodes/ep-xjzb_t5Tk9o.md#t-01-14-26) (Opinion) **Candace Owens**: ["Owens said Netanyahu's immediate post-assassination denial and Trump's..."](/statements/statement-c99843036503.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 - [01:22:12](/episodes/ep-xjzb_t5Tk9o.md#t-01-22-12) (Accusation) **Ward Boston** (via quoted document): ["The USS Liberty investigation was a cover-up and the attack was delibe..."](/statements/statement-477a982ea9ac.md)
   - Also about: [Ward Boston](/entities/person-ward-boston.md), [USS Liberty](/entities/vehicle-uss-liberty.md), [United States Navy](/entities/org-united-states-navy.md)
@@ -7318,6 +7339,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [01:44:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-14) (Accusation) **Candace Owens**: ["The post-9/11 media environment conditioned children to fear Muslims s..."](/statements/statement-2350154ebb84.md)
   - Also about: [Islam](/entities/concept-islam.md), [Middle East](/entities/gpe-middle-east.md), [United States](/entities/gpe-united-states.md)
+
+- [01:44:45](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-43) (Accusation) **Candace Owens**: ["Owens said Netanyahu doing U.S. podcasts after Kirk's death would not ..."](/statements/statement-3d51f515c510.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 </details>
 

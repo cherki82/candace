@@ -384,7 +384,7 @@ Source: [About YouTube](https://about.youtube/)
 > "...do, they simply have to go to YouTube and watch it. We've documented"
 
 **[00:57:00](/episodes/ep-Dkxa9OUA9K8.md#ent-org-youtube-t-00-56-42)**
-> "...at if people simply go to our YouTube channel, they can see it. If they go back, they c..."
+> "We stay within the confines of that mission and are very successful, but we document it so people can see it on our YouTube channel and in our social-media history."
 
 </details>
 

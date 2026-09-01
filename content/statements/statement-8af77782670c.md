@@ -4,9 +4,10 @@ description: "\"Turning Point USA formally responded to Candace Owens' allegatio
 statement_id: "statement-8af77782670c"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The primary recording includes Blake Neff's formal response on behalf of TPUSA and the invitation to a future Phoenix livestream, so the fact that TPUSA publicly responded and invited Owens is directly supported.
+
+**Confidence:** High
+
+**Sources:**
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions](https://www.youtube.com/watch?v=his-JBjlkh8)
+
+*Verified: 2026-08-31T23:20:25.503310*
 
 ---
 

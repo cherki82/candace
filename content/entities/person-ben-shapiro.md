@@ -26,10 +26,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-ben-shapiro-t-00-49-53">2026-08-21 · 00:50:06</a></strong></div>
 <div><span>Episodes</span><strong>69</strong></div>
 <div><span>Mentions</span><strong>490</strong></div>
-<div><span>Statements by</span><strong>26</strong></div>
-<div><span>Statements about</span><strong>105</strong></div>
+<div><span>Statements by</span><strong>28</strong></div>
+<div><span>Statements about</span><strong>107</strong></div>
 <div><span>Relationships</span><strong>99</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -182,6 +182,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -869,13 +873,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 **[00:31:18](/episodes/ep-SgVcnx4Oh30.md#ent-person-ben-shapiro-t-00-30-50)**
 > "Just a little side point here. He's going to effectively admit that Charlie (Charlie Kirk) couldn't stand Ben Shapiro and was annoyed that he had to interview him the day before because Andrew (Andrew Kolvet) is the one that booked him, which I've been saying from day one, but it's just it's refreshing to kind of hear him acknowledge it without saying Ben (Ben Shapiro)'s name."
 
-**[00:57:37](/episodes/ep-SgVcnx4Oh30.md#ent-person-ben-shapiro-t-00-57-37)**
+**[00:57:37](/episodes/ep-SgVcnx4Oh30.md#ent-person-ben-shapiro-t-00-57-22)**
 > "... are watching. On top of Ben (Ben Shapiro)'s intractable brows while the staff at TPUSA are..."
 
-**[00:58:23](/episodes/ep-SgVcnx4Oh30.md#ent-person-ben-shapiro-t-00-58-19)**
+**[00:58:23](/episodes/ep-SgVcnx4Oh30.md#ent-person-ben-shapiro-t-00-58-01)**
 > "...they were just gonna let Ben (Ben Shapiro) take over turning point or something Erika (Erik..."
 
-**[00:58:43](/episodes/ep-SgVcnx4Oh30.md#ent-person-ben-shapiro-t-00-58-19)**
+**[00:58:43](/episodes/ep-SgVcnx4Oh30.md#ent-person-ben-shapiro-t-00-58-43)**
 > "...rlie Kirk couldn't stand Ben (Ben Shapiro). Very few people can."
 
 </details>
@@ -2940,7 +2944,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Ben Shapiro (26)</strong></summary>
+<summary><strong class="section-title">Statements by Ben Shapiro (28)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
@@ -2981,7 +2985,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (4)</summary>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (5)</summary>
 
 - [00:16:39](/episodes/ep-uC_GjKU8rs8.md#t-00-16-31) [○] (Opinion) ["Erika Kirk absolutely should sue Candace Owens."](/statements/statement-3f2a03a20d2a.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -2991,6 +2995,9 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 - [00:17:37](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37) [○] (Opinion) ["Megyn Kelly remains a coward."](/statements/statement-407aefc04810.md)
   - About: [Megyn Kelly](/entities/person-megyn-kelly.md)
+
+- [00:17:37](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37) [○] (Accusation) ["Ben Shapiro affirmed that Candace Owens was accusing Erika Kirk of murdering Cha..."](/statements/statement-1d3457195e75.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:22:11](/episodes/ep-uC_GjKU8rs8.md#t-00-21-46) [○] (Opinion) ["Candace Owens’s audience members are complicit because she monetizes their gulli..."](/statements/statement-edcc66fd6d63.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
@@ -3047,7 +3054,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (3)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (4)</summary>
 
 - [00:01:45](/episodes/ep-r1PS67aRmcA.md#t-00-01-26) [✓] (Opinion) ["Accusing any American Jew who is pro-Israel of being an “Israel Firster” is a pu..."](/statements/statement-288a141452cd.md)
   - About: [Nick Fuentes](/entities/person-nick-fuentes.md)
@@ -3055,6 +3062,9 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14) [○] (Claim) ["The number of times that Tucker Carlson has mentioned Zohran Mamdani since Octob..."](/statements/statement-d0d731c7c32c.md)
 
 - [00:05:41](/episodes/ep-r1PS67aRmcA.md#t-00-05-14) [○] (Claim) ["Since October 7th, I did 17 separate shows on Zohran Mamdani, including four in ..."](/statements/statement-ab436d786d5b.md)
+
+- [00:10:33](/episodes/ep-r1PS67aRmcA.md#t-00-09-56) [○] (Accusation) ["Ben Shapiro said Owens was accusing TPUSA insiders and right-wing figures, inclu..."](/statements/statement-2288e35c2288.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Seth Dillon](/entities/person-seth-dillon.md)
 
 </details>
 
@@ -3081,7 +3091,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ben Shapiro (105)</strong></summary>
+<summary><strong class="section-title">Statements about Ben Shapiro (107)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
@@ -3331,7 +3341,15 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (23)</summary>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
+
+- [01:22:35](/episodes/ep-wcD2khO3rOA.md#t-01-22-35) (Opinion) **Candace Owens**: ["Owens said a vivid dream led her to suspect Ben Shapiro was being sent..."](/statements/statement-4a6d2aa1cd0e.md)
+  - Also about: [Farris Wilks](/entities/person-farris-wilks.md), [Dan Wilks](/entities/person-dan-wilks.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (24)</summary>
 
 - [00:03:29](/episodes/ep-zSKrxIUMNqw.md#t-00-03-27) (Accusation) **Candace Owens**: ["Ben Shapiro was not Charlie Kirk's friend and worked behind the scenes..."](/statements/statement-8581516af03e.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
@@ -3350,6 +3368,9 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 - [00:16:48](/episodes/ep-zSKrxIUMNqw.md#t-00-16-11) (Accusation) **Candace Owens**: ["Candace Owens said Ben Shapiro's behavior since Charlie Kirk's assassi..."](/statements/statement-b2b9cb99572e.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:06](/episodes/ep-zSKrxIUMNqw.md#t-00-16-56) (Opinion) **Candace Owens**: ["Candace Owens said Ben Shapiro behaved as though he expected to benefi..."](/statements/statement-ec68cd24592f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:18:09](/episodes/ep-zSKrxIUMNqw.md#t-00-17-38) (Opinion) **Steve Bannon** (via quoted speech): ["Ben Shapiro is like a cancer that spreads and metastasizes."](/statements/statement-7617a96d8f2d.md)
 

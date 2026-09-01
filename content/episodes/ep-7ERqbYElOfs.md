@@ -327,7 +327,7 @@ youtube_url: "https://www.youtube.com/watch?v=7ERqbYElOfs"
 </details>
 
 <details>
-<summary><strong>Statements (54)</strong></summary>
+<summary><strong>Statements (56)</strong></summary>
 
 - [00:00:10](#t-00-00-00) [○] (Accusation) **Candace Owens**: ["France and its DGSE intelligence agency were involved in Charlie Kirk's assassin..."](/statements/statement-77c08333ae83.md)
   - About: [France](/entities/gpe-france.md), [Direction générale de la sécurité extérieure](/entities/org-dgse.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -393,6 +393,8 @@ youtube_url: "https://www.youtube.com/watch?v=7ERqbYElOfs"
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 - [00:28:14](#t-00-28-14) [◐] (Claim) **Candace Owens**: ["Washington County Sheriff Nate Brooksby abruptly resigned during an election, le..."](/statements/statement-cb0cf1a88246.md)
   - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md), [Washington County](/entities/gpe-washington-county.md)
+- [00:29:26](#t-00-28-49) [✓] (Citation) **Candace Owens**: ["Candace Owens said she wondered whether Nate Brooksby's sudden resignation might..."](/statements/statement-6658a08b542c.md)
+  - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:29:32](#t-00-29-32) [✓] (Citation) **Candace Owens**: ["The Washington County Commission confirmed that Nate Brooksby resigned on Friday..."](/statements/statement-1e7fc8e95de2.md)
   - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Washington County Commission](/entities/org-washington-county-commission.md)
 - [00:29:40](#t-00-29-32) [✗] (Claim) **Candace Owens**: ["There is no evidence that Tyler Robinson's father turned him in or that Robinson..."](/statements/statement-0c5eb922496d.md)
@@ -411,12 +413,14 @@ youtube_url: "https://www.youtube.com/watch?v=7ERqbYElOfs"
   - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:33:27](#t-00-32-48) [○] (Opinion) **Candace Owens**: ["Owens said she did not believe Tyler Robinson was the lone person involved in Ch..."](/statements/statement-c74b87f46747.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [00:33:41](#t-00-33-33) [○] (Opinion) **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-cdeead784a48.md)
+- [00:33:41](#t-00-33-33) [✓] (Opinion) **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-cdeead784a48.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:35:31](#t-00-35-31) [✓] (Claim) **Nate Brooksby**: ["At 8:02 p.m. on September 11, a retired detective told Nate Brooksby that he kne..."](/statements/statement-a857c7bb9553.md)
   - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:36:49](#t-00-36-14) [✓] (Claim) **Nate Brooksby**: ["Tyler Robinson may have had suicidal thoughts and was headed to a remote part of..."](/statements/statement-6d374c5ff6d9.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Washington County](/entities/gpe-washington-county.md)
+- [00:37:41](#t-00-37-12) [✓] (Opinion) **Candace Owens**: ["Candace Owens said her theory that Mike Mitchell worked with federal agents to p..."](/statements/statement-0df5e407ed6c.md)
+  - About: [Mike Mitchell](/entities/person-mike-mitchell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:37:41](#t-00-37-12) [○] (Opinion) **Candace Owens**: ["Mike Mitchell was working with federal agents to put the Charlie Kirk killing on..."](/statements/statement-4f479f057f03.md)
   - About: [Mike Mitchell](/entities/person-mike-mitchell.md), [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:40:11](#t-00-40-05) [○] (Accusation) **Candace Owens**: ["Spencer Cox was complicit in lying about how Tyler Robinson was apprehended."](/statements/statement-9a3ad9ef4ed5.md)

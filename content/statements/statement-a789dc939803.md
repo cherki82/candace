@@ -1,6 +1,6 @@
 ---
-title: "I think you thought BTU was BTT, but that's actually okay, b..."
-description: "\"I think you thought BTU was BTT, but that's actually okay, because now we can connect those two planes at the very least.\" — Candace Owens"
+title: "Owens corrected a social-media post that confused SU-BTU wit..."
+description: "\"Owens corrected a social-media post that confused SU-BTU with SU-BTT while arguing that the alleged Walid Mahmood passenger linked the two aircraft.\" — Candace Owens"
 statement_id: "statement-a789dc939803"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> I think you thought BTU was BTT, but that's actually okay, because now we can connect those two planes at the very least.
+> Owens corrected a social-media post that confused SU-BTU with SU-BTT while arguing that the alleged Walid Mahmood passenger linked the two aircraft.
 
 ## Attribution
 

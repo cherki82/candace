@@ -26,9 +26,9 @@ Source: [Shaffer Security Group - Press](https://shaffersecuritygroup.com/press/
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -51,6 +51,10 @@ Source: [Shaffer Security Group - Press](https://shaffersecuritygroup.com/press/
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -184,6 +188,19 @@ Source: [Shaffer Security Group - Press](https://shaffersecuritygroup.com/press/
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Shaffer Security Group (1)</strong></summary>
+
+<details>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1)</summary>
+
+- [00:49:45](/episodes/ep-9naMwS0kMBE.md#t-00-49-23) (Claim) **Candace Owens**: ["Owens said private group-chat messages show that before Kirk's death s..."](/statements/statement-bf66e09dc86c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </details>
 

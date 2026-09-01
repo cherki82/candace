@@ -1,14 +1,14 @@
 ---
 id: "gG4ZoYUjUc8"
 title: "Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295"
-description: "Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 - 92 entities, 12 events, 10 factual claims"
+description: "Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 - 92 entities, 12 events, 12 factual claims"
 published: "2026-01-22"
 youtube_url: "https://www.youtube.com/watch?v=gG4ZoYUjUc8"
 ---
 
 **Published:** 2026-01-22 | [Watch on YouTube](https://www.youtube.com/watch?v=gG4ZoYUjUc8)
 
-**Stats:** 92 entities | 12 events | 10 factual claims
+**Stats:** 92 entities | 12 events | 12 factual claims
 
 ---
 
@@ -533,7 +533,7 @@ youtube_url: "https://www.youtube.com/watch?v=gG4ZoYUjUc8"
 </details>
 
 <details>
-<summary><strong>Statements (28)</strong></summary>
+<summary><strong>Statements (30)</strong></summary>
 
 - [00:01:17](#t-00-01-17) [◐] (Accusation) **Candace Owens**: ["Owens said she would characterize Charlie Kirk as having been threatened financi..."](/statements/statement-ded104a5b1de.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Christian Zionism](/entities/concept-christian-zionism.md)
@@ -571,10 +571,14 @@ youtube_url: "https://www.youtube.com/watch?v=gG4ZoYUjUc8"
   - About: [Candace Owens](/entities/person-candace-owens.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
 - [00:21:45](#t-00-21-22) [✓] (Claim) **Tyler Bowyer**: ["We run everything like a military op. All of our people are from that background..."](/statements/statement-cb03f880640c.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+- [00:22:27](#t-00-22-01) [✓] (Claim) **Candace Owens**: ["Owens said she still did not understand what caused the Turning Point USA firing..."](/statements/statement-b73c1a5305ee.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:22:34](#t-00-22-34) [✓] (Accusation) **Candace Owens**: ["Andrew Kolvet questioned a TPUSA employee over an Uber driver's secondhand accou..."](/statements/statement-10f521c04fa3.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:24:12](#t-00-23-39) [○] (Claim) **Candace Owens**: ["According to a former employee, Turning Point USA brought in $250 million after ..."](/statements/statement-d4d2819e60ff.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:26:26](#t-00-26-26) [✓] (Claim) **Candace Owens**: ["Owens said she had not spoken with the recorded former Turning Point USA employe..."](/statements/statement-1822de273497.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Anonymous Source #1 (Ep gG4ZoYUjUc8)](/entities/anon-src-gG4ZoYUjUc8-001.md)
 - [00:27:14](#t-00-27-12) [✓] (Claim) **Anonymous Source #2 (Ep gG4ZoYUjUc8)**: ["TPUSA was going in a different direction, the employee had been terminated, and ..."](/statements/statement-1ff7183e5b30.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Anonymous Source #1 (Ep gG4ZoYUjUc8)](/entities/anon-src-gG4ZoYUjUc8-001.md)
 - [00:28:06](#t-00-27-55) [○] (Claim) **Anonymous Source #1 (Ep gG4ZoYUjUc8)**: ["The former TPUSA employee had worked 80- to 90-hour weeks for AMFest, received n..."](/statements/statement-38e3b961e874.md)

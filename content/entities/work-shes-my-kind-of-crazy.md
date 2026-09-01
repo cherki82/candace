@@ -58,7 +58,7 @@ Source: [Emerson Drive - She's My Kind of Crazy - Official Music Video](https://
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>
 
 **[00:28:13](/episodes/ep-y8lak3CRwDw.md#ent-work-shes-my-kind-of-crazy-t-00-28-01)**
-> "...that went pretty viral that's she's my kind of crazy we had mentioned to you yesterday that her boyfri..."
+> "Tracy's making handbags. She's what we refer to as a serial entrepreneur, life coach, just a little bit of everything, a Jane of many trades. And 25 is going to be donated to Everyday Heroes; for every bag bought, the kids are going to get 25."
 
 **[00:28:34](/episodes/ep-y8lak3CRwDw.md#ent-work-shes-my-kind-of-crazy-t-00-28-01)**
 > "...hat went pretty viral. That's She's My Kind of Crazy."

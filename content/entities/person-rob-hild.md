@@ -27,9 +27,9 @@ Source: [Rob Hild | 2019 Brigham Young Cougars | MCLA](https://mcla.us/players/r
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -50,6 +50,10 @@ Source: [Rob Hild | 2019 Brigham Young Cougars | MCLA](https://mcla.us/players/r
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -130,6 +134,18 @@ Source: [Rob Hild | 2019 Brigham Young Cougars | MCLA](https://mcla.us/players/r
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:30:28](/episodes/ep-rupRLXmSndU.md#t-00-30-18): “But what we know for certain is, like I said, Robbie (Robbie Hild), he also went to BYU. And he played lacrosse. He appears to have graduated around 2020.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Rob Hild (1)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
+
+- [00:29:49](/episodes/ep-rupRLXmSndU.md#t-00-29-34) (Claim) **Candace Owens**: ["Owens could not locate a document re-establishing the alleged marriage..."](/statements/statement-87fa312c10f1.md)
 
 </details>
 

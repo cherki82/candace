@@ -21,10 +21,10 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-shirley-t-00-16-55">2026-05-26 · 00:16:55</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>53</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -53,6 +53,10 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -374,13 +378,21 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Nick Shirley (2)</strong></summary>
+<summary><strong class="section-title">Statements by Nick Shirley (3)</strong></summary>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1)</summary>
 
 - [00:29:04](/episodes/ep-KpxIBWkNsSs.md#t-00-29-04) [✓] (Claim) ["Nick Shirley said Candace Owens had come after him because she did not believe h..."](/statements/statement-5578d5edd395.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Nick Shirley](/entities/person-nick-shirley.md)
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>
+
+- [00:03:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-36) [✓] (Claim) ["Nick Shirley told Candace Owens that his September 10 appearance on The Charlie ..."](/statements/statement-a631f9e7c386.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </details>
 
@@ -395,7 +407,7 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nick Shirley (4)</strong></summary>
+<summary><strong class="section-title">Statements about Nick Shirley (5)</strong></summary>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
@@ -413,12 +425,15 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 </details>
 
 <details>
-<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (2)</summary>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (3)</summary>
 
 - [00:36:24](/episodes/ep-SgVcnx4Oh30.md#t-00-36-24) (Claim) **Nick Shirley** (via quoted speech): ["Nick Shirley said that within two days he gained access to members of ..."](/statements/statement-303ef5142c68.md)
   - Also about: [Comando Vermelho](/entities/org-comando-vermelho.md), [Brazil](/entities/gpe-brazil.md)
 
 - [00:36:46](/episodes/ep-SgVcnx4Oh30.md#t-00-36-46) (Accusation) **Candace Owens**: ["Candace Owens said she did not believe Nick Shirley's claim that he in..."](/statements/statement-5f70a933304d.md)
+
+- [00:38:18](/episodes/ep-SgVcnx4Oh30.md#t-00-37-39) (Citation) **Candace Owens**: ["Candace Owens said she had asked Nick Shirley to confirm that Andrew K..."](/statements/statement-b1e93d05ba47.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </details>
 

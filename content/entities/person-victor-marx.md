@@ -1,6 +1,6 @@
 ---
 title: "Victor Marx"
-description: "Victor Marx (People) - 242 mentions"
+description: "Victor Marx (People) - 241 mentions"
 id: "person-victor-marx"
 type: "PERSON"
 aliases:
@@ -29,11 +29,11 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-victor-marx-t-00-06-29">2026-04-14 · 00:06:36</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#t-00-43-56">2026-08-10 · 00:43:56</a></strong></div>
 <div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>242</strong></div>
-<div><span>Statements by</span><strong>53</strong></div>
-<div><span>Statements about</span><strong>91</strong></div>
+<div><span>Mentions</span><strong>241</strong></div>
+<div><span>Statements by</span><strong>55</strong></div>
+<div><span>Statements about</span><strong>95</strong></div>
 <div><span>Relationships</span><strong>75</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -41,7 +41,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <p>Highest activity: <a href="/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-00-26">Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329</a> (59 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-victor-marx-t-00-06-29" style="--pulse-height:81%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 48 mentions" title="2026-04-14 · 48 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-person-victor-marx-t-00-00-41" style="--pulse-height:22%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 13 mentions" title="2026-04-15 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-person-victor-marx-t-00-00-41" style="--pulse-height:20%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 12 mentions" title="2026-04-15 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-victor-marx-t-00-00-00" style="--pulse-height:34%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 20 mentions" title="2026-04-16 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-victor-marx-t-01-00-18" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-victor-marx-t-00-17-09" style="--pulse-height:10%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 6 mentions" title="2026-04-21 · 6 mentions"><span></span></a>
@@ -62,7 +62,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-victor-marx-t-00-06-29) | 48 |
-| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-victor-marx-t-00-00-41) | 13 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-victor-marx-t-00-00-41) | 12 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-victor-marx-t-00-00-00) | 20 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-victor-marx-t-01-00-18) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-victor-marx-t-00-17-09) | 6 |
@@ -81,10 +81,14 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (242)</strong></summary>
+<summary><strong class="section-title">Raw mentions (241)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
@@ -283,7 +287,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 **[00:09:27](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-09-01)**
 > "...0 guns for the IDF. We'll ask Victor Marx about that."
 
-**[00:09:30](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-09-01)**
+**[00:09:27](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-09-01)**
 > "...0 guns for the IDF. We'll ask Victor Marx about that."
 
 **[00:09:35](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-09-35)**
@@ -700,7 +704,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
-<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (13 mentions)</summary>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (12 mentions)</summary>
 
 **[00:00:57](/episodes/ep-SubDoZWHARo.md#ent-person-victor-marx-t-00-00-41)**
 > "Plus, Victor Marx, Pastor Victor Marx"
@@ -716,9 +720,6 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 **[00:37:54](/episodes/ep-SubDoZWHARo.md#ent-person-victor-marx-t-00-37-22)**
 > "... young woman who alleges that Victor Marx kidnapped her from canada she's the people had he..."
-
-**[00:38:00](/episodes/ep-SubDoZWHARo.md#ent-person-victor-marx-t-00-37-22)**
-> "... young woman who alleges that Victor Marx kidnapped her from Canada."
 
 **[00:38:07](/episodes/ep-SubDoZWHARo.md#ent-person-victor-marx-t-00-38-07)**
 > "...as a lot going on with Pastor Victor Marx. I think it is fair to suggest that he has a chec..."
@@ -1612,7 +1613,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Victor Marx (53)</strong></summary>
+<summary><strong class="section-title">Statements by Victor Marx (55)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (2)</summary>
@@ -1637,7 +1638,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
-<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (25)</summary>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (27)</summary>
 
 - [00:06:15](/episodes/ep-Dkxa9OUA9K8.md#t-00-06-15) [○] (Claim) ["Victor Marx says that when he was about three and a half, his stepfather threate..."](/statements/statement-8ba6b0c45be8.md)
   - About: [Victor Marx](/entities/person-victor-marx.md), [Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)
@@ -1672,6 +1673,9 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 - [00:46:02](/episodes/ep-Dkxa9OUA9K8.md#t-00-46-02) [◐] (Claim) ["Victor Marx says he announced Charlie Kirk's death after he and team members wit..."](/statements/statement-ba2386a33bd4.md)
   - About: [Victor Marx](/entities/person-victor-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:47:15](/episodes/ep-Dkxa9OUA9K8.md#t-00-46-41) [○] (Claim) ["Victor Marx says he texted Erika Kirk that she and the children were safe becaus..."](/statements/statement-225ec0599ca8.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [00:50:10](/episodes/ep-Dkxa9OUA9K8.md#t-00-50-10) [○] (Claim) ["Victor Marx says he immediately brought a team to relieve Charlie Kirk's initial..."](/statements/statement-11ab1843d94b.md)
   - About: [Victor Marx](/entities/person-victor-marx.md), [Eileen Marx](/entities/person-eileen-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
@@ -1698,6 +1702,9 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 - [01:08:56](/episodes/ep-Dkxa9OUA9K8.md#t-01-08-56) [○] (Claim) ["Victor Marx says his organization helped 6,000 children affected by the war betw..."](/statements/statement-cee03df0c038.md)
   - About: [Victor Marx](/entities/person-victor-marx.md), [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md), [Hamas](/entities/org-hamas.md)
+
+- [01:09:11](/episodes/ep-Dkxa9OUA9K8.md#t-01-09-11) [○] (Claim) ["Victor Marx says an Israeli nonprofit led by a former Israel Defense Forces spec..."](/statements/statement-084cee29164c.md)
+  - About: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)
 
 - [01:09:32](/episodes/ep-Dkxa9OUA9K8.md#t-01-09-11) [◐] (Claim) ["Victor Marx says Israeli contacts told him their forces were unprepared, underes..."](/statements/statement-98e0f4782b76.md)
   - About: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md)
@@ -1816,7 +1823,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Victor Marx (91)</strong></summary>
+<summary><strong class="section-title">Statements about Victor Marx (95)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (3)</summary>
@@ -1940,7 +1947,10 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
-<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4)</summary>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (5)</summary>
+
+- [00:02:24](/episodes/ep-4DvYXBn_5JI.md#t-00-01-59) (Claim) **Candace Owens**: ["Candace Owens said Victor Marx was the first documented public figure ..."](/statements/statement-e9358aeec4a7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:03:08](/episodes/ep-4DvYXBn_5JI.md#t-00-03-08) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said she learned that Charlie Kirk and Victor Marx had a..."](/statements/statement-b829bc398ba1.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -2048,7 +2058,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 - [00:37:41](/episodes/ep-SubDoZWHARo.md#t-00-37-22) (Citation) **Candace Owens**: ["Victor Marx's daughter publicly accused him of abuse and later retract..."](/statements/statement-e82addc591c3.md)
 
-- [00:38:00](/episodes/ep-SubDoZWHARo.md#t-00-37-22) (Citation) **Candace Owens**: ["A young woman has publicly alleged that Victor Marx kidnapped her from..."](/statements/statement-9d3b3eceb043.md)
+- [00:37:54](/episodes/ep-SubDoZWHARo.md#t-00-37-22) (Citation) **Candace Owens**: ["A young woman has publicly alleged that Victor Marx kidnapped her from..."](/statements/statement-9d3b3eceb043.md)
   - Also about: [Canada](/entities/gpe-canada.md)
 
 - [00:38:25](/episodes/ep-SubDoZWHARo.md#t-00-38-07) (Claim) **Candace Owens**: ["Victor Marx allegedly was the first person to announce Charlie Kirk's ..."](/statements/statement-8aa34c0e128a.md)
@@ -2060,10 +2070,13 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
-<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (20)</summary>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (23)</summary>
 
 - [00:07:02](/episodes/ep-jsqUIkszZd0.md#t-00-07-02) (Claim) **Candace Owens**: ["Victor Marx announced his Colorado gubernatorial run at a Charlie Kirk..."](/statements/statement-c10e5446c0d4.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Colorado](/entities/gpe-colorado.md)
+
+- [00:08:04](/episodes/ep-jsqUIkszZd0.md#t-00-07-35) (Claim) **Candace Owens**: ["Candace Owens said Victor and Eileen Marx were among the first people ..."](/statements/statement-386a05a13f58.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:13:17](/episodes/ep-jsqUIkszZd0.md#t-00-13-04) (Claim) **Victor Marx**: ["Victor Marx says his stepfather forced him, at age seven, to shoot and..."](/statements/statement-0246d2752607.md)
 
@@ -2093,6 +2106,9 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 - [00:27:57](/episodes/ep-jsqUIkszZd0.md#t-00-27-24) (Accusation) **Victor Marx** (via quoted document): ["Victor Marx told Corby Hall that Marx's team was going to capture or e..."](/statements/statement-75ec91e5abc7.md)
   - Also about: [Jimmy Chérizier](/entities/person-jimmy-cherizier.md), [Haiti](/entities/gpe-haiti.md)
 
+- [00:28:17](/episodes/ep-jsqUIkszZd0.md#t-00-28-07) (Claim) **Corby Hall** (via read message): ["Corby Hall said he left a long-range-configured FoldAR rifle with Vict..."](/statements/statement-3c617ac3cdfa.md)
+  - Also about: [FoldAR](/entities/org-foldar.md)
+
 - [00:29:29](/episodes/ep-jsqUIkszZd0.md#t-00-29-29) (Claim) **Victor Marx**: ["Victor Marx said he traveled to Haiti after an orphanage urgently requ..."](/statements/statement-b63905f87fe3.md)
   - Also about: [400 Mawozo](/entities/org-400-mawozo.md), [Haiti](/entities/gpe-haiti.md)
 
@@ -2115,6 +2131,9 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 - [00:36:03](/episodes/ep-jsqUIkszZd0.md#t-00-35-43) (Opinion) **Victor Marx** (via quoted document): ["Victor Marx told Corby Hall that Hall was demonically influenced becau..."](/statements/statement-b41254aa8022.md)
   - Also about: [Corby Hall](/entities/person-corby-hall.md)
+
+- [00:45:51](/episodes/ep-jsqUIkszZd0.md#t-00-45-51) (Opinion) **Candace Owens**: ["Candace Owens asked whether Victor Marx's reported overseas weapons an..."](/statements/statement-13fc1eb8c40b.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 - [00:57:07](/episodes/ep-jsqUIkszZd0.md#t-00-57-00) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens says Victor Marx has been caught lying extensively and t..."](/statements/statement-c6ac7854e7b6.md)
 

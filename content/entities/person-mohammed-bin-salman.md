@@ -25,9 +25,9 @@ Source: [Saudi Vision 2030 Executive Summary](https://www.vision2030.gov.sa/medi
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -44,6 +44,10 @@ Source: [Saudi Vision 2030 Executive Summary](https://www.vision2030.gov.sa/medi
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -93,16 +97,13 @@ Source: [Saudi Vision 2030 Executive Summary](https://www.vision2030.gov.sa/medi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mohammed bin Salman (2)</strong></summary>
+<summary><strong class="section-title">Statements about Mohammed bin Salman (1)</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2)</summary>
-
-- [00:16:49](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) (Citation) **Candace Owens** (via quoted post): ["The Egyptian government website confirms that Egyptian President el-Si..."](/statements/statement-3bb428c91aab.md)
-  - Also about: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [SU-BTU](/entities/vehicle-su-btu.md)
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>
 
 - [00:16:52](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) (Claim) **Candace Owens**: ["Egyptian President el-Sisi flew aboard aircraft SUBTU on April 3rd, 20..."](/statements/statement-aa88b9c5ccfc.md)
-  - Also about: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)
+  - Also about: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [SU-BTU](/entities/vehicle-su-btu.md)
 
 </details>
 

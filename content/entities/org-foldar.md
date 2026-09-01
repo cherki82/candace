@@ -26,9 +26,9 @@ Source: [About | FoldAR](https://foldar.com/about/)
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>26</strong></div>
+<div><span>Statements about</span><strong>28</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -53,6 +53,10 @@ Source: [About | FoldAR](https://foldar.com/about/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -307,7 +311,7 @@ Source: [About | FoldAR](https://foldar.com/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FoldAR (26)</strong></summary>
+<summary><strong class="section-title">Statements about FoldAR (28)</strong></summary>
 
 <details>
 <summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (7)</summary>
@@ -353,7 +357,7 @@ Source: [About | FoldAR](https://foldar.com/about/)
 </details>
 
 <details>
-<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (15)</summary>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (17)</summary>
 
 - [00:18:02](/episodes/ep-jsqUIkszZd0.md#t-00-18-02) (Claim) **Corby Hall** (via quoted document): ["Corby Hall is the inventor, founder, and sole owner of FoldAR, which p..."](/statements/statement-616d26308603.md)
   - Also about: [Corby Hall](/entities/person-corby-hall.md)
@@ -372,6 +376,9 @@ Source: [About | FoldAR](https://foldar.com/about/)
 
 - [00:25:43](/episodes/ep-jsqUIkszZd0.md#t-00-25-29) (Accusation) **Victor Marx** (via quoted document): ["In late fall 2024, Victor Marx told Corby Hall that he needed 50 rifle..."](/statements/statement-86f6c265cf9b.md)
   - Also about: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md), [Haiti](/entities/gpe-haiti.md)
+
+- [00:28:17](/episodes/ep-jsqUIkszZd0.md#t-00-28-07) (Claim) **Corby Hall** (via read message): ["Corby Hall said he left a long-range-configured FoldAR rifle with Vict..."](/statements/statement-3c617ac3cdfa.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md)
 
 - [00:32:54](/episodes/ep-jsqUIkszZd0.md#t-00-32-54) (Claim) **Victor Marx** (via quoted document): ["Victor Marx told Corby Hall that SIG Sauer and Daniel Horner were disc..."](/statements/statement-2a8ed0098674.md)
   - Also about: [Victor Marx](/entities/person-victor-marx.md), [SIG SAUER](/entities/org-sig-sauer.md), [Daniel Horner](/entities/person-daniel-horner.md)
@@ -399,6 +406,9 @@ Source: [About | FoldAR](https://foldar.com/about/)
 
 - [00:39:31](/episodes/ep-jsqUIkszZd0.md#t-00-39-31) (Claim) **Anonymous Source #1 (Ep jsqUIkszZd0)** (via read message): ["The Texas deputy told Corby Hall that the ATF had never contacted him ..."](/statements/statement-91fcc83aaace.md)
   - Also about: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Corby Hall](/entities/person-corby-hall.md)
+
+- [00:58:03](/episodes/ep-jsqUIkszZd0.md#t-00-57-26) (Opinion) **Candace Owens**: ["Candace Owens explicitly said it was unknown whether the ATF-traced Fo..."](/statements/statement-c0a4ed126ccc.md)
+  - Also about: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

@@ -22,9 +22,9 @@ Source: [United States Marshals Service - Jeffrey Epstein file](https://upload.w
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -45,6 +45,10 @@ Source: [United States Marshals Service - Jeffrey Epstein file](https://upload.w
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -96,13 +100,24 @@ Source: [United States Marshals Service - Jeffrey Epstein file](https://upload.w
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mark Epstein (1)</strong></summary>
+<summary><strong class="section-title">Statements about Mark Epstein (3)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
 
 - [00:20:38](/episodes/ep-IqHsl7d2dos.md#t-00-20-38) (Accusation) **Candace Owens**: ["Owens said underage foreign models recruited through MC2 were housed i..."](/statements/statement-71ebbf468dbd.md)
   - Also about: [MC2 Model Management](/entities/org-mc2-model-management.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2)</summary>
+
+- [00:03:00](/episodes/ep-5-HUyv9LyMg.md#t-00-03-00) (Accusation) **Candace Owens**: ["Candace Owens said viewers proposed 301 East 66th Street, a building o..."](/statements/statement-044ac4f70c98.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [301 East 66th Street](/entities/gpe-301-east-66th-street.md)
+
+- [00:05:09](/episodes/ep-5-HUyv9LyMg.md#t-00-05-00) (Citation) **Candace Owens** (via quoted article): ["Candace Owens cited civil filings and a New York Post account saying a..."](/statements/statement-1859ede26014.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [301 East 66th Street](/entities/gpe-301-east-66th-street.md)
 
 </details>
 

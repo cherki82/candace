@@ -3,11 +3,11 @@ title: "Owens said the particular .30-06 round would have decapitate..."
 description: "\"Owens said the particular .30-06 round would have decapitated Charlie Kirk and called the federal account of its trajectory ridiculous.\" — Candace Owens"
 statement_id: "statement-ef74ad894086"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "opinion"
 veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -39,16 +39,16 @@ veracity: "true"
 
 ### Analysis
 
-TPUSA's official event page confirms AmericaFest 2025 began December 18 and ran through December 21. The legacy false determination incorrectly substituted the 2024 dates; current evidence corrects that history without deleting it.
+Verified only as attribution of Owens’s opinion. The episode records her saying the round would have decapitated Kirk and rejecting the reported trajectory. The reproduced water-jug/dummy test is not an anatomical or scene-matched forensic reconstruction, so it does not verify her terminal-ballistics conclusion.
 
 **Confidence:** High
 
 **Sources:**
 
-- [America Fest 2025](https://tpusa.com/events/america-fest/)
+- [Who Stood To Benefit From Charlie Kirk’s Assassination? | Candace Ep 276](https://www.youtube.com/watch?v=Kmt6HgRjckU)
 
-*Verified: 2026-08-26T09:08:00.851645*
+*Verified: 2026-08-31T23:36:44.329436*
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** Yes

@@ -4,10 +4,9 @@ description: "\"the French Foreign Legion were apparently on the ground on the d
 statement_id: "statement-9dda70f256f6"
 speaker: "Candace Owens"
 type: "factual_claim"
-veracity: "mixed"
 ---
 
-**Status:** ◐ Mixed
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -48,22 +47,7 @@ veracity: "mixed"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-This claim has the qualifier 'apparently' which makes it a report of an allegation rather than a factual assertion. Candace Owens did make this allegation on Nov 22, 2025, asking 'Do you mind answering yes or no if anyone who trained with the French Foreign Legion was on the ground on September 10 at Utah Valley University?' So the allegation WAS made. However, French Ministry of Armed Forces denied Robinson trained with Legion, and there is no evidence of Legion personnel in Utah on 9/10/25. The allegation itself is documented but unsubstantiated. Marking as MIXED: the allegation was made (true) but lacks evidence (false).
-
-**Confidence:** Medium
-
-**Sources:**
-
-- [No, Candace Owens: Charlie Kirk's Alleged Assassin Did Not Train with the French Army](https://www.newsguardrealitycheck.com/p/no-candace-owens-charlie-kirks-alleged)
-- [Non-debunking debunk: Candace Owens reacts after French ministry spokesperson rejects her allegations over spelling error](https://www.sportskeeda.com/us/podcasts/news-non-debunking-debunk-candace-owens-reacts-french-ministry-spokesperson-rejects-allegations-spelling-error)
-- [Candace Owens Begs FBI: Charlie Kirk's Death Was a 'Multinationally Planned Event'](https://www.ibtimes.co.uk/candace-owens-begs-fbi-charlie-kirks-death-was-multinationally-planned-event-1759765)
-
-*Verified: 2025-12-09T08:31:46.687466*
+_This statement has not yet been verified._
 
 ---
 

@@ -29,9 +29,9 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <div><span>Episodes</span><strong>46</strong></div>
 <div><span>Mentions</span><strong>179</strong></div>
 <div><span>Statements by</span><strong>15</strong></div>
-<div><span>Statements about</span><strong>40</strong></div>
+<div><span>Statements about</span><strong>41</strong></div>
 <div><span>Relationships</span><strong>62</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -138,6 +138,10 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -1529,7 +1533,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rob McCoy (40)</strong></summary>
+<summary><strong class="section-title">Statements about Rob McCoy (41)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
@@ -1540,7 +1544,10 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
-<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2)</summary>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (3)</summary>
+
+- [00:39:31](/episodes/ep-y8lak3CRwDw.md#t-00-39-31) (Accusation) **Candace Owens**: ["A number of people surrounding Charlie Kirk had some proximity or pers..."](/statements/statement-94895eac74ac.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md)
 
 - [00:39:48](/episodes/ep-y8lak3CRwDw.md#t-00-39-31) (Claim) **Candace Owens**: ["Rob McCoy lost two congregants in the 2018 Thousand Oaks Borderline Ba..."](/statements/statement-804704e47bf6.md)
   - Also about: [Thousand Oaks](/entities/gpe-thousand-oaks.md), [Borderline Bar and Grill](/entities/org-borderline-bar-and-grill.md)

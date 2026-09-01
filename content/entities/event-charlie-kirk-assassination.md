@@ -31,7 +31,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <div><span>Episodes</span><strong>44</strong></div>
 <div><span>Mentions</span><strong>247</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>173</strong></div>
+<div><span>Statements about</span><strong>177</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1202,7 +1202,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk assassination (173)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk assassination (177)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (4)</summary>
@@ -1282,6 +1282,16 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2)</summary>
+
+- [00:18:38](/episodes/ep-BxN2-aeMYIs.md#t-00-18-20) (Accusation) **Candace Owens**: ["Candace Owens says she believes the people using national-security fra..."](/statements/statement-05bce4d17c18.md)
+
+- [00:30:04](/episodes/ep-BxN2-aeMYIs.md#t-00-29-58) (Accusation) **Candace Owens**: ["Candace Owens suggests that the people most aggressively defending the..."](/statements/statement-13c9fd6b8d6d.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>
 
 - [00:50:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-50-38) (Claim) **Candace Owens**: ["There is no evidence Charlie Kirk was shot."](/statements/statement-7654c362de7a.md)
@@ -1301,6 +1311,25 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 
 - [00:35:28](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28) (Accusation) **Candace Owens**: ["Turning Point USA would not help the public investigate Charlie Kirk's..."](/statements/statement-d395be83c9bf.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1)</summary>
+
+- [00:23:15](/episodes/ep-BKcOm32ZEGk.md#t-00-22-34) (Opinion) **Candace Owens**: ["Owens said Kirk's assassination backfired by catalyzing the loss of co..."](/statements/statement-e60428fdd144.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Deep state](/entities/concept-deep-state.md)
+
+</details>
+
+<details>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2)</summary>
+
+- [00:11:30](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Opinion) **Candace Owens**: ["Owens theorized that Kirk's assassination was made globally visible so..."](/statements/statement-8dbeeb0d8f16.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [Messianism](/entities/concept-messianism.md)
+
+- [00:42:00](/episodes/ep-CMcktj3Egfo.md#t-00-41-50) (Accusation) **Candace Owens**: ["Owens said she believed Kirk was murdered because pro-Israel actors co..."](/statements/statement-caae9248df55.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
 
 </details>
 
@@ -1367,24 +1396,22 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (7)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (6)</summary>
 
 - [00:00:53](/episodes/ep-DqGNvi36ol8.md#t-00-00-41) (Opinion) **Candace Owens**: ["I have probably looked at more footage from September 10th than any hu..."](/statements/statement-4133530415b2.md)
 
 - [00:03:55](/episodes/ep-DqGNvi36ol8.md#t-00-03-41) (Opinion) **Candace Owens**: ["I believe in my heart and in my rational mind that Charlie Kirk's assa..."](/statements/statement-e054d5b0731f.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:11:35](/episodes/ep-DqGNvi36ol8.md#t-00-11-19) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was about as organic as John McCain leadi..."](/statements/statement-6873b7794fe9.md)
-  - Also about: [John McCain](/entities/person-john-mccain.md)
-
-- [00:13:00](/episodes/ep-DqGNvi36ol8.md#t-00-12-38) (Accusation) **Candace Owens**: ["I am beginning to suspect that our maroon boys in general were tasked ..."](/statements/statement-c0ea94abfe18.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [John McCain](/entities/person-john-mccain.md)
 
 - [00:16:57](/episodes/ep-DqGNvi36ol8.md#t-00-16-48) (Claim) **Emmanuel Bierer** (via quoted speech): ["I hear this loud sound and I'm like, that wasn't what I thought it was..."](/statements/statement-7ad6821f1818.md)
 
-- [00:43:41](/episodes/ep-DqGNvi36ol8.md#t-00-43-37) (Claim) **Candace Owens** (via paraphrase): ["The person who shot the video said he didn't see the shooter take the ..."](/statements/statement-518d930d55eb.md)
+- [00:26:00](/episodes/ep-DqGNvi36ol8.md#t-00-25-44) (Opinion) **Candace Owens**: ["I suspect that our maroon boys in general were tasked with taking foot..."](/statements/statement-fb9d542b32d5.md)
 
 - [00:43:47](/episodes/ep-DqGNvi36ol8.md#t-00-43-37) (Claim) **Candace Owens** (via read message): ["A news station at the CK Memorial talked to attendees for three hours ..."](/statements/statement-7e27c29aa9ad.md)
   - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:44:33](/episodes/ep-DqGNvi36ol8.md#t-00-44-21) (Claim) **Candace Owens**: ["The eyewitness who filmed the roof footage said he did not see the per..."](/statements/statement-9cbbfa5d5670.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

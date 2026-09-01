@@ -27,9 +27,9 @@ Source: [About | NEXT Management](https://nextmanagement.com/about?location=recr
 <div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -62,6 +62,10 @@ Source: [About | NEXT Management](https://nextmanagement.com/about?location=recr
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -379,7 +383,7 @@ Source: [About | NEXT Management](https://nextmanagement.com/about?location=recr
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about NEXT Management (20)</strong></summary>
+<summary><strong class="section-title">Statements about NEXT Management (22)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3)</summary>
@@ -433,10 +437,13 @@ Source: [About | NEXT Management](https://nextmanagement.com/about?location=recr
 </details>
 
 <details>
-<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (5)</summary>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (7)</summary>
 
 - [00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28) (Claim) **Candace Owens**: ["Candace Owens said NEXT Management was co-founded by Faith Kates, a de..."](/statements/statement-7a0bdaabab64.md)
   - Also about: [Faith Kates](/entities/person-faith-kates.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:02:52](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28) (Claim) **Candace Owens**: ["Candace Owens said Jeffrey Epstein frequently visited NEXT Management'..."](/statements/statement-708e15cf22dc.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Faith Kates](/entities/person-faith-kates.md)
 
 - [00:02:59](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-59) (Claim) **Candace Owens**: ["Candace Owens said Faith Kates knew Jeffrey Epstein before co-founding..."](/statements/statement-31a1b85834d9.md)
   - Also about: [Faith Kates](/entities/person-faith-kates.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Wilhelmina Models](/entities/org-wilhelmina-models.md)
@@ -446,6 +453,9 @@ Source: [About | NEXT Management](https://nextmanagement.com/about?location=recr
 
 - [00:07:16](/episodes/ep-H9p2ZGHAs9A.md#t-00-07-16) (Claim) **Anonymous NEXT Management Eyewitnesses (Ep H9p2ZGHAs9A)** (via quoted speech): ["Anonymous NEXT Management eyewitnesses recalled Erika Kirk as the cont..."](/statements/statement-6a1a6e70bb58.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Upper East Side](/entities/gpe-upper-east-side.md)
+
+- [00:07:51](/episodes/ep-H9p2ZGHAs9A.md#t-00-07-16) (Citation) **Candace Owens** (via paraphrase): ["Candace Owens said the anonymous NEXT Management sources did not know ..."](/statements/statement-8ee54917f8f1.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:07:55](/episodes/ep-H9p2ZGHAs9A.md#t-00-07-55) (Claim) **Candace Owens**: ["Candace Owens said Erika Kirk did not yet have a real-estate license w..."](/statements/statement-6585b39ef706.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)

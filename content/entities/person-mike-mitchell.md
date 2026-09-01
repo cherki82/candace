@@ -27,7 +27,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <div><span>Episodes</span><strong>13</strong></div>
 <div><span>Mentions</span><strong>57</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -487,7 +487,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mike Mitchell (13)</strong></summary>
+<summary><strong class="section-title">Statements about Mike Mitchell (14)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4)</summary>
@@ -531,7 +531,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 </details>
 
 <details>
-<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (5)</summary>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (6)</summary>
 
 - [00:30:51](/episodes/ep-7ERqbYElOfs.md#t-00-30-51) (Claim) **Anonymous Source #3 (Ep 7ERqbYElOfs)** (via read message): ["Tyler Robinson repeatedly said he was not guilty and was surprised whe..."](/statements/statement-1b41de1c930f.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -541,6 +541,9 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 
 - [00:35:31](/episodes/ep-7ERqbYElOfs.md#t-00-35-31) (Claim) **Nate Brooksby** (via quoted speech): ["At 8:02 p.m. on September 11, a retired detective told Nate Brooksby t..."](/statements/statement-a857c7bb9553.md)
   - Also about: [Nate Brooksby](/entities/person-nate-brooksby.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:41](/episodes/ep-7ERqbYElOfs.md#t-00-37-12) (Opinion) **Candace Owens**: ["Candace Owens said her theory that Mike Mitchell worked with federal a..."](/statements/statement-0df5e407ed6c.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:37:41](/episodes/ep-7ERqbYElOfs.md#t-00-37-12) (Opinion) **Candace Owens**: ["Mike Mitchell was working with federal agents to put the Charlie Kirk ..."](/statements/statement-4f479f057f03.md)
   - Also about: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)

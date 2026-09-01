@@ -30,9 +30,9 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -63,6 +63,10 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -294,7 +298,7 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point Faith (14)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point Faith (15)</strong></summary>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
@@ -336,10 +340,13 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (4)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (5)</summary>
 
-- [00:11:26](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Accusation) **Candace Owens**: ["Turning Point Faith was intended to turn Charlie Kirk into a controlla..."](/statements/statement-14661745d0ac.md)
+- [00:11:30](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Accusation) **Candace Owens**: ["Turning Point Faith was intended to turn Charlie Kirk into a controlla..."](/statements/statement-14661745d0ac.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Messianism](/entities/concept-messianism.md)
+
+- [00:11:30](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Opinion) **Candace Owens**: ["Owens theorized that Kirk's assassination was made globally visible so..."](/statements/statement-8dbeeb0d8f16.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Messianism](/entities/concept-messianism.md)
 
 - [00:27:40](/episodes/ep-CMcktj3Egfo.md#t-00-27-10) (Accusation) **Candace Owens**: ["Candace Owens said Turning Point Faith was intended to be the Moonies ..."](/statements/statement-a8c533e3ee9c.md)
   - Also about: [Unification Church](/entities/org-unification-church.md), [One-world government](/entities/concept-one-world-government.md)

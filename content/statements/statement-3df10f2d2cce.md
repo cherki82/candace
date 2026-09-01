@@ -4,9 +4,10 @@ description: "\"Owens said she thought Ben Shapiro knew something about Erika Ki
 statement_id: "statement-3df10f2d2cce"
 speaker: "Candace Owens"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified only as attribution of Owens’s opinion: she said she sensed Shapiro knew something about Erika Kirk and was fearful. No evidence in the episode establishes what he knew or connects him to planning, foreknowledge, or the killing.
+
+**Confidence:** High
+
+**Sources:**
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](https://www.youtube.com/watch?v=w1oqQbR_bYs)
+
+*Verified: 2026-08-31T23:53:56.003567*
 
 ---
 

@@ -1,14 +1,14 @@
 ---
 id: "uC_GjKU8rs8"
 title: "Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332"
-description: "Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 - 114 entities, 15 events, 11 factual claims"
+description: "Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 - 114 entities, 15 events, 13 factual claims"
 published: "2026-05-04"
 youtube_url: "https://www.youtube.com/watch?v=uC_GjKU8rs8"
 ---
 
 **Published:** 2026-05-04 | [Watch on YouTube](https://www.youtube.com/watch?v=uC_GjKU8rs8)
 
-**Stats:** 114 entities | 15 events | 11 factual claims
+**Stats:** 114 entities | 15 events | 13 factual claims
 
 ---
 
@@ -467,7 +467,7 @@ youtube_url: "https://www.youtube.com/watch?v=uC_GjKU8rs8"
 </details>
 
 <details>
-<summary><strong>Statements (34)</strong></summary>
+<summary><strong>Statements (38)</strong></summary>
 
 - [00:00:08](#t-00-00-00) [◐] (Accusation) **Candace Owens**: ["People were doxing Candace Owens’s home address."](/statements/statement-210370686e17.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
@@ -495,6 +495,8 @@ youtube_url: "https://www.youtube.com/watch?v=uC_GjKU8rs8"
   - About: [Candace Owens](/entities/person-candace-owens.md)
 - [00:17:37](#t-00-17-37) [○] (Opinion) **Ben Shapiro**: ["Megyn Kelly remains a coward."](/statements/statement-407aefc04810.md)
   - About: [Megyn Kelly](/entities/person-megyn-kelly.md)
+- [00:17:37](#t-00-17-37) [○] (Accusation) **Ben Shapiro**: ["Ben Shapiro affirmed that Candace Owens was accusing Erika Kirk of murdering Cha..."](/statements/statement-1d3457195e75.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:22:11](#t-00-21-46) [○] (Opinion) **Ben Shapiro**: ["Candace Owens’s audience members are complicit because she monetizes their gulli..."](/statements/statement-edcc66fd6d63.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 - [00:25:53](#t-00-25-20) [◐] (Accusation) **Candace Owens**: ["Are we to believe it is merely a coincidence that Jacob William Roth, Ben Shapir..."](/statements/statement-fda6115f1efa.md)
@@ -525,14 +527,20 @@ youtube_url: "https://www.youtube.com/watch?v=uC_GjKU8rs8"
   - About: [Israel Ministry of Foreign Affairs](/entities/org-israel-ministry-of-foreign-affairs.md), [Brad Parscale](/entities/person-brad-parscale.md), [Bridges Partners LLC](/entities/org-bridges-partners.md)
 - [00:39:25](#t-00-39-25) [✓] (Claim) **Candace Owens**: ["Dhillon Law Group filed FARA paperwork for and represents Show Faith by Works."](/statements/statement-c2909bc132bb.md)
   - About: [Dhillon Law Group](/entities/org-dhillon-law-group.md), [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Foreign Agents Registration Act](/entities/law-fara.md)
+- [00:39:32](#t-00-39-25) [○] (Claim) **Candace Owens**: ["Candace Owens said Show Faith by Works was initially contracted by Havas Media o..."](/statements/statement-cfdb0c2cc939.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:40:13](#t-00-40-13) [✓] (Claim) **Andrew Kolvet**: ["Geotagging partners tracked more than 277,000 devices near State Farm Stadium in..."](/statements/statement-8e858dacd31d.md)
   - About: [State Farm Stadium](/entities/org-state-farm-stadium.md), [Glendale, Arizona](/entities/gpe-glendale-arizona.md)
+- [00:41:07](#t-00-40-35) [○] (Claim) **Candace Owens**: ["Candace Owens said Andrew Kolvet did not identify TPUSA's geotagging partners an..."](/statements/statement-533ee7e7fb50.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:41:16](#t-00-41-16) [✓] (Citation) **Candace Owens**: ["The FARA documents specifically list geofencing and targeting in Tucson, Phoenix..."](/statements/statement-0844694d3bfd.md)
   - About: [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Tucson, Arizona](/entities/gpe-tucson-arizona.md), [Phoenix](/entities/gpe-phoenix.md)
 - [00:45:04](#t-00-44-59) [✓] (Claim) **Candace Owens**: ["Dream City Church, which hosted Charlie Kirk, Erika Kirk, and Donald Trump, is o..."](/statements/statement-55c1515fffb5.md)
   - About: [Dream City Church](/entities/org-dream-city-church.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:48:34](#t-00-48-34) [○] (Opinion) **Candace Owens**: ["Jeremy Boreing contributed to The Daily Wire’s debt by focusing on himself as th..."](/statements/statement-e59f29b1adae.md)
   - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+- [00:50:52](#t-00-50-13) [○] (Opinion) **Candace Owens**: ["Candace Owens said she hoped discovery in Harpole's lawsuit would provide access..."](/statements/statement-176416073914.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Dan Flood](/entities/person-dan-flood.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:57:26](#t-00-57-12) [?] (Accusation) **Candace Owens**: ["Was Zalman Shapiro the one who took all of the uranium to Israel? Candace Owens ..."](/statements/statement-bd7263012345.md)
   - About: [Zalman Mordecai Shapiro](/entities/person-zalman-shapiro.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Israel](/entities/gpe-israel.md)
 - [00:58:02](#t-00-57-56) [?] (Accusation) **Candace Owens**: ["Tyler Robinson was not alone on a rooftop in the murder of Charlie Kirk."](/statements/statement-82bf3a6aac6c.md)

@@ -1,14 +1,14 @@
 ---
 id: "2T39-oADLj0"
 title: "Myron Gaines x Candace Owens"
-description: "Myron Gaines x Candace Owens - 143 entities, 15 events, 20 factual claims"
+description: "Myron Gaines x Candace Owens - 143 entities, 15 events, 21 factual claims"
 published: "2026-01-16"
 youtube_url: "https://www.youtube.com/watch?v=2T39-oADLj0"
 ---
 
 **Published:** 2026-01-16 | [Watch on YouTube](https://www.youtube.com/watch?v=2T39-oADLj0)
 
-**Stats:** 143 entities | 15 events | 20 factual claims
+**Stats:** 143 entities | 15 events | 21 factual claims
 
 ---
 
@@ -1992,7 +1992,7 @@ youtube_url: "https://www.youtube.com/watch?v=2T39-oADLj0"
 </details>
 
 <details>
-<summary><strong>Statements (48)</strong></summary>
+<summary><strong>Statements (50)</strong></summary>
 
 - [00:00:51](#t-00-00-39) [○] (Claim) **Myron Gaines**: ["One of the women Candace Owens spoke to on After Hours quit OnlyFans that day."](/statements/statement-e3e763ac319f.md)
   - About: [OnlyFans](/entities/org-onlyfans.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -2070,8 +2070,12 @@ youtube_url: "https://www.youtube.com/watch?v=2T39-oADLj0"
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
 - [01:02:01](#t-01-01-57) [○] (Opinion) **Candace Owens**: ["Candace Owens does not believe Tyler Robinson killed Charlie Kirk."](/statements/statement-fea6612c6404.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [01:02:42](#t-01-02-42) [○] (Claim) **Candace Owens**: ["Owens said a person who recorded rooftop footage was military-affiliated and rou..."](/statements/statement-36ded51245ce.md)
+  - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 - [01:03:17](#t-01-03-01) [✓] (Claim) **Anonymous Source #1 (Ep 2T39-oADLj0)**: ["According to Candace Owens's anonymous source, something military-related was in..."](/statements/statement-426165d54ef7.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md)
+- [01:03:17](#t-01-03-01) [○] (Accusation) **Candace Owens**: ["Owens said the fatal shooter was more likely positioned in the audience or besid..."](/statements/statement-8c1ffae76450.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [01:03:36](#t-01-03-36) [◐] (Claim) **Candace Owens**: ["Charlie Kirk was not shot with a .30-06, and the bullet did not destroy his neck..."](/statements/statement-1de490c6769b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [01:06:30](#t-01-06-18) [○] (Accusation) **Candace Owens**: ["Tyler Robinson's prints were not the only prints on the gun, and officials had n..."](/statements/statement-e85799e88406.md)

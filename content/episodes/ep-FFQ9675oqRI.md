@@ -1,14 +1,14 @@
 ---
 id: "FFQ9675oqRI"
 title: "STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335"
-description: "STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 - 93 entities, 8 events, 9 factual claims"
+description: "STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 - 93 entities, 8 events, 10 factual claims"
 published: "2026-05-07"
 youtube_url: "https://www.youtube.com/watch?v=FFQ9675oqRI"
 ---
 
 **Published:** 2026-05-07 | [Watch on YouTube](https://www.youtube.com/watch?v=FFQ9675oqRI)
 
-**Stats:** 93 entities | 8 events | 9 factual claims
+**Stats:** 93 entities | 8 events | 10 factual claims
 
 ---
 
@@ -328,10 +328,12 @@ youtube_url: "https://www.youtube.com/watch?v=FFQ9675oqRI"
 </details>
 
 <details>
-<summary><strong>Statements (30)</strong></summary>
+<summary><strong>Statements (34)</strong></summary>
 
 - [00:00:01](#t-00-00-01) [✓] (Promise) **Charlie Kirk**: ["I appoint my wife to run Turning Point USA if something happens to me; Erika wou..."](/statements/statement-a0fcbbba06ce.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:00:01](#t-00-00-01) [○] (Claim) **Candace Owens**: ["Thirty-five days after Owens publicly requested the footage of Charlie Kirk appo..."](/statements/statement-22ea045574ac.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:02:11](#t-00-01-56) [✓] (Citation) **Candace Owens**: ["FARA records state that Show Faith by Works, whose principal is Israel’s Ministr..."](/statements/statement-6f3e8139d6da.md)
   - About: [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Israel Ministry of Foreign Affairs](/entities/org-israel-ministry-of-foreign-affairs.md), [Christians](/entities/concept-christians.md)
 - [00:08:03](#t-00-08-03) [○] (Opinion) **Graham Allen**: ["Graham Allen wrote that Erika Kirk appeared to be suffering horrific exposure an..."](/statements/statement-46a79d008b10.md)
@@ -350,6 +352,8 @@ youtube_url: "https://www.youtube.com/watch?v=FFQ9675oqRI"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [White House](/entities/org-white-house.md)
 - [00:14:08](#t-00-13-49) [○] (Opinion) **Candace Owens**: ["Candace Owens said she believed Sara Sidner probably received the Erika Kirk vid..."](/statements/statement-827c61862580.md)
   - About: [Sara Sidner](/entities/person-sara-sidner.md), [CNN](/entities/org-cnn.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:14:59](#t-00-14-26) [○] (Opinion) **Candace Owens**: ["If the viral White House Correspondents' Dinner clip was staged, Erika Kirk may ..."](/statements/statement-3ed442208164.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 - [00:22:01](#t-00-22-01) [◐] (Accusation) **Candace Owens**: ["Candace Owens accused AIPAC of giving members of Congress money so they would pr..."](/statements/statement-fe64c89c0ecd.md)
   - About: [American Israel Public Affairs Committee](/entities/org-aipac.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
 - [00:22:26](#t-00-22-01) [◐] (Accusation) **Candace Owens**: ["Candace Owens said Donald Trump was teaming up with AIPAC to unseat Thomas Massi..."](/statements/statement-84302ce54138.md)
@@ -370,6 +374,10 @@ youtube_url: "https://www.youtube.com/watch?v=FFQ9675oqRI"
   - About: [Thomas Massie](/entities/person-thomas-massie.md), [Israel lobby](/entities/concept-israel-lobby.md), [Republican Party](/entities/org-republican-party.md)
 - [00:25:54](#t-00-25-30) [○] (Opinion) **Candace Owens**: ["Candace Owens said the United States government and the Trump administration wer..."](/statements/statement-c7818ed8e19d.md)
   - About: [United States](/entities/gpe-united-states.md), [Donald J. Trump](/entities/person-donald-trump.md)
+- [00:26:22](#t-00-26-15) [○] (Accusation) **Candace Owens**: ["A major part of the Charlie Kirk story is a public-relations war trying to convi..."](/statements/statement-174dd433bdc7.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:27:03](#t-00-26-57) [○] (Accusation) **Candace Owens**: ["Andrew Kolvet is at the center of dirty public-relations tricks involving YouTub..."](/statements/statement-0ad5e2617000.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 - [00:28:30](#t-00-28-22) [?] (Accusation) **Candace Owens**: ["Candace Owens accused House Inhabit of posting a fake AI image of her husband Ge..."](/statements/statement-bdf00dbc7bd6.md)
   - About: [House Inhabit](/entities/work-house-inhabit.md), [George Farmer](/entities/person-george-farmer.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)
 - [00:30:47](#t-00-30-30) [✓] (Citation) **Candace Owens**: ["Candace Owens cited the Daily Mail as confirming that the escort-site review was..."](/statements/statement-ea8c06f2abed.md)

@@ -395,9 +395,10 @@ youtube_url: "https://www.youtube.com/watch?v=QdM9jLwjwLw"
 </details>
 
 <details>
-<summary><strong>Statements (42)</strong></summary>
+<summary><strong>Statements (44)</strong></summary>
 
 - [00:01:32](#t-00-01-26) [✓] (Claim) **Candace Owens**: ["Owens said the prior episode mistakenly showed Bob Ferguson as Bob Flood, that F..."](/statements/statement-b8e728ebea82.md)
+  - About: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md)
 - [00:02:40](#t-00-02-40) [○] (Accusation) **Candace Owens**: ["I believe Erika Kirk was intimately involved in PR messaging and campaigns again..."](/statements/statement-47efce043ea4.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:03:02](#t-00-03-02) [○] (Accusation) **Candace Owens**: ["Erika Kirk lied about Andrew Kolvet and Dr. Lee Trotter going rogue and violatin..."](/statements/statement-2824555a224c.md)
@@ -416,6 +417,8 @@ youtube_url: "https://www.youtube.com/watch?v=QdM9jLwjwLw"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [00:10:12](#t-00-09-48) [○] (Claim) **Candace Owens**: ["The Turning Point USA board selected Erika Kirk as CEO within about 72 hours of ..."](/statements/statement-13637339e6d4.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+- [00:12:40](#t-00-12-04) [✓] (Opinion) **Candace Owens**: ["Owens said Turning Point USA may have rushed Erika Kirk's appointment for symbol..."](/statements/statement-891c7629627d.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:13:03](#t-00-12-40) [○] (Claim) **Candace Owens**: ["No member of Erika Kirk's immediate family was at the hospital; she was accompan..."](/statements/statement-0b1bd3df5a88.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:13:50](#t-00-13-22) [○] (Claim) **Candace Owens**: ["Stacy Sheridan, Turning Point USA's head of fundraising, filmed Charlie Kirk in ..."](/statements/statement-f9592bce4f7b.md)
@@ -476,6 +479,8 @@ youtube_url: "https://www.youtube.com/watch?v=QdM9jLwjwLw"
   - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Hungary](/entities/gpe-hungary.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 - [00:58:26](#t-00-58-26) [○] (Claim) **Anonymous Source #1 (Ep QdM9jLwjwLw)**: ["Current and former Turning Point USA employees told Owens that Erika Kirk was in..."](/statements/statement-ef51a8d54215.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Marina Minas](/entities/person-marina-minas.md)
+- [01:00:15](#t-01-00-04) [✓] (Opinion) **Candace Owens**: ["Owens said that during a bargaining phase she hoped Kirk was secretly alive, but..."](/statements/statement-1c32b6cd2fb4.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [01:03:05](#t-01-02-39) [○] (Accusation) **Candace Owens**: ["Jeremy Boreing repeatedly threatened that The Daily Wire would bankrupt me if I ..."](/statements/statement-41320863a4cd.md)
   - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 - [01:08:14](#t-01-07-56) [○] (Claim) **Candace Owens**: ["The Daily Wire denied my request to host Bassem Youssef while I worked there."](/statements/statement-97b38798c1ab.md)

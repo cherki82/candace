@@ -1,6 +1,6 @@
 ---
-title: "Candace Owens said a defense motion indicates Tyler Robinson..."
-description: "\"Candace Owens said a defense motion indicates Tyler Robinson had been Mirandized and was being interviewed at a police station at 6:25 p.m. on Septemb...\" — Candace Owens"
+title: "Candace Owens said she interpreted a defense motion as showi..."
+description: "\"Candace Owens said she interpreted a defense motion as showing Tyler Robinson had been Mirandized and was at a police station at 6:25 p.m. on Septembe...\" — Candace Owens"
 statement_id: "statement-d2e836242bc0"
 speaker: "Candace Owens"
 type: "citation"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Candace Owens said a defense motion indicates Tyler Robinson had been Mirandized and was being interviewed at a police station at 6:25 p.m. on September 11.
+> Candace Owens said she interpreted a defense motion as showing Tyler Robinson had been Mirandized and was at a police station at 6:25 p.m. on September 11, while acknowledging the date was not stated in the excerpt she read.
 
 ## Attribution
 

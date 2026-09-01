@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 985 mentions"
+description: "Donald J. Trump (People) - 984 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -30,11 +30,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-37-05">2026-08-19 · 00:37:05</a></strong></div>
 <div><span>Episodes</span><strong>132</strong></div>
-<div><span>Mentions</span><strong>985</strong></div>
+<div><span>Mentions</span><strong>984</strong></div>
 <div><span>Statements by</span><strong>36</strong></div>
-<div><span>Statements about</span><strong>228</strong></div>
+<div><span>Statements about</span><strong>231</strong></div>
 <div><span>Relationships</span><strong>155</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -114,7 +114,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-donald-trump-t-00-07-31" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-donald-trump-t-00-02-11" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 4 mentions" title="2026-03-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-donald-trump-t-00-43-03" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-28-01" style="--pulse-height:17%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 8 mentions" title="2026-03-25 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-28-01" style="--pulse-height:15%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 7 mentions" title="2026-03-25 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-donald-trump-t-00-13-58" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-donald-trump-t-00-25-03" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-donald-trump-t-00-38-57" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
@@ -251,7 +251,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-donald-trump-t-00-07-31) | 3 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-donald-trump-t-00-02-11) | 4 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-donald-trump-t-00-43-03) | 1 |
-| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-28-01) | 8 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-28-01) | 7 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-donald-trump-t-00-13-58) | 3 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-donald-trump-t-00-25-03) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-donald-trump-t-00-38-57) | 4 |
@@ -314,10 +314,14 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (985)</strong></summary>
+<summary><strong class="section-title">Raw mentions (984)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4 mentions)</summary>
@@ -2281,13 +2285,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (8 mentions)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (7 mentions)</summary>
 
 **[00:28:26](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-28-01)**
-> "trump"
-
-**[00:28:30](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-28-01)**
-> "...uld be the biggest thing with Trump saying, what Epstein files?"
+> "...uld be the biggest thing with trump saying uh what epstein files are we still talking..."
 
 **[00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-31-31)**
 > "...inated operations against the Trump administration for 22 months"
@@ -5543,7 +5544,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (228)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (231)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
@@ -5879,7 +5880,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2)</summary>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (3)</summary>
+
+- [00:02:34](/episodes/ep-7FS1tUeSfdE.md#t-00-02-23) (Opinion) **Candace Owens**: ["Candace Owens acknowledged that military coordination of safety messag..."](/statements/statement-9aa821cfa44b.md)
+  - Also about: [White House Military Office](/entities/org-white-house-military-office.md), [JD Vance](/entities/person-jd-vance.md)
 
 - [00:11:57](/episodes/ep-7FS1tUeSfdE.md#t-00-11-27) (Claim) **White House Military Office** (via quoted document): ["The White House Military Office's approved message said the president ..."](/statements/statement-31abff6e63e0.md)
   - Also about: [White House Military Office](/entities/org-white-house-military-office.md)
@@ -6280,13 +6284,16 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (3)</summary>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (4)</summary>
 
 - [00:00:46](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) (Claim) **Candace Owens**: ["Charlie Kirk was at the White House and convinced Donald Trump that a ..."](/statements/statement-97b1ed9cf8ca.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
 
 - [00:04:11](/episodes/ep-jTj9Ip46r4w.md#t-00-04-11) (Opinion) **Charlie Kirk** (via quoted speech): ["Donald Trump was doing a phenomenal job resisting calls for regime cha..."](/statements/statement-12710c18ef75.md)
   - Also about: [Iran](/entities/gpe-iran.md), [Neoconservatism](/entities/concept-neoconservatism.md)
+
+- [00:06:17](/episodes/ep-jTj9Ip46r4w.md#t-00-05-39) (Opinion) **Andrew Kolvet**: ["Andrew Kolvet said Kirk trusted President Trump, looked for the bright..."](/statements/statement-b4c9033c0e49.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
 
 - [00:07:06](/episodes/ep-jTj9Ip46r4w.md#t-00-07-04) (Opinion) **Michael McCoy** (via quoted speech): ["Mikey McCoy was irritated to see people who did not know Charlie Kirk ..."](/statements/statement-be923152161f.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -6345,7 +6352,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (2)</summary>
+
+- [01:14:41](/episodes/ep-xjzb_t5Tk9o.md#t-01-14-26) (Opinion) **Candace Owens**: ["Owens said Netanyahu's immediate post-assassination denial and Trump's..."](/statements/statement-c99843036503.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 - [01:39:08](/episodes/ep-xjzb_t5Tk9o.md#t-01-39-08) (Opinion) **Candace Owens**: ["Asked whether she was still 'Team Trump,' Candace Owens answered no an..."](/statements/statement-dec0d6bb2431.md)
 

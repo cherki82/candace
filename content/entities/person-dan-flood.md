@@ -26,9 +26,9 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <div><span>Episodes</span><strong>38</strong></div>
 <div><span>Mentions</span><strong>105</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>40</strong></div>
+<div><span>Statements about</span><strong>49</strong></div>
 <div><span>Relationships</span><strong>21</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -119,6 +119,10 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -828,7 +832,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Flood (40)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Flood (49)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -889,7 +893,15 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (3)</summary>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
+
+- [00:50:52](/episodes/ep-uC_GjKU8rs8.md#t-00-50-13) (Opinion) **Candace Owens**: ["Candace Owens said she hoped discovery in Harpole's lawsuit would prov..."](/statements/statement-176416073914.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (4)</summary>
 
 - [00:17:29](/episodes/ep-69A8TzAGHlU.md#t-00-17-29) (Claim) **Candace Owens**: ["Candace Owens initially defended Brian Harpole and Dan Flood against h..."](/statements/statement-0bb68dad4d0c.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -898,6 +910,9 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Mitch Snow](/entities/person-mitch-snow.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:28:06](/episodes/ep-69A8TzAGHlU.md#t-00-27-52) (Accusation) **Candace Owens**: ["Brian Harpole presented Dan Flood's messages as though they were his o..."](/statements/statement-a49494525cd8.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:28:06](/episodes/ep-69A8TzAGHlU.md#t-00-27-52) (Claim) **Candace Owens**: ["Candace Owens said Brian Harpole's lawsuit acknowledged that the rooft..."](/statements/statement-e83fc00c4d34.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
 
 </details>
@@ -930,6 +945,17 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (2)</summary>
+
+- [00:07:07](/episodes/ep-mFuno0TuuQQ.md#t-00-06-56) (Accusation) **Candace Owens**: ["Owens said she warned Kirk specifically about Stacy Sheridan and warne..."](/statements/statement-04080850ecae.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+- [00:45:29](/episodes/ep-mFuno0TuuQQ.md#t-00-45-20) (Opinion) **Candace Owens**: ["Owens said Kirk's warning messages were sent by iMessage but allowed t..."](/statements/statement-b9c8aff0f1ff.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
+
+<details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (2)</summary>
 
 - [00:23:21](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11) (Claim) **Candace Owens**: ["Charlie Kirk's warning texts to Andrew Kolvet and Dan Flood followed a..."](/statements/statement-15a7393bbbc9.md)
@@ -952,6 +978,14 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
+<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
+
+- [00:54:06](/episodes/ep-A39g5oqB_eM.md#t-00-53-50) (Opinion) **Candace Owens**: ["Owens offered a charitable alternative that Charlie Kirk might have wi..."](/statements/statement-e43413aed65d.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1)</summary>
 
 - [00:12:13](/episodes/ep-GY6GWceEqtQ.md#t-00-12-01) (Accusation) **Candace Owens**: ["Candace Owens said Erika Kirk publicly denied that Charlie Kirk had sa..."](/statements/statement-b080a877b7b1.md)
@@ -960,7 +994,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (6)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (7)</summary>
 
 - [00:05:07](/episodes/ep-9naMwS0kMBE.md#t-00-05-07) (Claim) **Candace Owens**: ["Dan Flood's father ran intelligence at Fort Huachuca."](/statements/statement-3bc00d28c353.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
@@ -977,13 +1011,16 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 - [00:06:24](/episodes/ep-9naMwS0kMBE.md#t-00-06-24) (Claim) **Anonymous Source #1 (Ep 9naMwS0kMBE)** (via read message): ["Before Charlie Kirk's death, he and Dan Flood discussed demoting Flood..."](/statements/statement-e8c766cd374a.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
+- [00:59:49](/episodes/ep-9naMwS0kMBE.md#t-00-59-49) (Accusation) **Candace Owens**: ["Owens said Erika Kirk first learned from Owens about Charlie Kirk's de..."](/statements/statement-890947deab4d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [01:13:29](/episodes/ep-9naMwS0kMBE.md#t-01-13-00) (Accusation) **Anonymous Source #3 (Ep 9naMwS0kMBE)** (via read message): ["American Cancer Society fundraising through the Cattle Barons Ball was..."](/statements/statement-ee247c11a7d3.md)
   - Also about: [American Cancer Society](/entities/org-american-cancer-society.md)
 
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (4)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (5)</summary>
 
 - [00:05:42](/episodes/ep-NIEbqsLAK8g.md#t-00-05-25) (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)** (via read message): ["The email source claimed Dan Flood connected Charlie Kirk's alleged mo..."](/statements/statement-5af4e3a94351.md)
   - Also about: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
@@ -996,6 +1033,17 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 - [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-13-35) (Claim) **Candace Owens**: ["All of Charlie Kirk's security personnel on the day of his assassinati..."](/statements/statement-cb561dcf34d6.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rick Cutler](/entities/person-rick-cutler.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:16:00](/episodes/ep-NIEbqsLAK8g.md#t-00-15-32) (Accusation) **Candace Owens**: ["Owens posed a hypothetical that Dan Flood and Brian Harpole might have..."](/statements/statement-1b28998b14ea.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
+
+- [01:17:26](/episodes/ep-wcD2khO3rOA.md#t-01-17-26) (Opinion) **Candace Owens**: ["Owens said she did not believe that Dan Flood's hand signals and Rick ..."](/statements/statement-24cddd3c0599.md)
+  - Also about: [Rick Cutler](/entities/person-rick-cutler.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -1019,10 +1067,13 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
 
 - [00:06:34](/episodes/ep-es7PWdFGoFI.md#t-00-06-08) (Claim) **Anonymous Source #1 (Ep es7PWdFGoFI)** (via paraphrase): ["An unnamed person with access to Dan Flood's communications reportedly..."](/statements/statement-f4a80abe9a39.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:43](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens**: ["Owens said Erika Kirk and Justin Streiff confirmed during their privat..."](/statements/statement-f898b738a1f2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 - [00:07:21](/episodes/ep-es7PWdFGoFI.md#t-00-07-21) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said meeting participants clarified that Dan Flood's mes..."](/statements/statement-3e07e4f778ff.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)

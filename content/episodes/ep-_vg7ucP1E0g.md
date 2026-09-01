@@ -164,7 +164,7 @@ youtube_url: "https://www.youtube.com/watch?v=_vg7ucP1E0g"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-_vg7ucP1E0g/t-00-36-24.md" class="timestamp-link">00:36:24</a> <a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=2184" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I mean, I'll tell you guys in short, this woman was not actually a grieving widow. She wasn't a grieving widow. Actually, one could argue that she may have even been a psychopath for doing this, being able to do this after she killed her husband. March 4th, 2022 is when her husband Eric Richens was murdered<span id="event-event-2022-03-04-eric-richins-was-murdered-t-00-36-24"><a href="/events/event-2022-03-04-eric-richins-was-murdered.md" class="event-indicator" title="Timeline event">📅</a></span>, and it took them until May of 2023 to bring charges against her. So more than a year to build a case.<span id="event-event-2023-05-08-kouri-richins-was-charged-in-connection--t-00-36-24"><a href="/events/event-2023-05-08-kouri-richins-was-charged-in-connection-.md" class="event-indicator" title="Timeline event">📅</a></span> And do you know how they built that case? People who actually cared about Eric offered various details, and the point is that— well, none of these points and various details about how <span id="ent-person-erika-kirk-t-00-36-24"><a href="/entities/person-erika-kirk.md">Erika</a></span> is grieving would ever survive in a court of law. ^t-00-36-24
+**<a href="/timestamps/ep-_vg7ucP1E0g/t-00-36-24.md" class="timestamp-link">00:36:24</a> <a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=2184" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I mean, I'll tell you guys in short, this woman was not actually a grieving widow. She wasn't a grieving widow. Actually, one could argue that she may have even been a psychopath for doing this, being able to do this after she killed her husband. March 4th, 2022 is when her husband <span id="ent-person-eric-richins-t-00-36-24"><a href="/entities/person-eric-richins.md">Eric Richins</a></span> was murdered, and it took them until May of 2023<span id="event-event-2022-03-04-eric-richins-was-murdered-t-00-36-24"><a href="/events/event-2022-03-04-eric-richins-was-murdered.md" class="event-indicator" title="Timeline event">📅</a></span> to bring charges against her. So more than a year to build a case.<span id="event-event-2023-05-08-kouri-richins-was-charged-in-connection--t-00-36-24"><a href="/events/event-2023-05-08-kouri-richins-was-charged-in-connection-.md" class="event-indicator" title="Timeline event">📅</a></span> And do you know how they built that case? People who actually cared about Eric offered various details, and the point is that— well, none of these points and various details about how <span id="ent-person-erika-kirk-t-00-36-24"><a href="/entities/person-erika-kirk.md">Erika</a></span> is grieving would ever survive in a court of law. ^t-00-36-24
 
 **<a href="/timestamps/ep-_vg7ucP1E0g/t-00-37-06.md" class="timestamp-link">00:37:06</a> <a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=2226" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Ironically, in this case against <span id="ent-person-kouri-richins-t-00-37-06"><a href="/entities/person-kouri-richins.md">Kouri Richins</a></span>, for which she was ultimately found guilty, the prosecutors played the 9-1-1 call and said explicitly that it didn't sound like a grieving widow. OK, take a listen. ^t-00-37-06
 
@@ -277,7 +277,7 @@ youtube_url: "https://www.youtube.com/watch?v=_vg7ucP1E0g"
 </details>
 
 <details>
-<summary><strong>Statements (24)</strong></summary>
+<summary><strong>Statements (28)</strong></summary>
 
 - [00:00:16](#t-00-00-16) [○] (Claim) **Andrew Kolvet**: ["Erika Kirk never sought the limelight and was happy doing her own thing while su..."](/statements/statement-edd9e30c2635.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -296,6 +296,8 @@ youtube_url: "https://www.youtube.com/watch?v=_vg7ucP1E0g"
   - About: [United States Congress](/entities/org-united-states-congress.md)
 - [00:14:59](#t-00-14-53) [○] (Claim) **Candace Owens**: ["There is obviously a connection behind CIA director James Woolsey appearing in t..."](/statements/statement-5e38879647f3.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:19:40](#t-00-19-34) [○] (Prediction) **Charlie Kirk**: ["Charlie Kirk wrote: 'Anyway, I am not sure if I will live to see the end of this..."](/statements/statement-ff21063ae1d3.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:20:32](#t-00-20-15) [✓] (Opinion) **Kanye West**: ["Kanye West tweeted 'I love the way Candace thinks'"](/statements/statement-db65a10129a1.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 - [00:22:57](#t-00-22-57) [✓] (Claim) **Candace Owens**: ["Erika Kirk became a licensed New York real-estate agent on October 24, 2018 and ..."](/statements/statement-ed7c8a01755c.md)
@@ -318,12 +320,18 @@ youtube_url: "https://www.youtube.com/watch?v=_vg7ucP1E0g"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
 - [00:29:37](#t-00-29-11) [○] (Claim) **Candace Owens**: ["Charlie Kirk did not know that Erika Kirk was telling people she knew people in ..."](/statements/statement-cdfbfeacb437.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Kanye West](/entities/person-kanye-west.md)
+- [00:32:54](#t-00-32-29) [✓] (Opinion) **Candace Owens**: ["Candace Owens summarized a disputed theory that Erika Kirk may have had a billio..."](/statements/statement-946818176799.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:33:24](#t-00-33-13) [○] (Opinion) **Matt Walsh**: ["There is no good moral reason why Kouri Richins should not be taken outside the ..."](/statements/statement-608e16b7dda8.md)
+- [00:39:52](#t-00-39-07) [✓] (Opinion) **Candace Owens**: ["Candace Owens explicitly said her comparison to Kouri Richins was not a suggesti..."](/statements/statement-12b44fadc9f8.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:41:11](#t-00-40-46) [○] (Accusation) **Candace Owens**: ["Grieving widows do not lie about threats that their husbands were facing the nig..."](/statements/statement-6d285f8e8c34.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:41:20](#t-00-40-46) [○] (Accusation) **Candace Owens**: ["Grieving widows do not make up quotations that the surgeon never said about a Su..."](/statements/statement-b21d9fd06684.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:49:08](#t-00-48-49) [○] (Opinion) **Candace Owens**: ["Erika Kirk is fundamentally dishonest and should not be at the helm of Turning P..."](/statements/statement-fee5129173a8.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:49:21](#t-00-48-49) [✓] (Accusation) **Candace Owens**: ["Candace Owens said there were many unresolved problems with Erika Kirk's claimed..."](/statements/statement-d01ea5e38cc0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

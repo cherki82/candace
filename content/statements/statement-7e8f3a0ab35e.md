@@ -38,16 +38,15 @@ veracity: "true"
 
 ### Analysis
 
-The primary interview clip records the Qatari prime minister saying the United States requested the Hamas office/relationship, and NPR independently reports the same origin. The canonical record now assigns the original speaker and marks Owens as the paraphrasing conveyor.
+Verified only as attribution of Owens’s stated opinion: the primary episode records her calling trafficking plausible and speculating that Kirk may have resisted a global-governance network. This does not verify that such a network existed or was involved in the killing.
 
 **Confidence:** High
 
 **Sources:**
 
-- [The US Requested Qatar's Hamas Office](https://www.youtube.com/watch?v=cguu2JHa0rY)
-- [Qatar's role in the Israel-Hamas war explained](https://www.npr.org/2023/11/02/1210110109/qatar-israel-gaza-hamas-war)
+- [Who Stood To Benefit From Charlie Kirk’s Assassination? | Candace Ep 276](https://www.youtube.com/watch?v=Kmt6HgRjckU)
 
-*Verified: 2026-08-26T09:08:02.663994*
+*Verified: 2026-08-31T23:36:40.778536*
 
 ---
 

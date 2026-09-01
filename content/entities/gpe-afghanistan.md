@@ -24,7 +24,7 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -63,6 +63,10 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -147,7 +151,7 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 > "Afghanistan. It's very confusing. None of it makes any sense...."
 
 **[00:18:48](/episodes/ep-2tFYJf1klgY.md#ent-gpe-afghanistan-t-00-18-48)**
-> "...he government. She's maybe in Afghanistan or... at least creating tech that's going to be u..."
+> "She's already working with the government. She's maybe in Afghanistan, or at least creating tech that's going to be used in Afghanistan, and now, wow, this hero is jumping in and going, 'I'm going to help vulnerable children.'"
 
 **[00:35:36](/episodes/ep-2tFYJf1klgY.md#ent-gpe-afghanistan-t-00-35-26)**
 > "...be even knew each other since Afghanistan, but I'm going to wait until tomorrow to introduc..."

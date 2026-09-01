@@ -27,7 +27,7 @@ Source: [Graham Phillips (actor)](https://en.wikipedia.org/wiki/Graham_Phillips_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -100,19 +100,6 @@ Source: [Graham Phillips (actor)](https://en.wikipedia.org/wiki/Graham_Phillips_
 - [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:48:54](/episodes/ep-tXoI0TTKVrs.md#t-00-48-33): “In 2011, she was dating Graham Phillips, but he was at the time dating Allie Trimm, who was also a co-star in the musical where Graham met Ariana (Ariana Grande).”
 
 </details>
-
-</details>
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Statements about Graham Phillips (1)</strong></summary>
-
-<details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
-
-- [00:43:31](/episodes/ep-w1oqQbR_bYs.md#t-00-43-06) (Claim) **Candace Owens**: ["Owens said she found information indicating that Cabot Phillips's fath..."](/statements/statement-ac23843213dd.md)
-  - Also about: [Miriam Adelson](/entities/person-miriam-adelson.md), [Sheldon Adelson](/entities/person-sheldon-adelson.md)
 
 </details>
 

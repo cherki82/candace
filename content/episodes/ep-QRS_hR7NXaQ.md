@@ -274,7 +274,7 @@ youtube_url: "https://www.youtube.com/watch?v=QRS_hR7NXaQ"
 </details>
 
 <details>
-<summary><strong>Statements (49)</strong></summary>
+<summary><strong>Statements (51)</strong></summary>
 
 - [00:00:20](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Ben Shapiro watches every single minute of this show and directly quotes it all ..."](/statements/statement-dd60376fc435.md)
   - About: [Ben Shapiro](/entities/person-ben-shapiro.md)
@@ -340,6 +340,8 @@ youtube_url: "https://www.youtube.com/watch?v=QRS_hR7NXaQ"
   - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Europe](/entities/gpe-europe.md)
 - [00:28:18](#t-00-27-58) [○] (Claim) **Candace Owens**: ["Candace Owens said she had learned, and believed it accurate, that on September ..."](/statements/statement-68103e28f508.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+- [00:29:00](#t-00-28-41) [✓] (Opinion) **Candace Owens**: ["Owens said Lori Frantzve's Lyme disease was real and that intensive treatments o..."](/statements/statement-d66a52fb4514.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md)
 - [00:29:09](#t-00-28-41) [◐] (Claim) **Candace Owens**: ["Charlie Kirk returned from Korea and Tokyo very late on September 7 or early on ..."](/statements/statement-bbfcb0da24ce.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tokyo, Japan](/entities/gpe-tokyo-japan.md), [California](/entities/gpe-california.md)
 - [00:29:32](#t-00-29-18) [◐] (Claim) **Candace Owens**: ["Charlie Kirk appeared from his home studio on September 8, did not go to the off..."](/statements/statement-02ee1c00b0fd.md)
@@ -358,6 +360,8 @@ youtube_url: "https://www.youtube.com/watch?v=QRS_hR7NXaQ"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [00:32:19](#t-00-32-19) [○] (Accusation) **Candace Owens**: ["I think we were being emotionally manipulated not to ask questions about Lori Fr..."](/statements/statement-0d3fe45b5277.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+- [00:33:34](#t-00-33-03) [✓] (Accusation) **Candace Owens**: ["Owens said she was still having trouble confirming Erika Kirk's alibi and specul..."](/statements/statement-9270087ddf37.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:34:20](#t-00-33-44) [✓] (Promise) **Candace Owens**: ["Candace Owens will speak at the Catholics for Catholics conference in Washington..."](/statements/statement-2ebb604e6d76.md)
   - About: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 - [00:34:39](#t-00-34-29) [◐] (Accusation) **Candace Owens**: ["The Zionist lobby of Australia blocked Candace Owens's planned Australian tour."](/statements/statement-746f17570ab2.md)

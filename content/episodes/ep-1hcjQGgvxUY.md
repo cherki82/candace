@@ -1,14 +1,14 @@
 ---
 id: "1hcjQGgvxUY"
 title: "Okay…These Text Messages Are Crazy! | Candace Ep 307"
-description: "Okay…These Text Messages Are Crazy! | Candace Ep 307 - 121 entities, 25 events, 25 factual claims"
+description: "Okay…These Text Messages Are Crazy! | Candace Ep 307 - 121 entities, 25 events, 26 factual claims"
 published: "2026-02-13"
 youtube_url: "https://www.youtube.com/watch?v=1hcjQGgvxUY"
 ---
 
 **Published:** 2026-02-13 | [Watch on YouTube](https://www.youtube.com/watch?v=1hcjQGgvxUY)
 
-**Stats:** 121 entities | 25 events | 25 factual claims
+**Stats:** 121 entities | 25 events | 26 factual claims
 
 ---
 
@@ -380,7 +380,7 @@ youtube_url: "https://www.youtube.com/watch?v=1hcjQGgvxUY"
 </details>
 
 <details>
-<summary><strong>Statements (46)</strong></summary>
+<summary><strong>Statements (50)</strong></summary>
 
 - [00:00:47](#t-00-00-44) [○] (Claim) **Candace Owens**: ["Candace Owens immediately reached out to Jillian Falcon and spoke with her about..."](/statements/statement-a658084d11f2.md)
   - About: [Jillian Falcon](/entities/person-jillian-falcon.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -420,16 +420,22 @@ youtube_url: "https://www.youtube.com/watch?v=1hcjQGgvxUY"
   - About: [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:20:29](#t-00-20-09) [○] (Claim) **Candace Owens**: ["Candace Owens says someone visited Desert Spirit Tek's listed address and found ..."](/statements/statement-1aa9c0c7381b.md)
   - About: [Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+- [00:21:13](#t-00-20-53) [✓] (Accusation) **Candace Owens**: ["Candace Owens wondered whether Charlie Kirk had begun noticing an alleged patter..."](/statements/statement-591d4fb7de5b.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:21:40](#t-00-21-36) [○] (Claim) **Candace Owens**: ["Erika Kirk had not authored a tweet since 2023 and broke that silence on Septemb..."](/statements/statement-5f58859cf4b9.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Twitter](/entities/org-twitter.md)
 - [00:22:32](#t-00-22-02) [✓] (Claim) **Candace Owens**: ["On the day Charlie Kirk was assassinated, Erika Kirk tweeted at 9:45 a.m. Arizon..."](/statements/statement-32a5c5f80f7b.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Twitter](/entities/org-twitter.md)
 - [00:26:16](#t-00-26-09) [○] (Claim) **Candace Owens**: ["Candace Owens reports that Turning Point USA employees were told Erika Kirk rece..."](/statements/statement-72b97bc5a616.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:26:39](#t-00-26-09) [✓] (Claim) **Candace Owens**: ["Candace Owens said no neighbors she had heard from remembered seeing Erika Kirk ..."](/statements/statement-ca9274bf4c3d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:29:24](#t-00-29-04) [○] (Accusation) **Candace Owens**: ["Candace Owens believes September 10 was a military operation."](/statements/statement-79309b49d3b4.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Psychological operations](/entities/concept-psychological-operations.md)
 - [00:30:37](#t-00-30-37) [✗] (Citation) **Anonymous Source #2 (Ep 1hcjQGgvxUY)**: ["An anonymous TikTok creator says 40 FBI briefings mention a color of the day, an..."](/statements/statement-09584b6cf183.md)
   - About: [FBI](/entities/org-fbi.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:32:24](#t-00-32-12) [✓] (Opinion) **Candace Owens**: ["Candace Owens acknowledged that the alleged September 10 color-of-the-day refere..."](/statements/statement-aab37a22b0eb.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Psychological operations](/entities/concept-psychological-operations.md)
 - [00:32:42](#t-00-32-42) [○] (Accusation) **Candace Owens**: ["Candace Owens says the men wearing maroon at the Charlie Kirk event were somehow..."](/statements/statement-d75bf645cb20.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:33:01](#t-00-32-42) [✓] (Claim) **Candace Owens**: ["The wedding photo was missing from Charlie Kirk's home office during Erika Kirk'..."](/statements/statement-593298d40d44.md)
@@ -468,6 +474,8 @@ youtube_url: "https://www.youtube.com/watch?v=1hcjQGgvxUY"
   - About: [Dow Jones Industrial Average](/entities/concept-dow-jones-industrial-average.md), [S&P 500](/entities/concept-sp-500.md), [Nasdaq Composite](/entities/concept-nasdaq-composite.md)
 - [00:50:38](#t-00-50-14) [○] (Accusation) **Candace Owens**: ["Candace Owens says Alex Clark apparently demanded that Seth Dillon call Owens's ..."](/statements/statement-a831f72ad994.md)
   - About: [Alex Clark](/entities/person-alex-clark.md), [Seth Dillon](/entities/person-seth-dillon.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:56:27](#t-00-56-27) [✓] (Accusation) **Candace Owens**: ["Candace Owens accused Turning Point USA of using the broadcast assassination and..."](/statements/statement-b8484cf5e22b.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:57:19](#t-00-57-11) [○] (Accusation) **Candace Owens**: ["Candace Owens says she thinks Steven Crowder knew he was distributing 'Fed slop'..."](/statements/statement-65babe2d7be9.md)
   - About: [Steven Crowder](/entities/person-steven-crowder.md), [TMZ](/entities/org-tmz.md)
 - [00:57:57](#t-00-57-57) [○] (Opinion) **Candace Owens**: ["Candace Owens says it is time for authorities to bring Erika Kirk in because the..."](/statements/statement-810358959098.md)

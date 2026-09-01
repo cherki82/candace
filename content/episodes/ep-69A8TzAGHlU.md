@@ -1,14 +1,14 @@
 ---
 id: "69A8TzAGHlU"
 title: "BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331"
-description: "BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 - 87 entities, 15 events, 21 factual claims"
+description: "BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 - 87 entities, 15 events, 23 factual claims"
 published: "2026-04-30"
 youtube_url: "https://www.youtube.com/watch?v=69A8TzAGHlU"
 ---
 
 **Published:** 2026-04-30 | [Watch on YouTube](https://www.youtube.com/watch?v=69A8TzAGHlU)
 
-**Stats:** 87 entities | 15 events | 21 factual claims
+**Stats:** 87 entities | 15 events | 23 factual claims
 
 ---
 
@@ -339,7 +339,7 @@ youtube_url: "https://www.youtube.com/watch?v=69A8TzAGHlU"
 </details>
 
 <details>
-<summary><strong>Statements (45)</strong></summary>
+<summary><strong>Statements (48)</strong></summary>
 
 - [00:00:17](#t-00-00-01) [◐] (Accusation) **Candace Owens**: ["Erika Kirk wrongly asserted that Candace Owens accused her of murdering Charlie ..."](/statements/statement-d74309785fd1.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -361,6 +361,8 @@ youtube_url: "https://www.youtube.com/watch?v=69A8TzAGHlU"
   - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:09:28](#t-00-08-48) [✓] (Accusation) **Matthew Sarelson**: ["Candace Owens falsely accused Brian Harpole of failing to render effective aid, ..."](/statements/statement-8d57d975c7b5.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:09:44](#t-00-09-31) [○] (Claim) **Brian Harpole**: ["Brian Harpole's complaint said he did not play a role in Charlie Kirk's assassin..."](/statements/statement-05f2a31b2da1.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:10:31](#t-00-10-31) [✓] (Claim) **Brian Harpole**: ["Brian Harpole spent thousands of dollars on drones and obtained a licensed opera..."](/statements/statement-947ff90429d1.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Provo](/entities/gpe-provo.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 - [00:11:01](#t-00-10-54) [◐] (Claim) **Frank Turek**: ["Charlie Kirk's security team had drones in the air and texted him video of the c..."](/statements/statement-513bdaf22f00.md)
@@ -387,12 +389,16 @@ youtube_url: "https://www.youtube.com/watch?v=69A8TzAGHlU"
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Sorensen Center](/entities/org-sorensen-center.md)
 - [00:28:06](#t-00-27-52) [◐] (Accusation) **Candace Owens**: ["Brian Harpole presented Dan Flood's messages as though they were his own, which ..."](/statements/statement-a49494525cd8.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Dan Flood](/entities/person-dan-flood.md)
+- [00:28:06](#t-00-27-52) [○] (Claim) **Candace Owens**: ["Candace Owens said Brian Harpole's lawsuit acknowledged that the rooftop-securit..."](/statements/statement-e83fc00c4d34.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Dan Flood](/entities/person-dan-flood.md)
 - [00:28:40](#t-00-28-30) [◐] (Accusation) **Candace Owens**: ["Brian Harpole's lawyer lied in the filing by claiming Candace Owens repeatedly a..."](/statements/statement-b9e79eec1b28.md)
   - About: [Matthew Sarelson](/entities/person-matthew-sarelson.md), [Brian Harpole](/entities/person-brian-harpole.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:29:15](#t-00-29-07) [◐] (Claim) **Candace Owens**: ["Candace Owens confirmed Mitch Snow's location, timing, incident, and metadata bu..."](/statements/statement-ce238b4dd3e5.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Mitch Snow](/entities/person-mitch-snow.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [00:34:24](#t-00-34-24) [○] (Opinion) **Candace Owens**: ["Is Brian Harpole's lawsuit a public-relations move?"](/statements/statement-6476ff08ce96.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Matthew Sarelson](/entities/person-matthew-sarelson.md)
+- [00:35:02](#t-00-34-24) [○] (Opinion) **Candace Owens**: ["Candace Owens said Harpole's lawsuit might create an opportunity to subpoena uns..."](/statements/statement-547999361b9c.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:42:54](#t-00-42-47) [○] (Claim) **Baron Coleman**: ["Candace Owens has never said that Erika Kirk killed Charlie Kirk."](/statements/statement-14df6795e1e0.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:43:39](#t-00-43-22) [○] (Opinion) **Baron Coleman**: ["Baron Coleman does not believe Erika Kirk killed Charlie Kirk and does not know ..."](/statements/statement-5a7e20f861d8.md)

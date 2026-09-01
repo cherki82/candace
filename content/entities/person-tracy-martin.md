@@ -26,9 +26,9 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <div><span>Episodes</span><strong>11</strong></div>
 <div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -65,6 +65,10 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -442,7 +446,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tracy Martin (11)</strong></summary>
+<summary><strong class="section-title">Statements about Tracy Martin (12)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3)</summary>
@@ -467,7 +471,10 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 </details>
 
 <details>
-<summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (2)</summary>
+<summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (3)</summary>
+
+- [00:03:09](/episodes/ep-ti5Fxrvegno.md#t-00-02-54) (Claim) **Candace Owens** (via paraphrase): ["Tracy Martin reportedly denied that she was with Erika Kirk when Erika..."](/statements/statement-da148167310d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:03:23](/episodes/ep-ti5Fxrvegno.md#t-00-02-54) (Claim) **Candace Owens**: ["Tracy Martin's daughter is Erika Kirk's assistant, and Candace Owens s..."](/statements/statement-30c8648b1d4d.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)

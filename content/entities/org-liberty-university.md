@@ -26,9 +26,9 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <div><span>Episodes</span><strong>14</strong></div>
 <div><span>Mentions</span><strong>74</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -71,6 +71,10 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -587,7 +591,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Liberty University (21)</strong></summary>
+<summary><strong class="section-title">Statements about Liberty University (22)</strong></summary>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1)</summary>
@@ -650,7 +654,10 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 </details>
 
 <details>
-<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (4)</summary>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (5)</summary>
+
+- [00:06:26](/episodes/ep-wcD2khO3rOA.md#t-00-06-24) (Opinion) **Candace Owens**: ["Owens identified recurring Liberty University, Eastern Europe, traffic..."](/statements/statement-e27db698aeb2.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:06:32](/episodes/ep-wcD2khO3rOA.md#t-00-06-24) (Claim) **Candace Owens**: ["Tyler Bowyer, Erika Kirk, and Cabot Phillips attended and graduated fr..."](/statements/statement-d5845184e457.md)
   - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Erika Kirk](/entities/person-erika-kirk.md), [Cabot Phillips](/entities/person-cabot-phillips.md)

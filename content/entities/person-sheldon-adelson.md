@@ -131,7 +131,7 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
 - [00:43:31](/episodes/ep-w1oqQbR_bYs.md#t-00-43-06) (Claim) **Candace Owens**: ["Owens said she found information indicating that Cabot Phillips's fath..."](/statements/statement-ac23843213dd.md)
-  - Also about: [Graham Phillips](/entities/person-graham-phillips.md), [Miriam Adelson](/entities/person-miriam-adelson.md)
+  - Also about: [Miriam Adelson](/entities/person-miriam-adelson.md)
 
 </details>
 

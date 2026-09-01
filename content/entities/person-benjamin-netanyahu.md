@@ -32,9 +32,9 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <div><span>Episodes</span><strong>98</strong></div>
 <div><span>Mentions</span><strong>412</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>123</strong></div>
+<div><span>Statements about</span><strong>126</strong></div>
 <div><span>Relationships</span><strong>64</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -245,6 +245,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -2623,7 +2627,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (123)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (126)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2839,10 +2843,13 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2)</summary>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (3)</summary>
 
 - [00:01:03](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) (Accusation) **Candace Owens**: ["It is Candace Owens's personal belief that they colluded to have Charl..."](/statements/statement-f52c4565bac5.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [White House](/entities/org-white-house.md)
+
+- [00:01:37](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) (Accusation) **Candace Owens**: ["Owens alleged that the military operation's purpose was to galvanize A..."](/statements/statement-cd43131f0279.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 - [00:08:13](/episodes/ep-jTj9Ip46r4w.md#t-00-07-43) (Claim) **Candace Owens**: ["Erika Kirk was slated to record something with Benjamin Netanyahu and ..."](/statements/statement-9d25ce5f57e9.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Mar-a-Lago](/entities/gpe-mar-a-lago.md)
@@ -2911,13 +2918,19 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (2)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (4)</summary>
 
 - [00:19:08](/episodes/ep-xjzb_t5Tk9o.md#t-00-18-39) (Claim) **Matt Lieb** (via quoted speech): ["Matt Lieb said a Birthright trip featuring Benjamin Netanyahu and Miri..."](/statements/statement-38809d948064.md)
   - Also about: [Matt Lieb](/entities/person-matt-lieb.md), [Miriam Adelson](/entities/person-miriam-adelson.md), [Zionism](/entities/concept-zionism.md)
 
 - [00:35:11](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-56) (Claim) **Bassem Youssef**: ["A cybersecurity official in Benjamin Netanyahu's office was caught wit..."](/statements/statement-12caa8c5bc5c.md)
   - Also about: [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Israel](/entities/gpe-israel.md)
+
+- [01:14:41](/episodes/ep-xjzb_t5Tk9o.md#t-01-14-26) (Opinion) **Candace Owens**: ["Owens said Netanyahu's immediate post-assassination denial and Trump's..."](/statements/statement-c99843036503.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [01:44:45](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-43) (Accusation) **Candace Owens**: ["Owens said Netanyahu doing U.S. podcasts after Kirk's death would not ..."](/statements/statement-3d51f515c510.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 </details>
 

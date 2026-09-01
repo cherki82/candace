@@ -401,7 +401,7 @@ youtube_url: "https://www.youtube.com/watch?v=hWTdXHGQ8R4"
 </details>
 
 <details>
-<summary><strong>Statements (44)</strong></summary>
+<summary><strong>Statements (45)</strong></summary>
 
 - [00:01:35](#t-00-01-27) [✓] (Opinion) **Laura Loomer**: ["It is time for Erika Kirk to sue Candace Owens; she has gone too far."](/statements/statement-e6150fb610c9.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -410,6 +410,8 @@ youtube_url: "https://www.youtube.com/watch?v=hWTdXHGQ8R4"
 - [00:04:14](#t-00-04-14) [✓] (Claim) **Candace Owens**: ["The wedding photo was missing from Charlie Kirk's home office during Erika Kirk'..."](/statements/statement-593298d40d44.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
 - [00:05:03](#t-00-05-03) [○] (Claim) **Erika Kirk**: ["Erika Kirk had not been in Charlie Kirk's home office for a very long time."](/statements/statement-cf57498e457c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:07:07](#t-00-06-50) [✓] (Opinion) **Candace Owens**: ["Candace Owens said she definitively did not believe Erika Kirk removed the weddi..."](/statements/statement-a15af48635e2.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:10:46](#t-00-10-43) [✓] (Claim) **Erika Kirk**: ["Charlie Kirk got up around 2:45 or 3 a.m. for a snack, and his three-year-old da..."](/statements/statement-0380a4844e20.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)

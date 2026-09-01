@@ -1,14 +1,14 @@
 ---
 id: "tB5SXXmd9vU"
 title: "Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271"
-description: "Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 - 162 entities, 9 events, 54 factual claims"
+description: "Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 - 163 entities, 9 events, 51 factual claims"
 published: "2025-12-01"
 youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 ---
 
 **Published:** 2025-12-01 | [Watch on YouTube](https://www.youtube.com/watch?v=tB5SXXmd9vU)
 
-**Stats:** 162 entities | 9 events | 54 factual claims
+**Stats:** 163 entities | 9 events | 51 factual claims
 
 ---
 
@@ -228,9 +228,9 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (162)</strong></summary>
+<summary><strong>Entities Mentioned (163)</strong></summary>
 
-**Anonymous Sources:** [Fegliano (online commenter; identity unverified)](/entities/anon-src-tB5SXXmd9vU-004.md), [Mickey Shaw (online commenter; identity unverified)](/entities/anon-src-tB5SXXmd9vU-003.md)
+**Anonymous Sources:** [Anonymous French government source (Ep tB5SXXmd9vU)](/entities/anon-src-tB5SXXmd9vU-001.md), [Fegliano (online commenter; identity unverified)](/entities/anon-src-tB5SXXmd9vU-004.md), [Mickey Shaw (online commenter; identity unverified)](/entities/anon-src-tB5SXXmd9vU-003.md)
 
 **Concepts:** [Antisemitism](/entities/concept-antisemitism.md), [God](/entities/concept-god.md), [MKUltra](/entities/concept-mkultra.md), [Zionism](/entities/concept-zionism.md), [devil](/entities/concept-devil.md), [global state military](/entities/concept-global-state-military.md), [transgenderism](/entities/concept-transgenderism.md)
 
@@ -254,11 +254,13 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 <summary><strong>Statements (68)</strong></summary>
 
 - [00:00:21](#t-00-00-01) [✗] (Accusation) **Candace Owens**: ["Jean-Michel Trogneux forced multiple nation-states to collude to hide the obviou..."](/statements/statement-ea6efa5d9340.md)
-- [00:01:12](#t-00-00-57) [◐] (Claim) **Candace Owens**: ["the French Foreign Legion were apparently on the ground on the day of Charlie Ki..."](/statements/statement-9dda70f256f6.md)
+- [00:01:12](#t-00-00-57) [○] (Claim) **Candace Owens**: ["the French Foreign Legion were apparently on the ground on the day of Charlie Ki..."](/statements/statement-9dda70f256f6.md)
 - [00:03:02](#t-00-02-25) [○] (Claim) **Candace Owens**: ["Two days ago, I was contacted by a high-ranking employee of the French governmen..."](/statements/statement-25803362779b.md)
 - [00:03:17](#t-00-03-07) [○] (Claim) **Candace Owens**: ["this person claims the Macrons have executed upon and paid for my assassination"](/statements/statement-0e86e180184b.md)
-- [00:03:25](#t-00-03-07) [○] (Claim) **National Gendarmerie Intervention Group**: ["the green light was given to a small team in the National Gendarmerie Interventi..."](/statements/statement-d2fe1a2c7252.md)
-- [00:03:45](#t-00-03-07) [○] (Claim) **Candace Owens**: ["this person claims that Charlie Kirk's assassin trained with the French Legion 1..."](/statements/statement-dd336cf8fac8.md)
+- [00:03:25](#t-00-03-07) [○] (Accusation) **Anonymous French government source (Ep tB5SXXmd9vU)**: ["An anonymous purported French-government source alleged that a small National Ge..."](/statements/statement-d2fe1a2c7252.md)
+  - About: [National Gendarmerie Intervention Group](/entities/org-national-gendarmerie-intervention-group.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:03:45](#t-00-03-07) [○] (Accusation) **Anonymous French government source (Ep tB5SXXmd9vU)**: ["An anonymous purported French-government source alleged that Charlie Kirk’s assa..."](/statements/statement-dd336cf8fac8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [French Foreign Legion](/entities/org-french-foreign-legion.md)
 - [00:03:55](#t-00-03-45) [○] (Claim) **Candace Owens**: ["Journalist Xavier Poussard's life is also at risk"](/statements/statement-2759dd5eb99d.md)
 - [00:04:32](#t-00-04-29) [○] (Accusation) **Anonymous French government source (Ep tB5SXXmd9vU)**: ["An anonymous purported French government official alleged that Emmanuel Macron p..."](/statements/statement-b1a43b319acf.md)
 - [00:04:32](#t-00-04-29) [○] (Claim) **Candace Owens**: ["The president of France allegedly paid $1.5 million for my assassination"](/statements/statement-a537fa86423f.md)
@@ -277,7 +279,8 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 - [00:16:36](#t-00-16-09) [○] (Claim) **Candace Owens**: ["another camp began immediately. It was a joint exercise with civilians, which in..."](/statements/statement-b88b40623712.md)
 - [00:18:18](#t-00-18-18) [○] (Claim) **Candace Owens**: ["The French Legionnaires might have been on the ground during Charlie Kirk's assa..."](/statements/statement-b622215ef7ac.md)
 - [00:18:27](#t-00-18-18) [✓] (Claim) **Ministry of the Armed Forces**: ["Tyler Robinson was never part of the French Foreign Legion. If he did not serve ..."](/statements/statement-3e634b3fcfa8.md)
-- [00:19:06](#t-00-19-00) [○] (Claim) **Candace Owens**: ["Anybody who trained with the French Foreign Legion was on the ground on Septembe..."](/statements/statement-8aac9011eb31.md)
+- [00:19:06](#t-00-19-00) [○] (Accusation) **Candace Owens**: ["Was anyone who trained with the French Foreign Legion present at Utah Valley Uni..."](/statements/statement-8aac9011eb31.md)
+  - About: [French Foreign Legion](/entities/org-french-foreign-legion.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 - [00:20:07](#t-00-19-45) [✓] (Claim) **Ministry of the Armed Forces**: ["The Ministry of the Armed Forces confirms that a training exercise by the 2nd Fo..."](/statements/statement-5740dee09638.md)
 - [00:20:36](#t-00-20-29) [✓] (Claim) **Ministry of the Armed Forces**: ["The Ministry of the Armed Forces formally denies that another Foreign Legion tra..."](/statements/statement-55f0acee2b24.md)
 - [00:21:46](#t-00-21-14) [○] (Claim) **Candace Owens**: ["after that civilian-military exercise ended at Camp Ripley on the 27th, another ..."](/statements/statement-6bd5b9ae1484.md)
@@ -300,7 +303,8 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 - [00:35:44](#t-00-35-20) [○] (Opinion) **Candace Owens**: ["hey, Brigitte might be an asset to the Mossad, which is what we had received a t..."](/statements/statement-a60bb1424655.md)
 - [00:36:20](#t-00-36-03) [○] (Opinion) **Candace Owens**: ["I feel like I was set up by the federal government in terms of this lawsuit. Lik..."](/statements/statement-3c4da38fc2f5.md)
 - [00:37:07](#t-00-36-33) [○] (Claim) **Candace Owens**: ["We know Brigitte was in America in the 60s, at least for the moon landing"](/statements/statement-307919ca83f9.md)
-- [00:37:32](#t-00-37-15) [○] (Opinion) **Brigitte Macron**: ["I'm pretty convinced that Brigitte Macron has been involved, on the basis of my ..."](/statements/statement-6c37c0f1f852.md)
+- [00:37:32](#t-00-37-15) [○] (Opinion) **Candace Owens**: ["I'm pretty convinced that Brigitte Macron has been involved, on the basis of my ..."](/statements/statement-6c37c0f1f852.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md)
 - [00:38:00](#t-00-37-15) [◐] (Claim) **Candace Owens**: ["the second-largest shareholder for Satys is Israel. Yeah, it's an Israeli firm b..."](/statements/statement-44f0ccc6716b.md)
   - About: [Satys](/entities/org-satys.md), [Ace Capital Partners (Israel)](/entities/org-ace-capital-partners-israel.md), [Ace Capital Partners (Tikehau Capital)](/entities/org-ace-capital-partners-tikehau.md)
 - [00:39:42](#t-00-39-28) [◐] (Claim) **Candace Owens**: ["Candace believes Brigitte Macron had opened Paris Design Week on September 4th"](/statements/statement-e4e98ef8a879.md)

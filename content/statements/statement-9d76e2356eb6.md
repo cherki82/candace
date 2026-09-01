@@ -4,9 +4,10 @@ description: "\"Candace Owens said Erika Kirk and Justin Streiff confirmed that 
 statement_id: "statement-9d76e2356eb6"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -32,7 +33,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified only as attribution: Owens said TPUSA told her it had not approved or anticipated Harpole’s Shawn Ryan appearance. The private organizational approval history and Harpole’s employment status were not independently documented in the reviewed source.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](https://www.youtube.com/watch?v=es7PWdFGoFI)
+
+*Verified: 2026-08-31T23:46:10.150238*
 
 ---
 

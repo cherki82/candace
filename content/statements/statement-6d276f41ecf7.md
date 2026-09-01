@@ -4,10 +4,9 @@ description: "\"An anonymous overseas tipster alleged that people associated wit
 statement_id: "statement-6d276f41ecf7"
 speaker: "Anonymous Source #5 (Ep Kmt6HgRjckU)"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -36,21 +35,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-CBS and AP confirm that Erika Kirk's town hall moderated by Bari Weiss aired December 13, 2025. The legacy note's reference to 2024 was erroneous; the current sources and episode date establish 2025.
-
-**Confidence:** High
-
-**Sources:**
-
-- [CBS News town hall with Erika Kirk](https://www.cbsnews.com/news/cbs-news-town-hall-erika-kirk-how-to-watch/)
-- [CBS News hosting town hall with Erika Kirk](https://apnews.com/article/cac78923ecee4b3ddd116c13966c173b)
-
-*Verified: 2026-08-26T09:08:29.055049*
+_This statement has not yet been verified._
 
 ---
 

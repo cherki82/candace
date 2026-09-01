@@ -4,9 +4,10 @@ description: "\"The yellow plane with tail number SUBTT stopped for just one hou
 statement_id: "statement-d3549945a6fb"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Two independent archived ADS-B networks corroborate the route: SU-BTT arrived at Minot from Paris at about 11:03 a.m. local time on September 4, departed about 11:45 a.m., and landed at Provo at 12:46 p.m. The same reconstruction shows Minot was the recurring U.S. customs entry for every Provo-bound foreign rotation in this fleet, which materially weakens a special Valhalla-operation interpretation of the one-hour stop.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Minot (KMOT) — April to September 2025: recovered flight record](https://whoassassinatedcharliekirk.com/Planes/following/Minot_KMOT_2025-04-08_to_2025-09-04/overview)
+
+*Verified: 2026-08-31T23:00:29.468954*
 
 ---
 

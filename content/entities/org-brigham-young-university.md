@@ -26,9 +26,9 @@ Source: [About - BYU](https://www.byu.edu/about)
 <div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -61,6 +61,10 @@ Source: [About - BYU](https://www.byu.edu/about)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -330,16 +334,19 @@ Source: [About - BYU](https://www.byu.edu/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brigham Young University (4)</strong></summary>
+<summary><strong class="section-title">Statements about Brigham Young University (5)</strong></summary>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3)</summary>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4)</summary>
 
 - [00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00) (Claim) **Candace Owens**: ["Connor Henderson and Zachariah Qureshi attended BYU at the same time a..."](/statements/statement-869a9611ac9f.md)
   - Also about: [Connor Henderson](/entities/person-connor-henderson.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [BILT Incorporated](/entities/org-bilt-incorporated.md)
 
 - [00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA recruits directly from BYU and specifically from BYU's Jerusal..."](/statements/statement-862b7ba82e4c.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md), [Jerusalem](/entities/gpe-jerusalem.md)
+
+- [00:47:30](/episodes/ep-rupRLXmSndU.md#t-00-46-56) (Opinion) **Candace Owens**: ["Owens was not claiming that everyone who attends BYU is affiliated wit..."](/statements/statement-5ce402da0028.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 - [00:47:40](/episodes/ep-rupRLXmSndU.md#t-00-47-40) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA approaches selected students at BYU's Hawaii and Jerusalem cam..."](/statements/statement-55fc338c7349.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Hawaii](/entities/gpe-hawaii.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)

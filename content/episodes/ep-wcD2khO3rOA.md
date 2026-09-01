@@ -866,7 +866,7 @@ youtube_url: "https://www.youtube.com/watch?v=wcD2khO3rOA"
 </details>
 
 <details>
-<summary><strong>Statements (59)</strong></summary>
+<summary><strong>Statements (62)</strong></summary>
 
 - [00:01:49](#t-00-01-46) [✓] (Claim) **Brian Harpole**: ["Brian Harpole said Turning Point security began gathering information for the Ut..."](/statements/statement-69dd99305fa7.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
@@ -874,6 +874,8 @@ youtube_url: "https://www.youtube.com/watch?v=wcD2khO3rOA"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charis Bible College](/entities/org-charis-bible-college.md)
 - [00:05:32](#t-00-04-58) [○] (Accusation) **Candace Owens**: ["The lack of advance security planning for Charlie Kirk's next scheduled event in..."](/statements/statement-ac6469815827.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:06:26](#t-00-06-24) [○] (Opinion) **Candace Owens**: ["Owens identified recurring Liberty University, Eastern Europe, trafficking or ch..."](/statements/statement-e27db698aeb2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Liberty University](/entities/org-liberty-university.md)
 - [00:06:32](#t-00-06-24) [◐] (Claim) **Candace Owens**: ["Tyler Bowyer, Erika Kirk, and Cabot Phillips attended and graduated from Liberty..."](/statements/statement-d5845184e457.md)
   - About: [Liberty University](/entities/org-liberty-university.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:07:14](#t-00-07-06) [◐] (Claim) **Candace Owens**: ["Andrew Kolvet worked in public relations at KAIROS Company under Johnnie Moore, ..."](/statements/statement-7f60801be0e3.md)
@@ -980,10 +982,14 @@ youtube_url: "https://www.youtube.com/watch?v=wcD2khO3rOA"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Sun Myung Moon](/entities/person-sun-myung-moon.md)
 - [01:15:50](#t-01-15-07) [○] (Accusation) **Candace Owens**: ["Christian organizations were infiltrated through a psychological operation, and ..."](/statements/statement-5a051a7a4870.md)
   - About: [Christianity](/entities/concept-christianity.md)
+- [01:17:26](#t-01-17-26) [○] (Opinion) **Candace Owens**: ["Owens said she did not believe that Dan Flood's hand signals and Rick Cutler's s..."](/statements/statement-24cddd3c0599.md)
+  - About: [Dan Flood](/entities/person-dan-flood.md), [Rick Cutler](/entities/person-rick-cutler.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [01:18:01](#t-01-17-26) [○] (Accusation) **Candace Owens**: ["Owens said she felt strongly that an operation to assassinate Charlie Kirk had t..."](/statements/statement-52a6e1999296.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [01:20:10](#t-01-19-32) [◐] (Claim) **Candace Owens**: ["Paul E. Vallely, a retired Army intelligence officer and Turning Point USA advis..."](/statements/statement-45c522b4c832.md)
   - About: [Paul E. Vallely](/entities/person-paul-e-vallely.md), [Michael Aquino](/entities/person-michael-aquino.md), [MindWar](/entities/work-mindwar.md)
+- [01:22:35](#t-01-22-35) [○] (Opinion) **Candace Owens**: ["Owens said a vivid dream led her to suspect Ben Shapiro was being sent out becau..."](/statements/statement-4a6d2aa1cd0e.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Farris Wilks](/entities/person-farris-wilks.md), [Dan Wilks](/entities/person-dan-wilks.md)
 - [01:23:18](#t-01-22-35) [◐] (Claim) **Candace Owens**: ["Farris and Dan Wilks fund PragerU, The Daily Wire, megachurches, and Rob McCoy’s..."](/statements/statement-ef9d6dc77953.md)
   - About: [Farris Wilks](/entities/person-farris-wilks.md), [Dan Wilks](/entities/person-dan-wilks.md), [PragerU](/entities/org-prageru.md)
 

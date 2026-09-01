@@ -21,7 +21,6 @@ veracity: "mixed"
 
 ## About
 
-- [Graham Phillips](/entities/person-graham-phillips.md) (person)
 - [Miriam Adelson](/entities/person-miriam-adelson.md) (person)
 - [Sheldon Adelson](/entities/person-sheldon-adelson.md) (person)
 

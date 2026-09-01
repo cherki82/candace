@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 478 mentions"
+description: "Jeffrey Epstein (People) - 476 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-person-jeffrey-epstein-t-00-46-32">2026-08-11 · 00:46:32</a></strong></div>
 <div><span>Episodes</span><strong>94</strong></div>
-<div><span>Mentions</span><strong>478</strong></div>
+<div><span>Mentions</span><strong>476</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>117</strong></div>
+<div><span>Statements about</span><strong>128</strong></div>
 <div><span>Relationships</span><strong>50</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -92,7 +92,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-jeffrey-epstein-t-00-38-00" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-jeffrey-epstein-t-00-48-08" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-jeffrey-epstein-t-00-33-24" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jeffrey-epstein-t-00-28-01" style="--pulse-height:20%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 6 mentions" title="2026-03-25 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jeffrey-epstein-t-00-28-01" style="--pulse-height:13%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 4 mentions" title="2026-03-25 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-jeffrey-epstein-t-00-04-41" style="--pulse-height:10%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-jeffrey-epstein-t-00-40-20" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-45-19" style="--pulse-height:27%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 8 mentions" title="2026-04-02 · 8 mentions"><span></span></a>
@@ -191,7 +191,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-jeffrey-epstein-t-00-38-00) | 2 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-jeffrey-epstein-t-00-48-08) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-jeffrey-epstein-t-00-33-24) | 1 |
-| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jeffrey-epstein-t-00-28-01) | 6 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jeffrey-epstein-t-00-28-01) | 4 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-jeffrey-epstein-t-00-04-41) | 3 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-jeffrey-epstein-t-00-40-20) | 2 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-45-19) | 8 |
@@ -232,10 +232,14 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (478)</strong></summary>
+<summary><strong class="section-title">Raw mentions (476)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (3 mentions)</summary>
@@ -994,16 +998,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (6 mentions)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (4 mentions)</summary>
 
 **[00:28:26](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jeffrey-epstein-t-00-28-01)**
-> "epstein"
-
-**[00:28:30](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jeffrey-epstein-t-00-28-01)**
-> "the Epstein files first is the first thing that happened, obv..."
-
-**[00:28:37](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jeffrey-epstein-t-00-28-01)**
-> "...re we still talking about the Epstein files? And then the Charlie Kirk assassination. W..."
+> "...you had pam bondi and him the epstein files first is the first thing that happened obvi..."
 
 **[00:37:46](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jeffrey-epstein-t-00-37-32)**
 > "...re we still talking about the Epstein files?"
@@ -2597,7 +2595,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeffrey Epstein (117)</strong></summary>
+<summary><strong class="section-title">Statements about Jeffrey Epstein (128)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (4)</summary>
@@ -2830,9 +2828,48 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (3)</summary>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2)</summary>
+
+- [00:46:48](/episodes/ep-k8ueJdPFel4.md#t-00-46-48) (Accusation) **Candace Owens**: ["Candace Owens accused an Epstein-protecting political class of startin..."](/statements/statement-2b9bad1f8c9b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:50:44](/episodes/ep-k8ueJdPFel4.md#t-00-50-39) (Opinion) **Candace Owens** (via read message): ["Candace Owens endorsed a viewer's synthesis that Kirk opposed war with..."](/statements/statement-46244efb26c8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
+
+- [00:38:24](/episodes/ep-I0OaY6Gryqk.md#t-00-38-00) (Citation) **Candace Owens**: ["While describing research she had not yet completed, Candace Owens rai..."](/statements/statement-422e8a444118.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [The Family International](/entities/org-the-family-international.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (4)</summary>
+
+- [00:01:04](/episodes/ep-5-HUyv9LyMg.md#t-00-00-39) (Accusation) **Candace Owens**: ["Candace Owens said the lack of demand for a fuller Kirk investigation ..."](/statements/statement-a8267b0ae2e4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:09](/episodes/ep-5-HUyv9LyMg.md#t-00-05-00) (Citation) **Candace Owens** (via quoted article): ["Candace Owens cited civil filings and a New York Post account saying a..."](/statements/statement-1859ede26014.md)
+  - Also about: [Mark Epstein](/entities/person-mark-epstein.md), [301 East 66th Street](/entities/gpe-301-east-66th-street.md)
+
+- [00:06:02](/episodes/ep-5-HUyv9LyMg.md#t-00-05-42) (Accusation) **Candace Owens**: ["Candace Owens said the proposed building overlap felt like a massive c..."](/statements/statement-68724cf852dd.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+- [00:11:54](/episodes/ep-5-HUyv9LyMg.md#t-00-11-54) (Accusation) **Candace Owens**: ["Candace Owens said the Alexander brothers' case added suspicion to the..."](/statements/statement-7d83dd077bd1.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (5)</summary>
 
 - [00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28) (Claim) **Candace Owens**: ["Candace Owens said NEXT Management was co-founded by Faith Kates, a de..."](/statements/statement-7a0bdaabab64.md)
+  - Also about: [NEXT Management](/entities/org-next-management.md), [Faith Kates](/entities/person-faith-kates.md)
+
+- [00:02:52](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28) (Claim) **Candace Owens**: ["Candace Owens said Jeffrey Epstein frequently visited NEXT Management'..."](/statements/statement-708e15cf22dc.md)
   - Also about: [NEXT Management](/entities/org-next-management.md), [Faith Kates](/entities/person-faith-kates.md)
 
 - [00:02:59](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-59) (Claim) **Candace Owens**: ["Candace Owens said Faith Kates knew Jeffrey Epstein before co-founding..."](/statements/statement-31a1b85834d9.md)
@@ -2841,10 +2878,16 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 - [00:03:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-03-42) (Claim) **Jeffrey Epstein** (via read message): ["Jeffrey Epstein wrote to Peter Thiel, "I represent the Rothschilds," a..."](/statements/statement-724744a9c03b.md)
   - Also about: [Peter Thiel](/entities/person-peter-thiel.md), [Rothschild family](/entities/org-rothschild-family.md)
 
+- [00:43:22](/episodes/ep-H9p2ZGHAs9A.md#t-00-43-22) (Accusation) **Candace Owens**: ["Candace Owens said real estate is traditionally used to hide money and..."](/statements/statement-618ced6aa08b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
 </details>
 
 <details>
-<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (8)</summary>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (10)</summary>
+
+- [00:00:42](/episodes/ep-ZzAT2xijKGQ.md#t-00-00-01) (Accusation) **Candace Owens**: ["Candace Owens said she had a growing hunch that Erika Kirk and Jeffrey..."](/statements/statement-90f1cba17e3c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:06:09](/episodes/ep-ZzAT2xijKGQ.md#t-00-06-09) (Accusation) **Candace Owens**: ["They're distracting us from the Epstein files and doing whatever Israe..."](/statements/statement-e46f1e5df1b7.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md)
@@ -2866,6 +2909,9 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 - [00:22:10](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-10) (Accusation) **Candace Owens**: ["Next Model Management cofounder Faith Cates stepped down because of he..."](/statements/statement-8b0c3d34da6b.md)
   - Also about: [Faith Kates](/entities/person-faith-kates.md), [NEXT Management](/entities/org-next-management.md)
+
+- [00:23:59](/episodes/ep-ZzAT2xijKGQ.md#t-00-23-59) (Claim) **Candace Owens**: ["Candace Owens explicitly said her Next Model Management sources did no..."](/statements/statement-d97fe1c997f3.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:27:44](/episodes/ep-ZzAT2xijKGQ.md#t-00-27-18) (Citation) **Candace Owens**: ["Jeffrey Epstein's emails included a background entry listing Linda Rot..."](/statements/statement-011148f17074.md)
   - Also about: [The Corcoran Group](/entities/org-corcoran-group.md), [Rothschild family](/entities/org-rothschild-family.md)

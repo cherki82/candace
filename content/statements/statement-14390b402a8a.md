@@ -1,6 +1,6 @@
 ---
 title: "Owens said she was still working to verify reports that Mark..."
-description: "\"Owens said she was still working to verify reports that Mark Amodei missed two morning roll calls and appeared later on September 9\" — Candace Owens"
+description: "\"Owens said she was still working to verify reports that Mark Amodei was absent from the first two September 9 committee roll calls and first appeared ...\" — Candace Owens"
 statement_id: "statement-14390b402a8a"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Owens said she was still working to verify reports that Mark Amodei missed two morning roll calls and appeared later on September 9
+> Owens said she was still working to verify reports that Mark Amodei was absent from the first two September 9 committee roll calls and first appeared on the third.
 
 ## Attribution
 

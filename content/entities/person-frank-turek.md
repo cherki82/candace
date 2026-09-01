@@ -27,7 +27,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <div><span>Episodes</span><strong>54</strong></div>
 <div><span>Mentions</span><strong>262</strong></div>
 <div><span>Statements by</span><strong>32</strong></div>
-<div><span>Statements about</span><strong>48</strong></div>
+<div><span>Statements about</span><strong>49</strong></div>
 <div><span>Relationships</span><strong>44</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1856,7 +1856,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Frank Turek (48)</strong></summary>
+<summary><strong class="section-title">Statements about Frank Turek (49)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -2006,9 +2006,11 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2)</summary>
 
 - [00:48:56](/episodes/ep-DEtFh2Ff-58.md#t-00-48-56) (Claim) **Anonymous Source #4 (Ep DEtFh2Ff-58)** (via paraphrase): ["Frank Turek changed his schedule at the last second, canceling an appo..."](/statements/statement-67d52ae00784.md)
+
+- [00:49:27](/episodes/ep-DEtFh2Ff-58.md#t-00-48-56) (Citation) **Candace Owens**: ["Candace Owens said she was still working on the tip that Frank Turek c..."](/statements/statement-55eb136f6d72.md)
 
 </details>
 

@@ -27,9 +27,9 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <div><span>Episodes</span><strong>58</strong></div>
 <div><span>Mentions</span><strong>251</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>100</strong></div>
+<div><span>Statements about</span><strong>101</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -160,6 +160,10 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -1337,7 +1341,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iran (100)</strong></summary>
+<summary><strong class="section-title">Statements about Iran (101)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (5)</summary>
@@ -1511,7 +1515,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details>
-<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (4)</summary>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (3)</summary>
 
 - [00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51) (Opinion) **Donald J. Trump** (via quoted post): ["Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have fought..."](/statements/statement-6e15836da95b.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -1521,9 +1525,6 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 - [00:25:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12) (Accusation) **Candace Owens**: ["Donald Trump promised no new wars in the Middle East but now pursues c..."](/statements/statement-8eb161990c66.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Middle East](/entities/gpe-middle-east.md)
-
-- [00:37:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-37-43) (Opinion) **Candace Owens**: ["The first casualty of the Iranian war was Charlie Kirk, whom Candace O..."](/statements/statement-3c65604ff9a1.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 </details>
 
@@ -1655,13 +1656,16 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details>
-<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (10)</summary>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (11)</summary>
 
-- [00:00:38](/episodes/ep-i8m_6D4QGmk.md#t-00-00-38) (Opinion) **Candace Owens**: ["Charlie Kirk was the first casualty of the war in Iran."](/statements/statement-2631d93a742e.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:00:38](/episodes/ep-i8m_6D4QGmk.md#t-00-00-38) (Opinion) **Candace Owens**: ["Candace Owens believes Charlie Kirk was the first casualty of the Iran..."](/statements/statement-2631d93a742e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 - [00:41:28](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20) (Accusation) **Candace Owens**: ["Benjamin Netanyahu instructed Trump to bomb Iran, initially limiting t..."](/statements/statement-e68e8a88e688.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:41:49](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20) (Accusation) **Candace Owens**: ["Candace Owens said Charlie Kirk was an obstacle who was removed before..."](/statements/statement-5c6ed3a7f13e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 - [00:42:00](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20) (Claim) **Candace Owens**: ["The United States is preemptively bombing Iran."](/statements/statement-6e31f3a4c1f9.md)
   - Also about: [United States](/entities/gpe-united-states.md)
@@ -1698,7 +1702,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details>
-<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (4)</summary>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (5)</summary>
 
 - [00:00:38](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) (Claim) **Candace Owens**: ["Charlie Kirk was the one person who stood between the United States an..."](/statements/statement-5859022c9868.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States](/entities/gpe-united-states.md)
@@ -1711,6 +1715,9 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 - [00:04:11](/episodes/ep-jTj9Ip46r4w.md#t-00-04-11) (Opinion) **Charlie Kirk** (via quoted speech): ["Donald Trump was doing a phenomenal job resisting calls for regime cha..."](/statements/statement-12710c18ef75.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Neoconservatism](/entities/concept-neoconservatism.md)
+
+- [00:06:17](/episodes/ep-jTj9Ip46r4w.md#t-00-05-39) (Opinion) **Andrew Kolvet**: ["Andrew Kolvet said Kirk trusted President Trump, looked for the bright..."](/statements/statement-b4c9033c0e49.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>
 

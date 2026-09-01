@@ -26,9 +26,9 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <div><span>Episodes</span><strong>59</strong></div>
 <div><span>Mentions</span><strong>179</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>30</strong></div>
+<div><span>Statements about</span><strong>31</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -161,6 +161,10 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -1003,7 +1007,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Artificial intelligence (30)</strong></summary>
+<summary><strong class="section-title">Statements about Artificial intelligence (31)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2)</summary>
@@ -1080,7 +1084,7 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (4)</summary>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (5)</summary>
 
 - [00:05:03](/episodes/ep-KpxIBWkNsSs.md#t-00-05-03) (Accusation) **Candace Owens**: ["Candace Owens said Turning Point USA had refused to release the video ..."](/statements/statement-eec0b8f92620.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -1093,6 +1097,9 @@ _No relationships extracted yet._
 
 - [00:11:56](/episodes/ep-KpxIBWkNsSs.md#t-00-11-45) (Opinion) **Candace Owens**: ["Candace Owens said that if the disputed succession audio proved to be ..."](/statements/statement-e83d0e373d4f.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:12:12](/episodes/ep-KpxIBWkNsSs.md#t-00-12-12) (Opinion) **Candace Owens**: ["Candace Owens said that if Erika Kirk, Blake Neff, and Andrew Kolvet k..."](/statements/statement-19ec6a3de1d8.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Blake Neff](/entities/person-blake-neff.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </details>
 

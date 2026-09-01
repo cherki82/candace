@@ -22,9 +22,9 @@ Source: [How Next Management’s Founders Are Changing the Business of Modeling 
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -53,6 +53,10 @@ Source: [How Next Management’s Founders Are Changing the Business of Modeling 
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -313,7 +317,7 @@ Source: [How Next Management’s Founders Are Changing the Business of Modeling 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Faith Kates (9)</strong></summary>
+<summary><strong class="section-title">Statements about Faith Kates (10)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
@@ -346,10 +350,13 @@ Source: [How Next Management’s Founders Are Changing the Business of Modeling 
 </details>
 
 <details>
-<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (2)</summary>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (3)</summary>
 
 - [00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28) (Claim) **Candace Owens**: ["Candace Owens said NEXT Management was co-founded by Faith Kates, a de..."](/statements/statement-7a0bdaabab64.md)
   - Also about: [NEXT Management](/entities/org-next-management.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:02:52](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28) (Claim) **Candace Owens**: ["Candace Owens said Jeffrey Epstein frequently visited NEXT Management'..."](/statements/statement-708e15cf22dc.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [NEXT Management](/entities/org-next-management.md)
 
 - [00:02:59](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-59) (Claim) **Candace Owens**: ["Candace Owens said Faith Kates knew Jeffrey Epstein before co-founding..."](/statements/statement-31a1b85834d9.md)
   - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [NEXT Management](/entities/org-next-management.md), [Wilhelmina Models](/entities/org-wilhelmina-models.md)

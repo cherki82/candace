@@ -4,9 +4,10 @@ description: "\"Erika Kirk asked whether Joe Kent was my source at the hospital,
 statement_id: "statement-49ddf25219af"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified as an accurate attribution to the cited episode transcript. This confirms that the account, correction, or limitation was stated, not that an underlying private allegation is independently true.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](https://www.youtube.com/watch?v=5m-Wn6Pr5rM)
+
+*Verified: 2026-09-01T04:09:17.775134*
 
 ---
 

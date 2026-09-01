@@ -4,9 +4,10 @@ description: "\"Candace Owens reported that Erika Kirk had Charlie Kirk's phone 
 statement_id: "statement-103173d3a593"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified only as attribution to Owens’s private-meeting account. The episode records her saying Erika initially checked iMessage, then checked Signal and Telegram after hearing the allegation. The private device search cannot be independently audited from the episode.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](https://www.youtube.com/watch?v=es7PWdFGoFI)
+
+*Verified: 2026-08-31T23:46:09.286596*
 
 ---
 

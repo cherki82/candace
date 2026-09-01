@@ -22,7 +22,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <div><span>Episodes</span><strong>27</strong></div>
 <div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -716,7 +716,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Seth Dillon (19)</strong></summary>
+<summary><strong class="section-title">Statements about Seth Dillon (21)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
@@ -775,6 +775,17 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 
 - [00:30:28](/episodes/ep-es7PWdFGoFI.md#t-00-30-03) (Claim) **Candace Owens**: ["Seth Dillon pressed Charlie Kirk at the Hamptons event in a hypothetic..."](/statements/statement-3f92cbaa3000.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2)</summary>
+
+- [00:10:33](/episodes/ep-r1PS67aRmcA.md#t-00-09-56) (Accusation) **Ben Shapiro** (via quoted speech): ["Ben Shapiro said Owens was accusing TPUSA insiders and right-wing figu..."](/statements/statement-2288e35c2288.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:11:20](/episodes/ep-r1PS67aRmcA.md#t-00-10-50) (Claim) **Candace Owens**: ["Owens said she never accused Seth Dillon of murdering Charlie Kirk."](/statements/statement-b46e53c70a3e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

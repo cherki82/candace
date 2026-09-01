@@ -1,14 +1,14 @@
 ---
 id: "Wjul6YV6izo"
 title: "AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299"
-description: "AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 - 94 entities, 11 events, 11 factual claims"
+description: "AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 - 94 entities, 11 events, 12 factual claims"
 published: "2026-01-30"
 youtube_url: "https://www.youtube.com/watch?v=Wjul6YV6izo"
 ---
 
 **Published:** 2026-01-30 | [Watch on YouTube](https://www.youtube.com/watch?v=Wjul6YV6izo)
 
-**Stats:** 94 entities | 11 events | 11 factual claims
+**Stats:** 94 entities | 11 events | 12 factual claims
 
 ---
 
@@ -463,7 +463,7 @@ youtube_url: "https://www.youtube.com/watch?v=Wjul6YV6izo"
 </details>
 
 <details>
-<summary><strong>Statements (34)</strong></summary>
+<summary><strong>Statements (38)</strong></summary>
 
 - [00:00:26](#t-00-00-00) [○] (Opinion) **Candace Owens**: ["Turning Point Faith feels a bit psyoppy, like a psychological operation."](/statements/statement-53940d78332e.md)
   - About: [Turning Point Faith](/entities/org-turning-point-faith.md)
@@ -487,8 +487,12 @@ youtube_url: "https://www.youtube.com/watch?v=Wjul6YV6izo"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Anonymous Source #2 (Ep Wjul6YV6izo)](/entities/anon-src-Wjul6YV6izo-002.md)
 - [00:21:03](#t-00-20-55) [◐] (Accusation) **Candace Owens**: ["Stacy Sheridan's job was to research people's net worth, relay that information ..."](/statements/statement-afbca4fe10ad.md)
   - About: [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:22:33](#t-00-22-23) [✓] (Claim) **Candace Owens**: ["Owens said her anonymous email source supplied a screenshot the unnamed priest h..."](/statements/statement-635c3b218bec.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:23:05](#t-00-22-23) [✓] (Citation) **Charlie Kirk**: ["For a wide door for effective work has opened to me, and there are many adversar..."](/statements/statement-42b35fa35944.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:23:14](#t-00-23-05) [✓] (Opinion) **Candace Owens**: ["Owens interpreted Kirk's September 9 verse as acknowledging that his opportuniti..."](/statements/statement-ed2f8d1f590e.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:24:46](#t-00-24-09) [○] (Claim) **Anonymous Source #3 (Ep Wjul6YV6izo)**: ["A Turning Point USA donor handler promised Erika Kirk that he would lead fundrai..."](/statements/statement-24181ec44cb0.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:24:51](#t-00-24-09) [○] (Claim) **Anonymous Source #3 (Ep Wjul6YV6izo)**: ["The memorial service for Charlie Kirk was expected to cost approximately $6 mill..."](/statements/statement-0fccae34b72b.md)
@@ -499,6 +503,8 @@ youtube_url: "https://www.youtube.com/watch?v=Wjul6YV6izo"
   - About: [State Farm Stadium](/entities/org-state-farm-stadium.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:25:39](#t-00-24-54) [◐] (Citation) **Candace Owens**: ["Archived State Farm Stadium calendars showed no RV show scheduled for the weeken..."](/statements/statement-7bbcc406efeb.md)
   - About: [State Farm Stadium](/entities/org-state-farm-stadium.md), [Wayback Machine](/entities/work-wayback-machine.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:27:17](#t-00-27-01) [✓] (Accusation) **Candace Owens**: ["Owens said that, if she was correct, the unnamed priest canceled his Mass on Sep..."](/statements/statement-c069f7603c71.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:29:02](#t-00-28-30) [○] (Accusation) **Candace Owens**: ["Candace Owens accused Stacy Sheridan, acting at Erika Kirk's direction, of targe..."](/statements/statement-24340c165afd.md)
   - About: [Anonymous Source #1 (Ep Wjul6YV6izo)](/entities/anon-src-Wjul6YV6izo-001.md), [Erika Kirk](/entities/person-erika-kirk.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md)
 - [00:35:44](#t-00-35-35) [◐] (Accusation) **Candace Owens**: ["Turning Point USA figures used people's trauma, emotions, and spirituality to ma..."](/statements/statement-97cbb3f7f53b.md)
@@ -509,6 +515,8 @@ youtube_url: "https://www.youtube.com/watch?v=Wjul6YV6izo"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:42:53](#t-00-42-21) [○] (Opinion) **Candace Owens**: ["Candace Owens has presented more evidence than the FBI did against Tyler Robinso..."](/statements/statement-eb24f2d12e67.md)
   - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:43:11](#t-00-42-53) [✓] (Opinion) **Candace Owens**: ["Owens argued that Erika publicly forgiving Tyler Robinson implied that Erika had..."](/statements/statement-e09c48bade79.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:43:54](#t-00-43-40) [○] (Accusation) **Candace Owens**: ["Turning Point USA is behaving as though it is guilty and believes it can spend m..."](/statements/statement-6b9fc27743bb.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:44:46](#t-00-44-24) [○] (Opinion) **Candace Owens**: ["Don Lemon's arrest was pure theater undertaken because Pam Bondi wanted a headli..."](/statements/statement-64b2aabf8511.md)

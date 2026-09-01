@@ -22,9 +22,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -45,6 +45,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -182,13 +186,16 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Marcus Wada (4)</strong></summary>
+<summary><strong class="section-title">Statements about Marcus Wada (5)</strong></summary>
 
 <details>
-<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2)</summary>
 
 - [00:36:55](/episodes/ep-4DvYXBn_5JI.md#t-00-36-33) (Claim) **Candace Owens**: ["Candace Owens said Turning Point USA's Marcus Wada was meeting and com..."](/statements/statement-d5234fd90141.md)
   - Also about: [VFXLA](/entities/org-vfxla.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:40](/episodes/ep-4DvYXBn_5JI.md#t-00-37-13) (Claim) **Candace Owens**: ["Candace Owens said she could not confirm that VFXLA created any conten..."](/statements/statement-3e999873bc1d.md)
+  - Also about: [VFXLA](/entities/org-vfxla.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

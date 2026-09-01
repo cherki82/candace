@@ -26,9 +26,9 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <div><span>Episodes</span><strong>47</strong></div>
 <div><span>Mentions</span><strong>105</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>35</strong></div>
+<div><span>Statements about</span><strong>37</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -137,6 +137,10 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -744,7 +748,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pro-Israel advocacy (35)</strong></summary>
+<summary><strong class="section-title">Statements about Pro-Israel advocacy (37)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2)</summary>
@@ -905,6 +909,14 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 </details>
 
 <details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1)</summary>
+
+- [00:06:02](/episodes/ep-5-HUyv9LyMg.md#t-00-05-42) (Accusation) **Candace Owens**: ["Candace Owens said the proposed building overlap felt like a massive c..."](/statements/statement-68724cf852dd.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1)</summary>
 
 - [00:04:23](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Charlie Kirk had said he was done with the pro-Isra..."](/statements/statement-e1a16587194a.md)
@@ -932,10 +944,13 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2)</summary>
 
 - [00:39:10](/episodes/ep-CMcktj3Egfo.md#t-00-38-55) (Claim) **Megyn Kelly** (via quoted speech): ["Megyn Kelly said pro-Israel Jewish media friends turned against her an..."](/statements/statement-404e98df0a8f.md)
   - Also about: [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md), [Antisemitism](/entities/concept-antisemitism.md)
+
+- [00:42:00](/episodes/ep-CMcktj3Egfo.md#t-00-41-50) (Accusation) **Candace Owens**: ["Owens said she believed Kirk was murdered because pro-Israel actors co..."](/statements/statement-caae9248df55.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </details>
 

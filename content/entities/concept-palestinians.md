@@ -1,6 +1,6 @@
 ---
 title: "Palestinians"
-description: "Palestinians (Concepts) - 33 mentions"
+description: "Palestinians (Concepts) - 35 mentions"
 id: "concept-palestinians"
 type: "CONCEPT"
 aliases:
@@ -19,8 +19,8 @@ _Type: Concepts_
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-concept-palestinians-t-00-31-57">2025-09-22 · 00:32:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-palestinians-t-00-50-45">2026-07-16 · 00:51:11</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,6 +36,7 @@ _Type: Concepts_
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-palestinians-t-00-36-18" style="--pulse-height:40%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-concept-palestinians-t-00-02-14" style="--pulse-height:60%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 3 mentions" title="2025-11-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-palestinians-t-00-43-11" style="--pulse-height:40%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-concept-palestinians-t-00-19-31" style="--pulse-height:40%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 2 mentions" title="2025-11-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-palestinians-t-00-52-05" style="--pulse-height:20%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-concept-palestinians-t-00-51-51" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-concept-palestinians-t-00-47-48" style="--pulse-height:20%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
@@ -59,6 +60,7 @@ _Type: Concepts_
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-palestinians-t-00-36-18) | 2 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-concept-palestinians-t-00-02-14) | 3 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-palestinians-t-00-43-11) | 2 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-concept-palestinians-t-00-19-31) | 2 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-palestinians-t-00-52-05) | 1 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-concept-palestinians-t-00-51-51) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-concept-palestinians-t-00-47-48) | 1 |
@@ -79,7 +81,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
@@ -212,6 +214,17 @@ _Type: Concepts_
 
 **[00:52:33](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-palestinians-t-00-52-05)**
 > "Do you think that the Palestinians don't want to stay in Gaza where they've been? Of..."
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
+
+**[00:19:31](/episodes/ep-r1PS67aRmcA.md#ent-concept-palestinians-t-00-19-31)**
+> "...d, laughing at photos of dead Palestinian babies."
+
+**[00:38:44](/episodes/ep-r1PS67aRmcA.md#ent-concept-palestinians-t-00-38-17)**
+> "...ts and the cruelties that the Palestinian children are suffering at the hands of Benjamin N..."
 
 </details>
 

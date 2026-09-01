@@ -28,9 +28,9 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 <div><span>Episodes</span><strong>13</strong></div>
 <div><span>Mentions</span><strong>87</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -71,6 +71,10 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -512,7 +516,7 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Wilmington (17)</strong></summary>
+<summary><strong class="section-title">Statements about Wilmington (18)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
@@ -526,10 +530,10 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2)</summary>
 
 - [00:13:44](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["The Egyptian plane that flew from Provo to Delaware on the morning of ..."](/statements/statement-433bf618ec0f.md)
-  - Also about: [Provo](/entities/gpe-provo.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Provo](/entities/gpe-provo.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [SU-BTT](/entities/vehicle-su-btt.md)
 
 - [00:14:06](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["Walid Mahmood was one of four people aboard the Egyptian plane that fl..."](/statements/statement-4e84712d393b.md)
-  - Also about: [Provo](/entities/gpe-provo.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md)
+  - Also about: [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md), [Provo](/entities/gpe-provo.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -538,6 +542,14 @@ Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delawar
 
 - [00:12:04](/episodes/ep-a-e7HC6SeK8.md#t-00-11-53) (Claim) **Candace Owens**: ["Stacey Sheridan's registered agent for Cloverstone Ventures is in the ..."](/statements/statement-15658318a1f2.md)
   - Also about: [Cloverstone Ventures](/entities/org-cloverstone-ventures.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md)
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
+
+- [00:21:44](/episodes/ep-sImMM04XdWY.md#t-00-21-35) (Claim) **Candace Owens**: ["Candace Owens said SU-BTT left Paris on September 4, stayed at its nex..."](/statements/statement-fc8a58ed2319.md)
+  - Also about: [SU-BTT](/entities/vehicle-su-btt.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

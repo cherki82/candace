@@ -24,7 +24,7 @@ date: "2022-03-04"
 **Timestamp:** [00:36:38](/episodes/ep-_vg7ucP1E0g.md#event-event-2022-03-04-eric-richins-was-murdered-t-00-36-24) 
 <a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=2198s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> March 4th, 2022 is when her husband Eric Richens was murdered
+> March 4th, 2022 is when her husband Eric Richins was murdered, and it took them until May of 2023
 
 ### 2. TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizar...
 

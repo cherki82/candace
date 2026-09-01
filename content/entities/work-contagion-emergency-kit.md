@@ -1,6 +1,6 @@
 ---
 title: "Contagion Emergency Kit"
-description: "Contagion Emergency Kit (Works & Media) - 8 mentions"
+description: "Contagion Emergency Kit (Works & Media) - 10 mentions"
 id: "work-contagion-emergency-kit"
 type: "WORK"
 categories:
@@ -19,9 +19,9 @@ Source: [Contagion Kit | The Wellness Company](https://www.twc.health/pages/cont
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-work-contagion-emergency-kit-t-00-22-47">2025-09-19 · 00:23:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-work-contagion-emergency-kit-t-00-46-07">2025-10-31 · 00:46:24</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-work-contagion-emergency-kit-t-00-44-40">2025-11-08 · 00:45:19</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,7 @@ Source: [Contagion Kit | The Wellness Company](https://www.twc.health/pages/cont
 <a href="/episodes/ep-c5BcKF91iec.md#ent-work-contagion-emergency-kit-t-00-45-11" style="--pulse-height:100%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-work-contagion-emergency-kit-t-00-25-24" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-work-contagion-emergency-kit-t-00-46-07" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-work-contagion-emergency-kit-t-00-44-40" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 2 mentions" title="2025-11-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Contagion Kit | The Wellness Company](https://www.twc.health/pages/cont
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-work-contagion-emergency-kit-t-00-45-11) | 2 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-work-contagion-emergency-kit-t-00-25-24) | 2 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-work-contagion-emergency-kit-t-00-46-07) | 2 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-work-contagion-emergency-kit-t-00-44-40) | 2 |
 
 </details>
 </section>
@@ -52,7 +54,18 @@ Source: [Contagion Kit | The Wellness Company](https://www.twc.health/pages/cont
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
+
+**[00:45:02](/episodes/ep-r1PS67aRmcA.md#ent-work-contagion-emergency-kit-t-00-44-40)**
+> "Grab a Contagion Emergency Kit from The Wellness Company."
+
+**[00:45:19](/episodes/ep-r1PS67aRmcA.md#ent-work-contagion-emergency-kit-t-00-44-40)**
+> "I have a Contagion Emergency Kit from The Wellness Company because I refuse to be ..."
+
+</details>
 
 <details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>

@@ -27,9 +27,9 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <div><span>Episodes</span><strong>63</strong></div>
 <div><span>Mentions</span><strong>236</strong></div>
 <div><span>Statements by</span><strong>13</strong></div>
-<div><span>Statements about</span><strong>70</strong></div>
+<div><span>Statements about</span><strong>78</strong></div>
 <div><span>Relationships</span><strong>66</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -170,6 +170,10 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -1941,7 +1945,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Bowyer (70)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Bowyer (78)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2025,10 +2029,15 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1)</summary>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (3)</summary>
 
 - [00:23:03](/episodes/ep-H9p2ZGHAs9A.md#t-00-22-38) (Claim) **Tyler Bowyer** (via quoted post): ["Tyler Bowyer wrote that he studied Romanian in college to complement h..."](/statements/statement-5104dc0349f5.md)
   - Also about: [Romania](/entities/gpe-romania.md)
+
+- [00:23:16](/episodes/ep-H9p2ZGHAs9A.md#t-00-23-16) (Accusation) **Candace Owens**: ["Candace Owens said she believed Tyler Bowyer's 2010 Romania trip was p..."](/statements/statement-c350a6b31e28.md)
+
+- [00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12) (Accusation) **Candace Owens**: ["Candace Owens said the Arizona–Romania pipeline and its links around T..."](/statements/statement-97b910cdee93.md)
+  - Also about: [Arizona State University](/entities/org-arizona-state-university.md)
 
 </details>
 
@@ -2084,7 +2093,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Bride Of Charlie: The Lost Years... | Episode 5 (7)</summary>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (8)</summary>
 
 - [00:29:22](/episodes/ep-2tFYJf1klgY.md#t-00-29-09) (Claim) **Tyler Bowyer** (via read message): ["Tyler Bowyer said he went to Romania to work with a senator in its par..."](/statements/statement-519304cbe46c.md)
   - Also about: [Romania](/entities/gpe-romania.md)
@@ -2106,13 +2115,19 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - [00:56:33](/episodes/ep-2tFYJf1klgY.md#t-00-56-00) (Opinion) **Candace Owens**: ["I think prior existing military relationships explain why Erika Kirk i..."](/statements/statement-7e7c3fd5e4f7.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
+- [00:56:43](/episodes/ep-2tFYJf1klgY.md#t-00-56-43) (Accusation) **Candace Owens**: ["Owens's theory is that Erika Kirk, the Frantzves, and Tyler Bowyer kne..."](/statements/statement-6c35e401fb0e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 </details>
 
 <details>
-<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (4)</summary>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (6)</summary>
 
 - [00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01) (Claim) **Candace Owens**: ["Lori Frantzve was placed on the Superfeed Technologies board alongside..."](/statements/statement-7005646340ac.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+- [00:00:52](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42) (Citation) **Candace Owens** (via paraphrase): ["Owens reported unverified online rumors that money from Turning Point ..."](/statements/statement-45cb806aceb1.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
 
 - [00:01:03](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42) (Accusation) **Candace Owens**: ["Candace Owens said Lori Frantzve and Tyler Bowyer were in cahoots"](/statements/statement-300d4c89979b.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md)
@@ -2122,16 +2137,22 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 - [00:21:56](/episodes/ep-cZxHqYsWRYg.md#t-00-21-44) (Accusation) **Candace Owens**: ["Tyler Bowyer received a federal pardon for conduct involving alleged e..."](/statements/statement-f29baa6b0441.md)
 
+- [00:57:29](/episodes/ep-cZxHqYsWRYg.md#t-00-57-02) (Opinion) **Candace Owens**: ["Owens theorized that Lori Frantzve knew what Erika needed from Charlie..."](/statements/statement-1845c929b481.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 </details>
 
 <details>
-<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2)</summary>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (3)</summary>
 
 - [00:44:44](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37) (Claim) **Candace Owens**: ["Tyler Bowyer introduced Erika Kirk to Charlie Kirk"](/statements/statement-a5051df38fb6.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57) (Accusation) **Anonymous Source #4 (Ep 1IY2oD-_xVA)** (via quoted speech): ["The missing money was specifically from Turning Point Action, which Ty..."](/statements/statement-fc9de08969ab.md)
   - Also about: [Turning Point Action](/entities/org-turning-point-action.md)
+
+- [00:56:29](/episodes/ep-1IY2oD-_xVA.md#t-00-56-20) (Accusation) **Candace Owens**: ["Owens accused Erika Kirk of covering for the roughly $10 million alleg..."](/statements/statement-864b86203e5c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point Action](/entities/org-turning-point-action.md)
 
 </details>
 
@@ -2152,6 +2173,14 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (1)</summary>
+
+- [00:07:07](/episodes/ep-mFuno0TuuQQ.md#t-00-06-56) (Accusation) **Candace Owens**: ["Owens said she warned Kirk specifically about Stacy Sheridan and warne..."](/statements/statement-04080850ecae.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Dan Flood](/entities/person-dan-flood.md)
+
+</details>
+
+<details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1)</summary>
 
 - [00:21:45](/episodes/ep-gG4ZoYUjUc8.md#t-00-21-22) (Claim) **Tyler Bowyer** (via quoted tweet): ["We run everything like a military op. All of our people are from that ..."](/statements/statement-cb03f880640c.md)
@@ -2167,17 +2196,20 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (2)</summary>
 
 - [00:03:31](/episodes/ep-9naMwS0kMBE.md#t-00-03-31) (Opinion) **Baron Coleman**: ["Erika Kirk is ultimately calling the shots at Turning Point USA and, i..."](/statements/statement-5399a2078658.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:49:45](/episodes/ep-9naMwS0kMBE.md#t-00-49-23) (Claim) **Candace Owens**: ["Owens said private group-chat messages show that before Kirk's death s..."](/statements/statement-bf66e09dc86c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Shaffer Security Group](/entities/org-shaffer-security-group.md)
 
 </details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["Four months before Alton C. Jennings died, his will was changed in Nov..."](/statements/statement-c59ce538da60.md)
+- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["The December 2024 estate petition said that four months before Jenning..."](/statements/statement-c59ce538da60.md)
   - Also about: [Alton C. Jennings](/entities/person-alton-c-jennings.md), [Turning Point Action](/entities/org-turning-point-action.md)
 
 </details>
@@ -2252,7 +2284,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - [00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20) (Claim) **Candace Owens**: ["Owens said Donald Trump had pardoned Tyler Bowyer a couple of weeks ea..."](/statements/statement-31778ff478e8.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
 
-- [00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50) (Claim) **Candace Owens**: ["Justin Strife was announced as the new COO of Turning Point USA on Sep..."](/statements/statement-51eadcc75ceb.md)
+- [00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50) (Claim) **Candace Owens**: ["Justin Streiff was announced as the new COO of Turning Point USA on Se..."](/statements/statement-51eadcc75ceb.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Justin Streiff](/entities/person-justin-streiff.md)
 
 - [00:47:13](/episodes/ep-a-e7HC6SeK8.md#t-00-47-13) (Claim) **Anonymous Source #7 (Ep a-e7HC6SeK8)** (via read message): ["An anonymous research source told Owens that Tyler Bowyer apparently h..."](/statements/statement-33b5a03b992d.md)

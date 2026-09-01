@@ -27,7 +27,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -59,7 +59,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-01-21" style="--pulse-height:26%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 5 mentions" title="2026-01-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-arizona-t-00-09-20" style="--pulse-height:21%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-43" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-01-02-36" style="--pulse-height:21%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-09-01" style="--pulse-height:21%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-00-01" style="--pulse-height:42%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 8 mentions" title="2026-01-22 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-arizona-t-00-13-22" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-arizona-t-00-17-57" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
@@ -74,7 +74,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-arizona-t-00-45-19" style="--pulse-height:42%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 8 mentions" title="2026-02-25 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-arizona-t-00-12-29" style="--pulse-height:42%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 8 mentions" title="2026-02-27 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-arizona-t-00-06-16" style="--pulse-height:47%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 9 mentions" title="2026-02-28 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-arizona-t-00-41-14" style="--pulse-height:16%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-arizona-t-00-15-23" style="--pulse-height:16%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-00-56" style="--pulse-height:53%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 10 mentions" title="2026-03-03 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-arizona-t-00-31-12" style="--pulse-height:74%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 14 mentions" title="2026-03-04 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-arizona-t-00-16-51" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 19 mentions" title="2026-03-06 · 19 mentions"><span></span></a>
@@ -97,7 +97,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-arizona-t-00-17-14" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-arizona-t-00-01-18" style="--pulse-height:11%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-arizona-t-00-06-56" style="--pulse-height:16%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 3 mentions" title="2026-06-22 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#t-00-39-22" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-arizona-t-00-39-22" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-arizona-t-00-26-23" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-arizona-t-00-07-00" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-arizona-t-00-23-21" style="--pulse-height:16%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
@@ -136,7 +136,7 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-01-21) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-arizona-t-00-09-20) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-43) | 1 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-01-02-36) | 4 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-09-01) | 4 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-00-01) | 8 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-arizona-t-00-13-22) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-arizona-t-00-17-57) | 1 |
@@ -151,7 +151,7 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-arizona-t-00-45-19) | 8 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-arizona-t-00-12-29) | 8 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-arizona-t-00-06-16) | 9 |
-| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-arizona-t-00-41-14) | 3 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-arizona-t-00-15-23) | 3 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-00-56) | 10 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-arizona-t-00-31-12) | 14 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-arizona-t-00-16-51) | 19 |
@@ -174,7 +174,7 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-arizona-t-00-17-14) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-arizona-t-00-01-18) | 2 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-arizona-t-00-06-56) | 3 |
-| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#t-00-39-22) | 1 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-arizona-t-00-39-22) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-arizona-t-00-26-23) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-arizona-t-00-07-00) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-arizona-t-00-23-21) | 3 |
@@ -186,6 +186,10 @@ Source: [State of Arizona official website](https://az.gov/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -277,7 +281,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
 
-**[00:39:57](/episodes/ep-9CuC1yf8-PU.md#t-00-39-22)**
+**[00:39:57](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-arizona-t-00-39-22)**
 > "When Erika (Erika Kirk) was Miss Arizona."
 
 </details>
@@ -390,7 +394,7 @@ Source: [State of Arizona official website](https://az.gov/)
 **[00:19:36](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-19-36)**
 > "Arizona's beauty queen arrives fashionably late to the dinn..."
 
-**[00:20:49](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-19-36)**
+**[00:20:49](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-20-20)**
 > "...as well. And look, she's Miss Arizona, right?"
 
 </details>
@@ -628,19 +632,19 @@ Source: [State of Arizona official website](https://az.gov/)
 **[00:24:19](/episodes/ep-y8lak3CRwDw.md#ent-gpe-arizona-t-00-15-08)**
 > "Erika will enroll into Arizona State University for her final year of school. No..."
 
-**[00:24:36](/episodes/ep-y8lak3CRwDw.md#ent-gpe-arizona-t-00-15-08)**
+**[00:24:36](/episodes/ep-y8lak3CRwDw.md#ent-gpe-arizona-t-00-24-29)**
 > "... come up, Erika wins the Miss Arizona competition in November. OK, that makes her Miss ..."
 
-**[00:24:48](/episodes/ep-y8lak3CRwDw.md#ent-gpe-arizona-t-00-15-08)**
+**[00:24:48](/episodes/ep-y8lak3CRwDw.md#ent-gpe-arizona-t-00-24-29)**
 > "...in 2011 and then you are Miss Arizona for 2012 for those of you who know nothing about ..."
 
-**[00:25:52](/episodes/ep-y8lak3CRwDw.md#ent-gpe-arizona-t-00-15-08)**
+**[00:25:52](/episodes/ep-y8lak3CRwDw.md#ent-gpe-arizona-t-00-25-52)**
 > "that begins her year as Miss Arizona. In February, Everyday Heroes Like You begins wha..."
 
-**[00:27:27](/episodes/ep-y8lak3CRwDw.md#ent-gpe-arizona-t-00-15-08)**
+**[00:27:27](/episodes/ep-y8lak3CRwDw.md#ent-gpe-arizona-t-00-25-52)**
 > "...ke I said, magna cum laude at Arizona State University. Per her LinkedIn, she was a dou..."
 
-**[00:29:16](/episodes/ep-y8lak3CRwDw.md#ent-gpe-arizona-t-00-15-08)**
+**[00:29:16](/episodes/ep-y8lak3CRwDw.md#ent-gpe-arizona-t-00-25-52)**
 > "... you, the handle is real Miss Arizona USA and who that is changes every year. It's like..."
 
 **[00:33:27](/episodes/ep-y8lak3CRwDw.md#ent-gpe-arizona-t-00-33-09)**
@@ -689,13 +693,13 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (3 mentions)</summary>
 
-**[00:15:23](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-arizona-t-00-41-14)**
+**[00:15:23](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-arizona-t-00-15-23)**
 > "...l pathway for her to win Miss Arizona in 2012 because, you know, NBC Universal, Univers..."
 
 **[00:41:30](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-arizona-t-00-41-14)**
 > "...t was before she went down to Arizona."
 
-**[00:43:59](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-arizona-t-00-41-14)**
+**[00:43:59](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-arizona-t-00-43-59)**
 > "like with Miss Arizona I was so done with that world it was very toxic I..."
 
 </details>
@@ -944,13 +948,13 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (4 mentions)</summary>
 
-**[00:08:31](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-01-02-36)**
+**[00:08:31](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-09-01)**
 > "And apparently Miss Arizona USA has the same thing, that the Miss Arizona USA..."
 
-**[00:08:44](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-01-02-36)**
+**[00:08:44](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-09-01)**
 > "...to Erika Kirk's reign as Miss Arizona USA and read her social media,"
 
-**[00:09:30](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-01-02-36)**
+**[00:09:30](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-09-01)**
 > "...a was it was her year as Miss Arizona,"
 
 **[01:02:45](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-01-02-36)**

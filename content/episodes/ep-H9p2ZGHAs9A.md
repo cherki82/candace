@@ -1,14 +1,14 @@
 ---
 id: "H9p2ZGHAs9A"
 title: "EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310"
-description: "EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 - 94 entities, 7 events, 22 factual claims"
+description: "EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 - 94 entities, 7 events, 23 factual claims"
 published: "2026-03-11"
 youtube_url: "https://www.youtube.com/watch?v=H9p2ZGHAs9A"
 ---
 
 **Published:** 2026-03-11 | [Watch on YouTube](https://www.youtube.com/watch?v=H9p2ZGHAs9A)
 
-**Stats:** 94 entities | 7 events | 22 factual claims
+**Stats:** 94 entities | 7 events | 23 factual claims
 
 ---
 
@@ -88,7 +88,7 @@ youtube_url: "https://www.youtube.com/watch?v=H9p2ZGHAs9A"
 ---
 **🎤 Erika Kirk**
 
-**<a href="/timestamps/ep-H9p2ZGHAs9A/t-00-18-54.md" class="timestamp-link">00:18:54</a> <a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=1134" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Erika Kirk:** We just have a borderless heart to help people and to give back. And, you know, I have been to <span id="ent-gpe-romania-t-00-18-54"><a href="/entities/gpe-romania.md">Romania</a></span> and teamed up with the <span id="ent-org-united-states-marine-corps-t-00-18-54"><a href="/entities/org-united-states-marine-corps.md">Marine Corps</a></span> to open up and sustain an orphanage with 75 beautiful children. You know, I have been to <a href="/entities/gpe-romania.md">Romania</a> and teamed up with the <a href="/entities/org-united-states-marine-corps.md">Marine Corps</a> to open up and sustain an orphanage with 75 beautiful children. So and that's called <span id="ent-org-romanian-angels-project-t-00-18-54"><a href="/entities/org-romanian-angels-project.md">Romanian Angels</a></span> through my nonprofit <span id="ent-org-everyday-heroes-like-you-t-00-18-54"><a href="/entities/org-everyday-heroes-like-you.md">Everyday Heroes Like You</a></span>. ^t-00-18-54
+**<a href="/timestamps/ep-H9p2ZGHAs9A/t-00-18-54.md" class="timestamp-link">00:18:54</a> <a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=1134" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Erika Kirk:** We just have a borderless heart to help people and to give back. And, you know, I have been to <span id="ent-gpe-romania-t-00-18-54"><a href="/entities/gpe-romania.md">Romania</a></span> and teamed up with the <span id="ent-org-united-states-marine-corps-t-00-18-54"><a href="/entities/org-united-states-marine-corps.md">Marine Corps</a></span> to open up and sustain an orphanage with 75 beautiful children. So and that's called <span id="ent-org-romanian-angels-project-t-00-18-54"><a href="/entities/org-romanian-angels-project.md">Romanian Angels</a></span> through my nonprofit <span id="ent-org-everyday-heroes-like-you-t-00-18-54"><a href="/entities/org-everyday-heroes-like-you.md">Everyday Heroes Like You</a></span>. ^t-00-18-54
 
 ---
 **🎤 Candace Owens**
@@ -257,12 +257,14 @@ youtube_url: "https://www.youtube.com/watch?v=H9p2ZGHAs9A"
 </details>
 
 <details>
-<summary><strong>Statements (37)</strong></summary>
+<summary><strong>Statements (43)</strong></summary>
 
 - [00:00:07](#t-00-00-07) [○] (Opinion) **Anonymous Woman in Opening Clip (Ep H9p2ZGHAs9A)**: ["The woman in the opening clip said she would not vote for Erika Kirk if Kirk wer..."](/statements/statement-938fc65fc7aa.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:02:28](#t-00-02-28) [◐] (Claim) **Candace Owens**: ["Candace Owens said NEXT Management was co-founded by Faith Kates, a dear friend ..."](/statements/statement-7a0bdaabab64.md)
   - About: [NEXT Management](/entities/org-next-management.md), [Faith Kates](/entities/person-faith-kates.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+- [00:02:52](#t-00-02-28) [✓] (Claim) **Candace Owens**: ["Candace Owens said Jeffrey Epstein frequently visited NEXT Management's office b..."](/statements/statement-708e15cf22dc.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [NEXT Management](/entities/org-next-management.md), [Faith Kates](/entities/person-faith-kates.md)
 - [00:02:59](#t-00-02-59) [✓] (Claim) **Candace Owens**: ["Candace Owens said Faith Kates knew Jeffrey Epstein before co-founding NEXT Mana..."](/statements/statement-31a1b85834d9.md)
   - About: [Faith Kates](/entities/person-faith-kates.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [NEXT Management](/entities/org-next-management.md)
 - [00:03:42](#t-00-03-42) [✓] (Claim) **Jeffrey Epstein**: ["Jeffrey Epstein wrote to Peter Thiel, "I represent the Rothschilds," and referre..."](/statements/statement-724744a9c03b.md)
@@ -275,10 +277,14 @@ youtube_url: "https://www.youtube.com/watch?v=H9p2ZGHAs9A"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [NEXT Management](/entities/org-next-management.md)
 - [00:07:16](#t-00-07-16) [○] (Claim) **Anonymous NEXT Management Eyewitnesses (Ep H9p2ZGHAs9A)**: ["Anonymous NEXT Management eyewitnesses recalled Erika Kirk as the contact for a ..."](/statements/statement-6a1a6e70bb58.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [NEXT Management](/entities/org-next-management.md), [Upper East Side](/entities/gpe-upper-east-side.md)
+- [00:07:51](#t-00-07-16) [✓] (Citation) **Candace Owens**: ["Candace Owens said the anonymous NEXT Management sources did not know why Erika ..."](/statements/statement-8ee54917f8f1.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [NEXT Management](/entities/org-next-management.md)
 - [00:07:55](#t-00-07-55) [○] (Claim) **Candace Owens**: ["Candace Owens said Erika Kirk did not yet have a real-estate license when the re..."](/statements/statement-6585b39ef706.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [NEXT Management](/entities/org-next-management.md)
 - [00:08:21](#t-00-07-55) [○] (Claim) **Candace Owens**: ["Candace Owens reported that Erika Kirk told people at the time that she was doin..."](/statements/statement-10b963c9e637.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:10:26](#t-00-10-26) [✓] (Opinion) **Candace Owens**: ["Candace Owens suggested Erika Kirk's reference to doing real-estate deals with f..."](/statements/statement-47008c093969.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Nicole Rothstein](/entities/person-nicole-rothstein.md), [Allan P. Rothstein](/entities/person-allan-p-rothstein.md)
 - [00:11:59](#t-00-11-49) [✓] (Citation) **Candace Owens**: ["Candace Owens cited Erika Kirk's real-estate biography as claiming that her expe..."](/statements/statement-cc45b450f9d6.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [New York City](/entities/gpe-new-york-city.md)
 - [00:13:16](#t-00-12-32) [○] (Accusation) **Candace Owens**: ["Candace Owens said she could not confirm Erika Kirk's claim to have graduated ma..."](/statements/statement-42bd8e5a50f4.md)
@@ -303,6 +309,8 @@ youtube_url: "https://www.youtube.com/watch?v=H9p2ZGHAs9A"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Antonio Placement Center](/entities/org-antonio-placement-center.md), [Romanian Angels Project](/entities/org-romanian-angels-project.md)
 - [00:23:03](#t-00-22-38) [○] (Claim) **Tyler Bowyer**: ["Tyler Bowyer wrote that he studied Romanian in college to complement his Russian..."](/statements/statement-5104dc0349f5.md)
   - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Romania](/entities/gpe-romania.md)
+- [00:23:16](#t-00-23-16) [✓] (Accusation) **Candace Owens**: ["Candace Owens said she believed Tyler Bowyer's 2010 Romania trip was part of a c..."](/statements/statement-c350a6b31e28.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 - [00:23:39](#t-00-23-16) [✓] (Claim) **Candace Owens**: ["Candace Owens said Arizona State University was the only university in the Unite..."](/statements/statement-6478f9163976.md)
   - About: [Arizona State University](/entities/org-arizona-state-university.md), [Romania](/entities/gpe-romania.md), [United States](/entities/gpe-united-states.md)
 - [00:23:53](#t-00-23-16) [✓] (Claim) **Candace Owens**: ["Candace Owens said Arizona State University became the site of an Honorary Consu..."](/statements/statement-624737293feb.md)
@@ -311,6 +319,8 @@ youtube_url: "https://www.youtube.com/watch?v=H9p2ZGHAs9A"
   - About: [Arizona State University](/entities/org-arizona-state-university.md), [Romania](/entities/gpe-romania.md)
 - [00:25:12](#t-00-25-12) [✓] (Claim) **Candace Owens**: ["Candace Owens said Arizona was set to become the first United States state to op..."](/statements/statement-3cf6d94c242b.md)
   - About: [Arizona](/entities/gpe-arizona.md), [Romania](/entities/gpe-romania.md), [United States](/entities/gpe-united-states.md)
+- [00:25:42](#t-00-25-12) [✓] (Accusation) **Candace Owens**: ["Candace Owens said the Arizona–Romania pipeline and its links around Tyler Bowye..."](/statements/statement-97b910cdee93.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Arizona State University](/entities/org-arizona-state-university.md)
 - [00:26:23](#t-00-25-53) [◐] (Claim) **Candace Owens**: ["Candace Owens said Superfeed Technologies owned the copyright to Turning Point U..."](/statements/statement-206aa804fb4c.md)
   - About: [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:31:35](#t-00-31-20) [✗] (Claim) **Candace Owens**: ["Candace Owens said the Arizona Senate passed the Charlie Kirk memorial license-p..."](/statements/statement-d8d71d9da446.md)
@@ -329,6 +339,8 @@ youtube_url: "https://www.youtube.com/watch?v=H9p2ZGHAs9A"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:38:28](#t-00-38-28) [✓] (Accusation) **Tyler Bowyer**: ["Tyler Bowyer accused Katie Hobbs of vetoing the Charlie Kirk license-plate bill ..."](/statements/statement-407dc980b047.md)
   - About: [Katie Hobbs](/entities/person-katie-hobbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Arizona Senate Bill 1439 (2026)](/entities/law-arizona-sb-1439-2026.md)
+- [00:43:22](#t-00-43-22) [✓] (Accusation) **Candace Owens**: ["Candace Owens said real estate is traditionally used to hide money and treated E..."](/statements/statement-618ced6aa08b.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 - [00:45:11](#t-00-44-46) [○] (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk had made clear that he was tired of being bullie..."](/statements/statement-169aee42e551.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Zionism](/entities/concept-zionism.md)
 - [00:46:36](#t-00-46-36) [○] (Opinion) **Candace Owens**: ["Candace Owens said the Trump family had betrayed Charlie Kirk's legacy by not de..."](/statements/statement-6221f51a5f95.md)

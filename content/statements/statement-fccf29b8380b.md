@@ -4,9 +4,10 @@ description: "\"SUBTT came from Cairo through Paris to Omaha, Nebraska on July 2
 statement_id: "statement-fccf29b8380b"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -45,7 +46,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Owens corrected the prior-day error, and the corrected route matches primary ADS-B reconstruction: Cairo via Paris to the Omaha/Lincoln area on July 20, six days at Lincoln, then Wilmington on July 26 and Cairo on July 27.
+
+**Confidence:** High
+
+**Sources:**
+
+- [20 July 2025 — Omaha / Lincoln, NE: primary ADS-B reconstruction](https://whoassassinatedcharliekirk.com/Planes/following/overlap/20250720_NE_omaha_lincoln_owens_038/overview)
+
+*Verified: 2026-08-31T22:59:46.265781*
 
 ---
 

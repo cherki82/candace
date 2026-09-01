@@ -27,9 +27,9 @@ Source: [About CIA](https://www.cia.gov/about/)
 <div><span>Episodes</span><strong>72</strong></div>
 <div><span>Mentions</span><strong>174</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>61</strong></div>
+<div><span>Statements about</span><strong>64</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -188,6 +188,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -1316,7 +1320,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Central Intelligence Agency (61)</strong></summary>
+<summary><strong class="section-title">Statements about Central Intelligence Agency (64)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
@@ -1383,7 +1387,15 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (6)</summary>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+
+- [00:45:51](/episodes/ep-jsqUIkszZd0.md#t-00-45-51) (Opinion) **Candace Owens**: ["Candace Owens asked whether Victor Marx's reported overseas weapons an..."](/statements/statement-13fc1eb8c40b.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md)
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (8)</summary>
 
 - [00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA recruits directly from BYU and specifically from BYU's Jerusal..."](/statements/statement-862b7ba82e4c.md)
   - Also about: [Brigham Young University](/entities/org-brigham-young-university.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md), [Jerusalem](/entities/gpe-jerusalem.md)
@@ -1393,8 +1405,14 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 - [00:26:30](/episodes/ep-rupRLXmSndU.md#t-00-26-20) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA uses a company called Metro One Talent to interview young recr..."](/statements/statement-6a06b35888db.md)
 
+- [00:27:00](/episodes/ep-rupRLXmSndU.md#t-00-26-20) (Opinion) **Candace Owens**: ["Whether Andrew Zenger was recruited by the CIA remains an open questio..."](/statements/statement-12abc8688520.md)
+  - Also about: [Andrew Zenger](/entities/person-andrew-zenger.md)
+
 - [00:27:04](/episodes/ep-rupRLXmSndU.md#t-00-27-04) (Claim) **Candace Owens**: ["Michael Sean Covey, who roomed with Andrew Zenger in Jerusalem, later ..."](/statements/statement-aa6071978dd3.md)
   - Also about: [Michael Sean Covey](/entities/person-michael-sean-covey.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Jerusalem](/entities/gpe-jerusalem.md)
+
+- [00:47:30](/episodes/ep-rupRLXmSndU.md#t-00-46-56) (Opinion) **Candace Owens**: ["Owens was not claiming that everyone who attends BYU is affiliated wit..."](/statements/statement-5ce402da0028.md)
+  - Also about: [Brigham Young University](/entities/org-brigham-young-university.md)
 
 - [00:47:40](/episodes/ep-rupRLXmSndU.md#t-00-47-40) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA approaches selected students at BYU's Hawaii and Jerusalem cam..."](/statements/statement-55fc338c7349.md)
   - Also about: [Brigham Young University](/entities/org-brigham-young-university.md), [Hawaii](/entities/gpe-hawaii.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)

@@ -108,7 +108,7 @@ youtube_url: "https://www.youtube.com/watch?v=HYn0P-P1wUw"
 ---
 **🎤 Tyler Bowyer**
 
-**<a href="/timestamps/ep-HYn0P-P1wUw/t-00-28-51.md" class="timestamp-link">00:28:51</a> <a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=1731" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Tyler Bowyer:** At his wedding, I told the story of talking <span id="ent-person-charlie-kirk-t-00-28-51"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> into moving to <span id="ent-gpe-arizona-t-00-28-51"><a href="/entities/gpe-arizona.md">Arizona</a></span>. He was an adamant <span id="ent-gpe-chicago-illinois-t-00-28-51"><a href="/entities/gpe-chicago-illinois.md">Chicago</a></span> boy. I needed to break that. Selfishly, I wanted him to love <a href="/entities/gpe-arizona.md">Arizona</a> because I had recently convinced him to move <span id="ent-org-turning-point-usa-t-00-28-51"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span> to <a href="/entities/gpe-arizona.md">Arizona</a>. It was a hard sell at first, and that was until I hosted the first <span id="ent-person-donald-trump-t-00-28-51"><a href="/entities/person-donald-trump.md">Trump</a></span> (<a href="/entities/person-donald-trump.md">Donald Trump</a>) rally in <a href="/entities/person-donald-trump.md">Trump</a> (<a href="/entities/person-donald-trump.md">Donald Trump</a>) rally history right here in <a href="/entities/gpe-arizona.md">Arizona</a> in 2015. I got a call. I got a call from Miss <span id="ent-person-erika-kirk-t-00-28-51"><a href="/entities/person-erika-kirk.md">Erika Kirk</a></span>. <span id="ent-org-miss-arizona-usa-t-00-28-51"><a href="/entities/org-miss-arizona-usa.md">Miss Arizona</a></span> 2012. I just want to help, she said. So naturally I put her right behind the president at that first rally. ^t-00-28-51
+**<a href="/timestamps/ep-HYn0P-P1wUw/t-00-28-51.md" class="timestamp-link">00:28:51</a> <a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=1731" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Tyler Bowyer:** At his wedding, I told the story of talking <span id="ent-person-charlie-kirk-t-00-28-51"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> into moving to <span id="ent-gpe-arizona-t-00-28-51"><a href="/entities/gpe-arizona.md">Arizona</a></span>. He was an adamant <span id="ent-gpe-chicago-illinois-t-00-28-51"><a href="/entities/gpe-chicago-illinois.md">Chicago</a></span> boy. I needed to break that. Selfishly, I wanted him to love <a href="/entities/gpe-arizona.md">Arizona</a> because I had recently convinced him to move <span id="ent-org-turning-point-usa-t-00-28-51"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span> to <a href="/entities/gpe-arizona.md">Arizona</a>. It was a hard sell at first, and that was until I hosted the first <span id="ent-person-donald-trump-t-00-28-51"><a href="/entities/person-donald-trump.md">Trump</a></span> (<a href="/entities/person-donald-trump.md">Donald Trump</a>) rally in <a href="/entities/person-donald-trump.md">Trump</a> (<a href="/entities/person-donald-trump.md">Donald Trump</a>) rally history right here in <a href="/entities/gpe-arizona.md">Arizona</a> in 2015. I got a call. I got a call from Miss <span id="ent-person-erika-kirk-t-00-28-51"><a href="/entities/person-erika-kirk.md">Erika Kirk</a></span>. Miss <a href="/entities/gpe-arizona.md">Arizona</a> 2012. I just want to help, she said. So naturally I put her right behind the president at that first rally. ^t-00-28-51
 
 ---
 **🎤 Candace Owens**
@@ -306,7 +306,7 @@ youtube_url: "https://www.youtube.com/watch?v=HYn0P-P1wUw"
 </details>
 
 <details>
-<summary><strong>Statements (50)</strong></summary>
+<summary><strong>Statements (52)</strong></summary>
 
 - [00:00:14](#t-00-00-00) [◐] (Claim) **Candace Owens**: ["Before the murder case, Tyler Robinson had never been arrested or committed a cr..."](/statements/statement-149f5698bfd9.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -382,6 +382,10 @@ youtube_url: "https://www.youtube.com/watch?v=HYn0P-P1wUw"
   - About: [Albert Farnsworth](/entities/person-albert-farnsworth.md)
 - [00:36:12](#t-00-36-08) [✓] (Accusation) **CBS News**: ["The U.S. Army missed warning signs that civilian commander David Frodsham led a ..."](/statements/statement-72052cf2c4f3.md)
   - About: [David Frodsham](/entities/person-david-frodsham.md), [United States Army](/entities/org-united-states-army.md)
+- [00:37:24](#t-00-37-24) [○] (Opinion) **Candace Owens**: ["Candace Owens proposed Eddie Farnsworth as a possible Fort Huachuca attendee bec..."](/statements/statement-f7e2516eb5ac.md)
+  - About: [Eddie Farnsworth](/entities/person-eddie-farnsworth.md), [Mark Amodei](/entities/person-mark-amodei.md), [Mitch Snow](/entities/person-mitch-snow.md)
+- [00:37:37](#t-00-37-24) [○] (Opinion) **Mitch Snow**: ["Mitch Snow said Eddie Farnsworth looked very familiar when Owens showed him Farn..."](/statements/statement-5c48de32cc0d.md)
+  - About: [Eddie Farnsworth](/entities/person-eddie-farnsworth.md), [Mitch Snow](/entities/person-mitch-snow.md)
 - [00:38:33](#t-00-38-31) [✓] (Citation) **Candace Owens**: ["The 2025 Arizona Commanders Summit began at Davis-Monthan Air Force Base on Sept..."](/statements/statement-2cc4f07e72bb.md)
   - About: [Davis-Monthan Air Force Base](/entities/org-davis-monthan-air-force-base.md)
 - [00:39:19](#t-00-38-59) [✗] (Claim) **Candace Owens**: ["Terryl Farnsworth's father-in-law, Tom Burt, served as executive vice president ..."](/statements/statement-5ef95466efa5.md)

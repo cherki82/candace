@@ -22,7 +22,7 @@ _Type: Vehicles_
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -55,6 +55,10 @@ _Type: Vehicles_
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -288,10 +292,11 @@ _Type: Vehicles_
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2)</summary>
 
-- [00:14:14](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["The yellow Egyptian plane flight from Provo to Delaware on September 1..."](/statements/statement-5dbb401e599c.md)
+- [00:13:44](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["The Egyptian plane that flew from Provo to Delaware on the morning of ..."](/statements/statement-433bf618ec0f.md)
+  - Also about: [Provo](/entities/gpe-provo.md), [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:14:42](/episodes/ep-ZAuuSq_j2_w.md#t-00-14-25) (Claim) **Candace Owens**: ["One of the four passengers on the yellow plane to Delaware was using t..."](/statements/statement-e8ce61355fdf.md)
-  - Also about: [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md)
+- [00:14:06](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["Walid Mahmood was one of four people aboard the Egyptian plane that fl..."](/statements/statement-4e84712d393b.md)
+  - Also about: [Walid Mahmood (identity unverified)](/entities/anon-src-ZAuuSq_j2_w-001.md), [Provo](/entities/gpe-provo.md), [Wilmington](/entities/gpe-wilmington.md)
 
 </details>
 
@@ -303,8 +308,8 @@ _Type: Vehicles_
 - [00:17:21](/episodes/ep-sImMM04XdWY.md#t-00-17-12) (Claim) **Candace Owens**: ["Candace Owens said an Egyptian plane stayed in Wilmington from July 20..."](/statements/statement-6406220b7901.md)
   - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:21:44](/episodes/ep-sImMM04XdWY.md#t-00-21-35) (Claim) **Candace Owens**: ["Candace Owens said plane SU-BTT left Paris on September 4, later staye..."](/statements/statement-fc8a58ed2319.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:21:44](/episodes/ep-sImMM04XdWY.md#t-00-21-35) (Claim) **Candace Owens**: ["Candace Owens said SU-BTT left Paris on September 4, stayed at its nex..."](/statements/statement-fc8a58ed2319.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Wilmington](/entities/gpe-wilmington.md)
 
 </details>
 

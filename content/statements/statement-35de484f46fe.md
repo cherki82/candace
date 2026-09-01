@@ -1,6 +1,6 @@
 ---
-title: "After being hired as Alton C. Jennings's caretaker, Mitchell..."
-description: "\"After being hired as Alton C. Jennings's caretaker, Mitchell Manley Sr. isolated Jennings from friends and family and seized control of his finances.\" — Anonymous Source #1 (Ep ZZGWo6oDscc)"
+title: "Jennings's grandson alleged in the December 2024 estate peti..."
+description: "\"Jennings's grandson alleged in the December 2024 estate petition that caretaker Mitchell Manley Sr. isolated Jennings from friends and family and seiz...\" — Anonymous Source #1 (Ep ZZGWo6oDscc)"
 statement_id: "statement-35de484f46fe"
 speaker: "Anonymous Source #1 (Ep ZZGWo6oDscc)"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> After being hired as Alton C. Jennings's caretaker, Mitchell Manley Sr. isolated Jennings from friends and family and seized control of his finances.
+> Jennings's grandson alleged in the December 2024 estate petition that caretaker Mitchell Manley Sr. isolated Jennings from friends and family and seized control of his finances.
 
 ## Attribution
 

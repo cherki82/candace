@@ -1,14 +1,14 @@
 ---
 id: "ZAsV0fHGBiM"
 title: "Bride Of Charlie: A Wrinkle In Time | Episode 1"
-description: "Bride Of Charlie: A Wrinkle In Time | Episode 1 - 131 entities, 21 events, 29 factual claims"
+description: "Bride Of Charlie: A Wrinkle In Time | Episode 1 - 131 entities, 21 events, 30 factual claims"
 published: "2026-02-25"
 youtube_url: "https://www.youtube.com/watch?v=ZAsV0fHGBiM"
 ---
 
 **Published:** 2026-02-25 | [Watch on YouTube](https://www.youtube.com/watch?v=ZAsV0fHGBiM)
 
-**Stats:** 131 entities | 21 events | 29 factual claims
+**Stats:** 131 entities | 21 events | 30 factual claims
 
 ---
 
@@ -331,7 +331,7 @@ youtube_url: "https://www.youtube.com/watch?v=ZAsV0fHGBiM"
 </details>
 
 <details>
-<summary><strong>Statements (57)</strong></summary>
+<summary><strong>Statements (60)</strong></summary>
 
 - [00:00:00](#t-00-00-00) [◐] (Accusation) **Candace Owens**: ["Erika Kirk, despite having no professional qualifications, was placed at the top..."](/statements/statement-e96658700847.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -351,6 +351,8 @@ youtube_url: "https://www.youtube.com/watch?v=ZAsV0fHGBiM"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:09:17](#t-00-09-17) [○] (Opinion) **Elizabeth Lane**: ["Erika Kirk's public identity changed after her relationship with Charlie Kirk be..."](/statements/statement-2ed73b3574b4.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Christianity](/entities/concept-christianity.md)
+- [00:10:11](#t-00-10-00) [○] (Opinion) **Elizabeth Lane**: ["Elizabeth Lane theorized that Charlie Kirk's conscience-driven rejection of mone..."](/statements/statement-063a20a2eb58.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:10:54](#t-00-10-44) [✓] (Claim) **Elizabeth Lane**: ["Just days after Charlie Kirk's death, Erika Kirk was laying out ambitious plans ..."](/statements/statement-abcccb467cb0.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:11:35](#t-00-11-29) [○] (Citation) **Candace Owens**: ["Candace Owens spoke with Erika Kirk's former boyfriends and old classmates while..."](/statements/statement-2665222525b1.md)
@@ -433,6 +435,8 @@ youtube_url: "https://www.youtube.com/watch?v=ZAsV0fHGBiM"
   - About: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Karla Marie Frantzve Solomon](/entities/person-karla-marie-frantzve-solomon.md), [Zion Gate](/entities/gpe-zion-gate.md)
 - [00:44:39](#t-00-44-39) [✗] (Claim) **Candace Owens**: ["Jack Solomon graduated from Utah Valley University, created its Center for Jewis..."](/statements/statement-244d63ae0c3c.md)
   - About: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Utah Center for Jewish Studies](/entities/org-utah-center-for-jewish-studies.md)
+- [00:45:06](#t-00-44-39) [○] (Opinion) **Candace Owens**: ["Owens questioned why Erika Kirk's Utah relatives did not go to the hospital afte..."](/statements/statement-9c1de331e9ce.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 - [00:45:51](#t-00-45-19) [◐] (Claim) **Candace Owens**: ["Jack Solomon and Norman Vance founded Advanced Patent Technology in 1968; it man..."](/statements/statement-2e0ea31a6b66.md)
   - About: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Norman LaVerne Vance](/entities/person-norman-laverne-vance.md), [Advanced Patent Technology, Inc.](/entities/org-advanced-patent-technology.md)
 - [00:50:08](#t-00-49-39) [✓] (Claim) **Candace Owens**: ["After attending daycare in Cincinnati in 1992, Erika Kirk moved to Arizona befor..."](/statements/statement-284a8c2d9ea5.md)
@@ -447,5 +451,7 @@ youtube_url: "https://www.youtube.com/watch?v=ZAsV0fHGBiM"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tesseract School](/entities/org-tesseract-school.md), [Gan Yeladeem: The Looking Glass School](/entities/org-gan-yeladeem-the-looking-glass-school.md)
 - [00:53:38](#t-00-53-03) [○] (Citation) **Candace Owens**: ["Yearbooks place Erika Kirk at Tesseract School in first grade in 1995-96, second..."](/statements/statement-8e7c1814dc37.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tesseract School](/entities/org-tesseract-school.md)
+- [00:59:03](#t-00-59-01) [○] (Claim) **Candace Owens**: ["Owens said she had not accused Erika Kirk of killing Charlie Kirk."](/statements/statement-5ea6fa4e7999.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

@@ -1,14 +1,14 @@
 ---
 id: "ZzAT2xijKGQ"
 title: "Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309"
-description: "Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 - 102 entities, 34 events, 20 factual claims"
+description: "Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 - 102 entities, 34 events, 21 factual claims"
 published: "2026-03-10"
 youtube_url: "https://www.youtube.com/watch?v=ZzAT2xijKGQ"
 ---
 
 **Published:** 2026-03-10 | [Watch on YouTube](https://www.youtube.com/watch?v=ZzAT2xijKGQ)
 
-**Stats:** 102 entities | 34 events | 20 factual claims
+**Stats:** 102 entities | 34 events | 21 factual claims
 
 ---
 
@@ -305,10 +305,12 @@ youtube_url: "https://www.youtube.com/watch?v=ZzAT2xijKGQ"
 </details>
 
 <details>
-<summary><strong>Statements (41)</strong></summary>
+<summary><strong>Statements (43)</strong></summary>
 
 - [00:00:16](#t-00-00-01) [✓] (Claim) **Candace Owens**: ["President Donald Trump appointed Erika Kirk to the United States Air Force Acade..."](/statements/statement-ef7ff6fdec95.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [United States Air Force Academy](/entities/org-united-states-air-force-academy.md)
+- [00:00:42](#t-00-00-01) [✓] (Accusation) **Candace Owens**: ["Candace Owens said she had a growing hunch that Erika Kirk and Jeffrey Epstein m..."](/statements/statement-90f1cba17e3c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 - [00:02:17](#t-00-02-17) [◐] (Claim) **Candace Owens**: ["The Air Force Academy Board of Visitors has 15 other members who recommend chang..."](/statements/statement-92fc93b4a6c4.md)
   - About: [United States Air Force Academy](/entities/org-united-states-air-force-academy.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Pete Hegseth](/entities/person-pete-hegseth.md)
 - [00:04:12](#t-00-04-12) [◐] (Claim) **Candace Owens**: ["Turning Point USA was taking in $100 million annually."](/statements/statement-e77adaba9bfb.md)
@@ -353,6 +355,8 @@ youtube_url: "https://www.youtube.com/watch?v=ZzAT2xijKGQ"
   - About: [Faith Kates](/entities/person-faith-kates.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [NEXT Management](/entities/org-next-management.md)
 - [00:23:33](#t-00-23-20) [○] (Claim) **Anonymous Source #3 (Ep ZzAT2xijKGQ)**: ["Erika Kirk repeatedly took meetings at Next Model Management with executives aro..."](/statements/statement-0bf84bcaf5be.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Faith Kates](/entities/person-faith-kates.md), [NEXT Management](/entities/org-next-management.md)
+- [00:23:59](#t-00-23-59) [✓] (Claim) **Candace Owens**: ["Candace Owens explicitly said her Next Model Management sources did not see Erik..."](/statements/statement-d97fe1c997f3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 - [00:24:58](#t-00-24-58) [○] (Citation) **Candace Owens**: ["Candace Owens asked Erika Kirk and Andrew Kolvet to explain Kirk's relationship ..."](/statements/statement-b0ea09679a6e.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [NEXT Management](/entities/org-next-management.md)
 - [00:26:56](#t-00-26-36) [◐] (Claim) **Candace Owens**: ["In 2018 Erika Kirk obtained a New York real-estate license to work with The Corc..."](/statements/statement-4b949cc4219d.md)

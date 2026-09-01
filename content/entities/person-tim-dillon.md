@@ -21,10 +21,10 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-tim-dillon-t-00-01-40">2026-07-16 · 00:01:48</a></strong></div>
 <div><span>Episodes</span><strong>20</strong></div>
 <div><span>Mentions</span><strong>55</strong></div>
-<div><span>Statements by</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -79,6 +79,10 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -408,13 +412,21 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tim Dillon (6)</strong></summary>
+<summary><strong class="section-title">Statements by Tim Dillon (7)</strong></summary>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
 
 - [00:41:57](/episodes/ep-tXoI0TTKVrs.md#t-00-41-32) [○] (Opinion) ["Donald Trump is selling the government off for parts while people are broke, so ..."](/statements/statement-4b9475863617.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:28:11](/episodes/ep-i8m_6D4QGmk.md#t-00-27-42) [✓] (Accusation) ["In a comedic monologue, Tim Dillon speculated that Erika Kirk was a Mossad handl..."](/statements/statement-5ceb1e6aaa9f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Mossad](/entities/org-mossad.md)
 
 </details>
 

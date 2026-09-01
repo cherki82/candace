@@ -28,13 +28,39 @@ veracity: "true"
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 
-## Source
+## Appearances (4)
+
+### 1. Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? ...
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
 **Timestamp:** [00:05:42](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) 
 <a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=342s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I made it at the request of Erika. ... At the direction and approval of Erika because she heads this
+
+### 2. Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? ...
+
+**Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
+**Timestamp:** [00:05:45](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) 
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=345s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> I made it at the request of Erika.
+
+### 3. Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? ...
+
+**Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
+**Timestamp:** [00:05:47](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) 
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=347s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> I made it at the request of Erika. All of this has been
+
+### 4. Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? ...
+
+**Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
+**Timestamp:** [00:05:38](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) 
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=338s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> So first of all, our initial statement, it was on the show on Wednesday. ... I made it at the request of Erika. ... At the direction and approval of Erika because she heads this
 
 ## Verification
 

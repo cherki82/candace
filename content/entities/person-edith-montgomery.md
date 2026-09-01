@@ -29,9 +29,9 @@ Source: [William Thomas Montgomery (1940-2020) | FamilySearch](https://ancestors
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -48,6 +48,10 @@ Source: [William Thomas Montgomery (1940-2020) | FamilySearch](https://ancestors
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -179,10 +183,10 @@ Source: [William Thomas Montgomery (1940-2020) | FamilySearch](https://ancestors
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Edith Montgomery (3)</strong></summary>
+<summary><strong class="section-title">Statements about Edith Montgomery (4)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (3)</summary>
+<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (4)</summary>
 
 - [00:30:29](/episodes/ep-A39g5oqB_eM.md#t-00-30-08) (Claim) **Candace Owens**: ["Helene Bartz was good friends with Bill Montgomery and Edith Montgomer..."](/statements/statement-62b1218a70e1.md)
   - Also about: [Helene Bartz](/entities/person-helene-bartz.md), [Bill Montgomery](/entities/person-bill-montgomery.md)
@@ -192,6 +196,9 @@ Source: [William Thomas Montgomery (1940-2020) | FamilySearch](https://ancestors
 
 - [00:31:14](/episodes/ep-A39g5oqB_eM.md#t-00-30-51) (Claim) **Anonymous Source #3 (Ep A39g5oqB_eM)** (via paraphrase): ["Bill and Edith Montgomery and Robert Flood knew each other before the ..."](/statements/statement-a6b7ff633170.md)
   - Also about: [Bill Montgomery](/entities/person-bill-montgomery.md), [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Shaklee Corporation](/entities/org-shaklee-corporation.md)
+
+- [00:33:10](/episodes/ep-A39g5oqB_eM.md#t-00-32-59) (Opinion) **Candace Owens**: ["Owens asked whether adolescent psychiatric nurse Edith Walker Montgome..."](/statements/statement-ac14b3895697.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

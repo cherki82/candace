@@ -1,14 +1,14 @@
 ---
 id: "A39g5oqB_eM"
 title: "EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296"
-description: "EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 - 98 entities, 14 events, 27 factual claims"
+description: "EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 - 98 entities, 14 events, 28 factual claims"
 published: "2026-01-27"
 youtube_url: "https://www.youtube.com/watch?v=A39g5oqB_eM"
 ---
 
 **Published:** 2026-01-27 | [Watch on YouTube](https://www.youtube.com/watch?v=A39g5oqB_eM)
 
-**Stats:** 98 entities | 14 events | 27 factual claims
+**Stats:** 98 entities | 14 events | 28 factual claims
 
 ---
 
@@ -299,12 +299,14 @@ youtube_url: "https://www.youtube.com/watch?v=A39g5oqB_eM"
 </details>
 
 <details>
-<summary><strong>Statements (39)</strong></summary>
+<summary><strong>Statements (43)</strong></summary>
 
 - [00:02:41](#t-00-02-11) [✗] (Claim) **Candace Owens**: ["Turning Point USA raised over a quarter of a billion dollars following Charlie K..."](/statements/statement-72b5076a32e7.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:04:07](#t-00-03-35) [◐] (Accusation) **Candace Owens**: ["Turning Point USA employees worked 20-hour days and were later fired without a c..."](/statements/statement-4811cf86a6ae.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:05:06](#t-00-05-01) [✓] (Claim) **Candace Owens**: ["Owens said the recent Turning Point USA firings enabled her to obtain a recordin..."](/statements/statement-e059fb4b23cc.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:05:17](#t-00-05-01) [◐] (Claim) **Candace Owens**: ["The leaked Turning Point USA corporate Zoom call took place on Monday, September..."](/statements/statement-df9ffbe5af9d.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:06:18](#t-00-05-46) [✓] (Claim) **Candace Owens**: ["Erika Kirk gave an in-person interview with The New York Times at her and Charli..."](/statements/statement-b7d0dbdedd99.md)
@@ -349,12 +351,16 @@ youtube_url: "https://www.youtube.com/watch?v=A39g5oqB_eM"
   - About: [Shaklee Corporation](/entities/org-shaklee-corporation.md), [NASA](/entities/org-nasa.md)
 - [00:32:29](#t-00-32-17) [◐] (Claim) **Candace Owens**: ["Helene Bartz worked at Shaklee and ran the Shaklee Center in Arlington Heights."](/statements/statement-e6c4bc1e580e.md)
   - About: [Helene Bartz](/entities/person-helene-bartz.md), [Shaklee Corporation](/entities/org-shaklee-corporation.md), [Arlington Heights, Illinois](/entities/gpe-arlington-heights-illinois.md)
+- [00:33:10](#t-00-32-59) [✓] (Opinion) **Candace Owens**: ["Owens asked whether adolescent psychiatric nurse Edith Walker Montgomery had see..."](/statements/statement-ac14b3895697.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Edith Montgomery](/entities/person-edith-montgomery.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:33:16](#t-00-32-59) [?] (Claim) **Candace Owens**: ["When Charlie Kirk was young, adults wanted to drug him; his mother refused, and ..."](/statements/statement-7fad0c9ade03.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:37:17](#t-00-37-17) [✗] (Claim) **Candace Owens**: ["Project Monarch preceded MKUltra and involved intentionally harming children in ..."](/statements/statement-a1c1c75a9cae.md)
   - About: [Project Monarch](/entities/concept-project-monarch.md), [MKUltra](/entities/concept-mkultra.md)
 - [00:37:51](#t-00-37-17) [✗] (Claim) **Candace Owens**: ["The moon landing did not happen."](/statements/statement-7ee03a10ae70.md)
   - About: [Moon landing](/entities/concept-moon-landing.md), [NASA](/entities/org-nasa.md)
+- [00:38:17](#t-00-38-00) [✓] (Citation) **Candace Owens**: ["Owens said that virtually everything in the anonymous Christian-Zionist donor me..."](/statements/statement-be0d92f1753e.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Laurie Cardoza-Moore](/entities/person-laurie-cardoza-moore.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:39:08](#t-00-39-08) [?] (Claim) **Laurie Cardoza-Moore**: ["Three couples who attended the Turning Point USA conference told Lori Cardoza-Mo..."](/statements/statement-9e302f6f40c8.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Israel](/entities/gpe-israel.md)
 - [00:39:42](#t-00-39-08) [?] (Claim) **Michele Bachmann**: ["Ten percent of the room got up and walked out while Michele Bachmann argued for ..."](/statements/statement-ceafe991f0d2.md)
@@ -377,6 +383,8 @@ youtube_url: "https://www.youtube.com/watch?v=A39g5oqB_eM"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)
 - [00:49:55](#t-00-49-19) [✗] (Claim) **Candace Owens**: ["The majority of Turning Point USA's money comes from small donors."](/statements/statement-792ccfc33ed9.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:54:06](#t-00-53-50) [✓] (Opinion) **Candace Owens**: ["Owens offered a charitable alternative that Charlie Kirk might have withheld his..."](/statements/statement-e43413aed65d.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:58:15](#t-00-57-58) [○] (Accusation) **Candace Owens**: ["I think a lot of former Turning Point USA employees are realizing it was a cult,..."](/statements/statement-2362378a6209.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 

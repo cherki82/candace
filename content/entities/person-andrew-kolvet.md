@@ -25,8 +25,8 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-kolvet-t-00-59-02">2026-08-21 · 00:59:10</a></strong></div>
 <div><span>Episodes</span><strong>120</strong></div>
 <div><span>Mentions</span><strong>802</strong></div>
-<div><span>Statements by</span><strong>98</strong></div>
-<div><span>Statements about</span><strong>199</strong></div>
+<div><span>Statements by</span><strong>100</strong></div>
+<div><span>Statements about</span><strong>221</strong></div>
 <div><span>Relationships</span><strong>104</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1954,7 +1954,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 **[00:54:59](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-54-24)**
 > "...mment, writes how ironic that Andrew Kolvet wants the FBI to investigate Joe Kent, but not to..."
 
-**[00:58:23](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-58-19)**
+**[00:58:23](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-58-01)**
 > "...f you're just hearing Andrew (Andrew Kolvet) he was not very upset about the interview they w..."
 
 **[00:59:38](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-59-28)**
@@ -4344,7 +4344,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Andrew Kolvet (98)</strong></summary>
+<summary><strong class="section-title">Statements by Andrew Kolvet (100)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4)</summary>
@@ -4501,10 +4501,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2)</summary>
 
 - [00:29:30](/episodes/ep-4DvYXBn_5JI.md#t-00-29-30) [✓] (Claim) ["Andrew Kolvet said Erika Kirk woke beside Charlie Kirk on September 9, spent the..."](/statements/statement-18a810cde743.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:42:37](/episodes/ep-4DvYXBn_5JI.md#t-00-42-37) [○] (Claim) ["Andrew Kolvet said Turning Point USA met with people offering Charlie Kirk deepf..."](/statements/statement-7eb907835269.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 
@@ -4628,6 +4631,14 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 - [00:00:16](/episodes/ep-_vg7ucP1E0g.md#t-00-00-16) [○] (Claim) ["Erika Kirk never sought the limelight and was happy doing her own thing while su..."](/statements/statement-edd9e30c2635.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>
+
+- [00:06:17](/episodes/ep-jTj9Ip46r4w.md#t-00-05-39) [○] (Opinion) ["Andrew Kolvet said Kirk trusted President Trump, looked for the bright side, and..."](/statements/statement-b4c9033c0e49.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
 
 </details>
 
@@ -4840,7 +4851,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (199)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (221)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (7)</summary>
@@ -5127,10 +5138,21 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2)</summary>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+
+- [00:42:37](/episodes/ep-4DvYXBn_5JI.md#t-00-42-37) (Claim) **Andrew Kolvet** (via paraphrase): ["Andrew Kolvet said Turning Point USA met with people offering Charlie ..."](/statements/statement-7eb907835269.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (3)</summary>
 
 - [00:01:51](/episodes/ep-KpxIBWkNsSs.md#t-00-01-51) (Accusation) **Candace Owens**: ["Candace Owens accused Project Constitution of falsely reporting that A..."](/statements/statement-5d625670ac3a.md)
   - Also about: [Project Constitution](/entities/org-project-constitution.md)
+
+- [00:12:12](/episodes/ep-KpxIBWkNsSs.md#t-00-12-12) (Opinion) **Candace Owens**: ["Candace Owens said that if Erika Kirk, Blake Neff, and Andrew Kolvet k..."](/statements/statement-19ec6a3de1d8.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Blake Neff](/entities/person-blake-neff.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
 
 - [00:53:36](/episodes/ep-KpxIBWkNsSs.md#t-00-53-36) (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of lying that Andrew Kolvet had been ..."](/statements/statement-040d98172872.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
@@ -5138,7 +5160,12 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3)</summary>
+
+- [00:14:59](/episodes/ep-FFQ9675oqRI.md#t-00-14-26) (Opinion) **Candace Owens**: ["If the viral White House Correspondents' Dinner clip was staged, Erika..."](/statements/statement-3ed442208164.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:27:03](/episodes/ep-FFQ9675oqRI.md#t-00-26-57) (Accusation) **Candace Owens**: ["Andrew Kolvet is at the center of dirty public-relations tricks involv..."](/statements/statement-0ad5e2617000.md)
 
 - [00:37:49](/episodes/ep-FFQ9675oqRI.md#t-00-37-49) (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk and Andrew Kolvet of lying that Charl..."](/statements/statement-84b14ff2cc95.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -5164,6 +5191,14 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 - [00:29:03](/episodes/ep-eMtjzXkQrsU.md#t-00-28-35) (Claim) **Anonymous Source #2 (Ep eMtjzXkQrsU)** (via read message): ["Andrew Kolvet told family and friends that he lost millions when Charl..."](/statements/statement-3de2bc0c8019.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
+
+- [00:41:07](/episodes/ep-uC_GjKU8rs8.md#t-00-40-35) (Claim) **Candace Owens**: ["Candace Owens said Andrew Kolvet did not identify TPUSA's geotagging p..."](/statements/statement-533ee7e7fb50.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 
@@ -5239,7 +5274,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (8)</summary>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (10)</summary>
 
 - [00:03:07](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) (Claim) **Candace Owens**: ["The 3:30 police pickup means Erika Kirk did not wait an hour on the Pr..."](/statements/statement-babfa5b6ff1b.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Provo Airport](/entities/org-provo-airport.md)
@@ -5256,6 +5291,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [00:08:55](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45) (Accusation) **Baron Coleman**: ["If Andrew Kolvet left Santa Barbara before Charlie Kirk was shot, then..."](/statements/statement-ba85fbee4ed4.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45) (Opinion) **Candace Owens**: ["Candace Owens said the early-flight timing suggested but did not concl..."](/statements/statement-4c3599bb1c12.md)
+
+- [00:09:58](/episodes/ep-DEtFh2Ff-58.md#t-00-09-23) (Opinion) **Candace Owens**: ["Candace Owens acknowledged a non-conspiratorial possibility that Andre..."](/statements/statement-af3a9fe8a3c7.md)
+
 - [00:12:47](/episodes/ep-DEtFh2Ff-58.md#t-00-12-37) (Claim) **Candace Owens**: ["My theory is that Andrew Kolvet departed Santa Barbara for Scottsdale ..."](/statements/statement-292c8e97cfc2.md)
   - Also about: [Scottsdale Airport](/entities/org-scottsdale-airport.md)
 
@@ -5268,16 +5307,24 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (5)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (8)</summary>
+
+- [00:01:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-06) (Claim) **Candace Owens**: ["Candace Owens retracted her prior claim that a live show would exclude..."](/statements/statement-039ea868c86f.md)
+  - Also about: [Yrefy](/entities/org-yrefy.md)
 
 - [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md), [Santa Barbara](/entities/gpe-santa-barbara.md)
+
+- [00:03:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-36) (Claim) **Nick Shirley** (via paraphrase): ["Nick Shirley told Candace Owens that his September 10 appearance on Th..."](/statements/statement-a631f9e7c386.md)
 
 - [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-15) (Claim) **Candace Owens** (via paraphrase): ["The plane that Erika Kirk told Candace Owens carried Andrew Kolvet did..."](/statements/statement-ce02a70f1a1d.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Yrefy](/entities/org-yrefy.md), [Provo Airport](/entities/org-provo-airport.md)
 
 - [00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-02) (Accusation) **Candace Owens**: ["My proposed explanation is that Erika Kirk flew in earlier than Andrew..."](/statements/statement-5f081a5d1b78.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:09:38](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-02) (Citation) **Candace Owens**: ["Candace Owens said she could not yet confirm which earlier aircraft Er..."](/statements/statement-85ec7c8a665d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:10:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-24) (Accusation) **Candace Owens**: ["Erika Kirk was on the phone directing Andrew Kolvet to do those things..."](/statements/statement-b6027dee3443.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -5288,7 +5335,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (13)</summary>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (17)</summary>
+
+- [00:16:52](/episodes/ep-SgVcnx4Oh30.md#t-00-16-34) (Opinion) **Candace Owens**: ["Candace Owens speculated that Erika Kirk was being protected at Hopkin..."](/statements/statement-ec94a1c9eaed.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md)
 
 - [00:18:15](/episodes/ep-SgVcnx4Oh30.md#t-00-17-54) (Citation) **Candace Owens** (via paraphrase): ["Candace Owens said Erika Kirk claimed to her that Andrew Kolvet was ab..."](/statements/statement-ca838bcc3373.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -5304,6 +5354,9 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 - [00:24:59](/episodes/ep-SgVcnx4Oh30.md#t-00-24-42) (Citation) **Candace Owens**: ["Candace Owens said a 2020 charter listing for the suspected Santa Barb..."](/statements/statement-f7691a805e92.md)
 
+- [00:25:45](/episodes/ep-SgVcnx4Oh30.md#t-00-25-23) (Citation) **Candace Owens**: ["Candace Owens said she did not know whether Charlie Kirk's G5 had acti..."](/statements/statement-f38dde58771b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [00:30:50](/episodes/ep-SgVcnx4Oh30.md#t-00-30-50) (Claim) **Candace Owens**: ["Candace Owens said Andrew Kolvet hosted the first hour of The Charlie ..."](/statements/statement-50b697036fa2.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
@@ -5315,6 +5368,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 - [00:33:38](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24) (Accusation) **Candace Owens**: ["Candace Owens accused Andrew Kolvet of previously visiting the White H..."](/statements/statement-cdc9c0117a68.md)
   - Also about: [White House](/entities/org-white-house.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:33:50](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24) (Citation) **Candace Owens**: ["Candace Owens said she was not claiming Andrew Kolvet had faked the Se..."](/statements/statement-0e777546bd95.md)
+
+- [00:38:18](/episodes/ep-SgVcnx4Oh30.md#t-00-37-39) (Citation) **Candace Owens**: ["Candace Owens said she had asked Nick Shirley to confirm that Andrew K..."](/statements/statement-b1e93d05ba47.md)
+  - Also about: [Nick Shirley](/entities/person-nick-shirley.md)
 
 - [00:42:09](/episodes/ep-SgVcnx4Oh30.md#t-00-41-50) (Claim) **Candace Owens**: ["Candace Owens said her understanding was that Andrew Kolvet entered th..."](/statements/statement-1cd648717e44.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -5328,7 +5386,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (18)</summary>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (19)</summary>
 
 - [00:00:15](/episodes/ep-B9TyCs-6o_0.md#t-00-00-00) (Claim) **Candace Owens**: ["Andrew Kolvet retweeted a post suggesting Joe Kent should be arrested ..."](/statements/statement-b279f7327bc5.md)
   - Also about: [Joe Kent](/entities/person-joe-kent.md)
@@ -5373,6 +5431,8 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 - [00:26:28](/episodes/ep-B9TyCs-6o_0.md#t-00-26-26) (Citation) **Candace Owens**: ["Call logs and text messages show Andrew Kolvet was unavailable from 1:..."](/statements/statement-dfdbd7c332e3.md)
 
+- [00:31:45](/episodes/ep-B9TyCs-6o_0.md#t-00-31-32) (Citation) **Candace Owens**: ["Candace Owens explicitly labeled her ensuing satellite-communications ..."](/statements/statement-ac0f9a568b1a.md)
+
 - [00:34:30](/episodes/ep-B9TyCs-6o_0.md#t-00-34-11) (Claim) **Andrew Kolvet** (via read message): ["At 4:25 p.m. Utah time, Andrew Kolvet wrote that his internet had just..."](/statements/statement-5fa52fd09a5a.md)
 
 - [00:34:42](/episodes/ep-B9TyCs-6o_0.md#t-00-34-11) (Claim) **Justin Streiff** (via read message): ["Justin Streiff wrote that the team might need to wait until Andrew Kol..."](/statements/statement-ad9da6f3d3a6.md)
@@ -5384,10 +5444,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2)</summary>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3)</summary>
 
 - [00:11:54](/episodes/ep-5-HUyv9LyMg.md#t-00-11-54) (Claim) **Candace Owens**: ["Andrew Kolvet and other Turning Point USA affiliates met top White Hou..."](/statements/statement-222e6f2772bd.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [White House](/entities/org-white-house.md)
+
+- [00:11:54](/episodes/ep-5-HUyv9LyMg.md#t-00-11-54) (Accusation) **Candace Owens**: ["Candace Owens said the Alexander brothers' case added suspicion to the..."](/statements/statement-7d83dd077bd1.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 - [00:12:07](/episodes/ep-5-HUyv9LyMg.md#t-00-11-54) (Accusation) **Candace Owens**: ["Kash Patel helped Andrew Kolvet camouflage a private Washington meetin..."](/statements/statement-32506093725c.md)
   - Also about: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -5447,7 +5510,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>An Open Letter To Erika Kirk | Candace Ep 303 (4)</summary>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (5)</summary>
 
 - [00:16:41](/episodes/ep-mFuno0TuuQQ.md#t-00-16-39) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Andrew Kolvet told her that Benjamin Netanyahu offe..."](/statements/statement-f609ed16db52.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -5460,6 +5523,9 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 - [00:24:36](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36) (Claim) **Aubrey Laitsch**: ["Aubrey Laitsch was a former Turning Point USA public relations manager..."](/statements/statement-cfe99cd1d833.md)
   - Also about: [Aubrey Laitsch](/entities/person-aubrey-laitsch.md), [Turning Point USA](/entities/org-turning-point-usa.md), [The ATK Company](/entities/org-the-atk-company.md)
+
+- [00:45:29](/episodes/ep-mFuno0TuuQQ.md#t-00-45-20) (Opinion) **Candace Owens**: ["Owens said Kirk's warning messages were sent by iMessage but allowed t..."](/statements/statement-b9c8aff0f1ff.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
 
 </details>
 
@@ -5494,10 +5560,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (2)</summary>
 
 - [00:28:30](/episodes/ep-xjzb_t5Tk9o.md#t-00-28-30) (Claim) **Candace Owens**: ["Charlie Kirk did not run his Twitter feed; Andrew Kolvet did."](/statements/statement-a0ce59f5bb16.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [X](/entities/org-x-platform.md)
+
+- [00:28:38](/episodes/ep-xjzb_t5Tk9o.md#t-00-28-34) (Claim) **Candace Owens**: ["Owens said that although Kolvet ran Kirk's Twitter feed, Kirk did beli..."](/statements/statement-b2ba2f5e2d65.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Islam](/entities/concept-islam.md)
 
 </details>
 
@@ -5531,10 +5600,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
+<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (2)</summary>
 
 - [00:48:19](/episodes/ep-A39g5oqB_eM.md#t-00-47-53) (Accusation) **Candace Owens**: ["My general opinion is that Erika Kirk is orchestrating a great deal be..."](/statements/statement-be34b29490b8.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)
+
+- [00:54:06](/episodes/ep-A39g5oqB_eM.md#t-00-53-50) (Opinion) **Candace Owens**: ["Owens offered a charitable alternative that Charlie Kirk might have wi..."](/statements/statement-e43413aed65d.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 
@@ -5561,7 +5633,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (5)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (6)</summary>
 
 - [00:01:49](/episodes/ep-9naMwS0kMBE.md#t-00-01-32) (Accusation) **Candace Owens**: ["According to Candace Owens, Turning Point USA apparently panicked afte..."](/statements/statement-c0625bfadc7e.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -5574,6 +5646,8 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 - [01:02:58](/episodes/ep-9naMwS0kMBE.md#t-01-02-36) (Claim) **Candace Owens**: ["After waiting for Andrew Kolvet to land, Erika Kirk and Kolvet entered..."](/statements/statement-906406142ac4.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:09:02](/episodes/ep-9naMwS0kMBE.md#t-01-08-36) (Accusation) **Candace Owens**: ["Owens said Kolvet narrated his flight to Provo as though he were alone..."](/statements/statement-325e08874b64.md)
 
 - [01:10:18](/episodes/ep-9naMwS0kMBE.md#t-01-10-18) (Claim) **Justin Streiff** (via quoted speech): ["Justin Streiff told Candace Owens that Andrew Kolvet's wife was on Kol..."](/statements/statement-3127ea4e2945.md)
   - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -5592,10 +5666,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (5)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (6)</summary>
 
 - [00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-44) (Claim) **Candace Owens**: ["Candace Owens texted Andrew Kolvet about the dream and said he never a..."](/statements/statement-857b2e90108b.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-44) (Opinion) **Candace Owens**: ["Owens said a recurring post-assassination dream led her to suspect And..."](/statements/statement-ad238de69578.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:08:07](/episodes/ep-CMcktj3Egfo.md#t-00-07-44) (Accusation) **Candace Owens**: ["Andrew Kolvet orchestrated attacks against Candace Owens and was caugh..."](/statements/statement-312bf746c5f8.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
@@ -5673,7 +5750,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
+
+- [00:06:43](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens**: ["Owens said Erika Kirk and Justin Streiff confirmed during their privat..."](/statements/statement-f898b738a1f2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [Dan Flood](/entities/person-dan-flood.md)
 
 - [00:14:10](/episodes/ep-es7PWdFGoFI.md#t-00-13-53) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Erika Kirk and Justin Streiff confirmed that Andrew..."](/statements/statement-9d76e2356eb6.md)
 

@@ -22,9 +22,9 @@ _Type: Concepts_
 <div><span>Episodes</span><strong>19</strong></div>
 <div><span>Mentions</span><strong>59</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -77,6 +77,10 @@ _Type: Concepts_
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -387,7 +391,7 @@ _Type: Concepts_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Islam (5)</strong></summary>
+<summary><strong class="section-title">Statements about Islam (6)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2)</summary>
@@ -409,10 +413,13 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (2)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (3)</summary>
 
 - [00:28:02](/episodes/ep-xjzb_t5Tk9o.md#t-00-28-02) (Opinion) **Charlie Kirk** (via quoted tweet): ["Islam is the sword the left is using to slit America's throat."](/statements/statement-ba0363b34bd7.md)
   - Also about: [United States](/entities/gpe-united-states.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:28:38](/episodes/ep-xjzb_t5Tk9o.md#t-00-28-34) (Claim) **Candace Owens**: ["Owens said that although Kolvet ran Kirk's Twitter feed, Kirk did beli..."](/statements/statement-b2ba2f5e2d65.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 - [01:44:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-14) (Accusation) **Candace Owens**: ["The post-9/11 media environment conditioned children to fear Muslims s..."](/statements/statement-2350154ebb84.md)
   - Also about: [Middle East](/entities/gpe-middle-east.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)

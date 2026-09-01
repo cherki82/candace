@@ -17,7 +17,7 @@ _Type: Organizations_
 Source: [Music | Emerson Drive](https://www.emersondrive.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-org-emerson-drive-t-00-28-01">2026-03-04 · 00:28:13</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-org-emerson-drive-t-00-28-01">2026-03-04 · 00:28:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-org-emerson-drive-t-00-28-01">2026-03-04 · 00:28:34</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -29,15 +29,15 @@ Source: [Music | Emerson Drive](https://www.emersondrive.com/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-emerson-drive-t-00-28-01">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-emerson-drive-t-00-28-01">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-emerson-drive-t-00-28-01" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-emerson-drive-t-00-28-01" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-emerson-drive-t-00-28-01) | 2 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-emerson-drive-t-00-28-01) | 1 |
 
 </details>
 </section>
@@ -48,13 +48,10 @@ Source: [Music | Emerson Drive](https://www.emersondrive.com/)
 <summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
-<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
 
 **[00:28:34](/episodes/ep-y8lak3CRwDw.md#ent-org-emerson-drive-t-00-28-01)**
 > "Erika featured in a music video for Emerson Drive"
-
-**[00:28:13](/episodes/ep-y8lak3CRwDw.md#ent-org-emerson-drive-t-00-28-01)**
-> "...featured in a music video for emerson drive that went pretty viral that's she's my kind of cr..."
 
 </details>
 

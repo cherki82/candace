@@ -31,7 +31,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>102</strong></div>
 <div><span>Relationships</span><strong>60</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -75,7 +75,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-the-daily-wire-t-01-00-26" style="--pulse-height:8%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-the-daily-wire-t-00-53-07" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-org-the-daily-wire-t-00-15-08" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-the-daily-wire-t-00-57-37" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-the-daily-wire-t-00-57-22" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-the-daily-wire-t-00-40-43" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-the-daily-wire-t-00-04-21" style="--pulse-height:18%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 7 mentions" title="2026-04-13 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-the-daily-wire-t-00-50-33" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
@@ -145,7 +145,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-the-daily-wire-t-01-00-26) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-the-daily-wire-t-00-53-07) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-the-daily-wire-t-00-15-08) | 1 |
-| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-the-daily-wire-t-00-57-37) | 1 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-the-daily-wire-t-00-57-22) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-the-daily-wire-t-00-40-43) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-the-daily-wire-t-00-04-21) | 7 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-the-daily-wire-t-00-50-33) | 1 |
@@ -176,6 +176,10 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -704,7 +708,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
 
-**[00:57:37](/episodes/ep-SgVcnx4Oh30.md#ent-org-the-daily-wire-t-00-57-37)**
+**[00:57:37](/episodes/ep-SgVcnx4Oh30.md#ent-org-the-daily-wire-t-00-57-22)**
 > "the staff at Daily Wire"
 
 </details>

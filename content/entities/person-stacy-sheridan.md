@@ -27,9 +27,9 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 <div><span>Episodes</span><strong>21</strong></div>
 <div><span>Mentions</span><strong>67</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -86,6 +86,10 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -582,7 +586,7 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Stacy Sheridan (15)</strong></summary>
+<summary><strong class="section-title">Statements about Stacy Sheridan (16)</strong></summary>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1)</summary>
@@ -624,6 +628,14 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 
 - [00:20:25](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) (Claim) **Candace Owens**: ["Stacey Sheridan is not Erika Kirk's biological mother; Lori Frantzve i..."](/statements/statement-8d0169d15c59.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (1)</summary>
+
+- [00:07:07](/episodes/ep-mFuno0TuuQQ.md#t-00-06-56) (Accusation) **Candace Owens**: ["Owens said she warned Kirk specifically about Stacy Sheridan and warne..."](/statements/statement-04080850ecae.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Dan Flood](/entities/person-dan-flood.md)
 
 </details>
 

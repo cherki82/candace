@@ -27,9 +27,9 @@ Source: [Will the Temple Be Rebuilt? | Catholic Answers Magazine](https://www.ca
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -52,6 +52,10 @@ Source: [Will the Temple Be Rebuilt? | Catholic Answers Magazine](https://www.ca
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -151,6 +155,19 @@ Source: [Will the Temple Be Rebuilt? | Catholic Answers Magazine](https://www.ca
 
 - [00:16:23](/episodes/ep-i8m_6D4QGmk.md#t-00-15-54) [○] (Accusation) ["These groups get a sadistic delight from revealing things while people remain un..."](/statements/statement-928d87f983f4.md)
   - About: [Satanism](/entities/concept-satanism.md), [Freemasonry](/entities/concept-freemasonry.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Chad Ripperger (1)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:14:48](/episodes/ep-i8m_6D4QGmk.md#t-00-14-24) (Claim) **Candace Owens**: ["Candace Owens explicitly said Chad Ripperger's discussion of Satanism ..."](/statements/statement-63ae3ac18abd.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

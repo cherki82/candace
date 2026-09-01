@@ -21,8 +21,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
-**Timestamp:** [00:10:33](/episodes/ep-DqGNvi36ol8.md#t-00-09-58) 
-<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=633s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+**Timestamp:** [00:45:10](/episodes/ep-DqGNvi36ol8.md#t-00-45-05) 
+<a href="https://www.youtube.com/watch?v=DqGNvi36ol8&t=2710s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Have the feds reached out to you since I called you? No.
 

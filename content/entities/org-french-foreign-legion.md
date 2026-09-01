@@ -27,9 +27,9 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <div><span>Episodes</span><strong>14</strong></div>
 <div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -72,6 +72,10 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -417,7 +421,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about French Foreign Legion (7)</strong></summary>
+<summary><strong class="section-title">Statements about French Foreign Legion (9)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
@@ -467,6 +471,17 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 
 - [01:00:54](/episodes/ep-5-HUyv9LyMg.md#t-01-00-54) (Accusation) **Candace Owens**: ["France, specifically the French Foreign Legion, was present on the day..."](/statements/statement-4c07adc38894.md)
   - Also about: [France](/entities/gpe-france.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [White House](/entities/org-white-house.md)
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2)</summary>
+
+- [00:03:45](/episodes/ep-tB5SXXmd9vU.md#t-00-03-07) (Accusation) **Anonymous French government source (Ep tB5SXXmd9vU)** (via paraphrase): ["An anonymous purported French-government source alleged that Charlie K..."](/statements/statement-dd336cf8fac8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:19:06](/episodes/ep-tB5SXXmd9vU.md#t-00-19-00) (Accusation) **Candace Owens**: ["Was anyone who trained with the French Foreign Legion present at Utah ..."](/statements/statement-8aac9011eb31.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
 
 </details>
 

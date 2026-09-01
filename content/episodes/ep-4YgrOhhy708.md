@@ -1,14 +1,14 @@
 ---
 id: "4YgrOhhy708"
 title: "Halftime Wars: TPUSA vs The NFL | Candace Ep 304"
-description: "Halftime Wars: TPUSA vs The NFL | Candace Ep 304 - 114 entities, 15 events, 19 factual claims"
+description: "Halftime Wars: TPUSA vs The NFL | Candace Ep 304 - 114 entities, 15 events, 20 factual claims"
 published: "2026-02-09"
 youtube_url: "https://www.youtube.com/watch?v=4YgrOhhy708"
 ---
 
 **Published:** 2026-02-09 | [Watch on YouTube](https://www.youtube.com/watch?v=4YgrOhhy708)
 
-**Stats:** 114 entities | 15 events | 19 factual claims
+**Stats:** 114 entities | 15 events | 20 factual claims
 
 ---
 
@@ -523,7 +523,7 @@ youtube_url: "https://www.youtube.com/watch?v=4YgrOhhy708"
 </details>
 
 <details>
-<summary><strong>Statements (41)</strong></summary>
+<summary><strong>Statements (42)</strong></summary>
 
 - [00:04:20](#t-00-04-02) [○] (Opinion) **Candace Owens**: ["Everyone in the United States should speak English."](/statements/statement-02b2144db5e8.md)
   - About: [United States](/entities/gpe-united-states.md)
@@ -569,6 +569,8 @@ youtube_url: "https://www.youtube.com/watch?v=4YgrOhhy708"
   - About: [LinkedIn](/entities/org-linkedin.md), [ZoomInfo](/entities/org-zoominfo.md), [United States Border Patrol](/entities/org-us-border-patrol.md)
 - [00:22:21](#t-00-22-10) [✓] (Citation) **Candace Owens**: ["A 1985 newspaper article reported that Border Patrol agent Thomas Martin warned ..."](/statements/statement-a5fd50a8d54c.md)
   - About: [United States Border Patrol](/entities/org-us-border-patrol.md), [Sanctuary Movement](/entities/concept-sanctuary-movement.md), [Southside Presbyterian Church](/entities/org-southside-presbyterian-church.md)
+- [00:24:03](#t-00-23-18) [✓] (Claim) **Candace Owens**: ["The Tucson-based Thomas Martin under discussion is not Thomas G. Martin, a diffe..."](/statements/statement-b74b1101625a.md)
+  - About: [Thomas Martin (Tucson Border Patrol agent)](/entities/person-thomas-martin-tucson-border-patrol-agent.md)
 - [00:24:53](#t-00-24-43) [○] (Claim) **Anonymous Source #5 (Ep 4YgrOhhy708)**: ["Tracy Martin's daughter is reportedly Erika Kirk's assistant, though the claim h..."](/statements/statement-47663d172846.md)
   - About: [Tracy Martin](/entities/person-tracy-martin.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:25:11](#t-00-24-43) [○] (Claim) **Candace Owens**: ["Tracy Martin told friends that her daughter was supposed to be at Utah Valley Un..."](/statements/statement-6bf78afa1403.md)

@@ -27,9 +27,9 @@ Source: [Entity Details: SUPERFEED TECHNOLOGIES, INC. | Arizona Corporation Comm
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -48,6 +48,10 @@ Source: [Entity Details: SUPERFEED TECHNOLOGIES, INC. | Arizona Corporation Comm
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -131,7 +135,7 @@ Source: [Entity Details: SUPERFEED TECHNOLOGIES, INC. | Arizona Corporation Comm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Superfeed Technologies, Inc. (6)</strong></summary>
+<summary><strong class="section-title">Statements about Superfeed Technologies, Inc. (7)</strong></summary>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
@@ -158,10 +162,13 @@ Source: [Entity Details: SUPERFEED TECHNOLOGIES, INC. | Arizona Corporation Comm
 </details>
 
 <details>
-<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2)</summary>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (3)</summary>
 
 - [00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01) (Claim) **Candace Owens**: ["Lori Frantzve was placed on the Superfeed Technologies board alongside..."](/statements/statement-7005646340ac.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+- [00:00:52](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42) (Citation) **Candace Owens** (via paraphrase): ["Owens reported unverified online rumors that money from Turning Point ..."](/statements/statement-45cb806aceb1.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 - [00:21:20](/episodes/ep-cZxHqYsWRYg.md#t-00-20-59) (Citation) **Candace Owens**: ["A Yahoo News report said Superfeed Technologies had its Arizona busine..."](/statements/statement-f8a16cb746f5.md)
   - Also about: [Kari Lake](/entities/person-kari-lake.md), [Jeff DeWit](/entities/person-jeff-dewit.md), [Arizona](/entities/gpe-arizona.md)

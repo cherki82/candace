@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 587 mentions"
+description: "American Financing (Organizations) - 589 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -25,7 +25,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-american-financing-t-00-57-41">2026-08-21 · 00:58:03</a></strong></div>
 <div><span>Episodes</span><strong>133</strong></div>
-<div><span>Mentions</span><strong>587</strong></div>
+<div><span>Mentions</span><strong>589</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -58,7 +58,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-american-financing-t-00-42-11" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-american-financing-t-00-40-27" style="--pulse-height:50%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 4 mentions" title="2025-11-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-org-american-financing-t-00-52-22" style="--pulse-height:38%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-r1PS67aRmcA.md#ent-org-american-financing-t-00-45-22" style="--pulse-height:38%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 3 mentions" title="2025-11-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-org-american-financing-t-00-45-22" style="--pulse-height:62%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 5 mentions" title="2025-11-08 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-american-financing-t-00-51-13" style="--pulse-height:62%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 5 mentions" title="2025-11-10 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-american-financing-t-00-43-22" style="--pulse-height:50%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-american-financing-t-00-34-04" style="--pulse-height:50%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
@@ -196,7 +196,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-org-american-financing-t-00-42-11) | 4 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-american-financing-t-00-40-27) | 4 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-american-financing-t-00-52-22) | 3 |
-| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-american-financing-t-00-45-22) | 3 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-american-financing-t-00-45-22) | 5 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-american-financing-t-00-51-13) | 5 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-american-financing-t-00-43-22) | 4 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-american-financing-t-00-34-04) | 4 |
@@ -314,7 +314,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (587)</strong></summary>
+<summary><strong class="section-title">Raw mentions (589)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4 mentions)</summary>
@@ -2283,7 +2283,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (3 mentions)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (5 mentions)</summary>
 
 **[00:45:57](/episodes/ep-r1PS67aRmcA.md#ent-org-american-financing-t-00-45-22)**
 > "Also reminding you about American Financing, because the Fed just dropped interest rates agai..."
@@ -2293,6 +2293,12 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 **[00:46:44](/episodes/ep-r1PS67aRmcA.md#ent-org-american-financing-t-00-46-07)**
 > "Call American Financing at 800-795-1210."
+
+**[00:46:49](/episodes/ep-r1PS67aRmcA.md#ent-org-american-financing-t-00-46-49)**
+> "Or visit americanfinancing.net/owens."
+
+**[00:46:54](/episodes/ep-r1PS67aRmcA.md#ent-org-american-financing-t-00-46-49)**
+> "That's americanfinancing.net/owens."
 
 </details>
 

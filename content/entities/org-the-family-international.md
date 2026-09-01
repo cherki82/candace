@@ -28,9 +28,9 @@ Source: [The Family International - Our History](https://www.thefamilyinternatio
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -51,6 +51,10 @@ Source: [The Family International - Our History](https://www.thefamilyinternatio
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -171,13 +175,19 @@ Source: [The Family International - Our History](https://www.thefamilyinternatio
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Family International (5)</strong></summary>
+<summary><strong class="section-title">Statements about The Family International (7)</strong></summary>
 
 <details>
-<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (3)</summary>
 
 - [00:36:59](/episodes/ep-I0OaY6Gryqk.md#t-00-36-41) (Claim) **Candace Owens**: ["Renee Crossman, with whom Erika Kirk partnered in Romania, was in The ..."](/statements/statement-30e5a94744f0.md)
   - Also about: [Renee Crossman](/entities/person-renee-crossman.md), [Erika Kirk](/entities/person-erika-kirk.md), [Romania](/entities/gpe-romania.md)
+
+- [00:37:40](/episodes/ep-I0OaY6Gryqk.md#t-00-37-25) (Citation) **Candace Owens**: ["Candace Owens said former members of The Family International told her..."](/statements/statement-c770efd806ae.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Renee Crossman](/entities/person-renee-crossman.md)
+
+- [00:38:24](/episodes/ep-I0OaY6Gryqk.md#t-00-38-00) (Citation) **Candace Owens**: ["While describing research she had not yet completed, Candace Owens rai..."](/statements/statement-422e8a444118.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </details>
 

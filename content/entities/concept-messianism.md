@@ -22,9 +22,9 @@ _Type: Concepts_
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -49,6 +49,10 @@ _Type: Concepts_
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -123,16 +127,19 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Messianism (2)</strong></summary>
+<summary><strong class="section-title">Statements about Messianism (3)</strong></summary>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3)</summary>
 
 - [00:11:09](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Claim) **Candace Owens**: ["The Unification movement bought land, buildings, blocks, and companies..."](/statements/statement-4da7059187b1.md)
   - Also about: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md)
 
-- [00:11:26](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Accusation) **Candace Owens**: ["Turning Point Faith was intended to turn Charlie Kirk into a controlla..."](/statements/statement-14661745d0ac.md)
+- [00:11:30](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Accusation) **Candace Owens**: ["Turning Point Faith was intended to turn Charlie Kirk into a controlla..."](/statements/statement-14661745d0ac.md)
   - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:11:30](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Opinion) **Candace Owens**: ["Owens theorized that Kirk's assassination was made globally visible so..."](/statements/statement-8dbeeb0d8f16.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </details>
 

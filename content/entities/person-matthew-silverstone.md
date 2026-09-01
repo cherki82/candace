@@ -29,7 +29,7 @@ Source: [Update from Family of School Shooting Survivor Matthew Silverstone](htt
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -46,6 +46,10 @@ Source: [Update from Family of School Shooting Survivor Matthew Silverstone](htt
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -64,7 +68,7 @@ Source: [Update from Family of School Shooting Survivor Matthew Silverstone](htt
 **[00:14:34](/episodes/ep-4DvYXBn_5JI.md#ent-person-matthew-silverstone-t-00-14-09)**
 > "...ying behind to provide aid to Matthew Silverstone while remaining law enforcement officers are foll..."
 
-**[00:18:54](/episodes/ep-4DvYXBn_5JI.md#ent-person-matthew-silverstone-t-00-18-30)**
+**[00:18:54](/episodes/ep-4DvYXBn_5JI.md#ent-person-matthew-silverstone-t-00-14-09)**
 > "... scuffle and rendering aid to matthew stone is odd now take a listen to the story that ..."
 
 **[00:19:00](/episodes/ep-4DvYXBn_5JI.md#ent-person-matthew-silverstone-t-00-19-00)**
