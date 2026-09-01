@@ -691,425 +691,383 @@ const initEvents = (container: HTMLElement, items: IndexRecord[]) => {
   render(Number(paramsObject().page) || 1)
 }
 
-type ThreadViewBox = { x: number; y: number; width: number; height: number }
-
-const parseThreadViewBox = (svg: SVGSVGElement): ThreadViewBox => {
-  const [x, y, width, height] = (svg.getAttribute("viewBox") || "0 0 1 1").split(/\s+/).map(Number)
-  return { x, y, width, height }
+type ThreadMilestone = {
+  id: string
+  date: string
+  month: string
+  timestamp: number
+  timestamp_label: string
+  kind: string
+  mark: string
+  status: string
+  label: string
+  proposition: string
+  review_note: string
+  confidence: string
+  statement_id: string
+  statement_text: string
+  statement_href: string
+  speaker: string
+  entity_names: string[]
+  episode_title: string
+  episode_href: string
+  haystack?: string
 }
 
-const initThreadEntityRoster = (detail: HTMLElement) => {
-  const input = detail.querySelector<HTMLInputElement>("[data-thread-entity-search]")
-  const output = detail.querySelector<HTMLOutputElement>("[data-thread-entity-count]")
-  const links = [...detail.querySelectorAll<HTMLElement>(".thread-entity-all a")]
-  if (!input || !output || !links.length) return
-  input.addEventListener("input", () => {
-    const query = input.value.trim().toLowerCase()
-    let visible = 0
-    links.forEach((link) => {
-      link.hidden = Boolean(query) && !link.textContent?.toLowerCase().includes(query)
-      if (!link.hidden) visible += 1
-    })
-    output.value = `${visible.toLocaleString()} of ${links.length.toLocaleString()} entities`
-  })
+type ThreadLink = {
+  from: string
+  to: string
+  type: string
+  review_note: string
 }
 
-const initThreadDesk = (desk: HTMLElement) => {
-  if (desk.dataset.initialized) return
-  desk.dataset.initialized = "true"
-  const detail = desk.closest<HTMLElement>(".thread-detail")
-  const lineage = desk.querySelector<HTMLElement>("[data-thread-lineage]")
-  const svg = desk.querySelector<SVGSVGElement>("[data-thread-map]")
-  const inspector = desk.querySelector<HTMLElement>("[data-thread-inspector]")
-  const toolbar = desk.querySelector<HTMLElement>("[data-thread-toolbar]")
-  const trailControls = detail?.querySelector<HTMLElement>("[data-thread-trail-controls]")
-  const trailCount = detail?.querySelector<HTMLOutputElement>("[data-thread-trail-count]")
-  if (!detail || !lineage || !svg || !inspector || !toolbar || !trailControls || !trailCount) return
+type ThreadDataset = {
+  id: string
+  title: string
+  summary: string
+  default_node_id: string
+  milestones: ThreadMilestone[]
+  links: ThreadLink[]
+}
 
-  toolbar.hidden = false
-  trailControls.hidden = false
-  desk.classList.add("is-enhanced")
-  const original = parseThreadViewBox(svg)
-  let view = { ...original }
-  let selected = ""
-  let trailMode = "context"
-  let kindFilter = ""
-  let suppressClick = false
-  const nodes = new Map(
-    [...svg.querySelectorAll<SVGAElement>("[data-node-id]")].map((node) => [
-      node.dataset.nodeId!,
-      node,
-    ]),
-  )
-  const cards = new Map(
-    [...detail.querySelectorAll<HTMLElement>(".thread-milestone[data-node-id]")].map((card) => [
-      card.dataset.nodeId!,
-      card,
-    ]),
-  )
-  const edges = [...svg.querySelectorAll<SVGPathElement>("[data-thread-from]")]
-  const parents = new Map<string, Set<string>>()
-  const children = new Map<string, Set<string>>()
-  edges.forEach((edge) => {
-    const from = edge.dataset.threadFrom!
-    const to = edge.dataset.threadTo!
-    if (!parents.has(to)) parents.set(to, new Set())
-    if (!children.has(from)) children.set(from, new Set())
-    parents.get(to)!.add(from)
-    children.get(from)!.add(to)
-  })
+const threadKey = (item: ThreadMilestone) =>
+  `${item.date}:${String(Math.floor(item.timestamp || 0)).padStart(8, "0")}:${item.id}`
 
-  const screenMetrics = (box: ThreadViewBox) => {
-    const rect = svg.getBoundingClientRect()
-    const viewAspect = box.width / box.height
-    const rectAspect = rect.width / Math.max(rect.height, 1)
-    if (rectAspect > viewAspect) {
-      const width = rect.height * viewAspect
-      return { rect, left: (rect.width - width) / 2, top: 0, width, height: rect.height }
-    }
-    const height = rect.width / viewAspect
-    return { rect, left: 0, top: (rect.height - height) / 2, width: rect.width, height }
-  }
+const threadRelationList = (
+  links: ThreadLink[],
+  direction: "from" | "to",
+  milestones: Map<string, ThreadMilestone>,
+) => {
+  const available = links
+    .map((link) => ({ link, item: milestones.get(link[direction]) }))
+    .filter((entry): entry is { link: ThreadLink; item: ThreadMilestone } => Boolean(entry.item))
+  if (!available.length) return '<p class="thread-relation-empty">No reviewed connection.</p>'
+  const visible = available.slice(0, 12)
+  return `<ol>${visible
+    .map(
+      ({ link, item }) =>
+        `<li><button type="button" data-thread-select="${escapeHtml(item.id)}"><span>${escapeHtml(item.label)}</span><small>${escapeHtml(label(link.type))}</small></button></li>`,
+    )
+    .join(
+      "",
+    )}</ol>${available.length > visible.length ? `<p class="thread-relation-overflow">${available.length - visible.length} more connections — use search to narrow the chronology.</p>` : ""}`
+}
 
-  const screenFraction = (clientX: number, clientY: number, box: ThreadViewBox) => {
-    const metrics = screenMetrics(box)
-    return {
-      x: (clientX - metrics.rect.left - metrics.left) / Math.max(metrics.width, 1),
-      y: (clientY - metrics.rect.top - metrics.top) / Math.max(metrics.height, 1),
-    }
-  }
-
-  const graphPoint = (clientX: number, clientY: number, box = view) => {
-    const fraction = screenFraction(clientX, clientY, box)
-    return { x: box.x + fraction.x * box.width, y: box.y + fraction.y * box.height }
-  }
-
-  const setView = (next: ThreadViewBox) => {
-    const width = Math.min(Math.max(next.width, 320), original.width)
-    const height = Math.min(Math.max(next.height, 220), original.height)
-    view = {
-      x: Math.min(Math.max(next.x, original.x), original.x + original.width - width),
-      y: Math.min(Math.max(next.y, original.y), original.y + original.height - height),
-      width,
-      height,
-    }
-    svg.setAttribute("viewBox", `${view.x} ${view.y} ${view.width} ${view.height}`)
-    const rect = svg.getBoundingClientRect()
-    const unitsPerPixel = view.width / Math.max(rect.width, 1)
-    svg.style.setProperty("--thread-node-radius", `${Math.max(11, unitsPerPixel * 4)}px`)
-    svg.style.setProperty("--thread-label-size", `${Math.max(10, unitsPerPixel * 13)}px`)
-    svg.style.setProperty("--thread-mark-size", `${Math.max(8, unitsPerPixel * 11)}px`)
-    svg.style.setProperty("--thread-date-size", `${Math.max(8, unitsPerPixel * 11)}px`)
-    lineage.dataset.zoomLevel =
-      view.width > 6000 ? "overview" : view.width > 1800 ? "context" : "detail"
-    const zoom = desk.querySelector<HTMLOutputElement>("[data-thread-zoom]")
-    if (zoom) {
-      const focusWidth = Math.min(original.width, 900)
-      zoom.value = `${Math.round((focusWidth / view.width) * 100).toLocaleString()}%`
-    }
-  }
-
-  const zoomAt = (multiplier: number, clientX?: number, clientY?: number) => {
-    const metrics = screenMetrics(view)
-    const x = clientX ?? metrics.rect.left + metrics.rect.width / 2
-    const y = clientY ?? metrics.rect.top + metrics.rect.height / 2
-    const anchor = graphPoint(x, y)
-    const fraction = screenFraction(x, y, view)
-    const width = view.width * multiplier
-    const height = view.height * multiplier
-    setView({
-      x: anchor.x - fraction.x * width,
-      y: anchor.y - fraction.y * height,
-      width,
-      height,
-    })
-  }
-
-  const focusNode = (id: string) => {
-    const node = nodes.get(id)
-    if (!node) return
-    const rect = svg.getBoundingClientRect()
-    const width = Math.min(original.width, 900)
-    const height = Math.min(original.height, width * (rect.height / Math.max(rect.width, 1)))
-    const x = Number(node.dataset.nodeX)
-    const y = Number(node.dataset.nodeY)
-    setView({ x: x - width / 2, y: y - height / 2, width, height })
-  }
-
-  const branchFor = (id: string) => {
-    const branch = new Set([id])
-    for (const relation of [parents, children]) {
-      const queue = [id]
-      const visited = new Set([id])
-      while (queue.length) {
-        const current = queue.shift()!
-        for (const neighbor of relation.get(current) || []) {
-          if (visited.has(neighbor)) continue
-          visited.add(neighbor)
-          branch.add(neighbor)
-          queue.push(neighbor)
-        }
-      }
-    }
-    return branch
-  }
-
-  const visibleTrail = () => {
-    if (trailMode === "all") return new Set(cards.keys())
-    if (trailMode === "branch") return branchFor(selected)
-    return new Set([selected, ...(parents.get(selected) || []), ...(children.get(selected) || [])])
-  }
-
-  const updateInspector = () => {
-    const card = cards.get(selected)
-    if (!card) return
-    const title = card.querySelector(".thread-milestone-title")?.textContent || selected
-    const proposition = card.querySelector(".thread-proposition")?.outerHTML || ""
-    const time = card.querySelector("time")?.outerHTML || ""
-    const kind = card.querySelector(".thread-kind-name")?.outerHTML || ""
-    const connections = card.querySelector(".thread-connections")?.outerHTML || ""
-    const provenance = card.querySelector(".thread-provenance")?.outerHTML || ""
-    const meta = card.querySelector(".thread-meta")?.outerHTML || ""
-    const note = card.querySelector("details")?.outerHTML || ""
-    inspector.innerHTML = `<span class="research-kicker">Selected milestone</span><div class="thread-inspector-meta">${time}${kind}</div><h3>${title}</h3>${proposition}${connections}<div class="thread-inspector-evidence"><strong>Primary evidence</strong>${provenance}${meta}${note}</div><button type="button" class="thread-inspector-jump" data-thread-jump="${selected}">Read in the evidence trail ↓</button>`
-  }
-
-  const updateSelection = () => {
-    const connected = new Set([
-      selected,
-      ...(parents.get(selected) || []),
-      ...(children.get(selected) || []),
-    ])
-    nodes.forEach((node, id) => {
-      const filtered =
-        Boolean(kindFilter) && node.dataset.nodeKind !== kindFilter && id !== selected
-      node.classList.toggle("is-selected", id === selected)
-      node.classList.toggle("is-connected", id !== selected && connected.has(id))
-      node.classList.toggle("is-muted", !connected.has(id))
-      node.classList.toggle("is-filtered-out", filtered)
-      node.setAttribute("aria-current", id === selected ? "true" : "false")
-    })
-    edges.forEach((edge) => {
-      const from = edge.dataset.threadFrom!
-      const to = edge.dataset.threadTo!
-      const related = from === selected || to === selected
-      const filtered =
-        Boolean(kindFilter) &&
-        nodes.get(from)?.dataset.nodeKind !== kindFilter &&
-        nodes.get(to)?.dataset.nodeKind !== kindFilter
-      edge.classList.toggle("is-connected", related)
-      edge.classList.toggle("is-muted", !related)
-      edge.classList.toggle("is-filtered-out", filtered)
-    })
-    const visible = visibleTrail()
-    let count = 0
-    cards.forEach((card, id) => {
-      const show =
-        visible.has(id) && (!kindFilter || card.dataset.nodeKind === kindFilter || id === selected)
-      card.hidden = !show
-      card.classList.toggle("is-selected", id === selected)
-      if (show) count += 1
-    })
-    trailCount.value = `${count.toLocaleString()} of ${cards.size.toLocaleString()} reviewed turns shown`
-    trailControls
-      .querySelectorAll<HTMLButtonElement>("[data-thread-trail]")
-      .forEach((button) =>
-        button.setAttribute("aria-pressed", String(button.dataset.threadTrail === trailMode)),
-      )
-    updateInspector()
-  }
-
-  const selectNode = (id: string, focus = true, scroll = false) => {
-    if (!cards.has(id) || !nodes.has(id)) return
-    selected = id
-    updateSelection()
-    if (focus) focusNode(id)
-    history.replaceState({}, "", `${location.pathname}${location.search}#${encodeURIComponent(id)}`)
-    if (scroll) {
-      requestAnimationFrame(() => {
-        const card = cards.get(id)!
-        card.scrollIntoView({ behavior: "smooth", block: "center" })
-        card.focus({ preventScroll: true })
+const threadLocalGraph = (
+  selectedId: string,
+  depth: number,
+  milestones: Map<string, ThreadMilestone>,
+  links: ThreadLink[],
+  parents: Map<string, ThreadLink[]>,
+  children: Map<string, ThreadLink[]>,
+) => {
+  const maxNodes = 48
+  const layers = new Map<string, number>([[selectedId, 0]])
+  const expand = (relations: Map<string, ThreadLink[]>, direction: "from" | "to", sign: number) => {
+    let frontier = [selectedId]
+    for (let step = 1; step <= depth && frontier.length && layers.size < maxNodes; step += 1) {
+      const next: string[] = []
+      frontier.forEach((id) => {
+        relations.get(id)?.forEach((link) => {
+          const relatedId = link[direction]
+          if (!layers.has(relatedId) && milestones.has(relatedId) && layers.size < maxNodes) {
+            layers.set(relatedId, step * sign)
+            next.push(relatedId)
+          }
+        })
       })
+      frontier = next
     }
   }
+  expand(parents, "from", -1)
+  expand(children, "to", 1)
 
-  desk.addEventListener("click", (event) => {
-    const target = event.target as Element
-    const select = target.closest<HTMLElement>("[data-thread-select]")
-    if (select) {
-      event.preventDefault()
-      if (!suppressClick) selectNode(select.dataset.threadSelect!, true, !svg.contains(select))
-      suppressClick = false
-      return
-    }
-    const action = target.closest<HTMLButtonElement>("[data-thread-action]")?.dataset.threadAction
-    if (action === "zoom-in") zoomAt(0.78)
-    if (action === "zoom-out") zoomAt(1.28)
-    if (action === "overview") setView({ ...original })
-    if (action === "focus") focusNode(selected)
-    const jump = target.closest<HTMLButtonElement>("[data-thread-jump]")?.dataset.threadJump
-    if (jump) selectNode(jump, true, true)
+  const buckets = new Map<number, ThreadMilestone[]>()
+  layers.forEach((layerNumber, id) => {
+    const item = milestones.get(id)
+    if (!item) return
+    const bucket = buckets.get(layerNumber) ?? []
+    bucket.push(item)
+    buckets.set(layerNumber, bucket)
   })
-
-  detail.addEventListener("click", (event) => {
-    const target = event.target as Element
-    const select = target.closest<HTMLElement>("[data-thread-select]")
-    if (!select || desk.contains(select)) return
-    event.preventDefault()
-    selectNode(select.dataset.threadSelect!, true, true)
+  buckets.forEach((items) => items.sort((a, b) => threadKey(a).localeCompare(threadKey(b))))
+  const layerNumbers = [...buckets.keys()].sort((a, b) => a - b)
+  const minLayer = Math.min(...layerNumbers)
+  const maxLayer = Math.max(...layerNumbers)
+  const positions = new Map<string, { x: number; y: number }>()
+  const layerGap = 230
+  const rowGap = 66
+  let tallestLayer = 1
+  buckets.forEach((items, layerNumber) => {
+    tallestLayer = Math.max(tallestLayer, items.length)
+    items.forEach((item, index) =>
+      positions.set(item.id, {
+        x: 20 + (layerNumber - minLayer) * layerGap,
+        y: 42 + index * rowGap,
+      }),
+    )
   })
+  const width = (maxLayer - minLayer) * layerGap + 260
+  const height = Math.max(150, tallestLayer * rowGap + 20)
+  const visibleLinks = links.filter((link) => positions.has(link.from) && positions.has(link.to))
+  const truncate = (value: string) => (value.length > 31 ? `${value.slice(0, 30)}…` : value)
 
-  trailControls.addEventListener("click", (event) => {
-    const button = (event.target as Element).closest<HTMLButtonElement>("[data-thread-trail]")
-    if (!button) return
-    trailMode = button.dataset.threadTrail!
-    updateSelection()
-  })
+  return `<div class="thread-local-graph-toolbar"><strong>Reviewed context</strong><div role="group" aria-label="Connection depth"><button type="button" data-thread-graph-depth="1" aria-pressed="${depth === 1}">1 hop</button><button type="button" data-thread-graph-depth="2" aria-pressed="${depth === 2}">2 hops</button></div></div>
+    <div class="thread-local-graph"><svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-label="Local relationship map for the selected milestone"><defs><marker id="thread-arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z"></path></marker></defs>
+      <g class="thread-local-edges">${visibleLinks
+        .map((link) => {
+          const from = positions.get(link.from)!
+          const to = positions.get(link.to)!
+          const bend = (to.x - from.x) * 0.48
+          return `<path class="thread-local-edge thread-link-${escapeHtml(link.type)}" d="M ${from.x + 9} ${from.y} C ${from.x + bend} ${from.y}, ${to.x - bend} ${to.y}, ${to.x - 9} ${to.y}" marker-end="url(#thread-arrow)"><title>${escapeHtml(label(link.type))}</title></path>`
+        })
+        .join("")}</g>
+      <g class="thread-local-nodes">${[...positions.entries()]
+        .map(([id, position]) => {
+          const item = milestones.get(id)!
+          return `<a href="#${encodeURIComponent(id)}" data-thread-select="${escapeHtml(id)}" class="thread-local-node${id === selectedId ? " is-selected" : ""}"><title>${escapeHtml(item.label)} — ${escapeHtml(item.date)}</title><circle cx="${position.x}" cy="${position.y}" r="9"></circle><text x="${position.x + 15}" y="${position.y - 3}">${escapeHtml(truncate(item.label))}</text><text class="thread-local-node-date" x="${position.x + 15}" y="${position.y + 13}">${escapeHtml(item.date)}</text></a>`
+        })
+        .join("")}</g>
+    </svg></div>${layers.size >= maxNodes ? '<p class="thread-graph-limit">Showing the first 48 nearby milestones. Use the chronology to narrow further.</p>' : ""}`
+}
 
-  desk
-    .querySelector<HTMLSelectElement>("[data-thread-kind-filter]")
-    ?.addEventListener("change", (event) => {
-      kindFilter = (event.currentTarget as HTMLSelectElement).value
-      updateSelection()
-    })
+const initThreadBrowser = async (container: HTMLElement) => {
+  container.dataset.initialized = "true"
+  const loading = container.querySelector<HTMLElement>("[data-thread-loading]")!
+  try {
+    const response = await fetch(localHref(container.dataset.indexPath!))
+    if (!response.ok) throw new Error(`${response.status} ${response.statusText}`)
+    const dataset = (await response.json()) as ThreadDataset
+    if (!container.isConnected) return
 
-  const search = desk.querySelector<HTMLInputElement>("[data-thread-node-search]")
-  const findSearchResult = () => {
-    const query = search?.value.trim().toLowerCase()
-    if (!query) return
-    const match = [...cards.entries()].find(([, card]) =>
-      [
-        card.querySelector(".thread-milestone-title")?.textContent,
-        card.querySelector("time")?.textContent,
-        card.querySelector(".thread-proposition")?.textContent,
+    dataset.milestones.forEach((item) => {
+      item.haystack = [
+        item.label,
+        item.proposition,
+        item.statement_text,
+        item.speaker,
+        item.episode_title,
+        item.date,
+        label(item.kind),
+        ...item.entity_names,
       ]
+        .filter(Boolean)
         .join(" ")
         .toLowerCase()
-        .includes(query),
-    )?.[0]
-    if (match) selectNode(match)
-  }
-  search?.addEventListener("change", findSearchResult)
-  search?.addEventListener("keydown", (event) => {
-    if (event.key === "Enter") {
-      event.preventDefault()
-      findSearchResult()
-    }
-  })
-
-  svg.addEventListener(
-    "wheel",
-    (event) => {
-      event.preventDefault()
-      zoomAt(event.deltaY < 0 ? 0.84 : 1.19, event.clientX, event.clientY)
-    },
-    { passive: false },
-  )
-
-  type Pointer = { x: number; y: number }
-  const pointers = new Map<number, Pointer>()
-  let gestureView = { ...view }
-  let gestureAnchor = { x: 0, y: 0 }
-  let gestureStart = { x: 0, y: 0 }
-  let gestureDistance = 0
-  const beginGesture = () => {
-    gestureView = { ...view }
-    const points = [...pointers.values()]
-    gestureStart =
-      points.length === 1
-        ? points[0]
-        : { x: (points[0].x + points[1].x) / 2, y: (points[0].y + points[1].y) / 2 }
-    gestureAnchor = graphPoint(gestureStart.x, gestureStart.y, gestureView)
-    gestureDistance =
-      points.length > 1 ? Math.hypot(points[0].x - points[1].x, points[0].y - points[1].y) : 0
-  }
-  svg.addEventListener("pointerdown", (event) => {
-    if (event.button !== 0) return
-    pointers.set(event.pointerId, { x: event.clientX, y: event.clientY })
-    svg.setPointerCapture(event.pointerId)
-    beginGesture()
-  })
-  svg.addEventListener("pointermove", (event) => {
-    if (!pointers.has(event.pointerId)) return
-    pointers.set(event.pointerId, { x: event.clientX, y: event.clientY })
-    const points = [...pointers.values()]
-    const midpoint =
-      points.length === 1
-        ? points[0]
-        : { x: (points[0].x + points[1].x) / 2, y: (points[0].y + points[1].y) / 2 }
-    if (Math.hypot(midpoint.x - gestureStart.x, midpoint.y - gestureStart.y) > 3)
-      suppressClick = true
-    const fraction = screenFraction(midpoint.x, midpoint.y, gestureView)
-    const ratio =
-      points.length > 1
-        ? gestureDistance /
-          Math.max(Math.hypot(points[0].x - points[1].x, points[0].y - points[1].y), 1)
-        : 1
-    const width = gestureView.width * ratio
-    const height = gestureView.height * ratio
-    setView({
-      x: gestureAnchor.x - fraction.x * width,
-      y: gestureAnchor.y - fraction.y * height,
-      width,
-      height,
     })
-  })
-  const endGesture = (event: PointerEvent) => {
-    pointers.delete(event.pointerId)
-    if (pointers.size) beginGesture()
-  }
-  svg.addEventListener("pointerup", endGesture)
-  svg.addEventListener("pointercancel", endGesture)
-  svg.addEventListener(
-    "click",
-    (event) => {
-      if (!suppressClick) return
-      event.preventDefault()
-      event.stopPropagation()
-      suppressClick = false
-    },
-    true,
-  )
-  svg.addEventListener("keydown", (event) => {
-    if (["+", "="].includes(event.key)) zoomAt(0.78)
-    else if (event.key === "-") zoomAt(1.28)
-    else if (event.key === "0" || event.key === "Home") setView({ ...original })
-    else if (event.key.startsWith("Arrow")) {
-      const x =
-        event.key === "ArrowLeft"
-          ? -view.width * 0.1
-          : event.key === "ArrowRight"
-            ? view.width * 0.1
-            : 0
-      const y =
-        event.key === "ArrowUp"
-          ? -view.height * 0.1
-          : event.key === "ArrowDown"
-            ? view.height * 0.1
-            : 0
-      setView({ ...view, x: view.x + x, y: view.y + y })
-    } else return
-    event.preventDefault()
-  })
+    const milestones = new Map(dataset.milestones.map((item) => [item.id, item]))
+    const parents = new Map<string, ThreadLink[]>()
+    const children = new Map<string, ThreadLink[]>()
+    dataset.links.forEach((link) => {
+      parents.set(link.to, [...(parents.get(link.to) ?? []), link])
+      children.set(link.from, [...(children.get(link.from) ?? []), link])
+    })
 
-  const hashNode = decodeURIComponent(location.hash.slice(1))
-  selected = cards.has(hashNode)
-    ? hashNode
-    : desk.dataset.defaultNode || cards.keys().next().value || ""
-  updateSelection()
-  setView({ ...original })
-  requestAnimationFrame(() => focusNode(selected))
+    const shell = container.querySelector<HTMLElement>("[data-thread-browser-shell]")!
+    const results = container.querySelector<HTMLOListElement>("[data-thread-results]")!
+    const count = container.querySelector<HTMLOutputElement>("[data-thread-result-count]")!
+    const inspector = container.querySelector<HTMLElement>("[data-thread-inspector]")!
+    const more = container.querySelector<HTMLButtonElement>("[data-thread-more]")!
+    const query = container.querySelector<HTMLInputElement>("[data-thread-query]")!
+    const kind = container.querySelector<HTMLSelectElement>("[data-thread-kind]")!
+    const month = container.querySelector<HTMLSelectElement>("[data-thread-month]")!
+    const sort = container.querySelector<HTMLSelectElement>("[data-thread-sort]")!
+    const density = container.querySelector<HTMLElement>("[data-thread-density]")!
+
+    const kindCounts = new Map<string, number>()
+    const monthCounts = new Map<string, number>()
+    dataset.milestones.forEach((item) => {
+      kindCounts.set(item.kind, (kindCounts.get(item.kind) ?? 0) + 1)
+      monthCounts.set(item.month, (monthCounts.get(item.month) ?? 0) + 1)
+    })
+    kind.insertAdjacentHTML(
+      "beforeend",
+      [...kindCounts.entries()]
+        .sort((a, b) => label(a[0]).localeCompare(label(b[0])))
+        .map(
+          ([value, total]) =>
+            `<option value="${escapeHtml(value)}">${escapeHtml(label(value))} (${total})</option>`,
+        )
+        .join(""),
+    )
+    const months = [...monthCounts.entries()].sort((a, b) => a[0].localeCompare(b[0]))
+    month.insertAdjacentHTML(
+      "beforeend",
+      months
+        .map(
+          ([value, total]) =>
+            `<option value="${escapeHtml(value)}">${escapeHtml(value)} (${total})</option>`,
+        )
+        .join(""),
+    )
+    const densityMonths = months.slice(-18)
+    const densityMax = Math.max(...densityMonths.map(([, total]) => total), 1)
+    density.innerHTML = densityMonths
+      .map(
+        ([value, total]) =>
+          `<button type="button" data-thread-density-month="${escapeHtml(value)}" title="${escapeHtml(value)} · ${total} turns" aria-label="Show ${escapeHtml(value)}, ${total} turns"><span style="height:${Math.max(8, Math.round((total / densityMax) * 100))}%"></span><small>${escapeHtml(value.slice(5))}</small></button>`,
+      )
+      .join("")
+
+    const lensKinds = {
+      evidence: new Set(["evidence_added", "corroborated"]),
+      conflicts: new Set(["contradicted", "refuted", "retracted"]),
+      roots: new Set(["first_asserted"]),
+      unresolved: new Set(["researched_unverifiable"]),
+    } as Record<string, Set<string>>
+    let selectedId = (() => {
+      try {
+        const hashId = decodeURIComponent(location.hash.slice(1))
+        return milestones.has(hashId) ? hashId : dataset.default_node_id
+      } catch {
+        return dataset.default_node_id
+      }
+    })()
+    let activeLens = "latest"
+    let page = 1
+    let graphDepth = 1
+
+    const renderInspector = () => {
+      const item = milestones.get(selectedId)
+      if (!item) {
+        inspector.innerHTML = '<p class="research-empty">Choose a milestone to inspect it.</p>'
+        return
+      }
+      const incoming = parents.get(item.id) ?? []
+      const outgoing = children.get(item.id) ?? []
+      inspector.innerHTML = `
+        <span class="research-kicker">Selected milestone</span>
+        <div class="thread-inspector-meta"><time datetime="${escapeHtml(item.date)}">${escapeHtml(item.date)}</time><span>${escapeHtml(item.mark)} ${escapeHtml(label(item.kind))}</span></div>
+        <h3>${escapeHtml(item.label)}</h3>
+        ${item.proposition ? `<p class="thread-inspector-proposition">${escapeHtml(item.proposition)}</p>` : ""}
+        <div class="thread-inspector-relations"><section><h4>Builds on <span>${incoming.length}</span></h4>${threadRelationList(incoming, "from", milestones)}</section><section><h4>Leads to <span>${outgoing.length}</span></h4>${threadRelationList(outgoing, "to", milestones)}</section></div>
+        <section class="thread-inspector-evidence"><h4>Primary evidence</h4><blockquote>${escapeHtml(item.statement_text || "No statement text recorded.")}</blockquote><p>${escapeHtml(item.speaker)} · <a href="${escapeHtml(localHref(item.episode_href))}">${escapeHtml(item.episode_title)} at ${escapeHtml(item.timestamp_label)}</a></p><a class="thread-statement-link" href="${escapeHtml(localHref(item.statement_href))}">Open canonical statement →</a></section>
+        ${item.review_note ? `<details class="thread-review-note"><summary>Reviewer note</summary><p>${escapeHtml(item.review_note)}</p></details>` : ""}
+        <section class="thread-inspector-graph">${threadLocalGraph(item.id, graphDepth, milestones, dataset.links, parents, children)}</section>`
+    }
+
+    const selectMilestone = (id: string, updateHash = true) => {
+      if (!milestones.has(id)) return
+      selectedId = id
+      results.querySelectorAll<HTMLElement>("[data-thread-result]").forEach((card) => {
+        card.classList.toggle("is-selected", card.dataset.threadResult === id)
+      })
+      renderInspector()
+      if (updateHash)
+        history.replaceState(
+          {},
+          "",
+          `${location.pathname}${location.search}#${encodeURIComponent(selectedId)}`,
+        )
+    }
+
+    const filteredMilestones = () => {
+      const needle = query.value.trim().toLowerCase()
+      const lensFilter = lensKinds[activeLens]
+      return dataset.milestones
+        .filter(
+          (item) =>
+            (!lensFilter || lensFilter.has(item.kind)) &&
+            (!needle || item.haystack?.includes(needle)) &&
+            (!kind.value || item.kind === kind.value) &&
+            (!month.value || item.month === month.value),
+        )
+        .sort((a, b) =>
+          sort.value === "oldest"
+            ? threadKey(a).localeCompare(threadKey(b))
+            : threadKey(b).localeCompare(threadKey(a)),
+        )
+    }
+
+    const renderResults = (syncSelection = false) => {
+      const filtered = filteredMilestones()
+      if (syncSelection && filtered.length && !filtered.some((item) => item.id === selectedId))
+        selectedId = filtered[0].id
+      const visible = filtered.slice(0, page * 30)
+      count.textContent = `${filtered.length.toLocaleString()} of ${dataset.milestones.length.toLocaleString()} turns`
+      results.innerHTML =
+        visible
+          .map(
+            (
+              item,
+            ) => `<li class="thread-browser-card${item.id === selectedId ? " is-selected" : ""}" data-thread-result="${escapeHtml(item.id)}">
+              <div class="thread-card-marker" aria-hidden="true">${escapeHtml(item.mark)}</div><div><p class="thread-card-meta"><time datetime="${escapeHtml(item.date)}">${escapeHtml(item.date)}</time><span>${escapeHtml(label(item.kind))}</span></p>
+              <h4><button type="button" data-thread-select="${escapeHtml(item.id)}">${escapeHtml(item.label)}</button></h4>${item.proposition ? `<p>${escapeHtml(item.proposition)}</p>` : ""}<p class="thread-card-source">${escapeHtml(item.speaker)} · ${escapeHtml(item.episode_title)}</p></div></li>`,
+          )
+          .join("") || '<li class="research-empty">No milestones match this view.</li>'
+      more.hidden = visible.length >= filtered.length
+      more.textContent = `Show ${Math.min(30, filtered.length - visible.length).toLocaleString()} more`
+      renderInspector()
+    }
+
+    container.addEventListener("click", (event) => {
+      const target = event.target as Element
+      const selection = target.closest<HTMLElement>("[data-thread-select]")
+      if (selection?.dataset.threadSelect) {
+        event.preventDefault()
+        selectMilestone(selection.dataset.threadSelect)
+        return
+      }
+      const lensButton = target.closest<HTMLButtonElement>("[data-thread-lens]")
+      if (lensButton?.dataset.threadLens) {
+        activeLens = lensButton.dataset.threadLens
+        page = 1
+        container
+          .querySelectorAll<HTMLButtonElement>("[data-thread-lens]")
+          .forEach((button) => button.setAttribute("aria-pressed", String(button === lensButton)))
+        renderResults(true)
+        return
+      }
+      const densityButton = target.closest<HTMLButtonElement>("[data-thread-density-month]")
+      if (densityButton?.dataset.threadDensityMonth) {
+        month.value = densityButton.dataset.threadDensityMonth
+        page = 1
+        renderResults(true)
+        return
+      }
+      const depthButton = target.closest<HTMLButtonElement>("[data-thread-graph-depth]")
+      if (depthButton?.dataset.threadGraphDepth) {
+        graphDepth = Number(depthButton.dataset.threadGraphDepth)
+        renderInspector()
+      }
+    })
+    ;[query, kind, month, sort].forEach((controlElement) =>
+      controlElement.addEventListener("input", () => {
+        page = 1
+        renderResults(true)
+      }),
+    )
+    more.addEventListener("click", () => {
+      page += 1
+      renderResults()
+    })
+    container.querySelector("[data-thread-reset]")?.addEventListener("click", () => {
+      query.value = ""
+      kind.value = ""
+      month.value = ""
+      sort.value = "newest"
+      activeLens = "latest"
+      page = 1
+      container
+        .querySelectorAll<HTMLButtonElement>("[data-thread-lens]")
+        .forEach((button) =>
+          button.setAttribute("aria-pressed", String(button.dataset.threadLens === "latest")),
+        )
+      renderResults(true)
+    })
+
+    loading.hidden = true
+    shell.hidden = false
+    renderResults()
+  } catch (error) {
+    loading.innerHTML = `<span role="alert">The evidence index could not be loaded. ${escapeHtml(error)}</span>`
+  }
 }
 
 const initThreadPages = () => {
   document
-    .querySelectorAll<HTMLElement>(".thread-detail:not([data-thread-initialized])")
-    .forEach((detail) => {
-      detail.dataset.threadInitialized = "true"
-      initThreadEntityRoster(detail)
-      detail.querySelectorAll<HTMLElement>("[data-thread-desk]").forEach(initThreadDesk)
-    })
+    .querySelectorAll<HTMLElement>("[data-thread-browser]:not([data-initialized])")
+    .forEach((container) => void initThreadBrowser(container))
 }
 
 document.addEventListener("nav", () => {
