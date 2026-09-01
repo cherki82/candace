@@ -26,7 +26,7 @@ Source: [State of Utah official website](https://utah.gov/)
 <div><span>Episodes</span><strong>90</strong></div>
 <div><span>Mentions</span><strong>400</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>25</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -2036,7 +2036,7 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah (25)</strong></summary>
+<summary><strong class="section-title">Statements about Utah (27)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2070,6 +2070,17 @@ Source: [State of Utah official website](https://utah.gov/)
 
 - [00:01:43](/episodes/ep-HZvwbfePe7o.md#t-00-01-43) (Claim) **Candace Owens**: ["Owens said she was hearing of many resignations at Utah Valley Univers..."](/statements/statement-f7403773782b.md)
   - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+
+- [00:27:20](/episodes/ep-N4uM8Jdr410.md#t-00-26-52) (Opinion) **Candace Owens**: ["Candace Owens said the assassination occurring in 'Mormon territory' w..."](/statements/statement-e525d819a3fb.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:36:59](/episodes/ep-N4uM8Jdr410.md#t-00-36-59) (Opinion) **Blake Neff**: ["Blake Neff said he interpreted a question about staying in Orem as a q..."](/statements/statement-2e648c420a02.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Orem](/entities/gpe-orem.md), [Phoenix](/entities/gpe-phoenix.md)
 
 </details>
 

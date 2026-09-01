@@ -22,9 +22,9 @@ Source: [About Turo](https://turo.com/us/en/about)
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -41,6 +41,10 @@ Source: [About Turo](https://turo.com/us/en/about)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -61,5 +65,18 @@ Source: [About Turo](https://turo.com/us/en/about)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Turo (1)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+
+- [00:40:33](/episodes/ep-puuMVxEu5NU.md#t-00-40-29) (Opinion) **Candace Owens** (via paraphrase): ["Owens relayed a tip that a gray Dodge Challenger might have been rente..."](/statements/statement-d568d261f754.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+
+</details>
 
 </details>

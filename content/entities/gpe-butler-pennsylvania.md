@@ -89,7 +89,7 @@ Source: [City of Butler](https://cityofbutler.org/)
 > "...ened on that fateful night in Butler, Pennsylvania."
 
 **[00:28:10](/episodes/ep-puuMVxEu5NU.md#ent-gpe-butler-pennsylvania-t-00-28-10)**
-> "...just trusted the narrative on Butler. People who supported Trump (Donald Trump) are go..."
+> "I just trusted the narrative on Butler. People who supported Trump (Donald Trump) are asking, were we completely duped by this narrative?"
 
 **[00:28:17](/episodes/ep-puuMVxEu5NU.md#ent-gpe-butler-pennsylvania-t-00-28-10)**
 > "...this question. We revisit the Butler assassination and speculated that Corey Comperato..."

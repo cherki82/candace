@@ -25,7 +25,7 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#t-00-04-26">2026-08-11 · 00:04:55</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
-<div><span>Statements by</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
@@ -115,7 +115,7 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by David Freiheit (6)</strong></summary>
+<summary><strong class="section-title">Statements by David Freiheit (7)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1)</summary>
@@ -126,10 +126,13 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 </details>
 
 <details>
-<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2)</summary>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (3)</summary>
 
 - [00:48:29](/episodes/ep-OgRyiOAVtWU.md#t-00-48-09) [✓] (Opinion) ["David Freiheit said he did not know whether Tyler Robinson fired the gun but des..."](/statements/statement-a4c3be6b8469.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:48:54](/episodes/ep-OgRyiOAVtWU.md#t-00-48-54) [○] (Opinion) ["David Freiheit acknowledged issues with the prosecution, investigation, and evid..."](/statements/statement-3b14e5998433.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 - [00:49:08](/episodes/ep-OgRyiOAVtWU.md#t-00-48-54) [✓] (Opinion) ["David Freiheit said a more plausible alternative theory could be presented, but ..."](/statements/statement-51701d5d02b1.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)

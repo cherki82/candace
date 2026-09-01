@@ -24,9 +24,9 @@ Source: [City of Orem — Economic Development](https://orem.gov/economic-develo
 <div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -59,6 +59,10 @@ Source: [City of Orem — Economic Development](https://orem.gov/economic-develo
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -224,6 +228,22 @@ Source: [City of Orem — Economic Development](https://orem.gov/economic-develo
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:39:28](/episodes/ep-amqTMimDr0A.md#t-00-39-28): “I find out that Allison (Stephen Boss's widow; surname unverified) grew up in Orem, Utah.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Orem (2)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+
+- [00:36:21](/episodes/ep-N4uM8Jdr410.md#t-00-36-05) (Claim) **Candace Owens**: ["Candace Owens said Blake Neff first said he stayed in Orem, later chan..."](/statements/statement-728acaa0a10a.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:36:59](/episodes/ep-N4uM8Jdr410.md#t-00-36-59) (Opinion) **Blake Neff**: ["Blake Neff said he interpreted a question about staying in Orem as a q..."](/statements/statement-2e648c420a02.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Utah](/entities/gpe-utah.md), [Phoenix](/entities/gpe-phoenix.md)
 
 </details>
 

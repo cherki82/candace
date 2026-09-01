@@ -26,7 +26,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <div><span>Episodes</span><strong>22</strong></div>
 <div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>34</strong></div>
+<div><span>Statements about</span><strong>36</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -397,7 +397,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (34)</strong></summary>
+<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (36)</strong></summary>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (8)</summary>
@@ -429,10 +429,16 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details>
-<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (3)</summary>
 
 - [00:17:10](/episodes/ep-OgRyiOAVtWU.md#t-00-16-52) (Claim) **Candace Owens**: ["Owens said Danny Philip called Michael McCoy and they remained on the ..."](/statements/statement-51759fdb5429.md)
   - Also about: [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:18:10](/episodes/ep-OgRyiOAVtWU.md#t-00-18-00) (Opinion) **Candace Owens**: ["Owens said live local-news footage placed Blake Neff, Danny Philip, an..."](/statements/statement-0d6b34a89ad5.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [01:02:20](/episodes/ep-OgRyiOAVtWU.md#t-01-01-54) (Claim) **Anonymous Source #2 (Ep OgRyiOAVtWU)** (via paraphrase): ["Unnamed people who worked in other parts of Timpanogos Regional Hospit..."](/statements/statement-309d9fbe53cc.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

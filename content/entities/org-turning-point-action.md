@@ -27,7 +27,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <div><span>Episodes</span><strong>19</strong></div>
 <div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -458,10 +458,13 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point Action (21)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point Action (22)</strong></summary>
 
 <details>
-<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2)</summary>
+
+- [00:25:17](/episodes/ep-ds6umq1rHAw.md#t-00-25-17) (Claim) **Candace Owens**: ["Owens said Tyler Bowyer handled Turning Point USA's money, that she ha..."](/statements/statement-16e283e46763.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Charlie Kirk apparently did not know where all the money wa..."](/statements/statement-c7da5e5633f6.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)

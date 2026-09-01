@@ -115,7 +115,7 @@ Source: [Brunel verified complaint identifying MC2 Model Management](https://sta
 - **[Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:22:32](/episodes/ep-IqHsl7d2dos.md#t-00-22-32): “Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Cates and Next Model Management, which he started with Faith Cates, are all listed as defendants in these allegations, which span back decades.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:22:32](/episodes/ep-IqHsl7d2dos.md#t-00-22-32): “Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Kates and Next Model Management, which he started with Faith Kates, are all listed as defendants in these allegations, which span back decades.”
 
 </details>
 
@@ -141,7 +141,7 @@ Source: [Brunel verified complaint identifying MC2 Model Management](https://sta
 - **[Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)** operates this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:22:32](/episodes/ep-IqHsl7d2dos.md#t-00-22-32): “Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Cates and Next Model Management, which he started with Faith Cates, are all listed as defendants in these allegations, which span back decades.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:22:32](/episodes/ep-IqHsl7d2dos.md#t-00-22-32): “Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Kates and Next Model Management, which he started with Faith Kates, are all listed as defendants in these allegations, which span back decades.”
 
 </details>
 

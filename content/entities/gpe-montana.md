@@ -130,7 +130,7 @@ Source: [Montana.gov - Official State Website](https://mt.gov/)
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
 
 **[00:28:28](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-montana-t-00-28-23)**
-> "...s-finished cattle raised on a Montana farm. grass-fed grass-finished cattle raised on a..."
+> "Their tallow comes from grass-fed, grass-finished cattle raised on a Montana farm. In a world where so many companies hide where their ingredients are sourced from, that actually really matters."
 
 </details>
 

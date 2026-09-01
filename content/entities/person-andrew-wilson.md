@@ -21,10 +21,10 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-wilson-t-00-45-20">2026-08-31 · 00:45:20</a></strong></div>
 <div><span>Episodes</span><strong>10</strong></div>
 <div><span>Mentions</span><strong>121</strong></div>
-<div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>29</strong></div>
+<div><span>Statements by</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>33</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -59,6 +59,10 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -187,19 +191,19 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 **[00:17:24](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-wilson-t-00-17-08)**
 > "...want to say this. By the time Andrew Wilson whipped out his phone and read that opening state..."
 
-**[00:20:15](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-wilson-t-00-19-58)**
-> "...she told me which how Andrew (Andrew Wilson) is making a very very bad mistake here she said ..."
+**[00:20:15](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-wilson-t-00-17-08)**
+> "that she has his phone. Then Turning Point tried to claim—which we met days after, because that's when I went, this is weird—days after that, Erika then came to Nashville and we had this summit. What she told me, which is how Andrew is making a very bad mistake here, was, well, it was on Signal and the team's messages auto-delete on Signal. And she didn't know."
 
-**[00:21:05](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-wilson-t-00-20-43)**
+**[00:21:05](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-wilson-t-00-20-59)**
 > "... And I message. Well, Andrew (Andrew Wilson) says he's going to be dropping this message beca..."
 
-**[00:21:36](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-wilson-t-00-21-21)**
+**[00:21:36](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-wilson-t-00-21-36)**
 > "...sharing messages? And Andrew (Andrew Wilson), we're supposed to believe you didn't tell her f..."
 
-**[00:21:49](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-wilson-t-00-21-21)**
+**[00:21:49](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-wilson-t-00-21-36)**
 > "... Fingers crossed that Andrew (Andrew Wilson)."
 
-**[00:22:29](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-wilson-t-00-21-59)**
+**[00:22:29](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-wilson-t-00-22-20)**
 > "...put this at? And here is what Andrew Wilson says."
 
 **[00:39:50](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-wilson-t-00-39-50)**
@@ -812,7 +816,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Andrew Wilson (17)</strong></summary>
+<summary><strong class="section-title">Statements by Andrew Wilson (22)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -823,19 +827,34 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details>
-<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (4)</summary>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (9)</summary>
 
 - [00:18:36](/episodes/ep-E7P2ShoYDUA.md#t-00-18-36) [✓] (Claim) ["Andrew Wilson said he possessed previously unseen messages sent between Charlie ..."](/statements/statement-799699606843.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:18:49](/episodes/ep-E7P2ShoYDUA.md#t-00-18-49) [○] (Claim) ["Andrew Wilson read a September 9 message he said came from Charlie Kirk's securi..."](/statements/statement-f65e7067eb3e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:18:58](/episodes/ep-E7P2ShoYDUA.md#t-00-18-49) [○] (Claim) ["Andrew Wilson read the message as saying the September 10 event would be covered..."](/statements/statement-d2f503d76428.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
 - [00:22:44](/episodes/ep-E7P2ShoYDUA.md#t-00-22-37) [✓] (Opinion) ["Andrew Wilson estimated a 75% to 85% likelihood, based on the evidence available..."](/statements/statement-1b05f044069a.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:26:19](/episodes/ep-E7P2ShoYDUA.md#t-00-26-19) [○] (Claim) ["Andrew Wilson said his case for Tyler Robinson included screwdriver and DNA evid..."](/statements/statement-cba70187b84f.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:30:39](/episodes/ep-E7P2ShoYDUA.md#t-00-30-39) [✓] (Claim) ["Andrew Wilson said there was no positive evidence that Israel, France, Turning P..."](/statements/statement-111b4a14a165.md)
   - About: [Israel](/entities/gpe-israel.md), [France](/entities/gpe-france.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
+- [00:36:31](/episodes/ep-E7P2ShoYDUA.md#t-00-36-31) [○] (Opinion) ["Andrew Wilson argued that even if Erika Kirk sincerely believed Tyler Robinson k..."](/statements/statement-9bbe1e5d27e3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [00:59:58](/episodes/ep-E7P2ShoYDUA.md#t-00-59-39) [✓] (Opinion) ["Andrew Wilson posted that every AI source would say he won the debate and that t..."](/statements/statement-5257d42415d1.md)
   - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [Claude](/entities/work-claude-ai.md)
+
+- [01:25:30](/episodes/ep-E7P2ShoYDUA.md#t-01-25-30) [○] (Claim) ["Owens said Andrew Wilson argued that the bullet split in midair and created air ..."](/statements/statement-2932e3927280.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -888,7 +907,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Wilson (29)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Wilson (30)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -907,7 +926,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details>
-<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (10)</summary>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (11)</summary>
 
 - [00:00:36](/episodes/ep-E7P2ShoYDUA.md#t-00-00-01) (Claim) **Candace Owens**: ["Turning Point USA brought Andrew Wilson in to train its students in de..."](/statements/statement-c49e0bb25c39.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -936,6 +955,9 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 - [01:08:56](/episodes/ep-E7P2ShoYDUA.md#t-01-08-30) (Accusation) **Candace Owens**: ["Owens alleged that after Andrew Wilson visited Turning Point USA headq..."](/statements/statement-231d9f258b5d.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [01:24:23](/episodes/ep-E7P2ShoYDUA.md#t-01-24-18) (Opinion) **Candace Owens**: ["Candace Owens said Wilson's prioritization of defending Israel rather ..."](/statements/statement-41119b6f7001.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
 
 </details>
 

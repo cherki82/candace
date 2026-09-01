@@ -27,7 +27,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <div><span>Episodes</span><strong>70</strong></div>
 <div><span>Mentions</span><strong>494</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
-<div><span>Statements about</span><strong>108</strong></div>
+<div><span>Statements about</span><strong>109</strong></div>
 <div><span>Relationships</span><strong>99</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -3112,7 +3112,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ben Shapiro (108)</strong></summary>
+<summary><strong class="section-title">Statements about Ben Shapiro (109)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
@@ -3194,6 +3194,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
 
 - [00:45:35](/episodes/ep-N4uM8Jdr410.md#t-00-45-35) (Promise) **Candace Owens**: ["Candace Owens promised to reveal before the end of the week who had to..."](/statements/statement-04ee0e537e1f.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+
+- [00:52:58](/episodes/ep-puuMVxEu5NU.md#t-00-52-27) (Opinion) **Candace Owens**: ["Owens said the only other possible source of live updates to Ben Shapi..."](/statements/statement-63591d320b12.md)
 
 </details>
 

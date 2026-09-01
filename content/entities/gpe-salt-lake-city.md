@@ -22,7 +22,7 @@ Source: [SLC.gov](https://www.slc.gov/)
 <div><span>Episodes</span><strong>27</strong></div>
 <div><span>Mentions</span><strong>61</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -431,7 +431,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Salt Lake City (8)</strong></summary>
+<summary><strong class="section-title">Statements about Salt Lake City (13)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
@@ -450,21 +450,41 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (4)</summary>
+
+- [00:36:21](/episodes/ep-N4uM8Jdr410.md#t-00-36-05) (Claim) **Candace Owens**: ["Candace Owens said Blake Neff first said he stayed in Orem, later chan..."](/statements/statement-728acaa0a10a.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Orem](/entities/gpe-orem.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:37:14](/episodes/ep-N4uM8Jdr410.md#t-00-37-08) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said that, to his knowledge, he stayed at basically the sam..."](/statements/statement-b592fae6969b.md)
   - Also about: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
+- [00:38:26](/episodes/ep-N4uM8Jdr410.md#t-00-37-59) (Opinion) **Candace Owens**: ["Candace Owens questioned why Salt Lake City served as the hub for TPUS..."](/statements/statement-33a1bff2e831.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Restaurantology](/entities/work-restaurantology.md)
+
+- [00:38:34](/episodes/ep-N4uM8Jdr410.md#t-00-38-34) (Opinion) **Candace Owens**: ["Candace Owens said anticipation of the vice president's arrival near S..."](/statements/statement-ef4f9c2b69a0.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
 </details>
 
 <details>
-<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2)</summary>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+
+- [00:40:33](/episodes/ep-puuMVxEu5NU.md#t-00-40-29) (Opinion) **Candace Owens** (via paraphrase): ["Owens relayed a tip that a gray Dodge Challenger might have been rente..."](/statements/statement-d568d261f754.md)
+  - Also about: [Turo](/entities/org-turo.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (3)</summary>
 
 - [00:12:05](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36) (Claim) **Candace Owens**: ["Owens said Blake Neff was aboard Kirk's private jet to Salt Lake City ..."](/statements/statement-14a313270dcd.md)
   - Also about: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:12:13](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36) (Claim) **Candace Owens**: ["Owens said Michael McCoy was also aboard the jet and rented two SUVs i..."](/statements/statement-6fda75c76aee.md)
   - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:30:29](/episodes/ep-X3VKJVJ7cN4.md#t-00-30-29) (Opinion) **Candace Owens**: ["Owens speculated that another Dodge Challenger may have been rented ne..."](/statements/statement-f03054fb3e06.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Provo](/entities/gpe-provo.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
 
 </details>
 

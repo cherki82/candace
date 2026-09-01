@@ -220,7 +220,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (4 mentions)</summary>
 
 **[00:56:52](/episodes/ep-mLvJqdxS-FY.md#ent-person-kanye-west-t-00-56-39)**
-> "...by if you go into what Kanye (Kanye West) was telling you forcing um psychological cocktai..."
+> "When people begin telling the truth about what's happening, they are instantly called crazy, and sometimes they are made crazy. If you go into what Kanye (Kanye West) was telling you, they force psychological cocktails on them and put them on a 5150 hold."
 
 **[00:57:05](/episodes/ep-mLvJqdxS-FY.md#ent-person-kanye-west-t-00-56-39)**
 > "... his last name, did to Kanye (Kanye West). Right. He put him on a 5150 hold."

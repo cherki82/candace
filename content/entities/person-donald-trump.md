@@ -601,7 +601,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > "Trump (Donald Trump)."
 
 **[00:28:10](/episodes/ep-puuMVxEu5NU.md#ent-person-donald-trump-t-00-28-10)**
-> "... Butler. People who supported Trump (Donald Trump) are going, were we completely dupe..."
+> "I just trusted the narrative on Butler. People who supported Trump (Donald Trump) are asking, were we completely duped by this narrative?"
 
 **[00:30:47](/episodes/ep-puuMVxEu5NU.md#ent-person-donald-trump-t-00-30-47)**
 > "...u had a message for President Trump (Donald Trump), what would it be?"

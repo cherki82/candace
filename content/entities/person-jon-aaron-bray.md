@@ -144,25 +144,25 @@ Source: [Forensic Evidence Summary](https://followtheepicenter.com/Forensic_Evid
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (7 mentions)</summary>
 
 **[00:03:35](/episodes/ep-a2bZf4fic10.md#ent-person-jon-aaron-bray-t-00-03-22)**
-> "... to reintroduce a theory that John Bray had been working on for a very long time regardin..."
+> "Not at Charlie Kirk's neck, I can say that unequivocally. And you saw that we began to reintroduce a theory that Jon Aaron Bray had been working on for a very long time regarding an explosive."
 
 **[00:03:49](/episodes/ep-a2bZf4fic10.md#ent-person-jon-aaron-bray-t-00-03-22)**
-> "...nced from the very beginning, John Bray, that Charlie's microphone was rigged beneath him..."
+> "He was convinced from the very beginning, Jon Aaron Bray, that Charlie's microphone was rigged beneath him and that it subsequently shattered."
 
 **[00:09:20](/episodes/ep-a2bZf4fic10.md#ent-person-jon-aaron-bray-t-00-09-15)**
-> "...at as well so you can see it. John Bray was telling the truth."
+> "We will get close on that as well so you can see it. Jon Aaron Bray was telling the truth."
 
 **[00:20:35](/episodes/ep-a2bZf4fic10.md#ent-person-jon-aaron-bray-t-00-20-35)**
-> "...in front of Charlie Kirk, and John Bray is getting me those photos—when there was an imme..."
+> "I was going, okay, well, like—and there is some that actually fell in front of Charlie Kirk, and Jon Aaron Bray is getting me those photos—when there was an immediate impact, like that, pieces that flew. And you know what it does? It actually answers a question I've had for a very long time, and we are declining to show the photo because it's so graphic, of why they held Charlie Kirk—and forgive my language—why they held Charlie Kirk like they were a bunch of assholes as they carried him to the car."
 
 **[00:49:53](/episodes/ep-a2bZf4fic10.md#ent-person-jon-aaron-bray-t-00-49-53)**
-> "... witness tree because I think John Bray's theory has infinitely more."
+> "I am now revisiting that footage and we are going to spend time looking at that as well as we develop the witness tree because I think Jon Aaron Bray's theory has infinitely more."
 
 **[00:50:15](/episodes/ep-a2bZf4fic10.md#ent-person-jon-aaron-bray-t-00-49-53)**
-> "John Bray has done tremendous work. I know you guys want me..."
+> "Jon Aaron Bray has done tremendous work. I know you guys want me to have him on the show."
 
 **[00:57:00](/episodes/ep-a2bZf4fic10.md#ent-person-jon-aaron-bray-t-00-57-00)**
-> "... your videos. The people like John Bray, the people who are curious, who have sent in lit..."
+> "So I just want to let you guys know, like, all of these smaller YouTube accounts, like, I see your stuff, I see your videos. The people like Jon Aaron Bray, the people who are curious, who have sent in little details—this is all you. Like, this—I have a platform. This is not even my platform. Like, I will have this platform for however long God wills it."
 
 </details>
 

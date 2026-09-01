@@ -26,7 +26,7 @@ veracity: "true"
 - [Amber Robinson](/entities/person-amber-robinson.md) (person)
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
@@ -43,6 +43,14 @@ veracity: "true"
 <a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=9232s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > explaining how they got the samples and they said Lance, Matt and Amber, sorry, Lance, Matt and Amber Robinson, how they got their DNA samples. ... I think I wrongly extrapolated that they meant all three of them were on the print when the only person they officially named was Matt Robinson.
+
+### 3. Behind The Scenes Of The Great Debate: TPUSA Is The Biggest ...
+
+**Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
+**Timestamp:** [00:41:03](/episodes/ep-E7P2ShoYDUA.md#t-00-40-33) 
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=2463s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Never officially said that Lance (Lance Twiggs)'s DNA was on the rifle. And so they just kind of played that and it was weird and I allowed it. I totally allowed the silence because A, never get in the way of your opponent when they're making a mistake.
 
 ## Verification
 

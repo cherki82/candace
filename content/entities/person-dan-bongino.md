@@ -26,7 +26,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <div><span>Episodes</span><strong>14</strong></div>
 <div><span>Mentions</span><strong>45</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -443,7 +443,15 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Bongino (11)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Bongino (12)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:13:49](/episodes/ep-N4uM8Jdr410.md#t-00-13-41) (Accusation) **Candace Owens**: ["Candace Owens contrasted Dan Bongino's early description of grainy foo..."](/statements/statement-2f39b7189057.md)
+  - Also about: [Benny Johnson](/entities/person-benny-johnson.md), [Graham Allen](/entities/person-graham-allen.md), [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>

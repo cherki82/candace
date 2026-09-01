@@ -26,9 +26,9 @@ Source: [Dodge Challenger | Dodge](https://www.dodge.com/challenger.html)
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -55,6 +55,10 @@ Source: [Dodge Challenger | Dodge](https://www.dodge.com/challenger.html)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -143,16 +147,35 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dodge Challenger (2)</strong></summary>
+<summary><strong class="section-title">Statements about Dodge Challenger (5)</strong></summary>
 
 <details>
-<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2)</summary>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+
+- [00:40:33](/episodes/ep-puuMVxEu5NU.md#t-00-40-29) (Opinion) **Candace Owens** (via paraphrase): ["Owens relayed a tip that a gray Dodge Challenger might have been rente..."](/statements/statement-d568d261f754.md)
+  - Also about: [Turo](/entities/org-turo.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (3)</summary>
 
 - [00:19:19](/episodes/ep-EtLHqDbxqks.md#t-00-19-09) (Claim) **Candace Owens**: ["Candace Owens said the vehicle shown in evidence had dual exhaust pipe..."](/statements/statement-9e4a3fe43afe.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:21:28](/episodes/ep-EtLHqDbxqks.md#t-00-21-28) (Claim) **Anonymous Source #6 (Ep EtLHqDbxqks)** (via quoted speech): ["An unidentified law-enforcement witness recalled that Ms. Noble's repo..."](/statements/statement-a725e3d18b50.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Anonymous Source #3 (Ep EtLHqDbxqks)](/entities/anon-src-EtLHqDbxqks-003.md)
+
+- [00:21:36](/episodes/ep-EtLHqDbxqks.md#t-00-21-36) (Claim) **Anonymous Source #6 (Ep EtLHqDbxqks)** (via quoted speech): ["The unidentified law-enforcement witness agreed that Ms. Noble's repor..."](/statements/statement-24b55ec3470b.md)
+  - Also about: [Ms. Noble (ring-camera witness; full identity unverified)](/entities/anon-src-EtLHqDbxqks-008.md)
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>
+
+- [00:30:29](/episodes/ep-X3VKJVJ7cN4.md#t-00-30-29) (Opinion) **Candace Owens**: ["Owens speculated that another Dodge Challenger may have been rented ne..."](/statements/statement-f03054fb3e06.md)
+  - Also about: [Provo](/entities/gpe-provo.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
 
 </details>
 

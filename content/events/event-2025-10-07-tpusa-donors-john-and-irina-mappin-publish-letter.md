@@ -41,7 +41,7 @@ date: "2025-10-07"
 ### 4. We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland...
 
 **Episode:** [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md)
-**Timestamp:** [00:07:38](/episodes/ep-JrhGEm8MGRY.md#event-event-2025-10-07-tpusa-donors-john-and-irina-mappin-publish-letter-t-00-07-38)
+**Timestamp:** [00:07:38](/episodes/ep-JrhGEm8MGRY.md#event-event-2025-10-07-tpusa-donors-john-and-irina-mappin-publish-letter-t-00-07-38) 
 <a href="https://www.youtube.com/watch?v=JrhGEm8MGRY&t=458s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > a piece that they published on October 6th because I read it on my show in its entirety

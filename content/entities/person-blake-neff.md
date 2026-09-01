@@ -27,8 +27,8 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-44-09">2026-08-31 · 00:44:09</a></strong></div>
 <div><span>Episodes</span><strong>73</strong></div>
 <div><span>Mentions</span><strong>376</strong></div>
-<div><span>Statements by</span><strong>47</strong></div>
-<div><span>Statements about</span><strong>55</strong></div>
+<div><span>Statements by</span><strong>49</strong></div>
+<div><span>Statements about</span><strong>60</strong></div>
 <div><span>Relationships</span><strong>43</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -2162,7 +2162,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (47)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (49)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
@@ -2230,7 +2230,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+
+- [00:36:59](/episodes/ep-N4uM8Jdr410.md#t-00-36-59) [○] (Opinion) ["Blake Neff said he interpreted a question about staying in Orem as a question ab..."](/statements/statement-2e648c420a02.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Orem](/entities/gpe-orem.md), [Utah](/entities/gpe-utah.md)
 
 - [00:37:14](/episodes/ep-N4uM8Jdr410.md#t-00-37-08) [✓] (Claim) ["Blake Neff said that, to his knowledge, he stayed at basically the same hotel as..."](/statements/statement-b592fae6969b.md)
   - About: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
@@ -2238,7 +2241,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (5)</summary>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (6)</summary>
 
 - [00:13:33](/episodes/ep-X3VKJVJ7cN4.md#t-00-13-33) [○] (Claim) ["Neff said he was not at the Savory Fund interview and was in the other SUV."](/statements/statement-a73cdc4d447e.md)
   - About: [Blake Neff](/entities/person-blake-neff.md), [Savory Fund](/entities/org-savory-fund.md)
@@ -2254,6 +2257,9 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 - [00:15:06](/episodes/ep-X3VKJVJ7cN4.md#t-00-15-06) [○] (Claim) ["Neff said he did not remember the specific people in his car."](/statements/statement-2aa58dfa59e9.md)
   - About: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:15:17](/episodes/ep-X3VKJVJ7cN4.md#t-00-15-17) [○] (Claim) ["Neff tentatively agreed that Danny Phillips might have been with him in the othe..."](/statements/statement-4a0e7fd54157.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md)
 
 </details>
 
@@ -2418,7 +2424,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (55)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (60)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2)</summary>
@@ -2505,12 +2511,15 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (3)</summary>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (4)</summary>
 
 - [00:11:55](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19) (Claim) **Candace Owens**: ["Michael McCoy rented two SUVs in Salt Lake City; Blake Neff and Danny ..."](/statements/statement-de022607d5e7.md)
   - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Danny Philip](/entities/person-danny-philip.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
 
 - [00:17:10](/episodes/ep-OgRyiOAVtWU.md#t-00-16-52) (Claim) **Candace Owens**: ["Owens said Danny Philip called Michael McCoy and they remained on the ..."](/statements/statement-51759fdb5429.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:18:10](/episodes/ep-OgRyiOAVtWU.md#t-00-18-00) (Opinion) **Candace Owens**: ["Owens said live local-news footage placed Blake Neff, Danny Philip, an..."](/statements/statement-0d6b34a89ad5.md)
   - Also about: [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
 
 - [00:25:34](/episodes/ep-OgRyiOAVtWU.md#t-00-25-07) (Opinion) **Candace Owens**: ["Owens said she wanted no harm to come to Erika Kirk or anyone at Turni..."](/statements/statement-e8652cff2809.md)
@@ -2519,7 +2528,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>
+
+- [00:36:21](/episodes/ep-N4uM8Jdr410.md#t-00-36-05) (Claim) **Candace Owens**: ["Candace Owens said Blake Neff first said he stayed in Orem, later chan..."](/statements/statement-728acaa0a10a.md)
+  - Also about: [Orem](/entities/gpe-orem.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:36:59](/episodes/ep-N4uM8Jdr410.md#t-00-36-59) (Opinion) **Blake Neff**: ["Blake Neff said he interpreted a question about staying in Orem as a q..."](/statements/statement-2e648c420a02.md)
+  - Also about: [Orem](/entities/gpe-orem.md), [Utah](/entities/gpe-utah.md), [Phoenix](/entities/gpe-phoenix.md)
 
 - [00:37:14](/episodes/ep-N4uM8Jdr410.md#t-00-37-08) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said that, to his knowledge, he stayed at basically the sam..."](/statements/statement-b592fae6969b.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
@@ -2527,7 +2542,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (7)</summary>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (9)</summary>
 
 - [00:11:22](/episodes/ep-X3VKJVJ7cN4.md#t-00-10-56) (Claim) **Candace Owens**: ["Owens said Neff's background was in military strategy and that he supp..."](/statements/statement-e1f5e5356bd2.md)
   - Also about: [United States Marine Corps](/entities/org-united-states-marine-corps.md)
@@ -2547,6 +2562,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
   - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
 
 - [00:15:06](/episodes/ep-X3VKJVJ7cN4.md#t-00-15-06) (Claim) **Blake Neff**: ["Neff said he did not remember the specific people in his car."](/statements/statement-2aa58dfa59e9.md)
+
+- [00:15:17](/episodes/ep-X3VKJVJ7cN4.md#t-00-15-17) (Claim) **Blake Neff**: ["Neff tentatively agreed that Danny Phillips might have been with him i..."](/statements/statement-4a0e7fd54157.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md)
+
+- [00:31:58](/episodes/ep-X3VKJVJ7cN4.md#t-00-31-22) (Opinion) **Candace Owens**: ["Owens questioned whether Frank Turek was absent from the Restaurantolo..."](/statements/statement-b38b51465826.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Restaurantology](/entities/work-restaurantology.md)
 
 </details>
 

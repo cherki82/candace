@@ -28,7 +28,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <div><span>Episodes</span><strong>32</strong></div>
 <div><span>Mentions</span><strong>134</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>30</strong></div>
+<div><span>Statements about</span><strong>31</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -746,7 +746,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Provo (30)</strong></summary>
+<summary><strong class="section-title">Statements about Provo (31)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
@@ -761,6 +761,14 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 - [00:11:55](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19) (Claim) **Candace Owens**: ["Michael McCoy rented two SUVs in Salt Lake City; Blake Neff and Danny ..."](/statements/statement-de022607d5e7.md)
   - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md)
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>
+
+- [00:30:29](/episodes/ep-X3VKJVJ7cN4.md#t-00-30-29) (Opinion) **Candace Owens**: ["Owens speculated that another Dodge Challenger may have been rented ne..."](/statements/statement-f03054fb3e06.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
 
 </details>
 

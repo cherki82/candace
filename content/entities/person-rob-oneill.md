@@ -25,7 +25,7 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-rob-oneill-t-03-08-44">2026-08-14 · 03:08:44</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>18</strong></div>
-<div><span>Statements by</span><strong>10</strong></div>
+<div><span>Statements by</span><strong>11</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
@@ -256,7 +256,7 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Rob O'Neill (10)</strong></summary>
+<summary><strong class="section-title">Statements by Rob O'Neill (11)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
@@ -281,7 +281,7 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 </details>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (4)</summary>
 
 - [00:03:40](/episodes/ep-N4uM8Jdr410.md#t-00-03-40) [✓] (Opinion) ["Robert O'Neill said he was not alleging a conspiracy or naming a culprit, only t..."](/statements/statement-013aadba7232.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -291,6 +291,9 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 
 - [00:04:01](/episodes/ep-N4uM8Jdr410.md#t-00-03-40) [✓] (Accusation) ["Robert O'Neill accused people at the scene of being more concerned with removing..."](/statements/statement-a6a9e9295417.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:04:12](/episodes/ep-N4uM8Jdr410.md#t-00-03-40) [○] (Claim) ["Robert O'Neill said he had been told the area was paved over a couple of days af..."](/statements/statement-199af7719579.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
 </details>
 

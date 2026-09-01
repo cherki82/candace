@@ -31,7 +31,7 @@ veracity: "true"
 **Timestamp:** [00:03:35](/episodes/ep-a2bZf4fic10.md#t-00-03-22) 
 <a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=215s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> And you saw that we began to reintroduce a theory that John Bray had been working on for a very long time regarding an explosive. He was convinced from the very beginning, John Bray, that Charlie's microphone was rigged beneath him and that it subsequently shattered.
+> And you saw that we began to reintroduce a theory that Jon Aaron Bray had been working on for a very long time regarding an explosive. He was convinced from the very beginning, Jon Aaron Bray, that Charlie's microphone was rigged beneath him and that it subsequently shattered.
 
 ## Verification
 

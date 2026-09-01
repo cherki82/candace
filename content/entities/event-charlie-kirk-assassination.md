@@ -31,7 +31,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <div><span>Episodes</span><strong>45</strong></div>
 <div><span>Mentions</span><strong>251</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>184</strong></div>
+<div><span>Statements about</span><strong>188</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1221,7 +1221,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk assassination (184)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk assassination (188)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (7)</summary>
@@ -1291,6 +1291,23 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 
 - [00:49:58](/episodes/ep-amqTMimDr0A.md#t-00-49-58) (Promise) **Candace Owens**: ["Candace Owens promised that she had much more evidence or information ..."](/statements/statement-a08c5e50df2d.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (4)</summary>
+
+- [00:04:12](/episodes/ep-N4uM8Jdr410.md#t-00-03-40) (Claim) **Rob O'Neill**: ["Robert O'Neill said he had been told the area was paved over a couple ..."](/statements/statement-199af7719579.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:22:31](/episodes/ep-N4uM8Jdr410.md#t-00-22-06) (Opinion) **Candace Owens**: ["Candace Owens said the cluster of new Utah appointments before the ass..."](/statements/statement-90df00b91bb1.md)
+  - Also about: [Beau Mason](/entities/person-beau-mason.md), [Robert Bohls](/entities/person-robert-bohls.md), [Andrew Zenger](/entities/person-andrew-zenger.md)
+
+- [00:27:20](/episodes/ep-N4uM8Jdr410.md#t-00-26-52) (Opinion) **Candace Owens**: ["Candace Owens said the assassination occurring in 'Mormon territory' w..."](/statements/statement-e525d819a3fb.md)
+  - Also about: [Utah](/entities/gpe-utah.md), [Israel](/entities/gpe-israel.md)
+
+- [00:49:28](/episodes/ep-N4uM8Jdr410.md#t-00-48-55) (Citation) **Candace Owens**: ["Candace Owens referred to a claim that Tyler Robinson met with three T..."](/statements/statement-7a33b32da257.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

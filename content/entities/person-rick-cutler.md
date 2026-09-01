@@ -22,7 +22,7 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 <div><span>Episodes</span><strong>10</strong></div>
 <div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -228,7 +228,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rick Cutler (6)</strong></summary>
+<summary><strong class="section-title">Statements about Rick Cutler (7)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
@@ -239,9 +239,12 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2)</summary>
 
 - [00:06:30](/episodes/ep-OgRyiOAVtWU.md#t-00-06-19) (Claim) **Candace Owens**: ["The left rear door where Rick Cutler sat was relatively clean immediat..."](/statements/statement-15f6c09d21dd.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:48](/episodes/ep-OgRyiOAVtWU.md#t-00-06-48) (Opinion) **Candace Owens**: ["Owens inferred from the relatively clean left rear door that blood-cov..."](/statements/statement-736a58d3cf50.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

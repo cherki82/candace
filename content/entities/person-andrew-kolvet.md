@@ -26,7 +26,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <div><span>Episodes</span><strong>121</strong></div>
 <div><span>Mentions</span><strong>807</strong></div>
 <div><span>Statements by</span><strong>101</strong></div>
-<div><span>Statements about</span><strong>224</strong></div>
+<div><span>Statements about</span><strong>225</strong></div>
 <div><span>Relationships</span><strong>104</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -438,7 +438,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 **[00:00:21](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-kolvet-t-00-00-01)**
 > "Just terrible, terrible. I mean, without question, the biggest loser was Erika Kirk, Andrew Kolvet. Blake Neff, the Turning Point USA organization, more broadly speaking, because we seem to be reaching a new depth of their PR disaster."
 
-**[00:20:43](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-kolvet-t-00-20-43)**
+**[00:20:43](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-kolvet-t-00-20-15)**
 > "...lood didn't tell her. I guess Andrew Kolvet, who was giving messages that he thought was rele..."
 
 **[01:11:42](/episodes/ep-E7P2ShoYDUA.md#ent-person-andrew-kolvet-t-01-11-30)**
@@ -4887,7 +4887,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (224)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (225)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
@@ -5032,7 +5032,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>
+
+- [00:40:30](/episodes/ep-N4uM8Jdr410.md#t-00-40-03) (Claim) **Candace Owens**: ["Candace Owens said nobody had accused Andrew Kolvet or his brother of ..."](/statements/statement-49bff19480a8.md)
+  - Also about: [Anonymous Source #5 (Ep N4uM8Jdr410)](/entities/anon-src-N4uM8Jdr410-005.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 - [00:41:12](/episodes/ep-N4uM8Jdr410.md#t-00-40-44) (Claim) **Anonymous Source #5 (Ep N4uM8Jdr410)** (via quoted post): ["Andrew Kolvet's unnamed lieutenant-colonel brother said he never worke..."](/statements/statement-00d8c92818d3.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)

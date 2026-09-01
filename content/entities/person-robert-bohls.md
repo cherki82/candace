@@ -27,7 +27,7 @@ Source: [About — FBI Salt Lake City](https://www.fbi.gov/contact-us/field-offi
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -209,16 +209,19 @@ Source: [About — FBI Salt Lake City](https://www.fbi.gov/contact-us/field-offi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Robert Bohls (4)</strong></summary>
+<summary><strong class="section-title">Statements about Robert Bohls (5)</strong></summary>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>
 
 - [00:21:07](/episodes/ep-N4uM8Jdr410.md#t-00-20-46) (Claim) **Candace Owens**: ["Candace Owens said Kash Patel removed the prior head of the FBI Salt L..."](/statements/statement-a3e097a66341.md)
   - Also about: [Kash Patel](/entities/person-kash-patel.md), [FBI Salt Lake City Field Office](/entities/org-fbi-salt-lake-city-field-office.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:22:06](/episodes/ep-N4uM8Jdr410.md#t-00-22-06) (Citation) **Candace Owens**: ["Candace Owens said Robert Bohls began his policing career at the Provo..."](/statements/statement-c373b79f6714.md)
   - Also about: [Provo Police Department](/entities/org-provo-police-department.md), [FBI](/entities/org-fbi.md)
+
+- [00:22:31](/episodes/ep-N4uM8Jdr410.md#t-00-22-06) (Opinion) **Candace Owens**: ["Candace Owens said the cluster of new Utah appointments before the ass..."](/statements/statement-90df00b91bb1.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Beau Mason](/entities/person-beau-mason.md), [Andrew Zenger](/entities/person-andrew-zenger.md)
 
 </details>
 

@@ -22,9 +22,9 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -51,6 +51,10 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -142,13 +146,24 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Restaurantology (1)</strong></summary>
+<summary><strong class="section-title">Statements about Restaurantology (3)</strong></summary>
 
 <details>
-<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:38:26](/episodes/ep-N4uM8Jdr410.md#t-00-37-59) (Opinion) **Candace Owens**: ["Candace Owens questioned why Salt Lake City served as the hub for TPUS..."](/statements/statement-33a1bff2e831.md)
+  - Also about: [Salt Lake City](/entities/gpe-salt-lake-city.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2)</summary>
 
 - [00:11:52](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36) (Claim) **Candace Owens**: ["Owens said Kirk had an event before the Utah Valley University event a..."](/statements/statement-40928a4e0897.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew K. Smith](/entities/person-andrew-k-smith.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:31:58](/episodes/ep-X3VKJVJ7cN4.md#t-00-31-22) (Opinion) **Candace Owens**: ["Owens questioned whether Frank Turek was absent from the Restaurantolo..."](/statements/statement-b38b51465826.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Blake Neff](/entities/person-blake-neff.md)
 
 </details>
 

@@ -27,9 +27,9 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>49</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -60,6 +60,10 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -348,7 +352,7 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Chris Bagley (18)</strong></summary>
+<summary><strong class="section-title">Statements about Chris Bagley (19)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
@@ -414,7 +418,7 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 </details>
 
 <details>
-<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (4)</summary>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (5)</summary>
 
 - [00:05:13](/episodes/ep-mLvJqdxS-FY.md#t-00-05-13) (Claim) **Candace Owens**: ["Candace Owens said Officer Bagley reached the Losee Center rooftop at ..."](/statements/statement-19daed165ab0.md)
   - Also about: [Losee Center](/entities/org-losee-center.md)
@@ -424,6 +428,9 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 - [00:06:09](/episodes/ep-mLvJqdxS-FY.md#t-00-06-00) (Claim) **Chris Bagley** (via quoted speech): ["Officer Bagley testified that he did not return to dock his body camer..."](/statements/statement-d1198bf008ec.md)
 
 - [00:09:23](/episodes/ep-mLvJqdxS-FY.md#t-00-09-23) (Claim) **Chris Bagley** (via quoted speech): ["Officer Bagley testified that he did not know exactly who the armed, b..."](/statements/statement-81e3c1e6b066.md)
+
+- [00:12:29](/episodes/ep-mLvJqdxS-FY.md#t-00-12-29) (Claim) **Candace Owens**: ["Owens said Bagley had not reviewed the roughly twenty-minute gap betwe..."](/statements/statement-56db2e128caa.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
 
 </details>
 

@@ -393,7 +393,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (3 mentions)</summary>
 
 **[01:15:56](/episodes/ep-E7P2ShoYDUA.md#ent-org-american-financing-t-01-15-56)**
-> "So call 866-686-1651 or visit tnusa.com slash Candace (Candace Owens). Again, 51 or visit tnusa.com slash candace again that's tnusa.com slash candace and i want to remind you guys about american financing because everyday expenses keep climbing and the high credit card interest is not making life any easier if your budget is feeling squeezed lately there's a smarter way to take back control if you're a homeowner your home equity is your best financial tool american financing can help you consolidate high interest credit card debts that you have some breathing room from."
+> "And I want to remind you guys about American Financing, because everyday expenses keep climbing and high credit-card interest is not making life any easier. If your budget is feeling squeezed lately, there's a smarter way to take back control. If you're a homeowner, your home equity is your best financial tool. American Financing can help you consolidate high-interest credit-card debt so that you have some breathing room."
 
 **[01:16:36](/episodes/ep-E7P2ShoYDUA.md#ent-org-american-financing-t-01-16-36)**
 > "...monthly obligations. In fact, American financing borrowers save an average of $800 a month."

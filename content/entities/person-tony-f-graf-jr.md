@@ -27,7 +27,7 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -138,7 +138,15 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tony F. Graf Jr. (3)</strong></summary>
+<summary><strong class="section-title">Statements about Tony F. Graf Jr. (4)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:16:46](/episodes/ep-ds6umq1rHAw.md#t-00-16-15) (Opinion) **Candace Owens**: ["Owens said Robert Graf's surname may prompt comparison to Judge Tony G..."](/statements/statement-c1cd1b32735d.md)
+  - Also about: [Robert Graf](/entities/person-robert-graf.md)
+
+</details>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (3)</summary>

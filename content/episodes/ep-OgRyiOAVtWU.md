@@ -1,14 +1,14 @@
 ---
 id: "OgRyiOAVtWU"
 title: "Erika Kirk Calls Me \"That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363"
-description: "Erika Kirk Calls Me \"That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 - 97 entities, 18 events, 12 factual claims"
+description: "Erika Kirk Calls Me \"That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 - 100 entities, 18 events, 15 factual claims"
 published: "2026-07-21"
 youtube_url: "https://www.youtube.com/watch?v=OgRyiOAVtWU"
 ---
 
 **Published:** 2026-07-21 | [Watch on YouTube](https://www.youtube.com/watch?v=OgRyiOAVtWU)
 
-**Stats:** 97 entities | 18 events | 12 factual claims
+**Stats:** 100 entities | 18 events | 15 factual claims
 
 ---
 
@@ -286,7 +286,9 @@ youtube_url: "https://www.youtube.com/watch?v=OgRyiOAVtWU"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (97)</strong></summary>
+<summary><strong>Entities Mentioned (100)</strong></summary>
+
+**Anonymous Sources:** [Anonymous Source #2 (Ep OgRyiOAVtWU)](/entities/anon-src-OgRyiOAVtWU-002.md), [Aunt Leash (viewer; identity unverified)](/entities/anon-src-OgRyiOAVtWU-004.md), [Honey Butter (viewer; identity unverified)](/entities/anon-src-OgRyiOAVtWU-003.md)
 
 **Concepts:** [COVID-19](/entities/concept-covid-19.md), [Catholicism](/entities/concept-catholicism.md), [Christianity](/entities/concept-christianity.md), [God](/entities/concept-god.md), [Individual Retirement Arrangement](/entities/concept-individual-retirement-arrangement.md), [Pentadecanoic acid](/entities/concept-pentadecanoic-acid.md), [Zionism](/entities/concept-zionism.md)
 
@@ -305,7 +307,7 @@ youtube_url: "https://www.youtube.com/watch?v=OgRyiOAVtWU"
 </details>
 
 <details>
-<summary><strong>Statements (34)</strong></summary>
+<summary><strong>Statements (48)</strong></summary>
 
 - [00:00:18](#t-00-00-01) [✓] (Claim) **Anonymous Source #1 (Ep OgRyiOAVtWU)**: ["The Daily Mail's anonymous Kirk family source said Erika Kirk refers to Candace ..."](/statements/statement-ea5c338090f2.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -313,8 +315,16 @@ youtube_url: "https://www.youtube.com/watch?v=OgRyiOAVtWU"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
 - [00:04:14](#t-00-04-14) [○] (Opinion) **Candace Owens**: ["Owens could not definitively identify the object in the SUV door compartment but..."](/statements/statement-7995fb709543.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:05:37](#t-00-05-30) [○] (Claim) **Candace Owens**: ["Owens said her team recreated the photographed shape by removing a worn nitrile ..."](/statements/statement-69e6f21638da.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:06:30](#t-00-06-19) [◐] (Claim) **Candace Owens**: ["The left rear door where Rick Cutler sat was relatively clean immediately after ..."](/statements/statement-15f6c09d21dd.md)
   - About: [Rick Cutler](/entities/person-rick-cutler.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:06:48](#t-00-06-48) [○] (Opinion) **Candace Owens**: ["Owens inferred from the relatively clean left rear door that blood-covered occup..."](/statements/statement-736a58d3cf50.md)
+  - About: [Rick Cutler](/entities/person-rick-cutler.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:07:26](#t-00-06-48) [○] (Opinion) **Candace Owens**: ["Owens said she was not attributing the possible glove to Brian Harpole because h..."](/statements/statement-53aa08c0b786.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:08:04](#t-00-07-26) [○] (Accusation) **Candace Owens**: ["Owens asked where the scissors Brian Harpole said he used to cut Kirk's shirt we..."](/statements/statement-8b9f3b3c3be1.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:09:01](#t-00-08-53) [○] (Opinion) **Candace Owens**: ["Some people, including surgeons, identified the object in the SUV as a burned sh..."](/statements/statement-b4efc2542a2a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:09:22](#t-00-08-53) [✓] (Accusation) **Candace Owens**: ["Owens questioned why federal authorities would want the SUV immediately released..."](/statements/statement-048536548e8c.md)
@@ -325,8 +335,16 @@ youtube_url: "https://www.youtube.com/watch?v=OgRyiOAVtWU"
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:14:51](#t-00-14-51) [✓] (Claim) **Blake Neff**: ["Blake Neff said that, although he might have been imagining the exact words, he ..."](/statements/statement-4a781858dc80.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:16:13](#t-00-16-07) [○] (Claim) **Erika Kirk**: ["Owens said Erika Kirk reportedly reacted to the shooting by saying, 'I effing kn..."](/statements/statement-3d32f353c369.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:17:10](#t-00-16-52) [○] (Claim) **Candace Owens**: ["Owens said Danny Philip called Michael McCoy and they remained on the phone for ..."](/statements/statement-51759fdb5429.md)
   - About: [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Blake Neff](/entities/person-blake-neff.md)
+- [00:17:39](#t-00-17-22) [○] (Opinion) **Candace Owens**: ["Owens allowed that the ten-minute call might have been misattributed to Danny Ph..."](/statements/statement-94bd889f9197.md)
+  - About: [Justin Streiff](/entities/person-justin-streiff.md), [Erika Kirk](/entities/person-erika-kirk.md), [Danny Philip](/entities/person-danny-philip.md)
+- [00:18:10](#t-00-18-00) [○] (Opinion) **Candace Owens**: ["Owens said live local-news footage placed Blake Neff, Danny Philip, and Michael ..."](/statements/statement-0d6b34a89ad5.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+- [00:20:23](#t-00-19-54) [○] (Opinion) **Candace Owens**: ["Owens offered a conference call among Turning Point USA employees as a possible ..."](/statements/statement-b7d9059a95a6.md)
+  - About: [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:22:40](#t-00-22-40) [✓] (Accusation) **Candace Owens**: ["Owens said Erika Kirk personally took credit for having Matt Walsh cancel his in..."](/statements/statement-7111cfb48bbc.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Matt Walsh](/entities/person-matt-walsh.md), [Catholics for Catholics](/entities/org-catholics-for-catholics.md)
 - [00:23:29](#t-00-23-21) [✓] (Accusation) **Candace Owens**: ["Owens said Erika Kirk explicitly told people that the Catholic prayer event was ..."](/statements/statement-a9e86b1bbab8.md)
@@ -345,6 +363,8 @@ youtube_url: "https://www.youtube.com/watch?v=OgRyiOAVtWU"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:30:14](#t-00-29-56) [○] (Opinion) **Candace Owens**: ["Owens said she had not seen convincing evidence that Tyler Robinson committed th..."](/statements/statement-0b6fcc2dc1ba.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:31:54](#t-00-31-19) [○] (Opinion) **Erika Kirk**: ["Owens said Erika Kirk had told Bari Weiss she was wholly confident Tyler Robinso..."](/statements/statement-b2c068a81cbc.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:32:14](#t-00-32-04) [✓] (Accusation) **Anonymous Source #1 (Ep OgRyiOAVtWU)**: ["The Daily Mail's anonymous source said Candace Owens had made the Charlie Kirk c..."](/statements/statement-1abf76dfc9ef.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:33:03](#t-00-32-48) [◐] (Claim) **Candace Owens**: ["Owens said Erika Kirk filed three trademarks three weeks after Charlie Kirk's as..."](/statements/statement-8beb9c509d3c.md)
@@ -367,6 +387,8 @@ youtube_url: "https://www.youtube.com/watch?v=OgRyiOAVtWU"
   - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:48:29](#t-00-48-09) [✓] (Opinion) **David Freiheit**: ["David Freiheit said he did not know whether Tyler Robinson fired the gun but des..."](/statements/statement-a4c3be6b8469.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:48:54](#t-00-48-54) [○] (Opinion) **David Freiheit**: ["David Freiheit acknowledged issues with the prosecution, investigation, and evid..."](/statements/statement-3b14e5998433.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 - [00:49:08](#t-00-48-54) [✓] (Opinion) **David Freiheit**: ["David Freiheit said a more plausible alternative theory could be presented, but ..."](/statements/statement-51701d5d02b1.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:50:31](#t-00-50-31) [✓] (Opinion) **Charlie Kirk**: ["Charlie Kirk called Alex Jones patient zero for the censorship regime and for la..."](/statements/statement-5a8fbdf830da.md)
@@ -375,5 +397,13 @@ youtube_url: "https://www.youtube.com/watch?v=OgRyiOAVtWU"
   - About: [Alex Jones](/entities/person-alex-jones.md), [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
 - [00:54:23](#t-00-54-10) [✓] (Opinion) **Charlie Kirk**: ["Charlie Kirk wrote that the billion-dollar verdict and bankruptcy actions agains..."](/statements/statement-0ed8dcff929a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Alex Jones](/entities/person-alex-jones.md), [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
+- [01:01:54](#t-01-01-54) [○] (Opinion) **Honey Butter (viewer; identity unverified)**: ["A viewer using the name Honey Butter said her husband thought the photographed o..."](/statements/statement-69959dee673d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [01:02:20](#t-01-01-54) [○] (Claim) **Anonymous Source #2 (Ep OgRyiOAVtWU)**: ["Unnamed people who worked in other parts of Timpanogos Regional Hospital reporte..."](/statements/statement-309d9fbe53cc.md)
+  - About: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [01:03:15](#t-01-03-15) [○] (Opinion) **Aunt Leash (viewer; identity unverified)**: ["A viewer using the name Aunt Leash said the possible nitrile glove looked partly..."](/statements/statement-f3eeacac3a18.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [01:03:25](#t-01-03-15) [○] (Accusation) **Candace Owens**: ["Owens asked whether someone burned Kirk's shirt in the SUV and wore gloves while..."](/statements/statement-0c51e7a913e8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

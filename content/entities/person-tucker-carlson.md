@@ -397,7 +397,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (3 mentions)</summary>
 
 **[00:09:30](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tucker-carlson-t-00-09-05)**
-> "...rt working with Charlie after Tucker Carlson recommended him because he's loyal."
+> "He then went to work for Stu Peters and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal."
 
 **[00:37:48](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tucker-carlson-t-00-37-48)**
 > "...ng spent. I am listed, me and Tucker Carlson, in the FARA documents."

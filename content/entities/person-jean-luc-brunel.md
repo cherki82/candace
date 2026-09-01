@@ -252,7 +252,7 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 - **[MC2 Model Management](/entities/org-mc2-model-management.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:22:32](/episodes/ep-IqHsl7d2dos.md#t-00-22-32): “Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Cates and Next Model Management, which he started with Faith Cates, are all listed as defendants in these allegations, which span back decades.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:22:32](/episodes/ep-IqHsl7d2dos.md#t-00-22-32): “Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Kates and Next Model Management, which he started with Faith Kates, are all listed as defendants in these allegations, which span back decades.”
 
 </details>
 
@@ -311,7 +311,7 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 - **[MC2 Model Management](/entities/org-mc2-model-management.md)** operated by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:22:32](/episodes/ep-IqHsl7d2dos.md#t-00-22-32): “Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Cates and Next Model Management, which he started with Faith Cates, are all listed as defendants in these allegations, which span back decades.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:22:32](/episodes/ep-IqHsl7d2dos.md#t-00-22-32): “Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Kates and Next Model Management, which he started with Faith Kates, are all listed as defendants in these allegations, which span back decades.”
 
 </details>
 

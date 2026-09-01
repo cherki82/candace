@@ -104,7 +104,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 **[00:12:15](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-12-07)**
 > "... express to both you and PBD (Patrick Bet-David)'s team how small the space is and how we don't h..."
 
-**[00:22:29](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-21-59)**
+**[00:22:29](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-22-20)**
 > "PBD (Patrick Bet-David) asks us explicitly, what percentage do you put t..."
 
 **[01:06:05](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-01-06-05)**

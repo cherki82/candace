@@ -29,7 +29,7 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 <div><span>Episodes</span><strong>19</strong></div>
 <div><span>Mentions</span><strong>78</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -450,10 +450,12 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mormonism (6)</strong></summary>
+<summary><strong class="section-title">Statements about Mormonism (7)</strong></summary>
 
 <details>
-<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2)</summary>
+
+- [00:08:19](/episodes/ep-ds6umq1rHAw.md#t-00-08-19) (Opinion) **Candace Owens**: ["Owens explicitly said the term 'Mormon Mafia' was not an accusation ag..."](/statements/statement-1072c66a32a8.md)
 
 - [00:23:47](/episodes/ep-ds6umq1rHAw.md#t-00-23-47) (Claim) **Candace Owens**: ["Owens said that in reality about half of Turning Point USA is Mormon."](/statements/statement-dc8a19c7a2dd.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)

@@ -28,7 +28,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <div><span>Episodes</span><strong>75</strong></div>
 <div><span>Mentions</span><strong>359</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>91</strong></div>
+<div><span>Statements about</span><strong>94</strong></div>
 <div><span>Relationships</span><strong>47</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -2171,7 +2171,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (91)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (94)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2204,7 +2204,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
-<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (3)</summary>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (6)</summary>
 
 - [00:11:55](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19) (Claim) **Candace Owens**: ["Michael McCoy rented two SUVs in Salt Lake City; Blake Neff and Danny ..."](/statements/statement-de022607d5e7.md)
   - Also about: [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
@@ -2214,6 +2214,15 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 
 - [00:17:10](/episodes/ep-OgRyiOAVtWU.md#t-00-16-52) (Claim) **Candace Owens**: ["Owens said Danny Philip called Michael McCoy and they remained on the ..."](/statements/statement-51759fdb5429.md)
   - Also about: [Danny Philip](/entities/person-danny-philip.md), [Blake Neff](/entities/person-blake-neff.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:17:39](/episodes/ep-OgRyiOAVtWU.md#t-00-17-22) (Opinion) **Candace Owens**: ["Owens allowed that the ten-minute call might have been misattributed t..."](/statements/statement-94bd889f9197.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Erika Kirk](/entities/person-erika-kirk.md), [Danny Philip](/entities/person-danny-philip.md)
+
+- [00:18:10](/episodes/ep-OgRyiOAVtWU.md#t-00-18-00) (Opinion) **Candace Owens**: ["Owens said live local-news footage placed Blake Neff, Danny Philip, an..."](/statements/statement-0d6b34a89ad5.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:20:23](/episodes/ep-OgRyiOAVtWU.md#t-00-19-54) (Opinion) **Candace Owens**: ["Owens offered a conference call among Turning Point USA employees as a..."](/statements/statement-b7d9059a95a6.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

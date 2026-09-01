@@ -356,7 +356,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 > "...ll tallow is created equally. Nimi has focused on sourcing exceptional ingredients a..."
 
 **[00:27:09](/episodes/ep-X3VKJVJ7cN4.md#t-00-26-44)**
-> "That's why I've been using Nimi's Sunshine Tallow Cream and their Buzzin Tallow B..."
+> "That's why I've been using Nimi's Sunshine Tallow Cream and their Buzzin Tallow Balm. Their Sunshine Tallow Cream has become one of Nimi's most popular products. It is rich, nourishing, and made with tallow, aloe vera, avocado oil, and shea butter to deeply moisturize the skin while still feeling lightweight and comfortable."
 
 </details>
 

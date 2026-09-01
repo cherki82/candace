@@ -17,7 +17,7 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-work-imessage-t-00-37-49">2025-12-20 · 00:38:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-imessage-t-00-21-59">2026-08-17 · 00:21:59</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-imessage-t-00-21-36">2026-08-17 · 00:21:59</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -35,7 +35,7 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-imessage-t-00-23-27" style="--pulse-height:50%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-work-imessage-t-00-43-00" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-work-imessage-t-01-06-06" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-imessage-t-00-21-59" style="--pulse-height:50%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-imessage-t-00-21-36" style="--pulse-height:50%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,7 +46,7 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-work-imessage-t-00-23-27) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-work-imessage-t-00-43-00) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-work-imessage-t-01-06-06) | 1 |
-| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-work-imessage-t-00-21-59) | 1 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-work-imessage-t-00-21-36) | 1 |
 
 </details>
 </section>
@@ -63,7 +63,7 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
 
-**[00:21:59](/episodes/ep-E7P2ShoYDUA.md#ent-work-imessage-t-00-21-59)**
+**[00:21:59](/episodes/ep-E7P2ShoYDUA.md#ent-work-imessage-t-00-21-36)**
 > "who has promised that he's going to release this on his show because he's got evidence actually does release that message, which is supposed to be on Signal, but I know for a fact is on iMessage."
 
 </details>
@@ -126,7 +126,7 @@ _No relationships extracted yet._
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
 
-- [00:20:59](/episodes/ep-E7P2ShoYDUA.md#t-00-20-43) (Accusation) **Candace Owens**: ["Owens accused Erika Kirk of falsely saying Charlie Kirk's security-tea..."](/statements/statement-99d90f2849ce.md)
+- [00:20:59](/episodes/ep-E7P2ShoYDUA.md#t-00-20-15) (Accusation) **Candace Owens**: ["Owens accused Erika Kirk of falsely saying Charlie Kirk's security-tea..."](/statements/statement-99d90f2849ce.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Signal Messenger](/entities/org-signal-messenger.md)
 
 </details>

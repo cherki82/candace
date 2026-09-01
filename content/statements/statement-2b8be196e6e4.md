@@ -31,7 +31,7 @@ type: "opinion"
 **Timestamp:** [00:49:53](/episodes/ep-a2bZf4fic10.md#t-00-49-53) 
 <a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=2993s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> I am now revisiting that footage and we are going to spend time looking at that as well as we develop the witness tree because I think John Bray's theory has infinitely more. ... more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.
+> I am now revisiting that footage and we are going to spend time looking at that as well as we develop the witness tree because I think Jon Aaron Bray's theory has infinitely more. ... more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.
 
 ## Verification
 

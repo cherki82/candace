@@ -251,7 +251,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2 mentions)</summary>
 
 **[00:44:42](/episodes/ep-mLvJqdxS-FY.md#ent-work-smart-equity-loan-t-00-44-35)**
-> "...t American Financing offers a smart equity loan so that you don't actually have to have to. It al..."
+> "But American Financing offers a smart equity loan so that you don't actually have to. It allows you to wipe out high-interest debt and lower your monthly overhead while keeping your primary mortgage intact."
 
 **[00:44:51](/episodes/ep-mLvJqdxS-FY.md#ent-work-smart-equity-loan-t-00-44-35)**
 > "...like a fluctuating HELOC, the SMART Equity Loan is a fixed rate loan, giving you a predictable mo..."

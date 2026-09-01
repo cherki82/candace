@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 763 mentions"
+description: "FBI (Organizations) - 767 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -28,9 +28,9 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-fbi-t-00-36-23">2025-09-15 · 00:36:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-fbi-t-00-31-13">2026-08-21 · 00:31:49</a></strong></div>
 <div><span>Episodes</span><strong>108</strong></div>
-<div><span>Mentions</span><strong>763</strong></div>
+<div><span>Mentions</span><strong>767</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>221</strong></div>
+<div><span>Statements about</span><strong>224</strong></div>
 <div><span>Relationships</span><strong>39</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -129,7 +129,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-fbi-t-00-26-05" style="--pulse-height:10%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-fbi-t-00-09-45" style="--pulse-height:23%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 7 mentions" title="2026-06-26 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-fbi-t-00-18-05" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-fbi-t-01-11-06" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-fbi-t-01-11-06" style="--pulse-height:19%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 6 mentions" title="2026-07-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-fbi-t-00-10-14" style="--pulse-height:26%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 8 mentions" title="2026-07-16 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-02-24" style="--pulse-height:45%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 14 mentions" title="2026-07-16 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-fbi-t-00-07-42" style="--pulse-height:39%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 12 mentions" title="2026-07-20 · 12 mentions"><span></span></a>
@@ -242,7 +242,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-fbi-t-00-26-05) | 3 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-fbi-t-00-09-45) | 7 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-fbi-t-00-18-05) | 2 |
-| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-fbi-t-01-11-06) | 2 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-fbi-t-01-11-06) | 6 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-fbi-t-00-10-14) | 8 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-02-24) | 14 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-fbi-t-00-07-42) | 12 |
@@ -271,7 +271,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (763)</strong></summary>
+<summary><strong class="section-title">Raw mentions (767)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (3 mentions)</summary>
@@ -773,13 +773,25 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (6 mentions)</summary>
 
 **[01:11:14](/episodes/ep-EtLHqDbxqks.md#ent-org-fbi-t-01-11-06)**
 > "Close the courtyard off to anybody but the feds. The FBI took over that region so we can now reasonably assume that the paper was telling the truth when he said that the FBI made the call because only the FBI was allowed to make calls about what was going on in the courtyard."
 
 **[01:11:29](/episodes/ep-EtLHqDbxqks.md#ent-org-fbi-t-01-11-06)**
 > "The FBI then kept the bomb dogs away from the courtyard. ..."
+
+**[00:12:34](/episodes/ep-EtLHqDbxqks.md#ent-org-fbi-t-00-12-25)**
+> "...ately granted immunity by the feds and was not allowed to even be cross-examined at ..."
+
+**[00:13:10](/episodes/ep-EtLHqDbxqks.md#ent-org-fbi-t-00-13-02)**
+> "...at day, we suggested that the feds intentionally flooded the zone with multiple deco..."
+
+**[00:38:29](/episodes/ep-EtLHqDbxqks.md#ent-org-fbi-t-00-38-29)**
+> "...rloom of a gun and helped the feds set him up as a patsy. There is no reason why Lan..."
+
+**[01:21:30](/episodes/ep-EtLHqDbxqks.md#ent-org-fbi-t-01-11-06)**
+> "...ah, it is possible. Desperate feds, desperate measures. So if I was Erika (Erika Kir..."
 
 </details>
 
@@ -3363,7 +3375,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (221)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (224)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -3506,7 +3518,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (5)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (8)</summary>
 
 - [00:09:51](/episodes/ep-N4uM8Jdr410.md#t-00-09-51) (Accusation) **Candace Owens**: ["Candace Owens asked rhetorically whether officials completely made up ..."](/statements/statement-3ac7998c7f5d.md)
   - Also about: [Spencer Cox](/entities/person-spencer-cox.md)
@@ -3516,6 +3528,15 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 
 - [00:12:59](/episodes/ep-N4uM8Jdr410.md#t-00-12-59) (Claim) **Dan Bongino** (via quoted speech): ["Dan Bongino said the suspect was not cooperating and the available vid..."](/statements/statement-94f2c908e946.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:13:49](/episodes/ep-N4uM8Jdr410.md#t-00-13-41) (Accusation) **Candace Owens**: ["Candace Owens contrasted Dan Bongino's early description of grainy foo..."](/statements/statement-2f39b7189057.md)
+  - Also about: [Dan Bongino](/entities/person-dan-bongino.md), [Benny Johnson](/entities/person-benny-johnson.md), [Graham Allen](/entities/person-graham-allen.md)
+
+- [00:15:23](/episodes/ep-N4uM8Jdr410.md#t-00-14-58) (Claim) **Candace Owens**: ["Candace Owens said her rooftop eyewitness, who described a black jacke..."](/statements/statement-c3ace0cdac30.md)
+  - Also about: [Anonymous Source #4 (Ep N4uM8Jdr410)](/entities/anon-src-N4uM8Jdr410-004.md)
+
+- [00:16:05](/episodes/ep-N4uM8Jdr410.md#t-00-15-42) (Claim) **Jennifer Faumuina** (via paraphrase): ["Jennifer Faumuina reportedly said she did not recall whether she signe..."](/statements/statement-0d9520a55e4a.md)
+  - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
 
 - [00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37) (Claim) **Jennifer Faumuina** (via quoted speech): ["Jennifer Faumuina said she had been with the State Bureau of Investiga..."](/statements/statement-91e752cc44db.md)
   - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [Joint Terrorism Task Forces](/entities/org-joint-terrorism-task-forces.md)

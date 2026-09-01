@@ -22,9 +22,9 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -55,6 +55,10 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -237,13 +241,21 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benny Johnson (4)</strong></summary>
+<summary><strong class="section-title">Statements about Benny Johnson (5)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
 
 - [00:34:07](/episodes/ep-1CFDtD0IgEg.md#t-00-34-01) (Claim) **Candace Owens**: ["Candace Owens said internet researchers identified Andrew Kolvet's Sep..."](/statements/statement-ad76781bf5c1.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Asher Adams, Autograph Collection](/entities/org-asher-adams-autograph-collection.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:13:49](/episodes/ep-N4uM8Jdr410.md#t-00-13-41) (Accusation) **Candace Owens**: ["Candace Owens contrasted Dan Bongino's early description of grainy foo..."](/statements/statement-2f39b7189057.md)
+  - Also about: [Dan Bongino](/entities/person-dan-bongino.md), [Graham Allen](/entities/person-graham-allen.md), [FBI](/entities/org-fbi.md)
 
 </details>
 

@@ -26,7 +26,7 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>26</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -431,13 +431,21 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terryl Farnsworth (26)</strong></summary>
+<summary><strong class="section-title">Statements about Terryl Farnsworth (27)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
 
 - [00:11:59](/episodes/ep-ChuWo-n49B8.md#t-00-11-51) (Accusation) **Candace Owens**: ["Owens said the transfer of Terryl Farnsworth's camera footage from an ..."](/statements/statement-3b9179f3fe4a.md)
   - Also about: [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:25:17](/episodes/ep-ds6umq1rHAw.md#t-00-25-17) (Claim) **Candace Owens**: ["Owens said the Bowyer and Farnsworth-associated families knew Erika Ki..."](/statements/statement-a573e03efe2f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </details>
 

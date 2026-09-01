@@ -30,8 +30,8 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-erika-kirk-t-00-43-42">2026-08-31 · 00:44:03</a></strong></div>
 <div><span>Episodes</span><strong>145</strong></div>
 <div><span>Mentions</span><strong>3,064</strong></div>
-<div><span>Statements by</span><strong>120</strong></div>
-<div><span>Statements about</span><strong>957</strong></div>
+<div><span>Statements by</span><strong>122</strong></div>
+<div><span>Statements about</span><strong>964</strong></div>
 <div><span>Relationships</span><strong>311</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -524,13 +524,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 **[00:18:23](/episodes/ep-E7P2ShoYDUA.md#ent-person-erika-kirk-t-00-18-23)**
 > "...wherein he just kind of makes Erika Kirk look like a big fat liar."
 
-**[00:19:48](/episodes/ep-E7P2ShoYDUA.md#ent-person-erika-kirk-t-00-19-23)**
+**[00:19:48](/episodes/ep-E7P2ShoYDUA.md#ent-person-erika-kirk-t-00-19-48)**
 > "...that I did going after Erika (Erika Kirk) and I explained to people that she was lying."
 
-**[00:20:15](/episodes/ep-E7P2ShoYDUA.md#ent-person-erika-kirk-t-00-19-58)**
-> "...ays after that is when Erika (Erika Kirk) then came to Nashville and we had this summit an..."
+**[00:20:15](/episodes/ep-E7P2ShoYDUA.md#ent-person-erika-kirk-t-00-20-15)**
+> "that she has his phone. Then Turning Point tried to claim—which we met days after, because that's when I went, this is weird—days after that, Erika then came to Nashville and we had this summit. What she told me, which is how Andrew is making a very bad mistake here, was, well, it was on Signal and the team's messages auto-delete on Signal. And she didn't know."
 
-**[00:21:36](/episodes/ep-E7P2ShoYDUA.md#ent-person-erika-kirk-t-00-21-21)**
+**[00:21:36](/episodes/ep-E7P2ShoYDUA.md#ent-person-erika-kirk-t-00-21-36)**
 > "...ld me in September and Erika (Erika Kirk) went on Glenn Beck to debunk me and say I was a ..."
 
 **[00:25:31](/episodes/ep-E7P2ShoYDUA.md#ent-person-erika-kirk-t-00-25-31)**
@@ -10535,7 +10535,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - **[Glenn Beck](/entities/person-glenn-beck.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:21:36](/episodes/ep-E7P2ShoYDUA.md#t-00-21-21): “Why didn't you share that with authorities when you were sharing messages? And Andrew (Andrew Wilson), we're supposed to believe you didn't tell her for four months, but you told me in September and Erika (Erika Kirk) went on Glenn Beck to debunk me and say I was a liar.”
+- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:21:36](/episodes/ep-E7P2ShoYDUA.md#t-00-21-36): “Why didn't you share that with authorities when you were sharing messages? And Andrew (Andrew Wilson), we're supposed to believe you didn't tell her for four months, but you told me in September and Erika (Erika Kirk) went on Glenn Beck to debunk me and say I was a liar.”
 
 </details>
 
@@ -10828,7 +10828,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:21:36](/episodes/ep-E7P2ShoYDUA.md#t-00-21-21): “Why didn't you share that with authorities when you were sharing messages? And Andrew (Andrew Wilson), we're supposed to believe you didn't tell her for four months, but you told me in September and Erika (Erika Kirk) went on Glenn Beck to debunk me and say I was a liar.”
+- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:21:36](/episodes/ep-E7P2ShoYDUA.md#t-00-21-36): “Why didn't you share that with authorities when you were sharing messages? And Andrew (Andrew Wilson), we're supposed to believe you didn't tell her for four months, but you told me in September and Erika (Erika Kirk) went on Glenn Beck to debunk me and say I was a liar.”
 
 </details>
 
@@ -12175,7 +12175,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - **[Glenn Beck](/entities/person-glenn-beck.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:21:36](/episodes/ep-E7P2ShoYDUA.md#t-00-21-21): “Why didn't you share that with authorities when you were sharing messages? And Andrew (Andrew Wilson), we're supposed to believe you didn't tell her for four months, but you told me in September and Erika (Erika Kirk) went on Glenn Beck to debunk me and say I was a liar.”
+- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:21:36](/episodes/ep-E7P2ShoYDUA.md#t-00-21-36): “Why didn't you share that with authorities when you were sharing messages? And Andrew (Andrew Wilson), we're supposed to believe you didn't tell her for four months, but you told me in September and Erika (Erika Kirk) went on Glenn Beck to debunk me and say I was a liar.”
 
 </details>
 
@@ -12468,7 +12468,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:21:36](/episodes/ep-E7P2ShoYDUA.md#t-00-21-21): “Why didn't you share that with authorities when you were sharing messages? And Andrew (Andrew Wilson), we're supposed to believe you didn't tell her for four months, but you told me in September and Erika (Erika Kirk) went on Glenn Beck to debunk me and say I was a liar.”
+- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:21:36](/episodes/ep-E7P2ShoYDUA.md#t-00-21-36): “Why didn't you share that with authorities when you were sharing messages? And Andrew (Andrew Wilson), we're supposed to believe you didn't tell her for four months, but you told me in September and Erika (Erika Kirk) went on Glenn Beck to debunk me and say I was a liar.”
 
 </details>
 
@@ -13388,7 +13388,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Erika Kirk (120)</strong></summary>
+<summary><strong class="section-title">Statements by Erika Kirk (122)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -13419,6 +13419,17 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - [00:13:31](/episodes/ep-HZvwbfePe7o.md#t-00-13-29) [✓] (Promise) ["Erika Kirk said Turning Point USA would build a spectacular, museum-style memori..."](/statements/statement-c5b90484cbf3.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2)</summary>
+
+- [00:16:13](/episodes/ep-OgRyiOAVtWU.md#t-00-16-07) [○] (Claim) ["Owens said Erika Kirk reportedly reacted to the shooting by saying, 'I effing kn..."](/statements/statement-3d32f353c369.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:54](/episodes/ep-OgRyiOAVtWU.md#t-00-31-19) [○] (Opinion) ["Owens said Erika Kirk had told Bari Weiss she was wholly confident Tyler Robinso..."](/statements/statement-b2c068a81cbc.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -13995,7 +14006,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (957)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (964)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (9)</summary>
@@ -14072,12 +14083,12 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (5)</summary>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (6)</summary>
 
 - [00:01:13](/episodes/ep-E7P2ShoYDUA.md#t-00-00-46) (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of ruining Turning Point USA in under..."](/statements/statement-76a033506f6d.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:20:59](/episodes/ep-E7P2ShoYDUA.md#t-00-20-43) (Accusation) **Candace Owens**: ["Owens accused Erika Kirk of falsely saying Charlie Kirk's security-tea..."](/statements/statement-99d90f2849ce.md)
+- [00:20:59](/episodes/ep-E7P2ShoYDUA.md#t-00-20-15) (Accusation) **Candace Owens**: ["Owens accused Erika Kirk of falsely saying Charlie Kirk's security-tea..."](/statements/statement-99d90f2849ce.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [iMessage](/entities/work-imessage.md), [Signal Messenger](/entities/org-signal-messenger.md)
 
 - [00:30:39](/episodes/ep-E7P2ShoYDUA.md#t-00-30-39) (Claim) **Andrew Wilson**: ["Andrew Wilson said there was no positive evidence that Israel, France,..."](/statements/statement-111b4a14a165.md)
@@ -14088,6 +14099,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - [00:36:23](/episodes/ep-E7P2ShoYDUA.md#t-00-35-40) (Opinion) **Candace Owens**: ["Owens said it was impossible for her to think Erika Kirk was not 'comp..."](/statements/statement-c0d17c7717f3.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:36:31](/episodes/ep-E7P2ShoYDUA.md#t-00-36-31) (Opinion) **Andrew Wilson**: ["Andrew Wilson argued that even if Erika Kirk sincerely believed Tyler ..."](/statements/statement-9bbe1e5d27e3.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -14212,7 +14226,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (6)</summary>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (7)</summary>
+
+- [00:25:17](/episodes/ep-ds6umq1rHAw.md#t-00-25-17) (Claim) **Candace Owens**: ["Owens said the Bowyer and Farnsworth-associated families knew Erika Ki..."](/statements/statement-a573e03efe2f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 - [00:27:51](/episodes/ep-ds6umq1rHAw.md#t-00-27-18) (Claim) **Candace Owens**: ["Owens said Charlie and Erika Kirk had an appointment to change Charlie..."](/statements/statement-dbf9c84cbf86.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -14235,13 +14252,19 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (12)</summary>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (15)</summary>
 
 - [00:00:18](/episodes/ep-OgRyiOAVtWU.md#t-00-00-01) (Claim) **Anonymous Source #1 (Ep OgRyiOAVtWU)** (via quoted article): ["The Daily Mail's anonymous Kirk family source said Erika Kirk refers t..."](/statements/statement-ea5c338090f2.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:13:40](/episodes/ep-OgRyiOAVtWU.md#t-00-13-18) (Claim) **Candace Owens**: ["Mikey McCoy stayed on the phone with his wife for 10 minutes, three-wa..."](/statements/statement-cde48c7f2dfc.md)
   - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:16:13](/episodes/ep-OgRyiOAVtWU.md#t-00-16-07) (Claim) **Erika Kirk** (via paraphrase): ["Owens said Erika Kirk reportedly reacted to the shooting by saying, 'I..."](/statements/statement-3d32f353c369.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:39](/episodes/ep-OgRyiOAVtWU.md#t-00-17-22) (Opinion) **Candace Owens**: ["Owens allowed that the ten-minute call might have been misattributed t..."](/statements/statement-94bd889f9197.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md)
 
 - [00:22:40](/episodes/ep-OgRyiOAVtWU.md#t-00-22-40) (Accusation) **Candace Owens**: ["Owens said Erika Kirk personally took credit for having Matt Walsh can..."](/statements/statement-7111cfb48bbc.md)
   - Also about: [Matt Walsh](/entities/person-matt-walsh.md), [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -14257,6 +14280,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - [00:29:35](/episodes/ep-OgRyiOAVtWU.md#t-00-29-13) (Opinion) **Anonymous Source #1 (Ep OgRyiOAVtWU)** (via quoted article): ["The Daily Mail's anonymous source reported that Erika Kirk said she al..."](/statements/statement-ecd5db8e896c.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:31:54](/episodes/ep-OgRyiOAVtWU.md#t-00-31-19) (Opinion) **Erika Kirk** (via paraphrase): ["Owens said Erika Kirk had told Bari Weiss she was wholly confident Tyl..."](/statements/statement-b2c068a81cbc.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:32:14](/episodes/ep-OgRyiOAVtWU.md#t-00-32-04) (Accusation) **Anonymous Source #1 (Ep OgRyiOAVtWU)** (via quoted article): ["The Daily Mail's anonymous source said Candace Owens had made the Char..."](/statements/statement-1abf76dfc9ef.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -14361,12 +14387,18 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (2)</summary>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (4)</summary>
 
 - [00:07:06](/episodes/ep-a2bZf4fic10.md#t-00-07-00) (Claim) **Candace Owens**: ["Owens said Charlie Kirk's bloodied jacket was returned by his security..."](/statements/statement-ab382b527c74.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:34:46](/episodes/ep-a2bZf4fic10.md#t-00-34-46) (Accusation) **Candace Owens**: ["Owens rhetorically accused Erika Kirk of staging crying scenes while o..."](/statements/statement-40d87161bfab.md)
+
+- [00:42:45](/episodes/ep-a2bZf4fic10.md#t-00-42-23) (Accusation) **Candace Owens**: ["Owens sarcastically suggested that Erika Kirk's claim that God prompte..."](/statements/statement-e9548b6b31b8.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:51:56](/episodes/ep-a2bZf4fic10.md#t-00-51-43) (Accusation) **J Beam (commenter; identity unverified)** (via read message): ["YouTube commenter Jay Beam alleged that Israel selected and incentiviz..."](/statements/statement-801c95c4b569.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

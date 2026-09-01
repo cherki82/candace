@@ -31,7 +31,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <div><span>Episodes</span><strong>157</strong></div>
 <div><span>Mentions</span><strong>2,052</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>781</strong></div>
+<div><span>Statements about</span><strong>792</strong></div>
 <div><span>Relationships</span><strong>226</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -578,16 +578,16 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 **[00:18:16](/episodes/ep-E7P2ShoYDUA.md#ent-org-turning-point-usa-t-00-17-49)**
 > "...makes it perfectly clear that Turning Point USA is backing him."
 
-**[00:19:48](/episodes/ep-E7P2ShoYDUA.md#ent-org-turning-point-usa-t-00-19-23)**
+**[00:19:48](/episodes/ep-E7P2ShoYDUA.md#ent-org-turning-point-usa-t-00-19-48)**
 > "...s show, that was the original Turning Point USA sin. That was the first episode that I did going ..."
 
-**[00:20:15](/episodes/ep-E7P2ShoYDUA.md#ent-org-turning-point-usa-t-00-19-58)**
-> "...at she has his phone and then Turning Point tried to claim which we met days after because th..."
+**[00:20:15](/episodes/ep-E7P2ShoYDUA.md#ent-org-turning-point-usa-t-00-20-15)**
+> "that she has his phone. Then Turning Point tried to claim—which we met days after, because that's when I went, this is weird—days after that, Erika then came to Nashville and we had this summit. What she told me, which is how Andrew is making a very bad mistake here, was, well, it was on Signal and the team's messages auto-delete on Signal. And she didn't know."
 
-**[00:21:21](/episodes/ep-E7P2ShoYDUA.md#ent-org-turning-point-usa-t-00-21-21)**
+**[00:21:21](/episodes/ep-E7P2ShoYDUA.md#ent-org-turning-point-usa-t-00-20-59)**
 > "The really strange for Turning Point USA to not have presented that message, which actuall..."
 
-**[00:21:49](/episodes/ep-E7P2ShoYDUA.md#ent-org-turning-point-usa-t-00-21-21)**
+**[00:21:49](/episodes/ep-E7P2ShoYDUA.md#ent-org-turning-point-usa-t-00-21-36)**
 > "...t's just looking real bad for Turning Point USA. So fingers crossed, guys, because I always have ..."
 
 **[00:30:48](/episodes/ep-E7P2ShoYDUA.md#ent-org-turning-point-usa-t-00-30-39)**
@@ -1293,8 +1293,8 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 **[00:02:41](/episodes/ep-puuMVxEu5NU.md#ent-org-turning-point-usa-t-00-02-41)**
 > "... brand is new. I can at every turning point college stop that I ever did with Charlie (Charli..."
 
-**[00:03:00](/episodes/ep-puuMVxEu5NU.md#ent-org-turning-point-usa-t-00-02-41)**
-> "...ver worn a polyester shirt at Turning Point on campus ever."
+**[00:02:41](/episodes/ep-puuMVxEu5NU.md#ent-org-turning-point-usa-t-00-02-41)**
+> "That brand is new. I can at every turning point college stop that I ever did with Charlie (Charlie Kirk), we just wore typically the same T-shirts that the student chapter was wearing and they were provided for us when we arrived. We'd have like funny like you saw like a hymn to whatever was happening."
 
 **[00:05:21](/episodes/ep-puuMVxEu5NU.md#ent-org-turning-point-usa-t-00-04-57)**
 > "...ge campuses and found found a Turning Point USA to bring the controversy and the discussion there..."
@@ -9732,7 +9732,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (781)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (792)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (9)</summary>
@@ -10005,10 +10005,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (7)</summary>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (9)</summary>
 
 - [00:23:47](/episodes/ep-ds6umq1rHAw.md#t-00-23-47) (Claim) **Candace Owens**: ["Owens said that in reality about half of Turning Point USA is Mormon."](/statements/statement-dc8a19c7a2dd.md)
   - Also about: [Mormonism](/entities/concept-mormonism.md)
+
+- [00:25:17](/episodes/ep-ds6umq1rHAw.md#t-00-25-17) (Claim) **Candace Owens**: ["Owens said Tyler Bowyer handled Turning Point USA's money, that she ha..."](/statements/statement-16e283e46763.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point Action](/entities/org-turning-point-action.md)
 
 - [00:26:17](/episodes/ep-ds6umq1rHAw.md#t-00-25-58) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tyler Bowyer told her Turning Point USA would never stop be..."](/statements/statement-a040ffec0321.md)
   - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Israel](/entities/gpe-israel.md), [America Fest](/entities/event-america-fest.md)
@@ -10018,6 +10021,9 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [00:28:07](/episodes/ep-ds6umq1rHAw.md#t-00-28-01) (Accusation) **Candace Owens**: ["Owens said Erika Kirk assumed control of Turning Point USA after Charl..."](/statements/statement-e6c809fdbed9.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:29:42](/episodes/ep-ds6umq1rHAw.md#t-00-29-25) (Opinion) **Candace Owens**: ["Owens compared Kirk's final period to Howard Hughes relying on lieuten..."](/statements/statement-153c396d13e8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Howard Hughes](/entities/person-howard-hughes.md)
 
 - [00:36:00](/episodes/ep-ds6umq1rHAw.md#t-00-35-38) (Claim) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet wrote that Turning Point USA never received a Daily Mail..."](/statements/statement-e4aa05418158.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Daily Mail](/entities/org-daily-mail.md)
@@ -10031,10 +10037,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (6)</summary>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (7)</summary>
 
 - [00:00:59](/episodes/ep-OgRyiOAVtWU.md#t-00-00-36) (Prediction) **Candace Owens**: ["Owens inferred that Turning Point USA's repeated Sandy Hook comparison..."](/statements/statement-5ce67669d130.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
+
+- [00:20:23](/episodes/ep-OgRyiOAVtWU.md#t-00-19-54) (Opinion) **Candace Owens**: ["Owens offered a conference call among Turning Point USA employees as a..."](/statements/statement-b7d9059a95a6.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md)
 
 - [00:24:58](/episodes/ep-OgRyiOAVtWU.md#t-00-24-37) (Accusation) **Candace Owens**: ["Owens accused Turning Point USA of making personal and public calls to..."](/statements/statement-2e7cddf34352.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
@@ -10054,21 +10063,36 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (7)</summary>
+
+- [00:36:21](/episodes/ep-N4uM8Jdr410.md#t-00-36-05) (Claim) **Candace Owens**: ["Candace Owens said Blake Neff first said he stayed in Orem, later chan..."](/statements/statement-728acaa0a10a.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Orem](/entities/gpe-orem.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
 
 - [00:37:14](/episodes/ep-N4uM8Jdr410.md#t-00-37-08) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said that, to his knowledge, he stayed at basically the sam..."](/statements/statement-b592fae6969b.md)
   - Also about: [Blake Neff](/entities/person-blake-neff.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
 
+- [00:38:26](/episodes/ep-N4uM8Jdr410.md#t-00-37-59) (Opinion) **Candace Owens**: ["Candace Owens questioned why Salt Lake City served as the hub for TPUS..."](/statements/statement-33a1bff2e831.md)
+  - Also about: [Salt Lake City](/entities/gpe-salt-lake-city.md), [Restaurantology](/entities/work-restaurantology.md)
+
+- [00:38:34](/episodes/ep-N4uM8Jdr410.md#t-00-38-34) (Opinion) **Candace Owens**: ["Candace Owens said anticipation of the vice president's arrival near S..."](/statements/statement-ef4f9c2b69a0.md)
+  - Also about: [Salt Lake City](/entities/gpe-salt-lake-city.md), [JD Vance](/entities/person-jd-vance.md)
+
 - [00:39:13](/episodes/ep-N4uM8Jdr410.md#t-00-38-34) (Claim) **Candace Owens**: ["Candace Owens said she contacted Turning Point USA staffers and they h..."](/statements/statement-2287baae0819.md)
+
+- [00:49:28](/episodes/ep-N4uM8Jdr410.md#t-00-48-55) (Citation) **Candace Owens**: ["Candace Owens referred to a claim that Tyler Robinson met with three T..."](/statements/statement-7a33b32da257.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:49:35](/episodes/ep-N4uM8Jdr410.md#t-00-49-35) (Prediction) **Candace Owens**: ["Candace Owens said she had a strong intuition about which TPUSA person..."](/statements/statement-c5633f5571aa.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 
 <details>
-<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (5)</summary>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (6)</summary>
 
 - [00:01:50](/episodes/ep-puuMVxEu5NU.md#t-00-01-37) (Claim) **Candace Owens**: ["Turning Point USA did not sell the post-assassination Freedom shirts t..."](/statements/statement-2863e5d50888.md)
 
-- [00:02:07](/episodes/ep-puuMVxEu5NU.md#t-00-02-07) (Claim) **Candace Owens**: ["Charlie Kirk was wearing a customized Carhartt Freedom shirt on Septem..."](/statements/statement-a4a4261f6194.md)
+- [00:02:07](/episodes/ep-puuMVxEu5NU.md#t-00-02-07) (Claim) **Candace Owens**: ["Owens said Charlie Kirk wore a customized Carhartt Freedom shirt on Se..."](/statements/statement-a4a4261f6194.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Carhartt](/entities/org-carhartt.md)
 
 - [00:04:25](/episodes/ep-puuMVxEu5NU.md#t-00-04-25) (Claim) **Nate Walker** (via quoted speech): ["Nate Walker said Charlie Kirk chose the Freedom shirt on September 10 ..."](/statements/statement-217e7e432a66.md)
@@ -10078,6 +10102,9 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [00:50:32](/episodes/ep-puuMVxEu5NU.md#t-00-50-21) (Opinion) **Candace Owens**: ["Owens agreed with people who said Turning Point USA died with Charlie ..."](/statements/statement-beafbf9d1d83.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:51:58](/episodes/ep-puuMVxEu5NU.md#t-00-51-43) (Opinion) **Candace Owens**: ["Owens treated a theory involving Dan Flood's apparent Meta smart glass..."](/statements/statement-f77d8a433a36.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Meta Platforms, Inc.](/entities/org-meta-platforms.md)
 
 </details>
 
@@ -10116,13 +10143,19 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (2)</summary>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (4)</summary>
 
 - [00:33:54](/episodes/ep-a2bZf4fic10.md#t-00-33-33) (Accusation) **Anonymous Source #2 (Ep a2bZf4fic10)** (via read message): ["An anonymous witness told Owens that Turning Point USA staff removed a..."](/statements/statement-b88a9697f53c.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
+- [00:39:28](/episodes/ep-a2bZf4fic10.md#t-00-38-50) (Accusation) **Candace Owens**: ["Owens said she believed Charlie Kirk was killed by people who wanted t..."](/statements/statement-6c01a84bf85e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [00:49:53](/episodes/ep-a2bZf4fic10.md#t-00-49-53) (Opinion) **Candace Owens**: ["Owens said Jon Aaron Bray's theory had 'infinitely more' evidence than..."](/statements/statement-2b8be196e6e4.md)
   - Also about: [Jon Aaron Bray](/entities/person-jon-aaron-bray.md), [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:51:56](/episodes/ep-a2bZf4fic10.md#t-00-51-43) (Accusation) **J Beam (commenter; identity unverified)** (via read message): ["YouTube commenter Jay Beam alleged that Israel selected and incentiviz..."](/statements/statement-801c95c4b569.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

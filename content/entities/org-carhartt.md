@@ -24,7 +24,7 @@ Source: [About Carhartt](https://www.carhartt.com/about)
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -41,6 +41,10 @@ Source: [About Carhartt](https://www.carhartt.com/about)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -82,7 +86,7 @@ _No relationships extracted yet._
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
 
-- [00:02:07](/episodes/ep-puuMVxEu5NU.md#t-00-02-07) (Claim) **Candace Owens**: ["Charlie Kirk was wearing a customized Carhartt Freedom shirt on Septem..."](/statements/statement-a4a4261f6194.md)
+- [00:02:07](/episodes/ep-puuMVxEu5NU.md#t-00-02-07) (Claim) **Candace Owens**: ["Owens said Charlie Kirk wore a customized Carhartt Freedom shirt on Se..."](/statements/statement-a4a4261f6194.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

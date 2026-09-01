@@ -32,7 +32,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <div><span>Episodes</span><strong>98</strong></div>
 <div><span>Mentions</span><strong>412</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>127</strong></div>
+<div><span>Statements about</span><strong>128</strong></div>
 <div><span>Relationships</span><strong>64</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -2627,7 +2627,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (127)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (128)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2673,6 +2673,14 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 - [00:42:23](/episodes/ep-X3VKJVJ7cN4.md#t-00-42-23) (Claim) **Andrew Kolvet** (via quoted tweet): ["Kolvet denied that Netanyahu offered to take Turning Point USA to the ..."](/statements/statement-d2c62ee0b38f.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1)</summary>
+
+- [00:42:45](/episodes/ep-a2bZf4fic10.md#t-00-42-23) (Accusation) **Candace Owens**: ["Owens sarcastically suggested that Erika Kirk's claim that God prompte..."](/statements/statement-e9548b6b31b8.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

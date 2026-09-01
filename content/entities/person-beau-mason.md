@@ -23,9 +23,9 @@ Source: [Gov. Cox names Beau Mason Commissioner of the Utah Department of Public
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -42,6 +42,10 @@ Source: [Gov. Cox names Beau Mason Commissioner of the Utah Department of Public
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -125,10 +129,10 @@ Source: [Gov. Cox names Beau Mason Commissioner of the Utah Department of Public
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Beau Mason (4)</strong></summary>
+<summary><strong class="section-title">Statements about Beau Mason (5)</strong></summary>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (4)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (5)</summary>
 
 - [00:09:14](/episodes/ep-N4uM8Jdr410.md#t-00-09-10) (Claim) **Candace Owens**: ["Candace Owens said Kash Patel and Beau Mason did not correct Spencer C..."](/statements/statement-d1e2c308b5f7.md)
   - Also about: [Kash Patel](/entities/person-kash-patel.md), [Spencer Cox](/entities/person-spencer-cox.md)
@@ -141,6 +145,9 @@ Source: [Gov. Cox names Beau Mason Commissioner of the Utah Department of Public
 
 - [00:20:08](/episodes/ep-N4uM8Jdr410.md#t-00-20-08) (Citation) **Candace Owens**: ["Candace Owens said a 2023 photo showed Jennifer Faumuina with Beau Mas..."](/statements/statement-b0d1650dd1f2.md)
   - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md)
+
+- [00:22:31](/episodes/ep-N4uM8Jdr410.md#t-00-22-06) (Opinion) **Candace Owens**: ["Candace Owens said the cluster of new Utah appointments before the ass..."](/statements/statement-90df00b91bb1.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Robert Bohls](/entities/person-robert-bohls.md), [Andrew Zenger](/entities/person-andrew-zenger.md)
 
 </details>
 

@@ -269,7 +269,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
 
 **[01:13:43](/episodes/ep-EtLHqDbxqks.md#ent-concept-home-equity-line-of-credit-t-01-13-16)**
-> "tact is a surgical strike against debt. Unlike a fluctuating HELOC, a smart equity loan is a fixed rate loan, giving you a predictable monthly payment."
+> "It's a surgical strike against debt. Unlike a fluctuating HELOC, a smart equity loan is a fixed-rate loan, giving you a predictable monthly payment."
 
 </details>
 

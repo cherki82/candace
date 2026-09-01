@@ -22,7 +22,7 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 <div><span>Episodes</span><strong>13</strong></div>
 <div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -234,12 +234,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FaceTime (3)</strong></summary>
+<summary><strong class="section-title">Statements about FaceTime (4)</strong></summary>
 
 <details>
-<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2)</summary>
 
 - [00:48:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-48-30) (Accusation) **Candace Owens**: ["Owens accused Frank Turek of repeatedly changing his account of the Fa..."](/statements/statement-23ef82d234fd.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:48:58](/episodes/ep-X3VKJVJ7cN4.md#t-00-48-58) (Opinion) **Candace Owens**: ["Owens speculated that Turek's live feed from the SUV went to one or mo..."](/statements/statement-e77cda43f456.md)
   - Also about: [Frank Turek](/entities/person-frank-turek.md)
 
 </details>

@@ -5266,7 +5266,7 @@ _Total events: 1773_
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:47:39](/episodes/ep-69A8TzAGHlU.md#t-00-47-14)
 - [Brian Harpole Sends Out MORE Legal Notices. Jer... @ 00:19:20](/episodes/ep-k1b1NDCrNFs.md#t-00-19-07)
 - [Update! Erika Did Not Go Home. Source Confirms ... @ 00:48:52](/episodes/ep-KpxIBWkNsSs.md#t-00-48-33)
-- [Behind The Scenes Of The Great Debate: TPUSA Is... @ 00:20:15](/episodes/ep-E7P2ShoYDUA.md#t-00-19-58)
+- [Behind The Scenes Of The Great Debate: TPUSA Is... @ 00:20:15](/episodes/ep-E7P2ShoYDUA.md#t-00-20-15)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:04:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-04-21)
 
 </details>
@@ -5314,7 +5314,7 @@ _Total events: 1773_
 
 - [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14)
 - [Okay…These Text Messages Are Crazy! | Candace E... @ 00:33:09](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42)
-- [Behind The Scenes Of The Great Debate: TPUSA Is... @ 00:19:58](/episodes/ep-E7P2ShoYDUA.md#t-00-19-58)
+- [Behind The Scenes Of The Great Debate: TPUSA Is... @ 00:19:58](/episodes/ep-E7P2ShoYDUA.md#t-00-19-48)
 
 </details>
 </div>

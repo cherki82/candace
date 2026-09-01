@@ -31,7 +31,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <div><span>Episodes</span><strong>77</strong></div>
 <div><span>Mentions</span><strong>255</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>75</strong></div>
+<div><span>Statements about</span><strong>80</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1567,7 +1567,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (75)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (80)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
@@ -1582,6 +1582,17 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 - [01:01:25](/episodes/ep-_cNtgris8Ik.md#t-01-00-52) (Claim) **Candace Owens** (via paraphrase): ["Owens said she knew Tyler Robinson was around the Utah Valley Universi..."](/statements/statement-c8df1c2e0dfb.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2)</summary>
+
+- [00:18:49](/episodes/ep-E7P2ShoYDUA.md#t-00-18-49) (Claim) **Andrew Wilson** (via read message): ["Andrew Wilson read a September 9 message he said came from Charlie Kir..."](/statements/statement-f65e7067eb3e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:18:58](/episodes/ep-E7P2ShoYDUA.md#t-00-18-49) (Claim) **Andrew Wilson** (via read message): ["Andrew Wilson read the message as saying the September 10 event would ..."](/statements/statement-d2f503d76428.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -1664,7 +1675,10 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+
+- [00:04:12](/episodes/ep-N4uM8Jdr410.md#t-00-03-40) (Claim) **Rob O'Neill**: ["Robert O'Neill said he had been told the area was paved over a couple ..."](/statements/statement-199af7719579.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:08:45](/episodes/ep-N4uM8Jdr410.md#t-00-08-45) (Claim) **Spencer Cox** (via quoted speech): ["Spencer Cox said the suspect wore different clothing when first spotte..."](/statements/statement-6f2386370376.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -1672,7 +1686,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details>
-<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (3)</summary>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (4)</summary>
 
 - [00:22:49](/episodes/ep-puuMVxEu5NU.md#t-00-22-42) (Claim) **Unidentified Police Radio Dispatcher** (via quoted speech): ["A police radio dispatcher relayed another report of gunshots near the ..."](/statements/statement-1b5512ce363d.md)
   - Also about: [Ira A. and Mary Lou Fulton Library](/entities/org-ira-a-and-mary-lou-fulton-library.md)
@@ -1680,8 +1694,18 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 - [00:23:02](/episodes/ep-puuMVxEu5NU.md#t-00-23-02) (Claim) **Unidentified Police Radio Dispatcher** (via quoted speech): ["A police radio dispatcher described a shooter on a far-north building ..."](/statements/statement-0f3a89cf8fb6.md)
   - Also about: [Ira A. and Mary Lou Fulton Library](/entities/org-ira-a-and-mary-lou-fulton-library.md)
 
+- [00:26:39](/episodes/ep-puuMVxEu5NU.md#t-00-26-07) (Citation) **Candace Owens** (via paraphrase): ["Owens cited courtroom testimony that an unfired .223 round was found o..."](/statements/statement-c558555f8661.md)
+
 - [00:44:39](/episodes/ep-puuMVxEu5NU.md#t-00-44-32) (Opinion) **Candace Owens**: ["Owens said her investigation led her to believe Tyler Robinson was on ..."](/statements/statement-dfee63606024.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dairy Queen](/entities/org-dairy-queen.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
+
+- [00:12:29](/episodes/ep-mLvJqdxS-FY.md#t-00-12-29) (Claim) **Candace Owens**: ["Owens said Bagley had not reviewed the roughly twenty-minute gap betwe..."](/statements/statement-56db2e128caa.md)
+  - Also about: [Chris Bagley](/entities/person-chris-bagley.md)
 
 </details>
 

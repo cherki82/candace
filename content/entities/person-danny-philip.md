@@ -23,9 +23,9 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -52,6 +52,10 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -279,7 +283,7 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Danny Philip (8)</strong></summary>
+<summary><strong class="section-title">Statements about Danny Philip (12)</strong></summary>
 
 <details>
 <summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1)</summary>
@@ -290,7 +294,7 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 <details>
-<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2)</summary>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (5)</summary>
 
 - [00:11:55](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19) (Claim) **Candace Owens**: ["Michael McCoy rented two SUVs in Salt Lake City; Blake Neff and Danny ..."](/statements/statement-de022607d5e7.md)
   - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Blake Neff](/entities/person-blake-neff.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
@@ -298,10 +302,22 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 - [00:17:10](/episodes/ep-OgRyiOAVtWU.md#t-00-16-52) (Claim) **Candace Owens**: ["Owens said Danny Philip called Michael McCoy and they remained on the ..."](/statements/statement-51759fdb5429.md)
   - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Blake Neff](/entities/person-blake-neff.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
 
+- [00:17:39](/episodes/ep-OgRyiOAVtWU.md#t-00-17-22) (Opinion) **Candace Owens**: ["Owens allowed that the ten-minute call might have been misattributed t..."](/statements/statement-94bd889f9197.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Erika Kirk](/entities/person-erika-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:18:10](/episodes/ep-OgRyiOAVtWU.md#t-00-18-00) (Opinion) **Candace Owens**: ["Owens said live local-news footage placed Blake Neff, Danny Philip, an..."](/statements/statement-0d6b34a89ad5.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:20:23](/episodes/ep-OgRyiOAVtWU.md#t-00-19-54) (Opinion) **Candace Owens**: ["Owens offered a conference call among Turning Point USA employees as a..."](/statements/statement-b7d9059a95a6.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
 </details>
 
 <details>
-<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (5)</summary>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (6)</summary>
+
+- [00:15:17](/episodes/ep-X3VKJVJ7cN4.md#t-00-15-17) (Claim) **Blake Neff**: ["Neff tentatively agreed that Danny Phillips might have been with him i..."](/statements/statement-4a0e7fd54157.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
 
 - [00:16:53](/episodes/ep-X3VKJVJ7cN4.md#t-00-16-32) (Claim) **Candace Owens**: ["Owens said Michael McCoy was on the phone with Danny Phillips before K..."](/statements/statement-51956540dc6f.md)
   - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)

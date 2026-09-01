@@ -27,7 +27,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <div><span>Episodes</span><strong>31</strong></div>
 <div><span>Mentions</span><strong>78</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>23</strong></div>
+<div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -678,13 +678,21 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about JD Vance (23)</strong></summary>
+<summary><strong class="section-title">Statements about JD Vance (24)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
 
 - [00:26:18](/episodes/ep-9hRcfSrri70.md#t-00-25-58) (Accusation) **Candace Owens**: ["Owens said Vice President JD Vance was also complicit in seeding the n..."](/statements/statement-4ced550f83c5.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:38:34](/episodes/ep-N4uM8Jdr410.md#t-00-38-34) (Opinion) **Candace Owens**: ["Candace Owens said anticipation of the vice president's arrival near S..."](/statements/statement-ef4f9c2b69a0.md)
+  - Also about: [Salt Lake City](/entities/gpe-salt-lake-city.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

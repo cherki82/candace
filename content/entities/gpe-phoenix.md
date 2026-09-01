@@ -28,7 +28,7 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 <div><span>Episodes</span><strong>19</strong></div>
 <div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -412,13 +412,21 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Phoenix (9)</strong></summary>
+<summary><strong class="section-title">Statements about Phoenix (10)</strong></summary>
 
 <details>
 <summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1)</summary>
 
 - [00:15:26](/episodes/ep-AoYZel7_cGQ.md#t-00-15-26) (Citation) **Candace Owens**: ["Candace Owens cited Sky 12 News reporting that Charlie Kirk was headed..."](/statements/statement-13e8451b2434.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Hansen Mortuaries](/entities/org-hansen-mortuaries.md), [12News](/entities/org-12news-kpnx.md)
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:36:59](/episodes/ep-N4uM8Jdr410.md#t-00-36-59) (Opinion) **Blake Neff**: ["Blake Neff said he interpreted a question about staying in Orem as a q..."](/statements/statement-2e648c420a02.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Orem](/entities/gpe-orem.md), [Utah](/entities/gpe-utah.md)
 
 </details>
 

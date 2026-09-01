@@ -27,7 +27,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <div><span>Episodes</span><strong>63</strong></div>
 <div><span>Mentions</span><strong>236</strong></div>
 <div><span>Statements by</span><strong>13</strong></div>
-<div><span>Statements about</span><strong>79</strong></div>
+<div><span>Statements about</span><strong>81</strong></div>
 <div><span>Relationships</span><strong>66</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1945,7 +1945,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Bowyer (79)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Bowyer (81)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -1956,7 +1956,13 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2)</summary>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (4)</summary>
+
+- [00:25:17](/episodes/ep-ds6umq1rHAw.md#t-00-25-17) (Claim) **Candace Owens**: ["Owens said the Bowyer and Farnsworth-associated families knew Erika Ki..."](/statements/statement-a573e03efe2f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
+
+- [00:25:17](/episodes/ep-ds6umq1rHAw.md#t-00-25-17) (Claim) **Candace Owens**: ["Owens said Tyler Bowyer handled Turning Point USA's money, that she ha..."](/statements/statement-16e283e46763.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point Action](/entities/org-turning-point-action.md)
 
 - [00:26:17](/episodes/ep-ds6umq1rHAw.md#t-00-25-58) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tyler Bowyer told her Turning Point USA would never stop be..."](/statements/statement-a040ffec0321.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Israel](/entities/gpe-israel.md), [America Fest](/entities/event-america-fest.md)

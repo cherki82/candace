@@ -1,6 +1,6 @@
 ---
-title: "Charlie Kirk was wearing a customized Carhartt Freedom shirt..."
-description: "\"Charlie Kirk was wearing a customized Carhartt Freedom shirt on September 10 rather than the standard shirt later sold to supporters.\" — Candace Owens"
+title: "Owens said Charlie Kirk wore a customized Carhartt Freedom s..."
+description: "\"Owens said Charlie Kirk wore a customized Carhartt Freedom shirt on September 10 rather than the standard shirt later sold to supporters and said she ...\" — Candace Owens"
 statement_id: "statement-a4a4261f6194"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Charlie Kirk was wearing a customized Carhartt Freedom shirt on September 10 rather than the standard shirt later sold to supporters.
+> Owens said Charlie Kirk wore a customized Carhartt Freedom shirt on September 10 rather than the standard shirt later sold to supporters and said she believed the custom shirt was either 50% or 95% polyester.
 
 ## Attribution
 

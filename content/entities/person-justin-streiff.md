@@ -28,7 +28,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <div><span>Episodes</span><strong>39</strong></div>
 <div><span>Mentions</span><strong>100</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>33</strong></div>
+<div><span>Statements about</span><strong>34</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -823,13 +823,21 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Streiff (33)</strong></summary>
+<summary><strong class="section-title">Statements about Justin Streiff (34)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
 
 - [00:00:23](/episodes/ep-Vu6Y24pqhZs.md#t-00-00-01) (Claim) **Candace Owens**: ["Owens said she confirmed that Andrew Kolvet, Marina Minas, Justin Stre..."](/statements/statement-beaace42dd6b.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Marina Minas](/entities/person-marina-minas.md), [Frank Carni](/entities/person-frank-carni.md)
+
+</details>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>
+
+- [00:17:39](/episodes/ep-OgRyiOAVtWU.md#t-00-17-22) (Opinion) **Candace Owens**: ["Owens allowed that the ten-minute call might have been misattributed t..."](/statements/statement-94bd889f9197.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md)
 
 </details>
 

@@ -27,7 +27,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div><span>Episodes</span><strong>104</strong></div>
 <div><span>Mentions</span><strong>990</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
-<div><span>Statements about</span><strong>395</strong></div>
+<div><span>Statements about</span><strong>403</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -135,7 +135,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-person-tyler-robinson-t-00-02-44" style="--pulse-height:22%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 23 mentions" title="2026-08-11 · 23 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 103 mentions" title="2026-08-14 · 103 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-tyler-robinson-t-00-00-01" style="--pulse-height:81%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 83 mentions" title="2026-08-14 · 83 mentions"><span></span></a>
-<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-tyler-robinson-t-00-21-59" style="--pulse-height:28%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 29 mentions" title="2026-08-17 · 29 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-tyler-robinson-t-00-22-20" style="--pulse-height:28%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 29 mentions" title="2026-08-17 · 29 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-tyler-robinson-t-00-34-59" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 4 mentions" title="2026-08-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-tyler-robinson-t-00-18-18" style="--pulse-height:19%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 20 mentions" title="2026-08-19 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-robinson-t-00-15-06" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 7 mentions" title="2026-08-21 · 7 mentions"><span></span></a>
@@ -244,7 +244,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-tyler-robinson-t-00-02-44) | 23 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41) | 103 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-tyler-robinson-t-00-00-01) | 83 |
-| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-tyler-robinson-t-00-21-59) | 29 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-tyler-robinson-t-00-22-20) | 29 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-tyler-robinson-t-00-34-59) | 4 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-tyler-robinson-t-00-18-18) | 20 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-robinson-t-00-15-06) | 7 |
@@ -384,7 +384,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (29 mentions)</summary>
 
-**[00:22:20](/episodes/ep-E7P2ShoYDUA.md#ent-person-tyler-robinson-t-00-21-59)**
+**[00:22:20](/episodes/ep-E7P2ShoYDUA.md#ent-person-tyler-robinson-t-00-22-20)**
 > "It was just taking cheap shots at Candace (Candace Owens). The first thing he does is he concedes that there's reasonable doubt that Tyler Robinson did this."
 
 **[00:22:37](/episodes/ep-E7P2ShoYDUA.md#ent-person-tyler-robinson-t-00-22-37)**
@@ -4103,7 +4103,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (395)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (403)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3)</summary>
@@ -4189,13 +4189,18 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (5)</summary>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (7)</summary>
 
 - [00:22:44](/episodes/ep-E7P2ShoYDUA.md#t-00-22-37) (Opinion) **Andrew Wilson**: ["Andrew Wilson estimated a 75% to 85% likelihood, based on the evidence..."](/statements/statement-1b05f044069a.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:26:19](/episodes/ep-E7P2ShoYDUA.md#t-00-26-19) (Claim) **Andrew Wilson**: ["Andrew Wilson said his case for Tyler Robinson included screwdriver an..."](/statements/statement-cba70187b84f.md)
+
 - [00:35:52](/episodes/ep-E7P2ShoYDUA.md#t-00-35-40) (Opinion) **Candace Owens**: ["Owens said it was possible, or at least plausible, that the rooftop sc..."](/statements/statement-f493d8497774.md)
   - Also about: [Chris Bagley](/entities/person-chris-bagley.md)
+
+- [00:36:31](/episodes/ep-E7P2ShoYDUA.md#t-00-36-31) (Opinion) **Andrew Wilson**: ["Andrew Wilson argued that even if Erika Kirk sincerely believed Tyler ..."](/statements/statement-9bbe1e5d27e3.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:45:55](/episodes/ep-E7P2ShoYDUA.md#t-00-45-52) (Citation) **Candace Owens**: ["Owens listed Tyler Robinson's seven charges as aggravated murder, felo..."](/statements/statement-34a5d2b9df6d.md)
 
@@ -4503,12 +4508,15 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (4)</summary>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (5)</summary>
 
 - [00:29:35](/episodes/ep-OgRyiOAVtWU.md#t-00-29-13) (Opinion) **Anonymous Source #1 (Ep OgRyiOAVtWU)** (via quoted article): ["The Daily Mail's anonymous source reported that Erika Kirk said she al..."](/statements/statement-ecd5db8e896c.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:30:14](/episodes/ep-OgRyiOAVtWU.md#t-00-29-56) (Opinion) **Candace Owens**: ["Owens said she had not seen convincing evidence that Tyler Robinson co..."](/statements/statement-0b6fcc2dc1ba.md)
+
+- [00:31:54](/episodes/ep-OgRyiOAVtWU.md#t-00-31-19) (Opinion) **Erika Kirk** (via paraphrase): ["Owens said Erika Kirk had told Bari Weiss she was wholly confident Tyl..."](/statements/statement-b2c068a81cbc.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:48:29](/episodes/ep-OgRyiOAVtWU.md#t-00-48-09) (Opinion) **David Freiheit** (via quoted speech): ["David Freiheit said he did not know whether Tyler Robinson fired the g..."](/statements/statement-a4c3be6b8469.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -4519,7 +4527,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (6)</summary>
 
 - [00:08:45](/episodes/ep-N4uM8Jdr410.md#t-00-08-45) (Claim) **Spencer Cox** (via quoted speech): ["Spencer Cox said the suspect wore different clothing when first spotte..."](/statements/statement-6f2386370376.md)
   - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
@@ -4530,13 +4538,27 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [00:12:59](/episodes/ep-N4uM8Jdr410.md#t-00-12-59) (Claim) **Dan Bongino** (via quoted speech): ["Dan Bongino said the suspect was not cooperating and the available vid..."](/statements/statement-94f2c908e946.md)
   - Also about: [FBI](/entities/org-fbi.md)
 
+- [00:14:48](/episodes/ep-N4uM8Jdr410.md#t-00-14-15) (Opinion) **Candace Owens**: ["Candace Owens said she believed the blurry rooftop object described pu..."](/statements/statement-866ec339bfbd.md)
+  - Also about: [Anonymous Source #4 (Ep N4uM8Jdr410)](/entities/anon-src-N4uM8Jdr410-004.md)
+
+- [00:49:28](/episodes/ep-N4uM8Jdr410.md#t-00-48-55) (Citation) **Candace Owens**: ["Candace Owens referred to a claim that Tyler Robinson met with three T..."](/statements/statement-7a33b32da257.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:49:35](/episodes/ep-N4uM8Jdr410.md#t-00-49-35) (Prediction) **Candace Owens**: ["Candace Owens said she had a strong intuition about which TPUSA person..."](/statements/statement-c5633f5571aa.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
 </details>
 
 <details>
-<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (3)</summary>
+
+- [00:36:04](/episodes/ep-puuMVxEu5NU.md#t-00-35-38) (Opinion) **Candace Owens**: ["Owens said the coordinated claim that evidence overwhelmingly proved T..."](/statements/statement-171cce457615.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
 
 - [00:44:39](/episodes/ep-puuMVxEu5NU.md#t-00-44-32) (Opinion) **Candace Owens**: ["Owens said her investigation led her to believe Tyler Robinson was on ..."](/statements/statement-dfee63606024.md)
   - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Dairy Queen](/entities/org-dairy-queen.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:53:22](/episodes/ep-puuMVxEu5NU.md#t-00-53-10) (Citation) **Candace Owens** (via read message): ["Owens read a former U.S. Army viewer's assessment that the rooftop mov..."](/statements/statement-b1e31e496cff.md)
 
 </details>
 

@@ -27,7 +27,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <div><span>Episodes</span><strong>54</strong></div>
 <div><span>Mentions</span><strong>262</strong></div>
 <div><span>Statements by</span><strong>32</strong></div>
-<div><span>Statements about</span><strong>50</strong></div>
+<div><span>Statements about</span><strong>52</strong></div>
 <div><span>Relationships</span><strong>44</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -78,7 +78,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-frank-turek-t-00-32-36" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-frank-turek-t-00-01-20" style="--pulse-height:60%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 15 mentions" title="2026-06-26 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-frank-turek-t-01-03-12" style="--pulse-height:28%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 7 mentions" title="2026-07-14 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-12-22" style="--pulse-height:32%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 8 mentions" title="2026-07-14 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-12-22" style="--pulse-height:28%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 7 mentions" title="2026-07-14 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-frank-turek-t-00-06-22" style="--pulse-height:24%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-25-59" style="--pulse-height:72%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 18 mentions" title="2026-07-16 · 18 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:44%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 11 mentions" title="2026-07-20 · 11 mentions"><span></span></a>
@@ -137,7 +137,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-frank-turek-t-00-32-36) | 5 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-frank-turek-t-00-01-20) | 15 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-frank-turek-t-01-03-12) | 7 |
-| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-12-22) | 8 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-12-22) | 7 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-frank-turek-t-00-06-22) | 6 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-25-59) | 18 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-01-24) | 11 |
@@ -436,7 +436,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (8 mentions)</summary>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (7 mentions)</summary>
 
 **[00:12:22](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-12-22)**
 > "...g Charlie and Mikey McCoy and Frank Turek and John McGovern, who works in gifts at Turning ..."
@@ -455,9 +455,6 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 **[00:47:22](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-46-53)**
 > "...sterday that it's going to be Frank Turek and that live stream,"
-
-**[00:47:30](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-47-30)**
-> "...terday: that it's going to be Frank Turek and that live stream, which never made sense. The..."
 
 **[00:48:30](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-48-30)**
 > "Something's not right about Frank Turek's story as well. And he's changed it. He keeps gett..."
@@ -1856,7 +1853,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Frank Turek (50)</strong></summary>
+<summary><strong class="section-title">Statements about Frank Turek (52)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -1925,12 +1922,18 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2)</summary>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (4)</summary>
 
 - [00:12:22](/episodes/ep-X3VKJVJ7cN4.md#t-00-12-22) (Claim) **Candace Owens**: ["Owens said one SUV carried Kirk, Michael McCoy, Frank Turek, and John ..."](/statements/statement-b5f0b663ee97.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md), [John McGovern](/entities/person-john-mcgovern.md)
 
+- [00:31:58](/episodes/ep-X3VKJVJ7cN4.md#t-00-31-22) (Opinion) **Candace Owens**: ["Owens questioned whether Frank Turek was absent from the Restaurantolo..."](/statements/statement-b38b51465826.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Restaurantology](/entities/work-restaurantology.md)
+
 - [00:48:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-48-30) (Accusation) **Candace Owens**: ["Owens accused Frank Turek of repeatedly changing his account of the Fa..."](/statements/statement-23ef82d234fd.md)
+  - Also about: [FaceTime](/entities/work-facetime.md)
+
+- [00:48:58](/episodes/ep-X3VKJVJ7cN4.md#t-00-48-58) (Opinion) **Candace Owens**: ["Owens speculated that Turek's live feed from the SUV went to one or mo..."](/statements/statement-e77cda43f456.md)
   - Also about: [FaceTime](/entities/work-facetime.md)
 
 </details>

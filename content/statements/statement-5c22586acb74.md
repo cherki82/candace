@@ -26,13 +26,23 @@ veracity: "true"
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:22:56](/episodes/ep-hWTdXHGQ8R4.md#t-00-22-23) 
 <a href="https://www.youtube.com/watch?v=hWTdXHGQ8R4&t=1376s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And I have his cell phone. didn't say that.
+
+### 2. Behind The Scenes Of The Great Debate: TPUSA Is The Biggest ...
+
+**Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
+**Timestamp:** [00:19:40](/episodes/ep-E7P2ShoYDUA.md#t-00-19-23) 
+<a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=1180s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Someone's going to kill me. He didn't say that. And I have his cell phone.
 
 ## Verification
 

@@ -1,14 +1,14 @@
 ---
 id: "N4uM8Jdr410"
 title: "UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362"
-description: "UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 - 109 entities, 12 events, 18 factual claims"
+description: "UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 - 109 entities, 12 events, 23 factual claims"
 published: "2026-07-20"
 youtube_url: "https://www.youtube.com/watch?v=N4uM8Jdr410"
 ---
 
 **Published:** 2026-07-20 | [Watch on YouTube](https://www.youtube.com/watch?v=N4uM8Jdr410)
 
-**Stats:** 109 entities | 12 events | 18 factual claims
+**Stats:** 109 entities | 12 events | 23 factual claims
 
 ---
 
@@ -30,9 +30,9 @@ youtube_url: "https://www.youtube.com/watch?v=N4uM8Jdr410"
 **<a href="/timestamps/ep-N4uM8Jdr410/t-00-03-22.md" class="timestamp-link">00:03:22</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=202" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** From a <span id="ent-org-losee-center-for-student-success-t-00-03-22"><a href="/entities/org-losee-center-for-student-success.md">Losee</a></span> rooftop. Again, you got to watch this clip because it's amazing. Take a listen. ^t-00-03-22
 
 ---
-**🎤 Newsmax Host (Rob; surname unverified)**
+**🎤 Newsmax Host**
 
-**<a href="/timestamps/ep-N4uM8Jdr410/t-00-03-28.md" class="timestamp-link">00:03:28</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=208" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Newsmax Host (Rob; surname unverified):** Rob, you know what you're talking about. That's why we had you on. You know about ballistics. You shot <span id="ent-person-osama-bin-laden-t-00-03-28"><a href="/entities/person-osama-bin-laden.md">Bin Laden</a></span>. What bothers you the most about this investigation? ^t-00-03-28
+**<a href="/timestamps/ep-N4uM8Jdr410/t-00-03-28.md" class="timestamp-link">00:03:28</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=208" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Newsmax Host:** Rob, you know what you're talking about. That's why we had you on. You know about ballistics. You shot <span id="ent-person-osama-bin-laden-t-00-03-28"><a href="/entities/person-osama-bin-laden.md">Bin Laden</a></span>. What bothers you the most about this investigation? ^t-00-03-28
 
 ---
 **🎤 Robert O’Neill**
@@ -59,9 +59,9 @@ youtube_url: "https://www.youtube.com/watch?v=N4uM8Jdr410"
 **<a href="/timestamps/ep-N4uM8Jdr410/t-00-05-20.md" class="timestamp-link">00:05:20</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=320" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And it just keeps getting better, that clip, because <span id="ent-person-rob-oneill-t-00-05-20"><a href="/entities/person-rob-oneill.md">Robert O'Neill</a></span> was joined by <span id="ent-org-united-states-air-force-t-00-05-20"><a href="/entities/org-united-states-air-force.md">Air Force</a></span> Brigadier General <span id="ent-person-blaine-d-holt-t-00-05-20"><a href="/entities/person-blaine-d-holt.md">Blaine Holt</a></span>. And here is what he had to say regarding the narrative. ^t-00-05-20
 
 ---
-**🎤 Newsmax Host (Rob; surname unverified)**
+**🎤 Newsmax Host**
 
-**<a href="/timestamps/ep-N4uM8Jdr410/t-00-05-30.md" class="timestamp-link">00:05:30</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=330" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Newsmax Host (Rob; surname unverified):** General, same to you. So this rifle, so this .30-06, it's a powerful rifle. What do you make of this narrative that the bullet might have hit <span id="ent-person-charlie-kirk-t-00-05-30"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span>'s spine, which would explain why the damage wasn't what you would typically see with a rifle like that from that range? ^t-00-05-30
+**<a href="/timestamps/ep-N4uM8Jdr410/t-00-05-30.md" class="timestamp-link">00:05:30</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=330" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Newsmax Host:** General, same to you. So this rifle, so this .30-06, it's a powerful rifle. What do you make of this narrative that the bullet might have hit <span id="ent-person-charlie-kirk-t-00-05-30"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span>'s spine, which would explain why the damage wasn't what you would typically see with a rifle like that from that range? ^t-00-05-30
 
 ---
 **🎤 Blaine Holt**
@@ -69,14 +69,14 @@ youtube_url: "https://www.youtube.com/watch?v=N4uM8Jdr410"
 **<a href="/timestamps/ep-N4uM8Jdr410/t-00-05-49.md" class="timestamp-link">00:05:49</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=349" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Blaine Holt:** No. No, that's not what happened. And this is the thing that hurts here, and what bothers me the most out of it. Now— ^t-00-05-49
 
 ---
-**🎤 Blaine Holt / Newsmax Host (Rob; surname unverified) (overlap)**
+**🎤 Blaine Holt / Newsmax Host (overlap)**
 
-**<a href="/timestamps/ep-N4uM8Jdr410/t-00-05-58.md" class="timestamp-link">00:05:58</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=358" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Blaine Holt / Newsmax Host (Rob; surname unverified) (overlap):** Wait, did you I say have you, Rob. ^t-00-05-58
+**<a href="/timestamps/ep-N4uM8Jdr410/t-00-05-58.md" class="timestamp-link">00:05:58</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=358" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Blaine Holt / Newsmax Host (overlap):** Wait, did you I say have you, Rob. ^t-00-05-58
 
 ---
-**🎤 Newsmax Host (Rob; surname unverified)**
+**🎤 Newsmax Host**
 
-**<a href="/timestamps/ep-N4uM8Jdr410/t-00-05-59.md" class="timestamp-link">00:05:59</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=359" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Newsmax Host (Rob; surname unverified):** Generally, you don't think that's what happened? ^t-00-05-59
+**<a href="/timestamps/ep-N4uM8Jdr410/t-00-05-59.md" class="timestamp-link">00:05:59</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=359" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Newsmax Host:** Generally, you don't think that's what happened? ^t-00-05-59
 
 ---
 **🎤 Blaine Holt**
@@ -156,7 +156,7 @@ youtube_url: "https://www.youtube.com/watch?v=N4uM8Jdr410"
 
 **<a href="/timestamps/ep-N4uM8Jdr410/t-00-14-58.md" class="timestamp-link">00:14:58</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=898" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All he knows is he was wearing all black. Because there was that blurry image that we were told was a towel because they had to then make it fit in with the gun, which was wrapped in a towel. But let's check that out. Because I think it's much more likely. That rooftop man was just a decoy who never fired any gun. He was tasked with sprinting away at the right time. And I think it's plausible that while he was running, he dumped his tactical gloves and what's in his hand there is his black jacket and his backpack, which was also described by my eyewitness who was never contacted for some reason. I think he dropped all that by the bus stop near <span id="ent-org-ira-a-and-mary-lou-fulton-library-t-00-14-58"><a href="/entities/org-ira-a-and-mary-lou-fulton-library.md">Fulton Library</a></span>. ^t-00-14-58
 
-**<a href="/timestamps/ep-N4uM8Jdr410/t-00-15-42.md" class="timestamp-link">00:15:42</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=942" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And those items, as we learned, were then recovered by Sergeant <span id="ent-person-jennifer-faumuina-t-00-15-42"><a href="/entities/person-jennifer-faumuina.md">Jennifer Faumuina</a></span> of the State Bureau of Investigations, her office. And I have to say this, <a href="/entities/person-jennifer-faumuina.md">Jennifer Faumuina</a> rubs me the wrong way. Can't explain it. It's the vibe. It's her entire posture as she randomly blanks out on what could be a crucial piece of evidence: 'I don't recall.' I don't recall. Oh, you don't recall whether you signed off on the <span id="ent-org-fbi-t-00-15-42"><a href="/entities/org-fbi.md">FBI</a></span> not testing a backpack, gloves, potential tactical gear that were abandoned upon the exact path that the shooter ran. You just don't recall that. Who are you, Sergeant <a href="/entities/person-jennifer-faumuina.md">Jennifer Faumuina</a>? ^t-00-15-42
+**<a href="/timestamps/ep-N4uM8Jdr410/t-00-15-42.md" class="timestamp-link">00:15:42</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=942" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And those items, as we learned, were then recovered by <a href="/entities/person-jennifer-faumuina.md">Sergeant Jennifer Faumuina</a> of the State Bureau of Investigations, her office. And I have to say this, <span id="ent-person-jennifer-faumuina-t-00-15-42"><a href="/entities/person-jennifer-faumuina.md">Jennifer Faumuina</a></span> rubs me the wrong way. Can't explain it. It's the vibe. It's her entire posture as she randomly blanks out on what could be a crucial piece of evidence: 'I don't recall.' I don't recall. Oh, you don't recall whether you signed off on the <span id="ent-org-fbi-t-00-15-42"><a href="/entities/org-fbi.md">FBI</a></span> not testing a backpack, gloves, potential tactical gear that were abandoned upon the exact path that the shooter ran. You just don't recall that. Who are you, <a href="/entities/person-jennifer-faumuina.md">Sergeant Jennifer Faumuina</a>? ^t-00-15-42
 
 **<a href="/timestamps/ep-N4uM8Jdr410/t-00-16-23.md" class="timestamp-link">00:16:23</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=983" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Over the weekend, a lot of people noted that she appeared, indeed she did, on season two, episode one of the <span id="ent-org-netflix-t-00-16-23"><a href="/entities/org-netflix.md">Netflix</a></span> show called <span id="ent-work-worst-roommate-ever-t-00-16-23"><a href="/entities/work-worst-roommate-ever.md">Worst Roommate Ever</a></span>, where she indicates that she worked with the <span id="ent-org-fbi-t-00-16-23"><a href="/entities/org-fbi.md">FBI</a></span>'s <span id="ent-org-joint-terrorism-task-forces-t-00-16-23"><a href="/entities/org-joint-terrorism-task-forces.md">joint terrorism task force</a></span>. Here's what she says. Take a listen. ^t-00-16-23
 
@@ -188,7 +188,7 @@ youtube_url: "https://www.youtube.com/watch?v=N4uM8Jdr410"
 
 **<a href="/timestamps/ep-N4uM8Jdr410/t-00-22-50.md" class="timestamp-link">00:22:50</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1370" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** By the way, speaking of gangs and back to Ms. <a href="/entities/person-jennifer-faumuina.md">Jennifer Faumuina</a>, she recently revealed in a podcast, don't tell me why she's also doing podcasts, apparently she likes the media and cameras, she revealed that her sister was a social worker within the state of <span id="ent-gpe-utah-t-00-22-50"><a href="/entities/gpe-utah.md">Utah</a></span>. And of course, that allowed me an entry point to learn all about her family history. You know me and genealogy. It's a thing. I just need to know what everybody's mamas and great-grandmamas— —were doing at all times. And regarding <span id="ent-person-jennifer-faumuina-t-00-22-50"><a href="/entities/person-jennifer-faumuina.md">Jennifer</a></span>, a really terrible thing happened in the Faumuina family down in <span id="ent-gpe-hawaii-t-00-22-50"><a href="/entities/gpe-hawaii.md">Hawaii</a></span> in 1995. ^t-00-22-50
 
-**<a href="/timestamps/ep-N4uM8Jdr410/t-00-23-25.md" class="timestamp-link">00:23:25</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1405" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Her father, a man named Sepina—spelled phonetically, just as I'm saying it—Sepina Faumuina, was very vocal and in the news speaking out about it, because it involved the homicide of his brother. Sergeant <span id="ent-person-jennifer-faumuina-t-00-23-25"><a href="/entities/person-jennifer-faumuina.md">Jennifer Faumuina</a></span>'s uncle was killed. Now, apparently, his name was Misiona Amina. Apparently, he was in a gang with his friends and as a part of a ritual in the gang, he took a beating. And I'm going to spare you the details because they are quite horrific, but it was graphic and it was brutal. And Misiona survived the beating, but after being transported to the hospital, he later on succumbed to his injuries<span id="event-event-1995-misiona-amina-died-after-a-gang-initiati-t-00-23-25"><a href="/events/event-1995-misiona-amina-died-after-a-gang-initiati.md" class="event-indicator" title="Timeline event">📅</a></span> and it was this big case. ^t-00-23-25
+**<a href="/timestamps/ep-N4uM8Jdr410/t-00-23-25.md" class="timestamp-link">00:23:25</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1405" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Her father, a man named Sepina—spelled phonetically, just as I'm saying it—Sepina Faumuina, was very vocal and in the news speaking out about it, because it involved the homicide of his brother. <span id="ent-person-jennifer-faumuina-t-00-23-25"><a href="/entities/person-jennifer-faumuina.md">Sergeant Jennifer Faumuina</a></span>'s uncle was killed. Now, apparently, his name was Misiona Amina. Apparently, he was in a gang with his friends and as a part of a ritual in the gang, he took a beating. And I'm going to spare you the details because they are quite horrific, but it was graphic and it was brutal. And Misiona survived the beating, but after being transported to the hospital, he later on succumbed to his injuries<span id="event-event-1995-misiona-amina-died-after-a-gang-initiati-t-00-23-25"><a href="/events/event-1995-misiona-amina-died-after-a-gang-initiati.md" class="event-indicator" title="Timeline event">📅</a></span> and it was this big case. ^t-00-23-25
 
 **<a href="/timestamps/ep-N4uM8Jdr410/t-00-24-08.md" class="timestamp-link">00:24:08</a> <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1448" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Because there were arguments that went back and forth. Frankly, the arguments were bizarre. The defense made it clear that these guys were all friends. It's just a part of like initiation rituals. And they must have proven their case because the three kids that were involved got charged with like second degree manslaughter. It was just this was a part of what the Samoan guys do as a ritual for gang initiation. Even more curious, was <span id="ent-person-jennifer-faumuina-t-00-24-08"><a href="/entities/person-jennifer-faumuina.md">Jennifer</a></span>'s father asserting in the press that his brother, her uncle, was a devout <span id="ent-concept-mormonism-t-00-24-08"><a href="/entities/concept-mormonism.md">Mormon</a></span>? Again, I'm just going: devout <a href="/entities/concept-mormonism.md">Mormon</a>, gang member. We can take a peek at this together so you can see here what we're talking about. ^t-00-24-08
 
@@ -381,7 +381,7 @@ youtube_url: "https://www.youtube.com/watch?v=N4uM8Jdr410"
 </details>
 
 <details>
-<summary><strong>Statements (38)</strong></summary>
+<summary><strong>Statements (52)</strong></summary>
 
 - [00:03:40](#t-00-03-40) [✓] (Opinion) **Rob O'Neill**: ["Robert O'Neill said he was not alleging a conspiracy or naming a culprit, only t..."](/statements/statement-013aadba7232.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -389,6 +389,8 @@ youtube_url: "https://www.youtube.com/watch?v=N4uM8Jdr410"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:04:01](#t-00-03-40) [✓] (Accusation) **Rob O'Neill**: ["Robert O'Neill accused people at the scene of being more concerned with removing..."](/statements/statement-a6a9e9295417.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:04:12](#t-00-03-40) [○] (Claim) **Rob O'Neill**: ["Robert O'Neill said he had been told the area was paved over a couple of days af..."](/statements/statement-199af7719579.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 - [00:06:01](#t-00-06-01) [✓] (Opinion) **Blaine D. Holt**: ["Blaine Holt rejected the claim that the bullet might have hit Charlie Kirk's spi..."](/statements/statement-918d0297b2aa.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:06:20](#t-00-06-01) [✓] (Accusation) **Blaine D. Holt**: ["Blaine Holt accused the Justice Department of foisting a 'garbage' account that ..."](/statements/statement-8904fcb79968.md)
@@ -405,14 +407,22 @@ youtube_url: "https://www.youtube.com/watch?v=N4uM8Jdr410"
   - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
 - [00:12:59](#t-00-12-59) [✓] (Claim) **Dan Bongino**: ["Dan Bongino said the suspect was not cooperating and the available video was gra..."](/statements/statement-94f2c908e946.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+- [00:13:49](#t-00-13-41) [○] (Accusation) **Candace Owens**: ["Candace Owens contrasted Dan Bongino's early description of grainy footage with ..."](/statements/statement-2f39b7189057.md)
+  - About: [Dan Bongino](/entities/person-dan-bongino.md), [Benny Johnson](/entities/person-benny-johnson.md), [Graham Allen](/entities/person-graham-allen.md)
 - [00:14:48](#t-00-14-15) [✓] (Claim) **Anonymous Source #4 (Ep N4uM8Jdr410)**: ["An anonymous rooftop eyewitness said the man wore a black jacket and tactical ge..."](/statements/statement-1dad3c449079.md)
   - About: [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md)
+- [00:14:48](#t-00-14-15) [○] (Opinion) **Candace Owens**: ["Candace Owens said she believed the blurry rooftop object described publicly as ..."](/statements/statement-866ec339bfbd.md)
+  - About: [Anonymous Source #4 (Ep N4uM8Jdr410)](/entities/anon-src-N4uM8Jdr410-004.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:15:07](#t-00-14-58) [✓] (Accusation) **Candace Owens**: ["Candace Owens said she thought it much more likely that the rooftop man was a de..."](/statements/statement-6e243df3a13c.md)
   - About: [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md)
 - [00:15:23](#t-00-14-58) [✓] (Opinion) **Candace Owens**: ["Candace Owens said she thought it plausible that the rooftop runner dumped tacti..."](/statements/statement-c259c4a5ec96.md)
   - About: [Ira A. and Mary Lou Fulton Library](/entities/org-ira-a-and-mary-lou-fulton-library.md)
+- [00:15:23](#t-00-14-58) [○] (Claim) **Candace Owens**: ["Candace Owens said her rooftop eyewitness, who described a black jacket and back..."](/statements/statement-c3ace0cdac30.md)
+  - About: [Anonymous Source #4 (Ep N4uM8Jdr410)](/entities/anon-src-N4uM8Jdr410-004.md), [FBI](/entities/org-fbi.md)
 - [00:15:42](#t-00-15-42) [○] (Claim) **Candace Owens**: ["Candace Owens said Sergeant Jennifer Faumuina's State Bureau of Investigation of..."](/statements/statement-8dc2a360b06d.md)
   - About: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
+- [00:16:05](#t-00-15-42) [○] (Claim) **Jennifer Faumuina**: ["Jennifer Faumuina reportedly said she did not recall whether she signed off on t..."](/statements/statement-0d9520a55e4a.md)
+  - About: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [FBI](/entities/org-fbi.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
 - [00:16:37](#t-00-16-37) [✓] (Claim) **Jennifer Faumuina**: ["Jennifer Faumuina said she had been with the State Bureau of Investigation for e..."](/statements/statement-91e752cc44db.md)
   - About: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [FBI](/entities/org-fbi.md)
 - [00:17:23](#t-00-16-59) [◐] (Citation) **Candace Owens**: ["Candace Owens said records showed Jennifer Faumuina playing basketball at a priv..."](/statements/statement-ad68f2bea48c.md)
@@ -435,26 +445,44 @@ youtube_url: "https://www.youtube.com/watch?v=N4uM8Jdr410"
   - About: [Kash Patel](/entities/person-kash-patel.md), [Robert Bohls](/entities/person-robert-bohls.md), [FBI Salt Lake City Field Office](/entities/org-fbi-salt-lake-city-field-office.md)
 - [00:22:06](#t-00-22-06) [◐] (Citation) **Candace Owens**: ["Candace Owens said Robert Bohls began his policing career at the Provo Police De..."](/statements/statement-c373b79f6714.md)
   - About: [Robert Bohls](/entities/person-robert-bohls.md), [Provo Police Department](/entities/org-provo-police-department.md), [FBI](/entities/org-fbi.md)
+- [00:22:31](#t-00-22-06) [○] (Opinion) **Candace Owens**: ["Candace Owens said the cluster of new Utah appointments before the assassination..."](/statements/statement-90df00b91bb1.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Beau Mason](/entities/person-beau-mason.md), [Robert Bohls](/entities/person-robert-bohls.md)
 - [00:26:36](#t-00-26-10) [○] (Opinion) **Courtney Love**: ["Courtney Love described a 'Mormon mafia' as an extension of a 'Zionist mafia,' a..."](/statements/statement-483cd75f93c0.md)
   - About: [Mormonism](/entities/concept-mormonism.md), [Zionism](/entities/concept-zionism.md)
 - [00:26:56](#t-00-26-52) [○] (Accusation) **Candace Owens**: ["Candace Owens said she had not abandoned her 'deep sense' that Israel was involv..."](/statements/statement-2b91db9060e1.md)
   - About: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:27:20](#t-00-26-52) [○] (Opinion) **Candace Owens**: ["Candace Owens said the assassination occurring in 'Mormon territory' was curious..."](/statements/statement-e525d819a3fb.md)
+  - About: [Utah](/entities/gpe-utah.md), [Israel](/entities/gpe-israel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:31:32](#t-00-31-32) [✓] (Claim) **Frank Turek**: ["Frank Turek said no CPR was performed during most of the ride to the hospital, b..."](/statements/statement-21f69ed8e965.md)
   - About: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:33:06](#t-00-32-59) [✓] (Opinion) **Frank Turek**: ["Frank Turek said eyewitnesses disagreeing on minor details is a mark of authenti..."](/statements/statement-09e8e1de11ab.md)
   - About: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md)
 - [00:35:22](#t-00-35-22) [✓] (Accusation) **Candace Owens**: ["Candace Owens said she thought either Frank Turek or Brian Harpole lied about CP..."](/statements/statement-000a70eceff7.md)
   - About: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+- [00:36:21](#t-00-36-05) [○] (Claim) **Candace Owens**: ["Candace Owens said Blake Neff first said he stayed in Orem, later changed the lo..."](/statements/statement-728acaa0a10a.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Orem](/entities/gpe-orem.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
+- [00:36:59](#t-00-36-59) [○] (Opinion) **Blake Neff**: ["Blake Neff said he interpreted a question about staying in Orem as a question ab..."](/statements/statement-2e648c420a02.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Orem](/entities/gpe-orem.md), [Utah](/entities/gpe-utah.md)
 - [00:37:14](#t-00-37-08) [✓] (Claim) **Blake Neff**: ["Blake Neff said that, to his knowledge, he stayed at basically the same hotel as..."](/statements/statement-b592fae6969b.md)
   - About: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
+- [00:38:26](#t-00-37-59) [○] (Opinion) **Candace Owens**: ["Candace Owens questioned why Salt Lake City served as the hub for TPUSA personne..."](/statements/statement-33a1bff2e831.md)
+  - About: [Salt Lake City](/entities/gpe-salt-lake-city.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Restaurantology](/entities/work-restaurantology.md)
+- [00:38:34](#t-00-38-34) [○] (Opinion) **Candace Owens**: ["Candace Owens said anticipation of the vice president's arrival near Salt Lake C..."](/statements/statement-ef4f9c2b69a0.md)
+  - About: [Salt Lake City](/entities/gpe-salt-lake-city.md), [JD Vance](/entities/person-jd-vance.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:39:13](#t-00-38-34) [○] (Claim) **Candace Owens**: ["Candace Owens said she contacted Turning Point USA staffers and they had no idea..."](/statements/statement-2287baae0819.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:40:30](#t-00-40-03) [○] (Claim) **Candace Owens**: ["Candace Owens said nobody had accused Andrew Kolvet or his brother of being at F..."](/statements/statement-49bff19480a8.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Anonymous Source #5 (Ep N4uM8Jdr410)](/entities/anon-src-N4uM8Jdr410-005.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [00:41:12](#t-00-40-44) [○] (Claim) **Anonymous Source #5 (Ep N4uM8Jdr410)**: ["Andrew Kolvet's unnamed lieutenant-colonel brother said he never worked at Fort ..."](/statements/statement-00d8c92818d3.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [00:42:08](#t-00-42-08) [○] (Accusation) **Candace Owens**: ["Candace Owens said she thought Andrew Kolvet had heard of Fort Huachuca and was ..."](/statements/statement-c2aedde67d42.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [00:45:35](#t-00-45-35) [✓] (Promise) **Candace Owens**: ["Candace Owens promised to reveal before the end of the week who had told people ..."](/statements/statement-04ee0e537e1f.md)
   - About: [Ben Shapiro](/entities/person-ben-shapiro.md)
+- [00:49:28](#t-00-48-55) [○] (Citation) **Candace Owens**: ["Candace Owens referred to a claim that Tyler Robinson met with three TPUSA peopl..."](/statements/statement-7a33b32da257.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:49:35](#t-00-49-35) [○] (Prediction) **Candace Owens**: ["Candace Owens said she had a strong intuition about which TPUSA person would lat..."](/statements/statement-c5633f5571aa.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:51:49](#t-00-51-41) [✓] (Claim) **Candace Owens**: ["Candace Owens said Tucker Carlson, Bret Weinstein, and Joe Kent had all confirme..."](/statements/statement-c61a4715d355.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Bret Weinstein](/entities/person-bret-weinstein.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:51:49](#t-00-51-41) [○] (Opinion) **Candace Owens**: ["Candace Owens said she believed Erika Kirk had more loyalty to the people who br..."](/statements/statement-4595d3b96b44.md)

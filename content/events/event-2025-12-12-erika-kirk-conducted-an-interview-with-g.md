@@ -41,7 +41,7 @@ date: "2025-12-12"
 ### 3. Behind The Scenes Of The Great Debate: TPUSA Is The Biggest ...
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
-**Timestamp:** [00:19:58](/episodes/ep-E7P2ShoYDUA.md#event-event-2025-12-12-erika-kirk-conducted-an-interview-with-g-t-00-19-58) 
+**Timestamp:** [00:19:58](/episodes/ep-E7P2ShoYDUA.md#event-event-2025-12-12-erika-kirk-conducted-an-interview-with-g-t-00-19-48) 
 <a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=1198s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is in December that she's joining Glenn Beck, mid-December that she is joining Glenn Beck

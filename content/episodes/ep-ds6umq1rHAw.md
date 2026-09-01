@@ -1,14 +1,14 @@
 ---
 id: "ds6umq1rHAw"
 title: "Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364"
-description: "Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 - 142 entities, 19 events, 25 factual claims"
+description: "Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 - 142 entities, 19 events, 27 factual claims"
 published: "2026-07-22"
 youtube_url: "https://www.youtube.com/watch?v=ds6umq1rHAw"
 ---
 
 **Published:** 2026-07-22 | [Watch on YouTube](https://www.youtube.com/watch?v=ds6umq1rHAw)
 
-**Stats:** 142 entities | 19 events | 25 factual claims
+**Stats:** 142 entities | 19 events | 27 factual claims
 
 ---
 
@@ -353,7 +353,7 @@ youtube_url: "https://www.youtube.com/watch?v=ds6umq1rHAw"
 </details>
 
 <details>
-<summary><strong>Statements (45)</strong></summary>
+<summary><strong>Statements (52)</strong></summary>
 
 - [00:02:33](#t-00-02-08) [○] (Opinion) **Candace Owens**: ["Candace Owens said that, based on her personal experience, she believes a Zionis..."](/statements/statement-81e98c7a8b2f.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Hollywood](/entities/gpe-hollywood.md)
@@ -369,6 +369,8 @@ youtube_url: "https://www.youtube.com/watch?v=ds6umq1rHAw"
   - About: [Benjamin M. Emanuel](/entities/person-benjamin-m-emanuel.md), [Irgun](/entities/org-irgun.md), [Ari Emanuel](/entities/person-ari-emanuel.md)
 - [00:07:59](#t-00-07-38) [○] (Accusation) **Candace Owens**: ["Owens said Zionists had threatened her livelihood and gang-stalked her through t..."](/statements/statement-678c263d7e22.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
+- [00:08:19](#t-00-08-19) [○] (Opinion) **Candace Owens**: ["Owens explicitly said the term 'Mormon Mafia' was not an accusation against ever..."](/statements/statement-1072c66a32a8.md)
+  - About: [Mormonism](/entities/concept-mormonism.md)
 - [00:08:52](#t-00-08-52) [✓] (Citation) **Candace Owens**: ["Owens cited the colloquial term Mormon Mafia as referring to the trusted Latter-..."](/statements/statement-14169ba75c0a.md)
   - About: [Mormon Mafia](/entities/concept-mormon-mafia.md), [Howard Hughes](/entities/person-howard-hughes.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
 - [00:12:03](#t-00-12-03) [✓] (Claim) **Candace Owens**: ["Owens said Howard Hughes shut RKO down for six months in 1948 to investigate eve..."](/statements/statement-3632cd94c9e0.md)
@@ -383,6 +385,8 @@ youtube_url: "https://www.youtube.com/watch?v=ds6umq1rHAw"
   - About: [Howard Hughes](/entities/person-howard-hughes.md)
 - [00:16:38](#t-00-16-15) [✓] (Claim) **Candace Owens**: ["Owens said Howard Hughes died aboard a jet owned by Robert Graf, whose company b..."](/statements/statement-3b3e9a3bd01a.md)
   - About: [Howard Hughes](/entities/person-howard-hughes.md), [Robert Graf](/entities/person-robert-graf.md), [Duncan Aviation](/entities/org-duncan-aviation.md)
+- [00:16:46](#t-00-16-15) [○] (Opinion) **Candace Owens**: ["Owens said Robert Graf's surname may prompt comparison to Judge Tony Graf, but s..."](/statements/statement-c1cd1b32735d.md)
+  - About: [Robert Graf](/entities/person-robert-graf.md), [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)
 - [00:18:01](#t-00-18-01) [✓] (Citation) **Candace Owens**: ["Owens cited an investigation as finding that someone administered Howard Hughes ..."](/statements/statement-0876e04e1e3e.md)
   - About: [Howard Hughes](/entities/person-howard-hughes.md)
 - [00:18:16](#t-00-18-01) [✓] (Citation) **Candace Owens**: ["Owens said the investigation found five broken hypodermic needles in Howard Hugh..."](/statements/statement-def5b5f432d4.md)
@@ -403,6 +407,10 @@ youtube_url: "https://www.youtube.com/watch?v=ds6umq1rHAw"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Mormonism](/entities/concept-mormonism.md)
 - [00:25:17](#t-00-25-17) [○] (Claim) **Candace Owens**: ["Erika Kirk told Candace Owens that she might have met Tyler Bowyer through a sen..."](/statements/statement-eb28de4d75c3.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+- [00:25:17](#t-00-25-17) [○] (Claim) **Candace Owens**: ["Owens said the Bowyer and Farnsworth-associated families knew Erika Kirk before ..."](/statements/statement-a573e03efe2f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+- [00:25:17](#t-00-25-17) [○] (Claim) **Candace Owens**: ["Owens said Tyler Bowyer handled Turning Point USA's money, that she had text mes..."](/statements/statement-16e283e46763.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point Action](/entities/org-turning-point-action.md)
 - [00:26:17](#t-00-25-58) [○] (Claim) **Candace Owens**: ["Owens said Tyler Bowyer told her Turning Point USA would never stop being pro-Is..."](/statements/statement-a040ffec0321.md)
   - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Israel](/entities/gpe-israel.md)
 - [00:26:36](#t-00-26-36) [✓] (Opinion) **Charlie Kirk**: ["Charlie Kirk wrote that he had no choice but to abandon the pro-Israel cause."](/statements/statement-f70b394e5bb6.md)
@@ -419,6 +427,8 @@ youtube_url: "https://www.youtube.com/watch?v=ds6umq1rHAw"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:28:24](#t-00-28-01) [○] (Accusation) **Candace Owens**: ["Owens accused Andrew Kolvet of falsely claiming Ben Shapiro and Charlie Kirk wer..."](/statements/statement-eee389f4a24c.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:29:42](#t-00-29-25) [○] (Opinion) **Candace Owens**: ["Owens compared Kirk's final period to Howard Hughes relying on lieutenants, bela..."](/statements/statement-153c396d13e8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Howard Hughes](/entities/person-howard-hughes.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:36:00](#t-00-35-38) [✓] (Claim) **Andrew Kolvet**: ["Andrew Kolvet wrote that Turning Point USA never received a Daily Mail request f..."](/statements/statement-e4aa05418158.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Daily Mail](/entities/org-daily-mail.md)
 - [00:36:25](#t-00-36-18) [✓] (Accusation) **Andrew Kolvet**: ["Andrew Kolvet wrote that not one word attributed by the Daily Mail anonymous sou..."](/statements/statement-1c520220288e.md)
@@ -435,6 +445,8 @@ youtube_url: "https://www.youtube.com/watch?v=ds6umq1rHAw"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Unnamed surgeon discussed in Episode 364](/entities/anon-src-ds6umq1rHAw-unnamed-surgeon.md)
 - [00:43:26](#t-00-42-57) [✓] (Claim) **Candace Owens**: ["Owens definitively denied having anything to do with the Daily Mail article."](/statements/statement-8c7ae5b38e8f.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Daily Mail](/entities/org-daily-mail.md)
+- [00:44:37](#t-00-44-12) [○] (Opinion) **Candace Owens**: ["Owens rejected viewers' suggestion that the SUV's black-and-brown interior panel..."](/statements/statement-116a0ce0e1c8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:45:08](#t-00-44-49) [◐] (Claim) **Candace Owens**: ["Owens said it was a fact that Michael McCoy had two phones when he and Charlie K..."](/statements/statement-c70b2d29b47d.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:45:41](#t-00-45-30) [✓] (Claim) **Blake Neff**: ["Blake Neff said that after putting that phone away, Michael McCoy immediately ca..."](/statements/statement-af8ece3aa136.md)
@@ -443,6 +455,8 @@ youtube_url: "https://www.youtube.com/watch?v=ds6umq1rHAw"
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:47:01](#t-00-46-33) [○] (Opinion) **Unnamed seamstress email source (Episode 364)**: ["An unnamed seamstress with more than 20 years experience wrote that the burned i..."](/statements/statement-9c7d657d6f46.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Baron Coleman](/entities/person-baron-coleman.md)
+- [00:48:09](#t-00-47-49) [○] (Opinion) **Candace Owens**: ["Owens said the volume of industry emails made the shirt identification plausible..."](/statements/statement-9d0a0a36a310.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:54:04](#t-00-53-45) [○] (Prediction) **Candace Owens**: ["Owens said the coordinated Sandy Hook messaging made her believe the next plan w..."](/statements/statement-19c478e2ce90.md)
   - About: [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 

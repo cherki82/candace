@@ -61,7 +61,7 @@ date: "2025-09-09"
 ### 6. We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland...
 
 **Episode:** [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md)
-**Timestamp:** [00:46:47](/episodes/ep-JrhGEm8MGRY.md#event-event-2025-09-09-charlie-kirk-texted-tpusa-employees-that-t-00-46-39)
+**Timestamp:** [00:46:47](/episodes/ep-JrhGEm8MGRY.md#event-event-2025-09-09-charlie-kirk-texted-tpusa-employees-that-t-00-46-39) 
 <a href="https://www.youtube.com/watch?v=JrhGEm8MGRY&t=2807s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > he had texted multiple people on September 9th saying that he wanted me back.

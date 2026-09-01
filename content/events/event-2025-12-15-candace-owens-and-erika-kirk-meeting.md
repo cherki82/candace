@@ -85,10 +85,10 @@ date: "2025-12-15"
 ### 9. Behind The Scenes Of The Great Debate: TPUSA Is The Biggest ...
 
 **Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
-**Timestamp:** [00:20:15](/episodes/ep-E7P2ShoYDUA.md#t-00-19-58) 
+**Timestamp:** [00:20:15](/episodes/ep-E7P2ShoYDUA.md#event-event-2025-12-15-candace-owens-and-erika-kirk-meeting-t-00-20-15) 
 <a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=1215s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> days after that is when Erika then came to Nashville and we had this summit
+> that she has his phone. Then Turning Point tried to claim—which we met days after, because that's
 
 ### 10. SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | ...
 

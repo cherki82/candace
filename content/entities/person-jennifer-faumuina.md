@@ -10,6 +10,8 @@ aliases:
   - "Sergeant Jennifer Philomena"
   - "Sergeant Faumina"
   - "Sergeant Philomena"
+  - "Sergeant Faumuina"
+  - "Sergeant Jennifer Faumuina"
 categories:
   - "Utah law enforcement"
   - "State Bureau of Investigation"
@@ -21,7 +23,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Jennifer Faumina, Jennifer Philomena, Sergeant Jennifer Faumina, Sergeant Jennifer Philomena, Sergeant Faumina, Sergeant Philomena
+**Also known as:** Jennifer Faumina, Jennifer Philomena, Sergeant Jennifer Faumina, Sergeant Jennifer Philomena, Sergeant Faumina, Sergeant Philomena, Sergeant Faumuina, Sergeant Jennifer Faumuina
 
 **Categories:** Utah law enforcement, State Bureau of Investigation, Joint Terrorism Task Force, court witness, Utah Valley University public safety, Charlie Kirk case
 
@@ -34,10 +36,10 @@ Source: [How 3-D technology helps state investigators quickly gather crime scene
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-jennifer-faumuina-t-00-26-10">2026-07-20 · 00:26:10</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
-<div><span>Statements by</span><strong>8</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements by</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -58,6 +60,10 @@ Source: [How 3-D technology helps state investigators quickly gather crime scene
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -119,7 +125,7 @@ Source: [How 3-D technology helps state investigators quickly gather crime scene
 **[00:14:46](/episodes/ep-mLvJqdxS-FY.md#ent-person-jennifer-faumuina-t-00-14-20)**
 > "Now, I want you to also take a listen again, we played this for you yesterday, to Sergeant Jennifer Faumuina."
 
-**[00:21:18](/episodes/ep-mLvJqdxS-FY.md#ent-person-jennifer-faumuina-t-00-14-20)**
+**[00:21:18](/episodes/ep-mLvJqdxS-FY.md#ent-person-jennifer-faumuina-t-00-21-18)**
 > "It belonged to someone on Charlie (Charlie Kirk)'s detail. Who? First and foremost. That's a really important question because we have the people intimately involved in situation who are suddenly developing amnesia who communicate this who's adding notes like who's like ghostwriting and these people's notes like Amanda doesn't remember these notes somebody in the lab added this randomly Faumuina Sergeant Faumuina doesn't remember these ever communicating this who is the hand that is moving this."
 
 </details>
@@ -283,10 +289,13 @@ Source: [How 3-D technology helps state investigators quickly gather crime scene
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Jennifer Faumuina (8)</strong></summary>
+<summary><strong class="section-title">Statements by Jennifer Faumuina (9)</strong></summary>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+
+- [00:16:05](/episodes/ep-N4uM8Jdr410.md#t-00-15-42) [○] (Claim) ["Jennifer Faumuina reportedly said she did not recall whether she signed off on t..."](/statements/statement-0d9520a55e4a.md)
+  - About: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [FBI](/entities/org-fbi.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
 
 - [00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37) [✓] (Claim) ["Jennifer Faumuina said she had been with the State Bureau of Investigation for e..."](/statements/statement-91e752cc44db.md)
   - About: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [FBI](/entities/org-fbi.md)
@@ -327,13 +336,16 @@ Source: [How 3-D technology helps state investigators quickly gather crime scene
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jennifer Faumuina (10)</strong></summary>
+<summary><strong class="section-title">Statements about Jennifer Faumuina (11)</strong></summary>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (7)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (8)</summary>
 
 - [00:15:42](/episodes/ep-N4uM8Jdr410.md#t-00-15-42) (Claim) **Candace Owens**: ["Candace Owens said Sergeant Jennifer Faumuina's State Bureau of Invest..."](/statements/statement-8dc2a360b06d.md)
   - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
+
+- [00:16:05](/episodes/ep-N4uM8Jdr410.md#t-00-15-42) (Claim) **Jennifer Faumuina** (via paraphrase): ["Jennifer Faumuina reportedly said she did not recall whether she signe..."](/statements/statement-0d9520a55e4a.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
 
 - [00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37) (Claim) **Jennifer Faumuina** (via quoted speech): ["Jennifer Faumuina said she had been with the State Bureau of Investiga..."](/statements/statement-91e752cc44db.md)
   - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [FBI](/entities/org-fbi.md), [Joint Terrorism Task Forces](/entities/org-joint-terrorism-task-forces.md)

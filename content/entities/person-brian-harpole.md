@@ -26,7 +26,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <div><span>Episodes</span><strong>52</strong></div>
 <div><span>Mentions</span><strong>341</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
-<div><span>Statements about</span><strong>118</strong></div>
+<div><span>Statements about</span><strong>121</strong></div>
 <div><span>Relationships</span><strong>36</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1987,7 +1987,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (118)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (121)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
@@ -2023,6 +2023,17 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2)</summary>
+
+- [00:07:26](/episodes/ep-OgRyiOAVtWU.md#t-00-06-48) (Opinion) **Candace Owens**: ["Owens said she was not attributing the possible glove to Brian Harpole..."](/statements/statement-53aa08c0b786.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:08:04](/episodes/ep-OgRyiOAVtWU.md#t-00-07-26) (Accusation) **Candace Owens**: ["Owens asked where the scissors Brian Harpole said he used to cut Kirk'..."](/statements/statement-8b9f3b3c3be1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>
 
 - [00:31:32](/episodes/ep-N4uM8Jdr410.md#t-00-31-32) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said no CPR was performed during most of the ride to the h..."](/statements/statement-21f69ed8e965.md)
@@ -2053,10 +2064,13 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (2)</summary>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (3)</summary>
 
 - [00:09:36](/episodes/ep-a2bZf4fic10.md#t-00-09-15) (Accusation) **Candace Owens**: ["Owens said Frank Turek's and Brian Harpole's repeated public accounts ..."](/statements/statement-50f9f22fee7f.md)
   - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:15:36](/episodes/ep-a2bZf4fic10.md#t-00-15-10) (Claim) **Candace Owens**: ["Owens said the black bag shown in the SUV appeared to be a SantaMedica..."](/statements/statement-b3434123ac57.md)
+  - Also about: [SantaMedical](/entities/org-santamedical.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:21:03](/episodes/ep-a2bZf4fic10.md#t-00-20-35) (Accusation) **Candace Owens**: ["Owens accused Brian Harpole and the security team of incompetently car..."](/statements/statement-680885110245.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)

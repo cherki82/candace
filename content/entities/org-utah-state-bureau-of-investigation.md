@@ -27,7 +27,7 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 <div><span>Episodes</span><strong>10</strong></div>
 <div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -270,7 +270,7 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah State Bureau of Investigation (9)</strong></summary>
+<summary><strong class="section-title">Statements about Utah State Bureau of Investigation (10)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -298,10 +298,13 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 </details>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>
 
 - [00:15:42](/episodes/ep-N4uM8Jdr410.md#t-00-15-42) (Claim) **Candace Owens**: ["Candace Owens said Sergeant Jennifer Faumuina's State Bureau of Invest..."](/statements/statement-8dc2a360b06d.md)
   - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md)
+
+- [00:16:05](/episodes/ep-N4uM8Jdr410.md#t-00-15-42) (Claim) **Jennifer Faumuina** (via paraphrase): ["Jennifer Faumuina reportedly said she did not recall whether she signe..."](/statements/statement-0d9520a55e4a.md)
+  - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [FBI](/entities/org-fbi.md)
 
 - [00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37) (Claim) **Jennifer Faumuina** (via quoted speech): ["Jennifer Faumuina said she had been with the State Bureau of Investiga..."](/statements/statement-91e752cc44db.md)
   - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [FBI](/entities/org-fbi.md), [Joint Terrorism Task Forces](/entities/org-joint-terrorism-task-forces.md)

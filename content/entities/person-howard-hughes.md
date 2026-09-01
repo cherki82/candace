@@ -28,9 +28,9 @@ Source: [Howard Robard Hughes Jr. | Texas State Historical Association](https://
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -49,6 +49,10 @@ Source: [Howard Robard Hughes Jr. | Texas State Historical Association](https://
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -282,10 +286,10 @@ Source: [Howard Robard Hughes Jr. | Texas State Historical Association](https://
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Howard Hughes (11)</strong></summary>
+<summary><strong class="section-title">Statements about Howard Hughes (12)</strong></summary>
 
 <details>
-<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (11)</summary>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (12)</summary>
 
 - [00:08:52](/episodes/ep-ds6umq1rHAw.md#t-00-08-52) (Citation) **Candace Owens**: ["Owens cited the colloquial term Mormon Mafia as referring to the trust..."](/statements/statement-14169ba75c0a.md)
   - Also about: [Mormon Mafia](/entities/concept-mormon-mafia.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
@@ -316,6 +320,9 @@ Source: [Howard Robard Hughes Jr. | Texas State Historical Association](https://
 
 - [00:20:40](/episodes/ep-ds6umq1rHAw.md#t-00-20-31) (Claim) **Candace Owens**: ["Owens said Frank William Gay became a Howard Hughes Medical Institute ..."](/statements/statement-6bff5f1d2822.md)
   - Also about: [Frank William Gay](/entities/person-frank-william-gay.md), [Howard Hughes Medical Institute](/entities/org-howard-hughes-medical-institute.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+- [00:29:42](/episodes/ep-ds6umq1rHAw.md#t-00-29-25) (Opinion) **Candace Owens**: ["Owens compared Kirk's final period to Howard Hughes relying on lieuten..."](/statements/statement-153c396d13e8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

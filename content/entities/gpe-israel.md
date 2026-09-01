@@ -29,7 +29,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div><span>Episodes</span><strong>143</strong></div>
 <div><span>Mentions</span><strong>1,583</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>340</strong></div>
+<div><span>Statements about</span><strong>345</strong></div>
 <div><span>Relationships</span><strong>74</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -6423,7 +6423,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (340)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (345)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
@@ -6434,13 +6434,16 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (3)</summary>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (4)</summary>
 
 - [00:30:21](/episodes/ep-E7P2ShoYDUA.md#t-00-30-21) (Opinion) **Candace Owens**: ["Owens said she could not say with certainty that Israel called the sho..."](/statements/statement-1e416e9de5f3.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:30:39](/episodes/ep-E7P2ShoYDUA.md#t-00-30-39) (Claim) **Andrew Wilson**: ["Andrew Wilson said there was no positive evidence that Israel, France,..."](/statements/statement-111b4a14a165.md)
   - Also about: [France](/entities/gpe-france.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:24:23](/episodes/ep-E7P2ShoYDUA.md#t-01-24-18) (Opinion) **Candace Owens**: ["Candace Owens said Wilson's prioritization of defending Israel rather ..."](/statements/statement-41119b6f7001.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md)
 
 - [01:24:56](/episodes/ep-E7P2ShoYDUA.md#t-01-24-18) (Promise) **Candace Owens**: ["Owens said people should examine possible Israeli involvement in Charl..."](/statements/statement-8b39ad285030.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -6539,21 +6542,35 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>
 
-- [00:26:56](/episodes/ep-N4uM8Jdr410.md#t-00-26-52) (Accusation) **Candace Owens**: ["Candace Owens said she had not abandoned her 'deep sense' that Israel ..."](/statements/statement-2b91db9060e1.md)
+- [00:48:54](/episodes/ep-OgRyiOAVtWU.md#t-00-48-54) (Opinion) **David Freiheit** (via quoted speech): ["David Freiheit acknowledged issues with the prosecution, investigation..."](/statements/statement-3b14e5998433.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
 <details>
-<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (2)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+
+- [00:26:56](/episodes/ep-N4uM8Jdr410.md#t-00-26-52) (Accusation) **Candace Owens**: ["Candace Owens said she had not abandoned her 'deep sense' that Israel ..."](/statements/statement-2b91db9060e1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:27:20](/episodes/ep-N4uM8Jdr410.md#t-00-26-52) (Opinion) **Candace Owens**: ["Candace Owens said the assassination occurring in 'Mormon territory' w..."](/statements/statement-e525d819a3fb.md)
+  - Also about: [Utah](/entities/gpe-utah.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (3)</summary>
 
 - [00:34:37](/episodes/ep-puuMVxEu5NU.md#t-00-34-13) (Citation) **Candace Owens**: ["Owens cited FARA filings as showing that Israel's foreign minister hir..."](/statements/statement-22d7ca02573b.md)
   - Also about: [Brad Parscale](/entities/person-brad-parscale.md), [Foreign Agents Registration Act](/entities/law-fara.md)
 
 - [00:35:14](/episodes/ep-puuMVxEu5NU.md#t-00-35-03) (Citation) **Candace Owens**: ["Owens said a TIME article reported that Israel's influence campaign sp..."](/statements/statement-576141ac489b.md)
   - Also about: [TIME](/entities/org-time.md), [Brad Parscale](/entities/person-brad-parscale.md)
+
+- [00:36:04](/episodes/ep-puuMVxEu5NU.md#t-00-35-38) (Opinion) **Candace Owens**: ["Owens said the coordinated claim that evidence overwhelmingly proved T..."](/statements/statement-171cce457615.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 
@@ -6586,6 +6603,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:24:40](/episodes/ep-IqHsl7d2dos.md#t-00-24-40) (Claim) **Anonymous Source #2 (Ep IqHsl7d2dos)** (via quoted speech): ["A former Mossad agent said Mossad could create foreign shell companies..."](/statements/statement-134fa8df177a.md)
   - Also about: [Mossad](/entities/org-mossad.md)
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1)</summary>
+
+- [00:51:56](/episodes/ep-a2bZf4fic10.md#t-00-51-43) (Accusation) **J Beam (commenter; identity unverified)** (via read message): ["YouTube commenter Jay Beam alleged that Israel selected and incentiviz..."](/statements/statement-801c95c4b569.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

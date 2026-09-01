@@ -256,7 +256,7 @@ Source: [About | NEXT Management](https://nextmanagement.com/about?location=recr
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:22:10](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-10): “Next Model Management in New York City, Faith Cates, who was the co-founder of it”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28): “Let's get back into this next model management. It was co-founded by Faith Kates. We told you this yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times.”
-- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:22:32](/episodes/ep-IqHsl7d2dos.md#t-00-22-32): “Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Cates and Next Model Management, which he started with Faith Cates, are all listed as defendants in these allegations, which span back decades.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:22:32](/episodes/ep-IqHsl7d2dos.md#t-00-22-32): “Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Kates and Next Model Management, which he started with Faith Kates, are all listed as defendants in these allegations, which span back decades.”
 
 </details>
 
@@ -284,7 +284,7 @@ Source: [About | NEXT Management](https://nextmanagement.com/about?location=recr
 
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:05:02](/episodes/ep-3QJqtW_NOSI.md#t-00-04-45): “Erika Frantzve—while she was living in New York City was hanging around—we discovered she was hanging around at the Next Model Management offices, which was a talent agency that was run by close Jeffrey Epstein friend Faith Kates.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:32:48](/episodes/ep-9CuC1yf8-PU.md#t-00-32-19): “which was owned and operated by a woman named Faith (Faith Kates).”
-- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:20:11](/episodes/ep-IqHsl7d2dos.md#t-00-20-11): “Yes, the one run by Faith Cates, where Erika Kirk was mysteriously involved in quote-unquote modeling apartments.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:20:11](/episodes/ep-IqHsl7d2dos.md#t-00-20-11): “Yes, the one run by Faith Kates, where Erika Kirk was mysteriously involved in quote-unquote modeling apartments.”
 
 </details>
 
@@ -330,7 +330,7 @@ Source: [About | NEXT Management](https://nextmanagement.com/about?location=recr
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:22:10](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-10): “Next Model Management in New York City, Faith Cates, who was the co-founder of it”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28): “Let's get back into this next model management. It was co-founded by Faith Kates. We told you this yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times.”
-- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:22:32](/episodes/ep-IqHsl7d2dos.md#t-00-22-32): “Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Cates and Next Model Management, which he started with Faith Cates, are all listed as defendants in these allegations, which span back decades.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:22:32](/episodes/ep-IqHsl7d2dos.md#t-00-22-32): “Like I said, Jean-Luc Brunel, who is now dead, and MC2, which he ran, and Faith Kates and Next Model Management, which he started with Faith Kates, are all listed as defendants in these allegations, which span back decades.”
 
 </details>
 
@@ -360,7 +360,7 @@ Source: [About | NEXT Management](https://nextmanagement.com/about?location=recr
 
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:05:02](/episodes/ep-3QJqtW_NOSI.md#t-00-04-45): “Erika Frantzve—while she was living in New York City was hanging around—we discovered she was hanging around at the Next Model Management offices, which was a talent agency that was run by close Jeffrey Epstein friend Faith Kates.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:32:48](/episodes/ep-9CuC1yf8-PU.md#t-00-32-19): “which was owned and operated by a woman named Faith (Faith Kates).”
-- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:20:11](/episodes/ep-IqHsl7d2dos.md#t-00-20-11): “Yes, the one run by Faith Cates, where Erika Kirk was mysteriously involved in quote-unquote modeling apartments.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:20:11](/episodes/ep-IqHsl7d2dos.md#t-00-20-11): “Yes, the one run by Faith Kates, where Erika Kirk was mysteriously involved in quote-unquote modeling apartments.”
 
 </details>
 

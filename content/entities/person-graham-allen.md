@@ -22,7 +22,7 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 <div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -264,7 +264,15 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Graham Allen (3)</strong></summary>
+<summary><strong class="section-title">Statements about Graham Allen (4)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:13:49](/episodes/ep-N4uM8Jdr410.md#t-00-13-41) (Accusation) **Candace Owens**: ["Candace Owens contrasted Dan Bongino's early description of grainy foo..."](/statements/statement-2f39b7189057.md)
+  - Also about: [Dan Bongino](/entities/person-dan-bongino.md), [Benny Johnson](/entities/person-benny-johnson.md), [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>

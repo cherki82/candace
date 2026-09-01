@@ -30,7 +30,7 @@ Source: [Merrill Lynch Form 8-K dated September 15, 2008](https://investor.banko
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -51,6 +51,10 @@ Source: [Merrill Lynch Form 8-K dated September 15, 2008](https://investor.banko
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -89,7 +93,7 @@ Source: [Merrill Lynch Form 8-K dated September 15, 2008](https://investor.banko
 > "...llowing the financial crisis, Merrill Lynch was acquired by Bank of America. So it became Ban..."
 
 **[00:22:18](/episodes/ep-X3VKJVJ7cN4.md#ent-org-merrill-lynch-t-00-21-58)**
-> "...s, worked for Bank of America Merrill Lynch in Chicago, Chicago, Chicago, Chicago everywhere."
+> "That's going to become relevant because Danny Phillips' father, Stephen Phillips, worked for Bank of America Merrill Lynch in Chicago, Chicago, Chicago, Chicago everywhere."
 
 **[00:22:31](/episodes/ep-X3VKJVJ7cN4.md#ent-org-merrill-lynch-t-00-21-58)**
 > "... he worked at Bank of America Merrill Lynch in Chicago, so did Tyler Bowyer's father, major e..."
