@@ -44,7 +44,7 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 
 ## Reviewed theory threads
 
-- [How the UVU drone account changed](/threads/thread-uvu-security-drone-account) — Tracks competing accounts of whether drones were available before the September 10 UVU event, followed by a lawyerly distinction between security and media-production flights.
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

@@ -33,7 +33,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>173</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
-<div><span>Threads</span><strong>2</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -139,8 +139,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 
 ## Reviewed theory threads
 
-- [How the rifle evidence was characterized](/threads/thread-charlie-kirk-rifle-evidence) — Tracks the public account from DNA on the recovered rifle through disputed bullet matching and the later ATF distinction between a matching cartridge case and inconclusive bullet fragments.
-- [How the Egyptian-plane theory expanded](/threads/thread-egyptian-plane-purpose) — Tracks the on-channel progression from Egyptian personnel allegedly being in Utah, through claims that two aircraft tracked Charlie and Erika Kirk, to competing hypotheses about who operated or used the planes.
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

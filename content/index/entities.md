@@ -2,7 +2,7 @@
 title: "Entities"
 ---
 
-_Total entities: 4651_
+_Total entities: 4652_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -41,7 +41,7 @@ _Total entities: 4651_
   <label for="tab-org" class="tab-btn">Organizations (1067)</label>
   <label for="tab-gpe" class="tab-btn">Places (496)</label>
   <label for="tab-event" class="tab-btn">Events (54)</label>
-  <label for="tab-concept" class="tab-btn">Concepts (308)</label>
+  <label for="tab-concept" class="tab-btn">Concepts (309)</label>
   <label for="tab-date" class="tab-btn">Dates (58)</label>
   <label for="tab-vehicle" class="tab-btn">Vehicles (26)</label>
   <label for="tab-work" class="tab-btn">Works & Media (329)</label>
@@ -15317,7 +15317,7 @@ _54 events sorted by most mentioned_
 
 <div class="tab-content tab-content-concept">
 
-_308 concepts sorted by most mentioned_
+_309 concepts sorted by most mentioned_
 
 <div class="filter-item" data-filter-key="concept-god">
 
@@ -16147,6 +16147,11 @@ _308 concepts sorted by most mentioned_
 <div class="filter-item" data-filter-key="concept-pharisees">
 
 - [Pharisees](/entities/concept-pharisees.md) (3 mentions)
+
+</div>
+<div class="filter-item" data-filter-key="concept-pro-life-movement">
+
+- [Pro-Life Movement](/entities/concept-pro-life-movement.md) (3 mentions)
 
 </div>
 <div class="filter-item" data-filter-key="concept-proof-of-authority">

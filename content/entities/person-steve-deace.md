@@ -44,7 +44,7 @@ Source: [Apple Podcasts — Steve Deace Show](https://podcasts.apple.com/gb/podc
 
 ## Reviewed theory threads
 
-- [How Tyler Robinson confession claims were framed](/threads/thread-tyler-robinson-confession-accounts) — Separates an official denial of a confession to authorities from family-report, media, and surrender accounts that were later presented as confessions or rebuttals.
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

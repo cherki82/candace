@@ -33,7 +33,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <div><span>Statements by</span><strong>16</strong></div>
 <div><span>Statements about</span><strong>734</strong></div>
 <div><span>Relationships</span><strong>226</strong></div>
-<div><span>Threads</span><strong>3</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -363,9 +363,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 ## Reviewed theory threads
 
-- [How the UVU drone account changed](/threads/thread-uvu-security-drone-account) — Tracks competing accounts of whether drones were available before the September 10 UVU event, followed by a lawyerly distinction between security and media-production flights.
-- [How the Fort Huachuca identifications were contested](/threads/thread-fort-huachuca-witness-identifications) — Tracks the on-channel progression from evidence that a witness was on the base to his identifications of Brian Harpole and Erika Kirk, the limits Owens placed on those identifications, and competing alibi claims.
-- [How the Egyptian-plane theory expanded](/threads/thread-egyptian-plane-purpose) — Tracks the on-channel progression from Egyptian personnel allegedly being in Utah, through claims that two aircraft tracked Charlie and Erika Kirk, to competing hypotheses about who operated or used the planes.
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

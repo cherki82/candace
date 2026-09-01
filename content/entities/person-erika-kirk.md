@@ -33,7 +33,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <div><span>Statements by</span><strong>119</strong></div>
 <div><span>Statements about</span><strong>881</strong></div>
 <div><span>Relationships</span><strong>307</strong></div>
-<div><span>Threads</span><strong>3</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -339,9 +339,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 ## Reviewed theory threads
 
-- [How the Fort Huachuca identifications were contested](/threads/thread-fort-huachuca-witness-identifications) — Tracks the on-channel progression from evidence that a witness was on the base to his identifications of Brian Harpole and Erika Kirk, the limits Owens placed on those identifications, and competing alibi claims.
-- [How the ‘Superman neck’ account was traced](/threads/thread-superman-neck-attribution) — Tracks the claim that a surgeon explained why a high-powered round did not exit Charlie Kirk's neck, the on-channel rejection of that attribution, an alternative frangible-bullet account, and a later claim about who originated the wording.
-- [How the Egyptian-plane theory expanded](/threads/thread-egyptian-plane-purpose) — Tracks the on-channel progression from Egyptian personnel allegedly being in Utah, through claims that two aircraft tracked Charlie and Erika Kirk, to competing hypotheses about who operated or used the planes.
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

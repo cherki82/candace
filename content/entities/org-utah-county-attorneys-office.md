@@ -50,7 +50,7 @@ Source: [Utah County Attorney](https://atty.utahcounty.gov/)
 
 ## Reviewed theory threads
 
-- [How the rifle evidence was characterized](/threads/thread-charlie-kirk-rifle-evidence) — Tracks the public account from DNA on the recovered rifle through disputed bullet matching and the later ATF distinction between a matching cartridge case and inconclusive bullet fragments.
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

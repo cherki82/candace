@@ -27,7 +27,7 @@ Source: [About 7 Weeks Coffee](https://7weekscoffee.com/pages/about-us)
 <div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -189,13 +189,32 @@ Source: [About 7 Weeks Coffee](https://7weekscoffee.com/pages/about-us)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Funded (1)</summary>
+
+- **[Pro-Life Movement](/entities/concept-pro-life-movement.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 01:01:38](/episodes/ep-2WEHTk0Xewg.md#t-01-01-29): “They are on a mission to fund the pro-life movement”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 01:01:29](/episodes/ep-2WEHTk0Xewg.md#t-01-01-29): “Also remind you guys about 7 Weeks Coffee because it is America's pro-life coffee company.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:55:25](/episodes/ep-pc3pxRyNFZk.md#t-00-55-25): “Telling you about Seven Weeks Coffee because you already drink coffee”
+
+</details>
+
+- **[Pro-Life Movement](/entities/concept-pro-life-movement.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 01:01:38](/episodes/ep-2WEHTk0Xewg.md#t-01-01-29): “They are on a mission to fund the pro-life movement”
 
 </details>
 

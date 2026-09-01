@@ -28,7 +28,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <div><span>Statements by</span><strong>27</strong></div>
 <div><span>Statements about</span><strong>109</strong></div>
 <div><span>Relationships</span><strong>36</strong></div>
-<div><span>Threads</span><strong>2</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -150,8 +150,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 ## Reviewed theory threads
 
-- [How the UVU drone account changed](/threads/thread-uvu-security-drone-account) — Tracks competing accounts of whether drones were available before the September 10 UVU event, followed by a lawyerly distinction between security and media-production flights.
-- [How the Fort Huachuca identifications were contested](/threads/thread-fort-huachuca-witness-identifications) — Tracks the on-channel progression from evidence that a witness was on the base to his identifications of Brian Harpole and Erika Kirk, the limits Owens placed on those identifications, and competing alibi claims.
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

@@ -2,7 +2,7 @@
 title: "Relationships"
 ---
 
-_Conceptual relationships: 2627 (collapsed from 4968 directed records)_
+_Conceptual relationships: 2628 (collapsed from 4970 directed records)_
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
@@ -1518,8 +1518,9 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Funded (57)</summary>
+<summary>Funded (58)</summary>
 
+- [7 Weeks Coffee](/entities/org-7-weeks-coffee) → [Pro-Life Movement](/entities/concept-pro-life-movement) [↗](/relationships/rel-deb16f96539a) (1) · inverse: funded by
 - [Alexander Karp](/entities/person-alex-karp) → [Israel Defense Forces](/entities/org-israel-defense-forces) [↗](/relationships/rel-a05ffa8b0f03) (1) · inverse: funded by
 - [American Israel Public Affairs Committee](/entities/org-aipac) → [Mike Lawler](/entities/person-mike-lawler) [↗](/relationships/rel-8ae0df5feacd) (1) · inverse: funded by
 - [American Israel Public Affairs Committee](/entities/org-aipac) → [Josh Gottheimer](/entities/person-josh-gottheimer) [↗](/relationships/rel-6d57cdfa2e3f) (1) · inverse: funded by

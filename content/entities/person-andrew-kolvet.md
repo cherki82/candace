@@ -286,7 +286,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 ## Reviewed theory threads
 
-- [How the ‘Superman neck’ account was traced](/threads/thread-superman-neck-attribution) — Tracks the claim that a surgeon explained why a high-powered round did not exit Charlie Kirk's neck, the on-channel rejection of that attribution, an alternative frangible-bullet account, and a later claim about who originated the wording.
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

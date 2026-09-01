@@ -735,6 +735,12 @@ body[data-slug^="threads/"] {
   }
 }
 
+.thread-index-card .thread-lineage-scroll,
+.kg-thread-card .thread-lineage-scroll {
+  max-height: 26rem;
+  overflow: auto;
+}
+
 .thread-lineage-axis,
 .thread-lineage-tick {
   stroke: var(--gray);
@@ -817,6 +823,15 @@ body[data-slug^="threads/"] {
   }
 }
 
+.thread-lineage-node.branch-state-seed {
+  color: var(--gray);
+
+  circle {
+    fill: color-mix(in srgb, var(--light) 70%, var(--highlight));
+    stroke-dasharray: 3 2;
+  }
+}
+
 .thread-lineage-node.branch-state-historical {
   opacity: 0.72;
 }
@@ -856,6 +871,15 @@ body[data-slug^="threads/"] {
 
   .branch-state-active {
     color: var(--secondary);
+  }
+
+  .branch-state-seed {
+    color: var(--gray);
+
+    &::before {
+      background: color-mix(in srgb, var(--light) 70%, var(--highlight));
+      border-style: dashed;
+    }
   }
 
   .branch-state-historical {
