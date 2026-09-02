@@ -191,7 +191,6 @@ html:has(.thread-explorer) {
   }
   .result-scroll {
     overflow-y: auto;
-    overscroll-behavior: contain;
     flex: 1;
     padding: 10px 9px;
   }
@@ -327,7 +326,6 @@ html:has(.thread-explorer) {
   }
   .reader {
     overflow-y: auto;
-    overscroll-behavior: contain;
     padding: 28px clamp(18px, 3cqw, 50px) 70px;
     flex: 1;
     scrollbar-gutter: stable;

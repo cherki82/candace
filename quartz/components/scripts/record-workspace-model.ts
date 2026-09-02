@@ -55,7 +55,7 @@ export const dateLabel = (date: string) =>
       })
     : date || "Date not recorded"
 
-export function recordMetadata(record: RecordItem) {
+export function recordMetadata(record: RecordItem, sourceDate = record.date) {
   if (record.kind === "entity") {
     const label = ["mention", "statement"]
       .filter((kind) => typeof record.counts?.[kind] === "number")
@@ -66,7 +66,7 @@ export function recordMetadata(record: RecordItem) {
       .join(" · ")
     return { label, date: "" }
   }
-  return { label: record.speaker || record.domain || "", date: dateLabel(record.date) }
+  return { label: record.speaker || record.domain || "", date: dateLabel(sourceDate) }
 }
 
 export type EntityMeta = {
@@ -103,6 +103,7 @@ export type WorkspaceRoute = {
   q?: string
 }
 export type WorkspaceState = {
+  view: "workspace" | "transcript"
   q: string
   kind: string
   entity: string
@@ -117,6 +118,7 @@ export type WorkspaceState = {
   appearance: number
 }
 export const defaults: WorkspaceState = {
+  view: "workspace",
   q: "",
   kind: "all",
   entity: "",
@@ -185,6 +187,42 @@ export function workspaceRoute(slug: string): WorkspaceRoute | undefined {
     }
 }
 
+export function workspaceContext(route: WorkspaceRoute) {
+  if (route.entity)
+    return {
+      view: "entity-profile",
+      eyebrow: "Entity profile",
+      subtitle: "Statements, mentions and connections linked to this entity.",
+      parent: { title: "All entities", href: "/index/entities" },
+    }
+  if (route.episode)
+    return {
+      view: "episode",
+      eyebrow: "Episode transcript & evidence",
+      subtitle: "Search and read within this episode's source material.",
+      parent: { title: "All episodes", href: "/index/episodes" },
+    }
+  if (route.item)
+    return {
+      view: "record",
+      eyebrow: "Record detail",
+      subtitle: "Read the selected record, its attribution and source evidence.",
+      parent: {
+        title: `All ${route.catalog}s`,
+        href: route.catalog === "event" ? "/index/event-explorer" : `/index/${route.catalog}s`,
+      },
+    }
+  const directory = route.catalog === "entity"
+  return {
+    view: directory ? "entity-directory" : "catalog",
+    eyebrow: directory ? "Entity directory" : "Browse the corpus",
+    subtitle: directory
+      ? "Find a person, place, organization or other entity. Open their profile to explore the evidence."
+      : "Search across records. Choose a result to read it in context.",
+    parent: undefined,
+  }
+}
+
 export const escapeHtml = (value: unknown) =>
   String(value ?? "").replace(
     /[&<>"']/g,
@@ -192,12 +230,72 @@ export const escapeHtml = (value: unknown) =>
   )
 export const label = (value: string) =>
   value.replaceAll("_", " ").replace(/^./, (c) => c.toUpperCase())
+export const entityTypeLabel = (value: string) => {
+  const type = value.toLowerCase()
+  return type === "gpe" ? "Place" : type === "org" ? "Organization" : label(type)
+}
 export const outcomeFor = (r: RecordItem) =>
   r.kind === "statement" && r.type !== "factual_claim"
     ? r.verification.status === "verified"
       ? "recorded"
       : r.verification.status || "unreviewed"
     : r.verification.veracity || r.verification.status || "unreviewed"
+export const assessmentLabel = (value: string) =>
+  (
+    ({
+      true: "Assessed true",
+      false: "Assessed false",
+      mixed: "Mixed assessment",
+      recorded: "Review recorded",
+      unreviewed: "Not reviewed",
+      pending_sources: "Sources pending",
+      attempted: "Review attempted",
+    }) as Record<string, string>
+  )[value] || label(value)
+
+export const entityViews = [
+  {
+    kind: "claims",
+    label: "Claims about",
+    help: "Statements classified as factual claims and explicitly tagged to this entity—not a finding that they are true.",
+  },
+  {
+    kind: "other",
+    label: "Other statements",
+    help: "Statements classified as opinions, accusations or other types, explicitly tagged to this entity. Original classifications are unchanged.",
+  },
+  {
+    kind: "by",
+    label: "Statements by",
+    help: "Statements attributed to this entity, including quotations reported by someone else. These can overlap with claims about the entity.",
+  },
+  {
+    kind: "mentions",
+    label: "Mentions",
+    help: "Name occurrences in the transcript—not necessarily assertions about the entity.",
+  },
+  {
+    kind: "relationship",
+    label: "Connections",
+    help: "Explicitly recorded relationships involving this entity. Shared episodes alone do not establish a connection.",
+  },
+  {
+    kind: "all",
+    label: "All evidence",
+    help: "All records explicitly linked to this entity in the published snapshot, including dated events.",
+  },
+]
+export function entityReasons(record: RecordItem, entity: string) {
+  const result = []
+  if (record.kind === "statement" && record.entityIds.includes(entity))
+    result.push("Directly tagged to this entity")
+  if (record.kind === "statement" && record.speakerId === entity)
+    result.push("Attributed to this entity")
+  if (record.kind === "mention") result.push("Name occurrence in the transcript")
+  if (record.kind === "relationship" && record.entityIds.includes(entity))
+    result.push("Recorded relationship involving this entity")
+  return result.length ? result : ["Explicitly linked in this entity’s record"]
+}
 export type IndexedRecord = RecordItem & {
   fields: { label: string; text: string; normalized: string }[]
   haystack: string
@@ -235,9 +333,17 @@ export function prepareRecords(records: RecordItem[], manifest: Manifest): Index
 }
 export function matchesKind(r: RecordItem, kind: string, scopeEntity = "") {
   if (kind === "all") return true
+  if (kind === "claims" || kind === "other")
+    return (
+      r.kind === "statement" &&
+      r.entityIds.includes(scopeEntity) &&
+      (kind === "claims" ? r.type === "factual_claim" : r.type !== "factual_claim")
+    )
   if (kind === "about") return r.kind === "statement" && r.entityIds.includes(scopeEntity)
   if (kind === "by") return r.kind === "statement" && r.speakerId === scopeEntity
   if (kind === "mentions") return r.kind === "mention"
+  if (kind === "relationship" && scopeEntity)
+    return r.kind === "relationship" && r.entityIds.includes(scopeEntity)
   return r.kind === kind || r.type === kind
 }
 export function filterRecords(records: IndexedRecord[], state: WorkspaceState, scopeEntity = "") {
@@ -323,8 +429,8 @@ export function readState(url: URL, route: WorkspaceRoute): WorkspaceState {
   const p = url.searchParams
   const state = {
     ...defaults,
-    sort: route.episode ? "oldest" : "relevance",
-    kind: route.kind || "all",
+    sort: route.episode ? "oldest" : route.entity ? "newest" : "relevance",
+    kind: route.kind || (route.entity ? "claims" : "all"),
     q: route.q || "",
     item: route.item || "",
   }
@@ -343,6 +449,7 @@ export function readState(url: URL, route: WorkspaceRoute): WorkspaceState {
   state.page = Math.max(1, Number.parseInt(p.get("page") || "1", 10) || 1)
   state.appearance = Math.max(0, Number.parseInt(p.get("appearance") || "0", 10) || 0)
   state.group = p.get("group") === "episode"
+  state.view = route.episode && p.get("view") === "transcript" ? "transcript" : "workspace"
   if (state.kind === "mentions") state.entity = ""
   if (route.catalog === "entity" && !route.entity) {
     state.from = state.to = ""
@@ -358,6 +465,7 @@ export function stateUrl(url: URL, state: WorkspaceState, route?: WorkspaceRoute
   next.hash = ""
   const baseline = route ? readState(next, route) : defaults
   for (const key of [
+    "view",
     "q",
     "kind",
     "entity",
@@ -373,4 +481,17 @@ export function stateUrl(url: URL, state: WorkspaceState, route?: WorkspaceRoute
     if (state[key] !== baseline[key]) next.searchParams.set(key, String(state[key]))
   if (state.group) next.searchParams.set("group", "episode")
   return next
+}
+
+export function recordUrl(
+  record: RecordItem,
+  url: URL,
+  state: WorkspaceState,
+  route: WorkspaceRoute,
+  base: URL,
+) {
+  // Entity searches identify the entity, not a filter on its evidence.
+  return record.kind === "entity"
+    ? new URL(record.href.replace(/^\//, ""), base)
+    : stateUrl(url, { ...state, item: record.id, appearance: 0 }, route)
 }

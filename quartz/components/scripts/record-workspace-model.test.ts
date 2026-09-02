@@ -3,6 +3,8 @@ import { test } from "node:test"
 import {
   defaults,
   workspaceRoute,
+  workspaceContext,
+  entityTypeLabel,
   readState,
   stateUrl,
   prepareRecords,
@@ -11,6 +13,10 @@ import {
   outcomeFor,
   matchPassage,
   recordMetadata,
+  recordUrl,
+  entityReasons,
+  entityViews,
+  assessmentLabel,
   type RecordItem,
   type Manifest,
 } from "./record-workspace-model"
@@ -111,6 +117,31 @@ test("entity metadata shows evidence counts rather than an inapplicable date", (
   assert.equal(recordMetadata(record("dated")).date, "1 Jan 2026")
   assert.equal(recordMetadata(record("undated", { date: "" })).date, "Date not recorded")
 })
+test("directory, profile, source and record levels have distinct context and parent links", () => {
+  for (const [slug, view, parent] of [
+    ["index/entities", "entity-directory", undefined],
+    ["entities/index", "entity-directory", undefined],
+    ["entities/person-charlie-kirk", "entity-profile", "/index/entities"],
+    ["episodes/ep-abc", "episode", "/index/episodes"],
+    ["timestamps/ep-abc/t-00-01-00", "episode", "/index/episodes"],
+    ["statements/a", "record", "/index/statements"],
+    ["events/a", "record", "/index/event-explorer"],
+    ["relationships/a", "record", "/index/relationships"],
+    ["index/explorer", "catalog", undefined],
+  ]) {
+    const context = workspaceContext(workspaceRoute(slug!)!)
+    assert.equal(context.view, view)
+    assert.equal(context.parent?.href, parent)
+    assert.ok(context.eyebrow)
+    assert.ok(context.subtitle)
+  }
+})
+test("entity types use readable names without changing stored values", () => {
+  assert.equal(entityTypeLabel("PERSON"), "Person")
+  assert.equal(entityTypeLabel("gpe"), "Place")
+  assert.equal(entityTypeLabel("ORG"), "Organization")
+  assert.equal(entityTypeLabel("ANONYMOUS_SOURCE"), "Anonymous source")
+})
 
 test("search finds direct words, tags, aliases and attached excerpts", () => {
   assert.deepEqual(
@@ -201,6 +232,35 @@ test("URLs round trip cleared detail selections and default filters", () => {
     state,
   )
 })
+test("entity results open the full entity workspace without carrying catalog filters", () => {
+  const entity = record("person-charlie-kirk", {
+    kind: "entity",
+    href: "/entities/person-charlie-kirk",
+  })
+  const state = { ...defaults, q: "charlie kirk", kind: "person", page: 3, appearance: 2 }
+  for (const prefix of ["/", "/candace/"])
+    for (const slug of ["index/entities", "index/explorer", "index"]) {
+      const base = new URL(`https://example.test${prefix}`)
+      const current = new URL(`${slug}?q=charlie+kirk&item=old#old`, base)
+      assert.equal(
+        recordUrl(entity, current, state, workspaceRoute(slug)!, base).href,
+        new URL("entities/person-charlie-kirk", base).href,
+      )
+      assert.equal(current.searchParams.get("item"), "old")
+      assert.equal(state.q, "charlie kirk")
+    }
+})
+test("other results still open inline and preserve the current search", () => {
+  const route = workspaceRoute("index/explorer")!
+  const base = new URL("https://example.test/candace/")
+  const current = new URL("index/explorer", base)
+  const state = { ...defaults, q: "Hamptons", page: 2, appearance: 3 }
+  for (const kind of ["statement", "event", "relationship", "source", "episode"])
+    assert.deepEqual(
+      readState(recordUrl(record("selected", { kind }), current, state, route, base), route),
+      { ...state, item: "selected", appearance: 0 },
+    )
+})
 test("legacy timestamp anchors select the matching passage", () => {
   assert.equal(
     readState(
@@ -226,4 +286,76 @@ test("non-factual statements cannot acquire a true badge", () => {
     ),
     "recorded",
   )
+})
+
+test("entity claims are directly tagged factual statements, not opinions or incidental matches", () => {
+  const items = prepareRecords(
+    [
+      record("direct", { entityIds: ["a"] }),
+      record("both", { entityIds: ["a"], speakerId: "a" }),
+      record("opinion", { entityIds: ["a"], type: "opinion" }),
+      record("accusation", { entityIds: ["a"], type: "accusation" }),
+      record("by", { speakerId: "a" }),
+      record("unrelated", { text: "Hamptons", tags: ["Hamptons"] }),
+      record("mention", { kind: "mention" }),
+      record("connection", { kind: "relationship", entityIds: ["a"] }),
+      record("event", { kind: "event", entityIds: ["a"] }),
+    ],
+    manifest,
+  )
+  const ids = (kind: string) =>
+    filterRecords(items, { ...defaults, kind }, "a")
+      .map((r) => r.id)
+      .sort()
+  assert.deepEqual(ids("claims"), ["both", "direct"])
+  assert.deepEqual(ids("other"), ["accusation", "opinion"])
+  assert.deepEqual(ids("by"), ["both", "by"])
+  assert.deepEqual(ids("mentions"), ["mention"])
+  assert.deepEqual(ids("relationship"), ["connection"])
+  assert.equal(ids("all").length, items.length)
+  assert.deepEqual(ids("about"), ["accusation", "both", "direct", "opinion"])
+  assert.deepEqual(entityReasons(items[1], "a"), [
+    "Directly tagged to this entity",
+    "Attributed to this entity",
+  ])
+  assert.deepEqual(entityReasons(items[6], "a"), ["Name occurrence in the transcript"])
+  assert.equal(entityViews.length, 6)
+  assert.equal(assessmentLabel("mixed"), "Mixed assessment")
+  assert.equal(
+    assessmentLabel(
+      outcomeFor(
+        record("opinion", {
+          type: "opinion",
+          verification: { status: "verified", veracity: "true" },
+        }),
+      ),
+    ),
+    "Review recorded",
+  )
+})
+test("entity views default to claims but preserve legacy and explicit filters in share URLs", () => {
+  const route = workspaceRoute("entities/a")!
+  const url = new URL("https://example.test/candace/entities/a")
+  assert.equal(readState(url, route).kind, "claims")
+  assert.equal(readState(url, route).sort, "newest")
+  for (const kind of [...entityViews.map((v) => v.kind), "about", "event", "factual_claim"]) {
+    const state = { ...defaults, kind, q: "Hamptons", item: "both", page: 2, appearance: 1 }
+    assert.deepEqual(readState(stateUrl(url, state, route), route), state)
+  }
+  assert.equal(readState(new URL(`${url}?kind=about`), route).kind, "about")
+  assert.equal(readState(new URL(`${url}?kind=mentions&entity=unrelated`), route).entity, "")
+  assert.equal(recordMetadata(record("multi-source"), "2025-06-17").date, "17 Jun 2025")
+})
+test("full transcript links retain their reading mode and timestamp across navigation", () => {
+  const route = workspaceRoute("episodes/ep-abc")!
+  const url = new URL("https://example.test/candace/episodes/ep-abc?view=transcript#t-00-01-00")
+  const state = readState(url, route)
+  assert.equal(state.view, "transcript")
+  assert.equal(state.item, "passage-t-00-01-00")
+  assert.deepEqual(readState(stateUrl(url, state, route), route), state)
+  assert.equal(
+    readState(new URL("https://example.test/candace/episodes/ep-abc?view=workspace"), route).view,
+    "workspace",
+  )
+  assert.equal(readState(url, workspaceRoute("entities/a")!).view, "workspace")
 })

@@ -3,6 +3,24 @@ import * as path from "./path"
 import assert from "node:assert"
 import { FullSlug, TransformOptions, SimpleSlug } from "./path"
 
+test("SPA resources retain their deployment prefix and version across page depths", () => {
+  const attributes = { href: "../index.css?v=release", src: "../postscript.js?v=release#script" }
+  const element = {
+    getAttribute: (attr: keyof typeof attributes) => attributes[attr],
+    setAttribute: (attr: keyof typeof attributes, value: string) => (attributes[attr] = value),
+  }
+  const head = {
+    querySelectorAll: (selector: string) => {
+      const attr = selector.startsWith("[href") ? "href" : "src"
+      return attributes[attr].startsWith(".") ? [element] : []
+    },
+  } as unknown as Element
+  path.normalizeRelativeURLs(head, "https://example.com/candace/entities/person-charlie-kirk")
+  path.normalizeRelativeURLs(head, "https://example.com/candace/")
+  assert.equal(attributes.href, "/candace/index.css?v=release")
+  assert.equal(attributes.src, "/candace/postscript.js?v=release#script")
+})
+
 describe("typeguards", () => {
   test("isSimpleSlug", () => {
     assert(path.isSimpleSlug(""))

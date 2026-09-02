@@ -2,6 +2,10 @@ import micromorph from "micromorph"
 import { FullSlug, RelativeURL, getFullSlug, normalizeRelativeURLs } from "../../util/path"
 import { fetchCanonical } from "./util"
 
+// Persisted styles and scripts must keep their original site-root URLs when
+// navigation changes the page depth (for example, entity profile → home).
+normalizeRelativeURLs(document.head, window.location.href)
+
 // adapted from `micromorph`
 // https://github.com/natemoo-re/micromorph
 const NODE_TYPE_ELEMENT = 1
