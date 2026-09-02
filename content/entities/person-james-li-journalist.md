@@ -1,6 +1,6 @@
 ---
 title: "James Li"
-description: "James Li (People) - 4 mentions"
+description: "James Li (People) - 5 mentions"
 id: "person-james-li-journalist"
 type: "PERSON"
 categories:
@@ -8,11 +8,12 @@ categories:
   - "Epstein files"
   - "political commentary"
   - "51-49"
+  - "online commentator"
 ---
 
 _Type: People_
 
-**Categories:** independent journalist, Epstein files, political commentary, 51-49
+**Categories:** independent journalist, Epstein files, political commentary, 51-49, online commentator
 
 **Entity verification:** verified
 > The commentator's official 51-49 site confirms the canonical spelling James Li; the cleaned transcript's James Lee is an ASR spelling error and is not retained as an alias.
@@ -21,8 +22,8 @@ Source: [51-49 with James Li](https://5149jamesli.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#t-00-07-38">2025-10-27 · 00:07:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#t-00-54-56">2026-06-24 · 00:55:08</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +35,7 @@ Source: [51-49 with James Li](https://5149jamesli.com/)
 <p>Highest activity: <a href="/episodes/ep-c5BcKF91iec.md#t-00-07-38">Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-c5BcKF91iec.md#t-00-07-38" style="--pulse-height:100%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-40-02" style="--pulse-height:50%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-james-li-journalist-t-00-15-26" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#t-00-54-56" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 </div>
@@ -42,6 +44,7 @@ Source: [51-49 with James Li](https://5149jamesli.com/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#t-00-07-38) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-40-02) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-james-li-journalist-t-00-15-26) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#t-00-54-56) | 1 |
 
@@ -51,7 +54,7 @@ Source: [51-49 with James Li](https://5149jamesli.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
@@ -66,6 +69,14 @@ Source: [51-49 with James Li](https://5149jamesli.com/)
 
 **[00:15:59](/episodes/ep-CEF7gQRWYCE.md#ent-person-james-li-journalist-t-00-15-26)**
 > "And I'm going to pivot here to just one example of a very strange email which was covered by James Li."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+
+**[00:40:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-40-02)**
+> "So like James Lee, Ian Carroll, Sam Parker."
 
 </details>
 

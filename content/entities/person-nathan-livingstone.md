@@ -1,22 +1,24 @@
 ---
 title: "Nathan Livingstone"
-description: "Nathan Livingstone (People) - 4 mentions"
+description: "Nathan Livingstone (People) - 5 mentions"
 id: "person-nathan-livingstone"
 type: "PERSON"
 aliases:
   - "MilkBarTV"
   - "Milk Bar TV"
+  - "Milk Bar TV (online handle; identity unverified)"
 categories:
   - "online commentator"
+  - "social media account"
+  - "Protecting Mrs. Kirk group chat participant"
+  - "identity unverified"
 ---
 
 _Type: People_
 
-**Also known as:** MilkBarTV, Milk Bar TV
+**Also known as:** MilkBarTV, Milk Bar TV, Milk Bar TV (online handle; identity unverified)
 
-**Categories:** online commentator
-
-> **Possibly overlapping entity records:** [Milk Bar TV (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-milk-bar-tv). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** online commentator, social media account, Protecting Mrs. Kirk group chat participant, identity unverified
 
 **Entity verification:** verified
 > The MilkBarTV public account is identified as Nathan Livingstone, matching the source's displayed name and Milk Bar TV reference.
@@ -24,12 +26,12 @@ Source: [Nathan Livingstone (MilkBarTV)](https://x.com/TheMilkBarTV)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-nathan-livingstone-t-00-52-51">2025-10-28 · 00:53:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-nathan-livingstone-t-00-54-18">2025-10-28 · 00:54:43</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-nathan-livingstone-t-00-20-07">2026-08-06 · 00:20:07</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,12 +40,14 @@ Source: [Nathan Livingstone (MilkBarTV)](https://x.com/TheMilkBarTV)
 <p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-nathan-livingstone-t-00-52-51">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-nathan-livingstone-t-00-52-51" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-nathan-livingstone-t-00-20-07" style="--pulse-height:33%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-nathan-livingstone-t-00-52-51) | 3 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-nathan-livingstone-t-00-20-07) | 1 |
 
 </details>
 </section>
@@ -51,7 +55,15 @@ Source: [Nathan Livingstone (MilkBarTV)](https://x.com/TheMilkBarTV)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:20:07](/episodes/ep-ChuWo-n49B8.md#ent-person-nathan-livingstone-t-00-20-07)**
+> "milk bar tv no soup for knolls paramount not so tactical brie dale fake catholic insurrection barbie"
+
+</details>
 
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
@@ -85,12 +97,31 @@ Source: [Nathan Livingstone (MilkBarTV)](https://x.com/TheMilkBarTV)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Member Of (1)</summary>
+
+- **[Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:19:57](/episodes/ep-ChuWo-n49B8.md#t-00-19-44): “And she exposed 92 members in this group chat, which has the name Protecting Mrs. Kirk. technically mrs kirk and now some of these names are not we know this is their full i've blocked them because it's just their full it's obvious it's their full-time job to attack me milk bar tv no soup for knolls paramount not so tactical brie dale fake catholic insurrection barbie you know just block block block block block block block it's not even worth my worth my time like it's just the most obvious operation in the world nice to see it”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:53:32](/episodes/ep-Cq7nj9rxPdo.md#t-00-52-51): “'cause he literally put "Milk Bar TV" content on the corner. ... This is Nathan Livingstone. ... "I tried to steal, and she didn't let me. ... Why won't she let me steal?"”
+
+</details>
+
+- **[Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat.md)** has member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:19:57](/episodes/ep-ChuWo-n49B8.md#t-00-19-44): “And she exposed 92 members in this group chat, which has the name Protecting Mrs. Kirk. technically mrs kirk and now some of these names are not we know this is their full i've blocked them because it's just their full it's obvious it's their full-time job to attack me milk bar tv no soup for knolls paramount not so tactical brie dale fake catholic insurrection barbie you know just block block block block block block block it's not even worth my worth my time like it's just the most obvious operation in the world nice to see it”
 
 </details>
 

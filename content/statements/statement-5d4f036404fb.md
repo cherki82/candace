@@ -4,10 +4,9 @@ description: "\"Andrew Wilson says he was an NRA firearms instructor for many ye
 statement_id: "statement-5d4f036404fb"
 speaker: "Andrew Wilson"
 type: "factual_claim"
-veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -44,20 +43,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The source episode directly records Wilson saying he was an NRA firearms instructor for many years and taught rifle skills as a private citizen. This verifies the self-report as attributed; it is not an independent credential audit.
-
-**Confidence:** High
-
-**Sources:**
-
-- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](https://www.youtube.com/watch?v=nPhCKwJ6ye8)
-
-*Verified: 2026-08-16T14:38:01.020116*
+_This statement has not yet been verified._
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Jack Hibbs"
-description: "Jack Hibbs (People) - 25 mentions"
+description: "Jack Hibbs (People) - 49 mentions"
 id: "person-jack-hibbs"
 type: "PERSON"
 aliases:
@@ -22,31 +22,32 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37">2025-10-31 · 00:59:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11">2026-07-16 · 00:36:40</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-49-36">2026-09-01 · 00:49:51</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>27</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-06-52">BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381</a> (24 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 5 mentions" title="2025-10-31 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-13" style="--pulse-height:100%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 5 mentions" title="2025-11-12 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-27-59" style="--pulse-height:60%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 3 mentions" title="2025-11-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jack-hibbs-t-00-44-27" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27" style="--pulse-height:60%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jack-hibbs-t-00-19-58" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-jack-hibbs-t-00-47-57" style="--pulse-height:40%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-jack-hibbs-t-00-53-05" style="--pulse-height:20%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-jack-hibbs-t-00-36-24" style="--pulse-height:20%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-jack-hibbs-t-00-10-10" style="--pulse-height:20%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jack-hibbs-t-00-29-09" style="--pulse-height:20%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11" style="--pulse-height:20%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37" style="--pulse-height:21%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 5 mentions" title="2025-10-31 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-13" style="--pulse-height:21%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 5 mentions" title="2025-11-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-27-59" style="--pulse-height:12%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 3 mentions" title="2025-11-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jack-hibbs-t-00-44-27" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27" style="--pulse-height:12%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jack-hibbs-t-00-19-58" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-jack-hibbs-t-00-47-57" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-jack-hibbs-t-00-53-05" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-jack-hibbs-t-00-36-24" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-jack-hibbs-t-00-10-10" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jack-hibbs-t-00-29-09" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-06-52" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 24 mentions" title="2026-09-01 · 24 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +65,7 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-jack-hibbs-t-00-10-10) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-jack-hibbs-t-00-29-09) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-06-52) | 24 |
 
 </details>
 </section>
@@ -75,7 +77,84 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (24 mentions)</summary>
+
+**[00:07:03](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-06-52)**
+> "She's never hidden that fact. So we're not exactly. exactly revealing or bringing any news there but I used to work for PragerU and she had suggested to me that I have him on my podcast I don't believe it ever happened but you can take from that what you will it is a fact that is how I learned about Jack (Jack Hibbs) uh Jack Hibbs from Marissa (Marissa Streit) It is also a fact that the same family who funds the construction of some of those Calvary Chapel churches, like Rob McCoy's church in Thousand Oaks, are the billionaire Wilks brothers."
+
+**[00:06:26](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-06-17)**
+> "...family. His brother is Pastor Jack Hibbs, another senior pastor at Calvary Chapel Church. ..."
+
+**[00:06:52](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-06-52)**
+> "... first that I heard of Pastor Jack Hibbs, it was via Marissa Streit, the Mossad agent turn..."
+
+**[00:08:09](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-08-09)**
+> "Now back to Pastor Jack Hibbs, because that's what's relevant. It is curious th..."
+
+**[00:08:37](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-08-09)**
+> "And Jack Hibbs was kind enough to inform his Facebook followers ..."
+
+**[00:08:58](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-08-58)**
+> "...w how they knew either, Jack (Jack Hibbs). I never know how it seems to be that Israel is ..."
+
+**[00:09:16](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-08-58)**
+> "...irk) was assassinated, Pastor Jack Hibbs phoned him up and asked Charlie (Charlie Kirk) if..."
+
+**[00:09:30](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-08-58)**
+> "... event. Okay, listen to Jack (Jack Hibbs) explain how that all came together to his dear f..."
+
+**[00:09:42](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-09-42)**
+> "...er was there and he goes, I'm Jack Hibbs' brother."
+
+**[00:13:27](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-12-57)**
+> "Utah. Okay. Okay, Jack Hibbs, your terms are acceptable. We're just here to re..."
+
+**[00:13:45](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-13-36)**
+> "And Pastor Jack Hibbs receives a phone call from his brother. Here's wh..."
+
+**[00:14:20](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-14-20)**
+> "...t unclear to me whether Jack (Jack Hibbs) spoke to his brother Butch (Burton Hibbs) before..."
+
+**[00:14:38](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-14-20)**
+> "Now, it's best you hear Jack (Jack Hibbs) explain it because it's a little confusing. You'..."
+
+**[00:15:38](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-15-38)**
+> "...oy) called and he said, Jack (Jack Hibbs),"
+
+**[00:16:24](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-16-14)**
+> "...elative whose name's Charlie (Jack Hibbs's cousin; surname unverified), and he's very involv..."
+
+**[00:16:33](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-16-14)**
+> "...hought it was cousin Charlie (Jack Hibbs's cousin; surname unverified) got shot."
+
+**[00:17:43](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-17-43)**
+> "Go meditate, Jack (Jack Hibbs). because you're in trouble go to your room and m..."
+
+**[00:19:21](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-19-05)**
+> "Starting a FaceTime call with Jack Hibbs. What do I know? That's just my opinion, not a fa..."
+
+**[00:19:26](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-19-05)**
+> "...el McCoy) called Pastor Jack (Jack Hibbs) before 1230, before he then was FaceTimed by Fra..."
+
+**[00:25:09](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-24-42)**
+> "...oking for this breakdown that Jack Hibbs describes."
+
+**[00:25:34](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-25-18)**
+> "...other where he said, Charlie (Jack Hibbs's cousin; surname unverified), cousin, Charlie (Jac..."
+
+**[00:25:45](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-25-18)**
+> "Oh, no, Charlie (Jack Hibbs's cousin; surname unverified), cousin, that could b..."
+
+**[00:27:55](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-27-49)**
+> "...ee that footage because Jack (Jack Hibbs) we Prowl the internet. We could not find any men..."
+
+**[00:49:51](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-49-36)**
+> "... was. Oh, I was like, Jackie (Jack Hibbs) said too much. Then he was like, I don't remembe..."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
@@ -221,9 +300,10 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <summary>Appeared With (1)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:36:45](/episodes/ep-h76ZN-xXC6c.md#t-00-36-24): “Well, Pastor Jack Hibbs accidentally kind of disrupted that narrative recently when he sat down with Frank Turek and was recapping the events of that day.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:30](/episodes/ep-ZkDO-MRLUco.md#t-00-08-58): “UVU college campus event. Okay, listen to Jack (Jack Hibbs) explain how that all came together to his dear friend, the Yankin and Bankin Frankin Turek (Frank Turek). Take a listen.”
 
 </details>
 
@@ -249,7 +329,19 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 </details>
 
 <details>
-<summary>Friend Of (1)</summary>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:17:43](/episodes/ep-ZkDO-MRLUco.md#t-00-17-43): “Go meditate, Jack (Jack Hibbs). because you're in trouble go to your room and meditate because you it was a a good effort there to try I don't know the sequence of events I don't my cousin Charlie (Jack Hibbs's cousin; surname unverified)'s in the military if anything just blame it on your cousin Charlie (Jack Hibbs's cousin; surname unverified) that's a good one then he says his brother broke down he doesn't remember was it Mike (Michael McCoy) ah the sequence is hard to remember ... Sequence is hard to remember when Frank Turek is looking like he wants to jump across a desk and choke you out.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Friend Of (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -258,15 +350,41 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 
 </details>
 
+- **[Frank Turek](/entities/person-frank-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:30](/episodes/ep-ZkDO-MRLUco.md#t-00-08-58): “UVU college campus event. Okay, listen to Jack (Jack Hibbs) explain how that all came together to his dear friend, the Yankin and Bankin Frankin Turek (Frank Turek). Take a listen.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Pastor Of (1)</summary>
+<summary>Interviewed By (1)</summary>
+
+- **[Todd Starnes](/entities/person-todd-starnes.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:13:45](/episodes/ep-ZkDO-MRLUco.md#t-00-13-36): “And Pastor Jack Hibbs receives a phone call from his brother. Here's what he told Todd Starnes of Fox News. ... This is on audio only, so take a listen.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Pastor Of (2)</summary>
 
 - **[Calvary Chapel](/entities/org-calvary-chapel.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-32-13): “Pastor Hibbs—great friend of Charlie (Charlie Kirk)—also another leader of a Calvary Chapel”
+
+</details>
+
+- **[Calvary Chapel Chino Hills](/entities/org-calvary-chapel-chino-hills.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:06:26](/episodes/ep-ZkDO-MRLUco.md#t-00-06-17): “He is from a military family. His brother is Pastor Jack Hibbs, another senior pastor at Calvary Chapel Church. His church is based in Chino Hills, California.”
 
 </details>
 
@@ -276,22 +394,64 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <summary>Sibling Of (1)</summary>
 
 - **[Burton Hibbs](/entities/person-burton-hibbs.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:33:49](/episodes/ep-MUA9ebCF4Ow.md#t-00-33-35): “Butch Hibbs. That's the brother of Jack Hibbs—Pastor Jack Hibbs.”
 - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:44:55](/episodes/ep-7RLtGgkTh9o.md#t-00-44-27): “Butch Hibbs—Jack Hibbs' brother”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:06:26](/episodes/ep-ZkDO-MRLUco.md#t-00-06-17): “He is from a military family. His brother is Pastor Jack Hibbs, another senior pastor at Calvary Chapel Church. His church is based in Chino Hills, California.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Spoke With (4)</summary>
 
-- **[Frank Turek](/entities/person-frank-turek.md)** appeared with this
+- **[Frank Turek](/entities/person-frank-turek.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:28](/episodes/ep-ZkDO-MRLUco.md#t-00-15-28): “That was after we got to the hospital as ... I was in the ... Emergency room after we got Charlie (Charlie Kirk) there and ... I called ... You yeah ... Then I FaceTimed you. I faced, we were talking, you”
+
+</details>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:38](/episodes/ep-ZkDO-MRLUco.md#t-00-15-38): “Were saying. Okay, so Mikey (Michael McCoy) called and he said, Jack (Jack Hibbs), ... Get everyone in the world praying. There's so much blood. There's so much. And he was beside himself, as you can imagine.”
+
+</details>
+
+- **[Burton Hibbs](/entities/person-burton-hibbs.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:13:45](/episodes/ep-ZkDO-MRLUco.md#t-00-13-36): “And Pastor Jack Hibbs receives a phone call from his brother. Here's what he told Todd Starnes of Fox News. ... And so the next thing I know, my brother's calling me and I can hear people screaming and yelling and I can hear my brother telling me Charlie (Charlie Kirk)'s just been shot.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:11:03](/episodes/ep-ZkDO-MRLUco.md#t-00-11-03): “He says, hey, can you and I said, well, I mean, I mean, I'll give Charlie (Charlie Kirk) a call, but it's kind of late, you know, and all that stuff. ... And I'm thinking so I honestly reached out to Charlie (Charlie Kirk), said, Charlie (Charlie Kirk), listen, my brother lives nearby. He wants to come see you. ... I know that you got too much going on right now, but I was faithful to give you his request.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (13)</summary>
+
+- **[Frank Turek](/entities/person-frank-turek.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:36:45](/episodes/ep-h76ZN-xXC6c.md#t-00-36-24): “Well, Pastor Jack Hibbs accidentally kind of disrupted that narrative recently when he sat down with Frank Turek and was recapping the events of that day.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:30](/episodes/ep-ZkDO-MRLUco.md#t-00-08-58): “UVU college campus event. Okay, listen to Jack (Jack Hibbs) explain how that all came together to his dear friend, the Yankin and Bankin Frankin Turek (Frank Turek). Take a listen.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:17:43](/episodes/ep-ZkDO-MRLUco.md#t-00-17-43): “Go meditate, Jack (Jack Hibbs). because you're in trouble go to your room and meditate because you it was a a good effort there to try I don't know the sequence of events I don't my cousin Charlie (Jack Hibbs's cousin; surname unverified)'s in the military if anything just blame it on your cousin Charlie (Jack Hibbs's cousin; surname unverified) that's a good one then he says his brother broke down he doesn't remember was it Mike (Michael McCoy) ah the sequence is hard to remember ... Sequence is hard to remember when Frank Turek is looking like he wants to jump across a desk and choke you out.”
 
 </details>
 
@@ -316,10 +476,59 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 
 </details>
 
+- **[Frank Turek](/entities/person-frank-turek.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:30](/episodes/ep-ZkDO-MRLUco.md#t-00-08-58): “UVU college campus event. Okay, listen to Jack (Jack Hibbs) explain how that all came together to his dear friend, the Yankin and Bankin Frankin Turek (Frank Turek). Take a listen.”
+
+</details>
+
 - **[Calvary Chapel](/entities/org-calvary-chapel.md)** has pastor this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-32-13): “Pastor Hibbs—great friend of Charlie (Charlie Kirk)—also another leader of a Calvary Chapel”
+
+</details>
+
+- **[Calvary Chapel Chino Hills](/entities/org-calvary-chapel-chino-hills.md)** has pastor this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:06:26](/episodes/ep-ZkDO-MRLUco.md#t-00-06-17): “He is from a military family. His brother is Pastor Jack Hibbs, another senior pastor at Calvary Chapel Church. His church is based in Chino Hills, California.”
+
+</details>
+
+- **[Todd Starnes](/entities/person-todd-starnes.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:13:45](/episodes/ep-ZkDO-MRLUco.md#t-00-13-36): “And Pastor Jack Hibbs receives a phone call from his brother. Here's what he told Todd Starnes of Fox News. ... This is on audio only, so take a listen.”
+
+</details>
+
+- **[Frank Turek](/entities/person-frank-turek.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:28](/episodes/ep-ZkDO-MRLUco.md#t-00-15-28): “That was after we got to the hospital as ... I was in the ... Emergency room after we got Charlie (Charlie Kirk) there and ... I called ... You yeah ... Then I FaceTimed you. I faced, we were talking, you”
+
+</details>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:38](/episodes/ep-ZkDO-MRLUco.md#t-00-15-38): “Were saying. Okay, so Mikey (Michael McCoy) called and he said, Jack (Jack Hibbs), ... Get everyone in the world praying. There's so much blood. There's so much. And he was beside himself, as you can imagine.”
+
+</details>
+
+- **[Burton Hibbs](/entities/person-burton-hibbs.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:13:45](/episodes/ep-ZkDO-MRLUco.md#t-00-13-36): “And Pastor Jack Hibbs receives a phone call from his brother. Here's what he told Todd Starnes of Fox News. ... And so the next thing I know, my brother's calling me and I can hear people screaming and yelling and I can hear my brother telling me Charlie (Charlie Kirk)'s just been shot.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:11:03](/episodes/ep-ZkDO-MRLUco.md#t-00-11-03): “He says, hey, can you and I said, well, I mean, I mean, I'll give Charlie (Charlie Kirk) a call, but it's kind of late, you know, and all that stuff. ... And I'm thinking so I honestly reached out to Charlie (Charlie Kirk), said, Charlie (Charlie Kirk), listen, my brother lives nearby. He wants to come see you. ... I know that you got too much going on right now, but I was faithful to give you his request.”
 
 </details>
 
@@ -328,7 +537,24 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Jack Hibbs (1)</strong></summary>
+<summary><strong class="section-title">Statements by Jack Hibbs (5)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4)</summary>
+
+- [00:08:45](/episodes/ep-ZkDO-MRLUco.md#t-00-08-45) [○] (Claim) ["Jack Hibbs said he first learned that Charlie Kirk had died from an Israeli news..."](/statements/statement-ae521d8fdb9f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+- [00:10:49](/episodes/ep-ZkDO-MRLUco.md#t-00-10-44) [○] (Claim) ["Jack Hibbs said his brother Burton called the night before the UVU event asking ..."](/statements/statement-65d42e2d2aa6.md)
+  - About: [Jack Hibbs](/entities/person-jack-hibbs.md), [Burton Hibbs](/entities/person-burton-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:13:56](/episodes/ep-ZkDO-MRLUco.md#t-00-13-56) [○] (Claim) ["Jack Hibbs told Todd Starnes that Charlie Kirk gave his brother a front-row seat..."](/statements/statement-5b000612c437.md)
+  - About: [Jack Hibbs](/entities/person-jack-hibbs.md), [Burton Hibbs](/entities/person-burton-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:14](/episodes/ep-ZkDO-MRLUco.md#t-00-16-14) [○] (Claim) ["Jack Hibbs said he initially thought his brother meant their cousin Charlie had ..."](/statements/statement-c75085f4f262.md)
+  - About: [Jack Hibbs](/entities/person-jack-hibbs.md), [Burton Hibbs](/entities/person-burton-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1)</summary>
@@ -341,7 +567,48 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jack Hibbs (1)</strong></summary>
+<summary><strong class="section-title">Statements about Jack Hibbs (13)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (12)</summary>
+
+- [00:07:03](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52) (Claim) **Candace Owens**: ["Owens said she first heard about Jack Hibbs when Marissa Streit sugges..."](/statements/statement-5c95a1bd0611.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Marissa Streit](/entities/person-marissa-streit.md), [PragerU](/entities/org-prageru.md)
+
+- [00:08:45](/episodes/ep-ZkDO-MRLUco.md#t-00-08-45) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs said he first learned that Charlie Kirk had died from an Is..."](/statements/statement-ae521d8fdb9f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:10:49](/episodes/ep-ZkDO-MRLUco.md#t-00-10-44) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs said his brother Burton called the night before the UVU eve..."](/statements/statement-65d42e2d2aa6.md)
+  - Also about: [Burton Hibbs](/entities/person-burton-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:13:56](/episodes/ep-ZkDO-MRLUco.md#t-00-13-56) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs told Todd Starnes that Charlie Kirk gave his brother a fron..."](/statements/statement-5b000612c437.md)
+  - Also about: [Burton Hibbs](/entities/person-burton-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:15:28](/episodes/ep-ZkDO-MRLUco.md#t-00-15-28) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said he called Jack Hibbs from the emergency room after th..."](/statements/statement-79ceb8b3ebd0.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:15:38](/episodes/ep-ZkDO-MRLUco.md#t-00-15-38) (Claim) **Michael McCoy** (via quoted speech): ["According to Jack Hibbs’s recollection, Michael McCoy asked him to get..."](/statements/statement-4d177843fbf8.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:16:14](/episodes/ep-ZkDO-MRLUco.md#t-00-16-14) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs said he initially thought his brother meant their cousin Ch..."](/statements/statement-c75085f4f262.md)
+  - Also about: [Burton Hibbs](/entities/person-burton-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:17:28](/episodes/ep-ZkDO-MRLUco.md#t-00-17-28) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said Jack Hibbs started a prayer chain right away and plac..."](/statements/statement-5487bc173e55.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:18:38](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21) (Claim) **Candace Owens**: ["Owens said the reported 12:30 prayer chain would have begun only seven..."](/statements/statement-f3cd280fc293.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:19:26](/episodes/ep-ZkDO-MRLUco.md#t-00-19-05) (Opinion) **Candace Owens**: ["Owens said it seemed implausible that Michael McCoy called Jack Hibbs ..."](/statements/statement-d5d1bb4d8560.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:25:18](/episodes/ep-ZkDO-MRLUco.md#t-00-25-18) (Claim) **Candace Owens**: ["Owens said footage appeared to show Burton Hibbs on a phone call about..."](/statements/statement-34925a90b2c9.md)
+  - Also about: [Burton Hibbs](/entities/person-burton-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:27:55](/episodes/ep-ZkDO-MRLUco.md#t-00-27-49) (Claim) **Candace Owens**: ["Owens said her team could not find Jack Hibbs mentioning that his brot..."](/statements/statement-0eea038364b8.md)
+  - Also about: [Burton Hibbs](/entities/person-burton-hibbs.md)
+
+</details>
 
 <details>
 <summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1)</summary>

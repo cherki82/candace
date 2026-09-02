@@ -1,23 +1,25 @@
 ---
 title: "Frank Zachary Turek"
-description: "Frank Zachary Turek (People) - 4 mentions"
+description: "Frank Zachary Turek (People) - 5 mentions"
 id: "person-frank-zachary-turek"
 type: "PERSON"
 aliases:
   - "Frank Zach Turek"
   - "Zachary Turek"
   - "Zach"
+  - "Frank Turek III"
 categories:
   - "Christian author"
   - "United States Air Force"
   - "Joint Staff"
+  - "United States military official"
 ---
 
 _Type: People_
 
-**Also known as:** Frank Zach Turek, Zachary Turek, Zach
+**Also known as:** Frank Zach Turek, Zachary Turek, Zach, Frank Turek III
 
-**Categories:** Christian author, United States Air Force, Joint Staff
+**Categories:** Christian author, United States Air Force, Joint Staff, United States military official
 
 > **Possibly overlapping entity records:** [Zachary Lewis](/entities/person-zachary-lewis). These records share a name or alias; compare their histories before treating either count as complete.
 
@@ -26,10 +28,10 @@ _Type: People_
 Source: [Frank Turek and Frank Zachary Turek | Christian Post](https://www.christianpost.com/by/frank-turek-and-frank-zachary-turek)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-zachary-turek-t-00-38-10">2026-07-16 · 00:38:32</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-frank-zachary-turek-t-00-19-13">2026-01-09 · 00:19:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-zachary-turek-t-00-40-17">2026-07-16 · 00:40:50</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -40,12 +42,14 @@ Source: [Frank Turek and Frank Zachary Turek | Christian Post](https://www.chris
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-zachary-turek-t-00-38-10">COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-frank-zachary-turek-t-00-19-13" style="--pulse-height:25%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-zachary-turek-t-00-38-10" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-frank-zachary-turek-t-00-19-13) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-zachary-turek-t-00-38-10) | 4 |
 
 </details>
@@ -58,7 +62,7 @@ Source: [Frank Turek and Frank Zachary Turek | Christian Post](https://www.chris
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (4 mentions)</summary>
@@ -74,6 +78,14 @@ Source: [Frank Turek and Frank Zachary Turek | Christian Post](https://www.chris
 
 **[00:40:50](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-zachary-turek-t-00-40-17)**
 > "...ank Turek) and his son, Zach (Frank Zach Turek), Pentagon Zach (Frank Zach Turek), actually wrot..."
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
+
+**[00:19:44](/episodes/ep-wcD2khO3rOA.md#ent-person-frank-zachary-turek-t-00-19-13)**
+> "...cer for eight years. His son, Frank Turek III,"
 
 </details>
 

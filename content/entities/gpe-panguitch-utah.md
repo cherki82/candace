@@ -177,7 +177,7 @@ Source: [Panguitch City official website](https://panguitchutah.gov/)
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
 
 - [00:30:05](/episodes/ep-_cNtgris8Ik.md#t-00-29-58) (Claim) **Candace Owens**: ["Owens said the FBI knew of the Panguitch restaurant lead and took a st..."](/statements/statement-8f1e2f9ada10.md)
-  - Also about: [FBI](/entities/org-fbi.md), [Cowboy’s Smokehouse Cafe](/entities/org-cowboys-smokehouse-cafe.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 

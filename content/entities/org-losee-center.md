@@ -1,6 +1,6 @@
 ---
 title: "Losee Center"
-description: "Losee Center (Organizations) - 52 mentions"
+description: "Losee Center (Organizations) - 71 mentions"
 id: "org-losee-center"
 type: "ORG"
 aliases:
@@ -8,20 +8,24 @@ aliases:
   - "Losee Center rooftop"
   - "Losey Center"
   - "Lozier Center"
+  - "Losee Center"
+  - "Losee"
+  - "Losee Center for Student Success"
 categories:
   - "Utah Valley University"
   - "campus facility"
   - "Utah Valley University campus building"
   - "shooting location"
+  - "Utah Valley University facility"
+  - "student services"
+  - "Orem"
 ---
 
 _Type: Organizations_
 
-**Also known as:** Losee Building, Losee Center rooftop, Losey Center, Lozier Center
+**Also known as:** Losee Building, Losee Center rooftop, Losey Center, Lozier Center, Losee Center, Losee, Losee Center for Student Success
 
-**Categories:** Utah Valley University, campus facility, Utah Valley University campus building, shooting location
-
-> **Possibly overlapping entity records:** [Losee Center for Student Success](/entities/org-losee-center-for-student-success). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** Utah Valley University, campus facility, Utah Valley University campus building, shooting location, Utah Valley University facility, student services, Orem
 
 **Entity verification:** verified
 > UVU's official site confirms the facility name Losee Center; the transcript's Losi spelling is an ASR error and is not retained as an alias.
@@ -30,39 +34,43 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-losee-center-t-00-06-55">2025-09-29 · 00:07:31</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-01-02-02">2026-08-21 · 01:02:02</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>71</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>30</strong></div>
+<div><span>Statements about</span><strong>40</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-losee-center-t-00-11-26">EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-t-00-10-33">Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-losee-center-t-00-06-55" style="--pulse-height:14%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-org-losee-center-t-00-35-37" style="--pulse-height:29%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#t-00-49-13" style="--pulse-height:14%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-losee-center-t-00-11-59" style="--pulse-height:57%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 4 mentions" title="2025-11-18 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-losee-center-t-00-51-31" style="--pulse-height:29%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-losee-center-t-00-16-52" style="--pulse-height:14%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-losee-center-t-00-04-06" style="--pulse-height:14%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#t-01-12-15" style="--pulse-height:14%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-losee-center-t-00-26-35" style="--pulse-height:14%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-losee-center-t-00-20-54" style="--pulse-height:29%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-losee-center-t-00-15-50" style="--pulse-height:57%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 4 mentions" title="2026-07-14 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-losee-center-t-00-10-56" style="--pulse-height:14%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-losee-center-t-00-11-26" style="--pulse-height:100%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 7 mentions" title="2026-07-16 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-losee-center-t-00-01-40" style="--pulse-height:86%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-losee-center-t-00-04-43" style="--pulse-height:71%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 5 mentions" title="2026-07-29 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-AoYZel7_cGQ.md#ent-org-losee-center-t-00-09-36" style="--pulse-height:57%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 4 mentions" title="2026-07-30 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-losee-center-t-00-00-01" style="--pulse-height:43%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 3 mentions" title="2026-08-04 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-losee-center-t-00-42-53" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-losee-center-t-00-18-15" style="--pulse-height:14%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9hRcfSrri70.md#t-00-15-36" style="--pulse-height:14%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-_cNtgris8Ik.md#t-01-02-02" style="--pulse-height:14%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-losee-center-t-00-06-55" style="--pulse-height:11%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-losee-center-t-00-35-37" style="--pulse-height:22%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#t-00-49-13" style="--pulse-height:11%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-losee-center-t-00-11-59" style="--pulse-height:44%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 4 mentions" title="2025-11-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-losee-center-t-00-51-31" style="--pulse-height:22%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-losee-center-t-00-16-52" style="--pulse-height:11%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-losee-center-t-00-04-06" style="--pulse-height:11%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-losee-center-t-01-03-01" style="--pulse-height:22%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#t-01-12-15" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-losee-center-t-00-26-35" style="--pulse-height:11%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-losee-center-t-00-20-54" style="--pulse-height:22%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-losee-center-t-00-15-50" style="--pulse-height:44%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 4 mentions" title="2026-07-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-losee-center-t-00-10-56" style="--pulse-height:11%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-losee-center-t-00-11-26" style="--pulse-height:78%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 7 mentions" title="2026-07-16 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-losee-center-t-00-01-40" style="--pulse-height:67%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-t-00-03-22" style="--pulse-height:33%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-losee-center-t-00-04-43" style="--pulse-height:56%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 5 mentions" title="2026-07-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-org-losee-center-t-00-09-36" style="--pulse-height:44%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 4 mentions" title="2026-07-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-losee-center-t-00-40-10" style="--pulse-height:44%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 4 mentions" title="2026-07-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-t-00-10-33" style="--pulse-height:100%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 9 mentions" title="2026-08-03 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-losee-center-t-00-00-01" style="--pulse-height:33%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 3 mentions" title="2026-08-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-losee-center-t-00-42-53" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-losee-center-t-00-18-15" style="--pulse-height:11%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#t-00-15-36" style="--pulse-height:11%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#t-01-02-02" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +83,7 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-losee-center-t-00-51-31) | 2 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-losee-center-t-00-16-52) | 1 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-losee-center-t-00-04-06) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-losee-center-t-01-03-01) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-01-12-15) | 1 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-losee-center-t-00-26-35) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-losee-center-t-00-20-54) | 2 |
@@ -82,8 +91,11 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-losee-center-t-00-10-56) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-losee-center-t-00-11-26) | 7 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-losee-center-t-00-01-40) | 6 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-t-00-03-22) | 3 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-losee-center-t-00-04-43) | 5 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-org-losee-center-t-00-09-36) | 4 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-losee-center-t-00-40-10) | 4 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-t-00-10-33) | 9 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-losee-center-t-00-00-01) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-losee-center-t-00-42-53) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-losee-center-t-00-18-15) | 1 |
@@ -100,7 +112,7 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (71)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -149,6 +161,55 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 </details>
 
 <details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (9 mentions)</summary>
+
+**[00:10:33](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-t-00-10-33)**
+> "...was with you that went to the Losee building who was in civilian clothing but appeare..."
+
+**[00:12:51](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-t-00-12-42)**
+> "... rooftop. Right. He gets onto Losee building at 1244."
+
+**[00:13:51](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-t-00-13-24)**
+> "...gley (Chris Bagley) went onto Losee rooftop after the feds had arrived and had secure..."
+
+**[00:14:02](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-t-00-14-02)**
+> "...just anybody to traverse onto Losee rooftop, right?"
+
+**[00:15:13](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-t-00-15-13)**
+> "... positively ID who was on the Losee rooftop center with you. And despite all of the r..."
+
+**[00:15:47](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-t-00-15-13)**
+> "...person walking and they catch Losee Rooftop. Who could that be? Who is that? Dear who..."
+
+**[00:16:06](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-t-00-15-57)**
+> "...again oh bag with the red hat Losee rooftop so who is that guy in plain clothes on Lo..."
+
+**[00:19:04](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-t-00-19-04)**
+> "...e red hat before going to the Losee center roof."
+
+**[00:47:47](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-t-00-47-27)**
+> "... there was 4k footage of like Losee center like no so tyler killed him you are condemning th..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (4 mentions)</summary>
+
+**[00:40:10](/episodes/ep-iB-YtO3UZOg.md#ent-org-losee-center-t-00-40-10)**
+> "I want to remind you guys that there is still zero evidence, zero concrete evidence that has been produced that there was ever even a gun on the Losee Center."
+
+**[00:35:02](/episodes/ep-iB-YtO3UZOg.md#ent-org-losee-center-t-00-35-02)**
+> "...decoy. Everybody's looking at Losee and we are being lied to. I think we all agree th..."
+
+**[00:41:53](/episodes/ep-iB-YtO3UZOg.md#ent-org-losee-center-t-00-41-53)**
+> "... with a gun from somewhere on Losee Center, and he's thinking, oh, I saw the person who shot..."
+
+**[00:42:11](/episodes/ep-iB-YtO3UZOg.md#ent-org-losee-center-t-00-41-53)**
+> "...ever a gun on that rooftop of Losee Center, that's narrative. That's not a fact."
+
+</details>
+
+<details>
 <summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (4 mentions)</summary>
 
 **[00:09:36](/episodes/ep-AoYZel7_cGQ.md#ent-org-losee-center-t-00-09-36)**
@@ -182,6 +243,20 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 
 **[00:18:16](/episodes/ep-Vu6Y24pqhZs.md#ent-org-losee-center-t-00-17-47)**
 > "The dogs that were brought to Losee Center, where the person jumped off, were given a scent,..."
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3 mentions)</summary>
+
+**[00:03:22](/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-t-00-03-22)**
+> "From a Losee rooftop. Again, you got to watch this clip becaus..."
+
+**[00:11:19](/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-t-00-10-57)**
+> "...nor disassembled his rifle on Losee, so did something go wrong?"
+
+**[00:14:15](/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-t-00-14-15)**
+> "...o recorded the rooftop guy on Losee, is likely telling the truth about the tactical c..."
 
 </details>
 
@@ -283,6 +358,17 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 
 **[01:12:15](/episodes/ep-9naMwS0kMBE.md#t-01-12-15)**
 > "people are not believing he was shot anymore or not shot with a 30 out six from the Losi Center."
+
+</details>
+
+<details>
+<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
+
+**[01:03:01](/episodes/ep-2T39-oADLj0.md#ent-org-losee-center-t-01-03-01)**
+> "...ave it released. And also the Losee building, where the shot definitely did not"
+
+**[01:03:17](/episodes/ep-2T39-oADLj0.md#ent-org-losee-center-t-01-03-01)**
+> "... military—something is in the Losee building. So there's a lot happening. All of that..."
 
 </details>
 
@@ -389,7 +475,7 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Losee Center (30)</strong></summary>
+<summary><strong class="section-title">Statements about Losee Center (40)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -413,6 +499,35 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 
 - [00:23:00](/episodes/ep-1CFDtD0IgEg.md#t-00-23-00) (Claim) **Candace Owens**: ["Candace Owens claimed that someone was on the Losee Center rooftop aft..."](/statements/statement-114df699bdb7.md)
   - Also about: [Chris Bagley](/entities/person-chris-bagley.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (2)</summary>
+
+- [00:15:06](/episodes/ep-AH1KVKkweUE.md#t-00-14-43) (Claim) **Candace Owens**: ["Owens said bystander footage captured at 12:47 p.m. showed Officer Bag..."](/statements/statement-8d22aa38a084.md)
+  - Also about: [Chris Bagley](/entities/person-chris-bagley.md), [Alan Edward Robertson](/entities/person-alan-edward-robertson.md)
+
+- [00:19:00](/episodes/ep-AH1KVKkweUE.md#t-00-18-20) (Accusation) **Nisi (independent-media creator; full name unverified)** (via quoted speech): ["Nisi alleged that Officer Bagley omitted that the red-hat man alerted ..."](/statements/statement-dc2250d9df75.md)
+  - Also about: [Chris Bagley](/entities/person-chris-bagley.md), [Alan Edward Robertson](/entities/person-alan-edward-robertson.md)
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (5)</summary>
+
+- [00:34:44](/episodes/ep-iB-YtO3UZOg.md#t-00-34-25) (Claim) **Candace Owens**: ["Owens said she believed the evidence showed Charlie Kirk was hit by a ..."](/statements/statement-00334c93b190.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Shaped charge](/entities/concept-shaped-charge.md)
+
+- [00:37:22](/episodes/ep-iB-YtO3UZOg.md#t-00-37-22) (Opinion) **Anonymous surgeon commenter (Ep iB-YtO3UZOg)** (via quoted post): ["An anonymous surgeon commenter said the trajectory described in the me..."](/statements/statement-b220669e6ee5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:40:10](/episodes/ep-iB-YtO3UZOg.md#t-00-40-10) (Claim) **Candace Owens**: ["Owens said no concrete evidence had been produced that there was ever ..."](/statements/statement-6133defccabf.md)
+
+- [00:41:37](/episodes/ep-iB-YtO3UZOg.md#t-00-41-35) (Claim) **Anonymous Losee Center Eyewitness** (via quoted speech): ["An unidentified eyewitness said a person had run across the Losee Cent..."](/statements/statement-9af1a6181380.md)
+
+- [00:42:18](/episodes/ep-iB-YtO3UZOg.md#t-00-41-53) (Opinion) **Candace Owens**: ["Owens said she did not believe there was a gun on the Losee Center roo..."](/statements/statement-babbe6e7dd38.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 
@@ -454,6 +569,17 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 - [00:13:01](/episodes/ep-Vu6Y24pqhZs.md#t-00-12-52) (Opinion) **Candace Owens**: ["Owens said she did not see recoil in the rooftop footage and argued th..."](/statements/statement-f50d5d1578a0.md)
 
 - [00:15:00](/episodes/ep-Vu6Y24pqhZs.md#t-00-14-46) (Claim) **Candace Owens**: ["Owens said the rooftop person performed a movement known as a lateral ..."](/statements/statement-e27b308d5001.md)
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>
+
+- [00:11:19](/episodes/ep-N4uM8Jdr410.md#t-00-10-57) (Claim) **Candace Owens**: ["Candace Owens said the rooftop man neither assembled nor disassembled ..."](/statements/statement-81af6aecc196.md)
+
+- [00:14:48](/episodes/ep-N4uM8Jdr410.md#t-00-14-15) (Claim) **Anonymous Losee Center Eyewitness** (via read message): ["An anonymous rooftop eyewitness said the man wore a black jacket and t..."](/statements/statement-1dad3c449079.md)
+
+- [00:15:07](/episodes/ep-N4uM8Jdr410.md#t-00-14-58) (Accusation) **Candace Owens**: ["Candace Owens said she thought it much more likely that the rooftop ma..."](/statements/statement-6e243df3a13c.md)
 
 </details>
 

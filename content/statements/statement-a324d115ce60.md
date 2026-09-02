@@ -1,8 +1,8 @@
 ---
 title: "An eyewitness speculated that the shooter may have used a sh..."
-description: "\"An eyewitness speculated that the shooter may have used a shorter rifle platform with a 10- or 20-round magazine and a lightweight .223 bullet such as...\" — Anonymous Source #1 (Ep UBkFkg4UNY8)"
+description: "\"An eyewitness speculated that the shooter may have used a shorter rifle platform with a 10- or 20-round magazine and a lightweight .223 bullet such as...\" — Anonymous Losee Center Eyewitness"
 statement_id: "statement-a324d115ce60"
-speaker: "Anonymous Source #1 (Ep UBkFkg4UNY8)"
+speaker: "Anonymous Losee Center Eyewitness"
 type: "opinion"
 ---
 
@@ -14,7 +14,7 @@ type: "opinion"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #1 (Ep UBkFkg4UNY8)](/entities/anon-src-UBkFkg4UNY8-001.md) (Anonymous Source)
+**Speaker:** [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md) (Anonymous Source)
 
 **Delivery:** Read from message
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

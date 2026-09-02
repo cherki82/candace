@@ -1,20 +1,23 @@
 ---
 title: "Gary Melton"
-description: "Gary Melton (People) - 20 mentions"
+description: "Gary Melton (People) - 21 mentions"
 id: "person-gary-melton"
 type: "PERSON"
 aliases:
   - "Paramount Tactical host"
+  - "Gary (Paramount Tactical host; surname unverified)"
 categories:
   - "military commentary"
   - "podcasting"
+  - "media host"
+  - "Paramount Tactical clip participant"
 ---
 
 _Type: People_
 
-**Also known as:** Paramount Tactical host
+**Also known as:** Paramount Tactical host, Gary (Paramount Tactical host; surname unverified)
 
-**Categories:** military commentary, podcasting
+**Categories:** military commentary, podcasting, media host, Paramount Tactical clip participant
 
 **Entity verification:** verified
 > TBN program transcript confirms spelling Gary Melton and ownership of Paramount Tactical Solutions.
@@ -22,9 +25,9 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#t-00-21-10">2026-05-06 · 00:21:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-gary-melton-t-00-39-37">2026-05-18 · 00:39:37</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-gary-melton-t-00-34-22">2026-07-23 · 00:34:24</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -39,6 +42,7 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-gary-melton-t-00-01-25" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 6 mentions" title="2026-05-13 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-gary-melton-t-00-38-00" style="--pulse-height:100%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 6 mentions" title="2026-05-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-gary-melton-t-00-38-24" style="--pulse-height:67%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 4 mentions" title="2026-05-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-gary-melton-t-00-34-22" style="--pulse-height:17%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +52,7 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-gary-melton-t-00-01-25) | 6 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-gary-melton-t-00-38-00) | 6 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-gary-melton-t-00-38-24) | 4 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-gary-melton-t-00-34-22) | 1 |
 
 </details>
 </section>
@@ -59,7 +64,15 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
+
+**[00:34:24](/episodes/ep-amqTMimDr0A.md#ent-person-gary-melton-t-00-34-22)**
+> "Never. That's not her MO. I have a lot of thoughts about this, to be honest with you, Gary (Paramount Tactical host; surname unverified)."
+
+</details>
 
 <details>
 <summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (4 mentions)</summary>

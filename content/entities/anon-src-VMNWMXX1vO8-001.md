@@ -46,7 +46,7 @@ _No relationships extracted yet._
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Shawn Ryan](/entities/person-shawn-ryan.md)
 
 - [00:06:11](/episodes/ep-VMNWMXX1vO8.md#t-00-05-32) [○] (Claim) ["Terrell Farnsworth was involved in communications to potentially book an Erika K..."](/statements/statement-d6aa772e0a96.md)
-  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Erika Kirk](/entities/person-erika-kirk.md), [Brian Harpole](/entities/person-brian-harpole.md)
+  - About: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Erika Kirk](/entities/person-erika-kirk.md), [Brian Harpole](/entities/person-brian-harpole.md)
 
 </details>
 

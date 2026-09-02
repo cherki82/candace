@@ -25,7 +25,7 @@ veracity: "true"
 
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Dodge Challenger](/entities/vehicle-dodge-challenger.md) (vehicle)
-- [Anonymous Source #3 (Ep EtLHqDbxqks)](/entities/anon-src-EtLHqDbxqks-003.md) (anonymous_source)
+- [Ms. Noble (ring-camera witness; full identity unverified)](/entities/anon-src-EtLHqDbxqks-008.md) (anonymous_source)
 
 ## Source
 

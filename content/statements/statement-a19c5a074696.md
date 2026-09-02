@@ -4,10 +4,9 @@ description: "\"Candace Owens says she spoke to the steakhouse owner and saw a r
 statement_id: "statement-a19c5a074696"
 speaker: "Candace Owens"
 type: "factual_claim"
-veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -43,20 +42,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The source episode directly records Owens saying she spoke with the steakhouse owner, saw a receipt, and considered that sufficient for her timeline. This verifies what she reported and her stated assessment, not independent authentication of the receipt.
-
-**Confidence:** High
-
-**Sources:**
-
-- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](https://www.youtube.com/watch?v=nPhCKwJ6ye8)
-
-*Verified: 2026-08-16T14:38:05.566820*
+_This statement has not yet been verified._
 
 ---
 

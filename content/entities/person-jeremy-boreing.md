@@ -664,7 +664,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 
-- **[Anonymous Source #1 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-001.md)**
+- **[No Soup for Knolls (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-no-soup-for-knolls.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:31:32](/episodes/ep-5zgkrOaCCj4.md#t-00-31-32): “So my assumption was that this account No Soup for Knowles was like a a young person who got obsessed and then got more obsessed because they're using an avatar that looks like this and got more obsessed with the daily wire they started attacking me with uh this Britta (Britta Widener) is her name started attacking me with the crisis king stuff because she was a daily wire super fan and like obviously i knew that their pr agent and Jeremy Boring were working through her because Jeremy Boring likes to find these”

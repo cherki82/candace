@@ -1,6 +1,6 @@
 ---
 title: "Godspeak Calvary Chapel"
-description: "Godspeak Calvary Chapel (Organizations) - 2 mentions"
+description: "Godspeak Calvary Chapel (Organizations) - 3 mentions"
 id: "org-godspeak-calvary-chapel"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [About - Godspeak Calvary Chapel](https://site.godspeak.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-godspeak-calvary-chapel-t-00-13-26">2025-11-04 · 00:13:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#t-00-29-56">2026-05-27 · 00:30:09</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#t-00-04-27">2026-09-01 · 00:04:54</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -33,6 +33,7 @@ Source: [About - Godspeak Calvary Chapel](https://site.godspeak.com/about)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-godspeak-calvary-chapel-t-00-13-26" style="--pulse-height:100%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#t-00-29-56" style="--pulse-height:100%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#t-00-04-27" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [About - Godspeak Calvary Chapel](https://site.godspeak.com/about)
 |---|---|---:|
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-godspeak-calvary-chapel-t-00-13-26) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#t-00-29-56) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [About - Godspeak Calvary Chapel](https://site.godspeak.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27)**
+> "Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -74,9 +84,10 @@ Source: [About - Godspeak Calvary Chapel](https://site.godspeak.com/about)
 <summary>Based In (1)</summary>
 
 - **[Thousand Oaks](/entities/gpe-thousand-oaks.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 
 </details>
 
@@ -111,9 +122,10 @@ Source: [About - Godspeak Calvary Chapel](https://site.godspeak.com/about)
 <summary>Funded By (1)</summary>
 
 - **[Wilks Brothers](/entities/person-wilks-brothers.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “his church was funded by the Wilks Brothers down in Texas.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:07:03](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52): “She's never hidden that fact. So we're not exactly. exactly revealing or bringing any news there but I used to work for PragerU and she had suggested to me that I have him on my podcast I don't believe it ever happened but you can take from that what you will it is a fact that is how I learned about Jack (Jack Hibbs) uh Jack Hibbs from Marissa (Marissa Streit) It is also a fact that the same family who funds the construction of some of those Calvary Chapel churches, like Rob McCoy's church in Thousand Oaks, are the billionaire Wilks brothers.”
 
 </details>
 
@@ -123,9 +135,10 @@ Source: [About - Godspeak Calvary Chapel](https://site.godspeak.com/about)
 <summary>Has Pastor (2)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:14:33](/episodes/ep-Qfwr08Ebczo.md#t-00-14-05): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 
 </details>
 
@@ -149,23 +162,26 @@ Source: [About - Godspeak Calvary Chapel](https://site.godspeak.com/about)
 </details>
 
 - **[Wilks Brothers](/entities/person-wilks-brothers.md)** funded this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “his church was funded by the Wilks Brothers down in Texas.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:07:03](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52): “She's never hidden that fact. So we're not exactly. exactly revealing or bringing any news there but I used to work for PragerU and she had suggested to me that I have him on my podcast I don't believe it ever happened but you can take from that what you will it is a fact that is how I learned about Jack (Jack Hibbs) uh Jack Hibbs from Marissa (Marissa Streit) It is also a fact that the same family who funds the construction of some of those Calvary Chapel churches, like Rob McCoy's church in Thousand Oaks, are the billionaire Wilks brothers.”
 
 </details>
 
 - **[Thousand Oaks](/entities/gpe-thousand-oaks.md)** location of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 
 </details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** pastor of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:14:33](/episodes/ep-Qfwr08Ebczo.md#t-00-14-05): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 
 </details>
 

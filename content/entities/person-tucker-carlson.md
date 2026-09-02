@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 643 mentions"
+description: "Tucker Carlson (People) - 645 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-tucker-carlson-t-00-49-01">2026-08-31 · 00:49:01</a></strong></div>
-<div><span>Episodes</span><strong>106</strong></div>
-<div><span>Mentions</span><strong>643</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tucker-carlson-t-00-53-22">2026-09-01 · 00:53:49</a></strong></div>
+<div><span>Episodes</span><strong>107</strong></div>
+<div><span>Mentions</span><strong>645</strong></div>
 <div><span>Statements by</span><strong>62</strong></div>
-<div><span>Statements about</span><strong>94</strong></div>
+<div><span>Statements about</span><strong>95</strong></div>
 <div><span>Relationships</span><strong>124</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -141,6 +141,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-tucker-carlson-t-00-14-30" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tucker-carlson-t-00-22-14" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-tucker-carlson-t-00-49-01" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tucker-carlson-t-00-53-22" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -252,6 +253,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-tucker-carlson-t-00-14-30) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-tucker-carlson-t-00-22-14) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-tucker-carlson-t-00-49-01) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-tucker-carlson-t-00-53-22) | 2 |
 
 </details>
 </section>
@@ -263,7 +265,18 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (643)</strong></summary>
+<summary><strong class="section-title">Raw mentions (645)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>
+
+**[00:53:22](/episodes/ep-ZkDO-MRLUco.md#ent-person-tucker-carlson-t-00-53-22)**
+> "But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even"
+
+**[00:53:49](/episodes/ep-ZkDO-MRLUco.md#ent-person-tucker-carlson-t-00-53-22)**
+> "...he's a good friend of Tucker (Tucker Carlson)."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
@@ -3055,12 +3068,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:40:25](/episodes/ep-5NQyGuRYbU8.md#t-00-40-16): “Because in the manner in which Tucker (Tucker Carlson) expressed it, okay? ... him being a friend to Charlie (Charlie Kirk) and Erika (Erika Kirk)”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:46:54](/episodes/ep-VMNWMXX1vO8.md#t-00-46-54): “Tucker (Tucker Carlson), you and Charlie (Charlie Kirk) had such a unique and special bond and relationship. ... It was a deep friendship”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:18:53](/episodes/ep-K1tFD7FfoCU.md#t-00-18-23): “The point of me sharing this though is to make it very clear that Charlie (Charlie Kirk) loved Tucker (Tucker Carlson).”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:26:01](/episodes/ep-w1oqQbR_bYs.md#t-00-26-01): “That is Charlie Kirk's true legacy and that is Charlie Kirk's true friend, just as I was and am and will continue to fight and ask questions about who killed Charlie Kirk.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even ... You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson).”
 
 </details>
 
@@ -3580,12 +3594,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:40:25](/episodes/ep-5NQyGuRYbU8.md#t-00-40-16): “Because in the manner in which Tucker (Tucker Carlson) expressed it, okay? ... him being a friend to Charlie (Charlie Kirk) and Erika (Erika Kirk)”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:46:54](/episodes/ep-VMNWMXX1vO8.md#t-00-46-54): “Tucker (Tucker Carlson), you and Charlie (Charlie Kirk) had such a unique and special bond and relationship. ... It was a deep friendship”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:18:53](/episodes/ep-K1tFD7FfoCU.md#t-00-18-23): “The point of me sharing this though is to make it very clear that Charlie (Charlie Kirk) loved Tucker (Tucker Carlson).”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:26:01](/episodes/ep-w1oqQbR_bYs.md#t-00-26-01): “That is Charlie Kirk's true legacy and that is Charlie Kirk's true friend, just as I was and am and will continue to fight and ask questions about who killed Charlie Kirk.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even ... You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson).”
 
 </details>
 
@@ -4064,7 +4079,15 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucker Carlson (94)</strong></summary>
+<summary><strong class="section-title">Statements about Tucker Carlson (95)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22) (Claim) **Candace Owens**: ["Owens said Blake Neff began working with Charlie Kirk around the begin..."](/statements/statement-5cf3954bac20.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
@@ -4443,7 +4466,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
 
 - [00:20:45](/episodes/ep-LATnak75Si0.md#t-00-20-09) (Accusation) **Candace Owens**: ["Candace Owens accused Robert Shillman of taking two million dollars aw..."](/statements/statement-15d3386acf60.md)
-  - Also about: [Robert Shillman](/entities/person-robert-shillman.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Robert J. Shillman](/entities/person-robert-j-shillman.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

@@ -1,8 +1,8 @@
 ---
 title: "Ashley said Terry and Judith Crist were very close with Erik..."
-description: "\"Ashley said Terry and Judith Crist were very close with Erika Kirk from approximately 2011 through 2016\" — Anonymous Source #2 (Ep cZxHqYsWRYg)"
+description: "\"Ashley said Terry and Judith Crist were very close with Erika Kirk from approximately 2011 through 2016\" — Ashley (Candace Owens producer; surname unverified)"
 statement_id: "statement-d5548877cc70"
-speaker: "Anonymous Source #2 (Ep cZxHqYsWRYg)"
+speaker: "Ashley (Candace Owens producer; surname unverified)"
 type: "factual_claim"
 veracity: "unverifiable"
 ---
@@ -15,7 +15,7 @@ veracity: "unverifiable"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #2 (Ep cZxHqYsWRYg)](/entities/anon-src-cZxHqYsWRYg-002.md) (Guest)
+**Speaker:** [Ashley (Candace Owens producer; surname unverified)](/entities/person-producer-ashley-unverified.md) (Guest)
 
 **Delivery:** Made directly
 

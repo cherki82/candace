@@ -4,10 +4,9 @@ description: "\"Candace Owens claimed black shards were on the floor of the SUV 
 statement_id: "statement-9fd8c0c7bf15"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -34,20 +33,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The transcript and primary recording confirm Owens claimed there were black shards in the SUV and accused the FBI of having it cleaned and resold. The searches found no authoritative public chain-of-custody record establishing those underlying assertions; verification is therefore limited to the accurately framed fact that she made the claim and accusation.
-
-**Confidence:** Medium
-
-**Sources:**
-
-- [A Shocking Truth Revealed In The 4K Footage... | Ep 373](https://rumble.com/v7dto7u-a-shocking-truth-revealed-in-the-4k-footage.-beavis-and-butt-head-send-a-me.html)
-
-*Verified: 2026-08-28T05:43:22.742350*
+_This statement has not yet been verified._
 
 ---
 

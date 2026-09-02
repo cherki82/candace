@@ -4,10 +4,9 @@ description: "\"Candace Owens said doctors should be imprisoned for the drugs pr
 statement_id: "statement-368f78745c55"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -22,7 +21,7 @@ veracity: "true"
 ## About
 
 - [Lindsay Clancy](/entities/person-lindsay-clancy.md) (person)
-- [Big Pharma](/entities/concept-big-pharma.md) (concept)
+- [Pharmaceutical industry](/entities/concept-pharmaceutical-industry.md) (concept)
 
 ## Source
 
@@ -34,21 +33,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-Transcript context and the primary episode directly confirm Owens said doctors should be imprisoned and accused pharmaceutical interests of responsibility. Current AP reporting shows Clancy's criminal responsibility remained before a deliberating jury on August 28, 2026 and describes conflicting evidence about her treatment. This verifies Owens's accusation as speech, not criminal liability of clinicians or pharmaceutical companies.
-
-**Confidence:** Medium
-
-**Sources:**
-
-- [A Shocking Truth Revealed In The 4K Footage... | Ep 373](https://rumble.com/v7dto7u-a-shocking-truth-revealed-in-the-4k-footage.-beavis-and-butt-head-send-a-me.html)
-- [A look at the Lindsay Clancy murder trial](https://apnews.com/article/lindsay-clancy-murder-trial-what-to-know-775003a75689cfde13750257849187ae)
-
-*Verified: 2026-08-28T05:43:22.742403*
+_This statement has not yet been verified._
 
 ---
 

@@ -367,7 +367,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <details>
 <summary>Member Of (1)</summary>
 
-- **[LDS church](/entities/org-lds-church.md)**
+- **[The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:21:05](/episodes/ep-YA1FxrDWNIo.md#t-00-21-05): “We also learned that he's a Boy Scout leader in the LDS church, but usually if you have a long tenure as a police officer, you're just featured in a lot of articles.”
@@ -468,7 +468,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 
 </details>
 
-- **[LDS church](/entities/org-lds-church.md)** has member this
+- **[The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)** has member this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:21:05](/episodes/ep-YA1FxrDWNIo.md#t-00-21-05): “We also learned that he's a Boy Scout leader in the LDS church, but usually if you have a long tenure as a police officer, you're just featured in a lot of articles.”

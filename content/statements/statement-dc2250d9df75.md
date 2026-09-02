@@ -25,7 +25,7 @@ veracity: "true"
 
 - [Chris Bagley](/entities/person-chris-bagley.md) (person)
 - [Alan Edward Robertson](/entities/person-alan-edward-robertson.md) (person)
-- [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md) (org)
+- [Losee Center](/entities/org-losee-center.md) (org)
 
 ## Source
 

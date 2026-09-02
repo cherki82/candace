@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 - [Tyler Bowyer](/entities/person-tyler-bowyer.md) (person)
 
 ## Source

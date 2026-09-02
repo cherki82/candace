@@ -1,6 +1,6 @@
 ---
 title: "Home equity line of credit"
-description: "Home equity line of credit (Concepts) - 60 mentions"
+description: "Home equity line of credit (Concepts) - 61 mentions"
 id: "concept-home-equity-line-of-credit"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-home-equity-line-of-credit-t-00-56-30">2025-09-15 · 00:56:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-home-equity-line-of-credit-t-03-00-28">2026-08-14 · 03:00:33</a></strong></div>
-<div><span>Episodes</span><strong>60</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-concept-home-equity-line-of-credit-t-00-40-30">2026-09-01 · 00:41:04</a></strong></div>
+<div><span>Episodes</span><strong>61</strong></div>
+<div><span>Mentions</span><strong>61</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -95,6 +95,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-home-equity-line-of-credit-t-00-53-56" style="--pulse-height:100%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-concept-home-equity-line-of-credit-t-00-45-56" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-home-equity-line-of-credit-t-03-00-28" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-concept-home-equity-line-of-credit-t-00-40-30" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -160,6 +161,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-concept-home-equity-line-of-credit-t-00-53-56) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-concept-home-equity-line-of-credit-t-00-45-56) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-concept-home-equity-line-of-credit-t-03-00-28) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-concept-home-equity-line-of-credit-t-00-40-30) | 1 |
 
 </details>
 </section>
@@ -167,7 +169,15 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:41:04](/episodes/ep-ZkDO-MRLUco.md#ent-concept-home-equity-line-of-credit-t-00-40-30)**
+> "It's basically a surgical strike against debt. Unlike a fluctuating HELOC, the Smart Equity Loan is a fixed rate loan giving you a predictable monthly payment."
+
+</details>
 
 <details>
 <summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>

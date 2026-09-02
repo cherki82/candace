@@ -21,7 +21,7 @@ veracity: "unverifiable"
 
 ## About
 
-- [Turning Point Faith](/entities/org-turning-point-faith.md) (org)
+- [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md) (org)
 - [Land grab](/entities/concept-land-grab.md) (concept)
 
 ## Source

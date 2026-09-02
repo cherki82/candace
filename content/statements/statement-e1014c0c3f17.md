@@ -1,8 +1,8 @@
 ---
 title: "Farnsworth said, \"He's dead,\" within approximately two minut..."
-description: "\"Farnsworth said, \"He's dead,\" within approximately two minutes of Charlie Kirk being hit.\" — Terrell Farnsworth"
+description: "\"Farnsworth said, \"He's dead,\" within approximately two minutes of Charlie Kirk being hit.\" — Terryl Farnsworth"
 statement_id: "statement-e1014c0c3f17"
-speaker: "Terrell Farnsworth"
+speaker: "Terryl Farnsworth"
 type: "factual_claim"
 veracity: "mixed"
 ---
@@ -15,7 +15,7 @@ veracity: "mixed"
 
 ## Attribution
 
-**Speaker:** [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (Quoted)
+**Speaker:** [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (Quoted)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

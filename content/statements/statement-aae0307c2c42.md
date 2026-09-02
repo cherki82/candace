@@ -1,8 +1,8 @@
 ---
 title: "I wanted to secure the footage for Erika so that she wouldn'..."
-description: "\"I wanted to secure the footage for Erika so that she wouldn't have to see the footage of Charlie being shot in 4K.\" — Terrell Farnsworth"
+description: "\"I wanted to secure the footage for Erika so that she wouldn't have to see the footage of Charlie being shot in 4K.\" — Terryl Farnsworth"
 statement_id: "statement-aae0307c2c42"
-speaker: "Terrell Farnsworth"
+speaker: "Terryl Farnsworth"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (Quoted)
+**Speaker:** [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (Quoted)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

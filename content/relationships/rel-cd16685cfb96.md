@@ -11,7 +11,11 @@ object: "person-frank-turek"
 
 ## [Jack Hibbs](/entities/person-jack-hibbs) appeared with [Frank Turek](/entities/person-frank-turek)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco)**
+
+- [00:09:30](/episodes/ep-ZkDO-MRLUco#t-00-09-30): _UVU college campus event. Okay, listen to Jack (Jack Hibbs) explain how that all came together to his dear friend, the Yankin and Bankin Frankin Turek (Frank Turek). Take a listen._
 
 **[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
 

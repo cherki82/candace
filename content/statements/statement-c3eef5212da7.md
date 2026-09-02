@@ -22,7 +22,7 @@ veracity: "true"
 ## About
 
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
-- [Otto Busher III](/entities/person-otto-busher-iii.md) (person)
+- [Otto A. Busher III](/entities/person-otto-a-busher-iii.md) (person)
 
 ## Source
 

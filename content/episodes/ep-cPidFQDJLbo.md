@@ -375,7 +375,7 @@ youtube_url: "https://www.youtube.com/watch?v=cPidFQDJLbo"
 <details>
 <summary><strong>Entities Mentioned (70)</strong></summary>
 
-**Concepts:** [Artificial intelligence](/entities/concept-artificial-intelligence.md), [Christians](/entities/concept-christians.md), [Deoxyribonucleic acid](/entities/concept-dna.md), [Doge](/entities/concept-doge.md), [Home equity line of credit](/entities/concept-home-equity-line-of-credit.md), [Islam](/entities/concept-islam.md), [MAGA movement](/entities/concept-maga-movement.md), [Selective serotonin reuptake inhibitors](/entities/concept-selective-serotonin-reuptake-inhibitors.md)
+**Concepts:** [Artificial intelligence](/entities/concept-artificial-intelligence.md), [Christians](/entities/concept-christians.md), [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md), [Deoxyribonucleic acid](/entities/concept-dna.md), [Home equity line of credit](/entities/concept-home-equity-line-of-credit.md), [Islam](/entities/concept-islam.md), [MAGA movement](/entities/concept-maga-movement.md), [Selective serotonin reuptake inhibitors](/entities/concept-selective-serotonin-reuptake-inhibitors.md)
 
 **Places:** [Arizona](/entities/gpe-arizona.md), [Colorado](/entities/gpe-colorado.md), [Israel](/entities/gpe-israel.md), [Kentucky](/entities/gpe-kentucky.md), [Los Angeles](/entities/gpe-los-angeles.md), [Middle East](/entities/gpe-middle-east.md), [Phoenix](/entities/gpe-phoenix.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md)
 
@@ -421,7 +421,7 @@ youtube_url: "https://www.youtube.com/watch?v=cPidFQDJLbo"
 - [00:22:34](#t-00-22-22) [✓] (Promise) **Candace Owens**: ["I am willing to give investigators the names of the people to whom Erika Kirk di..."](/statements/statement-80d5b5ae9aea.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
 - [00:22:59](#t-00-22-59) [○] (Claim) **Candace Owens**: ["Owens alleged that Charlie Kirk said 10 million dollars was missing from Turning..."](/statements/statement-2ac0e37e2684.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Doge](/entities/concept-doge.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md)
 - [00:23:19](#t-00-22-59) [○] (Claim) **Candace Owens**: ["Three people told me that the very day before Charlie Kirk died, he expressed th..."](/statements/statement-8bfba37e9a51.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:24:09](#t-00-23-44) [○] (Claim) **Candace Owens**: ["I warned Charlie Kirk not to trust the people around him whom the world now sees..."](/statements/statement-6291cac12761.md)

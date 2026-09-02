@@ -857,7 +857,7 @@ _No relationships extracted yet._
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
 
 - [00:43:34](/episodes/ep-A39g5oqB_eM.md#t-00-42-54) (Accusation) **Candace Owens**: ["I kind of feel like the military cult has been in power since Lyndon B..."](/statements/statement-752644045760.md)
-  - Also about: [Lyndon B. Johnson](/entities/person-lyndon-b-johnson.md)
+  - Also about: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)
 
 </details>
 

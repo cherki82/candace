@@ -1,6 +1,6 @@
 ---
 title: "Corby Hall"
-description: "Corby Hall (People) - 89 mentions"
+description: "Corby Hall (People) - 87 mentions"
 id: "person-corby-hall"
 type: "PERSON"
 categories:
@@ -20,7 +20,7 @@ Source: [About | FoldAR](https://foldar.com/about/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-corby-hall-t-00-06-29">2026-04-14 · 00:06:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-01-18-09">2026-05-19 · 01:18:09</a></strong></div>
 <div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>89</strong></div>
+<div><span>Mentions</span><strong>87</strong></div>
 <div><span>Statements by</span><strong>21</strong></div>
 <div><span>Statements about</span><strong>39</strong></div>
 <div><span>Relationships</span><strong>25</strong></div>
@@ -29,29 +29,29 @@ Source: [About | FoldAR](https://foldar.com/about/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-09-01">LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341</a> (31 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-09-01">LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341</a> (30 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-corby-hall-t-00-06-29" style="--pulse-height:71%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 22 mentions" title="2026-04-14 · 22 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-person-corby-hall-t-00-38-41" style="--pulse-height:16%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 5 mentions" title="2026-04-15 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-corby-hall-t-00-30-52" style="--pulse-height:42%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 13 mentions" title="2026-04-16 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-corby-hall-t-00-06-29" style="--pulse-height:70%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 21 mentions" title="2026-04-14 · 21 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-person-corby-hall-t-00-38-41" style="--pulse-height:17%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 5 mentions" title="2026-04-15 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-corby-hall-t-00-30-52" style="--pulse-height:43%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 13 mentions" title="2026-04-16 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-corby-hall-t-00-16-24" style="--pulse-height:13%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 4 mentions" title="2026-04-21 · 4 mentions"><span></span></a>
-<a href="/episodes/ep--9MOUvgGyi4.md#ent-person-corby-hall-t-00-00-00" style="--pulse-height:26%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 8 mentions" title="2026-04-22 · 8 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-person-corby-hall-t-00-00-00" style="--pulse-height:27%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 8 mentions" title="2026-04-22 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-corby-hall-t-01-08-12" style="--pulse-height:10%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-corby-hall-t-00-00-00" style="--pulse-height:10%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-09-01" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 31 mentions" title="2026-05-19 · 31 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-09-01" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 30 mentions" title="2026-05-19 · 30 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-corby-hall-t-00-06-29) | 22 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-corby-hall-t-00-06-29) | 21 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-corby-hall-t-00-38-41) | 5 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-corby-hall-t-00-30-52) | 13 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-corby-hall-t-00-16-24) | 4 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-corby-hall-t-00-00-00) | 8 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-corby-hall-t-01-08-12) | 3 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-corby-hall-t-00-00-00) | 3 |
-| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-09-01) | 31 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-09-01) | 30 |
 
 </details>
 </section>
@@ -63,10 +63,10 @@ Source: [About | FoldAR](https://foldar.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (89)</strong></summary>
+<summary><strong class="section-title">Raw mentions (87)</strong></summary>
 
 <details>
-<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (31 mentions)</summary>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (30 mentions)</summary>
 
 **[00:09:15](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-09-01)**
 > "...nyway, as you know, we hosted Corby Hall, who claimed that Victor Marx was doing some deal..."
@@ -100,9 +100,6 @@ Source: [About | FoldAR](https://foldar.com/about/)
 
 **[00:18:17](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-18-17)**
 > "...ught me here, which is Corby (Corby Hall). And I clearly communicated to you and your staf..."
-
-**[00:18:55](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-18-17)**
-> "...dy) contact y'all, not Corby (Corby Hall), but did Corey (Corey Kennedy) contact y'all wit..."
 
 **[00:18:55](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-18-17)**
 > "But I need you to at least acknowledge, did Corey (Corey Kennedy) contact y'all, not Corby (Corby Hall), but did Corey (Corey Kennedy) contact y'all with the concerns of not platforming Corby (Corby Hall) again?"
@@ -302,7 +299,7 @@ Source: [About | FoldAR](https://foldar.com/about/)
 </details>
 
 <details>
-<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (22 mentions)</summary>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (21 mentions)</summary>
 
 **[00:06:29](/episodes/ep-jsqUIkszZd0.md#ent-person-corby-hall-t-00-06-29)**
 > "...t this young man. His name is Corby Hall and Corby Hall, you should know, manufactures gun..."
@@ -353,9 +350,6 @@ Source: [About | FoldAR](https://foldar.com/about/)
 > "No one contacted Corby (Corby Hall). Nothing. Just a missing gun."
 
 **[00:37:58](/episodes/ep-jsqUIkszZd0.md#ent-person-corby-hall-t-00-37-34)**
-> "...s gun went missing and Corby (Corby Hall) receives an email from the ATF."
-
-**[00:38:00](/episodes/ep-jsqUIkszZd0.md#ent-person-corby-hall-t-00-37-34)**
 > "...s gun went missing and Corby (Corby Hall) receives an email from the ATF."
 
 **[00:38:51](/episodes/ep-jsqUIkszZd0.md#ent-person-corby-hall-t-00-38-16)**

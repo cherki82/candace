@@ -23,7 +23,7 @@ veracity: "mixed"
 
 ## About
 
-- [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md) (gpe)
+- [Joint Base Andrews](/entities/gpe-joint-base-andrews.md) (gpe)
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
 - [U.S. Air Force C-37A](/entities/vehicle-us-air-force-c-37a.md) (vehicle)
 

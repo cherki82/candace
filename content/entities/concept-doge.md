@@ -1,25 +1,29 @@
 ---
-title: "Doge"
-description: "Doge (Concepts) - 25 mentions"
+title: "DOGE (Turning Point USA internal audit)"
+description: "DOGE (Turning Point USA internal audit) (Concepts) - 23 mentions"
 id: "concept-doge"
 type: "CONCEPT"
+aliases:
+  - "DOGE"
 categories:
   - "Turning Point USA internal audit initiative"
 ---
 
 _Type: Concepts_
 
+**Also known as:** DOGE
+
 **Categories:** Turning Point USA internal audit initiative
 
 > **Possibly overlapping entity records:** [Department of Government Efficiency](/entities/org-department-of-government-efficiency). These records share a name or alias; compare their histories before treating either count as complete.
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-concept-doge-t-00-19-58">2025-09-25 · 00:20:17</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-concept-doge-t-00-21-59">2025-09-25 · 00:20:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-concept-doge-t-00-30-54">2026-05-20 · 00:30:59</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -28,9 +32,9 @@ _Type: Concepts_
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-his-JBjlkh8.md#ent-concept-doge-t-00-15-43">BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-concept-doge-t-00-19-58" style="--pulse-height:80%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 4 mentions" title="2025-09-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-concept-doge-t-00-21-59" style="--pulse-height:40%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-doge-t-00-36-53" style="--pulse-height:40%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-doge-t-00-49-47" style="--pulse-height:60%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 3 mentions" title="2025-11-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-doge-t-00-49-47" style="--pulse-height:40%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-concept-doge-t-00-55-35" style="--pulse-height:20%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-doge-t-00-17-34" style="--pulse-height:20%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-concept-doge-t-00-05-06" style="--pulse-height:20%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
@@ -38,6 +42,7 @@ _Type: Concepts_
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-concept-doge-t-00-54-00" style="--pulse-height:20%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-concept-doge-t-00-15-43" style="--pulse-height:100%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 5 mentions" title="2025-12-03 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-concept-doge-t-00-37-59" style="--pulse-height:20%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-concept-doge-t-00-05-05" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-concept-doge-t-00-26-36" style="--pulse-height:20%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-concept-doge-t-00-30-54" style="--pulse-height:40%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
 </div>
@@ -45,9 +50,9 @@ _Type: Concepts_
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-concept-doge-t-00-19-58) | 4 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-concept-doge-t-00-21-59) | 2 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-concept-doge-t-00-36-53) | 2 |
-| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-doge-t-00-49-47) | 3 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-doge-t-00-49-47) | 2 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-doge-t-00-55-35) | 1 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-doge-t-00-17-34) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-concept-doge-t-00-05-06) | 1 |
@@ -55,6 +60,7 @@ _Type: Concepts_
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-concept-doge-t-00-54-00) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-concept-doge-t-00-15-43) | 5 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-concept-doge-t-00-37-59) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-concept-doge-t-00-05-05) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-doge-t-00-26-36) | 1 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-concept-doge-t-00-30-54) | 2 |
 
@@ -68,7 +74,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2 mentions)</summary>
@@ -86,6 +92,14 @@ _Type: Concepts_
 
 **[00:26:49](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-doge-t-00-26-36)**
 > "Charlie (Charlie Kirk) establishing a DOGE seven days before he died, Bibi (Benjamin Netanyahu)'s phone call in the Hamptons, Donald Trump, pageantry world, the Epstein files."
+
+</details>
+
+<details>
+<summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
+
+**[00:05:29](/episodes/ep-GY6GWceEqtQ.md#ent-concept-doge-t-00-05-05)**
+> "And they're quoting me. at Turning Point USA. So we obviously broke the story about Charlie (Charlie Kirk) establishing a doge seven days before he died, and it led a lot of the public to speculate. I would say this was common sense speculation, by the way."
 
 </details>
 
@@ -164,16 +178,13 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
 
 **[00:50:29](/episodes/ep-vwG1juDCQZQ.md#ent-concept-doge-t-00-49-47)**
 > "... things that were happening at Turning Point USA, at the reason why Charlie (Charlie Kirk) wanted a Doge—as she did. "Oh, we do this every—" No: you don't do a Doge every year. Do I know how I know that? ..."
 
 **[00:50:32](/episodes/ep-vwG1juDCQZQ.md#ent-concept-doge-t-00-50-32)**
 > "...son why Charlie (Charlie Kirk) wanted a Doge—as she did. "Oh, we do this every—" No: you don't do a Doge every year. Do I know how I know that? Because Doge didn't exist before Elon Musk. So it's like: wh..."
-
-**[00:50:42](/episodes/ep-vwG1juDCQZQ.md#ent-concept-doge-t-00-50-32)**
-> "...did. "Oh, we do this every—" No: you don't do a Doge every year. Do I know how I know that? Because Doge didn't exist before Elon Musk. So it's like: what are you saying? They want us to pretend we're rea..."
 
 </details>
 
@@ -189,16 +200,10 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (4 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
-**[00:20:17](/episodes/ep-K5GjF53bfN4.md#ent-concept-doge-t-00-19-58)**
+**[00:20:17](/episodes/ep-K5GjF53bfN4.md#ent-concept-doge-t-00-21-59)**
 > "...his life, Charlie (Charlie Kirk) surprised the company by announcing that he was putting together a DOGE department. Yes, a Department of Government Efficiency like Elon Musk and Vivek Ramaswamy had set o..."
-
-**[00:20:42](/episodes/ep-K5GjF53bfN4.md#ent-concept-doge-t-00-20-42)**
-> "... is going. People are just accepting checks." Again, this is the whole purpose of the Department of DOGE. You put us in there and we're going to figure out how all these bureaucrats are just wasting tax d..."
-
-**[00:21:00](/episodes/ep-K5GjF53bfN4.md#ent-concept-doge-t-00-20-42)**
-> "...f saying we're gonna conduct an audit of the government, right? That's the only way to look at what DOGE was. It's an audit, and then you cut the fat and you see where the money's actually going. Don't li..."
 
 **[00:21:59](/episodes/ep-K5GjF53bfN4.md#ent-concept-doge-t-00-21-59)**
 > "Now we're gonna jump to that last big paragraph. "In this role, I have empowered Justin (Justin Streiff), among other priorities, to engage in an organizational-wide DOGE effort."
@@ -215,7 +220,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Doge (3)</strong></summary>
+<summary><strong class="section-title">Statements about DOGE (Turning Point USA internal audit) (4)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
@@ -230,6 +235,14 @@ _No relationships extracted yet._
 
 - [00:22:59](/episodes/ep-cPidFQDJLbo.md#t-00-22-59) (Claim) **Candace Owens**: ["Owens alleged that Charlie Kirk said 10 million dollars was missing fr..."](/statements/statement-2ac0e37e2684.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1)</summary>
+
+- [00:05:31](/episodes/ep-GY6GWceEqtQ.md#t-00-05-05) (Claim) **Candace Owens**: ["Candace Owens broke the story that Charlie Kirk established a DOGE ini..."](/statements/statement-9ec8fcdc6c35.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

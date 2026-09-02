@@ -1,18 +1,23 @@
 ---
 title: "Matthew Sarelson"
-description: "Matthew Sarelson (People) - 6 mentions"
+description: "Matthew Sarelson (People) - 7 mentions"
 id: "person-matthew-sarelson"
 type: "PERSON"
+aliases:
+  - "Matthew Sarelson"
+  - "Matthew Seth Sarelson"
+  - "Matt Sarelson"
 categories:
   - "law"
   - "defamation litigation"
+  - "attorney"
 ---
 
 _Type: People_
 
-**Categories:** law, defamation litigation
+**Also known as:** Matthew Sarelson, Matthew Seth Sarelson, Matt Sarelson
 
-> **Possibly overlapping entity records:** [Matt Sarelson](/entities/person-matt-sarelson). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** law, defamation litigation, attorney
 
 **Entity verification:** verified
 > The federal docket identifies Matthew Sarelson as counsel for Brian Harpole; transcript spellings Sarolson/Sarlson/Carlson are ASR errors and are not aliases.
@@ -22,7 +27,7 @@ Source: [Harpole v. Owens et al, No. 3:2026cv00556](https://dockets.justia.com/d
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-matthew-sarelson-t-00-00-41">2026-05-04 · 00:00:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-matthew-sarelson-t-00-33-22">2026-05-04 · 00:33:43</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -51,7 +56,7 @@ Source: [Harpole v. Owens et al, No. 3:2026cv00556](https://dockets.justia.com/d
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (5 mentions)</summary>

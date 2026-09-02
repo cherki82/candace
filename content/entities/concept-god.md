@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 565 mentions"
+description: "God (Concepts) - 569 mentions"
 id: "concept-god"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#t-00-47-14">2026-08-31 · 00:47:25</a></strong></div>
-<div><span>Episodes</span><strong>109</strong></div>
-<div><span>Mentions</span><strong>565</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#t-00-49-36">2026-09-01 · 00:49:36</a></strong></div>
+<div><span>Episodes</span><strong>110</strong></div>
+<div><span>Mentions</span><strong>569</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -143,6 +143,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34" style="--pulse-height:13%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-48-48" style="--pulse-height:13%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 4 mentions" title="2026-08-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#t-00-47-14" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#t-00-11-03" style="--pulse-height:13%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -257,6 +258,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34) | 4 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-48-48) | 4 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#t-00-47-14) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#t-00-11-03) | 4 |
 
 </details>
 </section>
@@ -264,7 +266,24 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (565)</strong></summary>
+<summary><strong class="section-title">Raw mentions (569)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>
+
+**[00:11:26](/episodes/ep-ZkDO-MRLUco.md#t-00-11-03)**
+> "God bless you tomorrow."
+
+**[00:27:55](/episodes/ep-ZkDO-MRLUco.md#t-00-27-49)**
+> "...er to the truth and closer to god might be willing to just get that footage over we..."
+
+**[00:28:42](/episodes/ep-ZkDO-MRLUco.md#t-00-28-34)**
+> "And this year alone, God has used PreBorn! to save nearly 60,000 babies fr..."
+
+**[00:49:36](/episodes/ep-ZkDO-MRLUco.md#t-00-49-36)**
+> "... going on. Coates writes, may God continue to bless you and to keep you safe."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>

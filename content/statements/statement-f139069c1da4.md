@@ -21,7 +21,7 @@ type: "accusation"
 ## About
 
 - [Harvey Weinstein](/entities/person-harvey-weinstein.md) (person)
-- [Me Too](/entities/concept-me-too.md) (concept)
+- [Me Too movement](/entities/concept-me-too-movement.md) (concept)
 
 ## Source
 

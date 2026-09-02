@@ -130,7 +130,7 @@ _No relationships extracted yet._
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md)
 
 - [00:34:56](/episodes/ep-DEtFh2Ff-58.md#t-00-34-36) (Claim) **Baron Coleman**: ["On September 10th, aircraft N582MM left Pierre, South Dakota at 2:40 p..."](/statements/statement-013396861573.md)
-  - Also about: [N582MM](/entities/vehicle-n582mm.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md), [Chicago](/entities/gpe-chicago.md)
+  - Also about: [N582MM](/entities/vehicle-n582mm.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md), [Chicago, Illinois](/entities/gpe-chicago-illinois.md)
 
 </details>
 

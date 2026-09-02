@@ -21,7 +21,7 @@ type: "promise"
 ## About
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [Assassination of Charlie Kirk](/entities/event-assassination-charlie-kirk.md) (event)
+- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
 ## Source
 

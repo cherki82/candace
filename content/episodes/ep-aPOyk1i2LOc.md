@@ -1,14 +1,14 @@
 ---
 id: "aPOyk1i2LOc"
 title: "Candace Owens vs Andrew Wilson: The Great Debate."
-description: "Candace Owens vs Andrew Wilson: The Great Debate. - 121 entities, 16 events, 20 factual claims"
+description: "Candace Owens vs Andrew Wilson: The Great Debate. - 121 entities, 16 events, 22 factual claims"
 published: "2026-08-14"
 youtube_url: "https://www.youtube.com/watch?v=aPOyk1i2LOc"
 ---
 
 **Published:** 2026-08-14 | [Watch on YouTube](https://www.youtube.com/watch?v=aPOyk1i2LOc)
 
-**Stats:** 121 entities | 16 events | 20 factual claims
+**Stats:** 121 entities | 16 events | 22 factual claims
 
 ---
 
@@ -2158,7 +2158,7 @@ youtube_url: "https://www.youtube.com/watch?v=aPOyk1i2LOc"
 ---
 **🎤 Patrick Bet-David**
 
-**<a href="/timestamps/ep-aPOyk1i2LOc/t-00-39-23.md" class="timestamp-link">00:39:23</a> <a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=2363" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Patrick Bet-David:** get it, Skylar (show producer; surname unverified) has it. If you want to pull it up so we can see it. ^t-00-39-23
+**<a href="/timestamps/ep-aPOyk1i2LOc/t-00-39-23.md" class="timestamp-link">00:39:23</a> <a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=2363" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Patrick Bet-David:** get it, <span id="ent-person-schuyler-pryor-t-00-39-23"><a href="/entities/person-schuyler-pryor.md">Skylar (show producer; surname unverified)</a></span> has it. If you want to pull it up so we can see it. ^t-00-39-23
 
 ---
 **🎤 Candace Owens**
@@ -2810,7 +2810,7 @@ youtube_url: "https://www.youtube.com/watch?v=aPOyk1i2LOc"
 ---
 **🎤 Patrick Bet-David**
 
-**<a href="/timestamps/ep-aPOyk1i2LOc/t-00-46-23.md" class="timestamp-link">00:46:23</a> <a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=2783" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Patrick Bet-David:** to. So a couple of things we have. We have rule 801, Tyler's messages that says it's not hearsay. But first go to what <span id="ent-person-candace-owens-t-00-46-23"><a href="/entities/person-candace-owens.md">Candace</a></span> is asking about Skylar. I think you have it. You just texted me if you want to pull it up. You said you have the text. If we can put that up on the screen. Thank you. ^t-00-46-23
+**<a href="/timestamps/ep-aPOyk1i2LOc/t-00-46-23.md" class="timestamp-link">00:46:23</a> <a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=2783" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Patrick Bet-David:** to. So a couple of things we have. We have rule 801, Tyler's messages that says it's not hearsay. But first go to what <span id="ent-person-candace-owens-t-00-46-23"><a href="/entities/person-candace-owens.md">Candace</a></span> is asking about <span id="ent-person-schuyler-pryor-t-00-46-23"><a href="/entities/person-schuyler-pryor.md">Skylar</a></span>. I think you have it. You just texted me if you want to pull it up. You said you have the text. If we can put that up on the screen. Thank you. ^t-00-46-23
 
 ---
 **🎤 Candace Owens**
@@ -5864,7 +5864,7 @@ youtube_url: "https://www.youtube.com/watch?v=aPOyk1i2LOc"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-aPOyk1i2LOc/t-01-42-39.md" class="timestamp-link">01:42:39</a> <a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=6159" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Well, I couldn't say <span id="ent-gpe-israel-t-01-42-39"><a href="/entities/gpe-israel.md">Israel</a></span> was on the ground and shot and killed <span id="ent-person-charlie-kirk-t-01-42-39"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span>. I would say that there are various things that we're trying to establish, one being a motive. And since I don't believe that <span id="ent-person-tyler-robinson-t-01-42-39"><a href="/entities/person-tyler-robinson.md">Tyler Robinson</a></span> and his transferee is a convincing motive because he was fired up about politics, which <span id="ent-person-lance-twiggs-t-01-42-39"><a href="/entities/person-lance-twiggs.md">Lance</a></span> testified that he never spoke about with him, nor do I believe that he was so into <a href="/entities/concept-lgbt.md">LGBTQ</a> issues since <a href="/entities/person-lance-twiggs.md">Lance</a> testified they never spoke about <span id="ent-concept-lgbt-t-01-42-39"><a href="/entities/concept-lgbt.md">LGBT</a></span>. <a href="/entities/concept-lgbt.md">LGBTQ</a> issues, that he stopped and ate at <span id="ent-org-chick-fil-a-t-01-42-39"><a href="/entities/org-chick-fil-a.md">Chick-fil-A</a></span>, which if you are into <a href="/entities/concept-lgbt.md">LGBTQ</a> issues, wouldn't be your lunch before you go kill <a href="/entities/person-charlie-kirk.md">Charlie Kirk</a> for <a href="/entities/concept-lgbt.md">LGBTQ</a> issues. Because, you know, ^t-01-42-39
+**<a href="/timestamps/ep-aPOyk1i2LOc/t-01-42-39.md" class="timestamp-link">01:42:39</a> <a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=6159" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Well, I couldn't say <span id="ent-gpe-israel-t-01-42-39"><a href="/entities/gpe-israel.md">Israel</a></span> was on the ground and shot and killed <span id="ent-person-charlie-kirk-t-01-42-39"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span>. I would say that there are various things that we're trying to establish, one being a motive. And since I don't believe that <span id="ent-person-tyler-robinson-t-01-42-39"><a href="/entities/person-tyler-robinson.md">Tyler Robinson</a></span> and his transferee is a convincing motive because he was fired up about politics, which <span id="ent-person-lance-twiggs-t-01-42-39"><a href="/entities/person-lance-twiggs.md">Lance</a></span> testified that he never spoke about with him, nor do I believe that he was so into <span id="ent-concept-lgbtq-t-01-42-39"><a href="/entities/concept-lgbtq.md">LGBTQ</a></span> issues since <a href="/entities/person-lance-twiggs.md">Lance</a> testified they never spoke about <a href="/entities/concept-lgbtq.md">LGBT</a>. <a href="/entities/concept-lgbtq.md">LGBTQ</a> issues, that he stopped and ate at <span id="ent-org-chick-fil-a-t-01-42-39"><a href="/entities/org-chick-fil-a.md">Chick-fil-A</a></span>, which if you are into <a href="/entities/concept-lgbtq.md">LGBTQ</a> issues, wouldn't be your lunch before you go kill <a href="/entities/person-charlie-kirk.md">Charlie Kirk</a> for <a href="/entities/concept-lgbtq.md">LGBTQ</a> issues. Because, you know, ^t-01-42-39
 
 ---
 **🎤 Andrew Wilson**
@@ -6901,7 +6901,7 @@ youtube_url: "https://www.youtube.com/watch?v=aPOyk1i2LOc"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-aPOyk1i2LOc/t-01-53-45.md" class="timestamp-link">01:53:45</a> <a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=6825" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** <span id="ent-person-donald-trump-t-01-53-45"><a href="/entities/person-donald-trump.md">Trump</a></span>'s office, his like Margo (<a href="/entities/person-donald-trump.md">Trump</a>'s office staffer; surname unverified) got right back to me, she said it was on his desk. So he has that. There's no. ^t-01-53-45
+**<a href="/timestamps/ep-aPOyk1i2LOc/t-01-53-45.md" class="timestamp-link">01:53:45</a> <a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=6825" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** <span id="ent-person-donald-trump-t-01-53-45"><a href="/entities/person-donald-trump.md">Trump</a></span>'s office, his like <span id="ent-person-margo-martin-t-01-53-45"><a href="/entities/person-margo-martin.md">Margo</a></span> got right back to me, she said it was on his desk. So he has that. There's no. ^t-01-53-45
 
 ---
 **🎤 Andrew Wilson**
@@ -8595,7 +8595,7 @@ youtube_url: "https://www.youtube.com/watch?v=aPOyk1i2LOc"
 
 **<a href="/timestamps/ep-aPOyk1i2LOc/t-02-20-31.md" class="timestamp-link">02:20:31</a> <a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=8431" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I said, this is the I don't need to say what's happening here because the Internet will clock it, but. And in this episode, we are now going, and that's why I said we're now going to look at some alternative theories. I made it very clear that this was a theory that I didn't want to look at. This is, I believe, because I don't have every episode on my head, but I'm pretty sure this is an episode where we presented the evidence that was in the car, the photos of what was in the car, right? And so we are now inferring off of what we see in the car that this very much. does look like that. ^t-02-20-31
 
-**<a href="/timestamps/ep-aPOyk1i2LOc/t-02-21-05.md" class="timestamp-link">02:21:05</a> <a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=8465" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** We see a bunch of shattered road microphone, which was an early theory that I was actually interested in, but couldn't really wrap my head around what was the shape charge explosive, as I say at the beginning episode. It was just not my expertise, and I was concerning myself with timelines and stories, and St. Vincent didn't make sense without question. <span id="ent-person-terrell-farnsworth-t-02-21-05"><a href="/entities/person-terrell-farnsworth.md">Terrell Farnsworth</a></span> is someone who made me think that we were missing a big part of this story. So I'm walking them through <span id="ent-person-jon-aaron-bray-t-02-21-05"><a href="/entities/person-jon-aaron-bray.md">John Bray</a></span>'s theory if we started to insert what we are actually observing with the evidence that we're taking a look at and what took place that day. So we're completely in the hypothetical right here. And you're now ^t-02-21-05
+**<a href="/timestamps/ep-aPOyk1i2LOc/t-02-21-05.md" class="timestamp-link">02:21:05</a> <a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=8465" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** We see a bunch of shattered road microphone, which was an early theory that I was actually interested in, but couldn't really wrap my head around what was the shape charge explosive, as I say at the beginning episode. It was just not my expertise, and I was concerning myself with timelines and stories, and St. Vincent didn't make sense without question. Terrell Farnsworth is someone who made me think that we were missing a big part of this story. So I'm walking them through <span id="ent-person-jon-aaron-bray-t-02-21-05"><a href="/entities/person-jon-aaron-bray.md">John Bray</a></span>'s theory if we started to insert what we are actually observing with the evidence that we're taking a look at and what took place that day. So we're completely in the hypothetical right here. And you're now ^t-02-21-05
 
 ---
 **🎤 Andrew Wilson**
@@ -11781,30 +11781,28 @@ youtube_url: "https://www.youtube.com/watch?v=aPOyk1i2LOc"
 
 **Anonymous Sources:** [Anonymous Source #1 (Ep aPOyk1i2LOc)](/entities/anon-src-aPOyk1i2LOc-001.md), [Anonymous Source #2 (Ep aPOyk1i2LOc)](/entities/anon-src-aPOyk1i2LOc-002.md), [Anonymous Source #3 (Ep aPOyk1i2LOc)](/entities/anon-src-aPOyk1i2LOc-003.md)
 
-**Concepts:** [Bactrim](/entities/concept-bactrim.md), [COVID-19](/entities/concept-covid-19.md), [Cyclospora cayetanensis](/entities/concept-cyclospora-cayetanensis.md), [Deoxyribonucleic acid](/entities/concept-dna.md), [Generation Z](/entities/concept-generation-z.md), [Home equity line of credit](/entities/concept-home-equity-line-of-credit.md), [Individual Retirement Arrangement](/entities/concept-individual-retirement-arrangement.md), [LGBT](/entities/concept-lgbt.md), [Messenger RNA](/entities/concept-messenger-rna.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md), [Superman](/entities/concept-superman.md)
+**Concepts:** [Bactrim](/entities/concept-bactrim.md), [COVID-19](/entities/concept-covid-19.md), [Cyclospora cayetanensis](/entities/concept-cyclospora-cayetanensis.md), [Deoxyribonucleic acid](/entities/concept-dna.md), [Generation Z](/entities/concept-generation-z.md), [Home equity line of credit](/entities/concept-home-equity-line-of-credit.md), [Individual Retirement Arrangement](/entities/concept-individual-retirement-arrangement.md), [LGBTQ](/entities/concept-lgbtq.md), [Messenger RNA](/entities/concept-messenger-rna.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md), [Superman](/entities/concept-superman.md)
 
 **Places:** [Earth](/entities/gpe-earth.md), [France](/entities/gpe-france.md), [Hamptons](/entities/gpe-hamptons.md), [Holy Land](/entities/gpe-holy-land.md), [Israel](/entities/gpe-israel.md), [Jerusalem](/entities/gpe-jerusalem.md), [Kansas](/entities/gpe-kansas.md), [Michigan](/entities/gpe-michigan.md), [Montana](/entities/gpe-montana.md), [Ottoman Empire](/entities/gpe-ottoman-empire.md), [Panguitch, Utah](/entities/gpe-panguitch-utah.md), [Peru](/entities/gpe-peru.md), [Roman Empire](/entities/gpe-roman-empire.md), [Russia](/entities/gpe-russia.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Taybeh, West Bank](/entities/gpe-taybeh-west-bank.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [West Bank](/entities/gpe-west-bank.md)
 
 **Organizations:** [American Financing](/entities/org-american-financing.md), [Apple](/entities/org-apple.md), [Better Business Bureau](/entities/org-better-business-bureau.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [CNN](/entities/org-cnn.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Chick-fil-A](/entities/org-chick-fil-a.md), [Ethos](/entities/org-ethos.md), [FBI](/entities/org-fbi.md), [Field of Greens](/entities/org-field-of-greens.md), [French Foreign Legion](/entities/org-french-foreign-legion.md), [Internal Revenue Service](/entities/org-internal-revenue-service.md), [Losee Center](/entities/org-losee-center.md), [National Rifle Association](/entities/org-national-rifle-association.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [PDS Debt](/entities/org-pds-debt.md), [Pure Talk](/entities/org-pure-talk.md), [Remington Ammunition](/entities/org-remington-ammunition.md), [Tax Network USA](/entities/org-tax-network-usa.md), [Telegram](/entities/org-telegram.md), [The Vulnerable People Project](/entities/org-vulnerable-people-project.md), [The Wellness Company](/entities/org-the-wellness-company.md), [TikTok](/entities/org-tiktok.md), [Trustpilot](/entities/org-trustpilot.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States Army](/entities/org-united-states-army.md), [United States Marshals Service](/entities/org-united-states-marshals-service.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Valhalla VFT](/entities/org-valhalla-vft.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md), [ZeroGhost](/entities/org-zeroghost.md)
 
-**People:** [Amanda Bakker](/entities/person-amanda-bakker.md), [Amber Robinson](/entities/person-amber-robinson.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Andrew Wilson](/entities/person-andrew-wilson.md), [Bari Weiss](/entities/person-bari-weiss.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Brian Davis](/entities/person-brian-davis.md), [Caitlin Oliver](/entities/person-caitlin-oliver.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Chris Bagley](/entities/person-chris-bagley.md), [Dan Bongino](/entities/person-dan-bongino.md), [David Hull](/entities/person-david-hull.md), [Donald J. Trump](/entities/person-donald-trump.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Farmer](/entities/person-george-farmer.md), [Ian Carroll](/entities/person-ian-carroll.md), [Jane Austen](/entities/person-jane-austen.md), [Joe Kent](/entities/person-joe-kent.md), [Joe Rogan](/entities/person-joe-rogan.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Jon Aaron Bray](/entities/person-jon-aaron-bray.md), [Jonathan Otto](/entities/person-jonathan-otto.md), [Justin Streiff](/entities/person-justin-streiff.md), [Kamala Harris](/entities/person-kamala-harris.md), [Kathryn Nester](/entities/person-kathryn-nester.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Margo (Trump office staffer; surname unverified)](/entities/person-margo-trump-office-staffer-surname-unverified.md), [Matt Robinson](/entities/person-matt-robinson.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Knowles](/entities/person-michael-knowles.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Natalia (red-light therapy testimonial subject; surname unverified)](/entities/person-natalia-red-light-testimonial-subject-surname-unverified.md), [Nate Brooksby](/entities/person-nate-brooksby.md), [Osama bin Laden](/entities/person-osama-bin-laden.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Pierre Falcone](/entities/person-pierre-falcone.md), [Rob O'Neill](/entities/person-rob-oneill.md), [Samantha Karner](/entities/person-samantha-karner.md), [Skylar (Great Debate show producer; surname unverified)](/entities/person-skylar-great-debate-show-producer-surname-unverified.md), [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Youree Dell Harris](/entities/person-youree-dell-harris.md)
+**People:** [Amanda Bakker](/entities/person-amanda-bakker.md), [Amber Robinson](/entities/person-amber-robinson.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Andrew Wilson](/entities/person-andrew-wilson.md), [Bari Weiss](/entities/person-bari-weiss.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Brian Davis](/entities/person-brian-davis.md), [Caitlin Oliver](/entities/person-caitlin-oliver.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Chris Bagley](/entities/person-chris-bagley.md), [Dan Bongino](/entities/person-dan-bongino.md), [David Hull](/entities/person-david-hull.md), [Donald J. Trump](/entities/person-donald-trump.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Farmer](/entities/person-george-farmer.md), [Ian Carroll](/entities/person-ian-carroll.md), [Jane Austen](/entities/person-jane-austen.md), [Joe Kent](/entities/person-joe-kent.md), [Joe Rogan](/entities/person-joe-rogan.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Jon Aaron Bray](/entities/person-jon-aaron-bray.md), [Jonathan Otto](/entities/person-jonathan-otto.md), [Justin Streiff](/entities/person-justin-streiff.md), [Kamala Harris](/entities/person-kamala-harris.md), [Kathryn Nester](/entities/person-kathryn-nester.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Margo Martin](/entities/person-margo-martin.md), [Matt Robinson](/entities/person-matt-robinson.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Knowles](/entities/person-michael-knowles.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Natalia (red-light therapy testimonial subject; surname unverified)](/entities/person-natalia-red-light-testimonial-subject-surname-unverified.md), [Nate Brooksby](/entities/person-nate-brooksby.md), [Osama bin Laden](/entities/person-osama-bin-laden.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Pierre Falcone](/entities/person-pierre-falcone.md), [Rob O'Neill](/entities/person-rob-oneill.md), [Samantha Karner](/entities/person-samantha-karner.md), [Schuyler Pryor](/entities/person-schuyler-pryor.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Youree Dell Harris](/entities/person-youree-dell-harris.md)
 
 **Works & Media:** [Apple ID](/entities/work-apple-id.md), [Buzzin' Tallow Balm](/entities/work-nimi-buzzin-tallow-balm.md), [Candace (podcast)](/entities/work-candace-podcast-series.md), [Ghost Phone](/entities/work-ghost-phone.md), [Grok](/entities/work-grok.md), [Medical Emergency Kit](/entities/work-medical-emergency-kit.md), [SMART Equity Loan](/entities/work-smart-equity-loan.md), [Sunshine Tallow Cream](/entities/work-nimi-sunshine-tallow-cream.md), [iCloud](/entities/work-icloud.md), [iPhone](/entities/work-iphone.md)
 
 </details>
 
 <details>
-<summary><strong>Statements (45)</strong></summary>
+<summary><strong>Statements (59)</strong></summary>
 
-- [00:00:06](#t-00-00-01) [○] (Accusation) **Candace Owens**: ["Candace Owens believes Turning Point USA was using Andrew Wilson as its proxy in..."](/statements/statement-8baab8e2c54c.md)
-  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Wilson](/entities/person-andrew-wilson.md)
 - [00:05:34](#t-00-04-58) [○] (Accusation) **Charlie Kirk**: ["Charlie Kirk said he was somewhat worried that the left was trying to kill him."](/statements/statement-407f287ebc38.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:06:48](#t-00-06-23) [✓] (Claim) **Andrew Wilson**: ["Based on the evidence available so far, Andrew Wilson believes the state is corr..."](/statements/statement-3523ec3378a3.md)
+- [00:06:48](#t-00-06-23) [○] (Opinion) **Andrew Wilson**: ["Based on the evidence available so far, Andrew Wilson believes the state is corr..."](/statements/statement-3523ec3378a3.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:07:34](#t-00-07-34) [✓] (Citation) **Andrew Wilson**: ["Andrew Wilson says the case against Tyler Robinson is supported by corroborating..."](/statements/statement-53a47c80d7fd.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:13:44](#t-00-13-44) [○] (Opinion) **Candace Owens**: ["Candace Owens does not believe Tyler Robinson killed Charlie Kirk."](/statements/statement-fea6612c6404.md)
+- [00:14:01](#t-00-14-01) [○] (Opinion) **Candace Owens**: ["Candace Owens does not believe Tyler Robinson killed Charlie Kirk."](/statements/statement-fea6612c6404.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:15:14](#t-00-15-14) [◐] (Claim) **Candace Owens**: ["Charlie Kirk was not shot with a .30-06, and the bullet did not destroy his neck..."](/statements/statement-1de490c6769b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -11812,9 +11810,9 @@ youtube_url: "https://www.youtube.com/watch?v=aPOyk1i2LOc"
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:17:43](#t-00-17-43) [◐] (Claim) **Andrew Wilson**: ["The ammunition in the case was a 150-grain Remington Core-Lokt soft-point round ..."](/statements/statement-bab7a17138a4.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Remington Ammunition](/entities/org-remington-ammunition.md)
-- [00:19:23](#t-00-19-23) [✓] (Claim) **Andrew Wilson**: ["Andrew Wilson says he was never an Army sniper."](/statements/statement-3ca42fa6f73b.md)
+- [00:19:23](#t-00-19-23) [○] (Claim) **Andrew Wilson**: ["Andrew Wilson says he was never an Army sniper."](/statements/statement-3ca42fa6f73b.md)
   - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [United States Army](/entities/org-united-states-army.md)
-- [00:19:43](#t-00-19-43) [✓] (Claim) **Andrew Wilson**: ["Andrew Wilson says he was an NRA firearms instructor for many years and taught r..."](/statements/statement-5d4f036404fb.md)
+- [00:19:43](#t-00-19-43) [○] (Claim) **Andrew Wilson**: ["Andrew Wilson says he was an NRA firearms instructor for many years and taught r..."](/statements/statement-5d4f036404fb.md)
   - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [National Rifle Association](/entities/org-national-rifle-association.md)
 - [00:21:24](#t-00-21-14) [◐] (Citation) **Candace Owens**: ["According to the forensic testimony cited by Candace Owens, Tyler Robinson's DNA..."](/statements/statement-456408c60fb5.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
@@ -11822,9 +11820,13 @@ youtube_url: "https://www.youtube.com/watch?v=aPOyk1i2LOc"
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
 - [00:26:46](#t-00-26-29) [○] (Claim) **Candace Owens**: ["Candace Owens says family members told her Tyler Robinson inherited the rifle bu..."](/statements/statement-dca32711f19b.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:27:12](#t-00-27-06) [○] (Opinion) **Candace Owens**: ["Owens allowed that Twiggs touching items shared with Robinson could have an inno..."](/statements/statement-1fef3e68d636.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:28:54](#t-00-28-54) [◐] (Claim) **Candace Owens**: ["Candace Owens says the overwhelming majority of the preliminary-hearing evidence..."](/statements/statement-cfc3b8ceb673.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah Constitution](/entities/law-utah-constitution.md)
-- [00:45:51](#t-00-45-26) [✓] (Claim) **Candace Owens**: ["Lance Twiggs received use immunity before his recorded testimony, according to C..."](/statements/statement-4dbfe37d9a8a.md)
+- [00:45:51](#t-00-45-51) [✓] (Claim) **Candace Owens**: ["Lance Twiggs received use immunity before his recorded testimony, according to C..."](/statements/statement-4dbfe37d9a8a.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md)
+- [00:45:51](#t-00-45-51) [✗] (Claim) **Candace Owens**: ["Owens claimed that use immunity meant Lance Twiggs could lie in his recorded sta..."](/statements/statement-4f19d00d6a90.md)
   - About: [Lance Twiggs](/entities/person-lance-twiggs.md)
 - [00:57:10](#t-00-57-10) [✓] (Citation) **Candace Owens**: ["Tyler Robinson's defense requested an extension because it had not received disc..."](/statements/statement-c4c56eb41213.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Kathryn Nester](/entities/person-kathryn-nester.md)
@@ -11832,15 +11834,19 @@ youtube_url: "https://www.youtube.com/watch?v=aPOyk1i2LOc"
   - About: [Kathryn Nester](/entities/person-kathryn-nester.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [01:04:42](#t-01-04-31) [○] (Claim) **Anonymous Source #1 (Ep aPOyk1i2LOc)**: ["Federal authorities placed members of Tyler Robinson's family in a safe house, a..."](/statements/statement-d9d2ef8923a6.md)
   - About: [Matt Robinson](/entities/person-matt-robinson.md), [Amber Robinson](/entities/person-amber-robinson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [01:07:08](#t-01-06-57) [✓] (Citation) **Candace Owens**: ["The authorities did not produce statements from Tyler Robinson's parents saying ..."](/statements/statement-a152aa832f58.md)
+- [01:07:08](#t-01-06-57) [○] (Citation) **Candace Owens**: ["The authorities did not produce statements from Tyler Robinson's parents saying ..."](/statements/statement-a152aa832f58.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Matt Robinson](/entities/person-matt-robinson.md), [Amber Robinson](/entities/person-amber-robinson.md)
 - [01:08:46](#t-01-08-16) [◐] (Claim) **Candace Owens**: ["Mike Mitchell had worked as an undercover police officer for more than 20 years ..."](/statements/statement-2018b40928fe.md)
   - About: [Mike Mitchell](/entities/person-mike-mitchell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [01:10:22](#t-01-10-22) [○] (Opinion) **Candace Owens**: ["Owens allowed that the alleged Robinson messages might not be fabricated: anothe..."](/statements/statement-50a9212db10d.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [01:18:03](#t-01-18-03) [○] (Opinion) **Andrew Wilson**: ["Wilson clarified that his overwhelming-evidence assessment meant evidence he fou..."](/statements/statement-2e4cdf20307d.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [01:22:45](#t-01-22-40) [○] (Claim) **Candace Owens**: ["The defense received a large volume of requested discovery shortly after the pre..."](/statements/statement-a0a8cf63a5c5.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Kathryn Nester](/entities/person-kathryn-nester.md)
 - [01:27:10](#t-01-26-52) [○] (Claim) **Candace Owens**: ["An unnamed source told Candace Owens that Tyler Robinson did not set foot on the..."](/statements/statement-82eb250891a7.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
-- [01:27:24](#t-01-26-52) [○] (Accusation) **Candace Owens**: ["Candace Owens believes Tyler Robinson was involved somehow but considers Lance T..."](/statements/statement-2683c02b1ee5.md)
+- [01:27:30](#t-01-27-30) [○] (Accusation) **Candace Owens**: ["Candace Owens believes Tyler Robinson was involved somehow but considers Lance T..."](/statements/statement-2683c02b1ee5.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [01:29:08](#t-01-29-08) [◐] (Claim) **Candace Owens**: ["The FBI stopped testing a backpack found along the alleged gunman's route after ..."](/statements/statement-240c0f8e341e.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -11850,41 +11856,63 @@ youtube_url: "https://www.youtube.com/watch?v=aPOyk1i2LOc"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [01:30:56](#t-01-30-56) [✓] (Citation) **Candace Owens**: ["The contractor who paved the crime scene said the call described a paver emergen..."](/statements/statement-e8088f9593f9.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
-- [01:40:43](#t-01-40-43) [✓] (Claim) **Candace Owens**: ["Candace Owens reported the alleged French Foreign Legion threat to Tulsi Gabbard..."](/statements/statement-09827ba5d6e7.md)
+- [01:40:43](#t-01-40-43) [○] (Claim) **Candace Owens**: ["Candace Owens reported the alleged French Foreign Legion threat to Tulsi Gabbard..."](/statements/statement-09827ba5d6e7.md)
   - About: [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [Donald J. Trump](/entities/person-donald-trump.md), [French Foreign Legion](/entities/org-french-foreign-legion.md)
-- [01:44:27](#t-01-44-27) [✓] (Citation) **Candace Owens**: ["Candace Owens cited Joe Kent as saying that 12 Israeli cell phones were on the g..."](/statements/statement-b5e4a547905b.md)
+- [01:44:27](#t-01-44-27) [○] (Citation) **Candace Owens**: ["Candace Owens cited Joe Kent as saying that 12 Israeli cell phones were on the g..."](/statements/statement-b5e4a547905b.md)
   - About: [Joe Kent](/entities/person-joe-kent.md), [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [01:44:35](#t-01-44-27) [○] (Opinion) **Candace Owens**: ["Owens allowed that the reported Israeli cell phones at UVU could have belonged t..."](/statements/statement-b21f1d97f010.md)
+  - About: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [01:44:56](#t-01-44-56) [○] (Opinion) **Candace Owens**: ["Owens said she could not say with certainty that Israel called the shots in Char..."](/statements/statement-1e416e9de5f3.md)
+  - About: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [01:46:01](#t-01-46-01) [○] (Claim) **Candace Owens**: ["Owens said she had never claimed that Erika Kirk or Turning Point USA participat..."](/statements/statement-6f0a04f18cda.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [01:52:20](#t-01-52-20) [○] (Accusation) **Anonymous Source #2 (Ep aPOyk1i2LOc)**: ["French Foreign Legion personnel were on the ground during Charlie Kirk's assassi..."](/statements/statement-f3f625166a18.md)
   - About: [French Foreign Legion](/entities/org-french-foreign-legion.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [France](/entities/gpe-france.md)
-- [01:56:15](#t-01-56-06) [○] (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have been involve..."](/statements/statement-d5c74ed071c8.md)
+- [01:53:19](#t-01-53-19) [○] (Claim) **Candace Owens**: ["Owens said she had not included the French source's identity in her initial emai..."](/statements/statement-1bc31f0f31dc.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+- [01:54:58](#t-01-54-58) [○] (Opinion) **Andrew Wilson**: ["Wilson argued that the public exchange did not establish whether officials had i..."](/statements/statement-b6b21c6d2fd9.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+- [01:56:25](#t-01-56-25) [○] (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have been involve..."](/statements/statement-d5c74ed071c8.md)
   - About: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [01:57:22](#t-01-57-09) [○] (Accusation) **Anonymous Source #3 (Ep aPOyk1i2LOc)**: ["United States Marshals Service sources said marshals were sent on a wild goose c..."](/statements/statement-693943e3f734.md)
   - About: [United States Marshals Service](/entities/org-united-states-marshals-service.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [02:03:37](#t-02-03-37) [○] (Opinion) **Andrew Wilson**: ["Andrew Wilson argued that even if Erika Kirk sincerely believed Tyler Robinson k..."](/statements/statement-9bbe1e5d27e3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [02:06:55](#t-02-06-55) [○] (Accusation) **Candace Owens**: ["Candace Owens believes Erika Kirk was complicit in trying to convince the public..."](/statements/statement-8f4c7fed2ec6.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [02:12:37](#t-02-12-37) [✓] (Claim) **Andrew Wilson**: ["Andrew Wilson says Turning Point USA invited him to provide debate training and ..."](/statements/statement-ad134c309014.md)
   - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [02:14:07](#t-02-14-07) [○] (Accusation) **Candace Owens**: ["Candace Owens believes Turning Point USA was using Andrew Wilson as its proxy in..."](/statements/statement-8baab8e2c54c.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Wilson](/entities/person-andrew-wilson.md)
 - [02:18:11](#t-02-18-11) [○] (Opinion) **Candace Owens**: ["Candace Owens believes Erika Kirk is underqualified to run Turning Point USA."](/statements/statement-513faa7c49b5.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [02:22:13](#t-02-22-13) [○] (Opinion) **Candace Owens**: ["Candace Owens believes the theory that Charlie Kirk may have been killed by an e..."](/statements/statement-27a11cc63d15.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jon Aaron Bray](/entities/person-jon-aaron-bray.md)
+- [02:26:40](#t-02-26-40) [○] (Opinion) **Candace Owens**: ["Owens would not confidently assert that she saw smoke in the assassination foota..."](/statements/statement-043d465de833.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [02:28:14](#t-02-27-59) [✓] (Opinion) **Rob O'Neill**: ["Rob O'Neill said the movement of Charlie Kirk's shirt looked like an explosion t..."](/statements/statement-349dd6aaaa90.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [02:28:22](#t-02-27-59) [✓] (Accusation) **Rob O'Neill**: ["Rob O'Neill said people at the scene seemed more concerned with removing camera ..."](/statements/statement-59ffbe2ba8c0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [02:33:52](#t-02-33-40) [✓] (Citation) **Candace Owens**: ["After rewatching the testimony, Candace Owens corrected her earlier claim: only ..."](/statements/statement-7d36617db0e1.md)
+- [02:29:11](#t-02-29-11) [○] (Opinion) **Andrew Wilson**: ["Wilson said he could see Kirk's shirt move only in slowed footage, not at normal..."](/statements/statement-39ad115a407d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rob O'Neill](/entities/person-rob-oneill.md)
+- [02:35:10](#t-02-35-05) [✓] (Citation) **Candace Owens**: ["After rewatching the testimony, Owens corrected her inference that Lance Twiggs ..."](/statements/statement-7d36617db0e1.md)
   - About: [Matt Robinson](/entities/person-matt-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Amber Robinson](/entities/person-amber-robinson.md)
 - [02:36:32](#t-02-36-32) [○] (Opinion) **Candace Owens**: ["Candace Owens believes Erika Kirk should be formally questioned because of perce..."](/statements/statement-c8adff2dd148.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [02:51:30](#t-02-51-30) [✓] (Claim) **Candace Owens**: ["Candace Owens says she spoke to the steakhouse owner and saw a receipt, which sh..."](/statements/statement-a19c5a074696.md)
+- [02:36:50](#t-02-36-50) [○] (Opinion) **Candace Owens**: ["While maintaining that Erika Kirk should be questioned, Owens acknowledged she d..."](/statements/statement-833de8d2737e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+- [02:51:30](#t-02-51-30) [○] (Claim) **Candace Owens**: ["Candace Owens says she spoke to the steakhouse owner and saw a receipt, which sh..."](/statements/statement-a19c5a074696.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [02:53:09](#t-02-53-09) [✓] (Promise) **Candace Owens**: ["Candace Owens promises to remove the steakhouse stop from her personal timeline ..."](/statements/statement-6e4c87e8d0c6.md)
+- [02:53:09](#t-02-53-09) [○] (Promise) **Candace Owens**: ["Owens promised to remove the steakhouse stop from her personal timeline if it wa..."](/statements/statement-6e4c87e8d0c6.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [02:54:01](#t-02-53-50) [✓] (Accusation) **Candace Owens**: ["Candace Owens believes it is plausible that the screwdriver found on the roof wa..."](/statements/statement-58a5ee7b6ddc.md)
+- [02:54:01](#t-02-53-50) [○] (Accusation) **Candace Owens**: ["Candace Owens believes it is plausible that the screwdriver found on the roof wa..."](/statements/statement-58a5ee7b6ddc.md)
   - About: [Chris Bagley](/entities/person-chris-bagley.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [02:56:56](#t-02-56-56) [○] (Opinion) **Andrew Wilson**: ["Wilson argued that roughly five and a half to six hours of Owens's proposed driv..."](/statements/statement-1db390adddec.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Candace Owens](/entities/person-candace-owens.md)
 - [03:04:42](#t-03-04-09) [○] (Opinion) **Andrew Wilson**: ["Andrew Wilson concluded that no alternative theory presented in the debate had e..."](/statements/statement-d32537eb2441.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [03:08:21](#t-03-08-21) [✓] (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple people were in..."](/statements/statement-4735330c37c9.md)
+- [03:08:21](#t-03-08-21) [○] (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple people were in..."](/statements/statement-4735330c37c9.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
 
 </details>

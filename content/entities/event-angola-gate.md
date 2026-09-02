@@ -94,7 +94,7 @@ _No relationships extracted yet._
 - [00:15:50](/episodes/ep-Kmt6HgRjckU.md#t-00-15-30) (Claim) **Candace Owens**: ["Owens claimed that 41 politicians were involved in the Angolagate scan..."](/statements/statement-86395511590d.md)
 
 - [00:15:53](/episodes/ep-Kmt6HgRjckU.md#t-00-15-30) (Claim) **Candace Owens**: ["Owens said human-rights groups demanded that Congress probe the Bush a..."](/statements/statement-aceca2e34399.md)
-  - Also about: [George H.W. Bush](/entities/person-george-hw-bush.md)
+  - Also about: [George H. W. Bush](/entities/person-george-h-w-bush.md)
 
 - [00:16:23](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13) (Citation) **Candace Owens**: ["Owens read a CorpWatch account saying Angolagate involved arms-for-oil..."](/statements/statement-72b6f48a1049.md)
   - Also about: [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md), [Pierre Falcone](/entities/person-pierre-falcone.md), [Arkadi Gaydamak](/entities/person-arkadi-gaydamak.md)

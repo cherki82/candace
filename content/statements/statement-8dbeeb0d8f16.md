@@ -21,7 +21,7 @@ type: "opinion"
 ## About
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [Turning Point Faith](/entities/org-turning-point-faith.md) (org)
+- [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md) (org)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 - [Messianism](/entities/concept-messianism.md) (concept)
 

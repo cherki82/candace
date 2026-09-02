@@ -1,6 +1,6 @@
 ---
 title: "Stacy Sheridan"
-description: "Stacy Sheridan (People) - 67 mentions"
+description: "Stacy Sheridan (People) - 69 mentions"
 id: "person-stacy-sheridan"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-stacy-sheridan-t-00-03-48">2025-10-27 · 00:04:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-stacy-sheridan-t-00-14-42">2026-07-30 · 00:15:03</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-stacy-sheridan-t-00-03-05">2026-09-01 · 00:03:28</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -57,6 +57,7 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-stacy-sheridan-t-00-29-50" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-stacy-sheridan-t-00-53-00" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-stacy-sheridan-t-00-14-42" style="--pulse-height:8%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-stacy-sheridan-t-00-03-05" style="--pulse-height:17%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -83,6 +84,7 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-stacy-sheridan-t-00-29-50) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-stacy-sheridan-t-00-53-00) | 1 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-stacy-sheridan-t-00-14-42) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-stacy-sheridan-t-00-03-05) | 2 |
 
 </details>
 </section>
@@ -94,7 +96,18 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>
+
+**[00:03:17](/episodes/ep-ZkDO-MRLUco.md#ent-person-stacy-sheridan-t-00-03-05)**
+> "So were Erika Kirk's de facto parents, Stacy Sheridan. Tracy Martin, we're just going to count them as her parents, I think, because she's never surrounded by her actual family."
+
+**[00:03:28](/episodes/ep-ZkDO-MRLUco.md#ent-person-stacy-sheridan-t-00-03-05)**
+> "Mama Stacy (Stacy Sheridan) is always there, head of Turning Point USA donat..."
+
+</details>
 
 <details>
 <summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
@@ -488,7 +501,7 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:35](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “She's like the chief money person, essentially, at Turning Point USA.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “Stacey (Stacey Sheridan), by the way, is the senior advancement director at Turning Point USA.”
@@ -497,6 +510,7 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:25:04](/episodes/ep-A39g5oqB_eM.md#t-00-24-27): “She was in the office every day with Stacey Sheridan, ... taking phone calls with Stacey Sheridan. That's like the head of the fundraising for Turning Point USA.”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:13:50](/episodes/ep-QdM9jLwjwLw.md#t-00-13-22): “Saying Stacy (Stacy Sheridan), ... who is the head of fundraising for Turning Point USA,”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:21:03](/episodes/ep-Wjul6YV6izo.md#t-00-20-55): “they would have known everything about you that's how they work before everyone is seated stacy sheridan's job literally is to know everything about that person their net worth she she'll know your dad's net worth your mom's net worth she would tell charlie she whispered in charlie's ear that person and then charlie would go have the conversation that was the whole reason they brought her on that's what stacy's brilliant at”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:28](/episodes/ep-ZkDO-MRLUco.md#t-00-03-05): “Mama Stacy (Stacy Sheridan) is always there, head of Turning Point USA donations and gifts, always there. Tracy Martin, I'm counting that as dad.”
 
 </details>
 
@@ -515,7 +529,7 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:35](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “She's like the chief money person, essentially, at Turning Point USA.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “Stacey (Stacey Sheridan), by the way, is the senior advancement director at Turning Point USA.”
@@ -524,6 +538,7 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:25:04](/episodes/ep-A39g5oqB_eM.md#t-00-24-27): “She was in the office every day with Stacey Sheridan, ... taking phone calls with Stacey Sheridan. That's like the head of the fundraising for Turning Point USA.”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:13:50](/episodes/ep-QdM9jLwjwLw.md#t-00-13-22): “Saying Stacy (Stacy Sheridan), ... who is the head of fundraising for Turning Point USA,”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:21:03](/episodes/ep-Wjul6YV6izo.md#t-00-20-55): “they would have known everything about you that's how they work before everyone is seated stacy sheridan's job literally is to know everything about that person their net worth she she'll know your dad's net worth your mom's net worth she would tell charlie she whispered in charlie's ear that person and then charlie would go have the conversation that was the whole reason they brought her on that's what stacy's brilliant at”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:28](/episodes/ep-ZkDO-MRLUco.md#t-00-03-05): “Mama Stacy (Stacy Sheridan) is always there, head of Turning Point USA donations and gifts, always there. Tracy Martin, I'm counting that as dad.”
 
 </details>
 
@@ -586,7 +601,15 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Stacy Sheridan (16)</strong></summary>
+<summary><strong class="section-title">Statements about Stacy Sheridan (17)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:02:33](/episodes/ep-ZkDO-MRLUco.md#t-00-02-28) (Claim) **Candace Owens**: ["Owens reported that Erika Kirk, Charlie Kirk’s parents, Stacy Sheridan..."](/statements/statement-efdb1726744e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Tracy Martin](/entities/person-tracy-martin.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1)</summary>

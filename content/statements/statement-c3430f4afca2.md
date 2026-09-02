@@ -1,8 +1,8 @@
 ---
-title: "A former participant told Owens that the Protecting Mrs. Kir..."
-description: "\"A former participant told Owens that the Protecting Mrs. Kirk group chat had become very toxic.\" — Anonymous Source #5 (Ep 5zgkrOaCCj4)"
+title: "Owens said a former participant told her the Protecting Mrs...."
+description: "\"Owens said a former participant told her the Protecting Mrs. Kirk group began as voluntary viewing and debunking but later became toxic.\" — Candace Owens"
 statement_id: "statement-c3430f4afca2"
-speaker: "Anonymous Source #5 (Ep 5zgkrOaCCj4)"
+speaker: "Candace Owens"
 type: "opinion"
 ---
 
@@ -10,15 +10,13 @@ type: "opinion"
 
 ## Statement
 
-> A former participant told Owens that the Protecting Mrs. Kirk group chat had become very toxic.
+> Owens said a former participant told her the Protecting Mrs. Kirk group began as voluntary viewing and debunking but later became toxic.
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #5 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-005.md) (Anonymous Source)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Read from message
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** private conversation
+**Delivery:** Made directly
 
 ## About
 

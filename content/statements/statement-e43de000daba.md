@@ -21,7 +21,7 @@ type: "accusation"
 ## About
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [Tel Aviv](/entities/gpe-tel-aviv.md) (gpe)
+- [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md) (gpe)
 - [The Truman Show](/entities/work-the-truman-show.md) (work)
 
 ## Source

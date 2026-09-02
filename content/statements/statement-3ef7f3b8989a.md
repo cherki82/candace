@@ -36,16 +36,17 @@ veracity: "mixed"
 
 ### Analysis
 
-The transcript confirms that an anonymous hobby woodworker sent the show this claim. Current cyanoacrylate safety data support nitrile rubber as a suitable glove material, but they do not identify black nitrile as uniquely or maximally resistant. Glove color is pigment and does not itself determine chemical resistance; glove formulation and thickness matter. Thus the nitrile portion is supported while the 'black' and 'most resistant' portions are not.
+Reviewed the actual anonymous tip and Owens's stronger confirmation in context. A Henkel manufacturer SDS supports nitrile gloves for its specified cyanoacrylate product. It does not establish that black gloves are the most resistant, that color confers easier adhesive removal, or compatibility with every spray activator. Those stronger claims remain unsupported by the reviewed primary material. No source identifies the photographed object, the microphone adhesive, residue, or any cleanup. This is limited product-specific support, not a general protective-equipment recommendation.
 
-**Confidence:** High
+**Confidence:** Medium
 
 **Sources:**
 
 - [Cyamet Rapid Adhesive (Superglue) Safety Data Sheet](https://shop.ottobock.us/store/medias/636K11-en-US.pdf?attachment=true&context=bWFzdGVyfHJvb3R8MTkzMTUwfGFwcGxpY2F0aW9uL3BkZnxoODkvaDA4Lzg4OTI1ODM5Njg3OTgucGRmfGQxOTUyMjBjNTEwZTQxYTkwOTVjNGY5MmUxYzdjYjUzMDM3YmQ3MzFkN2UxMWQ3YzFhNWIyMmYwYjhjMjlhM2U)
 - [Are Black Nitrile Gloves Stronger Than Blue?](https://epic-solutions.co.uk/blogs/infos/are-black-nitrile-gloves-stronger-than-blue)
+- [Henkel LOCTITE 4861 Safety Data Sheet, section 8](https://media.focenter.com/CMP1007/files/LOCTITE4861PrismInstantAdhesiveCyanoacrylateRoomTemperatureHumidityCure20g_14375_SDS_SafetyDataSheet_fiberopticcenter.pdf)
 
-*Verified: 2026-08-28T02:19:55.552962*
+*Verified: 2026-09-01T14:05:50.757120*
 
 ---
 

@@ -115,10 +115,10 @@ Source: [Terry Crist](https://www.terrycrist.com/)
 - [00:43:06](/episodes/ep-cZxHqYsWRYg.md#t-00-42-38) (Citation) **Candace Owens**: ["Erika Kirk's social-media posts from 2011 praised Terry Crist and desc..."](/statements/statement-187f4cec9ba6.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Terry Crist](/entities/person-terry-crist.md), [City of Grace Church](/entities/org-city-of-grace-church.md)
 
-- [00:44:32](/episodes/ep-cZxHqYsWRYg.md#t-00-44-32) (Claim) **Anonymous Source #2 (Ep cZxHqYsWRYg)**: ["Ashley said Terry and Judith Crist were very close with Erika Kirk fro..."](/statements/statement-d5548877cc70.md)
+- [00:44:32](/episodes/ep-cZxHqYsWRYg.md#t-00-44-32) (Claim) **Ashley (Candace Owens producer; surname unverified)**: ["Ashley said Terry and Judith Crist were very close with Erika Kirk fro..."](/statements/statement-d5548877cc70.md)
   - Also about: [Terry Crist](/entities/person-terry-crist.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [00:45:25](/episodes/ep-cZxHqYsWRYg.md#t-00-45-00) (Accusation) **Anonymous Source #2 (Ep cZxHqYsWRYg)**: ["Ashley relayed an unverified word-on-the-street allegation that Terry ..."](/statements/statement-600a633777a4.md)
+- [00:45:25](/episodes/ep-cZxHqYsWRYg.md#t-00-45-00) (Accusation) **Ashley (Candace Owens producer; surname unverified)**: ["Ashley relayed an unverified word-on-the-street allegation that Terry ..."](/statements/statement-600a633777a4.md)
   - Also about: [Terry Crist](/entities/person-terry-crist.md), [City of Grace Church](/entities/org-city-of-grace-church.md)
 
 </details>

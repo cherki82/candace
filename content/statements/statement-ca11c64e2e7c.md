@@ -4,10 +4,9 @@ description: "\"Owens said the unidentified organizer had publicly admitted gath
 statement_id: "statement-ca11c64e2e7c"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -38,20 +37,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The episode directly documents Owens saying the organizer had publicly described intelligence gathering and collaboration with Green Berets, Kassy Akiva, and the Gaza Humanitarian Foundation under Johnnie Moore for Israeli public-relations work. Veracity is limited to Owens making that attributed assertion; targeted searches did not independently authenticate the alleged public admission or collaborations.
-
-**Confidence:** High
-
-**Sources:**
-
-- [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdown | Ep 372](https://www.youtube.com/watch?v=ChuWo-n49B8)
-
-*Verified: 2026-08-28T04:12:47.290105*
+_This statement has not yet been verified._
 
 ---
 

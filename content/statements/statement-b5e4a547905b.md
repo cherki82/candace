@@ -4,10 +4,9 @@ description: "\"Candace Owens cited Joe Kent as saying that 12 Israeli cell phon
 statement_id: "statement-b5e4a547905b"
 speaker: "Candace Owens"
 type: "citation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -46,20 +45,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The source episode directly records Owens citing Joe Kent for a claim about twelve Israeli-linked cell phones. This verifies her attribution to Kent only; it does not verify the underlying twelve-phone allegation.
-
-**Confidence:** High
-
-**Sources:**
-
-- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](https://www.youtube.com/watch?v=nPhCKwJ6ye8)
-
-*Verified: 2026-08-16T14:38:04.257131*
+_This statement has not yet been verified._
 
 ---
 

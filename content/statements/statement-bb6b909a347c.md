@@ -21,7 +21,7 @@ type: "accusation"
 ## About
 
 - [Egypt](/entities/gpe-egypt.md) (gpe)
-- [Turning Point Faith](/entities/org-turning-point-faith.md) (org)
+- [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md) (org)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 
 ## Source

@@ -170,7 +170,7 @@ Source: [SAM I Am: 89th Airlift Wing showcases Special Air Mission](https://www.
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (3)</summary>
 
 - [00:10:53](/episodes/ep-BxN2-aeMYIs.md#t-00-10-39) (Claim) **Candace Owens**: ["The plane then flew from El Paso to Andrews Air Force Base using the S..."](/statements/statement-9d5e1993fe2b.md)
-  - Also about: [United States Air Force](/entities/org-united-states-air-force.md), [El Paso](/entities/gpe-el-paso.md), [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md)
+  - Also about: [United States Air Force](/entities/org-united-states-air-force.md), [El Paso](/entities/gpe-el-paso.md), [Joint Base Andrews](/entities/gpe-joint-base-andrews.md)
 
 - [00:11:09](/episodes/ep-BxN2-aeMYIs.md#t-00-11-09) (Claim) **Candace Owens**: ["Special Air Mission is an official U.S. Air Force call sign for flight..."](/statements/statement-d218251c4d21.md)
   - Also about: [United States Air Force](/entities/org-united-states-air-force.md)
@@ -183,7 +183,7 @@ Source: [SAM I Am: 89th Airlift Wing showcases Special Air Mission](https://www.
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
 
-- [00:49:01](/episodes/ep-6DhWawD4ZiM.md#t-00-48-41) (Claim) **Mark (Candace show staff; surname unverified)**: ["Mark said the C-37A's call sign changed from REACH to SAM after depart..."](/statements/statement-03404b845b40.md)
+- [00:49:01](/episodes/ep-6DhWawD4ZiM.md#t-00-48-41) (Claim) **Mark (Candace show producer; surname unverified)**: ["Mark said the C-37A's call sign changed from REACH to SAM after depart..."](/statements/statement-03404b845b40.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [U.S. Air Force C-37A](/entities/vehicle-us-air-force-c-37a.md)
 
 </details>

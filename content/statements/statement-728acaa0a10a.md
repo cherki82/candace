@@ -21,7 +21,7 @@ type: "factual_claim"
 ## About
 
 - [Blake Neff](/entities/person-blake-neff.md) (person)
-- [Orem](/entities/gpe-orem.md) (gpe)
+- [Orem, Utah](/entities/gpe-orem-utah.md) (gpe)
 - [Salt Lake City](/entities/gpe-salt-lake-city.md) (gpe)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 

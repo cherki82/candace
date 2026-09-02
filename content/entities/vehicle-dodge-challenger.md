@@ -164,7 +164,7 @@ _No relationships extracted yet._
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:21:28](/episodes/ep-EtLHqDbxqks.md#t-00-21-28) (Claim) **Anonymous Source #6 (Ep EtLHqDbxqks)** (via quoted speech): ["An unidentified law-enforcement witness recalled that Ms. Noble's repo..."](/statements/statement-a725e3d18b50.md)
-  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Anonymous Source #3 (Ep EtLHqDbxqks)](/entities/anon-src-EtLHqDbxqks-003.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Ms. Noble (ring-camera witness; full identity unverified)](/entities/anon-src-EtLHqDbxqks-008.md)
 
 - [00:21:36](/episodes/ep-EtLHqDbxqks.md#t-00-21-36) (Claim) **Anonymous Source #6 (Ep EtLHqDbxqks)** (via quoted speech): ["The unidentified law-enforcement witness agreed that Ms. Noble's repor..."](/statements/statement-24b55ec3470b.md)
   - Also about: [Ms. Noble (ring-camera witness; full identity unverified)](/entities/anon-src-EtLHqDbxqks-008.md)

@@ -4,10 +4,10 @@ description: "\"Owens accused Frank Turek of openly signaling, through the Bible
 statement_id: "statement-ceeee78f02ec"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
+veracity: "mixed"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -39,16 +39,17 @@ veracity: "true"
 
 ### Analysis
 
-The primary episode directly records Owens accusing Frank Turek of signaling through biblical passages that she should be struck down. A transcript of the preceding episode reproduces Turek's remarks about biblical penalties for false accusations and Owens's response. Veracity applies to Owens having made this interpretive accusation, not to an objective finding about Turek's intent.
+Turek's published transcript discusses capital punishment for false murder accusations under ancient Israel's law and applies the warning to Owens. That supplies a basis for her interpretation, but does not conclusively establish the implied intent that she personally be harmed now.
 
-**Confidence:** High
+**Confidence:** Medium
 
 **Sources:**
 
 - [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdown | Ep 372](https://www.youtube.com/watch?v=ChuWo-n49B8)
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed | Ep 371 Transcript](https://podcastrex.com/shows/candace/viral-frank-turek-wants-me-struck-down-another-hole-in-the-story-revealed-ep-371/transcript)
+- [CrossExamined: Why I Left Hollywood with Rob Schneider](https://crossexamined.org/wp-content/uploads/2026/03/3.24-Podcast-Why-I-Left-Hollywood-with-Rob-Schneider.pdf)
 
-*Verified: 2026-08-28T04:12:47.290135*
+*Verified: 2026-09-01T16:00:08.886662*
 
 ---
 

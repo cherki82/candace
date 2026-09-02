@@ -11,7 +11,7 @@ object: "person-michael-mccoy"
 
 ## [Rob McCoy](/entities/person-rob-mccoy) parent of [Michael McCoy](/entities/person-michael-mccoy)
 
-### Evidence (10 mentions)
+### Evidence (11 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -40,6 +40,10 @@ object: "person-michael-mccoy"
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 
 - [00:37:06](/episodes/ep-VMNWMXX1vO8#t-00-37-06): _Pastor Rob McCoy, Mikey McCoy's daddy._
+
+**[BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco)**
+
+- [00:04:54](/episodes/ep-ZkDO-MRLUco#t-00-04-54): _Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor._
 
 **[Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec)**
 

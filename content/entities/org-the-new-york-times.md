@@ -1,6 +1,6 @@
 ---
 title: "The New York Times"
-description: "The New York Times (Organizations) - 74 mentions"
+description: "The New York Times (Organizations) - 75 mentions"
 id: "org-the-new-york-times"
 type: "ORG"
 aliases:
@@ -21,11 +21,11 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-23-52">2026-08-31 · 00:23:52</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>74</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-wntKnFzh9Gs.md#ent-org-the-new-york-times-t-00-02-24">2026-09-01 · 00:02:37</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>75</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -69,6 +69,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-the-new-york-times-t-00-13-18" style="--pulse-height:33%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 3 mentions" title="2026-07-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-the-new-york-times-t-00-04-10" style="--pulse-height:22%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-16-24" style="--pulse-height:33%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 3 mentions" title="2026-08-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wntKnFzh9Gs.md#ent-org-the-new-york-times-t-00-02-24" style="--pulse-height:11%" aria-label="I Met My Cousin In Iceland...: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -109,6 +110,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-the-new-york-times-t-00-13-18) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-the-new-york-times-t-00-04-10) | 2 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-16-24) | 3 |
+| 2026-09-01 | [I Met My Cousin In Iceland...](/episodes/ep-wntKnFzh9Gs.md#ent-org-the-new-york-times-t-00-02-24) | 1 |
 
 </details>
 </section>
@@ -120,7 +122,15 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+<summary><strong class="section-title">Raw mentions (75)</strong></summary>
+
+<details>
+<summary>I Met My Cousin In Iceland... (1 mentions)</summary>
+
+**[00:02:37](/episodes/ep-wntKnFzh9Gs.md#ent-org-the-new-york-times-t-00-02-24)**
+> "He was up against an established power. I mean, it was in New York Times. It was WME."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3 mentions)</summary>
@@ -701,7 +711,15 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The New York Times (14)</strong></summary>
+<summary><strong class="section-title">Statements about The New York Times (15)</strong></summary>
+
+<details>
+<summary>I Met My Cousin In Iceland... (1)</summary>
+
+- [00:02:37](/episodes/ep-wntKnFzh9Gs.md#t-00-02-24) (Opinion) **Candace Owens**: ["Owens said Justin Baldoni had faced established power, including The N..."](/statements/statement-b0fb402d518b.md)
+  - Also about: [Justin Baldoni](/entities/person-justin-baldoni.md), [WME](/entities/org-wme.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>

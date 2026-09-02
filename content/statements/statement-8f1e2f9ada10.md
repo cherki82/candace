@@ -22,7 +22,7 @@ veracity: "mixed"
 ## About
 
 - [FBI](/entities/org-fbi.md) (org)
-- [Cowboy’s Smokehouse Cafe](/entities/org-cowboys-smokehouse-cafe.md) (org)
+- [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md) (org)
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Panguitch, Utah](/entities/gpe-panguitch-utah.md) (gpe)
 

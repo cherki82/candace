@@ -12,7 +12,7 @@ _Type: Anonymous Sources_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#t-00-10-23">2026-08-10 · 00:10:44</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -55,19 +55,6 @@ _Type: Anonymous Sources_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Statements by Anonymous Source #3 (Ep 5zgkrOaCCj4) (1)</strong></summary>
-
-<details>
-<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1)</summary>
-
-- [00:10:23](/episodes/ep-5zgkrOaCCj4.md#t-00-10-23) [○] (Claim) ["An anonymous government source said the person in the parking-garage footage too..."](/statements/statement-f82975ff6cba.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-</details>
 
 </details>
 

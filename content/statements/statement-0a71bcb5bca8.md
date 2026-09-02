@@ -1,8 +1,8 @@
 ---
 title: "Turning Point employees are contacting me about things that ..."
-description: "\"Turning Point employees are contacting me about things that took place leading up to Hamptons event, changes at organization in months leading up, wha...\" — Turning Point USA employee sources (identities unverified)"
+description: "\"Turning Point employees are contacting me about things that took place leading up to Hamptons event, changes at organization in months leading up, wha...\" — Turning Point USA employee sources (Ep 236; identities unverified)"
 statement_id: "statement-0a71bcb5bca8"
-speaker: "Turning Point USA employee sources (identities unverified)"
+speaker: "Turning Point USA employee sources (Ep 236; identities unverified)"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Turning Point USA employee sources (identities unverified)](/entities/anon-src-q7f8r-THr84-019.md) (Anonymous Source)
+**Speaker:** [Turning Point USA employee sources (Ep 236; identities unverified)](/entities/anon-src-q7f8r-THr84-019.md) (Anonymous Source)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

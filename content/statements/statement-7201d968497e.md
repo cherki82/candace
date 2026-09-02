@@ -4,10 +4,9 @@ description: "\"Owens accused Eric Bolling of lying on the PBD Podcast to promot
 statement_id: "statement-7201d968497e"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "mixed"
 ---
 
-**Status:** ◐ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -45,21 +44,7 @@ veracity: "mixed"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-Bolling did make the reported break-up and communication-gap claims on PBD. Owens's characterization of him as knowingly lying is an accusation about intent that the public evidence does not establish.
-
-**Confidence:** High
-
-**Sources:**
-
-- [PBD Podcast Ep. 650 with Eric Bolling](https://www.youtube.com/watch?v=eqanfOo9jJs)
-- [Charlie Kirk had a break-up with Candace Owens, Eric Bolling said](https://www.yahoo.com/news/articles/charlie-kirk-had-break-candace-181702318.html)
-
-*Verified: 2026-08-26T09:01:17.415739*
+_This statement has not yet been verified._
 
 ---
 

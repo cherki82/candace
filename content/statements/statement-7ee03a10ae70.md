@@ -21,7 +21,7 @@ veracity: "false"
 
 ## About
 
-- [Moon landing](/entities/concept-moon-landing.md) (concept)
+- [Moon landing](/entities/event-moon-landing.md) (event)
 - [NASA](/entities/org-nasa.md) (org)
 
 ## Source

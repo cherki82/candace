@@ -20,7 +20,7 @@ date: "2026-08-11"
 
 > Tyler Robinson's defense filed a brief seeking dismissal of the aggravated-murder allegation and removal of the aggravating factor after the preliminary hearing
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Candace Owens vs Andrew Wilson: The Great Debate.
 
@@ -45,3 +45,11 @@ date: "2026-08-11"
 <a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=2544s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the last filing, the filing for dismissal, which dropped two days before our debate.
+
+### 4. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
+
+**Episode:** [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md)
+**Timestamp:** [00:38:32](/episodes/ep-ZkDO-MRLUco.md#event-event-2026-08-11-tyler-robinsons-defense-filed-a-brief-se-t-00-38-32) 
+<a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=2312s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> So one, six and seven, they also argued to be dismissed.

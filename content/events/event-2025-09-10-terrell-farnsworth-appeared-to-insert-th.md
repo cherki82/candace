@@ -16,7 +16,7 @@ date: "2025-09-10"
 
 > Terrell Farnsworth appeared to insert the rear-camera SD card into a laptop within ten minutes after Charlie Kirk was shot.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critica...
 
@@ -33,3 +33,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=_cNtgris8Ik&t=140s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > It looks very much like he inserts an SD card into it, an SD card that he just happened to take out
+
+### 3. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
+
+**Episode:** [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md)
+**Timestamp:** [00:20:48](/episodes/ep-ZkDO-MRLUco.md#event-event-2025-09-10-terrell-farnsworth-appeared-to-insert-th-t-00-20-31) 
+<a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=1248s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Seemingly plausibly toying around with the footage sticking the sd card into his computer

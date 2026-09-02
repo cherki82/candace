@@ -10,11 +10,15 @@ _Type: Anonymous Sources_
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
 <div><span>Mentions</span><strong>0</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -33,12 +37,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Anonymous Source #1 (Ep 1CFDtD0IgEg) (1)</strong></summary>
+<summary><strong class="section-title">Statements by Anonymous Source #1 (Ep 1CFDtD0IgEg) (2)</strong></summary>
 
 <details>
-<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2)</summary>
 
 - [00:07:37](/episodes/ep-1CFDtD0IgEg.md#t-00-07-27) [◐] (Claim) ["An anonymous woodworker told the show that black nitrile gloves are the most res..."](/statements/statement-3ef7f3b8989a.md)
+
+- [00:07:52](/episodes/ep-1CFDtD0IgEg.md#t-00-07-27) [○] (Accusation) ["The anonymous woodworker suggested, as a hypothetical use for the gloves, quickl..."](/statements/statement-e2b1a09b5741.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

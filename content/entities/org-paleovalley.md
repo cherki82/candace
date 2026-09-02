@@ -1,6 +1,6 @@
 ---
 title: "Paleovalley"
-description: "Paleovalley (Organizations) - 107 mentions"
+description: "Paleovalley (Organizations) - 111 mentions"
 id: "org-paleovalley"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Paleovalley](https://paleovalley.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02">2025-09-16 · 00:39:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-paleovalley-t-00-43-58">2026-08-18 · 00:44:08</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>107</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-paleovalley-t-00-40-30">2026-09-01 · 00:40:30</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>111</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -58,6 +58,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-paleovalley-t-00-52-32" style="--pulse-height:44%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 4 mentions" title="2026-08-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-paleovalley-t-00-23-54" style="--pulse-height:44%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 4 mentions" title="2026-08-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-paleovalley-t-00-43-17" style="--pulse-height:33%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 3 mentions" title="2026-08-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-paleovalley-t-00-39-12" style="--pulse-height:44%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -85,6 +86,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-paleovalley-t-00-52-32) | 4 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-paleovalley-t-00-23-54) | 4 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-paleovalley-t-00-43-17) | 3 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-paleovalley-t-00-39-12) | 4 |
 
 </details>
 </section>
@@ -92,7 +94,24 @@ Source: [Paleovalley](https://paleovalley.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+<summary><strong class="section-title">Raw mentions (111)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>
+
+**[00:39:45](/episodes/ep-ZkDO-MRLUco.md#ent-org-paleovalley-t-00-39-12)**
+> "We'll be back after a brief break. All right, you guys, Paleovalley is one of those snacks that don't make you choose between being healthy or having something that's delicious."
+
+**[00:39:54](/episodes/ep-ZkDO-MRLUco.md#ent-org-paleovalley-t-00-39-54)**
+> "Paleovalley uses 100% grass-fed and grass-finished beef sourc..."
+
+**[00:40:23](/episodes/ep-ZkDO-MRLUco.md#ent-org-paleovalley-t-00-39-54)**
+> "...t 20% off your first order at paleovalley.com."
+
+**[00:40:30](/episodes/ep-ZkDO-MRLUco.md#ent-org-paleovalley-t-00-40-30)**
+> "...e CANDACE at checkout. That's paleovalley.com using promo code CANDACE at checkout. And I h..."
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (3 mentions)</summary>

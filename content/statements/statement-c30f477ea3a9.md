@@ -1,8 +1,8 @@
 ---
 title: "An eyewitness told Owens that after George Zinn was arrested..."
-description: "\"An eyewitness told Owens that after George Zinn was arrested, he told someone on campus that Zinn was the wrong person and that the shooter wore tacti...\" — Anonymous Source #1 (Ep UBkFkg4UNY8)"
+description: "\"An eyewitness told Owens that after George Zinn was arrested, he told someone on campus that Zinn was the wrong person and that the shooter wore tacti...\" — Anonymous Losee Center Eyewitness"
 statement_id: "statement-c30f477ea3a9"
-speaker: "Anonymous Source #1 (Ep UBkFkg4UNY8)"
+speaker: "Anonymous Losee Center Eyewitness"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #1 (Ep UBkFkg4UNY8)](/entities/anon-src-UBkFkg4UNY8-001.md) (Anonymous Source)
+**Speaker:** [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md) (Anonymous Source)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

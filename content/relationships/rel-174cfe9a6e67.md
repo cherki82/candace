@@ -11,7 +11,7 @@ object: "person-rob-mccoy"
 
 ## [Michael McCoy](/entities/person-michael-mccoy) child of [Rob McCoy](/entities/person-rob-mccoy)
 
-### Evidence (12 mentions)
+### Evidence (13 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -44,6 +44,10 @@ object: "person-rob-mccoy"
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 
 - [00:19:59](/episodes/ep-YFmRH8p5lt0#t-00-19-59): _January 3, 2024—Mikey McCoy's promoted to the chief of staff of Turning Point USA. I have the internal email, so that is a fact. He gets the promotion. Now you can see, I guess, the McCoys are much more involved in Turning Point USA._
+
+**[BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco)**
+
+- [00:04:54](/episodes/ep-ZkDO-MRLUco#t-00-04-54): _Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor._
 
 **[Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec)**
 

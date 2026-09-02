@@ -1,6 +1,6 @@
 ---
 title: "Calvary Chapel"
-description: "Calvary Chapel (Organizations) - 80 mentions"
+description: "Calvary Chapel (Organizations) - 88 mentions"
 id: "org-calvary-chapel"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#t-00-03-39">2025-10-29 · 00:03:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-calvary-chapel-t-00-39-22">2026-07-29 · 00:39:38</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>80</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-calvary-chapel-t-00-19-47">2026-09-01 · 00:20:05</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
@@ -59,6 +59,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-calvary-chapel-t-00-04-30" style="--pulse-height:15%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 3 mentions" title="2026-05-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-calvary-chapel-t-00-19-44" style="--pulse-height:10%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-calvary-chapel-t-00-39-22" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-calvary-chapel-t-00-03-42" style="--pulse-height:40%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 8 mentions" title="2026-09-01 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +88,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-calvary-chapel-t-00-04-30) | 3 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-calvary-chapel-t-00-19-44) | 2 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-calvary-chapel-t-00-39-22) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-calvary-chapel-t-00-03-42) | 8 |
 
 </details>
 </section>
@@ -98,7 +100,36 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (80)</strong></summary>
+<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (8 mentions)</summary>
+
+**[00:03:54](/episodes/ep-ZkDO-MRLUco.md#ent-org-calvary-chapel-t-00-03-42)**
+> "And notably, you may not have recognized who this was. This is Pastor James Kaddis. He's the senior pastor of Calvary Chapel in Signal Hill, California."
+
+**[00:04:32](/episodes/ep-ZkDO-MRLUco.md#ent-org-calvary-chapel-t-00-04-27)**
+> "And speaking of Calvary Chapel pastors, that's where I'd like to begin today. Ca..."
+
+**[00:04:54](/episodes/ep-ZkDO-MRLUco.md#ent-org-calvary-chapel-t-00-04-27)**
+> "...s father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor."
+
+**[00:06:26](/episodes/ep-ZkDO-MRLUco.md#ent-org-calvary-chapel-t-00-06-17)**
+> "...bbs, another senior pastor at Calvary Chapel Church. His church is based in Chino Hills, Calif..."
+
+**[00:06:38](/episodes/ep-ZkDO-MRLUco.md#ent-org-calvary-chapel-t-00-06-17)**
+> "...trong opinion regarding these Calvary Chapel churches and their extraordinary dedication to Is..."
+
+**[00:07:03](/episodes/ep-ZkDO-MRLUco.md#ent-org-calvary-chapel-t-00-06-52)**
+> "...construction of some of those Calvary Chapel churches, like Rob McCoy's church in Thousand Oak..."
+
+**[00:13:17](/episodes/ep-ZkDO-MRLUco.md#ent-org-calvary-chapel-t-00-12-57)**
+> "... is very much involved in the Calvary Chapel."
+
+**[00:20:05](/episodes/ep-ZkDO-MRLUco.md#ent-org-calvary-chapel-t-00-19-47)**
+> "Is this maybe there was a Calvary Chapel conference call? Perhaps that might fit with when..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
@@ -505,9 +536,10 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:38:21](/episodes/ep-581dILVcEE4.md#t-00-37-57): “These pastors are doing the absolute most. I have never seen such an obvious and naked propagandist campaign in my life than me exploring the Calvary Chapel Church movement.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:06:38](/episodes/ep-ZkDO-MRLUco.md#t-00-06-17): “Now, I think you guys already know that I have a rather strong opinion regarding these Calvary Chapel churches and their extraordinary dedication to Israel. So I'm not going to belabor any points here.”
 
 </details>
 
@@ -616,9 +648,10 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:38:21](/episodes/ep-581dILVcEE4.md#t-00-37-57): “These pastors are doing the absolute most. I have never seen such an obvious and naked propagandist campaign in my life than me exploring the Calvary Chapel Church movement.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:06:38](/episodes/ep-ZkDO-MRLUco.md#t-00-06-17): “Now, I think you guys already know that I have a rather strong opinion regarding these Calvary Chapel churches and their extraordinary dedication to Israel. So I'm not going to belabor any points here.”
 
 </details>
 
@@ -676,7 +709,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>
 
 - [00:31:20](/episodes/ep-DYD_QHMPwqM.md#t-00-30-54) (Opinion) **Candace Owens**: ["Turning Point USA's shift from free-market capitalism toward faith and..."](/statements/statement-b270be5c6455.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [Erika Kirk](/entities/person-erika-kirk.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

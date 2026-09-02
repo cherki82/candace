@@ -4,10 +4,9 @@ description: "\"Candace Owens rhetorically asked whether people knew about the C
 statement_id: "statement-73e33489e3a9"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -36,20 +35,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-Transcript context and the primary recording directly confirm Owens rhetorically asked the stated questions and alleged CIA/Israeli support for Al-Qaeda and Al-Nusra. Verification is limited to the accurately framed occurrence of her accusation; the live search did not produce authoritative evidence supporting the sweeping claim that Israel was behind all radical Islamist activity.
-
-**Confidence:** Medium
-
-**Sources:**
-
-- [A Shocking Truth Revealed In The 4K Footage... | Ep 373](https://rumble.com/v7dto7u-a-shocking-truth-revealed-in-the-4k-footage.-beavis-and-butt-head-send-a-me.html)
-
-*Verified: 2026-08-28T05:43:22.742396*
+_This statement has not yet been verified._
 
 ---
 

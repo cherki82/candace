@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Schaefer Security](/entities/org-schaefer-security.md) (org)
+- [Shaffer Security Group](/entities/org-shaffer-security-group.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 - [Dan Flood](/entities/person-dan-flood.md) (person)

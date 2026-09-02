@@ -190,7 +190,7 @@ _No relationships extracted yet._
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
 - [00:56:13](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-46) (Accusation) **Candace Owens**: ["Kabbalah is the reason for the cultural push for transgenderism"](/statements/statement-ec798c5bd223.md)
-  - Also about: [Jewish mystical tradition](/entities/concept-jewish-mystical-tradition.md)
+  - Also about: [Kabbalah](/entities/concept-kabbalah.md)
 
 </details>
 

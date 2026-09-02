@@ -15,8 +15,6 @@ _Type: People_
 
 **Categories:** Biden family
 
-> **Possibly overlapping entity records:** [Melissa](/entities/person-melissa). These records share a name or alias; compare their histories before treating either count as complete.
-
 **Entity verification:** verified
 > Canonical identity verified as Hunter Biden’s wife; transcript context refers to his wife Melissa throughout.
 Source: [Associated Press: Melissa Cohen Biden](https://apnews.com/article/hunter-biden-trial-wife-melissa-cohen-biden-7809ddf7dd325f4bd695908e3e3b13c6)

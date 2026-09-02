@@ -136,10 +136,10 @@ _No relationships extracted yet._
   - Also about: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md)
 
 - [00:11:30](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Accusation) **Candace Owens**: ["Turning Point Faith was intended to turn Charlie Kirk into a controlla..."](/statements/statement-14661745d0ac.md)
-  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:11:30](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Opinion) **Candace Owens**: ["Owens theorized that Kirk's assassination was made globally visible so..."](/statements/statement-8dbeeb0d8f16.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </details>
 

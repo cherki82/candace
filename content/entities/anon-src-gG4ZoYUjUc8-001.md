@@ -61,7 +61,7 @@ _No relationships extracted yet._
 - [00:26:26](/episodes/ep-gG4ZoYUjUc8.md#t-00-26-26) (Claim) **Candace Owens**: ["Owens said she had not spoken with the recorded former Turning Point U..."](/statements/statement-1822de273497.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:27:14](/episodes/ep-gG4ZoYUjUc8.md#t-00-27-12) (Claim) **Anonymous Source #2 (Ep gG4ZoYUjUc8)**: ["TPUSA was going in a different direction, the employee had been termin..."](/statements/statement-1ff7183e5b30.md)
+- [00:27:14](/episodes/ep-gG4ZoYUjUc8.md#t-00-27-12) (Claim) **Frank (TPUSA lawyer; surname unverified)**: ["TPUSA was going in a different direction, the employee had been termin..."](/statements/statement-1ff7183e5b30.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:28:52](/episodes/ep-gG4ZoYUjUc8.md#t-00-28-52) (Claim) **Anonymous Source #1 (Ep gG4ZoYUjUc8)**: ["The former TPUSA employee had never received a bad review, had no issu..."](/statements/statement-7ce43d15c332.md)

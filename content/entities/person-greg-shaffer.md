@@ -1,28 +1,33 @@
 ---
 title: "Greg Shaffer"
-description: "Greg Shaffer (People) - 3 mentions"
+description: "Greg Shaffer (People) - 4 mentions"
 id: "person-greg-shaffer"
 type: "PERSON"
+aliases:
+  - "Greg Shaffer"
+  - "Gregory Shaffer"
 categories:
   - "security consultant"
   - "former FBI agent"
+  - "private security"
+  - "Turning Point USA former security"
 ---
 
 _Type: People_
 
-**Categories:** security consultant, former FBI agent
+**Also known as:** Greg Shaffer, Gregory Shaffer
 
-> **Possibly overlapping entity records:** [Gregory Shaffer](/entities/person-gregory-shaffer). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** security consultant, former FBI agent, private security, Turning Point USA former security
 
 **Entity verification:** verified
 > Official biography confirms the spelling Greg Shaffer, former FBI service, Hostage Rescue Team work, Budapest legal attaché role, and founding of Shaffer Security Group.
 Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-greg-shaffer-t-00-11-05">2026-01-19 · 00:11:29</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#t-00-46-13">2025-12-16 · 00:46:40</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-greg-shaffer-t-00-11-37">2026-01-19 · 00:12:07</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -33,12 +38,14 @@ Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-greg-shaffer-t-00-11-05">A Legal Turning Point? | Candace Ep 292</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-es7PWdFGoFI.md#t-00-46-13" style="--pulse-height:33%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-greg-shaffer-t-00-11-05" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 3 mentions" title="2026-01-19 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#t-00-46-13) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-greg-shaffer-t-00-11-05) | 3 |
 
 </details>
@@ -51,7 +58,7 @@ Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (3 mentions)</summary>
@@ -64,6 +71,14 @@ Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 
 **[00:12:07](/episodes/ep-NIEbqsLAK8g.md#ent-person-greg-shaffer-t-00-11-37)**
 > "He hires Greg Shaffer and Dan Flood. And these are they're going to sta..."
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13)**
+> "Schaeffer security, which was run by Greg Schaeffer"
 
 </details>
 
@@ -114,9 +129,10 @@ Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 <summary>Operates (1)</summary>
 
 - **[Shaffer Security Group](/entities/org-shaffer-security-group.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A Legal Turning Point? | Candace Ep 292 @ 00:11:26](/episodes/ep-NIEbqsLAK8g.md#t-00-11-05): “Bill Montgomery chose to hire Shaffer Security, which was run by Greg Shaffer.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement.”
 
 </details>
 
@@ -154,9 +170,10 @@ Source: [Greg Shaffer](https://gregshafferspeaks.com/home)
 </details>
 
 - **[Shaffer Security Group](/entities/org-shaffer-security-group.md)** operated by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A Legal Turning Point? | Candace Ep 292 @ 00:11:26](/episodes/ep-NIEbqsLAK8g.md#t-00-11-05): “Bill Montgomery chose to hire Shaffer Security, which was run by Greg Shaffer.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement.”
 
 </details>
 

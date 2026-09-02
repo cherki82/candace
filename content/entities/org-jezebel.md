@@ -11,8 +11,6 @@ _Type: Organizations_
 
 **Categories:** digital media publication
 
-> **Possibly overlapping entity records:** [Jezebel](/entities/person-jezebel-biblical). These records share a name or alias; compare their histories before treating either count as complete.
-
 **Entity verification:** verified
 > Publication site verifies canonical brand name.
 Source: [Jezebel](https://www.jezebel.com/)

@@ -200,7 +200,7 @@ _No relationships extracted yet._
   - Also about: [Mossad](/entities/org-mossad.md), [Gold Apollo Co., Ltd.](/entities/org-gold-apollo.md), [Hezbollah](/entities/org-hezbollah.md)
 
 - [00:25:41](/episodes/ep-IqHsl7d2dos.md#t-00-25-41) (Accusation) **Candace Owens**: ["Owens said she believed Charlie Kirk's life became a Truman Show: infi..."](/statements/statement-e43de000daba.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tel Aviv](/entities/gpe-tel-aviv.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md)
 
 </details>
 

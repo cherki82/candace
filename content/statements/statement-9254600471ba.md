@@ -4,10 +4,9 @@ description: "\"Owens alleged without doubt that an agent of Israel had brought 
 statement_id: "statement-9254600471ba"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -35,20 +34,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The primary episode directly records Owens alleging without doubt that an agent of Israel assembled the online group targeting her. Veracity is limited to the fact and wording of Owens's allegation. Current searches found reporting about the private group and later disputes, but no authoritative evidence proving its organizer was an Israeli agent.
-
-**Confidence:** High
-
-**Sources:**
-
-- [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdown | Ep 372](https://www.youtube.com/watch?v=ChuWo-n49B8)
-
-*Verified: 2026-08-28T04:12:47.290103*
+_This statement has not yet been verified._
 
 ---
 

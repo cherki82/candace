@@ -22,7 +22,7 @@ veracity: "mixed"
 
 ## About
 
-- [George H.W. Bush](/entities/person-george-hw-bush.md) (person)
+- [George H. W. Bush](/entities/person-george-h-w-bush.md) (person)
 - [Joint Task Force Six](/entities/org-joint-task-force-six.md) (org)
 
 ## Source

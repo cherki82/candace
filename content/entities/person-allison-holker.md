@@ -95,7 +95,7 @@ Source: [CBS News — Stephen “tWitch” Boss family interview](https://www.cb
 <details>
 <summary>Formerly Lived In (1)</summary>
 
-- **[Orem](/entities/gpe-orem.md)**
+- **[Orem, Utah](/entities/gpe-orem-utah.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:39:28](/episodes/ep-amqTMimDr0A.md#t-00-39-28): “I find out that Allison (Stephen Boss's widow; surname unverified) grew up in Orem, Utah.”
@@ -140,7 +140,7 @@ Source: [CBS News — Stephen “tWitch” Boss family interview](https://www.cb
 
 </details>
 
-- **[Orem](/entities/gpe-orem.md)** former residence of this
+- **[Orem, Utah](/entities/gpe-orem-utah.md)** former residence of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:39:28](/episodes/ep-amqTMimDr0A.md#t-00-39-28): “I find out that Allison (Stephen Boss's widow; surname unverified) grew up in Orem, Utah.”

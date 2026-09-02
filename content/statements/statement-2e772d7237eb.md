@@ -1,8 +1,8 @@
 ---
 title: "In 1964, a group of scientists including Peter Higgs theoriz..."
-description: "\"In 1964, a group of scientists including Peter Higgs theorized the Higgs boson.\" — Mark from Candace's production team (surname unidentified)"
+description: "\"In 1964, a group of scientists including Peter Higgs theorized the Higgs boson.\" — Mark (Candace show producer; surname unverified)"
 statement_id: "statement-2e772d7237eb"
-speaker: "Mark from Candace's production team (surname unidentified)"
+speaker: "Mark (Candace show producer; surname unverified)"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Mark from Candace's production team (surname unidentified)](/entities/anon-src-bkcom32zegk-mark-production-team.md) (Guest)
+**Speaker:** [Mark (Candace show producer; surname unverified)](/entities/person-mark-candace-show-producer.md) (Guest)
 
 **Delivery:** Made directly
 

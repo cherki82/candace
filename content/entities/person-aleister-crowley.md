@@ -252,10 +252,10 @@ Source: [Aleister Crowley | Encyclopedia.com](https://www.encyclopedia.com/peopl
 - [00:03:25](/episodes/ep-1IY2oD-_xVA.md#t-00-03-06) (Claim) **Candace Owens**: ["A 23-year-old Oxford student whom Aleister Crowley regarded as his mag..."](/statements/statement-b195a17ff497.md)
   - Also about: [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday.md), [University of Oxford](/entities/org-university-of-oxford.md), [Sicily](/entities/gpe-sicily.md)
 
-- [00:03:47](/episodes/ep-1IY2oD-_xVA.md#t-00-03-47) (Claim) **Anonymous Source #1 (Ep 1IY2oD-_xVA)**: ["Aleister Crowley believed he could make himself invisible and tried to..."](/statements/statement-ef749e840763.md)
+- [00:03:47](/episodes/ep-1IY2oD-_xVA.md#t-00-03-47) (Claim) **Ashley (Candace Owens producer; surname unverified)**: ["Aleister Crowley believed he could make himself invisible and tried to..."](/statements/statement-ef749e840763.md)
   - Also about: [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday.md)
 
-- [00:03:59](/episodes/ep-1IY2oD-_xVA.md#t-00-03-47) (Claim) **Anonymous Source #1 (Ep 1IY2oD-_xVA)**: ["Aleister Crowley and Raoul Loveday became seriously ill during a cerem..."](/statements/statement-f1b02338a6e6.md)
+- [00:03:59](/episodes/ep-1IY2oD-_xVA.md#t-00-03-47) (Claim) **Ashley (Candace Owens producer; surname unverified)**: ["Aleister Crowley and Raoul Loveday became seriously ill during a cerem..."](/statements/statement-f1b02338a6e6.md)
   - Also about: [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday.md), [Sicily](/entities/gpe-sicily.md)
 
 - [00:04:42](/episodes/ep-1IY2oD-_xVA.md#t-00-04-37) (Claim) **Candace Owens**: ["Benito Mussolini expelled Aleister Crowley from Italy for being a Sata..."](/statements/statement-89dc27d032d0.md)

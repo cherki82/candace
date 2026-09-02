@@ -453,7 +453,7 @@ _No relationships extracted yet._
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (4)</summary>
 
 - [00:36:21](/episodes/ep-N4uM8Jdr410.md#t-00-36-05) (Claim) **Candace Owens**: ["Candace Owens said Blake Neff first said he stayed in Orem, later chan..."](/statements/statement-728acaa0a10a.md)
-  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Orem](/entities/gpe-orem.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Orem, Utah](/entities/gpe-orem-utah.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:37:14](/episodes/ep-N4uM8Jdr410.md#t-00-37-08) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said that, to his knowledge, he stayed at basically the sam..."](/statements/statement-b592fae6969b.md)
   - Also about: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md)

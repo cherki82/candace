@@ -4,10 +4,9 @@ description: "\"Owens said she believed Andrew Kolvet had admitted that Bill Ack
 statement_id: "statement-49e3d46f6560"
 speaker: "Candace Owens"
 type: "factual_claim"
-veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -35,20 +34,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The source transcript directly records Owens saying that she believed Andrew Kolvet admitted Bill Ackman did not give Matt Robinson one million dollars. Veracity here is limited to Owens having expressed that belief; targeted searches did not independently locate the alleged Kolvet admission or establish whether any reward was paid.
-
-**Confidence:** High
-
-**Sources:**
-
-- [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdown | Ep 372](https://www.youtube.com/watch?v=ChuWo-n49B8)
-
-*Verified: 2026-08-28T04:12:47.290068*
+_This statement has not yet been verified._
 
 ---
 

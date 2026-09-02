@@ -1,8 +1,8 @@
 ---
 title: "Farnsworth told Kolvet that he removed the SD cards because ..."
-description: "\"Farnsworth told Kolvet that he removed the SD cards because people could be evil and he wanted to protect the footage from being taken.\" — Terrell Farnsworth"
+description: "\"Farnsworth told Kolvet that he removed the SD cards because people could be evil and he wanted to protect the footage from being taken.\" — Terryl Farnsworth"
 statement_id: "statement-4b2a64f0f915"
-speaker: "Terrell Farnsworth"
+speaker: "Terryl Farnsworth"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (Quoted)
+**Speaker:** [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (Quoted)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
@@ -23,7 +23,7 @@ veracity: "true"
 
 ## About
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 
 ## Source
 

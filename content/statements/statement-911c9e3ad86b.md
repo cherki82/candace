@@ -1,8 +1,8 @@
 ---
 title: "Anonymous sources reportedly said that within 48 hours befor..."
-description: "\"Anonymous sources reportedly said that within 48 hours before Charlie Kirk was shot, top donors were pulling funding and demanding that their name be ...\" — Turning Point USA employee sources (identities unverified)"
+description: "\"Anonymous sources reportedly said that within 48 hours before Charlie Kirk was shot, top donors were pulling funding and demanding that their name be ...\" — Turning Point USA employee sources (Ep 236; identities unverified)"
 statement_id: "statement-911c9e3ad86b"
-speaker: "Turning Point USA employee sources (identities unverified)"
+speaker: "Turning Point USA employee sources (Ep 236; identities unverified)"
 type: "accusation"
 ---
 
@@ -14,7 +14,7 @@ type: "accusation"
 
 ## Attribution
 
-**Speaker:** [Turning Point USA employee sources (identities unverified)](/entities/anon-src-q7f8r-THr84-019.md) (Anonymous Source)
+**Speaker:** [Turning Point USA employee sources (Ep 236; identities unverified)](/entities/anon-src-q7f8r-THr84-019.md) (Anonymous Source)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

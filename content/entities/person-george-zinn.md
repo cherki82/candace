@@ -27,7 +27,7 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 <div><span>Episodes</span><strong>24</strong></div>
 <div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -493,12 +493,14 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Zinn (21)</strong></summary>
+<summary><strong class="section-title">Statements about George Zinn (22)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (2)</summary>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (3)</summary>
 
 - [00:27:37](/episodes/ep-5zgkrOaCCj4.md#t-00-27-20) (Claim) **Candace Owens**: ["Owens said high-resolution photos appeared to show that a device had f..."](/statements/statement-3d01f4925830.md)
+
+- [00:28:01](/episodes/ep-5zgkrOaCCj4.md#t-00-28-01) (Opinion) **Candace Owens**: ["Owens allowed that the unidentified object visible near George Zinn mi..."](/statements/statement-161241e62785.md)
 
 - [00:28:10](/episodes/ep-5zgkrOaCCj4.md#t-00-28-01) (Opinion) **Candace Owens**: ["Owens said the device immediately looked like a satellite phone to her..."](/statements/statement-d7ff76317996.md)
 
@@ -593,7 +595,7 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 - [00:15:15](/episodes/ep-UBkFkg4UNY8.md#t-00-14-37) (Claim) **Candace Owens**: ["Owens said the person who shared the George Zinn photo did not disclos..."](/statements/statement-16f3e779aef7.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:24:16](/episodes/ep-UBkFkg4UNY8.md#t-00-24-07) (Claim) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["An eyewitness told Owens that after George Zinn was arrested, he told ..."](/statements/statement-c30f477ea3a9.md)
+- [00:24:16](/episodes/ep-UBkFkg4UNY8.md#t-00-24-07) (Claim) **Anonymous Losee Center Eyewitness** (via quoted speech): ["An eyewitness told Owens that after George Zinn was arrested, he told ..."](/statements/statement-c30f477ea3a9.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </details>

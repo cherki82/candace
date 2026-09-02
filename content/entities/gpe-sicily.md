@@ -85,7 +85,7 @@ _No relationships extracted yet._
 - [00:03:25](/episodes/ep-1IY2oD-_xVA.md#t-00-03-06) (Claim) **Candace Owens**: ["A 23-year-old Oxford student whom Aleister Crowley regarded as his mag..."](/statements/statement-b195a17ff497.md)
   - Also about: [Aleister Crowley](/entities/person-aleister-crowley.md), [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday.md), [University of Oxford](/entities/org-university-of-oxford.md)
 
-- [00:03:59](/episodes/ep-1IY2oD-_xVA.md#t-00-03-47) (Claim) **Anonymous Source #1 (Ep 1IY2oD-_xVA)**: ["Aleister Crowley and Raoul Loveday became seriously ill during a cerem..."](/statements/statement-f1b02338a6e6.md)
+- [00:03:59](/episodes/ep-1IY2oD-_xVA.md#t-00-03-47) (Claim) **Ashley (Candace Owens producer; surname unverified)**: ["Aleister Crowley and Raoul Loveday became seriously ill during a cerem..."](/statements/statement-f1b02338a6e6.md)
   - Also about: [Aleister Crowley](/entities/person-aleister-crowley.md), [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday.md)
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 271 mentions"
+description: "The Daily Wire (Organizations) - 272 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -25,9 +25,9 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-the-daily-wire-t-00-40-44">2025-09-18 · 00:41:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-the-daily-wire-t-00-37-46">2026-08-31 · 00:37:57</a></strong></div>
-<div><span>Episodes</span><strong>66</strong></div>
-<div><span>Mentions</span><strong>271</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-the-daily-wire-t-00-07-33">2026-09-01 · 00:07:42</a></strong></div>
+<div><span>Episodes</span><strong>67</strong></div>
+<div><span>Mentions</span><strong>272</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>103</strong></div>
 <div><span>Relationships</span><strong>62</strong></div>
@@ -104,6 +104,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-the-daily-wire-t-00-00-27" style="--pulse-height:13%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 5 mentions" title="2026-08-10 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-the-daily-wire-t-00-43-23" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-the-daily-wire-t-00-37-46" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-the-daily-wire-t-00-07-33" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -175,6 +176,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-the-daily-wire-t-00-00-27) | 5 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-the-daily-wire-t-00-43-23) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-the-daily-wire-t-00-37-46) | 2 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-the-daily-wire-t-00-07-33) | 1 |
 
 </details>
 </section>
@@ -186,7 +188,15 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (271)</strong></summary>
+<summary><strong class="section-title">Raw mentions (272)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:07:42](/episodes/ep-ZkDO-MRLUco.md#ent-org-the-daily-wire-t-00-07-33)**
+> "But they are radically pro-Israel, right? They also fund PragerU. They were also behind the initial big funding of the Daily Wire."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
@@ -1566,9 +1576,10 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Wilks Brothers](/entities/person-wilks-brothers.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:07:03](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52): “She's never hidden that fact. So we're not exactly. exactly revealing or bringing any news there but I used to work for PragerU and she had suggested to me that I have him on my podcast I don't believe it ever happened but you can take from that what you will it is a fact that is how I learned about Jack (Jack Hibbs) uh Jack Hibbs from Marissa (Marissa Streit) It is also a fact that the same family who funds the construction of some of those Calvary Chapel churches, like Rob McCoy's church in Thousand Oaks, are the billionaire Wilks brothers. ... But they are radically pro-Israel, right? They also fund PragerU. They were also behind the initial big funding of the Daily Wire.”
 
 </details>
 
@@ -1873,9 +1884,10 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Wilks Brothers](/entities/person-wilks-brothers.md)** funded this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:07:03](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52): “She's never hidden that fact. So we're not exactly. exactly revealing or bringing any news there but I used to work for PragerU and she had suggested to me that I have him on my podcast I don't believe it ever happened but you can take from that what you will it is a fact that is how I learned about Jack (Jack Hibbs) uh Jack Hibbs from Marissa (Marissa Streit) It is also a fact that the same family who funds the construction of some of those Calvary Chapel churches, like Rob McCoy's church in Thousand Oaks, are the billionaire Wilks brothers. ... But they are radically pro-Israel, right? They also fund PragerU. They were also behind the initial big funding of the Daily Wire.”
 
 </details>
 
@@ -2340,7 +2352,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 - [00:45:24](/episodes/ep-HYn0P-P1wUw.md#t-00-44-50) (Accusation) **Candace Owens**: ["The Daily Wire selected Madison Bransford to host a show called In the..."](/statements/statement-7a95cf8eb79f.md)
-  - Also about: [Madison Bransford](/entities/person-madison-bransford.md), [Candace Owens](/entities/person-candace-owens.md), [In the No-No](/entities/work-in-the-no-no.md)
+  - Also about: [Madison Bransford](/entities/person-madison-bransford.md), [Candace Owens](/entities/person-candace-owens.md), [The More You No-No](/entities/work-the-more-you-no-no.md)
 
 - [00:50:43](/episodes/ep-HYn0P-P1wUw.md#t-00-50-23) (Accusation) **Candace Owens**: ["The Daily Wire's continuing focus on Candace Owens amounts to a danger..."](/statements/statement-74ac93f4dc49.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)

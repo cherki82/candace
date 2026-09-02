@@ -12,7 +12,7 @@ date: "2025-09-09"
 
 > Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.
 
-## Mentioned In (10 times)
+## Mentioned In (11 times)
 
 ### 1. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
 
@@ -93,3 +93,11 @@ date: "2025-09-09"
 <a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=435s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > what Andrew said, which is, they're going to kill me.
+
+### 11. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
+
+**Episode:** [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md)
+**Timestamp:** [00:12:50](/episodes/ep-ZkDO-MRLUco.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-12-14) 
+<a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=770s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Now he's texting people saying that he thinks he's going to be killed, that they're going to kill him.

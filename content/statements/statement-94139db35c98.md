@@ -21,7 +21,7 @@ veracity: "mixed"
 
 ## About
 
-- [Otto Busher III](/entities/person-otto-busher-iii.md) (person)
+- [Otto A. Busher III](/entities/person-otto-a-busher-iii.md) (person)
 
 ## Source
 

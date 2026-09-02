@@ -1,13 +1,11 @@
 ---
-title: "Turning Point USA employee sources (identities unverified)"
-description: "Turning Point USA employee sources (identities unverified) (Anonymous Sources) - 2 mentions"
+title: "Turning Point USA employee sources (Ep 236; identities unverified)"
+description: "Turning Point USA employee sources (Ep 236; identities unverified) (Anonymous Sources) - 2 mentions"
 id: "anon-src-q7f8r-THr84-019"
 type: "ANONYMOUS_SOURCE"
 ---
 
 _Type: Anonymous Sources_
-
-> **Possibly overlapping entity records:** [Turning Point USA employee sources (identities unverified)](/entities/anon-src-aDlhjfW6hz8-005). These records share a name or alias; compare their histories before treating either count as complete.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-00-44">2025-09-16 · 00:01:04</a></strong></div>
@@ -61,7 +59,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Turning Point USA employee sources (identities unverified) (3)</strong></summary>
+<summary><strong class="section-title">Statements by Turning Point USA employee sources (Ep 236; identities unverified) (3)</strong></summary>
 
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (3)</summary>

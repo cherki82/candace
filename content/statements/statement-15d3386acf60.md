@@ -21,7 +21,7 @@ veracity: "true"
 
 ## About
 
-- [Robert Shillman](/entities/person-robert-shillman.md) (person)
+- [Robert J. Shillman](/entities/person-robert-j-shillman.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Tucker Carlson](/entities/person-tucker-carlson.md) (person)
 

@@ -24,7 +24,7 @@ veracity: "true"
 ## About
 
 - [Candace Owens](/entities/person-candace-owens.md) (person)
-- [Chris Bagley](/entities/person-chris-bagley.md) (person)
+- [Alan Edward Robertson](/entities/person-alan-edward-robertson.md) (person)
 
 ## Source
 

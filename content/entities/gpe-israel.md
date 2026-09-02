@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1583 mentions"
+description: "Israel (Places) - 1592 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -25,11 +25,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-israel-t-00-05-38">2026-08-31 · 00:05:38</a></strong></div>
-<div><span>Episodes</span><strong>143</strong></div>
-<div><span>Mentions</span><strong>1,583</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-50-19">2026-09-01 · 00:50:28</a></strong></div>
+<div><span>Episodes</span><strong>144</strong></div>
+<div><span>Mentions</span><strong>1,592</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>345</strong></div>
+<div><span>Statements about</span><strong>346</strong></div>
 <div><span>Relationships</span><strong>74</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -130,7 +130,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-00-40" style="--pulse-height:16%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 12 mentions" title="2026-04-16 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-israel-t-00-38-00" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-israel-t-00-17-09" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
-<a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-35-53" style="--pulse-height:24%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 18 mentions" title="2026-04-22 · 18 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-35-53" style="--pulse-height:22%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 17 mentions" title="2026-04-22 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-israel-t-00-12-47" style="--pulse-height:12%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 9 mentions" title="2026-04-30 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-27-26" style="--pulse-height:14%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 11 mentions" title="2026-05-04 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-00-40" style="--pulse-height:61%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 46 mentions" title="2026-05-05 · 46 mentions"><span></span></a>
@@ -181,6 +181,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-israel-t-00-49-08" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 3 mentions" title="2026-08-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-israel-t-00-36-24" style="--pulse-height:13%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 10 mentions" title="2026-08-21 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-israel-t-00-04-54" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-06-17" style="--pulse-height:13%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 10 mentions" title="2026-09-01 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -278,7 +279,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-00-40) | 12 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-israel-t-00-38-00) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-israel-t-00-17-09) | 5 |
-| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-35-53) | 18 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-35-53) | 17 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-israel-t-00-12-47) | 9 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-27-26) | 11 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-00-40) | 46 |
@@ -329,6 +330,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-gpe-israel-t-00-49-08) | 3 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-israel-t-00-36-24) | 10 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-israel-t-00-04-54) | 2 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-06-17) | 10 |
 
 </details>
 </section>
@@ -340,7 +342,42 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1583)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1592)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (10 mentions)</summary>
+
+**[00:04:18](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-06-17)**
+> "He's on the never-ending roster of radically pro-Israel pastors who do not exactly live the life that they preach from the stage."
+
+**[00:06:38](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-06-17)**
+> "...r extraordinary dedication to Israel. So I'm not going to belabor any points here."
+
+**[00:07:51](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-07-33)**
+> "They fly Israeli flags along their property lines in Texas, I am t..."
+
+**[00:08:03](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-07-33)**
+> "...facts. So their main issue is Israel. That's what they're dedicated to."
+
+**[00:08:50](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-08-45)**
+> "... (Charlie Kirk) was shot from Israeli news service, how they knew."
+
+**[00:08:58](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-08-58)**
+> "... know how it seems to be that Israel is just every, their tentacles are just everywher..."
+
+**[00:12:14](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-12-14)**
+> "...abandon of all things the pro israel cause and Charlie (Charlie Kirk)'s not sleeping E..."
+
+**[00:12:57](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-12-57)**
+> "...from rabbis that are based in Israel. To be clear, their story is that he needed to le..."
+
+**[00:13:07](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-12-57)**
+> "... and rabbis that are based in Israel."
+
+**[00:50:28](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-50-19)**
+> "Is Israel going to target you and then tell you why you hav..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
@@ -1964,7 +2001,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (18 mentions)</summary>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (17 mentions)</summary>
 
 **[02:35:53](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-35-53)**
 > "The woman went and bought her out of bondage, and so he still loved his wife who had disobeyed, and it's the same situation to look at with the Jews or Israel."
@@ -1977,9 +2014,6 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[02:03:25](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-03-03)**
 > "...uh he's quite defensive about Israel is what I would say he's he is similarly how he"
-
-**[02:03:30](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-03-03)**
-> "...uh he's quite defensive about israel is what i would say he's he is similarly how he"
 
 **[02:04:00](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-03-48)**
 > "...id some one-off comment about Israel and he met a different Victor Marx, is what I wou..."
@@ -6423,7 +6457,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (345)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (346)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
@@ -6457,6 +6491,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
   - Also about: [Joe Kent](/entities/person-joe-kent.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have be..."](/statements/statement-d5c74ed071c8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1)</summary>
+
+- [01:44:35](/episodes/ep-aPOyk1i2LOc.md#t-01-44-27) (Opinion) **Candace Owens**: ["Owens allowed that the reported Israeli cell phones at UVU could have ..."](/statements/statement-b21f1d97f010.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
@@ -7014,7 +7056,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
   - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [France](/entities/gpe-france.md), [Nazism](/entities/concept-nazism.md)
 
 - [00:58:12](/episodes/ep-7ERqbYElOfs.md#t-00-58-07) (Claim) **Candace Owens**: ["Israel runs X, which is populated by Israeli bots."](/statements/statement-eed4e2b07ae3.md)
-  - Also about: [X](/entities/org-x-platform.md)
+  - Also about: [Twitter](/entities/org-twitter.md)
 
 </details>
 
@@ -7607,10 +7649,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4)</summary>
 
 - [00:26:31](/episodes/ep-mKXdKV-OBog.md#t-00-26-11) (Claim) **Candace Owens**: ["Mike Huckabee, US Ambassador to Israel, met with Jonathan Pollard, a c..."](/statements/statement-cf5a21bab8d6.md)
-  - Also about: [Jonathan Pollard](/entities/person-jonathan-pollard.md), [Mike Huckabee](/entities/person-mike-huckabee.md)
+  - Also about: [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md), [Mike Huckabee](/entities/person-mike-huckabee.md)
 
 - [00:26:37](/episodes/ep-mKXdKV-OBog.md#t-00-26-11) (Claim) **Candace Owens**: ["Jonathan Pollard spent 30 years in prison on espionage charges after p..."](/statements/statement-b69f913bbaa6.md)
-  - Also about: [Jonathan Pollard](/entities/person-jonathan-pollard.md)
+  - Also about: [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md)
 
 - [00:31:34](/episodes/ep-mKXdKV-OBog.md#t-00-30-55) (Claim) **Candace Owens**: ["Ashley Rindsberg, a writer for The Free Press, lives in Tel Aviv"](/statements/statement-64a26bdcf6f0.md)
   - Also about: [The Free Press](/entities/org-the-free-press.md), [Ashley Rindsberg](/entities/person-ashley-rindsberg.md)

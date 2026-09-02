@@ -24,7 +24,7 @@ Source: [Introduction to iCloud - Apple Support](https://support.apple.com/guide
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -45,6 +45,10 @@ Source: [Introduction to iCloud - Apple Support](https://support.apple.com/guide
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -90,7 +94,7 @@ _No relationships extracted yet._
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
 
-- [00:16:51](/episodes/ep-ChuWo-n49B8.md#t-00-16-26) (Claim) **Candace Owens**: ["Owens said it was entirely plausible that someone gained access to Tyl..."](/statements/statement-db9c1853cae3.md)
+- [00:16:51](/episodes/ep-ChuWo-n49B8.md#t-00-16-26) (Accusation) **Candace Owens**: ["Owens said it was entirely plausible that someone gained access to Tyl..."](/statements/statement-db9c1853cae3.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
 
 </details>

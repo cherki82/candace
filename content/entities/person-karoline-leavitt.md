@@ -206,7 +206,7 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1)</summary>
 
 - [00:27:45](/episodes/ep-mKXdKV-OBog.md#t-00-27-32) [○] (Claim) ["Karoline Leavitt said the White House was not aware of Mike Huckabee's meeting w..."](/statements/statement-f609d9ebf31e.md)
-  - About: [White House](/entities/org-white-house.md), [Jonathan Pollard](/entities/person-jonathan-pollard.md), [Karoline Leavitt](/entities/person-karoline-leavitt.md)
+  - About: [White House](/entities/org-white-house.md), [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md), [Karoline Leavitt](/entities/person-karoline-leavitt.md)
 
 </details>
 
@@ -235,7 +235,7 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1)</summary>
 
 - [00:27:45](/episodes/ep-mKXdKV-OBog.md#t-00-27-32) (Claim) **Karoline Leavitt** (via quoted speech): ["Karoline Leavitt said the White House was not aware of Mike Huckabee's..."](/statements/statement-f609d9ebf31e.md)
-  - Also about: [White House](/entities/org-white-house.md), [Jonathan Pollard](/entities/person-jonathan-pollard.md), [Mike Huckabee](/entities/person-mike-huckabee.md)
+  - Also about: [White House](/entities/org-white-house.md), [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md), [Mike Huckabee](/entities/person-mike-huckabee.md)
 
 </details>
 

@@ -194,7 +194,7 @@ Source: [Mike Huckabee](https://en.wikipedia.org/wiki/Mike_Huckabee)
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
 
 - [01:03:09](/episodes/ep-I0OaY6Gryqk.md#t-01-03-09) (Claim) **Candace Owens**: ["Mike Huckabee notoriously supported Jonathan Pollard, an American spy."](/statements/statement-ff3e0d8d5d57.md)
-  - Also about: [Jonathan Pollard](/entities/person-jonathan-pollard.md)
+  - Also about: [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md)
 
 </details>
 
@@ -205,13 +205,13 @@ Source: [Mike Huckabee](https://en.wikipedia.org/wiki/Mike_Huckabee)
   - Also about: [Jerusalem](/entities/gpe-jerusalem.md), [David Friedman](/entities/person-david-friedman.md)
 
 - [00:26:31](/episodes/ep-mKXdKV-OBog.md#t-00-26-11) (Claim) **Candace Owens**: ["Mike Huckabee, US Ambassador to Israel, met with Jonathan Pollard, a c..."](/statements/statement-cf5a21bab8d6.md)
-  - Also about: [Israel](/entities/gpe-israel.md), [Jonathan Pollard](/entities/person-jonathan-pollard.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md)
 
 - [00:27:18](/episodes/ep-mKXdKV-OBog.md#t-00-26-47) (Claim) **Candace Owens**: ["Mike Huckabee was among several pro-Israel politicians who advocated f..."](/statements/statement-6b6fc1cadba6.md)
-  - Also about: [Jonathan Pollard](/entities/person-jonathan-pollard.md)
+  - Also about: [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md)
 
 - [00:27:45](/episodes/ep-mKXdKV-OBog.md#t-00-27-32) (Claim) **Karoline Leavitt** (via quoted speech): ["Karoline Leavitt said the White House was not aware of Mike Huckabee's..."](/statements/statement-f609d9ebf31e.md)
-  - Also about: [White House](/entities/org-white-house.md), [Jonathan Pollard](/entities/person-jonathan-pollard.md), [Karoline Leavitt](/entities/person-karoline-leavitt.md)
+  - Also about: [White House](/entities/org-white-house.md), [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md), [Karoline Leavitt](/entities/person-karoline-leavitt.md)
 
 </details>
 

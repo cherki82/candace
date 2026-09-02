@@ -1,8 +1,8 @@
 ---
-title: "An anonymous government source said the person in the parkin..."
-description: "\"An anonymous government source said the person in the parking-garage footage took a phone from the left pocket and put an earpiece into the left ear.\" — Anonymous Source #3 (Ep 5zgkrOaCCj4)"
+title: "Owens said an anonymous government source believed the perso..."
+description: "\"Owens said an anonymous government source believed the person in the parking-garage footage took a phone from the left pocket and put an earpiece into...\" — Candace Owens"
 statement_id: "statement-f82975ff6cba"
-speaker: "Anonymous Source #3 (Ep 5zgkrOaCCj4)"
+speaker: "Candace Owens"
 type: "factual_claim"
 ---
 
@@ -10,15 +10,13 @@ type: "factual_claim"
 
 ## Statement
 
-> An anonymous government source said the person in the parking-garage footage took a phone from the left pocket and put an earpiece into the left ear.
+> Owens said an anonymous government source believed the person in the parking-garage footage took a phone from the left pocket and put an earpiece into the left ear.
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #3 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-003.md) (Anonymous Source)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Read from message
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** private communication
+**Delivery:** Made directly
 
 ## About
 

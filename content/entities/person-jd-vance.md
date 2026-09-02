@@ -1,6 +1,6 @@
 ---
 title: "JD Vance"
-description: "JD Vance (People) - 78 mentions"
+description: "JD Vance (People) - 77 mentions"
 id: "person-jd-vance"
 type: "PERSON"
 aliases:
@@ -25,7 +25,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-jd-vance-t-00-45-07">2025-09-18 · 00:45:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jd-vance-t-00-48-48">2026-08-21 · 00:48:55</a></strong></div>
 <div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>78</strong></div>
+<div><span>Mentions</span><strong>77</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
@@ -62,7 +62,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-jd-vance-t-00-56-20" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-jd-vance-t-00-07-26" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-person-jd-vance-t-00-38-50" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-38-39" style="--pulse-height:38%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 6 mentions" title="2026-06-23 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-47-18" style="--pulse-height:38%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 6 mentions" title="2026-06-23 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-jd-vance-t-00-46-05" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-jd-vance-t-00-41-51" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-jd-vance-t-00-37-05" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
@@ -98,7 +98,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-jd-vance-t-00-56-20) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-jd-vance-t-00-07-26) | 1 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-jd-vance-t-00-38-50) | 1 |
-| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-38-39) | 6 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-47-18) | 6 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-jd-vance-t-00-46-05) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-jd-vance-t-00-41-51) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-jd-vance-t-00-37-05) | 1 |
@@ -114,7 +114,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (78)</strong></summary>
+<summary><strong class="section-title">Raw mentions (77)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -151,14 +151,14 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (6 mentions)</summary>
 
+**[00:47:18](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-47-18)**
+> "express how we're all feeling about the ridiculousness of everything. I actually don't have a lot of resentment for J.D. Vance, and I don't think Tim Dillon does either. But the idea of everything that we've just lived through with Iran and the gaslighting and the Epstein files and the Charlie Kirk assassination, and then J.D. Vance drops a book about his Catholicism, is a bit dizzying, I think, for a lot of people. Tim Dillon decided to do a reading of J.D. Vance's book, or something like a reading of J.D. Vance's book."
+
 **[00:47:04](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-38-39)**
 > "I actually don't have a lot of resentment for J.D. Vance"
 
 **[00:38:57](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-38-39)**
 > "...ided all that, how she hugged J.D. Vance."
-
-**[00:47:18](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-47-18)**
-> "express how we're all feeling about the ridiculousness of everything. I actually don't have a lot of resentment for J.D. Vance, and I don't think Tim Dillon does either. But the idea of everything that we've just lived through with Iran and the gaslighting and the Epstein files and the Charlie Kirk assassination, and then J.D. Vance drops a book about his Catholicism, is a bit dizzying, I think, for a lot of people. Tim Dillon decided to do a reading of J.D. Vance's book, or something like a reading of J.D. Vance's book."
 
 **[00:47:54](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-47-51)**
 > "...rom the book, God Chose Me by J.D. Vance."

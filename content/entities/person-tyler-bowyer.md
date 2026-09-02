@@ -1862,7 +1862,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
 
 - [00:09:35](/episodes/ep-_cNtgris8Ik.md#t-00-09-35) [✓] (Claim) ["Bowyer wrote that Farnsworth did not tamper with anything and that law-enforceme..."](/statements/statement-0c372f6f3797.md)
-  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - About: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 </details>
 
@@ -1951,7 +1951,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
 
 - [00:10:02](/episodes/ep-_cNtgris8Ik.md#t-00-09-35) (Claim) **Candace Owens**: ["Owens said Farnsworth never claimed that police told him to secure the..."](/statements/statement-f762eaf4ffee.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 </details>
 
@@ -2280,7 +2280,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
 - [00:10:32](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Accusation) **Candace Owens**: ["Candace Owens accused Tyler Bowyer of falsely saying police asked Terr..."](/statements/statement-420d234f80d5.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 </details>
 

@@ -31,9 +31,9 @@ Source: [Ashley Guajardo - NYU Game Center](https://gamecenter.nyu.edu/faculty/a
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>21</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -50,6 +50,10 @@ Source: [Ashley Guajardo - NYU Game Center](https://gamecenter.nyu.edu/faculty/a
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -284,7 +288,15 @@ Source: [Ashley Guajardo - NYU Game Center](https://gamecenter.nyu.edu/faculty/a
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ashley Guajardo (3)</strong></summary>
+<summary><strong class="section-title">Statements about Ashley Guajardo (4)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
+
+- [00:25:21](/episodes/ep-d7VsbEIWkP8.md#t-00-25-14) (Opinion) **Candace Owens**: ["While discussing suspicion of Lance Twiggs, Owens called the fictional..."](/statements/statement-f1f11950b8e5.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+</details>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (3)</summary>

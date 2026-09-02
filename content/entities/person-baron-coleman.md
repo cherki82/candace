@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 141 mentions"
+description: "Baron Coleman (People) - 140 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -24,7 +24,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-44">2025-12-16 · 00:14:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-28-04">2026-08-21 · 00:28:11</a></strong></div>
 <div><span>Episodes</span><strong>45</strong></div>
-<div><span>Mentions</span><strong>141</strong></div>
+<div><span>Mentions</span><strong>140</strong></div>
 <div><span>Statements by</span><strong>31</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
@@ -48,7 +48,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-baron-coleman-t-00-00-00" style="--pulse-height:44%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 7 mentions" title="2026-02-13 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-baron-coleman-t-01-06-42" style="--pulse-height:12%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-baron-coleman-t-00-31-03" style="--pulse-height:12%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-00-01" style="--pulse-height:88%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 14 mentions" title="2026-03-24 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-00-01" style="--pulse-height:81%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 13 mentions" title="2026-03-24 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-baron-coleman-t-00-00-01" style="--pulse-height:56%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 9 mentions" title="2026-03-26 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-baron-coleman-t-01-00-47" style="--pulse-height:12%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#t-00-08-59" style="--pulse-height:69%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 11 mentions" title="2026-04-01 · 11 mentions"><span></span></a>
@@ -98,7 +98,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-baron-coleman-t-00-00-00) | 7 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-baron-coleman-t-01-06-42) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-baron-coleman-t-00-31-03) | 2 |
-| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-00-01) | 14 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-00-01) | 13 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-baron-coleman-t-00-00-01) | 9 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-baron-coleman-t-01-00-47) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#t-00-08-59) | 11 |
@@ -141,7 +141,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (141)</strong></summary>
+<summary><strong class="section-title">Raw mentions (140)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -542,7 +542,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details>
-<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (14 mentions)</summary>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (13 mentions)</summary>
 
 **[00:00:01](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-00-01)**
 > "All right, you guys, happy Tuesday. I'm having a happy Tuesday. I woke up and I had a shot of Baron Coleman this morning, just like his podcast got me all fired up because he went off. He had a little Baron (Baron Coleman) crash out and it added another detail to our investigation yesterday into the planes, a detail that I had missed somehow earlier that's rather explosive."
@@ -575,9 +575,6 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > "...learned while watching Baron (Baron Coleman)'s stream, I don't know how I missed it, is that ..."
 
 **[00:56:52](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-56-25)**
-> "...m his entire statement Baron (Baron Coleman) does these like monologue statements that are re..."
-
-**[00:57:00](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-56-25)**
 > "...m his entire statement Baron (Baron Coleman) does these like monologue statements that are re..."
 
 **[00:57:46](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-57-22)**
@@ -954,7 +951,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:34:56](/episodes/ep-DEtFh2Ff-58.md#t-00-34-36) [○] (Claim) ["On September 10th, aircraft N582MM left Pierre, South Dakota at 2:40 p.m., lande..."](/statements/statement-013396861573.md)
-  - About: [N582MM](/entities/vehicle-n582mm.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md), [Chicago](/entities/gpe-chicago.md)
+  - About: [N582MM](/entities/vehicle-n582mm.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md), [Chicago, Illinois](/entities/gpe-chicago-illinois.md)
 
 - [00:35:39](/episodes/ep-DEtFh2Ff-58.md#t-00-35-14) [○] (Claim) ["On October 4th, aircraft N582MM flew from Atlanta to Fort Huachuca, landed at 9:..."](/statements/statement-25ee16189601.md)
   - About: [N582MM](/entities/vehicle-n582mm.md), [Atlanta, Georgia](/entities/gpe-atlanta-georgia.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)

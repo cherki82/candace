@@ -4,10 +4,9 @@ description: "\"Candace Owens accused Andrew Wilson of lying on Joe Rogan's plat
 statement_id: "statement-b7ae6ad6e2b3"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -34,20 +33,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-Transcript context at 08:32 directly records Owens accusing Wilson of lying about her and the Un-F America tour. The result verifies that Owens made the accusation; the underlying disputes about the tour and Wilson's claims were not conclusively resolved by independent records found in this search.
-
-**Confidence:** Medium
-
-**Sources:**
-
-- [A Shocking Truth Revealed In The 4K Footage... | Ep 373](https://rumble.com/v7dto7u-a-shocking-truth-revealed-in-the-4k-footage.-beavis-and-butt-head-send-a-me.html)
-
-*Verified: 2026-08-28T05:43:22.742340*
+_This statement has not yet been verified._
 
 ---
 

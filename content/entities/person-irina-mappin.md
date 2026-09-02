@@ -1,6 +1,6 @@
 ---
 title: "Irina Mappin"
-description: "Irina Mappin (People) - 15 mentions"
+description: "Irina Mappin (People) - 19 mentions"
 id: "person-irina-mappin"
 type: "PERSON"
 aliases:
@@ -9,13 +9,14 @@ aliases:
 categories:
   - "hotelier"
   - "businessperson"
+  - "Turning Point USA donor"
 ---
 
 _Type: People_
 
 **Also known as:** Irina-Kudrenok Mappin, Irina Kudrenok-Mappin
 
-**Categories:** hotelier, businessperson
+**Categories:** hotelier, businessperson, Turning Point USA donor
 
 **Entity verification:** verified
 > Official biography identifies John Mappin's wife and business partner as Irina-Kudrenok Mappin; canonical short form matches transcript usage.
@@ -24,11 +25,11 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-irina-mappin-t-00-44-22">2025-10-07 · 00:44:56</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-irina-mappin-t-00-24-19">2026-08-31 · 00:24:38</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -37,6 +38,8 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <p>Highest activity: <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-irina-mappin-t-00-03-40">We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380</a> (13 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-irina-mappin-t-00-44-22" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#t-00-33-12" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-irina-mappin-t-00-22-42" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-irina-mappin-t-00-03-40" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 13 mentions" title="2026-08-31 · 13 mentions"><span></span></a>
 </div>
@@ -45,6 +48,8 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-irina-mappin-t-00-44-22) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43) | 1 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#t-00-33-12) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-irina-mappin-t-00-22-42) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-irina-mappin-t-00-03-40) | 13 |
 
@@ -58,7 +63,7 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (13 mentions)</summary>
@@ -113,6 +118,22 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 <details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+
+**[00:33:41](/episodes/ep-K1tFD7FfoCU.md#t-00-33-12)**
+> "I think he directed his fire at like John Mappin, and Arena Mappin called John Mappin a loser."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+
+**[00:16:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43)**
+> "... I to speak at?" was John and Marina Mappin, the lone donors who wrote that beautiful letter ..."
+
+</details>
+
+<details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
 
 **[00:44:56](/episodes/ep-5autG89PW6w.md#ent-person-irina-mappin-t-00-44-22)**
@@ -138,6 +159,18 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 <details>
+<summary>Criticized (1)</summary>
+
+- **[John Mappin](/entities/person-john-mappin.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:33:41](/episodes/ep-K1tFD7FfoCU.md#t-00-33-12): “I think he directed his fire at like John Mappin, and Arena Mappin called John Mappin a loser.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Defended (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -152,6 +185,14 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <details>
 <summary>Friend Of (5)</summary>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:16:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43): “John and Marina Mappin, the lone donors who wrote that beautiful letter that has impacted the world—like true friends of Charlie (Charlie Kirk) who stood up and said that what Turning Point USA is doing is wrong.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -163,13 +204,6 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:03](/episodes/ep-JrhGEm8MGRY.md#t-00-03-40): “Who knows? But actually, the best part of the trip was the company. So George (George Farmer) and I went and met up with our friends, John (John Mappin) and Irina Mappin.”
-
-</details>
-
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially.”
 
 </details>
 
@@ -202,7 +236,7 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Candace Owens, Charlie Kirk and the Pursuit of Truth](/entities/work-candace-owens-charlie-kirk-pursuit-of-truth.md)** authored by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -211,10 +245,25 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 
 </details>
 
+- **[John Mappin](/entities/person-john-mappin.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:33:41](/episodes/ep-K1tFD7FfoCU.md#t-00-33-12): “I think he directed his fire at like John Mappin, and Arena Mappin called John Mappin a loser.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** defended by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:07:56](/episodes/ep-JrhGEm8MGRY.md#t-00-07-38): “It says, quote, Charlie (Charlie Kirk)'s execution is an assassination with potentially far reaching political consequences for America and the world.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:16:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43): “John and Marina Mappin, the lone donors who wrote that beautiful letter that has impacted the world—like true friends of Charlie (Charlie Kirk) who stood up and said that what Turning Point USA is doing is wrong.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially.”
 
 </details>
 
@@ -229,13 +278,6 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:03](/episodes/ep-JrhGEm8MGRY.md#t-00-03-40): “Who knows? But actually, the best part of the trip was the company. So George (George Farmer) and I went and met up with our friends, John (John Mappin) and Irina Mappin.”
-
-</details>
-
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially.”
 
 </details>
 
@@ -272,7 +314,7 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Irina Mappin (6)</strong></summary>
+<summary><strong class="section-title">Statements about Irina Mappin (7)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (5)</summary>
@@ -299,6 +341,14 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 
 - [00:23:21](/episodes/ep-X3VKJVJ7cN4.md#t-00-23-21) (Claim) **Candace Owens** (via paraphrase): ["Owens said Irina Mappin told her in a private phone call that she was ..."](/statements/statement-17b04de7ca3b.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+
+- [00:16:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43) (Claim) **Candace Owens**: ["Owens described John and Marina Mappin as donors who wrote a letter sa..."](/statements/statement-b6a5f28fb03c.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [John Mappin](/entities/person-john-mappin.md)
 
 </details>
 

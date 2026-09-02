@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 988 mentions"
+description: "Donald J. Trump (People) - 990 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -28,12 +28,12 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-donald-trump-t-00-43-01">2026-08-31 · 00:43:01</a></strong></div>
-<div><span>Episodes</span><strong>133</strong></div>
-<div><span>Mentions</span><strong>988</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-donald-trump-t-00-43-09">2026-09-01 · 00:43:09</a></strong></div>
+<div><span>Episodes</span><strong>134</strong></div>
+<div><span>Mentions</span><strong>990</strong></div>
 <div><span>Statements by</span><strong>36</strong></div>
-<div><span>Statements about</span><strong>240</strong></div>
-<div><span>Relationships</span><strong>155</strong></div>
+<div><span>Statements about</span><strong>241</strong></div>
+<div><span>Relationships</span><strong>157</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -174,6 +174,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-donald-trump-t-01-40-57" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-31-36" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 4 mentions" title="2026-08-19 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-donald-trump-t-00-00-45" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-donald-trump-t-00-42-25" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -312,6 +313,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-donald-trump-t-01-40-57) | 4 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-31-36) | 4 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-donald-trump-t-00-00-45) | 4 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-donald-trump-t-00-42-25) | 2 |
 
 </details>
 </section>
@@ -323,7 +325,18 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (988)</strong></summary>
+<summary><strong class="section-title">Raw mentions (990)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>
+
+**[00:42:25](/episodes/ep-ZkDO-MRLUco.md#ent-person-donald-trump-t-00-42-25)**
+> "The people that were working for them, even Graham Allen, I told you that he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them. It, to me, signals some sort of a preparation. There would be no reason for the Department of War not to be on our side and wanting to get to the bottom, especially at the helm of the Trump (Donald J. Trump) administration, wanting to get to the bottom of who killed their friend, Charlie Kirk."
+
+**[00:43:09](/episodes/ep-ZkDO-MRLUco.md#ent-person-donald-trump-t-00-43-09)**
+> "...s, the phone call that Trump (Donald J. Trump) made to Charlie (Charlie Kirk) in July telling h..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (4 mentions)</summary>
@@ -4628,6 +4641,18 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
+<summary>Spoke With (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:43:09](/episodes/ep-ZkDO-MRLUco.md#t-00-43-09): “A lot of the human trafficking themes, the phone call that Trump (Donald J. Trump) made to Charlie (Charlie Kirk) in July telling him to stop speaking about the Epstein (Jeffrey Epstein) files.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Supported By (5)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -4731,7 +4756,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Referenced By (77)</summary>
+<summary>Referenced By (78)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -5275,6 +5300,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:43:09](/episodes/ep-ZkDO-MRLUco.md#t-00-43-09): “A lot of the human trafficking themes, the phone call that Trump (Donald J. Trump) made to Charlie (Charlie Kirk) in July telling him to stop speaking about the Epstein (Jeffrey Epstein) files.”
+
+</details>
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** supporter of this
 <details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
@@ -5563,7 +5595,15 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (240)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (241)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:42:59](/episodes/ep-ZkDO-MRLUco.md#t-00-42-25) (Opinion) **Candace Owens**: ["Owens said she thought Kirk’s death would somehow be tied to the Epste..."](/statements/statement-82db730b1673.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
@@ -6563,7 +6603,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
   - Also about: [Iran](/entities/gpe-iran.md)
 
 - [00:21:29](/episodes/ep-QZWSsq8ZWzw.md#t-00-21-12) (Claim) **Candace Owens**: ["On July 13, 2024, a 20-year-old Thomas Matthew Crooks climbed onto a r..."](/statements/statement-34c52055dd7e.md)
-  - Also about: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Corey Comparatore](/entities/person-corey-comparatore.md)
+  - Also about: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Corey Comperatore](/entities/person-corey-comperatore.md)
 
 - [00:24:03](/episodes/ep-QZWSsq8ZWzw.md#t-00-23-58) (Claim) **Candace Owens**: ["Thomas Matthew Crooks started as a Trump supporter but did a radical t..."](/statements/statement-d7ef82e30120.md)
   - Also about: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [COVID-19 Pandemic](/entities/event-covid-19-pandemic.md)

@@ -96,7 +96,7 @@ Source: [Golda Meir | The Knesset](https://main.knesset.gov.il/en/about/pages/go
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
 - [00:02:28](/episodes/ep-NIEbqsLAK8g.md#t-00-01-54) (Claim) **Anonymous Source #1 (Ep NIEbqsLAK8g)** (via read message): ["The email source claimed Golda Meir and Lyndon B. Johnson were sibling..."](/statements/statement-6fc4e471c12a.md)
-  - Also about: [Lyndon B. Johnson](/entities/person-lyndon-b-johnson.md)
+  - Also about: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)
 
 </details>
 

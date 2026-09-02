@@ -1,6 +1,6 @@
 ---
 title: "What a Woman Is"
-description: "What a Woman Is (Works & Media) - 2 mentions"
+description: "What a Woman Is (Works & Media) - 4 mentions"
 id: "work-what-a-woman-is"
 type: "WORK"
 aliases:
@@ -23,9 +23,9 @@ Source: [What a Woman Is](https://candaceowens.com/video/what-a-woman-is/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-6J6lRZPQ4jk.md#ent-work-what-a-woman-is-t-00-57-41">2025-12-12 · 00:58:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6J6lRZPQ4jk.md#ent-work-what-a-woman-is-t-00-58-21">2025-12-12 · 00:58:37</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-work-what-a-woman-is-t-00-39-49">2026-02-05 · 00:40:00</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,12 +37,16 @@ Source: [What a Woman Is](https://candaceowens.com/video/what-a-woman-is/)
 <p>Highest activity: <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-work-what-a-woman-is-t-00-57-41">Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-work-what-a-woman-is-t-00-57-41" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-work-what-a-woman-is-t-00-36-29" style="--pulse-height:50%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-work-what-a-woman-is-t-00-39-49" style="--pulse-height:50%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-work-what-a-woman-is-t-00-57-41) | 2 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-work-what-a-woman-is-t-00-36-29) | 1 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-work-what-a-woman-is-t-00-39-49) | 1 |
 
 </details>
 </section>
@@ -50,7 +54,23 @@ Source: [What a Woman Is](https://candaceowens.com/video/what-a-woman-is/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (1 mentions)</summary>
+
+**[00:40:00](/episodes/ep-mFuno0TuuQQ.md#ent-work-what-a-woman-is-t-00-39-49)**
+> "Also a documentary What a Woman Is is available for free on our website until 9 p.m. Eastern tonight."
+
+</details>
+
+<details>
+<summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
+
+**[00:36:29](/episodes/ep-DYD_QHMPwqM.md#ent-work-what-a-woman-is-t-00-36-29)**
+> "and see that we have this valentine day special stuff very cute um make him a sandwich of stuff that is available we also have our subscription tiers into one club candace tier for 11.99 a month or 120 a year and also the documentary what a woman is available for free on our website today and tomorrow only so uh go watch that"
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>

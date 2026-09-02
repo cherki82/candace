@@ -1,8 +1,8 @@
 ---
 title: "The eyewitness told Owens he was very certain the shooter wa..."
-description: "\"The eyewitness told Owens he was very certain the shooter was skilled, knew what he was doing, and was highly trained like an assassin\" — Anonymous Source #1 (Ep UBkFkg4UNY8)"
+description: "\"The eyewitness told Owens he was very certain the shooter was skilled, knew what he was doing, and was highly trained like an assassin\" — Anonymous Losee Center Eyewitness"
 statement_id: "statement-973c2024303b"
-speaker: "Anonymous Source #1 (Ep UBkFkg4UNY8)"
+speaker: "Anonymous Losee Center Eyewitness"
 type: "opinion"
 ---
 
@@ -14,7 +14,7 @@ type: "opinion"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #1 (Ep UBkFkg4UNY8)](/entities/anon-src-UBkFkg4UNY8-001.md) (Anonymous Source)
+**Speaker:** [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md) (Anonymous Source)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

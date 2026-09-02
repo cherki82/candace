@@ -28,7 +28,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <div><span>Episodes</span><strong>79</strong></div>
 <div><span>Mentions</span><strong>262</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>69</strong></div>
+<div><span>Statements about</span><strong>70</strong></div>
 <div><span>Relationships</span><strong>29</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -1815,13 +1815,21 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kash Patel (69)</strong></summary>
+<summary><strong class="section-title">Statements about Kash Patel (70)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1)</summary>
 
 - [00:33:26](/episodes/ep-4JxgOclKzqg.md#t-00-33-14) (Accusation) **Candace Owens**: ["Owens said it was very strange that Kash Patel apparently shut down Jo..."](/statements/statement-b00f742e4138.md)
   - Also about: [Joe Kent](/entities/person-joe-kent.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
+
+- [00:17:56](/episodes/ep-1CFDtD0IgEg.md#t-00-17-38) (Accusation) **Candace Owens**: ["Owens suggested that public backlash prompted officials to change the ..."](/statements/statement-25c0e36bab34.md)
+  - Also about: [Dan Bongino](/entities/person-dan-bongino.md), [FBI](/entities/org-fbi.md)
 
 </details>
 

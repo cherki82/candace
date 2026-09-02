@@ -23,7 +23,7 @@ veracity: "mixed"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
-- [Mar-a-Lago](/entities/org-mar-a-lago.md) (org)
+- [Mar-a-Lago](/entities/gpe-mar-a-lago.md) (gpe)
 
 ## Source
 

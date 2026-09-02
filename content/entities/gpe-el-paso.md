@@ -185,7 +185,7 @@ _No relationships extracted yet._
   - Also about: [United States Air Force](/entities/org-united-states-air-force.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 - [00:10:53](/episodes/ep-BxN2-aeMYIs.md#t-00-10-39) (Claim) **Candace Owens**: ["The plane then flew from El Paso to Andrews Air Force Base using the S..."](/statements/statement-9d5e1993fe2b.md)
-  - Also about: [United States Air Force](/entities/org-united-states-air-force.md), [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md), [Special Air Mission](/entities/concept-special-air-mission.md)
+  - Also about: [United States Air Force](/entities/org-united-states-air-force.md), [Joint Base Andrews](/entities/gpe-joint-base-andrews.md), [Special Air Mission](/entities/concept-special-air-mission.md)
 
 </details>
 

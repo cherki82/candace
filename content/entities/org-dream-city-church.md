@@ -257,7 +257,7 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>
 
 - [00:31:20](/episodes/ep-DYD_QHMPwqM.md#t-00-30-54) (Opinion) **Candace Owens**: ["Turning Point USA's shift from free-market capitalism toward faith and..."](/statements/statement-b270be5c6455.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [Erika Kirk](/entities/person-erika-kirk.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

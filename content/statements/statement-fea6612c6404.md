@@ -52,10 +52,10 @@ type: "opinion"
 ### 4. Candace Owens vs Andrew Wilson: The Great Debate.
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
-**Timestamp:** [00:13:44](/episodes/ep-aPOyk1i2LOc.md#t-00-13-44) 
-<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=824s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+**Timestamp:** [00:14:01](/episodes/ep-aPOyk1i2LOc.md#t-00-14-01) 
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=841s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> what is the likelihood that you think Tyler Robinson shot Charlie Kirk and killed him? ... Zero percent. zero percent I'm at zero. ... what we've seen in terms of the evidence, I'm at zero percent.
+> what we've seen in terms of the evidence, I'm at zero percent. ... If you said, was he involved that day, ... as I have consistently said on my platform, I would say yes, he was. I don't know what role he played, but as the shooter, zero percent.
 
 ## Verification
 

@@ -1,8 +1,8 @@
 ---
-title: "Lance Twiggs testified that he and Tyler Robinson had never ..."
-description: "\"Lance Twiggs testified that he and Tyler Robinson had never discussed LGBTQ issues or politics and that Robinson had never mentioned Charlie Kirk to h...\" — Lance Twiggs"
+title: "Owens characterized Lance Twiggs's account as saying that he..."
+description: "\"Owens characterized Lance Twiggs's account as saying that he and Tyler Robinson had never discussed LGBTQ issues or politics and that Robinson had nev...\" — Candace Owens"
 statement_id: "statement-cfe56946f7d7"
-speaker: "Lance Twiggs"
+speaker: "Candace Owens"
 type: "factual_claim"
 veracity: "mixed"
 ---
@@ -11,15 +11,13 @@ veracity: "mixed"
 
 ## Statement
 
-> Lance Twiggs testified that he and Tyler Robinson had never discussed LGBTQ issues or politics and that Robinson had never mentioned Charlie Kirk to him
+> Owens characterized Lance Twiggs's account as saying that he and Tyler Robinson had never discussed LGBTQ issues or politics and that Robinson had never mentioned Charlie Kirk to him.
 
 ## Attribution
 
-**Speaker:** [Lance Twiggs](/entities/person-lance-twiggs.md) (Quoted)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Quoted from speech/interview
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** Preliminary hearing testimony
+**Delivery:** Paraphrased
 
 ## About
 
@@ -43,16 +41,16 @@ veracity: "mixed"
 
 ### Analysis
 
-Twiggs said he had never heard Robinson talk about Charlie Kirk and that they did not really discuss gender identity or LGBTQ rights. But he also testified that Robinson did talk about politics, usually Trump or current policies, even though Twiggs contributed little. The statement is therefore correct on Kirk and substantially correct on LGBTQ discussion, but incorrect in saying politics was never discussed.
+Owens's paraphrase overstates the interview: Twiggs described occasional political discussions, but not really LGBTQ discussions, and recalled no specific prior Kirk discussion. Corrected attribution to Owens; the record is not a verbatim Twiggs quotation.
 
 **Confidence:** High
 
 **Sources:**
 
-- [UT v. Tyler Robinson Preliminary Hearing Day 4 Transcript](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4)
+- [UT v. Tyler Robinson preliminary hearing, day 4](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4)
 - [Prosecutors cite an engraved bullet to argue Charlie Kirk was politically targeted](https://apnews.com/article/charlie-kirk-tyler-robinson-politics-death-penalty-d93454f7a018005c60ac86ae30054fdc)
 
-*Verified: 2026-08-28T04:12:47.290076*
+*Verified: 2026-09-01T16:00:08.886659*
 
 ---
 

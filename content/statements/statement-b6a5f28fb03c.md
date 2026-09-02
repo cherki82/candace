@@ -23,7 +23,7 @@ type: "factual_claim"
 
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 - [John Mappin](/entities/person-john-mappin.md) (person)
-- [Marina Mappin](/entities/person-marina-mappin.md) (person)
+- [Irina Mappin](/entities/person-irina-mappin.md) (person)
 
 ## Source
 

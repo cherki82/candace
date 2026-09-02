@@ -402,7 +402,7 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>
 
 - [00:12:18](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52) (Claim) **Candace Owens**: ["Terrell Farnsworth does not do college campus events, he only does big..."](/statements/statement-13d527412b06.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 </details>
 

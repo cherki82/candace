@@ -219,7 +219,7 @@ Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.
 - [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Owens said she was still working to verify reports that Mark Amodei wa..."](/statements/statement-14390b402a8a.md)
   - Also about: [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
-- [00:36:24](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19) (Claim) **Diligent Denison (X account; identity unverified)** (via quoted post): ["Diligent Denison claimed that Mark Amodei was absent from the first tw..."](/statements/statement-b9a86ad8ed2a.md)
+- [00:36:24](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19) (Claim) **Diligent Denizen (online-investigator handle; identity unverified)** (via quoted post): ["Diligent Denison claimed that Mark Amodei was absent from the first tw..."](/statements/statement-b9a86ad8ed2a.md)
   - Also about: [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </details>

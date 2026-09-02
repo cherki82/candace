@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 92 mentions"
+description: "Mossad (Organizations) - 98 mentions"
 id: "org-mossad"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49">2025-09-15 · 00:30:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-mossad-t-00-50-30">2026-08-11 · 00:50:30</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>92</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-mossad-t-00-21-57">2026-09-01 · 00:22:28</a></strong></div>
+<div><span>Episodes</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>98</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>39</strong></div>
+<div><span>Statements about</span><strong>40</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -76,6 +76,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-mossad-t-00-52-19" style="--pulse-height:10%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-mossad-t-00-47-40" style="--pulse-height:10%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-org-mossad-t-00-50-30" style="--pulse-height:10%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-mossad-t-00-06-52" style="--pulse-height:60%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 6 mentions" title="2026-09-01 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -122,6 +123,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-mossad-t-00-52-19) | 1 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-mossad-t-00-47-40) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-mossad-t-00-50-30) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-mossad-t-00-06-52) | 6 |
 
 </details>
 </section>
@@ -133,7 +135,30 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (92)</strong></summary>
+<summary><strong class="section-title">Raw mentions (98)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (6 mentions)</summary>
+
+**[00:06:52](/episodes/ep-ZkDO-MRLUco.md#ent-org-mossad-t-00-06-52)**
+> "I will add that the first that I heard of Pastor Jack Hibbs, it was via Marissa Streit, the Mossad agent turned CEO of PragerU. She was in Unit 8200."
+
+**[00:10:44](/episodes/ep-ZkDO-MRLUco.md#ent-org-mossad-t-00-10-44)**
+> "In conjunction with the Mossad."
+
+**[00:11:51](/episodes/ep-ZkDO-MRLUco.md#ent-org-mossad-t-00-11-51)**
+> "...ins. People would say I'm CIA Mossad, but he just likes the mountains or something."
+
+**[00:12:00](/episodes/ep-ZkDO-MRLUco.md#ent-org-mossad-t-00-11-51)**
+> "...ike the mountains, right? CIA Mossad, but they really just like the mountains. Okay."
+
+**[00:12:14](/episodes/ep-ZkDO-MRLUco.md#ent-org-mossad-t-00-12-14)**
+> "...call and butch the not cia or mossad agent just the guy who likes the mountains was li..."
+
+**[00:22:28](/episodes/ep-ZkDO-MRLUco.md#ent-org-mossad-t-00-21-57)**
+> "... loves the mountains, not the Mossad and the CIA, he loves the mountains."
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -698,7 +723,15 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mossad (39)</strong></summary>
+<summary><strong class="section-title">Statements about Mossad (40)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:06:52](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52) (Accusation) **Candace Owens**: ["Owens described PragerU CEO Marissa Streit as a former Mossad agent an..."](/statements/statement-5e732bb3ce2b.md)
+  - Also about: [Marissa Streit](/entities/person-marissa-streit.md), [Unit 8200](/entities/org-unit-8200.md), [PragerU](/entities/org-prageru.md)
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>

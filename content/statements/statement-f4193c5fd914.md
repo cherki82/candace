@@ -22,7 +22,7 @@ veracity: "true"
 
 ## About
 
-- [Antifa](/entities/org-antifa.md) (org)
+- [Antifa](/entities/concept-antifa.md) (concept)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 

@@ -21,8 +21,8 @@ veracity: "true"
 
 ## About
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
-- [Philip Goldsberry Jr.](/entities/person-philip-goldsberry-jr.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
+- [Phillip Goldsberry Jr.](/entities/person-phillip-goldsberry-jr.md) (person)
 
 ## Source
 

@@ -1,6 +1,6 @@
 ---
 title: "Liberty University"
-description: "Liberty University (Organizations) - 74 mentions"
+description: "Liberty University (Organizations) - 69 mentions"
 id: "org-liberty-university"
 type: "ORG"
 aliases:
@@ -24,7 +24,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-liberty-university-t-00-04-24">2025-10-29 · 00:04:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-liberty-university-t-00-19-59">2026-05-11 · 00:20:16</a></strong></div>
 <div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>74</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
@@ -33,22 +33,22 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (38 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (34 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-liberty-university-t-00-04-24" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-liberty-university-t-00-08-59" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-liberty-university-t-00-47-54" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-org-liberty-university-t-00-06-15" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-liberty-university-t-00-06-15" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-liberty-university-t-00-31-41" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 38 mentions" title="2026-01-09 · 38 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-liberty-university-t-00-00-00" style="--pulse-height:42%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 16 mentions" title="2026-01-12 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 34 mentions" title="2026-01-09 · 34 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-liberty-university-t-00-00-00" style="--pulse-height:47%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 16 mentions" title="2026-01-12 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-liberty-university-t-00-09-28" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-liberty-university-t-00-14-06" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-liberty-university-t-00-32-21" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-liberty-university-t-00-05-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-liberty-university-t-00-13-16" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 2 mentions" title="2026-03-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-liberty-university-t-00-16-56" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-liberty-university-t-00-18-39" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 3 mentions" title="2026-05-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-liberty-university-t-00-18-39" style="--pulse-height:9%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 3 mentions" title="2026-05-11 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,9 +57,9 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-liberty-university-t-00-04-24) | 1 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-liberty-university-t-00-08-59) | 1 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-liberty-university-t-00-47-54) | 2 |
-| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-liberty-university-t-00-06-15) | 2 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-liberty-university-t-00-06-15) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-liberty-university-t-00-31-41) | 1 |
-| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24) | 38 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24) | 34 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-liberty-university-t-00-00-00) | 16 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-liberty-university-t-00-09-28) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-liberty-university-t-00-14-06) | 2 |
@@ -79,7 +79,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (3 mentions)</summary>
@@ -209,7 +209,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 </details>
 
 <details>
-<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (38 mentions)</summary>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (34 mentions)</summary>
 
 **[00:06:29](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24)**
 > "Liberty University,"
@@ -238,9 +238,6 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 **[00:22:38](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-22-10)**
 > "...ogram that's being run out of Liberty University,"
 
-**[00:24:11](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-22-10)**
-> "When I got to the Liberty Godparent Home,"
-
 **[00:28:29](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-28-15)**
 > "...ghter is a high doctor at the Liberty or at some university,"
 
@@ -256,17 +253,8 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 **[00:34:45](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-34-45)**
 > "...ing this godparent program at Liberty University."
 
-**[00:35:05](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-34-45)**
-> "The Liberty Godparent Home,"
-
-**[00:35:13](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-34-45)**
-> "A new podcast called Liberty Lost alleges some of the young women felt pressur..."
-
 **[00:35:25](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-35-25)**
 > "The Liberty Godparent Home is tucked away on Liberty Mountain..."
-
-**[00:35:39](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-35-25)**
-> "...he focal point of the podcast Liberty Lost."
 
 **[00:36:13](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-36-13)**
 > "...e promise of a scholarship to Liberty University after all was said and done."
@@ -336,13 +324,10 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
 
 **[00:06:24](/episodes/ep-his-JBjlkh8.md#ent-org-liberty-university-t-00-06-15)**
 > "...s notebooks and spoke about how Mikey McCoy was talented. And it was Mikey McCoy who then jumped on Liberty University's stage for an event that was scheduled for Charlie (Charlie Kirk). So there you go. That's our per..."
-
-**[01:04:06](/episodes/ep-his-JBjlkh8.md#ent-org-liberty-university-t-01-04-06)**
-> "...iewed Phil Tourney of the USS Liberty."
 
 </details>
 

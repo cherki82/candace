@@ -21,7 +21,7 @@ veracity: "true"
 
 ## About
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 - [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 

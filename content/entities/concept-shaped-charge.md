@@ -150,7 +150,7 @@ _No relationships extracted yet._
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:34:44](/episodes/ep-iB-YtO3UZOg.md#t-00-34-25) (Claim) **Candace Owens**: ["Owens said she believed the evidence showed Charlie Kirk was hit by a ..."](/statements/statement-00334c93b190.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Losee Center](/entities/org-losee-center.md)
 
 </details>
 
@@ -161,7 +161,7 @@ _No relationships extracted yet._
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [PETN](/entities/concept-petn.md)
 
 - [00:17:27](/episodes/ep-VMNWMXX1vO8.md#t-00-16-58) (Accusation) **Candace Owens**: ["My theory is that Terrell Farnsworth scrambled to remove the camera's ..."](/statements/statement-28dc2a93e039.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:54:24](/episodes/ep-VMNWMXX1vO8.md#t-00-54-24) (Claim) **Anonymous Source #5 (Ep VMNWMXX1vO8)** (via read message): ["Shaped charges are common in improvised explosive devices, copper is t..."](/statements/statement-7e7710400fb4.md)
   - Also about: [Improvised Explosive Device](/entities/concept-improvised-explosive-device.md)

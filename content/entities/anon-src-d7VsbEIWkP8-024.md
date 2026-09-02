@@ -22,7 +22,7 @@ Source: [A Shocking Truth Revealed In The 4K Footage | Ep 373](https://www.youtu
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -39,19 +39,6 @@ Source: [A Shocking Truth Revealed In The 4K Footage | Ep 373](https://www.youtu
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Statements by Anonymous Source #24 (Ep d7VsbEIWkP8) (1)</strong></summary>
-
-<details>
-<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
-
-- [00:21:31](/episodes/ep-d7VsbEIWkP8.md#t-00-21-21) [○] (Claim) ["Unnamed family-member and schoolmate sources described Tyler Robinson as quiet a..."](/statements/statement-93a82396e059.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
-
-</details>
 
 </details>
 

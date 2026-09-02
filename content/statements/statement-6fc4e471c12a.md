@@ -23,7 +23,7 @@ type: "factual_claim"
 ## About
 
 - [Golda Meir](/entities/person-golda-meir.md) (person)
-- [Lyndon B. Johnson](/entities/person-lyndon-b-johnson.md) (person)
+- [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md) (person)
 
 ## Source
 

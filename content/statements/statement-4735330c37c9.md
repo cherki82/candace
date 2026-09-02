@@ -4,10 +4,9 @@ description: "\"Candace Owens still believes there is more evidence that multipl
 statement_id: "statement-4735330c37c9"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -45,21 +44,8 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The source episode directly records Owens saying she still believes the evidence more strongly supports multiple participants and a setup. This verifies her stated opinion only, not the truth of that theory.
-
-**Confidence:** High
-
-**Sources:**
-
-- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](https://www.youtube.com/watch?v=nPhCKwJ6ye8)
-
-*Verified: 2026-08-16T14:38:06.164803*
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

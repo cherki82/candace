@@ -1,22 +1,28 @@
 ---
 title: "Schuyler Pryor"
-description: "Schuyler Pryor (People) - 76 mentions"
+description: "Schuyler Pryor (People) - 86 mentions"
 id: "person-schuyler-pryor"
 type: "PERSON"
 aliases:
   - "Skylar"
+  - "Skylar (show producer; surname unverified)"
+  - "Skylar (Candace show producer; surname unverified)"
+  - "Skylar (Great Debate show producer; surname unverified)"
 categories:
   - "podcast production"
   - "Candace show"
+  - "show producer"
+  - "identity unverified"
+  - "episode production staff"
+  - "Candace show producer"
+  - "debate producer"
 ---
 
 _Type: People_
 
-**Also known as:** Skylar
+**Also known as:** Skylar, Skylar (show producer; surname unverified), Skylar (Candace show producer; surname unverified), Skylar (Great Debate show producer; surname unverified)
 
-**Categories:** podcast production, Candace show
-
-> **Possibly overlapping entity records:** [Skylar (show producer; surname unverified)](/entities/anon-src-ChuWo-n49B8-skylar). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** podcast production, Candace show, show producer, identity unverified, episode production staff, Candace show producer, debate producer
 
 **Entity verification:** verified
 > Candace's own show transcript identifies Schuyler as her producer; production credits independently identify Schuyler Pryor as a producer on Candace Owens' A Shot in the Dark series. The transcript's Skylar spelling is phonetic/ASR and is not retained as an alias.
@@ -24,9 +30,9 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-schuyler-pryor-t-00-11-08">2025-09-15 · 00:11:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-schuyler-pryor-t-00-00-25">2026-08-19 · 00:00:54</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>76</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-schuyler-pryor-t-00-44-36">2026-09-01 · 00:45:15</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>86</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -55,6 +61,9 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-schuyler-pryor-t-00-03-51" style="--pulse-height:100%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 5 mentions" title="2025-12-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-schuyler-pryor-t-00-38-15" style="--pulse-height:20%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-schuyler-pryor-t-00-39-45" style="--pulse-height:20%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-schuyler-pryor-t-00-32-17" style="--pulse-height:20%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-schuyler-pryor-t-00-35-55" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-schuyler-pryor-t-00-56-27" style="--pulse-height:20%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-schuyler-pryor-t-01-02-24" style="--pulse-height:20%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-schuyler-pryor-t-00-36-10" style="--pulse-height:20%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-schuyler-pryor-t-00-53-22" style="--pulse-height:20%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
@@ -63,6 +72,8 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-schuyler-pryor-t-00-15-52" style="--pulse-height:40%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-schuyler-pryor-t-00-57-24" style="--pulse-height:20%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-schuyler-pryor-t-00-28-47" style="--pulse-height:20%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-schuyler-pryor-t-00-37-43" style="--pulse-height:20%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-schuyler-pryor-t-01-01-34" style="--pulse-height:20%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-schuyler-pryor-t-00-37-37" style="--pulse-height:20%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-schuyler-pryor-t-00-33-50" style="--pulse-height:20%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-schuyler-pryor-t-01-00-51" style="--pulse-height:40%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
@@ -73,8 +84,11 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-schuyler-pryor-t-00-54-14" style="--pulse-height:20%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-schuyler-pryor-t-00-56-54" style="--pulse-height:20%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-schuyler-pryor-t-00-38-17" style="--pulse-height:40%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 2 mentions" title="2026-07-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-schuyler-pryor-t-00-36-05" style="--pulse-height:20%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-schuyler-pryor-t-01-11-02" style="--pulse-height:20%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-schuyler-pryor-t-00-39-23" style="--pulse-height:40%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-schuyler-pryor-t-00-00-25" style="--pulse-height:40%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-schuyler-pryor-t-00-44-36" style="--pulse-height:20%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -98,6 +112,9 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-schuyler-pryor-t-00-03-51) | 5 |
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-schuyler-pryor-t-00-38-15) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-schuyler-pryor-t-00-39-45) | 1 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-schuyler-pryor-t-00-32-17) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-schuyler-pryor-t-00-35-55) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-schuyler-pryor-t-00-56-27) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-schuyler-pryor-t-01-02-24) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-schuyler-pryor-t-00-36-10) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-schuyler-pryor-t-00-53-22) | 1 |
@@ -106,6 +123,8 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-schuyler-pryor-t-00-15-52) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-schuyler-pryor-t-00-57-24) | 1 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-schuyler-pryor-t-00-28-47) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-schuyler-pryor-t-00-37-43) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-schuyler-pryor-t-01-01-34) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-schuyler-pryor-t-00-37-37) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-schuyler-pryor-t-00-33-50) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-schuyler-pryor-t-01-00-51) | 2 |
@@ -116,8 +135,11 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-schuyler-pryor-t-00-54-14) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-schuyler-pryor-t-00-56-54) | 1 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-schuyler-pryor-t-00-38-17) | 2 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-schuyler-pryor-t-00-36-05) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-schuyler-pryor-t-01-11-02) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-schuyler-pryor-t-00-39-23) | 2 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-schuyler-pryor-t-00-00-25) | 2 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-schuyler-pryor-t-00-44-36) | 1 |
 
 </details>
 </section>
@@ -125,7 +147,15 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (76)</strong></summary>
+<summary><strong class="section-title">Raw mentions (86)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:45:15](/episodes/ep-ZkDO-MRLUco.md#ent-person-schuyler-pryor-t-00-44-36)**
+> "And that's what they said. They suddenly handed us over. How many terabytes was it, Sky (Schuyler Pryor), that they handed them over?"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
@@ -143,6 +173,25 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 
 **[01:11:02](/episodes/ep-nPhCKwJ6ye8.md#ent-person-schuyler-pryor-t-01-11-02)**
 > "But first go to what Candace is asking about Skylar."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[00:39:23](/episodes/ep-aPOyk1i2LOc.md#ent-person-schuyler-pryor-t-00-39-23)**
+> "get it, Skylar (show producer; surname unverified) has it. If you want to pull it up so we can see it."
+
+**[00:46:29](/episodes/ep-aPOyk1i2LOc.md#ent-person-schuyler-pryor-t-00-46-23)**
+> "But first go to what Candace is asking about Skylar. I think you have it. You just texted me if you want to pull it up. You said you have the text."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:36:05](/episodes/ep-ChuWo-n49B8.md#ent-person-schuyler-pryor-t-00-36-05)**
+> "Skylar (show producer; surname unverified) watched this video last night"
 
 </details>
 
@@ -239,6 +288,22 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 </details>
 
 <details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[01:01:34](/episodes/ep-eLgD5yUVbko.md#ent-person-schuyler-pryor-t-01-01-34)**
+> "Skylar (show producer; surname unverified)"
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:37:43](/episodes/ep-q1NRQQAYS_Q.md#ent-person-schuyler-pryor-t-00-37-43)**
+> "Skylar (show producer; surname unverified)"
+
+</details>
+
+<details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
 
 **[00:29:07](/episodes/ep-UYkXV9mYbT4.md#ent-person-schuyler-pryor-t-00-28-47)**
@@ -314,6 +379,30 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 
 **[01:02:56](/episodes/ep-cZxHqYsWRYg.md#ent-person-schuyler-pryor-t-01-02-24)**
 > "... surname unverified), Skylar (Schuyler Pryor), and Savannah (show team member; surname unverif..."
+
+</details>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:57:09](/episodes/ep-1hcjQGgvxUY.md#ent-person-schuyler-pryor-t-00-56-27)**
+> "Skylar (show producer; surname unverified). Making Candace laugh was priceless."
+
+</details>
+
+<details>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
+
+**[00:36:25](/episodes/ep-CEF7gQRWYCE.md#ent-person-schuyler-pryor-t-00-35-55)**
+> "Now, I want to show you this. I don't know if you have pulled this in yet, Skylar (show producer; surname unverified)"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1 mentions)</summary>
+
+**[00:32:17](/episodes/ep-A39g5oqB_eM.md#ent-person-schuyler-pryor-t-00-32-17)**
+> "Now it sounds to me like some good old-fashioned government money laundering, but sure, if you are like Skylar (show producer; surname unverified) in Believe in the Moon Landing,"
 
 </details>
 

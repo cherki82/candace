@@ -1,8 +1,8 @@
 ---
 title: "The Form 990 for fiscal year 2024 is missing for three of Tu..."
-description: "\"The Form 990 for fiscal year 2024 is missing for three of Turning Point USA's four related entities\" — Anonymous Source #1 (Ep JQjCAsfoXEE)"
+description: "\"The Form 990 for fiscal year 2024 is missing for three of Turning Point USA's four related entities\" — Zach De Gregorio"
 statement_id: "statement-6831b4cf33cf"
-speaker: "Anonymous Source #1 (Ep JQjCAsfoXEE)"
+speaker: "Zach De Gregorio"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #1 (Ep JQjCAsfoXEE)](/entities/anon-src-JQjCAsfoXEE-001.md) (Quoted)
+**Speaker:** [Zach De Gregorio](/entities/person-zach-de-gregorio.md) (Quoted)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

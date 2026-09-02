@@ -84,10 +84,10 @@ _No relationships extracted yet._
 - [00:43:06](/episodes/ep-cZxHqYsWRYg.md#t-00-42-38) (Citation) **Candace Owens**: ["Erika Kirk's social-media posts from 2011 praised Terry Crist and desc..."](/statements/statement-187f4cec9ba6.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Terry Crist](/entities/person-terry-crist.md), [Judith Crist](/entities/person-judith-crist.md)
 
-- [00:44:53](/episodes/ep-cZxHqYsWRYg.md#t-00-44-32) (Claim) **Anonymous Source #2 (Ep cZxHqYsWRYg)**: ["Ashley said Terry Crist was a close friend of Hillsong founder Brian H..."](/statements/statement-24bda22c18a9.md)
+- [00:44:53](/episodes/ep-cZxHqYsWRYg.md#t-00-44-32) (Claim) **Ashley (Candace Owens producer; surname unverified)**: ["Ashley said Terry Crist was a close friend of Hillsong founder Brian H..."](/statements/statement-24bda22c18a9.md)
   - Also about: [Terry Crist](/entities/person-terry-crist.md), [Brian Houston](/entities/person-brian-houston.md), [Hillsong Church](/entities/org-hillsong-church.md)
 
-- [00:45:25](/episodes/ep-cZxHqYsWRYg.md#t-00-45-00) (Accusation) **Anonymous Source #2 (Ep cZxHqYsWRYg)**: ["Ashley relayed an unverified word-on-the-street allegation that Terry ..."](/statements/statement-600a633777a4.md)
+- [00:45:25](/episodes/ep-cZxHqYsWRYg.md#t-00-45-00) (Accusation) **Ashley (Candace Owens producer; surname unverified)**: ["Ashley relayed an unverified word-on-the-street allegation that Terry ..."](/statements/statement-600a633777a4.md)
   - Also about: [Terry Crist](/entities/person-terry-crist.md), [Judith Crist](/entities/person-judith-crist.md)
 
 </details>

@@ -239,7 +239,7 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
 
 - [00:04:25](/episodes/ep-_cNtgris8Ik.md#t-00-04-25) [✓] (Accusation) ["Kasparian asked whether Farnsworth's failure to provide the original SD card—pro..."](/statements/statement-b2568cfeaa46.md)
-  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - About: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 </details>
 

@@ -21,7 +21,7 @@ type: "factual_claim"
 ## About
 
 - [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md) (person)
-- [LDS church](/entities/org-lds-church.md) (org)
+- [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md) (org)
 
 ## Source
 

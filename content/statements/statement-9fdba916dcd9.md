@@ -1,8 +1,8 @@
 ---
 title: "In 2012, CERN observed a reaction consistent with the Higgs ..."
-description: "\"In 2012, CERN observed a reaction consistent with the Higgs boson theorized in 1964.\" — Mark from Candace's production team (surname unidentified)"
+description: "\"In 2012, CERN observed a reaction consistent with the Higgs boson theorized in 1964.\" — Mark (Candace show producer; surname unverified)"
 statement_id: "statement-9fdba916dcd9"
-speaker: "Mark from Candace's production team (surname unidentified)"
+speaker: "Mark (Candace show producer; surname unverified)"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Mark from Candace's production team (surname unidentified)](/entities/anon-src-bkcom32zegk-mark-production-team.md) (Guest)
+**Speaker:** [Mark (Candace show producer; surname unverified)](/entities/person-mark-candace-show-producer.md) (Guest)
 
 **Delivery:** Made directly
 

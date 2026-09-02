@@ -1,6 +1,6 @@
 ---
 title: "Thousand Oaks"
-description: "Thousand Oaks (Places) - 17 mentions"
+description: "Thousand Oaks (Places) - 19 mentions"
 id: "gpe-thousand-oaks"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Navy Veteran Survived Las Vegas Shooting Only to Be Killed in the Borde
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-thousand-oaks-t-00-14-58">2025-10-31 · 00:15:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-thousand-oaks-t-00-39-31">2026-03-04 · 00:39:48</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-thousand-oaks-t-00-06-52">2026-09-01 · 00:07:03</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -42,6 +42,7 @@ Source: [Navy Veteran Survived Las Vegas Shooting Only to Be Killed in the Borde
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-t-00-03-23" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-thousand-oaks-t-00-51-13" style="--pulse-height:25%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-thousand-oaks-t-00-39-31" style="--pulse-height:25%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-thousand-oaks-t-00-04-27" style="--pulse-height:50%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Navy Veteran Survived Las Vegas Shooting Only to Be Killed in the Borde
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-t-00-03-23) | 4 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-thousand-oaks-t-00-51-13) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-thousand-oaks-t-00-39-31) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-thousand-oaks-t-00-04-27) | 2 |
 
 </details>
 </section>
@@ -65,7 +67,18 @@ Source: [Navy Veteran Survived Las Vegas Shooting Only to Be Killed in the Borde
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>
+
+**[00:04:54](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-thousand-oaks-t-00-04-27)**
+> "Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor."
+
+**[00:07:03](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-thousand-oaks-t-00-06-52)**
+> "...s, like Rob McCoy's church in Thousand Oaks, are the billionaire Wilks brothers."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
@@ -162,9 +175,10 @@ Source: [Navy Veteran Survived Las Vegas Shooting Only to Be Killed in the Borde
 <summary>Location Of (1)</summary>
 
 - **[Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 
 </details>
 
@@ -200,9 +214,10 @@ Source: [Navy Veteran Survived Las Vegas Shooting Only to Be Killed in the Borde
 <summary>Referenced By (4)</summary>
 
 - **[Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)** based in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-26): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 
 </details>
 

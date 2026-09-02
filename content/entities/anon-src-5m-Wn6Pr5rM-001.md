@@ -21,7 +21,7 @@ _Type: Anonymous Sources_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-anon-src-5m-Wn6Pr5rM-001-t-00-12-33">2026-03-25 · 00:12:47</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
@@ -87,6 +87,19 @@ _Type: Anonymous Sources_
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:34:25](/episodes/ep-HZvwbfePe7o.md#t-00-33-46): “Then your orbit is pretty solid, and I may be able to even produce a receipt tomorrow, so I'm just going to ask again to Andrew (Andrew Kolvet) openly, did you have a meeting scheduled at the White House, you and Marina Minas and Frank (TPUSA in-house lawyer; surname unverified), the in-house lawyer, and I'm actually hearing there could be some more people.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Frank (TPUSA lawyer; surname unverified) (1)</strong></summary>
+
+<details>
+<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1)</summary>
+
+- [00:27:14](/episodes/ep-gG4ZoYUjUc8.md#t-00-27-12) [✓] (Claim) ["TPUSA was going in a different direction, the employee had been terminated, and ..."](/statements/statement-1ff7183e5b30.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Anonymous Source #1 (Ep gG4ZoYUjUc8)](/entities/anon-src-gG4ZoYUjUc8-001.md)
 
 </details>
 

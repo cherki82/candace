@@ -22,7 +22,7 @@ veracity: "mixed"
 ## About
 
 - [Lindsay Clancy](/entities/person-lindsay-clancy.md) (person)
-- [Big Pharma](/entities/concept-big-pharma.md) (concept)
+- [Pharmaceutical industry](/entities/concept-pharmaceutical-industry.md) (concept)
 
 ## Source
 

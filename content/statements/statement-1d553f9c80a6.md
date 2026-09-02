@@ -22,7 +22,6 @@ type: "opinion"
 
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Google Translate](/entities/work-google-translate.md) (work)
-- [Ukraine](/entities/gpe-ukraine.md) (gpe)
 
 ## Source
 

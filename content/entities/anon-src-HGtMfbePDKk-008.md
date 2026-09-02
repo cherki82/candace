@@ -1,19 +1,22 @@
 ---
 title: "Zamet (commenter; identity unverified)"
-description: "Zamet (commenter; identity unverified) (Anonymous Sources) - 3 mentions"
+description: "Zamet (commenter; identity unverified) (Anonymous Sources) - 4 mentions"
 id: "anon-src-HGtMfbePDKk-008"
 type: "ANONYMOUS_SOURCE"
+aliases:
+  - "Zamet (commenter; identity unverified)"
+  - "Zamit (commenter; identity unverified)"
 ---
 
 _Type: Anonymous Sources_
 
-> **Possibly overlapping entity records:** [Zamit (commenter; identity unverified)](/entities/anon-src-E7P2ShoYDUA-013). These records share a name or alias; compare their histories before treating either count as complete.
+**Also known as:** Zamet (commenter; identity unverified), Zamit (commenter; identity unverified)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#t-00-45-50">2026-08-11 · 00:46:21</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#t-00-50-26">2026-08-19 · 00:50:26</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,7 +45,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>

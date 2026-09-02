@@ -4,10 +4,9 @@ description: "\"Owens said the compression visible in the courtroom footage came
 statement_id: "statement-a740b5040a82"
 speaker: "Candace Owens"
 type: "factual_claim"
-veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -33,21 +32,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The source context and current published transcript match: Owens attributed the visible compression to the court or its system while explicitly saying she did not know the reason and was not assigning intent or guilt. This verifies her qualified statement, not the underlying technical provenance of the court footage.
-
-**Confidence:** High
-
-**Sources:**
-
-- [Candace - Huh? Erika Kirk Sits Down With A Trans-Loving Reporter - Transcript](https://podscripts.co/podcasts/candace/huh-erika-kirk-sits-down-with-a-trans-loving-reporter-we-reveal-the-moderator-for-fridays-debate?show_ads=true)
-- [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](https://www.youtube.com/watch?v=HGtMfbePDKk)
-
-*Verified: 2026-08-28T08:07:30.121231*
+_This statement has not yet been verified._
 
 ---
 

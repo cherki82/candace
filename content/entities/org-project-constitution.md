@@ -1,6 +1,6 @@
 ---
 title: "Project Constitution"
-description: "Project Constitution (Organizations) - 12 mentions"
+description: "Project Constitution (Organizations) - 13 mentions"
 id: "org-project-constitution"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [Erika Kirk reacts to rumor she has a new boyfriend eight months after C
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-project-constitution-t-00-16-27">2025-12-05 · 00:03:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-project-constitution-t-00-37-22">2026-07-31 · 00:37:47</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-project-constitution-t-00-48-11">2026-09-01 · 00:48:45</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [Erika Kirk reacts to rumor she has a new boyfriend eight months after C
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-project-constitution-t-00-33-44" style="--pulse-height:25%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-project-constitution-t-00-51-56" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-project-constitution-t-00-37-22" style="--pulse-height:25%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-project-constitution-t-00-48-11" style="--pulse-height:25%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Erika Kirk reacts to rumor she has a new boyfriend eight months after C
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-project-constitution-t-00-33-44) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-project-constitution-t-00-51-56) | 2 |
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-project-constitution-t-00-37-22) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-project-constitution-t-00-48-11) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Erika Kirk reacts to rumor she has a new boyfriend eight months after C
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:48:45](/episodes/ep-ZkDO-MRLUco.md#ent-org-project-constitution-t-00-48-11)**
+> "So hopefully I will actually be able to greet you in Norway someday. Project Constitution is live streaming, he says."
+
+</details>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
@@ -155,7 +165,28 @@ Source: [Erika Kirk reacts to rumor she has a new boyfriend eight months after C
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Project Constitution (1)</strong></summary>
+<summary><strong class="section-title">Statements by Project Constitution (1)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:48:45](/episodes/ep-ZkDO-MRLUco.md#t-00-48-11) [○] (Claim) ["Project Constitution wrote that its livestream audience exceeded Andrew Kolvet a..."](/statements/statement-8b17a27ae5cc.md)
+  - About: [Project Constitution](/entities/org-project-constitution.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Project Constitution (2)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:48:45](/episodes/ep-ZkDO-MRLUco.md#t-00-48-11) (Claim) **Project Constitution** (via quoted post): ["Project Constitution wrote that its livestream audience exceeded Andre..."](/statements/statement-8b17a27ae5cc.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1)</summary>

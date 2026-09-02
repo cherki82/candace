@@ -1,17 +1,16 @@
 ---
-title: "Candace Owens promises to remove the steakhouse stop from he..."
-description: "\"Candace Owens promises to remove the steakhouse stop from her personal timeline if the receipt is debunked or cannot be confirmed.\" — Candace Owens"
+title: "Owens promised to remove the steakhouse stop from her person..."
+description: "\"Owens promised to remove the steakhouse stop from her personal timeline if it was debunked or shown to be a misidentification.\" — Candace Owens"
 statement_id: "statement-6e4c87e8d0c6"
 speaker: "Candace Owens"
 type: "promise"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
-> Candace Owens promises to remove the steakhouse stop from her personal timeline if the receipt is debunked or cannot be confirmed.
+> Owens promised to remove the steakhouse stop from her personal timeline if it was debunked or shown to be a misidentification.
 
 ## Attribution
 
@@ -43,20 +42,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The source episode directly records Owens promising to remove the steakhouse stop from her timeline if it is debunked or cannot be confirmed. This verifies the promise as made; the stated condition was not evaluated as fulfilled.
-
-**Confidence:** High
-
-**Sources:**
-
-- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](https://www.youtube.com/watch?v=nPhCKwJ6ye8)
-
-*Verified: 2026-08-16T14:38:05.760879*
+_This statement has not yet been verified._
 
 ---
 

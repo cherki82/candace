@@ -22,7 +22,7 @@ type: "accusation"
 
 ## About
 
-- [National Gendarmerie Intervention Group](/entities/org-national-gendarmerie-intervention-group.md) (org)
+- [Groupe d'intervention de la Gendarmerie nationale](/entities/org-gign.md) (org)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 
 ## Source

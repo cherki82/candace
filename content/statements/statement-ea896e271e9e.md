@@ -23,7 +23,7 @@ type: "factual_claim"
 - [N582MM](/entities/vehicle-n582mm.md) (vehicle)
 - [Denver](/entities/gpe-denver.md) (gpe)
 - [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md) (gpe)
-- [Chicago](/entities/gpe-chicago.md) (gpe)
+- [Chicago, Illinois](/entities/gpe-chicago-illinois.md) (gpe)
 - [Provo](/entities/gpe-provo.md) (gpe)
 
 ## Source

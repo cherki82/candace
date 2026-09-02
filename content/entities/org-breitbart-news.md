@@ -1,6 +1,6 @@
 ---
 title: "Breitbart News"
-description: "Breitbart News (Organizations) - 39 mentions"
+description: "Breitbart News (Organizations) - 40 mentions"
 id: "org-breitbart-news"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51">2025-10-28 · 00:46:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-breitbart-news-t-00-06-07">2026-07-23 · 00:06:16</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-breitbart-news-t-00-47-27">2026-09-01 · 00:47:27</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
@@ -40,6 +40,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-breitbart-news-t-00-17-38" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 33 mentions" title="2026-01-07 · 33 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-breitbart-news-t-00-50-36" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-breitbart-news-t-00-05-04" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-breitbart-news-t-00-47-27" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-breitbart-news-t-00-17-38) | 33 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-breitbart-news-t-00-50-36) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-breitbart-news-t-00-05-04) | 2 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-breitbart-news-t-00-47-27) | 1 |
 
 </details>
 </section>
@@ -61,7 +63,15 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:47:27](/episodes/ep-ZkDO-MRLUco.md#ent-org-breitbart-news-t-00-47-27)**
+> "He's like, "Um, Breitbart, mine. Ooh, Candace, I'll crush you in court.""
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>

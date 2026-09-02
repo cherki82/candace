@@ -22,9 +22,9 @@ Source: [NBC News Exclusive: Tiffany Dover Breaks Her Silence](https://nbcuniver
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -43,6 +43,10 @@ Source: [NBC News Exclusive: Tiffany Dover Breaks Her Silence](https://nbcuniver
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -216,7 +220,7 @@ Source: [NBC News Exclusive: Tiffany Dover Breaks Her Silence](https://nbcuniver
 - [00:23:05](/episodes/ep-HGtMfbePDKk.md#t-00-22-52) [✓] (Opinion) ["Zadrozny said she observed Turning Point USA struggling with grief, threats and ..."](/statements/statement-6f15416ae222.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:24:50](/episodes/ep-HGtMfbePDKk.md#t-00-24-42) [✓] (Opinion) ["Zadrozny said Tyler Robinson's arrest might have united a MAGA movement divided ..."](/statements/statement-f1353297c6d0.md)
+- [00:24:50](/episodes/ep-HGtMfbePDKk.md#t-00-24-42) [○] (Opinion) ["Zadrozny said Tyler Robinson's arrest might have united a MAGA movement divided ..."](/statements/statement-f1353297c6d0.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [MAGA movement](/entities/concept-maga-movement.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
@@ -224,10 +228,10 @@ Source: [NBC News Exclusive: Tiffany Dover Breaks Her Silence](https://nbcuniver
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brandy Zadrozny (3)</strong></summary>
+<summary><strong class="section-title">Statements about Brandy Zadrozny (4)</strong></summary>
 
 <details>
-<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (3)</summary>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (4)</summary>
 
 - [00:17:03](/episodes/ep-HGtMfbePDKk.md#t-00-16-53) (Opinion) **Candace Owens**: ["Owens said Charlie Kirk did not like Brandy Zadrozny."](/statements/statement-addd4dd52565.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -237,6 +241,9 @@ Source: [NBC News Exclusive: Tiffany Dover Breaks Her Silence](https://nbcuniver
 
 - [00:22:52](/episodes/ep-HGtMfbePDKk.md#t-00-22-52) (Claim) **Brandy Zadrozny** (via quoted speech): ["Brandy Zadrozny said Turning Point USA declined an on-record interview..."](/statements/statement-d02f48b3e7e8.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:25:35](/episodes/ep-HGtMfbePDKk.md#t-00-25-16) (Opinion) **Candace Owens**: ["Owens interpreted Zadrozny's counterfactual about Robinson's arrest as..."](/statements/statement-9bd90e08a4dd.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [MAGA movement](/entities/concept-maga-movement.md)
 
 </details>
 

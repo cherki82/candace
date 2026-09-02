@@ -1,6 +1,6 @@
 ---
 title: "Burton Hibbs"
-description: "Burton Hibbs (People) - 17 mentions"
+description: "Burton Hibbs (People) - 38 mentions"
 id: "person-burton-hibbs"
 type: "PERSON"
 aliases:
@@ -23,26 +23,27 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-burton-hibbs-t-00-32-55">2025-11-12 · 00:32:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-burton-hibbs-t-00-12-03">2026-07-21 · 00:12:38</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-48-53">2026-09-01 · 00:49:11</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-44-27">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-05-10">BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381</a> (21 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-burton-hibbs-t-00-32-55" style="--pulse-height:80%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-burton-hibbs-t-00-27-59" style="--pulse-height:20%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-44-27" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 5 mentions" title="2025-11-15 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-16-27" style="--pulse-height:40%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-burton-hibbs-t-00-19-58" style="--pulse-height:60%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-burton-hibbs-t-00-36-37" style="--pulse-height:20%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-burton-hibbs-t-00-12-03" style="--pulse-height:20%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-burton-hibbs-t-00-32-55" style="--pulse-height:19%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-burton-hibbs-t-00-27-59" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-44-27" style="--pulse-height:24%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 5 mentions" title="2025-11-15 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-16-27" style="--pulse-height:10%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-burton-hibbs-t-00-19-58" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-burton-hibbs-t-00-36-37" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-burton-hibbs-t-00-12-03" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-05-10" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 21 mentions" title="2026-09-01 · 21 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-burton-hibbs-t-00-19-58) | 3 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-burton-hibbs-t-00-36-37) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-burton-hibbs-t-00-12-03) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-05-10) | 21 |
 
 </details>
 </section>
@@ -66,7 +68,75 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (21 mentions)</summary>
+
+**[00:05:27](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-05-10)**
+> "You see Mikey McCoy (Michael McCoy), when he arrived at UVU with Charlie (Charlie Kirk), also met up with a man named Butch Hibbs (Burton Hibbs). They walked Charlie (Charlie Kirk) in together."
+
+**[00:05:36](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-05-10)**
+> "Take a look at Butch (Burton Hibbs) here. He is in the plaid shirt."
+
+**[00:06:17](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-06-17)**
+> "... facts regarding Butch Hibbs (Burton Hibbs), born Burton Hibbs Jr."
+
+**[00:09:16](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-08-58)**
+> "...is 74-year-old brother Butch (Burton Hibbs) could attend this obscure UVU college campus eve..."
+
+**[00:09:55](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-09-55)**
+> "... what's his name again Butch (Burton Hibbs) Butch (Burton Hibbs). I Butch (Burton Hibbs), me..."
+
+**[00:10:03](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-10-03)**
+> "Burton (Burton Hibbs) yeah"
+
+**[00:10:04](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-10-04)**
+> "Burton (Burton Hibbs), okay, yeah, yeah, yeah. And so he introduced hi..."
+
+**[00:12:14](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-12-14)**
+> "Receives this call and butch the not cia or mossad agent just the guy who like..."
+
+**[00:13:12](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-12-57)**
+> "...ed that suddenly Butch Hibbs (Burton Hibbs) is overcome."
+
+**[00:13:17](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-12-57)**
+> "...e UVU event. And Butch Hibbs (Burton Hibbs), by the way, is very much involved in the Calvar..."
+
+**[00:13:36](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-13-36)**
+> "...next, obviously. While Butch (Burton Hibbs) is there on this last minute whim, Charlie (Char..."
+
+**[00:14:20](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-14-20)**
+> "...) spoke to his brother Butch (Burton Hibbs) before or after he has a FaceTime session with F..."
+
+**[00:21:51](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-21-14)**
+> "...what exactly did Butch Hibbs (Burton Hibbs) do? Because that's what I really want to arrive ..."
+
+**[00:21:57](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-21-57)**
+> "So Butch (Burton Hibbs) is there on a whim. He walks in with Charlie (Ch..."
+
+**[00:22:45](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-22-39)**
+> "...going to tell you what Butch (Burton Hibbs) did."
+
+**[00:22:51](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-22-39)**
+> "Butch (Burton Hibbs) pulled the old Terryl Farnsworth move. He just s..."
+
+**[00:23:08](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-22-39)**
+> ".... Anyway. Here's Butch Hibbs (Burton Hibbs). You are going to watch him."
+
+**[00:23:33](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-23-16)**
+> "...ircling for you, Butch Hibbs (Burton Hibbs). That's what he did. Instantly got down and bega..."
+
+**[00:25:09](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-24-42)**
+> "... we have been tracking Butch (Burton Hibbs) and looking for this breakdown that Jack Hibbs d..."
+
+**[00:26:31](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-26-31)**
+> "In our Butch (Burton Hibbs) tracking software, we did also find him, again, ..."
+
+**[00:49:11](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-48-53)**
+> "Butch Hibbs (Burton Hibbs) could scale that mountain because nobody watches..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -163,9 +233,10 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 <summary>Appeared With (2)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:33:49](/episodes/ep-MUA9ebCF4Ow.md#t-00-33-35): “This is me, Charlie (Charlie Kirk), and in the middle is Butch Hibbs.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:42](/episodes/ep-ZkDO-MRLUco.md#t-00-09-42): “And Charlie (Charlie Kirk) took pictures with all the TPUSA kids that were lined up. And then your brother was there and he goes, I'm Jack Hibbs' brother. ... Burton (Burton Hibbs), okay, yeah, yeah, yeah. And so he introduced himself and the last picture, formal picture that probably Charlie (Charlie Kirk) took. ... Was was with him and me uh”
 
 </details>
 
@@ -173,6 +244,18 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:33:49](/episodes/ep-MUA9ebCF4Ow.md#t-00-33-35): “This is me, Charlie (Charlie Kirk), and in the middle is Butch Hibbs.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:23:33](/episodes/ep-ZkDO-MRLUco.md#t-00-23-16): “You can see we are circling for you, Butch Hibbs (Burton Hibbs). That's what he did. Instantly got down and began recording. ... And yes, this is seconds after Charlie (Charlie Kirk) was hit. He is recording. He does not stop recording. ... I mean, look, maybe he's on FaceTime. I'll throw that in there too. Maybe he's FaceTiming. ... Certainly, I think we could conclude not on a phone call with his brother, not running for his life, not running toward the action to help Charlie Kirk, just calmly looking around and recording as people who just love the mountains do.”
 
 </details>
 
@@ -191,12 +274,56 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Lives In (2)</summary>
 
-- **[Frank Turek](/entities/person-frank-turek.md)** appeared with this
+- **[Utah](/entities/gpe-utah.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:10:21](/episodes/ep-ZkDO-MRLUco.md#t-00-10-21): “So my brother's lived in Utah for years and we have to make sure that this doesn't get out, but he looks like a mountain man and he's all over the terrain.”
+
+</details>
+
+- **[Heber City, Utah](/entities/gpe-heber-city-utah.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:05:36](/episodes/ep-ZkDO-MRLUco.md#t-00-05-10): “Take a look at Butch (Burton Hibbs) here. He is in the plaid shirt. ... Many people were convinced that that got switched. There were a lot of people looking into where he lives in Heber City.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Met With (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:42](/episodes/ep-ZkDO-MRLUco.md#t-00-09-42): “And Charlie (Charlie Kirk) took pictures with all the TPUSA kids that were lined up. And then your brother was there and he goes, I'm Jack Hibbs' brother. ... Burton (Burton Hibbs), okay, yeah, yeah, yeah. And so he introduced himself and the last picture, formal picture that probably Charlie (Charlie Kirk) took. ... Was was with him and me uh”
+
+</details>
+
+</details>
+
+<details>
+<summary>Spoke With (1)</summary>
+
+- **[Jack Hibbs](/entities/person-jack-hibbs.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:13:45](/episodes/ep-ZkDO-MRLUco.md#t-00-13-36): “And Pastor Jack Hibbs receives a phone call from his brother. Here's what he told Todd Starnes of Fox News. ... And so the next thing I know, my brother's calling me and I can hear people screaming and yelling and I can hear my brother telling me Charlie (Charlie Kirk)'s just been shot.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (9)</summary>
+
+- **[Frank Turek](/entities/person-frank-turek.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:33:49](/episodes/ep-MUA9ebCF4Ow.md#t-00-33-35): “This is me, Charlie (Charlie Kirk), and in the middle is Butch Hibbs.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:42](/episodes/ep-ZkDO-MRLUco.md#t-00-09-42): “And Charlie (Charlie Kirk) took pictures with all the TPUSA kids that were lined up. And then your brother was there and he goes, I'm Jack Hibbs' brother. ... Burton (Burton Hibbs), okay, yeah, yeah, yeah. And so he introduced himself and the last picture, formal picture that probably Charlie (Charlie Kirk) took. ... Was was with him and me uh”
 
 </details>
 
@@ -207,6 +334,13 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:23:33](/episodes/ep-ZkDO-MRLUco.md#t-00-23-16): “You can see we are circling for you, Butch Hibbs (Burton Hibbs). That's what he did. Instantly got down and began recording. ... And yes, this is seconds after Charlie (Charlie Kirk) was hit. He is recording. He does not stop recording. ... I mean, look, maybe he's on FaceTime. I'll throw that in there too. Maybe he's FaceTiming. ... Certainly, I think we could conclude not on a phone call with his brother, not running for his life, not running toward the action to help Charlie Kirk, just calmly looking around and recording as people who just love the mountains do.”
+
+</details>
+
 - **[United States Navy](/entities/org-united-states-navy.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -214,13 +348,84 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 
 </details>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:42](/episodes/ep-ZkDO-MRLUco.md#t-00-09-42): “And Charlie (Charlie Kirk) took pictures with all the TPUSA kids that were lined up. And then your brother was there and he goes, I'm Jack Hibbs' brother. ... Burton (Burton Hibbs), okay, yeah, yeah, yeah. And so he introduced himself and the last picture, formal picture that probably Charlie (Charlie Kirk) took. ... Was was with him and me uh”
+
+</details>
+
+- **[Utah](/entities/gpe-utah.md)** residence of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:10:21](/episodes/ep-ZkDO-MRLUco.md#t-00-10-21): “So my brother's lived in Utah for years and we have to make sure that this doesn't get out, but he looks like a mountain man and he's all over the terrain.”
+
+</details>
+
+- **[Heber City, Utah](/entities/gpe-heber-city-utah.md)** residence of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:05:36](/episodes/ep-ZkDO-MRLUco.md#t-00-05-10): “Take a look at Butch (Burton Hibbs) here. He is in the plaid shirt. ... Many people were convinced that that got switched. There were a lot of people looking into where he lives in Heber City.”
+
+</details>
+
 - **[Jack Hibbs](/entities/person-jack-hibbs.md)** sibling of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:33:49](/episodes/ep-MUA9ebCF4Ow.md#t-00-33-35): “Butch Hibbs. That's the brother of Jack Hibbs—Pastor Jack Hibbs.”
 - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:44:55](/episodes/ep-7RLtGgkTh9o.md#t-00-44-27): “Butch Hibbs—Jack Hibbs' brother”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:06:26](/episodes/ep-ZkDO-MRLUco.md#t-00-06-17): “He is from a military family. His brother is Pastor Jack Hibbs, another senior pastor at Calvary Chapel Church. His church is based in Chino Hills, California.”
 
 </details>
+
+- **[Jack Hibbs](/entities/person-jack-hibbs.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:13:45](/episodes/ep-ZkDO-MRLUco.md#t-00-13-36): “And Pastor Jack Hibbs receives a phone call from his brother. Here's what he told Todd Starnes of Fox News. ... And so the next thing I know, my brother's calling me and I can hear people screaming and yelling and I can hear my brother telling me Charlie (Charlie Kirk)'s just been shot.”
+
+</details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Burton Hibbs (11)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (11)</summary>
+
+- [00:05:27](/episodes/ep-ZkDO-MRLUco.md#t-00-05-10) (Claim) **Candace Owens**: ["Owens said Michael McCoy and Burton Hibbs walked into the UVU event wi..."](/statements/statement-37f7aabb57b2.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:09:42](/episodes/ep-ZkDO-MRLUco.md#t-00-09-42) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said what was probably Charlie Kirk’s last formal photogra..."](/statements/statement-2beb3e594dc7.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:10:49](/episodes/ep-ZkDO-MRLUco.md#t-00-10-44) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs said his brother Burton called the night before the UVU eve..."](/statements/statement-65d42e2d2aa6.md)
+  - Also about: [Jack Hibbs](/entities/person-jack-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:13:56](/episodes/ep-ZkDO-MRLUco.md#t-00-13-56) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs told Todd Starnes that Charlie Kirk gave his brother a fron..."](/statements/statement-5b000612c437.md)
+  - Also about: [Jack Hibbs](/entities/person-jack-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:14](/episodes/ep-ZkDO-MRLUco.md#t-00-16-14) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs said he initially thought his brother meant their cousin Ch..."](/statements/statement-c75085f4f262.md)
+  - Also about: [Jack Hibbs](/entities/person-jack-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:21:57](/episodes/ep-ZkDO-MRLUco.md#t-00-21-57) (Claim) **Candace Owens**: ["Owens said Burton Hibbs stood to the right of Charlie Kirk and the ten..."](/statements/statement-2b2248b214e5.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:22:51](/episodes/ep-ZkDO-MRLUco.md#t-00-22-39) (Opinion) **Candace Owens**: ["Owens speculated that members of Kirk’s entourage might have been told..."](/statements/statement-56e7ce841850.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
+
+- [00:23:16](/episodes/ep-ZkDO-MRLUco.md#t-00-23-16) (Accusation) **Candace Owens**: ["Owens presented new footage that she interpreted as Burton Hibbs calml..."](/statements/statement-261f8a41d5d3.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:25:18](/episodes/ep-ZkDO-MRLUco.md#t-00-25-18) (Claim) **Candace Owens**: ["Owens said footage appeared to show Burton Hibbs on a phone call about..."](/statements/statement-34925a90b2c9.md)
+  - Also about: [Jack Hibbs](/entities/person-jack-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:26:31](/episodes/ep-ZkDO-MRLUco.md#t-00-26-31) (Claim) **Candace Owens**: ["Owens said she found Burton Hibbs behind people being interviewed by n..."](/statements/statement-192f099c345b.md)
+
+- [00:27:55](/episodes/ep-ZkDO-MRLUco.md#t-00-27-49) (Claim) **Candace Owens**: ["Owens said her team could not find Jack Hibbs mentioning that his brot..."](/statements/statement-0eea038364b8.md)
+  - Also about: [Jack Hibbs](/entities/person-jack-hibbs.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1923 mentions"
+description: "United States (Places) - 1925 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -28,11 +28,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-united-states-t-00-08-13">2026-08-31 · 00:08:13</a></strong></div>
-<div><span>Episodes</span><strong>156</strong></div>
-<div><span>Mentions</span><strong>1,923</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-united-states-t-00-16-14">2026-09-01 · 00:16:24</a></strong></div>
+<div><span>Episodes</span><strong>157</strong></div>
+<div><span>Mentions</span><strong>1,925</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>169</strong></div>
+<div><span>Statements about</span><strong>170</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -197,6 +197,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-united-states-t-00-36-47" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-united-states-t-00-07-38" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 3 mentions" title="2026-08-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-united-states-t-00-16-14" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -358,6 +359,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-gpe-united-states-t-00-36-47) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-united-states-t-00-07-38) | 3 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-united-states-t-00-16-14) | 2 |
 
 </details>
 </section>
@@ -369,7 +371,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1923)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1925)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>
+
+**[00:02:33](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-united-states-t-00-16-14)**
+> "Slightly different cast of characters, I might add, than we saw throughout the preliminary hearing. Remarkably, notably, the Turning Point USA influencers did not show up. So sad."
+
+**[00:16:24](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-united-states-t-00-16-14)**
+> "...litics, and he's all over the United States."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3 mentions)</summary>
@@ -6979,7 +6992,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (169)</strong></summary>
+<summary><strong class="section-title">Statements about United States (170)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -6990,7 +7003,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (7)</summary>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (8)</summary>
 
 - [00:35:36](/episodes/ep-1CFDtD0IgEg.md#t-00-35-36) (Accusation) **Candace Owens**: ["Candace Owens claimed the United States, presumably acting at Israel's..."](/statements/statement-941695a8f84a.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Iran](/entities/gpe-iran.md)
@@ -7009,6 +7022,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:41:49](/episodes/ep-1CFDtD0IgEg.md#t-00-41-31) (Prediction) **Candace Owens**: ["Candace Owens predicted that U.S. attacks killing Iranian children and..."](/statements/statement-61895a5117f2.md)
   - Also about: [Iran](/entities/gpe-iran.md)
+
+- [00:42:07](/episodes/ep-1CFDtD0IgEg.md#t-00-42-07) (Accusation) **Candace Owens**: ["Owens argued that people she accused of lying about the Iranian school..."](/statements/statement-225e17c2e5f3.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:44:12](/episodes/ep-1CFDtD0IgEg.md#t-00-43-55) (Opinion) **Mark Levin** (via quoted speech): ["Mark Levin argued that the United States should arm Iranian opposition..."](/statements/statement-fad7accff25b.md)
   - Also about: [Iran](/entities/gpe-iran.md)

@@ -307,7 +307,7 @@ Source: [Family of 16 recounts terror after Charlie Kirk shooting at UVU - KSL](
 - [00:05:54](/episodes/ep-UBkFkg4UNY8.md#t-00-05-54) (Claim) **Candace Owens**: ["Owens said Tiffany Barker was part of a politically connected family i..."](/statements/statement-5e40e593e1d5.md)
 
 - [00:05:59](/episodes/ep-UBkFkg4UNY8.md#t-00-05-54) (Claim) **Candace Owens**: ["Owens said internet sleuths had apparently determined that Tiffany Bar..."](/statements/statement-1546847cc547.md)
-  - Also about: [LDS church](/entities/org-lds-church.md)
+  - Also about: [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
 
 - [00:06:11](/episodes/ep-UBkFkg4UNY8.md#t-00-05-54) (Claim) **Candace Owens**: ["Owens said Tiffany Barker forgot—or may not have had time—to mention i..."](/statements/statement-0054cf72e085.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Good Morning America](/entities/work-good-morning-america.md)

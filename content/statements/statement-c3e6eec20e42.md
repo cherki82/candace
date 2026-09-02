@@ -24,7 +24,7 @@ veracity: "true"
 ## About
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [Saint Michael](/entities/person-saint-michael.md) (person)
+- [Saint Michael the Archangel](/entities/person-saint-michael-the-archangel.md) (person)
 
 ## Source
 

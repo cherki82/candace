@@ -1,8 +1,8 @@
 ---
 title: "Eyewitness told me that that gun doesn't even match what I s..."
-description: "\"Eyewitness told me that that gun doesn't even match what I saw\" — Anonymous legacy source (claim-75a447ddd8b9)"
+description: "\"Eyewitness told me that that gun doesn't even match what I saw\" — Anonymous Losee Center Eyewitness"
 statement_id: "statement-db7dd4a3398e"
-speaker: "Anonymous legacy source (claim-75a447ddd8b9)"
+speaker: "Anonymous Losee Center Eyewitness"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Anonymous legacy source (claim-75a447ddd8b9)](/entities/anon-src-QZWSsq8ZWzw-legacy-82f5c626.md) (Anonymous Source)
+**Speaker:** [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md) (Anonymous Source)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

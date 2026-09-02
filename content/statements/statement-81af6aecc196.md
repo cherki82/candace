@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md) (org)
+- [Losee Center](/entities/org-losee-center.md) (org)
 
 ## Source
 

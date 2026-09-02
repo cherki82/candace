@@ -5,6 +5,26 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-09-02 09:59:59
+
+**Added 2 episode(s):**
+  - `ZkDO-MRLUco`: BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381
+  - `wntKnFzh9Gs`: I Met My Cousin In Iceland...
+**Added 17 new entity/entities**
+**Removed 112 entity/entities**
+**Added 11 new event(s)**
+**Added 117 new statement(s)**
+**Added 28 new relationship(s)**
+
+**Totals:**
+- Episodes: 163
+- Entities: 4587
+- Events: 1784
+- Statements: 7119
+- Relationships: 5073
+
+---
+
 ## 2026-09-01 12:29:23
 
 **Added 4 new entity/entities**

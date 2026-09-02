@@ -95,7 +95,7 @@ _No relationships extracted yet._
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
 
 - [00:11:18](/episodes/ep-4DvYXBn_5JI.md#t-00-10-48) (Claim) **Candace Owens**: ["Candace Owens said N582MM left Denver at 11:58 a.m. Mountain Time on S..."](/statements/statement-ea896e271e9e.md)
-  - Also about: [N582MM](/entities/vehicle-n582mm.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md), [Chicago](/entities/gpe-chicago.md)
+  - Also about: [N582MM](/entities/vehicle-n582mm.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md), [Chicago, Illinois](/entities/gpe-chicago-illinois.md)
 
 </details>
 

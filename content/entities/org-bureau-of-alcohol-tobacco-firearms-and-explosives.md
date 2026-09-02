@@ -1,6 +1,6 @@
 ---
 title: "Bureau of Alcohol, Tobacco, Firearms and Explosives"
-description: "Bureau of Alcohol, Tobacco, Firearms and Explosives (Organizations) - 54 mentions"
+description: "Bureau of Alcohol, Tobacco, Firearms and Explosives (Organizations) - 53 mentions"
 id: "org-bureau-of-alcohol-tobacco-firearms-and-explosives"
 type: "ORG"
 aliases:
@@ -24,7 +24,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-00">2026-03-31 · 00:00:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09">2026-08-14 · 00:43:09</a></strong></div>
 <div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>54</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>23</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -38,7 +38,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-00" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 14 mentions" title="2026-03-31 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-33-34" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-50-38" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34" style="--pulse-height:57%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 8 mentions" title="2026-04-14 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34" style="--pulse-height:50%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 7 mentions" title="2026-04-14 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-40" style="--pulse-height:36%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 5 mentions" title="2026-04-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-10-57" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-55-52" style="--pulse-height:43%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 6 mentions" title="2026-04-22 · 6 mentions"><span></span></a>
@@ -61,7 +61,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-00) | 14 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-33-34) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-50-38) | 1 |
-| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34) | 8 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34) | 7 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-40) | 5 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-10-57) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-55-52) | 6 |
@@ -87,7 +87,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -250,12 +250,9 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 </details>
 
 <details>
-<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (8 mentions)</summary>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (7 mentions)</summary>
 
 **[00:37:58](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34)**
-> "...l) receives an email from the ATF."
-
-**[00:38:00](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34)**
 > "...l) receives an email from the ATF."
 
 **[00:38:11](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34)**
@@ -352,7 +349,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 - **[Caitlin Oliver](/entities/person-caitlin-oliver.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:43:09](/episodes/ep-nPhCKwJ6ye8.md#t-00-43-09): “so forgetting what the summary of the medical report was, did you watch the testimony that was given by the Caitlin Oliver, the ATF woman, Samantha Carner, any of those people who went into the science of the”
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:43:09](/episodes/ep-nPhCKwJ6ye8.md#t-00-43-09): “so forgetting what the summary of the medical report was, did you watch the testimony that was given by the Caitlin Oliver, the ATF woman, Samantha Karner, any of those people who went into the science of the”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:30:37](/episodes/ep-EtLHqDbxqks.md#t-00-30-10): “OK, Caitlin Oliver was the ATF's forensic biologist and she gave a devastating testimony for the it was devastating to the prosecution.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 00:18:31](/episodes/ep-aPOyk1i2LOc.md#t-00-18-31): “so forgetting what the summary of the medical report was, did you watch the testimony that was given by the Caitlin Oliver, the ATF woman, Samantha Karner, any of those people who went into the science of the”
 
@@ -392,7 +389,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 - **[Caitlin Oliver](/entities/person-caitlin-oliver.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:43:09](/episodes/ep-nPhCKwJ6ye8.md#t-00-43-09): “so forgetting what the summary of the medical report was, did you watch the testimony that was given by the Caitlin Oliver, the ATF woman, Samantha Carner, any of those people who went into the science of the”
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:43:09](/episodes/ep-nPhCKwJ6ye8.md#t-00-43-09): “so forgetting what the summary of the medical report was, did you watch the testimony that was given by the Caitlin Oliver, the ATF woman, Samantha Karner, any of those people who went into the science of the”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:30:37](/episodes/ep-EtLHqDbxqks.md#t-00-30-10): “OK, Caitlin Oliver was the ATF's forensic biologist and she gave a devastating testimony for the it was devastating to the prosecution.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 00:18:31](/episodes/ep-aPOyk1i2LOc.md#t-00-18-31): “so forgetting what the summary of the medical report was, did you watch the testimony that was given by the Caitlin Oliver, the ATF woman, Samantha Karner, any of those people who went into the science of the”
 

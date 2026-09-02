@@ -1,8 +1,8 @@
 ---
 title: "An anonymous overseas tipster alleged that people associated..."
-description: "\"An anonymous overseas tipster alleged that people associated with Turning Point USA had taken a meeting with Pierre Falcone; Owens said she could not ...\" — Anonymous Source #5 (Ep Kmt6HgRjckU)"
+description: "\"An anonymous overseas tipster alleged that people associated with Turning Point USA had taken a meeting with Pierre Falcone; Owens said she could not ...\" — Anonymous Source #1 (Ep Kmt6HgRjckU)"
 statement_id: "statement-6d276f41ecf7"
-speaker: "Anonymous Source #5 (Ep Kmt6HgRjckU)"
+speaker: "Anonymous Source #1 (Ep Kmt6HgRjckU)"
 type: "accusation"
 ---
 
@@ -14,7 +14,7 @@ type: "accusation"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #5 (Ep Kmt6HgRjckU)](/entities/anon-src-Kmt6HgRjckU-005.md) (Anonymous Source)
+**Speaker:** [Anonymous Source #1 (Ep Kmt6HgRjckU)](/entities/anon-src-Kmt6HgRjckU-001.md) (Anonymous Source)
 
 **Delivery:** Read from message
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

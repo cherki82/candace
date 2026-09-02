@@ -21,7 +21,7 @@ type: "opinion"
 ## About
 
 - [Brian Harpole](/entities/person-brian-harpole.md) (person)
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source

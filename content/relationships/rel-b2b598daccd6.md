@@ -1,15 +1,15 @@
 ---
-title: "Joint Task Force Six founded by George H.W. Bush"
-description: "Evidence for the relationship: Joint Task Force Six founded by George H.W. Bush"
+title: "Joint Task Force Six founded by George H. W. Bush"
+description: "Evidence for the relationship: Joint Task Force Six founded by George H. W. Bush"
 relationship_id: "rel-b2b598daccd6"
 subject: "org-joint-task-force-six"
 predicate: "founded by"
-object: "person-george-hw-bush"
+object: "person-george-h-w-bush"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Joint Task Force Six](/entities/org-joint-task-force-six) founded by [George H.W. Bush](/entities/person-george-hw-bush)
+## [Joint Task Force Six](/entities/org-joint-task-force-six) founded by [George H. W. Bush](/entities/person-george-h-w-bush)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "person-george-hw-bush"
 ### Related
 
 - [Joint Task Force Six](/entities/org-joint-task-force-six)
-- [George H.W. Bush](/entities/person-george-hw-bush)
+- [George H. W. Bush](/entities/person-george-h-w-bush)

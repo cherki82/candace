@@ -21,7 +21,7 @@ veracity: "unverifiable"
 
 ## About
 
-- [Turning Point Faith](/entities/org-turning-point-faith.md) (org)
+- [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Messianism](/entities/concept-messianism.md) (concept)
 

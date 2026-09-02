@@ -1,6 +1,6 @@
 ---
 title: "Sweden"
-description: "Sweden (Places) - 10 mentions"
+description: "Sweden (Places) - 11 mentions"
 id: "gpe-sweden"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Sweden.se — official site of Sweden](https://sweden.se/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-sweden-t-00-28-06">2026-02-25 · 00:28:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-sweden-t-00-13-45">2026-08-31 · 00:14:11</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-wntKnFzh9Gs.md#ent-gpe-sweden-t-00-00-27">2026-09-01 · 00:00:27</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,6 +36,7 @@ Source: [Sweden.se — official site of Sweden](https://sweden.se/)
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-sweden-t-00-51-08" style="--pulse-height:17%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-sweden-t-00-48-51" style="--pulse-height:17%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-sweden-t-00-13-45" style="--pulse-height:17%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wntKnFzh9Gs.md#ent-gpe-sweden-t-00-00-27" style="--pulse-height:17%" aria-label="I Met My Cousin In Iceland...: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Sweden.se — official site of Sweden](https://sweden.se/)
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-sweden-t-00-51-08) | 1 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-sweden-t-00-48-51) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-sweden-t-00-13-45) | 1 |
+| 2026-09-01 | [I Met My Cousin In Iceland...](/episodes/ep-wntKnFzh9Gs.md#ent-gpe-sweden-t-00-00-27) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Sweden.se — official site of Sweden](https://sweden.se/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>I Met My Cousin In Iceland... (1 mentions)</summary>
+
+**[00:00:27](/episodes/ep-wntKnFzh9Gs.md#ent-gpe-sweden-t-00-00-27)**
+> "Okay. It's a weekday. We are in a country of only 400,000 people. Okay. Justin (Justin Baldoni) himself was not visiting Iceland. Okay, turns out he was on a layover from Sweden. T"
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
@@ -120,7 +130,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Sweden (6)</strong></summary>
+<summary><strong class="section-title">Statements about Sweden (7)</strong></summary>
+
+<details>
+<summary>I Met My Cousin In Iceland... (1)</summary>
+
+- [00:00:27](/episodes/ep-wntKnFzh9Gs.md#t-00-00-27) (Claim) **Candace Owens**: ["Owens said Justin Baldoni was on an Iceland layover from Sweden with h..."](/statements/statement-35bfb89c9c3d.md)
+  - Also about: [Justin Baldoni](/entities/person-justin-baldoni.md), [Emily Baldoni](/entities/person-emily-baldoni.md), [Iceland](/entities/gpe-iceland.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (1)</summary>

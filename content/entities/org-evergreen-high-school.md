@@ -1,6 +1,6 @@
 ---
 title: "Evergreen High School"
-description: "Evergreen High School (Organizations) - 19 mentions"
+description: "Evergreen High School (Organizations) - 11 mentions"
 id: "org-evergreen-high-school"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About - Evergreen High School](https://evergreen.jeffcopublicschools.or
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-12-45">2026-05-13 · 00:12:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-54-15">2026-05-13 · 00:54:35</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-23-56">2026-05-13 · 00:24:12</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -34,15 +34,15 @@ Source: [About - Evergreen High School](https://evergreen.jeffcopublicschools.or
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-12-45">September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</a> (19 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-12-45">September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-12-45" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 19 mentions" title="2026-05-13 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-12-45" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 11 mentions" title="2026-05-13 · 11 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-12-45) | 19 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-12-45) | 11 |
 
 </details>
 </section>
@@ -54,10 +54,10 @@ Source: [About - Evergreen High School](https://evergreen.jeffcopublicschools.or
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
-<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (19 mentions)</summary>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (11 mentions)</summary>
 
 **[00:12:45](/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-12-45)**
 > "Evergreen High School"
@@ -91,30 +91,6 @@ Source: [About - Evergreen High School](https://evergreen.jeffcopublicschools.or
 
 **[00:24:12](/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-23-56)**
 > "...nd and started heading toward Evergreen. Now. That's another lead that hasn't been follow..."
-
-**[00:16:04](/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-13-26)**
-> "...going on a half mile south of Evergreen Lake."
-
-**[00:19:44](/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-19-44)**
-> "...were working a roofing job in Evergreen. They were driving along Buffalo Park Road near O..."
-
-**[00:21:32](/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-21-15)**
-> "... that he was working a job in Evergreen. It's a very tight knit community."
-
-**[00:21:59](/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-21-59)**
-> "And this is the case also in Evergreen without legally filing for a permit to do work wi..."
-
-**[00:22:12](/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-21-59)**
-> "...o do a quick permit search in Evergreen and say, oh, they were working on Joe's house dow..."
-
-**[00:22:19](/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-21-59)**
-> "...ed every house to see what in Evergreen, which house he was working on. Can't determine i..."
-
-**[00:22:32](/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-21-59)**
-> "...certainly, if I was living in Evergreen, would want to know, no, but what house were you ..."
-
-**[00:54:35](/episodes/ep-4DvYXBn_5JI.md#ent-org-evergreen-high-school-t-00-54-15)**
-> "... our own police department in Evergreen. That's interesting."
 
 </details>
 

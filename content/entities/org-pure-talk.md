@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 216 mentions"
+description: "Pure Talk (Organizations) - 221 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PureTalk](https://www.puretalk.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-pure-talk-t-00-55-04">2025-09-15 · 00:55:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-57-01">2026-08-21 · 00:57:05</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>216</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-pure-talk-t-00-29-55">2026-09-01 · 00:30:22</a></strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>221</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -80,6 +80,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-pure-talk-t-01-35-24" style="--pulse-height:75%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 6 mentions" title="2026-08-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-pure-talk-t-00-57-37" style="--pulse-height:75%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 6 mentions" title="2026-08-17 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-56-19" style="--pulse-height:50%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 4 mentions" title="2026-08-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-pure-talk-t-00-29-18" style="--pulse-height:62%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -128,6 +129,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-pure-talk-t-01-35-24) | 6 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-pure-talk-t-00-57-37) | 6 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-56-19) | 4 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-pure-talk-t-00-29-18) | 5 |
 
 </details>
 </section>
@@ -135,7 +137,27 @@ Source: [PureTalk](https://www.puretalk.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (216)</strong></summary>
+<summary><strong class="section-title">Raw mentions (221)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (5 mentions)</summary>
+
+**[00:29:37](/episodes/ep-ZkDO-MRLUco.md#ent-org-pure-talk-t-00-29-18)**
+> "I also want to remind you guys about Pure Talk because I have to tell you that I recently switched my cell phone service over to Pure Talk and I genuinely love having them as my wireless provider."
+
+**[00:29:46](/episodes/ep-ZkDO-MRLUco.md#ent-org-pure-talk-t-00-29-18)**
+> "...portant to me and I love that Pure Talk gives me the coverage and unlimited data that I n..."
+
+**[00:29:55](/episodes/ep-ZkDO-MRLUco.md#ent-org-pure-talk-t-00-29-55)**
+> "... in a recent industry survey, PureTalk was the only wireless company to receive five sta..."
+
+**[00:30:10](/episodes/ep-ZkDO-MRLUco.md#ent-org-pure-talk-t-00-29-55)**
+> "...hould check them out. Head to puretalk.com slash Owens to make the switch."
+
+**[00:30:22](/episodes/ep-ZkDO-MRLUco.md#ent-org-pure-talk-t-00-29-55)**
+> "Again, that's puretalk.com slash Owens. I have to tell you guys also abo..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4 mentions)</summary>

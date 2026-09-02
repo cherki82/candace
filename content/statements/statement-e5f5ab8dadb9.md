@@ -1,6 +1,6 @@
 ---
-title: "Owens speculated that high white socks on the person in the ..."
-description: "\"Owens speculated that high white socks on the person in the footage might have been used to hide a tattoo while impersonating Tyler Robinson.\" — Candace Owens"
+title: "Owens speculated that the apparently pale lower legs might i..."
+description: "\"Owens speculated that the apparently pale lower legs might instead be high white socks used to hide a tattoo while someone impersonated Tyler Robinson...\" — Candace Owens"
 statement_id: "statement-e5f5ab8dadb9"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> Owens speculated that high white socks on the person in the footage might have been used to hide a tattoo while impersonating Tyler Robinson.
+> Owens speculated that the apparently pale lower legs might instead be high white socks used to hide a tattoo while someone impersonated Tyler Robinson.
 
 ## Attribution
 

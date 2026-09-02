@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Defense"
-description: "United States Department of Defense (Organizations) - 82 mentions"
+description: "United States Department of Defense (Organizations) - 86 mentions"
 id: "org-us-department-of-defense"
 type: "ORG"
 aliases:
@@ -28,11 +28,11 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29">2025-10-28 · 00:31:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-44-09">2026-08-31 · 00:44:09</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>82</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-us-department-of-defense-t-00-42-25">2026-09-01 · 00:42:25</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>86</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>52</strong></div>
+<div><span>Statements about</span><strong>54</strong></div>
 <div><span>Relationships</span><strong>26</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -73,6 +73,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-us-department-of-defense-t-01-04-38" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-us-department-of-defense-t-00-03-59" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-00-45" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 13 mentions" title="2026-08-31 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-us-department-of-defense-t-00-00-39" style="--pulse-height:31%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -110,6 +111,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-us-department-of-defense-t-01-04-38) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-us-department-of-defense-t-00-03-59) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-00-45) | 13 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-us-department-of-defense-t-00-00-39) | 4 |
 
 </details>
 </section>
@@ -121,7 +123,24 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (82)</strong></summary>
+<summary><strong class="section-title">Raw mentions (86)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>
+
+**[00:00:55](/episodes/ep-ZkDO-MRLUco.md#ent-org-us-department-of-defense-t-00-00-39)**
+> "Just why does Data Republican (Jennica Pounds), a.k.a. Jennica Pounds, a.k.a. the Department of War's fake analyst."
+
+**[00:01:03](/episodes/ep-ZkDO-MRLUco.md#ent-org-us-department-of-defense-t-00-01-03)**
+> "... I'm over here looking at the Department of War like I'm Sophie Cunningham you know doing the poi..."
+
+**[00:42:00](/episodes/ep-ZkDO-MRLUco.md#ent-org-us-department-of-defense-t-00-41-54)**
+> "...never seen it we now know the department of war is involved in the propaganda and trying to get T..."
+
+**[00:42:25](/episodes/ep-ZkDO-MRLUco.md#ent-org-us-department-of-defense-t-00-42-25)**
+> "...rking as a consultant for the Department of War and then suddenly starts working for Turning Poin..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (13 mentions)</summary>
@@ -538,9 +557,10 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:01:12](/episodes/ep-JrhGEm8MGRY.md#t-00-00-45): “Well, it turns out that the Trump administration heard the call and they took me literally because it was revealed that the Department of War has people on payroll that are attacking me for my investigation into Charlie Kirk's assassination. That's weird.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:42:00](/episodes/ep-ZkDO-MRLUco.md#t-00-41-54): “And if this goes through we've already seen the mechanics of our government in a way that we have never seen it we now know the department of war is involved in the propaganda and trying to get Tyler Robinson convicted and going after people who are asking meaningful questions smearing people putting people on payroll also the timeline of when they started putting people on payroll is very alarming to me we had been highlighting without even knowing”
 
 </details>
 
@@ -611,9 +631,10 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <summary>Formerly Employed (1)</summary>
 
 - **[Graham Allen](/entities/person-graham-allen.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:26:30](/episodes/ep-IqHsl7d2dos.md#t-00-26-23): “Did you know what he was doing right before Charlie (Charlie Kirk) died? His official title was senior consultant to the Department of War.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:42:25](/episodes/ep-ZkDO-MRLUco.md#t-00-42-25): “The people that were working for them, even Graham Allen, I told you that he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them. It, to me, signals some sort of a preparation. There would be no reason for the Department of War not to be on our side and wanting to get to the bottom, especially at the helm of the Trump (Donald J. Trump) administration, wanting to get to the bottom of who killed their friend, Charlie Kirk.”
 
 </details>
 
@@ -672,9 +693,10 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <summary>Referenced By (14)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:01:12](/episodes/ep-JrhGEm8MGRY.md#t-00-00-45): “Well, it turns out that the Trump administration heard the call and they took me literally because it was revealed that the Department of War has people on payroll that are attacking me for my investigation into Charlie Kirk's assassination. That's weird.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:42:00](/episodes/ep-ZkDO-MRLUco.md#t-00-41-54): “And if this goes through we've already seen the mechanics of our government in a way that we have never seen it we now know the department of war is involved in the propaganda and trying to get Tyler Robinson convicted and going after people who are asking meaningful questions smearing people putting people on payroll also the timeline of when they started putting people on payroll is very alarming to me we had been highlighting without even knowing”
 
 </details>
 
@@ -701,9 +723,10 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 - **[Graham Allen](/entities/person-graham-allen.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:26:30](/episodes/ep-IqHsl7d2dos.md#t-00-26-23): “Did you know what he was doing right before Charlie (Charlie Kirk) died? His official title was senior consultant to the Department of War.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:42:25](/episodes/ep-ZkDO-MRLUco.md#t-00-42-25): “The people that were working for them, even Graham Allen, I told you that he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them. It, to me, signals some sort of a preparation. There would be no reason for the Department of War not to be on our side and wanting to get to the bottom, especially at the helm of the Trump (Donald J. Trump) administration, wanting to get to the bottom of who killed their friend, Charlie Kirk.”
 
 </details>
 
@@ -793,7 +816,18 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Defense (52)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Defense (54)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2)</summary>
+
+- [00:42:00](/episodes/ep-ZkDO-MRLUco.md#t-00-41-54) (Accusation) **Candace Owens**: ["Owens accused the Department of War of funding propaganda and smears a..."](/statements/statement-bd7e4a54a446.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:42:25](/episodes/ep-ZkDO-MRLUco.md#t-00-42-25) (Opinion) **Candace Owens**: ["Owens said Graham Allen had worked as a Department of War consultant a..."](/statements/statement-0421d4e8876b.md)
+  - Also about: [Graham Allen](/entities/person-graham-allen.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (10)</summary>

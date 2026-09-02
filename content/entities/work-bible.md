@@ -1,6 +1,6 @@
 ---
 title: "Bible"
-description: "Bible (Works & Media) - 115 mentions"
+description: "Bible (Works & Media) - 114 mentions"
 id: "work-bible"
 type: "WORK"
 aliases:
@@ -24,7 +24,7 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-work-bible-t-00-54-20">2025-09-18 · 00:54:47</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-work-bible-t-00-47-58">2026-08-10 · 00:48:08</a></strong></div>
 <div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>115</strong></div>
+<div><span>Mentions</span><strong>114</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -48,7 +48,7 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-bible-t-00-33-44" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-work-bible-t-00-01-35" style="--pulse-height:30%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 6 mentions" title="2026-02-03 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-work-bible-t-00-47-15" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-bible-t-00-32-32" style="--pulse-height:15%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-bible-t-00-32-32" style="--pulse-height:10%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-bible-t-00-43-52" style="--pulse-height:20%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-bible-t-00-28-09" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-bible-t-00-28-15" style="--pulse-height:95%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 19 mentions" title="2026-03-02 · 19 mentions"><span></span></a>
@@ -84,7 +84,7 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-bible-t-00-33-44) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-work-bible-t-00-01-35) | 6 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-work-bible-t-00-47-15) | 1 |
-| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-work-bible-t-00-32-32) | 3 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-work-bible-t-00-32-32) | 2 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-work-bible-t-00-43-52) | 4 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-work-bible-t-00-28-09) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-work-bible-t-00-28-15) | 19 |
@@ -109,7 +109,7 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (115)</strong></summary>
+<summary><strong class="section-title">Raw mentions (114)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
@@ -383,16 +383,13 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 </details>
 
 <details>
-<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>
 
 **[00:32:36](/episodes/ep-hWTdXHGQ8R4.md#ent-work-bible-t-00-32-32)**
 > "...ying to now put this into the Bible that you have a right to do this, that you have a..."
 
 **[00:34:40](/episodes/ep-hWTdXHGQ8R4.md#ent-work-bible-t-00-34-40)**
 > "...orals morals fashioned by the Bible thou shalt not kill which I think true Jews would..."
-
-**[00:51:58](/episodes/ep-hWTdXHGQ8R4.md#ent-work-bible-t-00-34-40)**
-> "...ate of colorado and at Charis Bible College and they did not have any arrangements fo..."
 
 </details>
 

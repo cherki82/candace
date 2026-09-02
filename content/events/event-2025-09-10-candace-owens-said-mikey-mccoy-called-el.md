@@ -16,7 +16,7 @@ date: "2025-09-10"
 
 > Candace Owens said Mikey McCoy called Elizabeth McCoy after Charlie Kirk was shot and then conferenced in Erika Kirk.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | ...
 
@@ -41,3 +41,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=1628s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Actually, the first person he called was his wife. He called Elizabeth McCoy.
+
+### 4. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
+
+**Episode:** [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md)
+**Timestamp:** [00:04:54](/episodes/ep-ZkDO-MRLUco.md#event-event-2025-09-10-candace-owens-said-mikey-mccoy-called-el-t-00-04-27) 
+<a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=294s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> He does not dial 911, but instead phones his wife, followed by Erika

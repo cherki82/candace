@@ -21,7 +21,7 @@ veracity: "true"
 
 ## About
 
-- [Tony Graf](/entities/person-tony-graf.md) (person)
+- [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md) (person)
 
 ## Source
 

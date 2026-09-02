@@ -1,6 +1,6 @@
 ---
 title: "Rob McCoy"
-description: "Rob McCoy (People) - 179 mentions"
+description: "Rob McCoy (People) - 183 mentions"
 id: "person-rob-mccoy"
 type: "PERSON"
 aliases:
@@ -25,11 +25,11 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-rob-mccoy-t-00-56-03">2025-09-17 · 00:56:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-person-rob-mccoy-t-00-54-01">2026-08-11 · 00:54:18</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>179</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-rob-mccoy-t-00-19-47">2026-09-01 · 00:20:05</a></strong></div>
+<div><span>Episodes</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>183</strong></div>
 <div><span>Statements by</span><strong>15</strong></div>
-<div><span>Statements about</span><strong>41</strong></div>
+<div><span>Statements about</span><strong>42</strong></div>
 <div><span>Relationships</span><strong>62</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -84,6 +84,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-rob-mccoy-t-00-15-37" style="--pulse-height:18%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-rob-mccoy-t-00-45-30" style="--pulse-height:9%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-person-rob-mccoy-t-00-54-01" style="--pulse-height:18%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 2 mentions" title="2026-08-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-rob-mccoy-t-00-04-27" style="--pulse-height:36%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -135,6 +136,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-rob-mccoy-t-00-15-37) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-rob-mccoy-t-00-45-30) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-rob-mccoy-t-00-54-01) | 2 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-rob-mccoy-t-00-04-27) | 4 |
 
 </details>
 </section>
@@ -146,7 +148,24 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (179)</strong></summary>
+<summary><strong class="section-title">Raw mentions (183)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>
+
+**[00:04:54](/episodes/ep-ZkDO-MRLUco.md#ent-person-rob-mccoy-t-00-04-27)**
+> "Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor."
+
+**[00:05:17](/episodes/ep-ZkDO-MRLUco.md#ent-person-rob-mccoy-t-00-05-10)**
+> "Rob McCoy told that story. It turns out, though, that Rob M..."
+
+**[00:07:03](/episodes/ep-ZkDO-MRLUco.md#ent-person-rob-mccoy-t-00-06-52)**
+> "...Calvary Chapel churches, like Rob McCoy's church in Thousand Oaks, are the billionaire Wilk..."
+
+**[00:20:05](/episodes/ep-ZkDO-MRLUco.md#ent-person-rob-mccoy-t-00-19-47)**
+> "...might fit with when he called Rob McCoy."
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2 mentions)</summary>
@@ -1098,7 +1117,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <summary>Parent Of (1)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:12](/episodes/ep-c5BcKF91iec.md#t-00-07-38): “It's a video of, of course, Pastor Rob McCoy's son.”
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-16-25): “Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie”
@@ -1110,6 +1129,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:00](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “his father, Rob McCoy”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:06](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “Pastor Rob McCoy, Mikey McCoy's daddy.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37): “He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 
 </details>
 
@@ -1148,9 +1168,10 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 - **[Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:14:33](/episodes/ep-Qfwr08Ebczo.md#t-00-14-05): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 
 </details>
 
@@ -1189,7 +1210,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 </details>
 
-- **[Turning Point Faith](/entities/org-turning-point-faith.md)**
+- **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [A Legal Turning Point? | Candace Ep 292 @ 00:35:18](/episodes/ep-NIEbqsLAK8g.md#t-00-35-11): “Pastor Rob McCoy, the leader of Turning Point Faith”
@@ -1223,7 +1244,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#t-00-34-30): “He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk)."”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#t-00-38-18): “he immediately calls his dad. He calls Rob McCoy.”
@@ -1237,6 +1258,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:00](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “his father, Rob McCoy”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:06](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “Pastor Rob McCoy, Mikey McCoy's daddy.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37): “He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 
 </details>
 
@@ -1289,7 +1311,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 </details>
 
-- **[Turning Point Faith](/entities/org-turning-point-faith.md)** employs this
+- **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [A Legal Turning Point? | Candace Ep 292 @ 00:35:18](/episodes/ep-NIEbqsLAK8g.md#t-00-35-11): “Pastor Rob McCoy, the leader of Turning Point Faith”
@@ -1384,9 +1406,10 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 - **[Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)** has pastor this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:14:33](/episodes/ep-Qfwr08Ebczo.md#t-00-14-05): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 
 </details>
 
@@ -1533,7 +1556,15 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rob McCoy (41)</strong></summary>
+<summary><strong class="section-title">Statements about Rob McCoy (42)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:19:26](/episodes/ep-ZkDO-MRLUco.md#t-00-19-05) (Opinion) **Candace Owens**: ["Owens said it seemed implausible that Michael McCoy called Jack Hibbs ..."](/statements/statement-d5d1bb4d8560.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Jack Hibbs](/entities/person-jack-hibbs.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
@@ -1592,7 +1623,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2)</summary>
 
 - [00:58:25](/episodes/ep-wcD2khO3rOA.md#t-00-57-44) (Claim) **Candace Owens**: ["Owens said Turning Point Faith held a pastor summit led by Rob McCoy a..."](/statements/statement-1b0c9fa3365f.md)
-  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Sean Feucht](/entities/person-sean-feucht.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Sean Feucht](/entities/person-sean-feucht.md)
 
 - [01:23:18](/episodes/ep-wcD2khO3rOA.md#t-01-22-35) (Claim) **Candace Owens**: ["Farris and Dan Wilks fund PragerU, The Daily Wire, megachurches, and R..."](/statements/statement-ef9d6dc77953.md)
   - Also about: [Farris Wilks](/entities/person-farris-wilks.md), [Dan Wilks](/entities/person-dan-wilks.md), [PragerU](/entities/org-prageru.md)

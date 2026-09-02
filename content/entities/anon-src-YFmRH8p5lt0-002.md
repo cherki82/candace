@@ -1,23 +1,24 @@
 ---
 title: "Melissa / Village Crazy Lady (online handle; identity unverified)"
-description: "Melissa / Village Crazy Lady (online handle; identity unverified) (Anonymous Sources) - 13 mentions"
+description: "Melissa / Village Crazy Lady (online handle; identity unverified) (Anonymous Sources) - 14 mentions"
 id: "anon-src-YFmRH8p5lt0-002"
 type: "ANONYMOUS_SOURCE"
 aliases:
   - "Mel"
   - "Village Crazy Lady"
   - "Melissa (Village Crazy Lady)"
+  - "Village Crazy Lady (social-media handle; identity unverified)"
 ---
 
 _Type: Anonymous Sources_
 
-**Also known as:** Mel, Village Crazy Lady, Melissa (Village Crazy Lady)
+**Also known as:** Mel, Village Crazy Lady, Melissa (Village Crazy Lady), Village Crazy Lady (social-media handle; identity unverified)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-anon-src-YFmRH8p5lt0-002-t-00-50-15">2025-09-16 · 00:50:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-anon-src-YFmRH8p5lt0-002-t-00-51-47">2025-12-09 · 00:52:25</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-anon-src-YFmRH8p5lt0-002-t-00-05-02">2026-08-11 · 00:05:02</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -34,6 +35,7 @@ _Type: Anonymous Sources_
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-anon-src-YFmRH8p5lt0-002-t-00-21-02" style="--pulse-height:20%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-anon-src-YFmRH8p5lt0-002-t-00-20-48" style="--pulse-height:20%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-anon-src-YFmRH8p5lt0-002-t-00-51-47" style="--pulse-height:20%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-anon-src-YFmRH8p5lt0-002-t-00-05-02" style="--pulse-height:20%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +47,7 @@ _Type: Anonymous Sources_
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-anon-src-YFmRH8p5lt0-002-t-00-21-02) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-anon-src-YFmRH8p5lt0-002-t-00-20-48) | 1 |
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-anon-src-YFmRH8p5lt0-002-t-00-51-47) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-anon-src-YFmRH8p5lt0-002-t-00-05-02) | 1 |
 
 </details>
 </section>
@@ -52,7 +55,15 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:05:02](/episodes/ep-HGtMfbePDKk.md#ent-anon-src-YFmRH8p5lt0-002-t-00-05-02)**
+> "responding to village crazy lady"
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>

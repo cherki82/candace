@@ -17,7 +17,7 @@ time: "18:00"
 
 > Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi.
 
-## Mentioned In (6 times)
+## Mentioned In (7 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -66,3 +66,11 @@ time: "18:00"
 <a href="https://www.youtube.com/watch?v=2Riv3I7D0Yk&t=1289s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > We had a Zoom call: a friend of mine, him, a couple of his producers. It was a small call.
+
+### 7. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
+
+**Episode:** [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md)
+**Timestamp:** [00:13:07](/episodes/ep-ZkDO-MRLUco.md#event-event-2025-09-09-josh-hammer-said-charlie-kirk-held-a-zoo-t-00-12-57) 
+<a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=787s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> So he was asking for debate tips from people like Josh Hammer and rabbis that are based in Israel.

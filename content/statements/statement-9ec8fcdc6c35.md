@@ -22,7 +22,7 @@ veracity: "mixed"
 ## About
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [Department of Government Efficiency](/entities/org-department-of-government-efficiency.md) (org)
+- [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md) (concept)
 
 ## Source
 

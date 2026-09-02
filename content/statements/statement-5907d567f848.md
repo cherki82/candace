@@ -20,7 +20,7 @@ type: "accusation"
 
 ## About
 
-- [Me Too](/entities/concept-me-too.md) (concept)
+- [Me Too movement](/entities/concept-me-too-movement.md) (concept)
 
 ## Source
 

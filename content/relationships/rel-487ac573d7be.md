@@ -11,7 +11,7 @@ object: "person-stacy-sheridan"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) employs [Stacy Sheridan](/entities/person-stacy-sheridan)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
 
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
@@ -24,6 +24,10 @@ object: "person-stacy-sheridan"
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 
 - [00:21:03](/episodes/ep-Wjul6YV6izo#t-00-21-03): _they would have known everything about you that's how they work before everyone is seated stacy sheridan's job literally is to know everything about that person their net worth she she'll know your dad's net worth your mom's net worth she would tell charlie she whispered in charlie's ear that person and then charlie would go have the conversation that was the whole reason they brought her on that's what stacy's brilliant at_
+
+**[BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco)**
+
+- [00:03:28](/episodes/ep-ZkDO-MRLUco#t-00-03-28): _Mama Stacy (Stacy Sheridan) is always there, head of Turning Point USA donations and gifts, always there. Tracy Martin, I'm counting that as dad._
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 

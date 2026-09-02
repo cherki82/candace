@@ -323,7 +323,7 @@ _No relationships extracted yet._
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
 
 - [00:31:27](/episodes/ep-CMcktj3Egfo.md#t-00-31-08) (Accusation) **Candace Owens**: ["Candace Owens said the Unification movement was likely a CIA operation..."](/statements/statement-9c4ef026c214.md)
-  - Also about: [Unification Church](/entities/org-unification-church.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Turning Point Faith](/entities/org-turning-point-faith.md)
+  - Also about: [Unification Church](/entities/org-unification-church.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 
 </details>
 

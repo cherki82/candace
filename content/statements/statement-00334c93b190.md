@@ -23,7 +23,7 @@ veracity: "mixed"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Shaped charge](/entities/concept-shaped-charge.md) (concept)
-- [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md) (org)
+- [Losee Center](/entities/org-losee-center.md) (org)
 
 ## Source
 

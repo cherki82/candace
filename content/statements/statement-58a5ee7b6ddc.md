@@ -4,10 +4,9 @@ description: "\"Candace Owens believes it is plausible that the screwdriver foun
 statement_id: "statement-58a5ee7b6ddc"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -44,22 +43,8 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The source episode directly records Owens expressing the planting belief, and hearing testimony/reporting supports the factual premise that the relevant officer's body-camera recording failed or was missing. This verifies the belief and its stated premise, not that planting actually occurred.
-
-**Confidence:** High
-
-**Sources:**
-
-- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](https://www.youtube.com/watch?v=nPhCKwJ6ye8)
-- [Utah v. Tyler Robinson Preliminary Hearing — Day 1 Transcript](https://www.rev.com/transcripts/ut-v-tyler-robinson---day-1)
-
-*Verified: 2026-08-16T14:38:05.955798*
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

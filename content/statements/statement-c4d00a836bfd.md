@@ -1,8 +1,8 @@
 ---
 title: "Terrell Farnsworth reportedly told Owens that he removed the..."
-description: "\"Terrell Farnsworth reportedly told Owens that he removed the cameras because he did not want Erika Kirk to relive another angle of Charlie Kirk dying.\" — Terrell Farnsworth"
+description: "\"Terrell Farnsworth reportedly told Owens that he removed the cameras because he did not want Erika Kirk to relive another angle of Charlie Kirk dying.\" — Terryl Farnsworth"
 statement_id: "statement-c4d00a836bfd"
-speaker: "Terrell Farnsworth"
+speaker: "Terryl Farnsworth"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (Quoted)
+**Speaker:** [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (Quoted)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
@@ -22,7 +22,7 @@ type: "factual_claim"
 
 ## About
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 

@@ -68,7 +68,7 @@ _Type: Anonymous Sources_
 <details>
 <summary>Criticized (1)</summary>
 
-- **[Terrell Farnsworth](/entities/person-terrell-farnsworth.md)**
+- **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:10:17](/episodes/ep-4JxgOclKzqg.md#t-00-10-17): “In this footage that Terrell (Terrell Farnsworth) has selectively shared with Candace (Candace Owens), we can't see the ground where Charlie (Charlie Kirk) had been sitting.”
@@ -80,7 +80,7 @@ _Type: Anonymous Sources_
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Terrell Farnsworth](/entities/person-terrell-farnsworth.md)** criticized by this
+- **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:10:17](/episodes/ep-4JxgOclKzqg.md#t-00-10-17): “In this footage that Terrell (Terrell Farnsworth) has selectively shared with Candace (Candace Owens), we can't see the ground where Charlie (Charlie Kirk) had been sitting.”
@@ -98,10 +98,10 @@ _Type: Anonymous Sources_
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2)</summary>
 
 - [00:10:59](/episodes/ep-4JxgOclKzqg.md#t-00-10-59) [✓] (Claim) ["Nissy said the rear camera was normally used as a wide-angle camera, but the gro..."](/statements/statement-67831155db51.md)
-  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:11:10](/episodes/ep-4JxgOclKzqg.md#t-00-10-59) [✓] (Opinion) ["Nissy said either the UVU camera setup had been changed and zoomed in that day, ..."](/statements/statement-297d1715cc68.md)
-  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

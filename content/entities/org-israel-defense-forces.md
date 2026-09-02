@@ -1,6 +1,6 @@
 ---
 title: "Israel Defense Forces"
-description: "Israel Defense Forces (Organizations) - 69 mentions"
+description: "Israel Defense Forces (Organizations) - 68 mentions"
 id: "org-israel-defense-forces"
 type: "ORG"
 aliases:
@@ -28,45 +28,45 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-israel-defense-forces-t-01-02-48">2025-09-15 · 01:03:26</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-israel-defense-forces-t-01-01-38">2026-07-23 · 01:01:45</a></strong></div>
 <div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>69</strong></div>
+<div><span>Mentions</span><strong>68</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>25</strong></div>
+<div><span>Statements about</span><strong>26</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-07-48">LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341</a> (13 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-07-48">LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341</a> (12 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-israel-defense-forces-t-01-02-48" style="--pulse-height:15%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-israel-defense-forces-t-01-02-48" style="--pulse-height:17%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-org-israel-defense-forces-t-00-08-02" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-israel-defense-forces-t-00-44-02" style="--pulse-height:23%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-israel-defense-forces-t-00-44-02" style="--pulse-height:25%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-org-israel-defense-forces-t-00-50-57" style="--pulse-height:8%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-israel-defense-forces-t-00-32-16" style="--pulse-height:8%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-israel-defense-forces-t-00-20-40" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-israel-defense-forces-t-00-49-54" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-israel-defense-forces-t-00-40-41" style="--pulse-height:15%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-israel-defense-forces-t-00-41-34" style="--pulse-height:15%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-israel-defense-forces-t-00-40-41" style="--pulse-height:17%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-israel-defense-forces-t-00-41-34" style="--pulse-height:17%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-israel-defense-forces-t-00-15-32" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-israel-defense-forces-t-00-03-53" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-56" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-00-45-42" style="--pulse-height:38%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-00-45-42" style="--pulse-height:42%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-israel-defense-forces-t-00-53-53" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-israel-defense-forces-t-00-37-50" style="--pulse-height:15%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-israel-defense-forces-t-00-37-50" style="--pulse-height:17%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-israel-defense-forces-t-00-11-11" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-israel-defense-forces-t-00-25-03" style="--pulse-height:15%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-33-38" style="--pulse-height:23%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 3 mentions" title="2026-04-14 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-29-07" style="--pulse-height:54%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 7 mentions" title="2026-04-16 · 7 mentions"><span></span></a>
-<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-israel-defense-forces-t-00-03-25" style="--pulse-height:38%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 5 mentions" title="2026-04-22 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-israel-defense-forces-t-00-03-42" style="--pulse-height:31%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-07-48" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 13 mentions" title="2026-05-19 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-israel-defense-forces-t-00-25-03" style="--pulse-height:17%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-33-38" style="--pulse-height:25%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 3 mentions" title="2026-04-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-29-07" style="--pulse-height:58%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 7 mentions" title="2026-04-16 · 7 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-israel-defense-forces-t-00-03-25" style="--pulse-height:42%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 5 mentions" title="2026-04-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-israel-defense-forces-t-00-03-42" style="--pulse-height:33%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-07-48" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 12 mentions" title="2026-05-19 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-israel-defense-forces-t-01-16-23" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-israel-defense-forces-t-00-19-12" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-israel-defense-forces-t-01-07-07" style="--pulse-height:15%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-israel-defense-forces-t-01-07-07" style="--pulse-height:17%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-israel-defense-forces-t-00-48-58" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-amqTMimDr0A.md#ent-org-israel-defense-forces-t-00-17-31" style="--pulse-height:15%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-israel-defense-forces-t-00-17-31" style="--pulse-height:17%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -94,7 +94,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-29-07) | 7 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-israel-defense-forces-t-00-03-25) | 5 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-israel-defense-forces-t-00-03-42) | 4 |
-| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-07-48) | 13 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-07-48) | 12 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-israel-defense-forces-t-01-16-23) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-israel-defense-forces-t-00-19-12) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-israel-defense-forces-t-01-07-07) | 2 |
@@ -111,7 +111,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+<summary><strong class="section-title">Raw mentions (68)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -160,16 +160,13 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details>
-<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (13 mentions)</summary>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (12 mentions)</summary>
 
 **[00:08:10](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-07-48)**
 > "...l operating community and the IDF, they took us in the places no one could go and t..."
 
 **[00:09:15](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-09-01)**
 > "...o some deals on behalf of the IDF. He never said those deals were illegal, just tha..."
-
-**[00:09:27](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-09-01)**
-> "...ng to buy 50,000 guns for the IDF. We'll ask Victor Marx about that."
 
 **[00:09:27](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-09-01)**
 > "...ng to buy 50,000 guns for the IDF. We'll ask Victor Marx about that."
@@ -632,7 +629,15 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel Defense Forces (25)</strong></summary>
+<summary><strong class="section-title">Statements about Israel Defense Forces (26)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
+
+- [00:17:31](/episodes/ep-amqTMimDr0A.md#t-00-17-31) (Claim) **Candace Owens**: ["Owens said Ben Shapiro's security team consisted of former Israeli IDF..."](/statements/statement-90ab97f260a0.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>

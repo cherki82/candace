@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth McCoy"
-description: "Elizabeth McCoy (People) - 33 mentions"
+description: "Elizabeth McCoy (People) - 34 mentions"
 id: "person-elizabeth-mccoy"
 type: "PERSON"
 aliases:
@@ -25,11 +25,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-elizabeth-mccoy-t-00-10-40">2025-11-04 · 00:10:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-elizabeth-mccoy-t-00-16-30">2026-07-30 · 00:16:40</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-elizabeth-mccoy-t-00-19-47">2026-09-01 · 00:19:47</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -60,6 +60,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-elizabeth-mccoy-t-00-23-21" style="--pulse-height:25%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-elizabeth-mccoy-t-00-12-46" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-elizabeth-mccoy-t-00-14-42" style="--pulse-height:50%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 2 mentions" title="2026-07-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-elizabeth-mccoy-t-00-19-47" style="--pulse-height:25%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +88,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-elizabeth-mccoy-t-00-23-21) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-elizabeth-mccoy-t-00-12-46) | 2 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-elizabeth-mccoy-t-00-14-42) | 2 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-elizabeth-mccoy-t-00-19-47) | 1 |
 
 </details>
 </section>
@@ -98,7 +100,15 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:19:47](/episodes/ep-ZkDO-MRLUco.md#ent-person-elizabeth-mccoy-t-00-19-47)**
+> "He was on the phone from 1224 all the way through to 1244 with Elizabeth McCoy, with Erika (Erika Kirk), with his father, and then with Danny Philip for 10 minutes. I mean, the only way it could be true that Mikey (Michael McCoy) called him before 1230."
+
+</details>
 
 <details>
 <summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (2 mentions)</summary>
@@ -331,7 +341,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Married To (1)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:46](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “potentially more amazing than her husband Michael McCoy.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:14:00](/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26): “they believe Andrew (Andrew Kolvet) was accompanied by Mikey McCoy (Michael McCoy) and his wife Elizabeth.”
@@ -343,6 +353,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:18:58](/episodes/ep-a-e7HC6SeK8.md#t-00-18-23): “We've got Mikey McCoy and his wife, Eliza, that join them for the first time.”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:10:59](/episodes/ep-Qfwr08Ebczo.md#t-00-10-40): “just a few weeks before Charlie Kirk died, Mikey McCoy and his wife, Eliza, for the very first time”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:27:08](/episodes/ep-es7PWdFGoFI.md#t-00-26-36): “Actually, the first person he called was his wife. He called Elizabeth McCoy. And then he stayed on the phone with his wife for 10 minutes.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor. ... He was on the phone from 1224 all the way through to 1244 with Elizabeth McCoy, with Erika (Erika Kirk), with his father, and then with Danny Philip for 10 minutes. I mean, the only way it could be true that Mikey (Michael McCoy) called him before 1230.”
 
 </details>
 
@@ -377,7 +388,15 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Elizabeth McCoy (13)</strong></summary>
+<summary><strong class="section-title">Statements about Elizabeth McCoy (14)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:19:26](/episodes/ep-ZkDO-MRLUco.md#t-00-19-05) (Opinion) **Candace Owens**: ["Owens said it seemed implausible that Michael McCoy called Jack Hibbs ..."](/statements/statement-d5d1bb4d8560.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Jack Hibbs](/entities/person-jack-hibbs.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1)</summary>

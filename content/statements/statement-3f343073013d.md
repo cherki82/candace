@@ -1,6 +1,6 @@
 ---
-title: "Owens said an unspecified source claimed Terrell Farnsworth ..."
-description: "\"Owens said an unspecified source claimed Terrell Farnsworth removed SD cards because people were stealing hats, but she disputed that account\" — Candace Owens"
+title: "Owens said Andrew Kolvet publicly claimed Farnsworth removed..."
+description: "\"Owens said Andrew Kolvet publicly claimed Farnsworth removed the footage because people might steal hats, but she disputed that account.\" — Candace Owens"
 statement_id: "statement-3f343073013d"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Owens said an unspecified source claimed Terrell Farnsworth removed SD cards because people were stealing hats, but she disputed that account
+> Owens said Andrew Kolvet publicly claimed Farnsworth removed the footage because people might steal hats, but she disputed that account.
 
 ## Attribution
 
@@ -21,7 +21,8 @@ veracity: "mixed"
 
 ## About
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) (person)
 
 ## Appearances (2)
 

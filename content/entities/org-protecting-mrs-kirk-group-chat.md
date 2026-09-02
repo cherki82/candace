@@ -28,8 +28,8 @@ Source: [Cease-and-desist letter to Candace Owens over Protecting Mrs Kirk chat 
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>20</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -48,6 +48,10 @@ Source: [Cease-and-desist letter to Candace Owens over Protecting Mrs Kirk chat 
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -88,7 +92,7 @@ Source: [Cease-and-desist letter to Candace Owens over Protecting Mrs Kirk chat 
 </details>
 
 <details>
-<summary>Has Member (9)</summary>
+<summary>Has Member (7)</summary>
 
 - **[Shady Lady Katie (X user; identity unverified)](/entities/anon-src-ChuWo-n49B8-shady-lady-katie.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -98,7 +102,7 @@ Source: [Cease-and-desist letter to Candace Owens over Protecting Mrs Kirk chat 
 
 </details>
 
-- **[Milk Bar TV (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-milk-bar-tv.md)**
+- **[Nathan Livingstone](/entities/person-nathan-livingstone.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:19:57](/episodes/ep-ChuWo-n49B8.md#t-00-19-44): “And she exposed 92 members in this group chat, which has the name Protecting Mrs. Kirk. technically mrs kirk and now some of these names are not we know this is their full i've blocked them because it's just their full it's obvious it's their full-time job to attack me milk bar tv no soup for knolls paramount not so tactical brie dale fake catholic insurrection barbie you know just block block block block block block block it's not even worth my worth my time like it's just the most obvious operation in the world nice to see it”
@@ -106,16 +110,18 @@ Source: [Cease-and-desist letter to Candace Owens over Protecting Mrs Kirk chat 
 </details>
 
 - **[No Soup for Knolls (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-no-soup-for-knolls.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:19:57](/episodes/ep-ChuWo-n49B8.md#t-00-19-44): “And she exposed 92 members in this group chat, which has the name Protecting Mrs. Kirk. technically mrs kirk and now some of these names are not we know this is their full i've blocked them because it's just their full it's obvious it's their full-time job to attack me milk bar tv no soup for knolls paramount not so tactical brie dale fake catholic insurrection barbie you know just block block block block block block block it's not even worth my worth my time like it's just the most obvious operation in the world nice to see it”
+- [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:32:25](/episodes/ep-5zgkrOaCCj4.md#t-00-32-00): “People perpetuating the lies about my husband. OK, remember back in April, she was a part of that group. She's in this group of 90 people and she gets exposed as Britta Widener, who got a DUI last year. It is a tragic DUI photo.”
 
 </details>
 
 - **[Paramount Not So Tactical (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-paramount-not-so-tactical.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:19:57](/episodes/ep-ChuWo-n49B8.md#t-00-19-44): “And she exposed 92 members in this group chat, which has the name Protecting Mrs. Kirk. technically mrs kirk and now some of these names are not we know this is their full i've blocked them because it's just their full it's obvious it's their full-time job to attack me milk bar tv no soup for knolls paramount not so tactical brie dale fake catholic insurrection barbie you know just block block block block block block block it's not even worth my worth my time like it's just the most obvious operation in the world nice to see it”
+- [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:35:05](/episodes/ep-5zgkrOaCCj4.md#t-00-35-05): “group chat and so this will be a beginning not an end i'm going to keep an eye on this protecting Mrs. Erika Kirk group chat it's getting and of course like Paramount Nasa Tactile (group-chat handle; spelling unverified) is the only virtually the only male that's in that group which is hilarious anyway um also want to give you guys an update really quickly on the Andrew Wilson stuff i mean i kind of gave you the update at top of show we are trying to figure this out is all i could say i have had no new demands since the public negotiation that he”
 
 </details>
 
@@ -140,24 +146,10 @@ Source: [Cease-and-desist letter to Candace Owens over Protecting Mrs Kirk chat 
 
 </details>
 
-- **[Anonymous Source #1 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-001.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:32:25](/episodes/ep-5zgkrOaCCj4.md#t-00-32-00): “People perpetuating the lies about my husband. OK, remember back in April, she was a part of that group. She's in this group of 90 people and she gets exposed as Britta Widener, who got a DUI last year. It is a tragic DUI photo.”
-
-</details>
-
-- **[Anonymous Source #2 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-002.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:35:05](/episodes/ep-5zgkrOaCCj4.md#t-00-35-05): “group chat and so this will be a beginning not an end i'm going to keep an eye on this protecting Mrs. Erika Kirk group chat it's getting and of course like Paramount Nasa Tactile (group-chat handle; spelling unverified) is the only virtually the only male that's in that group which is hilarious anyway um also want to give you guys an update really quickly on the Andrew Wilson stuff i mean i kind of gave you the update at top of show we are trying to figure this out is all i could say i have had no new demands since the public negotiation that he”
-
-</details>
-
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Anonymous Source #5 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-005.md)** formerly member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -174,7 +166,7 @@ Source: [Cease-and-desist letter to Candace Owens over Protecting Mrs Kirk chat 
 
 </details>
 
-- **[Milk Bar TV (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-milk-bar-tv.md)** member of this
+- **[Nathan Livingstone](/entities/person-nathan-livingstone.md)** member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:19:57](/episodes/ep-ChuWo-n49B8.md#t-00-19-44): “And she exposed 92 members in this group chat, which has the name Protecting Mrs. Kirk. technically mrs kirk and now some of these names are not we know this is their full i've blocked them because it's just their full it's obvious it's their full-time job to attack me milk bar tv no soup for knolls paramount not so tactical brie dale fake catholic insurrection barbie you know just block block block block block block block it's not even worth my worth my time like it's just the most obvious operation in the world nice to see it”
@@ -182,16 +174,18 @@ Source: [Cease-and-desist letter to Candace Owens over Protecting Mrs Kirk chat 
 </details>
 
 - **[No Soup for Knolls (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-no-soup-for-knolls.md)** member of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:19:57](/episodes/ep-ChuWo-n49B8.md#t-00-19-44): “And she exposed 92 members in this group chat, which has the name Protecting Mrs. Kirk. technically mrs kirk and now some of these names are not we know this is their full i've blocked them because it's just their full it's obvious it's their full-time job to attack me milk bar tv no soup for knolls paramount not so tactical brie dale fake catholic insurrection barbie you know just block block block block block block block it's not even worth my worth my time like it's just the most obvious operation in the world nice to see it”
+- [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:32:25](/episodes/ep-5zgkrOaCCj4.md#t-00-32-00): “People perpetuating the lies about my husband. OK, remember back in April, she was a part of that group. She's in this group of 90 people and she gets exposed as Britta Widener, who got a DUI last year. It is a tragic DUI photo.”
 
 </details>
 
 - **[Paramount Not So Tactical (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-paramount-not-so-tactical.md)** member of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:19:57](/episodes/ep-ChuWo-n49B8.md#t-00-19-44): “And she exposed 92 members in this group chat, which has the name Protecting Mrs. Kirk. technically mrs kirk and now some of these names are not we know this is their full i've blocked them because it's just their full it's obvious it's their full-time job to attack me milk bar tv no soup for knolls paramount not so tactical brie dale fake catholic insurrection barbie you know just block block block block block block block it's not even worth my worth my time like it's just the most obvious operation in the world nice to see it”
+- [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:35:05](/episodes/ep-5zgkrOaCCj4.md#t-00-35-05): “group chat and so this will be a beginning not an end i'm going to keep an eye on this protecting Mrs. Erika Kirk group chat it's getting and of course like Paramount Nasa Tactile (group-chat handle; spelling unverified) is the only virtually the only male that's in that group which is hilarious anyway um also want to give you guys an update really quickly on the Andrew Wilson stuff i mean i kind of gave you the update at top of show we are trying to figure this out is all i could say i have had no new demands since the public negotiation that he”
 
 </details>
 
@@ -216,20 +210,6 @@ Source: [Cease-and-desist letter to Candace Owens over Protecting Mrs Kirk chat 
 
 </details>
 
-- **[Anonymous Source #1 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-001.md)** member of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:32:25](/episodes/ep-5zgkrOaCCj4.md#t-00-32-00): “People perpetuating the lies about my husband. OK, remember back in April, she was a part of that group. She's in this group of 90 people and she gets exposed as Britta Widener, who got a DUI last year. It is a tragic DUI photo.”
-
-</details>
-
-- **[Anonymous Source #2 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-002.md)** member of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:35:05](/episodes/ep-5zgkrOaCCj4.md#t-00-35-05): “group chat and so this will be a beginning not an end i'm going to keep an eye on this protecting Mrs. Erika Kirk group chat it's getting and of course like Paramount Nasa Tactile (group-chat handle; spelling unverified) is the only virtually the only male that's in that group which is hilarious anyway um also want to give you guys an update really quickly on the Andrew Wilson stuff i mean i kind of gave you the update at top of show we are trying to figure this out is all i could say i have had no new demands since the public negotiation that he”
-
-</details>
-
 </details>
 
 </details>
@@ -240,7 +220,7 @@ Source: [Cease-and-desist letter to Candace Owens over Protecting Mrs Kirk chat 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (2)</summary>
 
-- [00:28:44](/episodes/ep-5zgkrOaCCj4.md#t-00-28-44) (Opinion) **Anonymous Source #5 (Ep 5zgkrOaCCj4)** (via read message): ["A former participant told Owens that the Protecting Mrs. Kirk group ch..."](/statements/statement-c3430f4afca2.md)
+- [00:28:44](/episodes/ep-5zgkrOaCCj4.md#t-00-28-44) (Opinion) **Candace Owens**: ["Owens said a former participant told her the Protecting Mrs. Kirk grou..."](/statements/statement-c3430f4afca2.md)
 
 - [00:30:18](/episodes/ep-5zgkrOaCCj4.md#t-00-29-53) (Accusation) **Candace Owens**: ["Owens alleged that a 92-member Protecting Mrs. Kirk group chat was see..."](/statements/statement-1705d66d3700.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)

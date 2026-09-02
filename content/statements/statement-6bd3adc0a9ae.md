@@ -23,7 +23,7 @@ type: "factual_claim"
 
 - [Utah Valley University](/entities/org-utah-valley-university.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 
 ## Source
 

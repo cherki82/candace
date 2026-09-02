@@ -1,26 +1,31 @@
 ---
 title: "Spencer Turek"
-description: "Spencer Turek (People) - 3 mentions"
+description: "Spencer Turek (People) - 4 mentions"
 id: "person-spencer-turek"
 type: "PERSON"
+aliases:
+  - "Spencer Turek (son of Frank Turek; identity unverified)"
 categories:
   - "United States Air Force"
   - "military aviation"
+  - "United States Air Force veteran"
 ---
 
 _Type: People_
 
-**Categories:** United States Air Force, military aviation
+**Also known as:** Spencer Turek (son of Frank Turek; identity unverified)
+
+**Categories:** United States Air Force, military aviation, United States Air Force veteran
 
 **Entity verification:** verified
 > Official U.S. Air Force material identifies Capt. Spencer Turek as a KC-10 pilot, corroborating the canonical name used in Frank Turek's embedded account.
 Source: [6th ARS provides critical support in Pacific](https://www.travis.af.mil/News/Photos/igphoto/2001933720/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-spencer-turek-t-00-37-30">2026-07-16 · 00:37:38</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#t-00-19-13">2026-01-09 · 00:19:56</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-spencer-turek-t-00-38-49">2026-07-16 · 00:39:24</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -31,12 +36,14 @@ Source: [6th ARS provides critical support in Pacific](https://www.travis.af.mil
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-spencer-turek-t-00-37-30">COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#t-00-19-13" style="--pulse-height:33%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-spencer-turek-t-00-37-30" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#t-00-19-13) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-spencer-turek-t-00-37-30) | 3 |
 
 </details>
@@ -49,7 +56,7 @@ Source: [6th ARS provides critical support in Pacific](https://www.travis.af.mil
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
@@ -62,6 +69,14 @@ Source: [6th ARS provides critical support in Pacific](https://www.travis.af.mil
 
 **[00:39:24](/episodes/ep-mLvJqdxS-FY.md#ent-person-spencer-turek-t-00-38-49)**
 > "...e I said, why didn't Spencer (Spencer Turek) Air Force hang up? Call his brother. Call someon..."
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
+
+**[00:19:56](/episodes/ep-wcD2khO3rOA.md#t-00-19-13)**
+> "Spencer is an Air Force vet."
 
 </details>
 

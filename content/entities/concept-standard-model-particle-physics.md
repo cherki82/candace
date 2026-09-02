@@ -75,7 +75,7 @@ _No relationships extracted yet._
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1)</summary>
 
-- [00:33:06](/episodes/ep-BKcOm32ZEGk.md#t-00-33-05) (Claim) **Mark from Candace's production team (surname unidentified)**: ["CERN was established in 1954 to research particle physics."](/statements/statement-ff8117248e4a.md)
+- [00:33:06](/episodes/ep-BKcOm32ZEGk.md#t-00-33-05) (Claim) **Mark (Candace show producer; surname unverified)**: ["CERN was established in 1954 to research particle physics."](/statements/statement-ff8117248e4a.md)
   - Also about: [CERN](/entities/org-cern.md)
 
 </details>

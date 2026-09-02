@@ -158,7 +158,7 @@ Source: [Lawsuits accuse former California megachurch pastor of child sex abuse 
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
 - [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) (Accusation) **Candace Owens**: ["Turning Point Faith is partnering with Greg Laurie's Harvest Church wh..."](/statements/statement-6141210a0ed9.md)
-  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)
 
 </details>
 

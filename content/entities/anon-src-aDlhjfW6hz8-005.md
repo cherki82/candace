@@ -1,13 +1,11 @@
 ---
-title: "Turning Point USA employee sources (identities unverified)"
-description: "Turning Point USA employee sources (identities unverified) (Anonymous Sources) - 1 mention"
+title: "Turning Point USA employee sources (Ep 239; identities unverified)"
+description: "Turning Point USA employee sources (Ep 239; identities unverified) (Anonymous Sources) - 1 mention"
 id: "anon-src-aDlhjfW6hz8-005"
 type: "ANONYMOUS_SOURCE"
 ---
 
 _Type: Anonymous Sources_
-
-> **Possibly overlapping entity records:** [Turning Point USA employee sources (identities unverified)](/entities/anon-src-q7f8r-THr84-019). These records share a name or alias; compare their histories before treating either count as complete.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#t-00-30-43">2025-09-19 · 00:30:52</a></strong></div>

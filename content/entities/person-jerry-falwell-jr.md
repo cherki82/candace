@@ -145,7 +145,7 @@ Source: [Dr. Jerry Falwell – Biography | Liberty University](https://www.liber
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
 - [00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36) (Claim) **Candace Owens**: ["Jerry Falwell Jr. and Charlie Kirk established the Falkirk Center, and..."](/statements/statement-b5a582fabd77.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Falkirk Center](/entities/org-falkirk-center.md), [Turning Point Faith](/entities/org-turning-point-faith.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Falkirk Center](/entities/org-falkirk-center.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 
 </details>
 

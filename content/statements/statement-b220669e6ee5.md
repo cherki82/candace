@@ -23,7 +23,7 @@ type: "opinion"
 ## About
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md) (org)
+- [Losee Center](/entities/org-losee-center.md) (org)
 
 ## Source
 

@@ -1,6 +1,6 @@
 ---
 title: "Bill Ackman"
-description: "Bill Ackman (People) - 87 mentions"
+description: "Bill Ackman (People) - 88 mentions"
 id: "person-bill-ackman"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-13-40">2025-09-15 · 00:14:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-bill-ackman-t-00-44-09">2026-08-31 · 00:44:09</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-bill-ackman-t-00-52-57">2026-09-01 · 00:53:08</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>28</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
@@ -65,6 +65,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-bill-ackman-t-00-50-37" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-bill-ackman-t-00-31-46" style="--pulse-height:21%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-bill-ackman-t-00-52-57" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -99,6 +100,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-bill-ackman-t-00-50-37) | 2 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-bill-ackman-t-00-31-46) | 4 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-bill-ackman-t-00-52-57) | 1 |
 
 </details>
 </section>
@@ -110,7 +112,15 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:53:08](/episodes/ep-ZkDO-MRLUco.md#ent-person-bill-ackman-t-00-52-57)**
+> "Where were you, Data Republican (Jennica Pounds), Jennica Pounds, on September 10th? Stop anti-Candacism. Stop your crappy little threads. You could buy one and you could gift one to Bill Ackman. Now, that'd be weird because he has a lot of money, a lot of money to spend."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (4 mentions)</summary>
@@ -539,9 +549,8 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <summary>Criticized (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:01](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45): “Charlie was surrounded by his friends, quote-unquote friends. Bill Ackman was very upset and threats were made.”
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:01](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45): “Charlie was surrounded by his friends, quote-unquote friends. Bill Ackman was very upset and threats were made.”
 
 </details>
@@ -849,7 +858,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
 
 - [00:38:06](/episodes/ep-UBkFkg4UNY8.md#t-00-38-06) (Citation) **Candace Owens**: ["Owens questioned whether Bill Ackman, Robert Shillman, or other large ..."](/statements/statement-9a3b1b4a8e51.md)
-  - Also about: [Robert Shillman](/entities/person-robert-shillman.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Robert J. Shillman](/entities/person-robert-j-shillman.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

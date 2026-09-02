@@ -1,8 +1,8 @@
 ---
-title: "Unnamed family-member and schoolmate sources described Tyler..."
-description: "\"Unnamed family-member and schoolmate sources described Tyler Robinson as quiet and kind, while describing Lance Twiggs as having serious anger and beh...\" — Anonymous Source #24 (Ep d7VsbEIWkP8)"
+title: "Owens characterized unnamed family-member and schoolmate acc..."
+description: "\"Owens characterized unnamed family-member and schoolmate accounts as describing Tyler Robinson as quiet and kind, and Lance Twiggs as having anger and...\" — Candace Owens"
 statement_id: "statement-93a82396e059"
-speaker: "Anonymous Source #24 (Ep d7VsbEIWkP8)"
+speaker: "Candace Owens"
 type: "factual_claim"
 ---
 
@@ -10,15 +10,13 @@ type: "factual_claim"
 
 ## Statement
 
-> Unnamed family-member and schoolmate sources described Tyler Robinson as quiet and kind, while describing Lance Twiggs as having serious anger and behavioral problems that led to his removal from multiple homes.
+> Owens characterized unnamed family-member and schoolmate accounts as describing Tyler Robinson as quiet and kind, and Lance Twiggs as having anger and behavioral problems leading to removal from multiple homes.
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #24 (Ep d7VsbEIWkP8)](/entities/anon-src-d7VsbEIWkP8-024.md) (Anonymous Source)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Read from message
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** Background interviews with family members and schoolmates
+**Delivery:** Paraphrased
 
 ## About
 
@@ -35,8 +33,8 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+_This statement has not yet been verified._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** No
+**Type:** Factual Claim | **Verifiable:** Yes

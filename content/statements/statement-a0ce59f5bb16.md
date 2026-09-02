@@ -22,7 +22,7 @@ type: "factual_claim"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Andrew Kolvet](/entities/person-andrew-kolvet.md) (person)
-- [X](/entities/org-x-platform.md) (org)
+- [Twitter](/entities/org-twitter.md) (org)
 
 ## Source
 

@@ -90,10 +90,10 @@ _No relationships extracted yet._
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2)</summary>
 
-- [00:33:39](/episodes/ep-BKcOm32ZEGk.md#t-00-33-05) (Claim) **Mark from Candace's production team (surname unidentified)**: ["In 1964, a group of scientists including Peter Higgs theorized the Hig..."](/statements/statement-2e772d7237eb.md)
+- [00:33:39](/episodes/ep-BKcOm32ZEGk.md#t-00-33-05) (Claim) **Mark (Candace show producer; surname unverified)**: ["In 1964, a group of scientists including Peter Higgs theorized the Hig..."](/statements/statement-2e772d7237eb.md)
   - Also about: [Peter Higgs](/entities/person-peter-higgs.md)
 
-- [00:33:47](/episodes/ep-BKcOm32ZEGk.md#t-00-33-47) (Claim) **Mark from Candace's production team (surname unidentified)**: ["In 2012, CERN observed a reaction consistent with the Higgs boson theo..."](/statements/statement-9fdba916dcd9.md)
+- [00:33:47](/episodes/ep-BKcOm32ZEGk.md#t-00-33-47) (Claim) **Mark (Candace show producer; surname unverified)**: ["In 2012, CERN observed a reaction consistent with the Higgs boson theo..."](/statements/statement-9fdba916dcd9.md)
   - Also about: [CERN](/entities/org-cern.md), [Peter Higgs](/entities/person-peter-higgs.md)
 
 </details>

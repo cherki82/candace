@@ -1,8 +1,8 @@
 ---
 title: "The eyewitness told Owens the shooter was obviously young be..."
-description: "\"The eyewitness told Owens the shooter was obviously young because he watched the person sprint away after the shot\" — Anonymous Source #1 (Ep UBkFkg4UNY8)"
+description: "\"The eyewitness told Owens the shooter was obviously young because he watched the person sprint away after the shot\" — Anonymous Losee Center Eyewitness"
 statement_id: "statement-df82daead25e"
-speaker: "Anonymous Source #1 (Ep UBkFkg4UNY8)"
+speaker: "Anonymous Losee Center Eyewitness"
 type: "opinion"
 ---
 
@@ -14,7 +14,7 @@ type: "opinion"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #1 (Ep UBkFkg4UNY8)](/entities/anon-src-UBkFkg4UNY8-001.md) (Anonymous Source)
+**Speaker:** [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md) (Anonymous Source)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

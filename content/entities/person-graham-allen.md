@@ -1,6 +1,6 @@
 ---
 title: "Graham Allen"
-description: "Graham Allen (People) - 15 mentions"
+description: "Graham Allen (People) - 17 mentions"
 id: "person-graham-allen"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-graham-allen-t-00-08-03">2026-05-07 · 00:08:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-person-graham-allen-t-00-34-25">2026-08-11 · 00:34:25</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-graham-allen-t-00-42-25">2026-09-01 · 00:42:25</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -40,6 +40,7 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-graham-allen-t-00-13-41" style="--pulse-height:67%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-graham-allen-t-00-53-01" style="--pulse-height:33%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-person-graham-allen-t-00-34-25" style="--pulse-height:33%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-graham-allen-t-00-42-25" style="--pulse-height:67%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-graham-allen-t-00-13-41) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-graham-allen-t-00-53-01) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-graham-allen-t-00-34-25) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-graham-allen-t-00-42-25) | 2 |
 
 </details>
 </section>
@@ -65,7 +67,18 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>
+
+**[00:42:25](/episodes/ep-ZkDO-MRLUco.md#ent-person-graham-allen-t-00-42-25)**
+> "The people that were working for them, even Graham Allen, I told you that he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them. It, to me, signals some sort of a preparation. There would be no reason for the Department of War not to be on our side and wanting to get to the bottom, especially at the helm of the Trump (Donald J. Trump) administration, wanting to get to the bottom of who killed their friend, Charlie Kirk."
+
+**[00:02:47](/episodes/ep-ZkDO-MRLUco.md#ent-person-graham-allen-t-00-02-28)**
+> "No Graham Allen? No Benny Johnson to tell us how overwhelmed we s..."
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -204,16 +217,29 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 <summary>Formerly Worked For (1)</summary>
 
 - **[United States Department of Defense](/entities/org-us-department-of-defense.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:26:30](/episodes/ep-IqHsl7d2dos.md#t-00-26-23): “Did you know what he was doing right before Charlie (Charlie Kirk) died? His official title was senior consultant to the Department of War.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:42:25](/episodes/ep-ZkDO-MRLUco.md#t-00-42-25): “The people that were working for them, even Graham Allen, I told you that he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them. It, to me, signals some sort of a preparation. There would be no reason for the Department of War not to be on our side and wanting to get to the bottom, especially at the helm of the Trump (Donald J. Trump) administration, wanting to get to the bottom of who killed their friend, Charlie Kirk.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Works For (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:42:25](/episodes/ep-ZkDO-MRLUco.md#t-00-42-25): “The people that were working for them, even Graham Allen, I told you that he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them. It, to me, signals some sort of a preparation. There would be no reason for the Department of War not to be on our side and wanting to get to the bottom, especially at the helm of the Trump (Donald J. Trump) administration, wanting to get to the bottom of who killed their friend, Charlie Kirk.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -231,10 +257,18 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 
 </details>
 
-- **[United States Department of Defense](/entities/org-us-department-of-defense.md)** formerly employed this
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:42:25](/episodes/ep-ZkDO-MRLUco.md#t-00-42-25): “The people that were working for them, even Graham Allen, I told you that he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them. It, to me, signals some sort of a preparation. There would be no reason for the Department of War not to be on our side and wanting to get to the bottom, especially at the helm of the Trump (Donald J. Trump) administration, wanting to get to the bottom of who killed their friend, Charlie Kirk.”
+
+</details>
+
+- **[United States Department of Defense](/entities/org-us-department-of-defense.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:26:30](/episodes/ep-IqHsl7d2dos.md#t-00-26-23): “Did you know what he was doing right before Charlie (Charlie Kirk) died? His official title was senior consultant to the Department of War.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:42:25](/episodes/ep-ZkDO-MRLUco.md#t-00-42-25): “The people that were working for them, even Graham Allen, I told you that he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them. It, to me, signals some sort of a preparation. There would be no reason for the Department of War not to be on our side and wanting to get to the bottom, especially at the helm of the Trump (Donald J. Trump) administration, wanting to get to the bottom of who killed their friend, Charlie Kirk.”
 
 </details>
 
@@ -264,7 +298,18 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Graham Allen (4)</strong></summary>
+<summary><strong class="section-title">Statements about Graham Allen (6)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2)</summary>
+
+- [00:02:33](/episodes/ep-ZkDO-MRLUco.md#t-00-02-28) (Claim) **Candace Owens**: ["Owens reported that Erika Kirk, Charlie Kirk’s parents, Stacy Sheridan..."](/statements/statement-efdb1726744e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Tracy Martin](/entities/person-tracy-martin.md)
+
+- [00:42:25](/episodes/ep-ZkDO-MRLUco.md#t-00-42-25) (Opinion) **Candace Owens**: ["Owens said Graham Allen had worked as a Department of War consultant a..."](/statements/statement-0421d4e8876b.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>

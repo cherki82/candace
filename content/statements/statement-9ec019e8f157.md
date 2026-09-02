@@ -3,11 +3,11 @@ title: "Owens said Patrick Bet-David would control debate breaks, sp..."
 description: "\"Owens said Patrick Bet-David would control debate breaks, speaking turns, and producer requests.\" — Candace Owens"
 statement_id: "statement-9ec019e8f157"
 speaker: "Candace Owens"
-type: "factual_claim"
-veracity: "true"
+type: "promise"
+veracity: "mixed"
 ---
 
-**Status:** ✓ True
+**Status:** ◐ Verification recorded — see analysis for scope
 
 ## Statement
 
@@ -40,17 +40,18 @@ veracity: "true"
 
 ### Analysis
 
-Current transcripts record Owens saying PBD would decide breaks and speaking turns and would receive producer requests. The later debate recording confirms Bet-David moderated a program with multiple breaks. This verifies the announced control arrangement; public material does not expose every producer-room communication.
+Classified as a promise about the forthcoming arrangement. The debate opening describes moderator intervention and producer/fact-check participation, and the 2:05 break passage shows Bet-David managing a break. These substantively support public moderation, but do not expose all speaking-turn and producer-control arrangements; full fulfillment is not established.
 
-**Confidence:** High
+**Confidence:** Medium
 
 **Sources:**
 
-- [Candace Owens - Tyler Robinson Debate Moderator Announcement](https://bloodsportdebate.substack.com/p/candace-owens-tyler-robinson-debate)
+- [August 11 moderator announcement transcript](https://bloodsportdebate.substack.com/p/candace-owens-tyler-robinson-debate)
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](https://www.voicerank.app/episodes/6483e3a2-5e4f-4e4d-9fa6-3250955a9e08)
+- [August 14 PBD debate transcript](https://owenswilsondebate.com/transcript)
 
-*Verified: 2026-08-28T08:07:30.121246*
+*Verified: 2026-09-01T17:32:41.766535*
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Promise | **Verifiable:** Yes

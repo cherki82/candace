@@ -153,13 +153,13 @@ _No relationships extracted yet._
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (5)</summary>
 
-- [00:33:06](/episodes/ep-BKcOm32ZEGk.md#t-00-33-05) (Claim) **Mark from Candace's production team (surname unidentified)**: ["CERN was established in 1954 to research particle physics."](/statements/statement-ff8117248e4a.md)
+- [00:33:06](/episodes/ep-BKcOm32ZEGk.md#t-00-33-05) (Claim) **Mark (Candace show producer; surname unverified)**: ["CERN was established in 1954 to research particle physics."](/statements/statement-ff8117248e4a.md)
   - Also about: [Standard Model of particle physics](/entities/concept-standard-model-particle-physics.md)
 
-- [00:33:47](/episodes/ep-BKcOm32ZEGk.md#t-00-33-47) (Claim) **Mark from Candace's production team (surname unidentified)**: ["CERN's Large Hadron Collider is a 17-mile tunnel near Geneva, reaches ..."](/statements/statement-02a85d11e3e2.md)
+- [00:33:47](/episodes/ep-BKcOm32ZEGk.md#t-00-33-47) (Claim) **Mark (Candace show producer; surname unverified)**: ["CERN's Large Hadron Collider is a 17-mile tunnel near Geneva, reaches ..."](/statements/statement-02a85d11e3e2.md)
   - Also about: [Geneva](/entities/gpe-geneva.md), [Switzerland](/entities/gpe-switzerland.md)
 
-- [00:33:47](/episodes/ep-BKcOm32ZEGk.md#t-00-33-47) (Claim) **Mark from Candace's production team (surname unidentified)**: ["In 2012, CERN observed a reaction consistent with the Higgs boson theo..."](/statements/statement-9fdba916dcd9.md)
+- [00:33:47](/episodes/ep-BKcOm32ZEGk.md#t-00-33-47) (Claim) **Mark (Candace show producer; surname unverified)**: ["In 2012, CERN observed a reaction consistent with the Higgs boson theo..."](/statements/statement-9fdba916dcd9.md)
   - Also about: [Higgs boson](/entities/concept-higgs-boson.md), [Peter Higgs](/entities/person-peter-higgs.md)
 
 - [00:36:37](/episodes/ep-BKcOm32ZEGk.md#t-00-36-32) (Citation) **Candace Owens**: ["An article read during the episode reported that a satanic human-sacri..."](/statements/statement-ba91c8450d69.md)

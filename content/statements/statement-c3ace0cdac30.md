@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Anonymous Source #4 (Ep N4uM8Jdr410)](/entities/anon-src-N4uM8Jdr410-004.md) (anonymous_source)
+- [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md) (anonymous_source)
 - [FBI](/entities/org-fbi.md) (org)
 
 ## Source

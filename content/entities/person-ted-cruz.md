@@ -1,6 +1,6 @@
 ---
 title: "Ted Cruz"
-description: "Ted Cruz (People) - 12 mentions"
+description: "Ted Cruz (People) - 13 mentions"
 id: "person-ted-cruz"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [About Ted | Senator Ted Cruz](https://www.cruz.senate.gov/about-ted)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-ted-cruz-t-00-38-09">2025-09-22 · 00:38:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-ted-cruz-t-00-30-41">2026-03-26 · 00:30:41</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-ted-cruz-t-00-07-33">2026-09-01 · 00:07:51</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,6 +36,7 @@ Source: [About Ted | Senator Ted Cruz](https://www.cruz.senate.gov/about-ted)
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-ted-cruz-t-00-19-15" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-ted-cruz-t-00-33-49" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-ted-cruz-t-00-30-41" style="--pulse-height:25%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-ted-cruz-t-00-07-33" style="--pulse-height:25%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [About Ted | Senator Ted Cruz](https://www.cruz.senate.gov/about-ted)
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-ted-cruz-t-00-19-15) | 4 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-ted-cruz-t-00-33-49) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-ted-cruz-t-00-30-41) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-ted-cruz-t-00-07-33) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [About Ted | Senator Ted Cruz](https://www.cruz.senate.gov/about-ted)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:07:51](/episodes/ep-ZkDO-MRLUco.md#ent-person-ted-cruz-t-00-07-33)**
+> "They fly Israeli flags along their property lines in Texas, I am told. They also fund the radically pro-Israel politicians like Ted Cruz."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
@@ -124,7 +134,7 @@ Source: [About Ted | Senator Ted Cruz](https://www.cruz.senate.gov/about-ted)
 <details>
 <summary>Criticized (1)</summary>
 
-- **[Drew Desbordes](/entities/person-drew-desbordes.md)**
+- **[Druski](/entities/person-druski.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:30:41](/episodes/ep-DEtFh2Ff-58.md#t-00-30-04): “Ted Cruz tweeted that this was beneath contempt.”
@@ -146,7 +156,19 @@ Source: [About Ted | Senator Ted Cruz](https://www.cruz.senate.gov/about-ted)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Funded By (1)</summary>
+
+- **[Wilks Brothers](/entities/person-wilks-brothers.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:07:03](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52): “She's never hidden that fact. So we're not exactly. exactly revealing or bringing any news there but I used to work for PragerU and she had suggested to me that I have him on my podcast I don't believe it ever happened but you can take from that what you will it is a fact that is how I learned about Jack (Jack Hibbs) uh Jack Hibbs from Marissa (Marissa Streit) It is also a fact that the same family who funds the construction of some of those Calvary Chapel churches, like Rob McCoy's church in Thousand Oaks, are the billionaire Wilks brothers. ... They fly Israeli flags along their property lines in Texas, I am told. They also fund the radically pro-Israel politicians like Ted Cruz.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Brett Cooper](/entities/person-brett-cooper.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -155,10 +177,17 @@ Source: [About Ted | Senator Ted Cruz](https://www.cruz.senate.gov/about-ted)
 
 </details>
 
-- **[Drew Desbordes](/entities/person-drew-desbordes.md)** criticized by this
+- **[Druski](/entities/person-druski.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:30:41](/episodes/ep-DEtFh2Ff-58.md#t-00-30-04): “Ted Cruz tweeted that this was beneath contempt.”
+
+</details>
+
+- **[Wilks Brothers](/entities/person-wilks-brothers.md)** funded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:07:03](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52): “She's never hidden that fact. So we're not exactly. exactly revealing or bringing any news there but I used to work for PragerU and she had suggested to me that I have him on my podcast I don't believe it ever happened but you can take from that what you will it is a fact that is how I learned about Jack (Jack Hibbs) uh Jack Hibbs from Marissa (Marissa Streit) It is also a fact that the same family who funds the construction of some of those Calvary Chapel churches, like Rob McCoy's church in Thousand Oaks, are the billionaire Wilks brothers. ... They fly Israeli flags along their property lines in Texas, I am told. They also fund the radically pro-Israel politicians like Ted Cruz.”
 
 </details>
 
@@ -179,6 +208,19 @@ Source: [About Ted | Senator Ted Cruz](https://www.cruz.senate.gov/about-ted)
 
 - [00:21:53](/episodes/ep-LATnak75Si0.md#t-00-21-53) [✓] (Accusation) ["Ted Cruz said Nick Fuentes calls himself a Nazi and has said Hitler was very coo..."](/statements/statement-1fcea6a986b9.md)
   - About: [Nick Fuentes](/entities/person-nick-fuentes.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Ted Cruz (1)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:07:51](/episodes/ep-ZkDO-MRLUco.md#t-00-07-33) (Claim) **Candace Owens**: ["Owens said the Wilks Brothers fund pro-Israel politicians such as Ted ..."](/statements/statement-cc75cc86753f.md)
+  - Also about: [Wilks Brothers](/entities/person-wilks-brothers.md)
 
 </details>
 

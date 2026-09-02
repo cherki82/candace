@@ -1,8 +1,8 @@
 ---
 title: "I think there are fake people on the payroll at America's Tu..."
-description: "\"I think there are fake people on the payroll at America's Turning Point, paychecks are getting sent to people who do not really exist\" — Anonymous Source #1 (Ep JQjCAsfoXEE)"
+description: "\"I think there are fake people on the payroll at America's Turning Point, paychecks are getting sent to people who do not really exist\" — Zach De Gregorio"
 statement_id: "statement-55019ede2600"
-speaker: "Anonymous Source #1 (Ep JQjCAsfoXEE)"
+speaker: "Zach De Gregorio"
 type: "accusation"
 ---
 
@@ -14,7 +14,7 @@ type: "accusation"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #1 (Ep JQjCAsfoXEE)](/entities/anon-src-JQjCAsfoXEE-001.md) (Quoted)
+**Speaker:** [Zach De Gregorio](/entities/person-zach-de-gregorio.md) (Quoted)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

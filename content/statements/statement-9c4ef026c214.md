@@ -23,7 +23,7 @@ veracity: "unverifiable"
 
 - [Unification Church](/entities/org-unification-church.md) (org)
 - [Central Intelligence Agency](/entities/org-central-intelligence-agency.md) (org)
-- [Turning Point Faith](/entities/org-turning-point-faith.md) (org)
+- [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md) (org)
 - [South Korea](/entities/gpe-south-korea.md) (gpe)
 
 ## Source

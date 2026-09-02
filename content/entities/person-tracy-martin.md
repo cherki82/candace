@@ -1,6 +1,6 @@
 ---
 title: "Tracy Martin"
-description: "Tracy Martin (People) - 53 mentions"
+description: "Tracy Martin (People) - 55 mentions"
 id: "person-tracy-martin"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-tracy-martin-t-00-26-52">2026-02-04 · 00:27:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-52-29">2026-07-23 · 00:52:29</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>53</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tracy-martin-t-00-03-05">2026-09-01 · 00:03:28</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -46,6 +46,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-tracy-martin-t-00-43-35" style="--pulse-height:27%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-tracy-martin-t-00-27-49" style="--pulse-height:18%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-32-16" style="--pulse-height:82%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 9 mentions" title="2026-07-23 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tracy-martin-t-00-03-05" style="--pulse-height:18%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-tracy-martin-t-00-43-35) | 3 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-tracy-martin-t-00-27-49) | 2 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-32-16) | 9 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-tracy-martin-t-00-03-05) | 2 |
 
 </details>
 </section>
@@ -73,7 +75,18 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>
+
+**[00:03:17](/episodes/ep-ZkDO-MRLUco.md#ent-person-tracy-martin-t-00-03-05)**
+> "So were Erika Kirk's de facto parents, Stacy Sheridan. Tracy Martin, we're just going to count them as her parents, I think, because she's never surrounded by her actual family."
+
+**[00:03:28](/episodes/ep-ZkDO-MRLUco.md#ent-person-tracy-martin-t-00-03-05)**
+> "...ions and gifts, always there. Tracy Martin, I'm counting that as dad."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (9 mentions)</summary>
@@ -362,6 +375,18 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 </details>
 
 <details>
+<summary>Worked With (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:17](/episodes/ep-ZkDO-MRLUco.md#t-00-03-05): “So were Erika Kirk's de facto parents, Stacy Sheridan. Tracy Martin, we're just going to count them as her parents, I think, because she's never surrounded by her actual family. ... She does Erika (Erika Kirk)'s PR dirty work, always willing to sit down and tell a story.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
@@ -446,7 +471,15 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tracy Martin (12)</strong></summary>
+<summary><strong class="section-title">Statements about Tracy Martin (13)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:02:33](/episodes/ep-ZkDO-MRLUco.md#t-00-02-28) (Claim) **Candace Owens**: ["Owens reported that Erika Kirk, Charlie Kirk’s parents, Stacy Sheridan..."](/statements/statement-efdb1726744e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3)</summary>

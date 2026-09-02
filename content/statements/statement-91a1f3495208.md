@@ -21,7 +21,7 @@ type: "opinion"
 ## About
 
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 
 ## Source
 

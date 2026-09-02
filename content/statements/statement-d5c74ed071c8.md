@@ -36,10 +36,10 @@ type: "prediction"
 ### 2. Candace Owens vs Andrew Wilson: The Great Debate.
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
-**Timestamp:** [01:56:15](/episodes/ep-aPOyk1i2LOc.md#t-01-56-06) 
-<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=6975s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+**Timestamp:** [01:56:25](/episodes/ep-aPOyk1i2LOc.md#t-01-56-25) 
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=6985s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> somebody told you that Israel was involved in the assassination of Charlie Kirk or is that a gut feeling? ... I do think that at the end of this, we are going to find that Israel was. ... involved, I do.
+> I do think that at the end of this, we are going to find that Israel was. ... involved, I do.
 
 ## Verification
 

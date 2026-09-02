@@ -21,7 +21,7 @@ type: "opinion"
 ## About
 
 - [Blake Neff](/entities/person-blake-neff.md) (person)
-- [Orem](/entities/gpe-orem.md) (gpe)
+- [Orem, Utah](/entities/gpe-orem-utah.md) (gpe)
 - [Utah](/entities/gpe-utah.md) (gpe)
 - [Phoenix](/entities/gpe-phoenix.md) (gpe)
 

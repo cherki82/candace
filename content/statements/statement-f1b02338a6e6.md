@@ -1,8 +1,8 @@
 ---
 title: "Aleister Crowley and Raoul Loveday became seriously ill duri..."
-description: "\"Aleister Crowley and Raoul Loveday became seriously ill during a ceremony at Crowley’s abbey in Sicily\" — Anonymous Source #1 (Ep 1IY2oD-_xVA)"
+description: "\"Aleister Crowley and Raoul Loveday became seriously ill during a ceremony at Crowley’s abbey in Sicily\" — Ashley (Candace Owens producer; surname unverified)"
 statement_id: "statement-f1b02338a6e6"
-speaker: "Anonymous Source #1 (Ep 1IY2oD-_xVA)"
+speaker: "Ashley (Candace Owens producer; surname unverified)"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #1 (Ep 1IY2oD-_xVA)](/entities/anon-src-1IY2oD-_xVA-001.md) (Anonymous Source)
+**Speaker:** [Ashley (Candace Owens producer; surname unverified)](/entities/person-producer-ashley-unverified.md) (Anonymous Source)
 
 **Delivery:** Made directly
 

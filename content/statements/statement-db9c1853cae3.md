@@ -3,11 +3,10 @@ title: "Owens said it was entirely plausible that someone gained acc..."
 description: "\"Owens said it was entirely plausible that someone gained access to Tyler Robinson's iCloud, possibly through Lance Twiggs, and sent messages from anot...\" — Candace Owens"
 statement_id: "statement-db9c1853cae3"
 speaker: "Candace Owens"
-type: "factual_claim"
-veracity: "true"
+type: "accusation"
 ---
 
-**Status:** ✓ True
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -35,21 +34,8 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The episode directly records Owens saying it was plausible that another person accessed Robinson's iCloud, possibly through Twiggs, and sent messages elsewhere. Veracity is limited to Owens having proposed that hypothetical; no current source reviewed establishes that such access or message sending occurred.
-
-**Confidence:** High
-
-**Sources:**
-
-- [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdown | Ep 372](https://www.youtube.com/watch?v=ChuWo-n49B8)
-
-*Verified: 2026-08-28T04:12:47.290095*
+_This statement has not yet been verified._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

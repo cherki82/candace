@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 255 mentions"
+description: "Utah Valley University (Organizations) - 260 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -27,11 +27,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-utah-valley-university-t-00-29-53">2026-08-31 · 00:29:53</a></strong></div>
-<div><span>Episodes</span><strong>77</strong></div>
-<div><span>Mentions</span><strong>255</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-38-32">2026-09-01 · 00:39:02</a></strong></div>
+<div><span>Episodes</span><strong>78</strong></div>
+<div><span>Mentions</span><strong>260</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>80</strong></div>
+<div><span>Statements about</span><strong>84</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -89,7 +89,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-utah-valley-university-t-00-10-20" style="--pulse-height:22%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-utah-valley-university-t-00-02-41" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-valley-university-t-00-56-25" style="--pulse-height:11%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-14-40" style="--pulse-height:44%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-14-40" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-utah-valley-university-t-00-03-37" style="--pulse-height:11%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-utah-valley-university-t-00-26-07" style="--pulse-height:56%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 5 mentions" title="2026-04-30 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-utah-valley-university-t-00-11-43" style="--pulse-height:22%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
@@ -106,7 +106,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-utah-valley-university-t-00-23-47" style="--pulse-height:11%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-org-utah-valley-university-t-00-01-43" style="--pulse-height:11%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-utah-valley-university-t-00-21-06" style="--pulse-height:11%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-university-t-00-03-22" style="--pulse-height:100%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 9 mentions" title="2026-07-31 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-university-t-00-03-22" style="--pulse-height:67%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 6 mentions" title="2026-07-31 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-org-utah-valley-university-t-00-10-13" style="--pulse-height:44%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 4 mentions" title="2026-08-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-utah-valley-university-t-00-09-26" style="--pulse-height:78%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 7 mentions" title="2026-08-04 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-utah-valley-university-t-00-18-53" style="--pulse-height:22%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
@@ -117,6 +117,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-utah-valley-university-t-00-11-57" style="--pulse-height:11%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-utah-valley-university-t-00-18-46" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-utah-valley-university-t-00-29-08" style="--pulse-height:22%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-01-03" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 9 mentions" title="2026-09-01 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -171,7 +172,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-utah-valley-university-t-00-10-20) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-utah-valley-university-t-00-02-41) | 3 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-valley-university-t-00-56-25) | 1 |
-| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-14-40) | 4 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-14-40) | 3 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-utah-valley-university-t-00-03-37) | 1 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-utah-valley-university-t-00-26-07) | 5 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-utah-valley-university-t-00-11-43) | 2 |
@@ -188,7 +189,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-utah-valley-university-t-00-23-47) | 1 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-utah-valley-university-t-00-01-43) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-utah-valley-university-t-00-21-06) | 1 |
-| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-university-t-00-03-22) | 9 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-university-t-00-03-22) | 6 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-utah-valley-university-t-00-10-13) | 4 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-utah-valley-university-t-00-09-26) | 7 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-utah-valley-university-t-00-18-53) | 2 |
@@ -199,6 +200,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-utah-valley-university-t-00-11-57) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-utah-valley-university-t-00-18-46) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-utah-valley-university-t-00-29-08) | 2 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-01-03) | 9 |
 
 </details>
 </section>
@@ -210,7 +212,39 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (255)</strong></summary>
+<summary><strong class="section-title">Raw mentions (260)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (9 mentions)</summary>
+
+**[00:01:03](/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-01-03)**
+> "Analyst who attacked me for looking into this case just why does she look so much like Tyler Robinson check this out uncanny uncanny what are they doing out in Utah I have no positive evidence that it wasn't Jennica Pounds that was walking up that staircase at UVU I'm over here looking at the Department of War like I'm Sophie Cunningham you know doing the point we don't know no But we know."
+
+**[00:04:40](/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-04-27)**
+> "... present on September 10th at UVU. You remember Charlie (Charlie Kirk) arrived with..."
+
+**[00:05:27](/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-05-10)**
+> "...el McCoy), when he arrived at UVU with Charlie (Charlie Kirk), also met up with a m..."
+
+**[00:09:16](/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-08-58)**
+> "...bs) could attend this obscure UVU college campus event."
+
+**[00:09:30](/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-08-58)**
+> "UVU college campus event. Okay, listen to Jack (Jack ..."
+
+**[00:13:17](/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-12-57)**
+> "...rcome by a need to attend the UVU event. And Butch Hibbs (Burton Hibbs), by the way..."
+
+**[00:26:08](/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-25-58)**
+> "... anybody knows who that is at UVU in the pink hat and the blue shirt, I'll try to g..."
+
+**[00:38:46](/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-38-32)**
+> "...ou're saying this happened at UVU."
+
+**[00:39:02](/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-38-32)**
+> "UVU is a college campus. It would not be something th..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
@@ -341,22 +375,13 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details>
-<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (9 mentions)</summary>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (6 mentions)</summary>
 
 **[00:03:35](/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-university-t-00-03-22)**
 > "It was me at UVU yesterday. I'm sorry for all of this. surrendering through a sheriff friend in a few moments thanks for all the good times and laughs you've all been so amazing thank you for everything"
 
-**[00:23:40](/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-university-t-00-03-22)**
-> "That's Utah Valley Hospital. And that's what happened."
-
-**[00:25:25](/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-university-t-00-25-25)**
-> "...s a hospital file that was at Utah Valley Hospital."
-
 **[00:25:38](/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-university-t-00-25-25)**
 > "... that he was being treated at Utah Valley and at Intermountain because not only did he have..."
-
-**[00:26:12](/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-university-t-00-26-05)**
-> "...arlie actually secretly go to Utah Valley Hospital?"
 
 **[00:26:20](/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-university-t-00-26-05)**
 > "... called Epic—did not speak to Utah Valley's Intermountain Health system."
@@ -555,13 +580,10 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4 mentions)</summary>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3 mentions)</summary>
 
 **[00:14:57](/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-14-40)**
 > "I'll tell you what, I'll be really suspicious if these contracts were in the planning phases of the Charlie Kirk event at Utah Valley University."
-
-**[00:06:20](/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-07-03)**
-> "She went to Utah Valley Hospital and she sent her colleague over to Timpa..."
 
 **[00:07:29](/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-07-03)**
 > "...He would later tell people at Utah Valley where he was being treated that he was paid to do..."
@@ -1377,7 +1399,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <details>
 <summary>Based In (1)</summary>
 
-- **[Orem](/entities/gpe-orem.md)**
+- **[Orem, Utah](/entities/gpe-orem-utah.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:08](/episodes/ep-2WEHTk0Xewg.md#t-00-06-08): “stuck in Orem, that's the town that UVU is at”
@@ -1492,7 +1514,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 </details>
 
-- **[Orem](/entities/gpe-orem.md)** location of this
+- **[Orem, Utah](/entities/gpe-orem-utah.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:08](/episodes/ep-2WEHTk0Xewg.md#t-00-06-08): “stuck in Orem, that's the town that UVU is at”
@@ -1567,7 +1589,15 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (80)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (84)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:38:32](/episodes/ep-ZkDO-MRLUco.md#t-00-38-32) (Claim) **Candace Owens** (via paraphrase): ["Owens said the defense sought dismissal of counts one, six, and seven ..."](/statements/statement-80a8d08e3c4c.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
@@ -1605,7 +1635,16 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details>
-<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (5)</summary>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (2)</summary>
+
+- [00:10:09](/episodes/ep-5zgkrOaCCj4.md#t-00-09-47) (Claim) **Candace Owens**: ["Owens said the high-resolution parking-garage stills shown in the epis..."](/statements/statement-a2290e54aa2a.md)
+
+- [00:13:19](/episodes/ep-5zgkrOaCCj4.md#t-00-13-02) (Opinion) **Candace Owens**: ["Owens speculated that the elevated hat on the person in the parking-ga..."](/statements/statement-18f2e7fa3c02.md)
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (6)</summary>
 
 - [00:15:02](/episodes/ep-d7VsbEIWkP8.md#t-00-14-34) (Opinion) **Candace Owens**: ["Candace Owens said she does not believe any weapon was fired from the ..."](/statements/statement-cdc57a1506ee.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -1616,9 +1655,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 - [00:19:24](/episodes/ep-d7VsbEIWkP8.md#t-00-19-24) (Opinion) **Candace Owens**: ["Candace Owens said she believes the maroon-shirted and black-shirted p..."](/statements/statement-6f2d6395bf13.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:19:24](/episodes/ep-d7VsbEIWkP8.md#t-00-19-24) (Claim) **Anonymous Source #23 (Ep d7VsbEIWkP8)** (via read message): ["Unnamed Utah Valley University student sources said there are no camer..."](/statements/statement-6f2edbfad813.md)
+- [00:19:24](/episodes/ep-d7VsbEIWkP8.md#t-00-19-24) (Claim) **Candace Owens** (via paraphrase): ["Owens reported that unnamed UVU students had told her there were no ca..."](/statements/statement-6f2edbfad813.md)
 
-- [00:27:11](/episodes/ep-d7VsbEIWkP8.md#t-00-26-39) (Claim) **Candace Owens**: ["Candace Owens said the maroon-shirted person appears left-handed or at..."](/statements/statement-b227e1e98f12.md)
+- [00:19:41](/episodes/ep-d7VsbEIWkP8.md#t-00-19-24) (Accusation) **Candace Owens**: ["Owens speculated that the people using the parking-garage route may ha..."](/statements/statement-730cd60adede.md)
+
+- [00:27:11](/episodes/ep-d7VsbEIWkP8.md#t-00-26-39) (Claim) **Candace Owens**: ["Owens said the maroon-shirted person appears left-handed or at least e..."](/statements/statement-b227e1e98f12.md)
 
 </details>
 
@@ -1628,7 +1669,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 - [00:09:09](/episodes/ep-ChuWo-n49B8.md#t-00-08-53) (Claim) **Candace Owens**: ["The publicly presented vehicle footage was blurry and showed only a ca..."](/statements/statement-4bb0f7e38f94.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:24:24](/episodes/ep-ChuWo-n49B8.md#t-00-24-12) (Claim) **Candace Owens**: ["Video showed Nate Walker with his bag around 12:15; when the explosive..."](/statements/statement-295c26ed081f.md)
+- [00:24:24](/episodes/ep-ChuWo-n49B8.md#t-00-24-12) (Claim) **Candace Owens**: ["Owens said footage showed Nate Walker carrying a bag and speaking with..."](/statements/statement-295c26ed081f.md)
   - Also about: [Nate Walker](/entities/person-nate-walker.md), [Dan Flood](/entities/person-dan-flood.md)
 
 </details>
@@ -1924,7 +1965,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>
 
 - [00:12:08](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52) (Claim) **Candace Owens**: ["Terrell Farnsworth was at the Utah Valley University event on Septembe..."](/statements/statement-6bd3adc0a9ae.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 </details>
 

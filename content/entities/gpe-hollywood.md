@@ -1,6 +1,6 @@
 ---
 title: "Hollywood"
-description: "Hollywood (Places) - 118 mentions"
+description: "Hollywood (Places) - 116 mentions"
 id: "gpe-hollywood"
 type: "GPE"
 aliases:
@@ -25,7 +25,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-hollywood-t-00-12-30">2025-09-18 · 00:12:38</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-hollywood-t-00-44-42">2026-08-07 · 00:44:51</a></strong></div>
 <div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>118</strong></div>
+<div><span>Mentions</span><strong>116</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,7 +41,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-hollywood-t-01-01-09" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hollywood-t-00-49-33" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-hollywood-t-00-30-45" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-00-00" style="--pulse-height:53%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 8 mentions" title="2025-11-15 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-00-00" style="--pulse-height:47%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 7 mentions" title="2025-11-15 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-hollywood-t-00-50-19" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-hollywood-t-00-50-13" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-50-53" style="--pulse-height:13%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
@@ -55,7 +55,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-hollywood-t-00-20-19" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-00-23-58" style="--pulse-height:27%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 4 mentions" title="2026-01-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-hollywood-t-00-53-11" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-16-11" style="--pulse-height:40%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-16-11" style="--pulse-height:33%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-hollywood-t-00-23-07" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-hollywood-t-00-16-08" style="--pulse-height:40%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 6 mentions" title="2026-02-03 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-hollywood-t-00-01-00" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
@@ -87,7 +87,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-hollywood-t-01-01-09) | 1 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hollywood-t-00-49-33) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-hollywood-t-00-30-45) | 1 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-00-00) | 8 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-00-00) | 7 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-hollywood-t-00-50-19) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-hollywood-t-00-50-13) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-50-53) | 2 |
@@ -101,7 +101,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-hollywood-t-00-20-19) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-00-23-58) | 4 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-hollywood-t-00-53-11) | 1 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-16-11) | 6 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-16-11) | 5 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-hollywood-t-00-23-07) | 3 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-hollywood-t-00-16-08) | 6 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-hollywood-t-00-01-00) | 1 |
@@ -134,7 +134,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (118)</strong></summary>
+<summary><strong class="section-title">Raw mentions (116)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -455,7 +455,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (6 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (5 mentions)</summary>
 
 **[00:16:29](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-16-11)**
 > "founding of Hollywood"
@@ -468,9 +468,6 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 
 **[00:48:47](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-48-38)**
 > "...ything else is just noise and Hollywood and manipulation and now it's cracking and now pe..."
-
-**[01:28:35](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-48-38)**
-> "there was Hollywood Babylon too,"
 
 **[01:36:54](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-01-36-54)**
 > "...m into school, we can control Hollywood. Yeah, it's pretty hard to wake up from that spel..."
@@ -624,7 +621,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (8 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (7 mentions)</summary>
 
 **[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-00-00)**
 > "...st), me telling you all about what happened behind the scenes when he was effectively kicked out of Hollywood, and the reason why I refused to publicly condemn him despite insistence from the brood of vipers. ..."
@@ -637,9 +634,6 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 
 **[00:19:39](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-19-29)**
 > "...lt off of this stuff. So while I personally did not understand the nature of what goes on inside of Hollywood, I did start to understand it after everything happened with Ye (Kanye West), okay? I saw it up clo..."
-
-**[00:26:43](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-19-29)**
-> "...are always in their pockets—which is really interesting when you have these. And again, if you read Hollywood Babylon, it gets into all of these true stories of just perfectly timed deaths—which we're never go..."
 
 **[00:27:27](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-27-03)**
 > "...any messages that I needed to look into the quote-unquote "Mormon mafia," which she said sits above Hollywood and even sits above many Zionist Jews. Now, I want to be very clear because this can be offensive t..."
@@ -724,7 +718,7 @@ _No relationships extracted yet._
 - [00:41:10](/episodes/ep-ChuWo-n49B8.md#t-00-41-10) (Accusation) **Candace Owens**: ["Owens said she sensed that a fake Christian grift was rising to replac..."](/statements/statement-01ed732bf335.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:42:33](/episodes/ep-ChuWo-n49B8.md#t-00-42-33) (Accusation) **Candace Owens**: ["Owens alleged that people working at Turning Point USA said they worke..."](/statements/statement-7ac83ca3b538.md)
+- [00:42:33](/episodes/ep-ChuWo-n49B8.md#t-00-42-33) (Accusation) **Candace Owens**: ["Owens alleged that the same public-relations agents and crisis firms w..."](/statements/statement-7ac83ca3b538.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

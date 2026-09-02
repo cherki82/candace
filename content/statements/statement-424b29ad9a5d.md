@@ -24,7 +24,7 @@ veracity: "mixed"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md) (concept)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. The World Is A Stage: Trump Survives...Again? | Ep 343
 
@@ -41,6 +41,14 @@ veracity: "mixed"
 <a href="https://www.youtube.com/watch?v=MhakwJxK-Zk&t=2127s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > September 9th is when Charlie (Charlie Kirk) sends a message declaring he has left the pro-Israel cause due to their intense bullying and financial pressure.
+
+### 3. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
+
+**Episode:** [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md)
+**Timestamp:** [00:12:14](/episodes/ep-ZkDO-MRLUco.md#t-00-12-14) 
+<a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=734s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Receives this call and butch the not cia or mossad agent just the guy who likes the mountains was like hey I want to go to the Charlie Kirk event and that's an interesting time frame only because there was a lot happening the night before right Charlie (Charlie Kirk)'s texting donors that he has no choice but to abandon of all things the pro israel cause and Charlie (Charlie Kirk)'s not sleeping Erika (Erika Kirk) says it's because he was just so excited which which it would be the first time I got to tell you, travels all around with this guy.
 
 ## Verification
 

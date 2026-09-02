@@ -1,6 +1,6 @@
 ---
 title: "RØDE Microphones"
-description: "RØDE Microphones (Organizations) - 45 mentions"
+description: "RØDE Microphones (Organizations) - 46 mentions"
 id: "org-rode-microphones"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [About RØDE](https://rode.com/en-mt/about/about-rode)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-rode-microphones-t-00-38-00">2026-03-12 · 00:38:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-rode-microphones-t-00-38-04">2026-07-31 · 00:38:04</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-rode-microphones-t-00-05-39">2026-09-01 · 00:05:39</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>26</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,7 @@ Source: [About RØDE](https://rode.com/en-mt/about/about-rode)
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-rode-microphones-t-00-03-58" style="--pulse-height:25%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-org-rode-microphones-t-00-18-30" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-rode-microphones-t-00-32-07" style="--pulse-height:25%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 3 mentions" title="2026-07-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-rode-microphones-t-00-05-39" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [About RØDE](https://rode.com/en-mt/about/about-rode)
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-rode-microphones-t-00-03-58) | 3 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-rode-microphones-t-00-18-30) | 1 |
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-rode-microphones-t-00-32-07) | 3 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-rode-microphones-t-00-05-39) | 1 |
 
 </details>
 </section>
@@ -69,7 +71,15 @@ Source: [About RØDE](https://rode.com/en-mt/about/about-rode)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:05:39](/episodes/ep-ZkDO-MRLUco.md#ent-org-rode-microphones-t-00-05-39)**
+> "They're with security. There's been a lot of online chatter about him and his presence at the event altogether, a lot of conspiracies that were drummed up regarding whether or not he was, in fact, undercover, particularly whether or not, as some people speculated, he may have been carrying a RØDE microphone in his top pocket. We can sort of zoom in here."
+
+</details>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (3 mentions)</summary>

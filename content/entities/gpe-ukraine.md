@@ -26,7 +26,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <div><span>Episodes</span><strong>37</strong></div>
 <div><span>Mentions</span><strong>81</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -606,15 +606,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ukraine (13)</strong></summary>
-
-<details>
-<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
-
-- [00:16:26](/episodes/ep-ChuWo-n49B8.md#t-00-16-26) (Opinion) **Candace Owens**: ["Owens said Tyler Robinson's purported text messages did not sound like..."](/statements/statement-1d553f9c80a6.md)
-  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Google Translate](/entities/work-google-translate.md)
-
-</details>
+<summary><strong class="section-title">Statements about Ukraine (12)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>

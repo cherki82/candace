@@ -22,7 +22,7 @@ veracity: "true"
 ## About
 
 - [Mike Huckabee](/entities/person-mike-huckabee.md) (person)
-- [Jonathan Pollard](/entities/person-jonathan-pollard.md) (person)
+- [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md) (person)
 
 ## Source
 

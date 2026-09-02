@@ -4,10 +4,9 @@ description: "\"Candace Owens said her team did not alter, enhance, edit, or cha
 statement_id: "statement-3a066543f71e"
 speaker: "Candace Owens"
 type: "factual_claim"
-veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -34,21 +33,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The transcript and a current report both record Candace Owens denying that her team used AI or otherwise altered, enhanced, edited, or changed the shared photo. This verifies the accurately attributed statement; the available public sources do not independently establish the image's full provenance or editing history.
-
-**Confidence:** High
-
-**Sources:**
-
-- [Candace - Huh? Erika Kirk Sits Down With A Trans-Loving Reporter - Transcript](https://podscripts.co/podcasts/candace/huh-erika-kirk-sits-down-with-a-trans-loving-reporter-we-reveal-the-moderator-for-fridays-debate?show_ads=true)
-- [Tyler Robinson's parking lot video sparks new claims on Charlie Kirk's killing; Candace Owens reacts](https://www.hindustantimes.com/trending/us/tyler-robinsons-parking-lot-video-sparks-new-claims-on-charlie-kirks-killing-candace-owens-reacts-101786471495864.html)
-
-*Verified: 2026-08-28T08:07:30.121228*
+_This statement has not yet been verified._
 
 ---
 

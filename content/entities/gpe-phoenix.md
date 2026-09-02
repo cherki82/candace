@@ -426,7 +426,7 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
 
 - [00:36:59](/episodes/ep-N4uM8Jdr410.md#t-00-36-59) (Opinion) **Blake Neff**: ["Blake Neff said he interpreted a question about staying in Orem as a q..."](/statements/statement-2e648c420a02.md)
-  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Orem](/entities/gpe-orem.md), [Utah](/entities/gpe-utah.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Orem, Utah](/entities/gpe-orem-utah.md), [Utah](/entities/gpe-utah.md)
 
 </details>
 

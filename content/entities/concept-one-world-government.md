@@ -77,7 +77,7 @@ _No relationships extracted yet._
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2)</summary>
 
 - [00:27:40](/episodes/ep-CMcktj3Egfo.md#t-00-27-10) (Accusation) **Candace Owens**: ["Candace Owens said Turning Point Faith was intended to be the Moonies ..."](/statements/statement-a8c533e3ee9c.md)
-  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Unification Church](/entities/org-unification-church.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Unification Church](/entities/org-unification-church.md)
 
 - [00:51:41](/episodes/ep-CMcktj3Egfo.md#t-00-51-40) (Opinion) **Candace Owens**: ["Candace Owens said she believed one-world government was the explicit ..."](/statements/statement-61d5d55173bf.md)
 

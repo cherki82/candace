@@ -11,7 +11,7 @@ object: "person-blake-neff"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Blake Neff](/entities/person-blake-neff)
 
-### Evidence (29 mentions)
+### Evidence (30 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -84,6 +84,10 @@ object: "person-blake-neff"
 **[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
 
 - [00:30:03](/episodes/ep-X3VKJVJ7cN4#t-00-30-03): _Blake Neff just blacked out, guys. Doesn't remember. He just doesn't really—I mean, they were just marking time. He doesn't remember who was in the car, who was driving, what they did for that entire interview while they were in Salt Lake City. Were they renting a car? By the way, I'd like to see if maybe there was another decoy vehicle. If you work at a rental car place, maybe just in the area—maybe Las Vegas, around Salt Lake City—_
+
+**[BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco)**
+
+- [00:53:49](/episodes/ep-ZkDO-MRLUco#t-00-53-49): _You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson). ... That's that's really what happened. You don't know him at all. The fact that you said I saw the donors, his friends, you just you had no idea what sort of a human being Charlie (Charlie Kirk) was. ... And you just had you are so short sighted to think that you could continue his legacy. You just don't have it._
 
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 

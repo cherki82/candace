@@ -1,6 +1,6 @@
 ---
 title: "True Detective (commenter; identity unverified)"
-description: "True Detective (commenter; identity unverified) (Anonymous Sources) - 3 mentions"
+description: "True Detective (commenter; identity unverified) (Anonymous Sources) - 5 mentions"
 id: "anon-src-iB-YtO3UZOg-true-detective"
 type: "ANONYMOUS_SOURCE"
 aliases:
@@ -17,7 +17,7 @@ _Type: Anonymous Sources_
 
 **Categories:** online commenter, display name, identity unverified
 
-> **Possibly overlapping entity records:** [True Detective](/entities/work-true-detective) · [True Detective (commenter; identity unverified)](/entities/anon-src-JrhGEm8MGRY-007). These records share a name or alias; compare their histories before treating either count as complete.
+> **Possibly overlapping entity records:** [True Detective](/entities/work-true-detective). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > Context explicitly uses True Detective as a commenter handle, not the television work.
@@ -25,9 +25,9 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-47-10">2026-07-31 · 00:47:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-01-18-35">2026-08-17 · 01:19:03</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-46-00">2026-08-31 · 00:46:22</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -40,7 +40,9 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-47-10" style="--pulse-height:100%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-53-08" style="--pulse-height:100%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-54-35" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-01-18-35" style="--pulse-height:100%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-46-00" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,7 +50,9 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 |---|---|---:|
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-47-10) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-53-08) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-54-35) | 1 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-01-18-35) | 1 |
+| 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-46-00) | 1 |
 
 </details>
 </section>
@@ -56,13 +60,29 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
+
+**[00:46:22](/episodes/ep-JrhGEm8MGRY.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-46-00)**
+> "True detective writes, my heart breaks for Charlie (Charlie Kirk) knowing what he discovered during his last days that something demonic had infiltrated his inner circle."
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
 
 **[01:19:03](/episodes/ep-E7P2ShoYDUA.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-01-18-35)**
 > "Comments from today's episode. True Detective writes, Andrew Wilson's rules of the debate."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:54:56](/episodes/ep-5zgkrOaCCj4.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-54-35)**
+> "True detective"
 
 </details>
 

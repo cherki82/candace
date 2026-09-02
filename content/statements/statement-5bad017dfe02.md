@@ -22,7 +22,7 @@ type: "factual_claim"
 
 ## About
 
-- [Doge](/entities/concept-doge.md) (concept)
+- [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md) (concept)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source

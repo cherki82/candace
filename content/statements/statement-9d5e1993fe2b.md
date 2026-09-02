@@ -23,7 +23,7 @@ veracity: "mixed"
 
 - [United States Air Force](/entities/org-united-states-air-force.md) (org)
 - [El Paso](/entities/gpe-el-paso.md) (gpe)
-- [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md) (gpe)
+- [Joint Base Andrews](/entities/gpe-joint-base-andrews.md) (gpe)
 - [Special Air Mission](/entities/concept-special-air-mission.md) (concept)
 
 ## Source

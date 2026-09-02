@@ -1,8 +1,8 @@
 ---
 title: "An anonymous rooftop eyewitness said the man wore a black ja..."
-description: "\"An anonymous rooftop eyewitness said the man wore a black jacket and tactical gear.\" — Anonymous Source #4 (Ep N4uM8Jdr410)"
+description: "\"An anonymous rooftop eyewitness said the man wore a black jacket and tactical gear.\" — Anonymous Losee Center Eyewitness"
 statement_id: "statement-1dad3c449079"
-speaker: "Anonymous Source #4 (Ep N4uM8Jdr410)"
+speaker: "Anonymous Losee Center Eyewitness"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #4 (Ep N4uM8Jdr410)](/entities/anon-src-N4uM8Jdr410-004.md) (Anonymous Source)
+**Speaker:** [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md) (Anonymous Source)
 
 **Delivery:** Read from message
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
@@ -23,7 +23,7 @@ veracity: "true"
 
 ## About
 
-- [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md) (org)
+- [Losee Center](/entities/org-losee-center.md) (org)
 
 ## Source
 

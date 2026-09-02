@@ -93,7 +93,7 @@ Source: [FAA Registry Aircraft Inquiry: N582MM](https://registry.faa.gov/aircraf
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2)</summary>
 
 - [00:11:18](/episodes/ep-4DvYXBn_5JI.md#t-00-10-48) (Claim) **Candace Owens**: ["Candace Owens said N582MM left Denver at 11:58 a.m. Mountain Time on S..."](/statements/statement-ea896e271e9e.md)
-  - Also about: [Denver](/entities/gpe-denver.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md), [Chicago](/entities/gpe-chicago.md)
+  - Also about: [Denver](/entities/gpe-denver.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md), [Chicago, Illinois](/entities/gpe-chicago-illinois.md)
 
 - [00:12:04](/episodes/ep-4DvYXBn_5JI.md#t-00-11-29) (Claim) **Candace Owens**: ["Candace Owens said someone aboard N582MM on September 10 was known to ..."](/statements/statement-b900c6426bf3.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -107,7 +107,7 @@ Source: [FAA Registry Aircraft Inquiry: N582MM](https://registry.faa.gov/aircraf
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:34:56](/episodes/ep-DEtFh2Ff-58.md#t-00-34-36) (Claim) **Baron Coleman**: ["On September 10th, aircraft N582MM left Pierre, South Dakota at 2:40 p..."](/statements/statement-013396861573.md)
-  - Also about: [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md), [Chicago](/entities/gpe-chicago.md), [Provo Airport](/entities/org-provo-airport.md)
+  - Also about: [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md), [Chicago, Illinois](/entities/gpe-chicago-illinois.md), [Provo Airport](/entities/org-provo-airport.md)
 
 - [00:35:39](/episodes/ep-DEtFh2Ff-58.md#t-00-35-14) (Claim) **Baron Coleman**: ["On October 4th, aircraft N582MM flew from Atlanta to Fort Huachuca, la..."](/statements/statement-25ee16189601.md)
   - Also about: [Atlanta, Georgia](/entities/gpe-atlanta-georgia.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Kalispell, Montana](/entities/gpe-kalispell-montana.md)

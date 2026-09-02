@@ -1,8 +1,8 @@
 ---
 title: "CERN was established in 1954 to research particle physics."
-description: "\"CERN was established in 1954 to research particle physics.\" — Mark from Candace's production team (surname unidentified)"
+description: "\"CERN was established in 1954 to research particle physics.\" — Mark (Candace show producer; surname unverified)"
 statement_id: "statement-ff8117248e4a"
-speaker: "Mark from Candace's production team (surname unidentified)"
+speaker: "Mark (Candace show producer; surname unverified)"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Mark from Candace's production team (surname unidentified)](/entities/anon-src-bkcom32zegk-mark-production-team.md) (Guest)
+**Speaker:** [Mark (Candace show producer; surname unverified)](/entities/person-mark-candace-show-producer.md) (Guest)
 
 **Delivery:** Made directly
 

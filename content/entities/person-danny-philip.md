@@ -1,6 +1,6 @@
 ---
 title: "Danny Philip"
-description: "Danny Philip (People) - 20 mentions"
+description: "Danny Philip (People) - 23 mentions"
 id: "person-danny-philip"
 type: "PERSON"
 categories:
@@ -19,12 +19,12 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-15-14">2026-07-14 · 00:15:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#t-00-47-19">2026-08-10 · 00:47:19</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-danny-philip-t-00-21-57">2026-09-01 · 00:21:57</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -38,6 +38,7 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 <a href="/episodes/ep-1CFDtD0IgEg.md#t-00-33-16" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#t-00-23-31" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#t-00-47-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-danny-philip-t-00-19-47" style="--pulse-height:20%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#t-00-33-16) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#t-00-23-31) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#t-00-47-19) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-danny-philip-t-00-19-47) | 3 |
 
 </details>
 </section>
@@ -60,7 +62,21 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3 mentions)</summary>
+
+**[00:19:47](/episodes/ep-ZkDO-MRLUco.md#ent-person-danny-philip-t-00-19-47)**
+> "He was on the phone from 1224 all the way through to 1244 with Elizabeth McCoy, with Erika (Erika Kirk), with his father, and then with Danny Philip for 10 minutes. I mean, the only way it could be true that Mikey (Michael McCoy) called him before 1230."
+
+**[00:21:07](/episodes/ep-ZkDO-MRLUco.md#ent-person-danny-philip-t-00-20-31)**
+> "... did not thereafter call 911. Danny Philip, to our knowledge, did not call 911. Neither did ..."
+
+**[00:21:57](/episodes/ep-ZkDO-MRLUco.md#ent-person-danny-philip-t-00-21-57)**
+> "...es off. He's standing next to Danny Philip, Charlie (Charlie Kirk)'s assistant, who's wearin..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
@@ -207,6 +223,18 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 <details>
+<summary>Former Assistant To (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:21:07](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31): “He did not thereafter call 911. Danny Philip, to our knowledge, did not call 911. Neither did Nate Walker. ... Those are both of Charlie (Charlie Kirk)'s assistants. Nobody called 911 to our knowledge. They all shared their stories and left that out if they did.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Grandchild Of (1)</summary>
 
 - **[Thomas H. Patrick](/entities/person-thomas-h-patrick.md)**
@@ -232,7 +260,7 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -271,6 +299,13 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 
 </details>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** has former assistant this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:21:07](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31): “He did not thereafter call 911. Danny Philip, to our knowledge, did not call 911. Neither did Nate Walker. ... Those are both of Charlie (Charlie Kirk)'s assistants. Nobody called 911 to our knowledge. They all shared their stories and left that out if they did.”
+
+</details>
+
 - **[Stephen Philip](/entities/person-stephen-philip.md)** parent of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -283,7 +318,29 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Danny Philip (12)</strong></summary>
+<summary><strong class="section-title">Statements about Danny Philip (16)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3)</summary>
+
+- [00:19:26](/episodes/ep-ZkDO-MRLUco.md#t-00-19-05) (Opinion) **Candace Owens**: ["Owens said it seemed implausible that Michael McCoy called Jack Hibbs ..."](/statements/statement-d5d1bb4d8560.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Jack Hibbs](/entities/person-jack-hibbs.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+
+- [00:21:07](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31) (Claim) **Candace Owens**: ["Owens said that, to her knowledge, Charlie Kirk’s assistants Danny Phi..."](/statements/statement-62e393aa7eec.md)
+  - Also about: [Nate Walker](/entities/person-nate-walker.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:21:57](/episodes/ep-ZkDO-MRLUco.md#t-00-21-57) (Claim) **Candace Owens**: ["Owens said Burton Hibbs stood to the right of Charlie Kirk and the ten..."](/statements/statement-2b2248b214e5.md)
+  - Also about: [Burton Hibbs](/entities/person-burton-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1)</summary>
+
+- [00:47:19](/episodes/ep-5zgkrOaCCj4.md#t-00-47-19) (Opinion) **Candace Owens**: ["Owens offered travel in two different cars to the hospital as a possib..."](/statements/statement-0af7f6ece4b3.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</details>
 
 <details>
 <summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1)</summary>

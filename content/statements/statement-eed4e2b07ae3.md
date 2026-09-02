@@ -22,7 +22,7 @@ veracity: "mixed"
 ## About
 
 - [Israel](/entities/gpe-israel.md) (gpe)
-- [X](/entities/org-x-platform.md) (org)
+- [Twitter](/entities/org-twitter.md) (org)
 
 ## Source
 

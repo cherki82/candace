@@ -1,6 +1,6 @@
 ---
 title: "Western world"
-description: "Western world (Concepts) - 21 mentions"
+description: "Western world (Concepts) - 20 mentions"
 id: "concept-western-world"
 type: "CONCEPT"
 aliases:
@@ -24,8 +24,8 @@ Source: [Westernization - Britannica](https://www.britannica.com/topic/Westerniz
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-western-world-t-00-33-47">2025-11-04 · 00:33:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-western-world-t-00-46-09">2026-08-07 · 00:46:09</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,7 +45,6 @@ Source: [Westernization - Britannica](https://www.britannica.com/topic/Westerniz
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-western-world-t-00-28-01" style="--pulse-height:25%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-western-world-t-00-56-54" style="--pulse-height:25%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-concept-western-world-t-00-59-12" style="--pulse-height:25%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#t-00-52-08" style="--pulse-height:25%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-western-world-t-00-34-51" style="--pulse-height:25%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-western-world-t-00-46-09" style="--pulse-height:25%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 </div>
@@ -62,7 +61,6 @@ Source: [Westernization - Britannica](https://www.britannica.com/topic/Westerniz
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-concept-western-world-t-00-28-01) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-western-world-t-00-56-54) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-concept-western-world-t-00-59-12) | 1 |
-| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#t-00-52-08) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-western-world-t-00-34-51) | 1 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-concept-western-world-t-00-46-09) | 1 |
 
@@ -72,7 +70,7 @@ Source: [Westernization - Britannica](https://www.britannica.com/topic/Westerniz
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -87,14 +85,6 @@ Source: [Westernization - Britannica](https://www.britannica.com/topic/Westerniz
 
 **[00:35:22](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-western-world-t-00-34-51)**
 > "And also on its face, it appears like what we've stumbled upon is a global trafficking ring, which spans all across the West."
-
-</details>
-
-<details>
-<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
-
-**[00:52:08](/episodes/ep-mLvJqdxS-FY.md#t-00-52-08)**
-> "In Taybeh, the West Bank's last fully Christian town... / This is the..."
 
 </details>
 

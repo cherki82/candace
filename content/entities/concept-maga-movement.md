@@ -27,7 +27,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <div><span>Episodes</span><strong>44</strong></div>
 <div><span>Mentions</span><strong>123</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -741,13 +741,16 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about MAGA movement (8)</strong></summary>
+<summary><strong class="section-title">Statements about MAGA movement (9)</strong></summary>
 
 <details>
-<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1)</summary>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2)</summary>
 
-- [00:24:50](/episodes/ep-HGtMfbePDKk.md#t-00-24-42) (Opinion) **Brandy Zadrozny** (via quoted speech): ["Zadrozny said Tyler Robinson's arrest might have united a MAGA movemen..."](/statements/statement-f1353297c6d0.md)
+- [00:24:50](/episodes/ep-HGtMfbePDKk.md#t-00-24-42) (Opinion) **Brandy Zadrozny** (via quoted tweet): ["Zadrozny said Tyler Robinson's arrest might have united a MAGA movemen..."](/statements/statement-f1353297c6d0.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:25:35](/episodes/ep-HGtMfbePDKk.md#t-00-25-16) (Opinion) **Candace Owens**: ["Owens interpreted Zadrozny's counterfactual about Robinson's arrest as..."](/statements/statement-9bd90e08a4dd.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Brandy Zadrozny](/entities/person-brandy-zadrozny.md)
 
 </details>
 

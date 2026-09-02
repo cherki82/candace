@@ -24,7 +24,7 @@ veracity: "mixed"
 - [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Falkirk Center](/entities/org-falkirk-center.md) (org)
-- [Turning Point Faith](/entities/org-turning-point-faith.md) (org)
+- [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md) (org)
 
 ## Source
 

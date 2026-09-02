@@ -4,10 +4,9 @@ description: "\"Owens alleged that news media intentionally selected maroon-shir
 statement_id: "statement-6cc7e1038e76"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "mixed"
 ---
 
-**Status:** ◐ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -34,21 +33,7 @@ veracity: "mixed"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-Transcript context shows this is Owens's accusation about editorial intent, not a neutral description. AFP confirmed that a maroon-shirt photo from Robinson's mother's Facebook was widely republished, but the available public record does not establish that outlets intentionally selected maroon images to create an association, or that the omitted alternatives were more recent. The use of a maroon image is supported; the claimed intent is not independently verifiable.
-
-**Confidence:** Low
-
-**Sources:**
-
-- [Photo of Charlie Kirk shooting suspect in Trump shirt is altered](https://factcheck.afp.com/doc.afp.com.74L73NQ)
-- [EXCLUSIVE: Never Before Seen Photos Of Tyler Robinson On Campus — Episode 374 transcript](https://podprose.org/post/1074/candace-owens-exclusive-never-before-seen-photos-tyler-robinson-transcript)
-
-*Verified: 2026-08-28T07:04:44.457638*
+_This statement has not yet been verified._
 
 ---
 

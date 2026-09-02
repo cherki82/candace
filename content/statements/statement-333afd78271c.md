@@ -34,16 +34,17 @@ veracity: "mixed"
 
 ### Analysis
 
-Current safety data support using nitrile gloves with cyanoacrylate, but the research did not substantiate the show's stronger explanation that woodworkers specifically use black nitrile because adhesive wipes off it more easily. Color alone does not change nitrile's chemical resistance, and suitable glove selection depends on formulation and thickness. The statement is therefore only partially supported.
+Reviewed the actual anonymous tip and Owens's stronger confirmation in context. A Henkel manufacturer SDS supports nitrile gloves for its specified cyanoacrylate product. It does not establish that black gloves are the most resistant, that color confers easier adhesive removal, or compatibility with every spray activator. Those stronger claims remain unsupported by the reviewed primary material. No source identifies the photographed object, the microphone adhesive, residue, or any cleanup. This is limited product-specific support, not a general protective-equipment recommendation.
 
-**Confidence:** High
+**Confidence:** Medium
 
 **Sources:**
 
 - [Cyamet Rapid Adhesive (Superglue) Safety Data Sheet](https://shop.ottobock.us/store/medias/636K11-en-US.pdf?attachment=true&context=bWFzdGVyfHJvb3R8MTkzMTUwfGFwcGxpY2F0aW9uL3BkZnxoODkvaDA4Lzg4OTI1ODM5Njg3OTgucGRmfGQxOTUyMjBjNTEwZTQxYTkwOTVjNGY5MmUxYzdjYjUzMDM3YmQ3MzFkN2UxMWQ3YzFhNWIyMmYwYjhjMjlhM2U)
 - [Are Black Nitrile Gloves Stronger Than Blue?](https://epic-solutions.co.uk/blogs/infos/are-black-nitrile-gloves-stronger-than-blue)
+- [Henkel LOCTITE 4861 Safety Data Sheet, section 8](https://media.focenter.com/CMP1007/files/LOCTITE4861PrismInstantAdhesiveCyanoacrylateRoomTemperatureHumidityCure20g_14375_SDS_SafetyDataSheet_fiberopticcenter.pdf)
 
-*Verified: 2026-08-28T02:19:55.552964*
+*Verified: 2026-09-01T14:05:50.757125*
 
 ---
 

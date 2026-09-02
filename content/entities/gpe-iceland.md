@@ -1,6 +1,6 @@
 ---
 title: "Iceland"
-description: "Iceland (Places) - 13 mentions"
+description: "Iceland (Places) - 16 mentions"
 id: "gpe-iceland"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Iceland | History, Maps, Flag, Population, Climate, & Facts](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-iceland-t-00-56-19">2026-06-10 · 00:56:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-iceland-t-00-23-26">2026-08-31 · 00:23:26</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-wntKnFzh9Gs.md#ent-gpe-iceland-t-00-00-27">2026-09-01 · 00:00:27</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -34,6 +34,8 @@ Source: [Iceland | History, Maps, Flag, Population, Climate, & Facts](https://ww
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-iceland-t-00-56-19" style="--pulse-height:11%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-iceland-t-00-48-49" style="--pulse-height:33%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 3 mentions" title="2026-08-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-iceland-t-00-13-01" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 9 mentions" title="2026-08-31 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-wntKnFzh9Gs.md#ent-gpe-iceland-t-00-00-00" style="--pulse-height:22%" aria-label="I Met My Cousin In Iceland...: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-iceland-t-00-00-01" style="--pulse-height:11%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +44,8 @@ Source: [Iceland | History, Maps, Flag, Population, Climate, & Facts](https://ww
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-iceland-t-00-56-19) | 1 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-iceland-t-00-48-49) | 3 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-iceland-t-00-13-01) | 9 |
+| 2026-09-01 | [I Met My Cousin In Iceland...](/episodes/ep-wntKnFzh9Gs.md#ent-gpe-iceland-t-00-00-00) | 2 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-iceland-t-00-00-01) | 1 |
 
 </details>
 </section>
@@ -49,7 +53,26 @@ Source: [Iceland | History, Maps, Flag, Population, Climate, & Facts](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>I Met My Cousin In Iceland... (2 mentions)</summary>
+
+**[00:00:00](/episodes/ep-wntKnFzh9Gs.md#ent-gpe-iceland-t-00-00-00)**
+> "Ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni. My literal actual long lost cousin."
+
+**[00:00:27](/episodes/ep-wntKnFzh9Gs.md#ent-gpe-iceland-t-00-00-27)**
+> "...oni) himself was not visiting Iceland. Okay, turns out he was on a layover from Sweden...."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:00:09](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-iceland-t-00-00-01)**
+> "I said, what are the literal odds that I would run into Justin Baldoni in Iceland? And I received this email."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (9 mentions)</summary>
@@ -115,7 +138,17 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iceland (1)</strong></summary>
+<summary><strong class="section-title">Statements about Iceland (3)</strong></summary>
+
+<details>
+<summary>I Met My Cousin In Iceland... (2)</summary>
+
+- [00:00:27](/episodes/ep-wntKnFzh9Gs.md#t-00-00-27) (Claim) **Candace Owens**: ["Owens said Iceland had a population of only 400,000 people."](/statements/statement-4109685826f8.md)
+
+- [00:00:27](/episodes/ep-wntKnFzh9Gs.md#t-00-00-27) (Claim) **Candace Owens**: ["Owens said Justin Baldoni was on an Iceland layover from Sweden with h..."](/statements/statement-35bfb89c9c3d.md)
+  - Also about: [Justin Baldoni](/entities/person-justin-baldoni.md), [Emily Baldoni](/entities/person-emily-baldoni.md), [Sweden](/entities/gpe-sweden.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>

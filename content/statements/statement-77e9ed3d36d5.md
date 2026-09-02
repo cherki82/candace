@@ -4,10 +4,9 @@ description: "\"Shady Lady Katie wrote that some group-chat members coordinated,
 statement_id: "statement-77e9ed3d36d5"
 speaker: "Shady Lady Katie (X user; identity unverified)"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -36,21 +35,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The primary episode records Owens reading posts attributed to Shady Lady Katie that described coordination, information and background-check sharing, account reporting, address sharing, and passive lurkers. Current reporting independently confirms a dispute over leaked material from a Protecting Mrs Kirk group, but does not establish that the post's misconduct allegations were true. Veracity therefore applies to the attributed post, not its underlying accusations.
-
-**Confidence:** Medium
-
-**Sources:**
-
-- [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdown | Ep 372](https://www.youtube.com/watch?v=ChuWo-n49B8)
-- [Cease-and-desist letter to Candace Owens over Protecting Mrs Kirk chat row sparks buzz](https://www.hindustantimes.com/world-news/us-news/ceaseanddesist-letter-to-candace-owens-over-protecting-mrs-kirk-chat-row-sparks-buzz-your-conduct-has-gone-101786338758792-amp.html)
-
-*Verified: 2026-08-28T04:12:47.290108*
+_This statement has not yet been verified._
 
 ---
 

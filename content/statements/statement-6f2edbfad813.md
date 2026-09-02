@@ -1,8 +1,8 @@
 ---
-title: "Unnamed Utah Valley University student sources said there ar..."
-description: "\"Unnamed Utah Valley University student sources said there are no cameras outside the parking garage.\" — Anonymous Source #23 (Ep d7VsbEIWkP8)"
+title: "Owens reported that unnamed UVU students had told her there ..."
+description: "\"Owens reported that unnamed UVU students had told her there were no cameras outside the parking garage.\" — Candace Owens"
 statement_id: "statement-6f2edbfad813"
-speaker: "Anonymous Source #23 (Ep d7VsbEIWkP8)"
+speaker: "Candace Owens"
 type: "factual_claim"
 ---
 
@@ -10,15 +10,13 @@ type: "factual_claim"
 
 ## Statement
 
-> Unnamed Utah Valley University student sources said there are no cameras outside the parking garage.
+> Owens reported that unnamed UVU students had told her there were no cameras outside the parking garage.
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #23 (Ep d7VsbEIWkP8)](/entities/anon-src-d7VsbEIWkP8-023.md) (Anonymous Source)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Read from message
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** Private communications with UVU students
+**Delivery:** Paraphrased
 
 ## About
 

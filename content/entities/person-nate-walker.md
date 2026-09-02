@@ -1,6 +1,6 @@
 ---
 title: "Nate Walker"
-description: "Nate Walker (People) - 7 mentions"
+description: "Nate Walker (People) - 8 mentions"
 id: "person-nate-walker"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-nate-walker-t-00-03-25">2026-07-16 · 00:03:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-nate-walker-t-00-24-12">2026-08-06 · 00:24:24</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-nate-walker-t-00-20-31">2026-09-01 · 00:21:07</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -34,6 +34,7 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-nate-walker-t-00-03-25" style="--pulse-height:67%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-nate-walker-t-00-10-50" style="--pulse-height:67%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-nate-walker-t-00-23-31" style="--pulse-height:100%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-nate-walker-t-00-20-31" style="--pulse-height:33%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-nate-walker-t-00-03-25) | 2 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-nate-walker-t-00-10-50) | 2 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-nate-walker-t-00-23-31) | 3 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-nate-walker-t-00-20-31) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:21:07](/episodes/ep-ZkDO-MRLUco.md#ent-person-nate-walker-t-00-20-31)**
+> "He did not thereafter call 911. Danny Philip, to our knowledge, did not call 911. Neither did Nate Walker."
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (3 mentions)</summary>
@@ -110,6 +120,18 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 </details>
 
 <details>
+<summary>Former Assistant To (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:21:07](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31): “He did not thereafter call 911. Danny Philip, to our knowledge, did not call 911. Neither did Nate Walker. ... Those are both of Charlie (Charlie Kirk)'s assistants. Nobody called 911 to our knowledge. They all shared their stories and left that out if they did.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed By (1)</summary>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
@@ -122,13 +144,20 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** has assistant this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:03:47](/episodes/ep-puuMVxEu5NU.md#t-00-03-25): “Yeah, I was Charlie (Charlie Kirk)'s executive assistant. The day-to-day Charlie (Charlie Kirk) makes sure he has his food, water, clothes, all the stuff that...”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:24:03](/episodes/ep-ChuWo-n49B8.md#t-00-23-31): “Another question, and that's regarding Nate Walker, because what a new thing, like to be just a new assistant, the one who supplied Charlie Kirk with that Freedom T-shirt.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** has former assistant this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:21:07](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31): “He did not thereafter call 911. Danny Philip, to our knowledge, did not call 911. Neither did Nate Walker. ... Those are both of Charlie (Charlie Kirk)'s assistants. Nobody called 911 to our knowledge. They all shared their stories and left that out if they did.”
 
 </details>
 
@@ -160,13 +189,24 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nate Walker (2)</strong></summary>
+<summary><strong class="section-title">Statements about Nate Walker (4)</strong></summary>
 
 <details>
-<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
 
-- [00:24:24](/episodes/ep-ChuWo-n49B8.md#t-00-24-12) (Claim) **Candace Owens**: ["Video showed Nate Walker with his bag around 12:15; when the explosive..."](/statements/statement-295c26ed081f.md)
+- [00:21:07](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31) (Claim) **Candace Owens**: ["Owens said that, to her knowledge, Charlie Kirk’s assistants Danny Phi..."](/statements/statement-62e393aa7eec.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (2)</summary>
+
+- [00:24:24](/episodes/ep-ChuWo-n49B8.md#t-00-24-12) (Claim) **Candace Owens**: ["Owens said footage showed Nate Walker carrying a bag and speaking with..."](/statements/statement-295c26ed081f.md)
   - Also about: [Dan Flood](/entities/person-dan-flood.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:25:53](/episodes/ep-ChuWo-n49B8.md#t-00-25-38) (Opinion) **Candace Owens**: ["Owens allowed that Nate Walker might have gone upstairs because Dan Fl..."](/statements/statement-a6f1460f196a.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md)
 
 </details>
 

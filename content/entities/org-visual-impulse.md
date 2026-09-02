@@ -110,7 +110,7 @@ Source: [BBB Business Profile — Visual Impulse, LLC](https://www.bbb.org/us/az
 <details>
 <summary>Formerly Employed (1)</summary>
 
-- **[Philip Goldsberry Jr.](/entities/person-philip-goldsberry-jr.md)**
+- **[Phillip Goldsberry Jr.](/entities/person-phillip-goldsberry-jr.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:02:50](/episodes/ep-_cNtgris8Ik.md#t-00-02-43): “And he was working with Terrell Farnsworth, working under Terrell Farnsworth at visual impulse.”
@@ -134,7 +134,7 @@ Source: [BBB Business Profile — Visual Impulse, LLC](https://www.bbb.org/us/az
 <details>
 <summary>Operated By (1)</summary>
 
-- **[Terrell Farnsworth](/entities/person-terrell-farnsworth.md)**
+- **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:06:37](/episodes/ep-VMNWMXX1vO8.md#t-00-06-11): “the guy who runs the audiovisual company ... this visual impulse team ... So we know Terrell (Terrell Farnsworth), he's there at the top.”
@@ -166,14 +166,14 @@ Source: [BBB Business Profile — Visual Impulse, LLC](https://www.bbb.org/us/az
 
 </details>
 
-- **[Philip Goldsberry Jr.](/entities/person-philip-goldsberry-jr.md)** formerly worked for this
+- **[Phillip Goldsberry Jr.](/entities/person-phillip-goldsberry-jr.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:02:50](/episodes/ep-_cNtgris8Ik.md#t-00-02-43): “And he was working with Terrell Farnsworth, working under Terrell Farnsworth at visual impulse.”
 
 </details>
 
-- **[Terrell Farnsworth](/entities/person-terrell-farnsworth.md)** operates this
+- **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)** operates this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:06:37](/episodes/ep-VMNWMXX1vO8.md#t-00-06-11): “the guy who runs the audiovisual company ... this visual impulse team ... So we know Terrell (Terrell Farnsworth), he's there at the top.”
@@ -191,8 +191,8 @@ Source: [BBB Business Profile — Visual Impulse, LLC](https://www.bbb.org/us/az
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1)</summary>
 
-- [00:05:44](/episodes/ep-4JxgOclKzqg.md#t-00-05-31) (Claim) **Terrell Farnsworth** (via quoted document): ["In a 1102 statement, Farnsworth said Visual Impulse's setup at the Sep..."](/statements/statement-6c2336878f0c.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:05:44](/episodes/ep-4JxgOclKzqg.md#t-00-05-31) (Claim) **Terryl Farnsworth** (via quoted document): ["In a 1102 statement, Farnsworth said Visual Impulse's setup at the Sep..."](/statements/statement-6c2336878f0c.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -200,7 +200,7 @@ Source: [BBB Business Profile — Visual Impulse, LLC](https://www.bbb.org/us/az
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2)</summary>
 
 - [00:08:20](/episodes/ep-VMNWMXX1vO8.md#t-00-08-20) (Claim) **Candace Owens**: ["At Charlie Kirk's request, Terrell Farnsworth's team was removed from ..."](/statements/statement-b1596f5cb911.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:11:35](/episodes/ep-VMNWMXX1vO8.md#t-00-11-20) (Claim) **Candace Owens**: ["Owens said Aaron Edwards also worked for Visual Impulse and attended t..."](/statements/statement-5034a6cce1c8.md)
   - Also about: [Aaron Edwards](/entities/person-aaron-edwards.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)

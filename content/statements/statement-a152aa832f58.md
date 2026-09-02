@@ -4,10 +4,9 @@ description: "\"The authorities did not produce statements from Tyler Robinson's
 statement_id: "statement-a152aa832f58"
 speaker: "Candace Owens"
 type: "citation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -45,21 +44,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-In the public preliminary-hearing record reviewed, investigators summarized what Robinson's parents allegedly recognized and said, but no direct parent statement declaring that they believed he committed the shooting was produced. Confidence is medium because this is an absence finding limited to the public record.
-
-**Confidence:** Medium
-
-**Sources:**
-
-- [Utah v. Tyler Robinson Preliminary Hearing — Day 4 Transcript](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4)
-- [State of Utah v. Tyler James Robinson — Criminal Information](https://san.com/wp-content/uploads/securepdfs/2025/09/TJR_Information_49872215e3.pdf)
-
-*Verified: 2026-08-16T14:38:02.447323*
+_This statement has not yet been verified._
 
 ---
 

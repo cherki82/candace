@@ -1,8 +1,8 @@
 ---
 title: "Ashley said Terry Crist was a close friend of Hillsong found..."
-description: "\"Ashley said Terry Crist was a close friend of Hillsong founder Brian Houston and reported that Crist said his own resignation shortly after Houston's ...\" — Anonymous Source #2 (Ep cZxHqYsWRYg)"
+description: "\"Ashley said Terry Crist was a close friend of Hillsong founder Brian Houston and reported that Crist said his own resignation shortly after Houston's ...\" — Ashley (Candace Owens producer; surname unverified)"
 statement_id: "statement-24bda22c18a9"
-speaker: "Anonymous Source #2 (Ep cZxHqYsWRYg)"
+speaker: "Ashley (Candace Owens producer; surname unverified)"
 type: "factual_claim"
 veracity: "false"
 ---
@@ -15,7 +15,7 @@ veracity: "false"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #2 (Ep cZxHqYsWRYg)](/entities/anon-src-cZxHqYsWRYg-002.md) (Guest)
+**Speaker:** [Ashley (Candace Owens producer; surname unverified)](/entities/person-producer-ashley-unverified.md) (Guest)
 
 **Delivery:** Made directly
 

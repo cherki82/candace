@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 382 mentions"
+description: "Jesus Christ (People) - 386 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-jesus-christ-t-00-25-48">2026-08-31 · 00:50:24</a></strong></div>
-<div><span>Episodes</span><strong>125</strong></div>
-<div><span>Mentions</span><strong>382</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jesus-christ-t-00-50-19">2026-09-01 · 00:50:49</a></strong></div>
+<div><span>Episodes</span><strong>126</strong></div>
+<div><span>Mentions</span><strong>386</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -161,6 +161,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-jesus-christ-t-00-27-47" style="--pulse-height:9%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jesus-christ-t-00-58-18" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-jesus-christ-t-00-08-13" style="--pulse-height:18%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jesus-christ-t-00-28-34" style="--pulse-height:18%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -291,6 +292,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-jesus-christ-t-00-27-47) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-jesus-christ-t-00-58-18) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-jesus-christ-t-00-08-13) | 4 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-jesus-christ-t-00-28-34) | 4 |
 
 </details>
 </section>
@@ -298,7 +300,24 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (382)</strong></summary>
+<summary><strong class="section-title">Raw mentions (386)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>
+
+**[00:29:03](/episodes/ep-ZkDO-MRLUco.md#ent-person-jesus-christ-t-00-28-34)**
+> "And everything changes. The chance for new life skyrockets, and this year that moment has led to thousands of commitments to Christ."
+
+**[00:48:36](/episodes/ep-ZkDO-MRLUco.md#ent-person-jesus-christ-t-00-48-11)**
+> "I love that you love Christ and that you give us hope. Greetings from Norway...."
+
+**[00:48:53](/episodes/ep-ZkDO-MRLUco.md#ent-person-jesus-christ-t-00-48-53)**
+> "...elim to come back on. Go Max, Christ is king."
+
+**[00:50:49](/episodes/ep-ZkDO-MRLUco.md#ent-person-jesus-christ-t-00-50-19)**
+> "...esaurus? A show trial indeed. Christ is."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (4 mentions)</summary>

@@ -1,32 +1,32 @@
 ---
 title: "Centers for Disease Control and Prevention"
-description: "Centers for Disease Control and Prevention (Organizations) - 14 mentions"
+description: "Centers for Disease Control and Prevention (Organizations) - 22 mentions"
 id: "org-centers-for-disease-control-and-prevention"
 type: "ORG"
 aliases:
   - "CDC"
+  - "Centers for Disease Control"
 categories:
   - "United States government"
   - "public health"
+  - "U.S. public health agency"
 ---
 
 _Type: Organizations_
 
-**Also known as:** CDC
+**Also known as:** CDC, Centers for Disease Control
 
-**Categories:** United States government, public health
-
-> **Possibly overlapping entity records:** [CDC](/entities/org-cdc). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** United States government, public health, U.S. public health agency
 
 **Entity verification:** verified
 > Official agency page confirms the canonical name and acronym.
 Source: [About CDC](https://www.cdc.gov/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-centers-for-disease-control-and-prevention-t-00-29-20">2026-01-05 · 00:29:41</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-centers-for-disease-control-and-prevention-t-00-22-47">2025-09-19 · 00:23:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-centers-for-disease-control-and-prevention-t-01-18-41">2026-08-14 · 01:18:56</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,13 @@ Source: [About CDC](https://www.cdc.gov/about/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-centers-for-disease-control-and-prevention-t-00-28-09">UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-centers-for-disease-control-and-prevention-t-00-22-47" style="--pulse-height:33%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-centers-for-disease-control-and-prevention-t-00-28-31" style="--pulse-height:67%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 2 mentions" title="2025-09-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-centers-for-disease-control-and-prevention-t-00-45-11" style="--pulse-height:33%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-centers-for-disease-control-and-prevention-t-00-25-24" style="--pulse-height:33%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-centers-for-disease-control-and-prevention-t-00-45-22" style="--pulse-height:33%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-org-centers-for-disease-control-and-prevention-t-00-44-40" style="--pulse-height:33%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-centers-for-disease-control-and-prevention-t-00-26-21" style="--pulse-height:33%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-centers-for-disease-control-and-prevention-t-00-29-20" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-centers-for-disease-control-and-prevention-t-00-31-02" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-centers-for-disease-control-and-prevention-t-00-19-55" style="--pulse-height:33%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
@@ -49,6 +56,13 @@ Source: [About CDC](https://www.cdc.gov/about/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-centers-for-disease-control-and-prevention-t-00-22-47) | 1 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-centers-for-disease-control-and-prevention-t-00-28-31) | 2 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-centers-for-disease-control-and-prevention-t-00-45-11) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-centers-for-disease-control-and-prevention-t-00-25-24) | 1 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-centers-for-disease-control-and-prevention-t-00-45-22) | 1 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-centers-for-disease-control-and-prevention-t-00-44-40) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-centers-for-disease-control-and-prevention-t-00-26-21) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-centers-for-disease-control-and-prevention-t-00-29-20) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-centers-for-disease-control-and-prevention-t-00-31-02) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-centers-for-disease-control-and-prevention-t-00-19-55) | 1 |
@@ -63,7 +77,7 @@ Source: [About CDC](https://www.cdc.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -139,6 +153,65 @@ Source: [About CDC](https://www.cdc.gov/about/)
 
 **[00:29:41](/episodes/ep-OEAHy3SsIiI.md#ent-org-centers-for-disease-control-and-prevention-t-00-29-20)**
 > "While the CDC remains silent,"
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
+
+**[00:26:21](/episodes/ep-SKGUzGHymcI.md#ent-org-centers-for-disease-control-and-prevention-t-00-26-21)**
+> "Thanks to CDC demonizing its efficacy a few years back, they op..."
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
+
+**[00:44:50](/episodes/ep-r1PS67aRmcA.md#ent-org-centers-for-disease-control-and-prevention-t-00-44-40)**
+> "...he fact that according to the CDC's own data, the flu shot is only moderately effecti..."
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
+
+**[00:46:00](/episodes/ep-YFmRH8p5lt0.md#ent-org-centers-for-disease-control-and-prevention-t-00-45-22)**
+> "...he fact that according to the CDC's own data, the flu shot is only moderately effecti..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
+
+**[00:25:24](/episodes/ep-iHav0PPzUz8.md#ent-org-centers-for-disease-control-and-prevention-t-00-25-24)**
+> "...ct that even according to the CDC's own data, the flu shot is only moderately effecti..."
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1 mentions)</summary>
+
+**[00:45:17](/episodes/ep-c5BcKF91iec.md#ent-org-centers-for-disease-control-and-prevention-t-00-45-11)**
+> "...he fact that according to the CDC's own data, the flu shot is quote-unquote "moderate..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
+
+**[00:28:56](/episodes/ep-QZWSsq8ZWzw.md#ent-org-centers-for-disease-control-and-prevention-t-00-28-31)**
+> "...he fact that according to the CDC's own data, the flu shot is moderately effective at..."
+
+**[00:29:04](/episodes/ep-QZWSsq8ZWzw.md#ent-org-centers-for-disease-control-and-prevention-t-00-28-31)**
+> "according to the CDC's own data, the flu shot is moderately effective at best"
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
+
+**[00:23:02](/episodes/ep-aDlhjfW6hz8.md#ent-org-centers-for-disease-control-and-prevention-t-00-22-47)**
+> "...he fact that according to the CDC's own data, the flu shot is only moderately effecti..."
 
 </details>
 

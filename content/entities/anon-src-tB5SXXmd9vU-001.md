@@ -74,7 +74,7 @@ _No relationships extracted yet._
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3)</summary>
 
 - [00:03:25](/episodes/ep-tB5SXXmd9vU.md#t-00-03-07) [○] (Accusation) ["An anonymous purported French-government source alleged that a small National Ge..."](/statements/statement-d2fe1a2c7252.md)
-  - About: [National Gendarmerie Intervention Group](/entities/org-national-gendarmerie-intervention-group.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [Groupe d'intervention de la Gendarmerie nationale](/entities/org-gign.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:03:45](/episodes/ep-tB5SXXmd9vU.md#t-00-03-07) [○] (Accusation) ["An anonymous purported French-government source alleged that Charlie Kirk’s assa..."](/statements/statement-dd336cf8fac8.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [French Foreign Legion](/entities/org-french-foreign-legion.md)

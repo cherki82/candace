@@ -21,7 +21,7 @@ type: "accusation"
 ## About
 
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
-- [Turning Point Faith](/entities/org-turning-point-faith.md) (org)
+- [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md) (org)
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 
 ## Source

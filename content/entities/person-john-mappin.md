@@ -1,6 +1,6 @@
 ---
 title: "John Mappin"
-description: "John Mappin (People) - 20 mentions"
+description: "John Mappin (People) - 21 mentions"
 id: "person-john-mappin"
 type: "PERSON"
 categories:
@@ -20,7 +20,7 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-44-22">2025-10-07 · 00:44:56</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-john-mappin-t-00-24-19">2026-08-31 · 00:24:38</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
@@ -55,7 +55,7 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (12 mentions)</summary>
@@ -164,7 +164,7 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <details>
 <summary>Criticized By (1)</summary>
 
-- **[Marina Mappin](/entities/person-marina-mappin.md)**
+- **[Irina Mappin](/entities/person-irina-mappin.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:33:41](/episodes/ep-K1tFD7FfoCU.md#t-00-33-12): “I think he directed his fire at like John Mappin, and Arena Mappin called John Mappin a loser.”
@@ -260,7 +260,7 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 
 </details>
 
-- **[Marina Mappin](/entities/person-marina-mappin.md)** criticized this
+- **[Irina Mappin](/entities/person-irina-mappin.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:33:41](/episodes/ep-K1tFD7FfoCU.md#t-00-33-12): “I think he directed his fire at like John Mappin, and Arena Mappin called John Mappin a loser.”
@@ -361,7 +361,7 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
 - [00:16:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43) (Claim) **Candace Owens**: ["Owens described John and Marina Mappin as donors who wrote a letter sa..."](/statements/statement-b6a5f28fb03c.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Marina Mappin](/entities/person-marina-mappin.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Irina Mappin](/entities/person-irina-mappin.md)
 
 </details>
 

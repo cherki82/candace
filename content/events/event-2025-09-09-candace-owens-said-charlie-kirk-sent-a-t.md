@@ -17,7 +17,7 @@ time: "15:54"
 
 > Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause.
 
-## Mentioned In (7 times)
+## Mentioned In (8 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -74,3 +74,11 @@ time: "15:54"
 <a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=950s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie snapped. He did abandon the pro-Israel cause.
+
+### 8. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
+
+**Episode:** [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md)
+**Timestamp:** [00:12:14](/episodes/ep-ZkDO-MRLUco.md#t-00-12-14) 
+<a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=734s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Charlie's texting donors that he has no choice but to abandon of all things the pro israel cause

@@ -6,17 +6,21 @@ type: "PERSON"
 aliases:
   - "Show Host (Brian; surname unverified)"
   - "Brian (show host; surname unverified)"
+  - "Show Host Brian (surname unverified)"
 categories:
   - "Fox News"
   - "broadcast journalism"
   - "Fox & Friends"
+  - "embedded show interviewer"
+  - "partial identity"
+  - "episode 4YgrOhhy708"
 ---
 
 _Type: People_
 
-**Also known as:** Show Host (Brian; surname unverified), Brian (show host; surname unverified)
+**Also known as:** Show Host (Brian; surname unverified), Brian (show host; surname unverified), Show Host Brian (surname unverified)
 
-**Categories:** Fox News, broadcast journalism, Fox & Friends
+**Categories:** Fox News, broadcast journalism, Fox & Friends, embedded show interviewer, partial identity, episode 4YgrOhhy708
 
 **Entity verification:** verified
 > Official Fox News profile verifies Brian Kilmeade as a Fox & Friends co-host; the Trump clip addresses Brian in that program context.

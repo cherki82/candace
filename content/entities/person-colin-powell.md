@@ -104,7 +104,7 @@ Source: [Colin Luther Powell | Office of the Historian](https://history.state.go
 
 </details>
 
-- **[George H.W. Bush](/entities/person-george-hw-bush.md)** worked with this
+- **[George H. W. Bush](/entities/person-george-h-w-bush.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:35](/episodes/ep-t4U7NjnUEgc.md#t-00-05-09): “Bush, and it was presented to the American public as, look, a war on drugs. with the help of Colin Powell.”

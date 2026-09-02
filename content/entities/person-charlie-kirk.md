@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 5946 mentions"
+description: "Charlie Kirk (People) - 5990 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01">2025-09-11 · 00:00:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-charlie-kirk-t-00-49-38">2026-08-31 · 00:49:47</a></strong></div>
-<div><span>Episodes</span><strong>161</strong></div>
-<div><span>Mentions</span><strong>5,946</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-53-58">2026-09-01 · 00:53:58</a></strong></div>
+<div><span>Episodes</span><strong>162</strong></div>
+<div><span>Mentions</span><strong>5,990</strong></div>
 <div><span>Statements by</span><strong>124</strong></div>
-<div><span>Statements about</span><strong>1,856</strong></div>
-<div><span>Relationships</span><strong>343</strong></div>
+<div><span>Statements about</span><strong>1,891</strong></div>
+<div><span>Relationships</span><strong>352</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -169,7 +169,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:56%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 61 mentions" title="2026-06-17 · 61 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-charlie-kirk-t-00-02-01" style="--pulse-height:24%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 26 mentions" title="2026-06-18 · 26 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-charlie-kirk-t-00-03-04" style="--pulse-height:64%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 69 mentions" title="2026-06-22 · 69 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-charlie-kirk-t-00-00-49" style="--pulse-height:39%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 42 mentions" title="2026-06-23 · 42 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-charlie-kirk-t-00-00-49" style="--pulse-height:38%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 41 mentions" title="2026-06-23 · 41 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:41%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 44 mentions" title="2026-06-24 · 44 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-charlie-kirk-t-00-01-45" style="--pulse-height:46%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 50 mentions" title="2026-06-26 · 50 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:52%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 56 mentions" title="2026-06-26 · 56 mentions"><span></span></a>
@@ -198,6 +198,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-charlie-kirk-t-00-01-41" style="--pulse-height:25%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 27 mentions" title="2026-08-19 · 27 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 7 mentions" title="2026-08-21 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-charlie-kirk-t-00-01-27" style="--pulse-height:34%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 37 mentions" title="2026-08-31 · 37 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-01-03" style="--pulse-height:42%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 45 mentions" title="2026-09-01 · 45 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -335,7 +336,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-charlie-kirk-t-00-00-01) | 61 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-charlie-kirk-t-00-02-01) | 26 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-charlie-kirk-t-00-03-04) | 69 |
-| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-charlie-kirk-t-00-00-49) | 42 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-charlie-kirk-t-00-00-49) | 41 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-charlie-kirk-t-00-00-01) | 44 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-charlie-kirk-t-00-01-45) | 50 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-charlie-kirk-t-00-00-01) | 56 |
@@ -364,6 +365,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-charlie-kirk-t-00-01-41) | 27 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-charlie-kirk-t-00-00-01) | 7 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-charlie-kirk-t-00-01-27) | 37 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-01-03) | 45 |
 
 </details>
 </section>
@@ -375,7 +377,147 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5946)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5990)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (45 mentions)</summary>
+
+**[00:01:35](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-01-03)**
+> "All the shady characters surrounding Charlie Kirk on September 10th and one person in particular who we almost forgot about that drummed up a lot of early online conspiracy theories. So let's get started."
+
+**[00:03:05](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-03-05)**
+> "... walking into the courthouse. Charlie Kirk's parents were captured. They were present arriving..."
+
+**[00:04:40](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-04-27)**
+> "...at UVU. You remember Charlie (Charlie Kirk) arrived with an interesting crew in tow, interes..."
+
+**[00:05:27](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-05-10)**
+> "... arrived at UVU with Charlie (Charlie Kirk), also met up with a man named Butch Hibbs (Burto..."
+
+**[00:08:09](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-08-09)**
+> "...rst to announce that Charlie (Charlie Kirk) had passed away. He did that on Facebook."
+
+**[00:08:30](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-08-09)**
+> "...st of the world that Charlie (Charlie Kirk) had died?"
+
+**[00:08:50](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-08-45)**
+> "After Charlie (Charlie Kirk) was shot from Israeli news service, how they kne..."
+
+**[00:09:16](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-08-58)**
+> "...hat the night before Charlie (Charlie Kirk) was assassinated, Pastor Jack Hibbs phoned him u..."
+
+**[00:09:42](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-09-42)**
+> "And Charlie (Charlie Kirk) took pictures with all the TPUSA kids that were ..."
+
+**[00:10:04](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-10-04)**
+> "...icture that probably Charlie (Charlie Kirk) took."
+
+**[00:10:49](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-10-44)**
+> "... me a chance to meet Charlie (Charlie Kirk) and to get a decent seat?"
+
+**[00:11:03](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-11-03)**
+> "...n, I mean, I'll give Charlie (Charlie Kirk) a call, but it's kind of late, you know, and all..."
+
+**[00:11:11](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-11-03)**
+> "...estly reached out to Charlie (Charlie Kirk), said, Charlie (Charlie Kirk), listen, my brothe..."
+
+**[00:11:40](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-11-03)**
+> "Wow, I got to thank Charlie (Charlie Kirk). For going above and beyond."
+
+**[00:12:14](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-12-14)**
+> "... like hey I want to go to the Charlie Kirk event and that's an interesting time frame only b..."
+
+**[00:12:43](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-12-14)**
+> "...I guess, a brand new Charlie (Charlie Kirk)."
+
+**[00:13:36](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-13-36)**
+> "...is last minute whim, Charlie (Charlie Kirk) gets hit with an explosive."
+
+**[00:14:04](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-13-56)**
+> "Charlie (Charlie Kirk) gave him a front row seat."
+
+**[00:14:08](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-13-56)**
+> "...y brother telling me Charlie (Charlie Kirk)'s just been shot."
+
+**[00:14:16](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-13-56)**
+> "Charlie (Charlie Kirk)'s just been shot."
+
+**[00:15:34](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-15-32)**
+> "...cy room after we got Charlie (Charlie Kirk) there and"
+
+**[00:16:14](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-16-14)**
+> "...can't talk. He said, Charlie (Charlie Kirk)'s been shot."
+
+**[00:16:43](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-16-43)**
+> "And he said, Charlie Kirk got shot. And I said, what?"
+
+**[00:18:43](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-18-21)**
+> "That's fast. Because Charlie (Charlie Kirk) was shot just seven minutes before then. That's ..."
+
+**[00:18:53](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-18-21)**
+> "... of that chaos while Charlie (Charlie Kirk) was dying, Amidst all of that chaos, while Charl..."
+
+**[00:20:23](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-19-47)**
+> "...on that arrived with Charlie (Charlie Kirk), in my opinion, behaved in ways that simply unne..."
+
+**[00:20:31](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-20-31)**
+> "...ematurely announcing Charlie (Charlie Kirk)'s death to himself. He chose to record himself r..."
+
+**[00:21:14](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-21-14)**
+> "Those are both of Charlie (Charlie Kirk)'s assistants. Nobody called 911 to our knowledge..."
+
+**[00:21:24](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-21-14)**
+> "...Shapiro's security team while Charlie Kirk was dying in the backseat. A person..."
+
+**[00:21:35](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-21-14)**
+> "Who Charlie Kirk could not stand was receiving status updates rega..."
+
+**[00:21:57](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-21-57)**
+> "...im. He walks in with Charlie (Charlie Kirk). He's standing just to the right of Charlie (Cha..."
+
+**[00:23:41](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-23-16)**
+> "...his is seconds after Charlie (Charlie Kirk) was hit. He is recording. He does not stop recor..."
+
+**[00:23:57](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-23-57)**
+> "...ing toward the action to help Charlie Kirk, just calmly looking around and recording as peop..."
+
+**[00:27:25](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-27-14)**
+> "...t I don't think that Charlie (Charlie Kirk) can survive this, unless the EMTs were close and..."
+
+**[00:34:39](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-34-39)**
+> "...re real that I'm going to see Charlie Kirk and I"
+
+**[00:37:20](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-37-20)**
+> "...irearm that was used to shoot Charlie Kirk."
+
+**[00:41:54](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-41-54)**
+> "And I stand by Charlie (Charlie Kirk)'s premonition about his death, that his death wo..."
+
+**[00:42:25](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-42-25)**
+> "...m of who killed their friend, Charlie Kirk."
+
+**[00:43:09](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-43-09)**
+> "...ld J. Trump) made to Charlie (Charlie Kirk) in July telling him to stop speaking about the E..."
+
+**[00:47:33](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-47-27)**
+> "Mine. Charlie Kirk, I'll pick up that bloody mic. And now he's annou..."
+
+**[00:48:59](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-48-53)**
+> "...lake Neff)'s and the official Charlie Kirk account live streams combined."
+
+**[00:49:23](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-48-53)**
+> "And so no one watches the Charlie Kirk show and that's why we called Beavis and Butt-Hea..."
+
+**[00:53:22](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-53-22)**
+> "...alker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not fr..."
+
+**[00:53:49](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-53-22)**
+> "...ke 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an ..."
+
+**[00:53:58](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-53-58)**
+> "...ort of a human being Charlie (Charlie Kirk) was."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (37 mentions)</summary>
@@ -3365,7 +3507,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (42 mentions)</summary>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (41 mentions)</summary>
 
 **[00:01:12](/episodes/ep-9CuC1yf8-PU.md#ent-person-charlie-kirk-t-00-00-49)**
 > "I had asked last week, what happened to Charlie Kirk's shirt?"
@@ -3474,9 +3616,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 **[00:46:40](/episodes/ep-9CuC1yf8-PU.md#ent-person-charlie-kirk-t-00-46-40)**
 > "... it's not because of Charlie (Charlie Kirk), because we examined this when she met Charlie (..."
-
-**[00:47:18](/episodes/ep-9CuC1yf8-PU.md#ent-person-charlie-kirk-t-00-47-18)**
-> "express how we're all feeling about the ridiculousness of everything. I actually don't have a lot of resentment for J.D. Vance, and I don't think Tim Dillon does either. But the idea of everything that we've just lived through with Iran and the gaslighting and the Epstein files and the Charlie Kirk assassination, and then J.D. Vance drops a book about his Catholicism, is a bit dizzying, I think, for a lot of people. Tim Dillon decided to do a reading of J.D. Vance's book, or something like a reading of J.D. Vance's book."
 
 **[00:47:18](/episodes/ep-9CuC1yf8-PU.md#ent-person-charlie-kirk-t-00-47-18)**
 > "express how we're all feeling about the ridiculousness of everything. I actually don't have a lot of resentment for J.D. Vance, and I don't think Tim Dillon does either. But the idea of everything that we've just lived through with Iran and the gaslighting and the Epstein files and the Charlie Kirk assassination, and then J.D. Vance drops a book about his Catholicism, is a bit dizzying, I think, for a lot of people. Tim Dillon decided to do a reading of J.D. Vance's book, or something like a reading of J.D. Vance's book."
@@ -19162,7 +19301,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details>
 <summary>Attacked By (1)</summary>
 
-- **[Antifa](/entities/org-antifa.md)**
+- **[Antifa](/entities/concept-antifa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [To My Friend, Charlie Kirk. @ 00:15:22](/episodes/ep-_dRaEO47-co.md#t-00-14-52): “I mean, of course, who could forget the infamous day that we got chased out of a Philadelphia restaurant by Antifa, and they threw water and they threw an egg on Charlie (Charlie Kirk)?”
@@ -19604,7 +19743,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Formerly Employed (4)</summary>
+<summary>Formerly Employed (5)</summary>
 
 - **[Dan Flood](/entities/person-dan-flood.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -19633,6 +19772,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:05](/episodes/ep-YA1FxrDWNIo.md#t-00-29-25): “I know how it works because I came from Turning Point USA, okay? I have toured with them every year—with the exception of this year—since I started working for Charlie (Charlie Kirk).”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even ... You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson).”
 
 </details>
 
@@ -19728,7 +19874,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Friend Of (23)</summary>
+<summary>Friend Of (22)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -19892,12 +20038,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:40:25](/episodes/ep-5NQyGuRYbU8.md#t-00-40-16): “Because in the manner in which Tucker (Tucker Carlson) expressed it, okay? ... him being a friend to Charlie (Charlie Kirk) and Erika (Erika Kirk)”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:46:54](/episodes/ep-VMNWMXX1vO8.md#t-00-46-54): “Tucker (Tucker Carlson), you and Charlie (Charlie Kirk) had such a unique and special bond and relationship. ... It was a deep friendship”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:18:53](/episodes/ep-K1tFD7FfoCU.md#t-00-18-23): “The point of me sharing this though is to make it very clear that Charlie (Charlie Kirk) loved Tucker (Tucker Carlson).”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:26:01](/episodes/ep-w1oqQbR_bYs.md#t-00-26-01): “That is Charlie Kirk's true legacy and that is Charlie Kirk's true friend, just as I was and am and will continue to fight and ask questions about who killed Charlie Kirk.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even ... You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson).”
 
 </details>
 
@@ -19923,10 +20070,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
-- **[Marina Mappin](/entities/person-marina-mappin.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+- **[Irina Mappin](/entities/person-irina-mappin.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:16:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43): “John and Marina Mappin, the lone donors who wrote that beautiful letter that has impacted the world—like true friends of Charlie (Charlie Kirk) who stood up and said that what Turning Point USA is doing is wrong.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially.”
 
 </details>
 
@@ -19941,13 +20089,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:49:30](/episodes/ep-sImMM04XdWY.md#t-00-49-03): “VBVC writes: "Just know that Ron Paul has used his platform to speak about it. His friend Charlie (Charlie Kirk)—questioning the official narrative—and if dark forces are responsible, a 9/10/2025, no one is as loud as you, but Ron is a real one too."”
-
-</details>
-
-- **[Irina Mappin](/entities/person-irina-mappin.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially.”
 
 </details>
 
@@ -19968,7 +20109,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details>
 <summary>Funded By (1)</summary>
 
-- **[Bob Shillman](/entities/person-bob-shillman.md)**
+- **[Robert J. Shillman](/entities/person-robert-j-shillman.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16): “When you end up in a world where—like—a couple of days before Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's (Charlie Kirk's) murder—you know exactly what kind of world you live in.”
@@ -20021,12 +20162,26 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Has Former Assistant (1)</summary>
+<summary>Has Former Assistant (3)</summary>
 
 - **[Sarah (Charlie Kirk assistant; surname unverified)](/entities/person-sarah-charlie-kirk-assistant-surname-unverified.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [To My Friend, Charlie Kirk. @ 00:15:12](/episodes/ep-_dRaEO47-co.md#t-00-14-52): “Just literally me, Charlie (Charlie Kirk) and Sarah, who was his assistant at the time, just playing the hype music.”
+
+</details>
+
+- **[Danny Philip](/entities/person-danny-philip.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:21:07](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31): “He did not thereafter call 911. Danny Philip, to our knowledge, did not call 911. Neither did Nate Walker. ... Those are both of Charlie (Charlie Kirk)'s assistants. Nobody called 911 to our knowledge. They all shared their stories and left that out if they did.”
+
+</details>
+
+- **[Nate Walker](/entities/person-nate-walker.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:21:07](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31): “He did not thereafter call 911. Danny Philip, to our knowledge, did not call 911. Neither did Nate Walker. ... Those are both of Charlie (Charlie Kirk)'s assistants. Nobody called 911 to our knowledge. They all shared their stories and left that out if they did.”
 
 </details>
 
@@ -20203,7 +20358,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Met With (19)</summary>
+<summary>Met With (20)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -20354,6 +20509,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
+- **[Burton Hibbs](/entities/person-burton-hibbs.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:42](/episodes/ep-ZkDO-MRLUco.md#t-00-09-42): “And Charlie (Charlie Kirk) took pictures with all the TPUSA kids that were lined up. And then your brother was there and he goes, I'm Jack Hibbs' brother. ... Burton (Burton Hibbs), okay, yeah, yeah, yeah. And so he introduced himself and the last picture, formal picture that probably Charlie (Charlie Kirk) took. ... Was was with him and me uh”
+
+</details>
+
 </details>
 
 <details>
@@ -20468,7 +20630,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Spoke With (7)</summary>
+<summary>Spoke With (9)</summary>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -20519,6 +20681,20 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:59:41](/episodes/ep-pc3pxRyNFZk.md#t-00-59-23): “something that I would speak about with Charlie (Charlie Kirk) because he was, in fact, very interested in Catholicism.”
+
+</details>
+
+- **[Jack Hibbs](/entities/person-jack-hibbs.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:11:03](/episodes/ep-ZkDO-MRLUco.md#t-00-11-03): “He says, hey, can you and I said, well, I mean, I mean, I'll give Charlie (Charlie Kirk) a call, but it's kind of late, you know, and all that stuff. ... And I'm thinking so I honestly reached out to Charlie (Charlie Kirk), said, Charlie (Charlie Kirk), listen, my brother lives nearby. He wants to come see you. ... I know that you got too much going on right now, but I was faithful to give you his request.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:43:09](/episodes/ep-ZkDO-MRLUco.md#t-00-43-09): “A lot of the human trafficking themes, the phone call that Trump (Donald J. Trump) made to Charlie (Charlie Kirk) in July telling him to stop speaking about the Epstein (Jeffrey Epstein) files.”
 
 </details>
 
@@ -20687,7 +20863,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Referenced By (176)</summary>
+<summary>Referenced By (180)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -20841,7 +21017,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
-- **[Antifa](/entities/org-antifa.md)** attacked this
+- **[Antifa](/entities/concept-antifa.md)** attacked this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [To My Friend, Charlie Kirk. @ 00:15:22](/episodes/ep-_dRaEO47-co.md#t-00-14-52): “I mean, of course, who could forget the infamous day that we got chased out of a Philadelphia restaurant by Antifa, and they threw water and they threw an egg on Charlie (Charlie Kirk)?”
@@ -20939,9 +21115,8 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:01](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45): “Charlie was surrounded by his friends, quote-unquote friends. Bill Ackman was very upset and threats were made.”
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:01](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45): “Charlie was surrounded by his friends, quote-unquote friends. Bill Ackman was very upset and threats were made.”
 
 </details>
@@ -21105,6 +21280,20 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
+- **[Danny Philip](/entities/person-danny-philip.md)** former assistant to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:21:07](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31): “He did not thereafter call 911. Danny Philip, to our knowledge, did not call 911. Neither did Nate Walker. ... Those are both of Charlie (Charlie Kirk)'s assistants. Nobody called 911 to our knowledge. They all shared their stories and left that out if they did.”
+
+</details>
+
+- **[Nate Walker](/entities/person-nate-walker.md)** former assistant to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:21:07](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31): “He did not thereafter call 911. Danny Philip, to our knowledge, did not call 911. Neither did Nate Walker. ... Those are both of Charlie (Charlie Kirk)'s assistants. Nobody called 911 to our knowledge. They all shared their stories and left that out if they did.”
+
+</details>
+
 - **[Arlington Heights, Illinois](/entities/gpe-arlington-heights-illinois.md)** former residence of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -21155,6 +21344,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:05](/episodes/ep-YA1FxrDWNIo.md#t-00-29-25): “I know how it works because I came from Turning Point USA, okay? I have toured with them every year—with the exception of this year—since I started working for Charlie (Charlie Kirk).”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even ... You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson).”
 
 </details>
 
@@ -21368,12 +21564,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:40:25](/episodes/ep-5NQyGuRYbU8.md#t-00-40-16): “Because in the manner in which Tucker (Tucker Carlson) expressed it, okay? ... him being a friend to Charlie (Charlie Kirk) and Erika (Erika Kirk)”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:46:54](/episodes/ep-VMNWMXX1vO8.md#t-00-46-54): “Tucker (Tucker Carlson), you and Charlie (Charlie Kirk) had such a unique and special bond and relationship. ... It was a deep friendship”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:18:53](/episodes/ep-K1tFD7FfoCU.md#t-00-18-23): “The point of me sharing this though is to make it very clear that Charlie (Charlie Kirk) loved Tucker (Tucker Carlson).”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:26:01](/episodes/ep-w1oqQbR_bYs.md#t-00-26-01): “That is Charlie Kirk's true legacy and that is Charlie Kirk's true friend, just as I was and am and will continue to fight and ask questions about who killed Charlie Kirk.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even ... You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson).”
 
 </details>
 
@@ -21399,10 +21596,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
-- **[Marina Mappin](/entities/person-marina-mappin.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+- **[Irina Mappin](/entities/person-irina-mappin.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:16:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43): “John and Marina Mappin, the lone donors who wrote that beautiful letter that has impacted the world—like true friends of Charlie (Charlie Kirk) who stood up and said that what Turning Point USA is doing is wrong.”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially.”
 
 </details>
 
@@ -21420,14 +21618,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
-- **[Irina Mappin](/entities/person-irina-mappin.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially.”
-
-</details>
-
-- **[Bob Shillman](/entities/person-bob-shillman.md)** funded this
+- **[Robert J. Shillman](/entities/person-robert-j-shillman.md)** funded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16): “When you end up in a world where—like—a couple of days before Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's (Charlie Kirk's) murder—you know exactly what kind of world you live in.”
@@ -21798,6 +21989,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
+- **[Burton Hibbs](/entities/person-burton-hibbs.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:42](/episodes/ep-ZkDO-MRLUco.md#t-00-09-42): “And Charlie (Charlie Kirk) took pictures with all the TPUSA kids that were lined up. And then your brother was there and he goes, I'm Jack Hibbs' brother. ... Burton (Burton Hibbs), okay, yeah, yeah, yeah. And so he introduced himself and the last picture, formal picture that probably Charlie (Charlie Kirk) took. ... Was was with him and me uh”
+
+</details>
+
 - **[The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)** owned by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -21879,6 +22077,20 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:59:41](/episodes/ep-pc3pxRyNFZk.md#t-00-59-23): “something that I would speak about with Charlie (Charlie Kirk) because he was, in fact, very interested in Catholicism.”
+
+</details>
+
+- **[Jack Hibbs](/entities/person-jack-hibbs.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:11:03](/episodes/ep-ZkDO-MRLUco.md#t-00-11-03): “He says, hey, can you and I said, well, I mean, I mean, I'll give Charlie (Charlie Kirk) a call, but it's kind of late, you know, and all that stuff. ... And I'm thinking so I honestly reached out to Charlie (Charlie Kirk), said, Charlie (Charlie Kirk), listen, my brother lives nearby. He wants to come see you. ... I know that you got too much going on right now, but I was faithful to give you his request.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:43:09](/episodes/ep-ZkDO-MRLUco.md#t-00-43-09): “A lot of the human trafficking themes, the phone call that Trump (Donald J. Trump) made to Charlie (Charlie Kirk) in July telling him to stop speaking about the Epstein (Jeffrey Epstein) files.”
 
 </details>
 
@@ -22132,13 +22344,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
-- **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:27:01](/episodes/ep-G3zdOeHpvS0.md#t-00-26-30): “Taryl Farnsworth, the CEO of Visual Impulse, longtime audio and visual guy for Charlie (Charlie Kirk) and Turning Point USA”
-
-</details>
-
 - **[Andrew Sypher](/entities/person-andrew-sypher.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -22154,11 +22359,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
-- **[Terrell Farnsworth](/entities/person-terrell-farnsworth.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+- **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:05:44](/episodes/ep-4JxgOclKzqg.md#t-00-05-31): “Myself and my team were there to provide audio video equipment, set up management and support as we had done for Mr. Charlie Kirk for years.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:05:19](/episodes/ep-9hRcfSrri70.md#t-00-05-19): “And he's been on Charlie (Charlie Kirk)'s team for 10 years. And he'll... And he'll clear this up and then I'll use my platform to explain to everyone what actually happens.”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:27:01](/episodes/ep-G3zdOeHpvS0.md#t-00-26-30): “Taryl Farnsworth, the CEO of Visual Impulse, longtime audio and visual guy for Charlie (Charlie Kirk) and Turning Point USA”
 
 </details>
 
@@ -22839,7 +23045,70 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (1856)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (1891)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (20)</summary>
+
+- [00:05:27](/episodes/ep-ZkDO-MRLUco.md#t-00-05-10) (Claim) **Candace Owens**: ["Owens said Michael McCoy and Burton Hibbs walked into the UVU event wi..."](/statements/statement-37f7aabb57b2.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Burton Hibbs](/entities/person-burton-hibbs.md)
+
+- [00:08:45](/episodes/ep-ZkDO-MRLUco.md#t-00-08-45) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs said he first learned that Charlie Kirk had died from an Is..."](/statements/statement-ae521d8fdb9f.md)
+  - Also about: [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+- [00:09:42](/episodes/ep-ZkDO-MRLUco.md#t-00-09-42) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said what was probably Charlie Kirk’s last formal photogra..."](/statements/statement-2beb3e594dc7.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Burton Hibbs](/entities/person-burton-hibbs.md)
+
+- [00:10:49](/episodes/ep-ZkDO-MRLUco.md#t-00-10-44) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs said his brother Burton called the night before the UVU eve..."](/statements/statement-65d42e2d2aa6.md)
+  - Also about: [Jack Hibbs](/entities/person-jack-hibbs.md), [Burton Hibbs](/entities/person-burton-hibbs.md)
+
+- [00:12:50](/episodes/ep-ZkDO-MRLUco.md#t-00-12-14) (Claim) **Candace Owens** (via paraphrase): ["Owens said Charlie Kirk was texting people that he thought he was goin..."](/statements/statement-42fc45bc6f74.md)
+
+- [00:12:57](/episodes/ep-ZkDO-MRLUco.md#t-00-12-57) (Claim) **Candace Owens** (via paraphrase): ["Owens said the account offered by Kirk’s associates was that he was sp..."](/statements/statement-d6962e918ed9.md)
+  - Also about: [Josh Hammer](/entities/person-josh-hammer.md)
+
+- [00:13:56](/episodes/ep-ZkDO-MRLUco.md#t-00-13-56) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs told Todd Starnes that Charlie Kirk gave his brother a fron..."](/statements/statement-5b000612c437.md)
+  - Also about: [Jack Hibbs](/entities/person-jack-hibbs.md), [Burton Hibbs](/entities/person-burton-hibbs.md)
+
+- [00:15:28](/episodes/ep-ZkDO-MRLUco.md#t-00-15-28) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said he called Jack Hibbs from the emergency room after th..."](/statements/statement-79ceb8b3ebd0.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+- [00:16:14](/episodes/ep-ZkDO-MRLUco.md#t-00-16-14) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs said he initially thought his brother meant their cousin Ch..."](/statements/statement-c75085f4f262.md)
+  - Also about: [Jack Hibbs](/entities/person-jack-hibbs.md), [Burton Hibbs](/entities/person-burton-hibbs.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:18:38](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21) (Claim) **Candace Owens**: ["Owens said the reported 12:30 prayer chain would have begun only seven..."](/statements/statement-f3cd280fc293.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+- [00:20:31](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31) (Accusation) **Candace Owens**: ["Owens said Terryl Farnsworth recorded himself announcing Kirk’s death ..."](/statements/statement-465124992f4e.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
+
+- [00:21:07](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31) (Claim) **Candace Owens**: ["Owens said that, to her knowledge, Charlie Kirk’s assistants Danny Phi..."](/statements/statement-62e393aa7eec.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Nate Walker](/entities/person-nate-walker.md)
+
+- [00:21:24](/episodes/ep-ZkDO-MRLUco.md#t-00-21-14) (Accusation) **Candace Owens**: ["Owens alleged someone in the hospital-bound SUV gave Ben Shapiro’s sec..."](/statements/statement-047607ffd677.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:21:57](/episodes/ep-ZkDO-MRLUco.md#t-00-21-57) (Claim) **Candace Owens**: ["Owens said Burton Hibbs stood to the right of Charlie Kirk and the ten..."](/statements/statement-2b2248b214e5.md)
+  - Also about: [Burton Hibbs](/entities/person-burton-hibbs.md), [Danny Philip](/entities/person-danny-philip.md)
+
+- [00:23:16](/episodes/ep-ZkDO-MRLUco.md#t-00-23-16) (Accusation) **Candace Owens**: ["Owens presented new footage that she interpreted as Burton Hibbs calml..."](/statements/statement-261f8a41d5d3.md)
+  - Also about: [Burton Hibbs](/entities/person-burton-hibbs.md)
+
+- [00:25:18](/episodes/ep-ZkDO-MRLUco.md#t-00-25-18) (Claim) **Candace Owens**: ["Owens said footage appeared to show Burton Hibbs on a phone call about..."](/statements/statement-34925a90b2c9.md)
+  - Also about: [Burton Hibbs](/entities/person-burton-hibbs.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+- [00:26:52](/episodes/ep-ZkDO-MRLUco.md#t-00-26-52) (Claim) **UVU eyewitness (identity unverified; episode ZkDO-MRLUco)** (via quoted speech): ["The unidentified UVU eyewitness said the sound resembled a higher cali..."](/statements/statement-a03bc4da9225.md)
+
+- [00:34:39](/episodes/ep-ZkDO-MRLUco.md#t-00-34-39) (Claim) **Candace Owens** (via paraphrase): ["Owens said prosecutors alleged Robinson fired only one bullet despite ..."](/statements/statement-99589070745b.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:42:59](/episodes/ep-ZkDO-MRLUco.md#t-00-42-25) (Opinion) **Candace Owens**: ["Owens said she thought Kirk’s death would somehow be tied to the Epste..."](/statements/statement-82db730b1673.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22) (Claim) **Candace Owens**: ["Owens said Blake Neff began working with Charlie Kirk around the begin..."](/statements/statement-5cf3954bac20.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (13)</summary>
@@ -22887,16 +23156,16 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (12)</summary>
 
-- [00:08:42](/episodes/ep-_cNtgris8Ik.md#t-00-08-11) (Claim) **Terrell Farnsworth** (via quoted speech): ["Farnsworth said, "He's dead," within approximately two minutes of Char..."](/statements/statement-e1014c0c3f17.md)
+- [00:08:42](/episodes/ep-_cNtgris8Ik.md#t-00-08-11) (Claim) **Terryl Farnsworth** (via quoted speech): ["Farnsworth said, "He's dead," within approximately two minutes of Char..."](/statements/statement-e1014c0c3f17.md)
 
 - [00:12:25](/episodes/ep-_cNtgris8Ik.md#t-00-12-25) (Claim) **Candace Owens** (via paraphrase): ["Owens said Farnsworth told her he acted on his own initiative because ..."](/statements/statement-83ea29ae1498.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Erika Kirk](/entities/person-erika-kirk.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:19:55](/episodes/ep-_cNtgris8Ik.md#t-00-19-35) (Accusation) **Candace Owens**: ["Owens said the only explanation she could devise for decreasing the as..."](/statements/statement-941dd492f0f0.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:21:17](/episodes/ep-_cNtgris8Ik.md#t-00-20-47) (Opinion) **Candace Owens**: ["Owens said, as her opinion, that if there were an impetus to zoom the ..."](/statements/statement-7dda43a2145c.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 - [00:38:13](/episodes/ep-_cNtgris8Ik.md#t-00-38-05) (Accusation) **Andrew Kolvet** (via quoted speech): ["Kolvet said Owens's claim to have been friends with Charlie Kirk was a..."](/statements/statement-72f16755b259.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
@@ -22928,16 +23197,16 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (11)</summary>
 
 - [00:08:23](/episodes/ep-9hRcfSrri70.md#t-00-08-00) (Claim) **Candace Owens**: ["Owens said Terrell Farnsworth pocketed the camera's SD card before tex..."](/statements/statement-c1ff0dc2eb11.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 - [00:11:09](/episodes/ep-9hRcfSrri70.md#t-00-10-43) (Claim) **Anonymous Source #2 (Ep 9hRcfSrri70)** (via read message): ["A trusted government source told Owens that Farnsworth's handling of t..."](/statements/statement-86d44b89e5a1.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 - [00:11:32](/episodes/ep-9hRcfSrri70.md#t-00-11-24) (Claim) **Candace Owens**: ["Owens said it appeared that Terrell Farnsworth inserted the pocketed S..."](/statements/statement-8f5e1b31e675.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 - [00:14:58](/episodes/ep-9hRcfSrri70.md#t-00-14-53) (Claim) **Candace Owens**: ["Owens said Farnsworth stepped over the fallen audience camera and its ..."](/statements/statement-152cddbcddc6.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 - [00:16:58](/episodes/ep-9hRcfSrri70.md#t-00-16-58) (Claim) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk had publicly stated on Glenn Beck's show that Ch..."](/statements/statement-3fa5be000b78.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
@@ -22958,7 +23227,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [the federal government](/entities/org-the-federal-government.md)
 
 - [00:46:47](/episodes/ep-9hRcfSrri70.md#t-00-46-47) (Claim) **Candace Owens**: ["Owens said the camera files she reviewed all stopped around the 26-min..."](/statements/statement-3e984a5b4963.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 </details>
 
@@ -22966,22 +23235,22 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (8)</summary>
 
 - [00:02:09](/episodes/ep-4JxgOclKzqg.md#t-00-02-09) (Claim) **Candace Owens**: ["Owens said Terrell Farnsworth was seen taking down the camera behind C..."](/statements/statement-474145d5c4ac.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-- [00:05:44](/episodes/ep-4JxgOclKzqg.md#t-00-05-31) (Claim) **Terrell Farnsworth** (via quoted document): ["In a 1102 statement, Farnsworth said Visual Impulse's setup at the Sep..."](/statements/statement-6c2336878f0c.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Visual Impulse, LLC](/entities/org-visual-impulse.md)
+- [00:05:44](/episodes/ep-4JxgOclKzqg.md#t-00-05-31) (Claim) **Terryl Farnsworth** (via quoted document): ["In a 1102 statement, Farnsworth said Visual Impulse's setup at the Sep..."](/statements/statement-6c2336878f0c.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Visual Impulse, LLC](/entities/org-visual-impulse.md)
 
 - [00:10:59](/episodes/ep-4JxgOclKzqg.md#t-00-10-59) (Claim) **Nissy (YouTuber; identity unverified)** (via quoted speech): ["Nissy said the rear camera was normally used as a wide-angle camera, b..."](/statements/statement-67831155db51.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Candace Owens](/entities/person-candace-owens.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:11:10](/episodes/ep-4JxgOclKzqg.md#t-00-10-59) (Opinion) **Nissy (YouTuber; identity unverified)** (via quoted speech): ["Nissy said either the UVU camera setup had been changed and zoomed in ..."](/statements/statement-297d1715cc68.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Candace Owens](/entities/person-candace-owens.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:18:36](/episodes/ep-4JxgOclKzqg.md#t-00-18-26) (Claim) **Candace Owens**: ["Owens said the rear-camera footage had been turned into a separate cli..."](/statements/statement-f157a5d2bd8a.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
 
 - [00:26:11](/episodes/ep-4JxgOclKzqg.md#t-00-26-06) (Claim) **Candace Owens** (via paraphrase): ["Owens said Farnsworth told her that he spoke with Erika Kirk about the..."](/statements/statement-7e40e43d7194.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Erika Kirk](/entities/person-erika-kirk.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:32:04](/episodes/ep-4JxgOclKzqg.md#t-00-32-04) (Claim) **John Kiriakou** (via quoted speech): ["Kiriakou said that because a kid from Utah allegedly shot Charlie Kirk..."](/statements/statement-c34029d141ff.md)
   - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -23045,7 +23314,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [00:30:12](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-12) (Accusation) **Charlie Kirk** (via read message): ["Charlie Kirk said he was somewhat worried that the left was trying to ..."](/statements/statement-407f287ebc38.md)
 
-- [00:31:26](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-52) (Claim) **Andrew Wilson**: ["Based on the evidence available so far, Andrew Wilson believes the sta..."](/statements/statement-3523ec3378a3.md)
+- [00:31:26](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-52) (Opinion) **Andrew Wilson**: ["Based on the evidence available so far, Andrew Wilson believes the sta..."](/statements/statement-3523ec3378a3.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:32:10](/episodes/ep-nPhCKwJ6ye8.md#t-00-32-10) (Citation) **Andrew Wilson**: ["Andrew Wilson says the case against Tyler Robinson is supported by cor..."](/statements/statement-53a47c80d7fd.md)
@@ -23100,7 +23369,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2)</summary>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (6)</summary>
+
+- [01:18:03](/episodes/ep-aPOyk1i2LOc.md#t-01-18-03) (Opinion) **Andrew Wilson**: ["Wilson clarified that his overwhelming-evidence assessment meant evide..."](/statements/statement-2e4cdf20307d.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [01:44:35](/episodes/ep-aPOyk1i2LOc.md#t-01-44-27) (Opinion) **Candace Owens**: ["Owens allowed that the reported Israeli cell phones at UVU could have ..."](/statements/statement-b21f1d97f010.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
 
 - [01:52:20](/episodes/ep-aPOyk1i2LOc.md#t-01-52-20) (Accusation) **Anonymous Source #2 (Ep aPOyk1i2LOc)** (via quoted speech): ["French Foreign Legion personnel were on the ground during Charlie Kirk..."](/statements/statement-f3f625166a18.md)
   - Also about: [French Foreign Legion](/entities/org-french-foreign-legion.md), [France](/entities/gpe-france.md)
@@ -23108,21 +23383,32 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [01:57:22](/episodes/ep-aPOyk1i2LOc.md#t-01-57-09) (Accusation) **Anonymous Source #3 (Ep aPOyk1i2LOc)** (via quoted speech): ["United States Marshals Service sources said marshals were sent on a wi..."](/statements/statement-693943e3f734.md)
   - Also about: [United States Marshals Service](/entities/org-united-states-marshals-service.md)
 
+- [02:26:40](/episodes/ep-aPOyk1i2LOc.md#t-02-26-40) (Opinion) **Candace Owens**: ["Owens would not confidently assert that she saw smoke in the assassina..."](/statements/statement-043d465de833.md)
+
+- [02:29:11](/episodes/ep-aPOyk1i2LOc.md#t-02-29-11) (Opinion) **Andrew Wilson**: ["Wilson said he could see Kirk's shirt move only in slowed footage, not..."](/statements/statement-39ad115a407d.md)
+  - Also about: [Rob O'Neill](/entities/person-rob-oneill.md)
+
 </details>
 
 <details>
-<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1)</summary>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (3)</summary>
+
+- [00:03:38](/episodes/ep-HGtMfbePDKk.md#t-00-03-08) (Opinion) **Candace Owens**: ["Owens rhetorically argued that Robinson's alleged Chick-fil-A visit wa..."](/statements/statement-895eeff88634.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:17:03](/episodes/ep-HGtMfbePDKk.md#t-00-16-53) (Opinion) **Candace Owens**: ["Owens said Charlie Kirk did not like Brandy Zadrozny."](/statements/statement-addd4dd52565.md)
   - Also about: [Brandy Zadrozny](/entities/person-brandy-zadrozny.md)
+
+- [00:25:35](/episodes/ep-HGtMfbePDKk.md#t-00-25-16) (Opinion) **Candace Owens**: ["Owens interpreted Zadrozny's counterfactual about Robinson's arrest as..."](/statements/statement-9bd90e08a4dd.md)
+  - Also about: [Brandy Zadrozny](/entities/person-brandy-zadrozny.md), [MAGA movement](/entities/concept-maga-movement.md)
 
 </details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (2)</summary>
 
-- [00:33:18](/episodes/ep-5zgkrOaCCj4.md#t-00-33-18) (Claim) **Anonymous Source #6 (Ep 5zgkrOaCCj4)** (via quoted post): ["An anonymous social-media analyst counted 4,040 tweets about Candace O..."](/statements/statement-d2a5c5f1cd38.md)
-  - Also about: [Anonymous Source #1 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-001.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:33:18](/episodes/ep-5zgkrOaCCj4.md#t-00-33-18) (Claim) **Candace Owens**: ["Owens said an anonymous social-media analyst counted 4,040 tweets abou..."](/statements/statement-d2a5c5f1cd38.md)
+  - Also about: [No Soup for Knolls (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-no-soup-for-knolls.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:44:14](/episodes/ep-5zgkrOaCCj4.md#t-00-43-56) (Opinion) **Candace Owens**: ["Owens said Turning Point USA is no longer the organization that reflec..."](/statements/statement-3890e65753b6.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -23164,13 +23450,19 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (8)</summary>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (11)</summary>
+
+- [00:03:23](/episodes/ep-ChuWo-n49B8.md#t-00-03-23) (Accusation) **Candace Owens**: ["Owens suggested that federal officers could use exposure of online chi..."](/statements/statement-8a21de87a78b.md)
+  - Also about: [FBI](/entities/org-fbi.md)
 
 - [00:06:17](/episodes/ep-ChuWo-n49B8.md#t-00-06-10) (Claim) **Candace Owens**: ["There was no 4K video of Tyler Robinson taking the shot"](/statements/statement-80715dc7b7b3.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:08:10](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) (Claim) **Lance Twiggs** (via quoted speech): ["Lance Twiggs testified that he and Tyler Robinson had never discussed ..."](/statements/statement-cfe56946f7d7.md)
+- [00:08:10](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Lance Twiggs's account as saying that he and Tyler..."](/statements/statement-cfe56946f7d7.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [LGBTQ](/entities/concept-lgbtq.md)
+
+- [00:08:22](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) (Opinion) **Candace Owens**: ["Owens argued that the proposed political motive for Tyler Robinson had..."](/statements/statement-fc3e73c07a4c.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
 
 - [00:10:12](/episodes/ep-ChuWo-n49B8.md#t-00-10-12) (Citation) **Candace Owens**: ["Owens cited ATF testimony as giving only a range of possible weapons f..."](/statements/statement-658ffbfb4ed0.md)
   - Also about: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -23184,6 +23476,9 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [00:20:57](/episodes/ep-ChuWo-n49B8.md#t-00-20-51) (Opinion) **Candace Owens**: ["Owens said she was not coordinating to take down Erika Kirk and that h..."](/statements/statement-af8f0be2450b.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
+- [00:22:05](/episodes/ep-ChuWo-n49B8.md#t-00-22-05) (Opinion) **Candace Owens**: ["Owens rejected the suggestion that foreign operatives supplied misinfo..."](/statements/statement-33a48e521c9c.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
 - [00:22:32](/episodes/ep-ChuWo-n49B8.md#t-00-22-05) (Accusation) **Candace Owens**: ["Owens said she and others had a sense that the state murdered Charlie ..."](/statements/statement-19b76f096b36.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
 
@@ -23193,10 +23488,15 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (5)</summary>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (8)</summary>
 
 - [00:07:02](/episodes/ep-1CFDtD0IgEg.md#t-00-06-48) (Opinion) **Candace Owens**: ["Candace Owens said that, from her perspective, there was more evidence..."](/statements/statement-c17f7b532127.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Losee Center](/entities/org-losee-center.md)
+
+- [00:07:52](/episodes/ep-1CFDtD0IgEg.md#t-00-07-27) (Accusation) **Anonymous Source #1 (Ep 1CFDtD0IgEg)** (via read message): ["The anonymous woodworker suggested, as a hypothetical use for the glov..."](/statements/statement-e2b1a09b5741.md)
+
+- [00:08:31](/episodes/ep-1CFDtD0IgEg.md#t-00-08-04) (Accusation) **Candace Owens**: ["Owens asked whether the possible gloves, the alleged unreleased 911 in..."](/statements/statement-73365d53ab7e.md)
+  - Also about: [Rick Cutler](/entities/person-rick-cutler.md)
 
 - [00:17:14](/episodes/ep-1CFDtD0IgEg.md#t-00-16-57) (Citation) **Candace Owens**: ["Candace Owens cited a CNN report saying authorities recovered a screwd..."](/statements/statement-a774c5a66764.md)
   - Also about: [CNN](/entities/org-cnn.md)
@@ -23207,19 +23507,19 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [00:24:45](/episodes/ep-1CFDtD0IgEg.md#t-00-24-22) (Claim) **Anonymous Source #3 (Ep 1CFDtD0IgEg)** (via read message): ["Sources told the show that Alan Robertson and his partner were at Utah..."](/statements/statement-f4876a922b04.md)
   - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md), [Utah State University](/entities/org-utah-state-university.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
+- [00:42:07](/episodes/ep-1CFDtD0IgEg.md#t-00-42-07) (Accusation) **Candace Owens**: ["Owens argued that people she accused of lying about the Iranian school..."](/statements/statement-225e17c2e5f3.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
 - [00:48:33](/episodes/ep-1CFDtD0IgEg.md#t-00-48-33) (Claim) **Candace Owens**: ["Candace Owens claimed Charlie Kirk never wanted a Catholic funeral."](/statements/statement-9b3907f9c7c7.md)
   - Also about: [Catholicism](/entities/concept-catholicism.md)
 
 </details>
 
 <details>
-<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (14)</summary>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (13)</summary>
 
 - [00:03:19](/episodes/ep-AH1KVKkweUE.md#t-00-03-03) (Claim) **Candace Owens**: ["Owens said footage recorded by Michael McCoy showed that the passenger..."](/statements/statement-8e026b375205.md)
   - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
-
-- [00:06:00](/episodes/ep-AH1KVKkweUE.md#t-00-05-49) (Accusation) **Candace Owens** (via paraphrase): ["Owens said she had been told that Rick Cutler was among those who alle..."](/statements/statement-e911fbdffe93.md)
-  - Also about: [Rick Cutler](/entities/person-rick-cutler.md), [FBI](/entities/org-fbi.md)
 
 - [00:07:35](/episodes/ep-AH1KVKkweUE.md#t-00-07-24) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Brian Harpole's account of jumping onto a gurney in the eme..."](/statements/statement-8e6791e227df.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
@@ -23258,7 +23558,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (17)</summary>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (18)</summary>
+
+- [00:00:31](/episodes/ep-iB-YtO3UZOg.md#t-00-00-01) (Claim) **Candace Owens**: ["Owens identified Andrew Guajardo as the medical examiner who performed..."](/statements/statement-da7affc1af2b.md)
+  - Also about: [Andrew Guajardo](/entities/person-andrew-guajardo.md)
 
 - [00:16:14](/episodes/ep-iB-YtO3UZOg.md#t-00-16-14) (Claim) **Anonymous Source #20 (Ep iB-YtO3UZOg)** (via read message): ["An anonymous source reported that the FBI took clothing from members o..."](/statements/statement-2253dbd4acbb.md)
   - Also about: [FBI](/entities/org-fbi.md)
@@ -23295,7 +23598,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Shaped charge](/entities/concept-shaped-charge.md)
 
 - [00:34:44](/episodes/ep-iB-YtO3UZOg.md#t-00-34-25) (Claim) **Candace Owens**: ["Owens said she believed the evidence showed Charlie Kirk was hit by a ..."](/statements/statement-00334c93b190.md)
-  - Also about: [Shaped charge](/entities/concept-shaped-charge.md), [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md)
+  - Also about: [Shaped charge](/entities/concept-shaped-charge.md), [Losee Center](/entities/org-losee-center.md)
 
 - [00:35:15](/episodes/ep-iB-YtO3UZOg.md#t-00-35-02) (Opinion) **Anonymous transplant coordinator email source (Ep iB-YtO3UZOg)** (via read message): ["An anonymous transplant coordinator said they had never seen thoracic ..."](/statements/statement-8979a4eea062.md)
   - Also about: [RØDE Microphones](/entities/org-rode-microphones.md)
@@ -23305,12 +23608,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [00:36:09](/episodes/ep-iB-YtO3UZOg.md#t-00-36-09) (Claim) **Candace Owens**: ["Owens said Charlie Kirk's autopsy was rushed and did not follow normal..."](/statements/statement-6c193115eeb5.md)
 
 - [00:37:22](/episodes/ep-iB-YtO3UZOg.md#t-00-37-22) (Opinion) **Anonymous surgeon commenter (Ep iB-YtO3UZOg)** (via quoted post): ["An anonymous surgeon commenter said the trajectory described in the me..."](/statements/statement-b220669e6ee5.md)
-  - Also about: [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md)
+  - Also about: [Losee Center](/entities/org-losee-center.md)
 
 </details>
 
 <details>
-<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (14)</summary>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (16)</summary>
 
 - [00:00:14](/episodes/ep-AoYZel7_cGQ.md#t-00-00-01) (Opinion) **Erika Kirk** (via quoted speech): ["Erika Kirk said she believes Tyler Robinson murdered Charlie Kirk."](/statements/statement-e01de2bf0e2b.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -23343,9 +23646,14 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [00:26:33](/episodes/ep-AoYZel7_cGQ.md#t-00-26-33) (Opinion) **Candace Owens**: ["Candace Owens said she was led to believe the ceremony was a mock buri..."](/statements/statement-44a170c791a1.md)
 
+- [00:31:12](/episodes/ep-AoYZel7_cGQ.md#t-00-30-57) (Claim) **Candace Owens**: ["Owens said a high-value Turning Point USA donor who attended the Catho..."](/statements/statement-0a9dd7238f84.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
 - [00:33:33](/episodes/ep-AoYZel7_cGQ.md#t-00-33-03) (Citation) **Candace Owens**: ["The prosecution memorandum stated that the bullet, or at least parts o..."](/statements/statement-587822dbf60b.md)
 
 - [00:34:21](/episodes/ep-AoYZel7_cGQ.md#t-00-34-21) (Citation) **Candace Owens**: ["Candace Owens read that the medical examiner observed hemorrhaging aro..."](/statements/statement-4a7d20617d5a.md)
+
+- [00:35:12](/episodes/ep-AoYZel7_cGQ.md#t-00-34-53) (Opinion) **Candace Owens**: ["Owens said the reported heart and lung hemorrhaging did not yield a de..."](/statements/statement-70be436f75b3.md)
 
 - [00:37:05](/episodes/ep-AoYZel7_cGQ.md#t-00-36-40) (Opinion) **Candace Owens**: ["Candace Owens said she believes the microphone exploded on Charlie Kir..."](/statements/statement-c6b2b9407f4c.md)
 
@@ -23358,7 +23666,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:40:33](/episodes/ep-Vu6Y24pqhZs.md#t-00-40-06) (Claim) **Candace Owens**: ["Owens said Charlie Kirk established a DOGE audit that Turning Point US..."](/statements/statement-3569c918b532.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Doge](/entities/concept-doge.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md)
 
 - [00:45:31](/episodes/ep-Vu6Y24pqhZs.md#t-00-44-59) (Claim) **Candace Owens**: ["Owens asserted that Charlie Kirk privately told her Donald Trump had a..."](/statements/statement-ffb97a504ae8.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -23417,7 +23725,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (20)</summary>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (21)</summary>
 
 - [00:06:30](/episodes/ep-amqTMimDr0A.md#t-00-06-07) (Prediction) **Steve Bannon** (via quoted speech): ["Steve Bannon predicted that Ben Shapiro would make a move on Turning P..."](/statements/statement-4a56fc2eb96b.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -23454,6 +23762,9 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [00:19:41](/episodes/ep-amqTMimDr0A.md#t-00-19-05) (Claim) **Anonymous Source #1 (Ep amqTMimDr0A)** (via read message): ["An authenticated anonymous source reported that Ben Shapiro was allege..."](/statements/statement-8618f10282be.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Gary Javitch](/entities/person-gary-javitch.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:20:38](/episodes/ep-amqTMimDr0A.md#t-00-20-28) (Claim) **Candace Owens**: ["Owens said Ben Shapiro was scheduled to appear at the Ronald Reagan Pr..."](/statements/statement-ce911959e1f7.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Ronald Reagan Presidential Library and Museum](/entities/org-ronald-reagan-presidential-library-and-museum.md), [Simi Valley](/entities/gpe-simi-valley.md)
 
 - [00:26:25](/episodes/ep-amqTMimDr0A.md#t-00-26-17) (Promise) **Candace Owens**: ["Candace Owens promised a $25,000 bounty for information identifying wh..."](/statements/statement-1f3bca4b28a5.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -23863,7 +24174,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:25:41](/episodes/ep-IqHsl7d2dos.md#t-00-25-41) (Accusation) **Candace Owens**: ["Owens said she believed Charlie Kirk's life became a Truman Show: infi..."](/statements/statement-e43de000daba.md)
-  - Also about: [Tel Aviv](/entities/gpe-tel-aviv.md), [The Truman Show](/entities/work-the-truman-show.md)
+  - Also about: [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md), [The Truman Show](/entities/work-the-truman-show.md)
 
 - [00:26:11](/episodes/ep-IqHsl7d2dos.md#t-00-25-41) (Accusation) **Candace Owens**: ["Owens said she thought the U.S. Department of Defense was behind a con..."](/statements/statement-9053aa6993f8.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
@@ -24030,8 +24341,8 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [00:29:18](/episodes/ep-sKuYLNx3iRo.md#t-00-29-09) (Accusation) **Candace Owens**: ["Owens asserted that Frank Turek threw away his clothes, thereby destro..."](/statements/statement-ffd883c0a795.md)
   - Also about: [Frank Turek](/entities/person-frank-turek.md)
 
-- [00:29:44](/episodes/ep-sKuYLNx3iRo.md#t-00-29-44) (Claim) **Terrell Farnsworth** (via quoted speech): ["Terrell Farnsworth reportedly told Owens that he removed the cameras b..."](/statements/statement-c4d00a836bfd.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:29:44](/episodes/ep-sKuYLNx3iRo.md#t-00-29-44) (Claim) **Terryl Farnsworth** (via quoted speech): ["Terrell Farnsworth reportedly told Owens that he removed the cameras b..."](/statements/statement-c4d00a836bfd.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:32:44](/episodes/ep-sKuYLNx3iRo.md#t-00-32-13) (Opinion) **Candace Owens**: ["Owens said she had not seen Charlie Kirk's pants listed in evidence an..."](/statements/statement-68d640198bef.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -24056,7 +24367,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:04:26](/episodes/ep-9CuC1yf8-PU.md#t-00-04-17) (Accusation) **Candace Owens**: ["Owens said the handheld microphone from the scene was encased in glass..."](/statements/statement-bb1cdeb37a7b.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Mar-a-Lago](/entities/org-mar-a-lago.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Mar-a-Lago](/entities/gpe-mar-a-lago.md)
 
 - [00:05:52](/episodes/ep-9CuC1yf8-PU.md#t-00-05-52) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole said he cut Charlie Kirk's white Freedom shirt off at th..."](/statements/statement-4ed72d01c5bb.md)
   - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
@@ -24112,7 +24423,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Shawn Ryan](/entities/person-shawn-ryan.md)
 
 - [00:08:20](/episodes/ep-VMNWMXX1vO8.md#t-00-08-20) (Claim) **Candace Owens**: ["At Charlie Kirk's request, Terrell Farnsworth's team was removed from ..."](/statements/statement-b1596f5cb911.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Visual Impulse, LLC](/entities/org-visual-impulse.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Visual Impulse, LLC](/entities/org-visual-impulse.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:12:07](/episodes/ep-VMNWMXX1vO8.md#t-00-11-54) (Claim) **Candace Owens**: ["Owens said Robert Golo was the camera operator standing next to Taryl ..."](/statements/statement-b61ea5758f8a.md)
   - Also about: [Robert Golo](/entities/person-robert-golo.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
@@ -24130,7 +24441,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Shaped charge](/entities/concept-shaped-charge.md), [PETN](/entities/concept-petn.md)
 
 - [00:17:27](/episodes/ep-VMNWMXX1vO8.md#t-00-16-58) (Accusation) **Candace Owens**: ["My theory is that Terrell Farnsworth scrambled to remove the camera's ..."](/statements/statement-28dc2a93e039.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Shaped charge](/entities/concept-shaped-charge.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Shaped charge](/entities/concept-shaped-charge.md)
 
 - [00:19:35](/episodes/ep-VMNWMXX1vO8.md#t-00-19-35) (Accusation) **Candace Owens**: ["Erika Kirk lied that Andrew Kolvet went rogue; in reality, Andrew and ..."](/statements/statement-0d2a0eb81e8b.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
@@ -24183,7 +24494,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Shaped charge](/entities/concept-shaped-charge.md)
 
 - [00:55:47](/episodes/ep-VMNWMXX1vO8.md#t-00-55-47) (Claim) **Candace Owens**: ["Charlie Kirk's microphone was not retained as evidence and instead app..."](/statements/statement-74f3e5b5e778.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Mar-a-Lago](/entities/org-mar-a-lago.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Mar-a-Lago](/entities/gpe-mar-a-lago.md)
 
 - [00:56:12](/episodes/ep-VMNWMXX1vO8.md#t-00-55-47) (Claim) **Candace Owens**: ["Charlie Kirk's phone was not retained as evidence and was quickly retu..."](/statements/statement-9efdc9f240f3.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -24408,7 +24719,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
 
 - [00:05:04](/episodes/ep-5NQyGuRYbU8.md#t-00-04-45) (Claim) **Candace Owens**: ["Candace Owens said a person identified in the cleaned transcript as Te..."](/statements/statement-28e8ff4b5485.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Michael McCoy](/entities/person-michael-mccoy.md)
 
 - [00:05:42](/episodes/ep-5NQyGuRYbU8.md#t-00-05-24) (Accusation) **Candace Owens**: ["Candace Owens suggested that Donald Trump might feature in the story o..."](/statements/statement-0b61da1e4750.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
@@ -24750,7 +25061,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [FBI](/entities/org-fbi.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
 
 - [00:22:59](/episodes/ep-cPidFQDJLbo.md#t-00-22-59) (Claim) **Candace Owens**: ["Owens alleged that Charlie Kirk said 10 million dollars was missing fr..."](/statements/statement-2ac0e37e2684.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Doge](/entities/concept-doge.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md)
 
 - [00:24:09](/episodes/ep-cPidFQDJLbo.md#t-00-23-44) (Claim) **Candace Owens**: ["I warned Charlie Kirk not to trust the people around him whom the worl..."](/statements/statement-6291cac12761.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
@@ -25058,7 +25369,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Brian Harpole](/entities/person-brian-harpole.md)
 
 - [00:07:41](/episodes/ep-69A8TzAGHlU.md#t-00-07-41) (Accusation) **Candace Owens**: ["Terrell Farnsworth announced that Charlie Kirk was dead roughly two mi..."](/statements/statement-c8ca5bd4afc8.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 - [00:09:28](/episodes/ep-69A8TzAGHlU.md#t-00-08-48) (Accusation) **Matthew Sarelson** (via quoted document): ["Candace Owens falsely accused Brian Harpole of failing to render effec..."](/statements/statement-8d57d975c7b5.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Brian Harpole](/entities/person-brian-harpole.md)
@@ -25070,7 +25381,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:35:02](/episodes/ep-69A8TzAGHlU.md#t-00-34-24) (Opinion) **Candace Owens**: ["Candace Owens said Harpole's lawsuit might create an opportunity to su..."](/statements/statement-547999361b9c.md)
-  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 - [00:42:54](/episodes/ep-69A8TzAGHlU.md#t-00-42-47) (Claim) **Baron Coleman**: ["Candace Owens has never said that Erika Kirk killed Charlie Kirk."](/statements/statement-14df6795e1e0.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -25425,13 +25736,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [00:02:18](/episodes/ep-UYkXV9mYbT4.md#t-00-02-02) (Claim) **Candace Owens**: ["Charlie Kirk was shot on September 10th at 12:23 p.m. Mountain Time."](/statements/statement-2be12d516a6b.md)
 
 - [00:02:55](/episodes/ep-UYkXV9mYbT4.md#t-00-02-45) (Claim) **Candace Owens**: ["Terrell Farnsworth returned to the crime scene, used Charlie Kirk's ch..."](/statements/statement-3ae26b37ac75.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
-- [00:04:28](/episodes/ep-UYkXV9mYbT4.md#t-00-03-58) (Claim) **Terrell Farnsworth** (via quoted speech): ["I wanted to secure the footage for Erika so that she wouldn't have to ..."](/statements/statement-aae0307c2c42.md)
+- [00:04:28](/episodes/ep-UYkXV9mYbT4.md#t-00-03-58) (Claim) **Terryl Farnsworth** (via quoted speech): ["I wanted to secure the footage for Erika so that she wouldn't have to ..."](/statements/statement-aae0307c2c42.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:05:37](/episodes/ep-UYkXV9mYbT4.md#t-00-05-20) (Opinion) **Candace Owens**: ["I am going to speculate this boldly: they were hiding the fact that th..."](/statements/statement-8db33ee5af32.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [FBI](/entities/org-fbi.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [FBI](/entities/org-fbi.md)
 
 - [00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02) (Accusation) **Candace Owens**: ["Erika lied. Erika and Andrew colluded on how to message the public abo..."](/statements/statement-45def5a9eabe.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
@@ -26382,7 +26693,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Dan Flood](/entities/person-dan-flood.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:31:20](/episodes/ep-DYD_QHMPwqM.md#t-00-30-54) (Opinion) **Candace Owens**: ["Turning Point USA's shift from free-market capitalism toward faith and..."](/statements/statement-b270be5c6455.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [Erika Kirk](/entities/person-erika-kirk.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:35:07](/episodes/ep-DYD_QHMPwqM.md#t-00-34-32) (Claim) **Candace Owens**: ["One Egyptian plane remained on the tarmac and transmitted its transpon..."](/statements/statement-1e665bda941e.md)
   - Also about: [Egypt](/entities/gpe-egypt.md)
@@ -26516,7 +26827,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Islam](/entities/concept-islam.md), [United States](/entities/gpe-united-states.md)
 
 - [00:28:30](/episodes/ep-xjzb_t5Tk9o.md#t-00-28-30) (Claim) **Candace Owens**: ["Charlie Kirk did not run his Twitter feed; Andrew Kolvet did."](/statements/statement-a0ce59f5bb16.md)
-  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [X](/entities/org-x-platform.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Twitter](/entities/org-twitter.md)
 
 - [00:28:38](/episodes/ep-xjzb_t5Tk9o.md#t-00-28-34) (Claim) **Candace Owens**: ["Owens said that although Kolvet ran Kirk's Twitter feed, Kirk did beli..."](/statements/statement-b2ba2f5e2d65.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Islam](/entities/concept-islam.md)
@@ -26659,7 +26970,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (8)</summary>
 
 - [00:05:31](/episodes/ep-GY6GWceEqtQ.md#t-00-05-05) (Claim) **Candace Owens**: ["Candace Owens broke the story that Charlie Kirk established a DOGE ini..."](/statements/statement-9ec8fcdc6c35.md)
-  - Also about: [Department of Government Efficiency](/entities/org-department-of-government-efficiency.md)
+  - Also about: [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md)
 
 - [00:07:08](/episodes/ep-GY6GWceEqtQ.md#t-00-07-04) (Claim) **Candace Owens**: ["Candace Owens moved to terminate her Turning Point USA speaking agreem..."](/statements/statement-f399a8ba8997.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -26882,10 +27193,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 - [00:11:30](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Accusation) **Candace Owens**: ["Turning Point Faith was intended to turn Charlie Kirk into a controlla..."](/statements/statement-14661745d0ac.md)
-  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Messianism](/entities/concept-messianism.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Messianism](/entities/concept-messianism.md)
 
 - [00:11:30](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Opinion) **Candace Owens**: ["Owens theorized that Kirk's assassination was made globally visible so..."](/statements/statement-8dbeeb0d8f16.md)
-  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Messianism](/entities/concept-messianism.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Messianism](/entities/concept-messianism.md)
 
 - [00:16:29](/episodes/ep-CMcktj3Egfo.md#t-00-15-43) (Claim) **Candace Owens**: ["The Falkirk Center was designed to combine Charlie Kirk’s youth appeal..."](/statements/statement-435669c8639b.md)
   - Also about: [Falkirk Center](/entities/org-falkirk-center.md), [Liberty University](/entities/org-liberty-university.md), [Evangelicalism](/entities/concept-evangelicalism.md)
@@ -26906,7 +27217,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Falkirk Center](/entities/org-falkirk-center.md)
 
 - [00:52:12](/episodes/ep-CMcktj3Egfo.md#t-00-51-40) (Promise) **Candace Owens**: ["Candace Owens said she would not vote until Charlie Kirk’s killing was..."](/statements/statement-3f9a56042c2e.md)
-  - Also about: [Assassination of Charlie Kirk](/entities/event-assassination-charlie-kirk.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </details>
 
@@ -26923,7 +27234,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Liberty University](/entities/org-liberty-university.md)
 
 - [00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36) (Claim) **Candace Owens**: ["Jerry Falwell Jr. and Charlie Kirk established the Falkirk Center, and..."](/statements/statement-b5a582fabd77.md)
-  - Also about: [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md), [Falkirk Center](/entities/org-falkirk-center.md), [Turning Point Faith](/entities/org-turning-point-faith.md)
+  - Also about: [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md), [Falkirk Center](/entities/org-falkirk-center.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 
 - [00:15:38](/episodes/ep-wcD2khO3rOA.md#t-00-14-55) (Accusation) **Candace Owens**: ["Owens said George Zinn had child sexual abuse material on his phone an..."](/statements/statement-855e6e00ca96.md)
   - Also about: [George Zinn](/entities/person-george-zinn.md)
@@ -26984,7 +27295,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-57) (Claim) **Candace Owens**: ["Candace Owens said Schaefer Security provided Charlie Kirk's travel se..."](/statements/statement-e858de21dbac.md)
-  - Also about: [Schaefer Security](/entities/org-schaefer-security.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Dan Flood](/entities/person-dan-flood.md)
+  - Also about: [Shaffer Security Group](/entities/org-shaffer-security-group.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Dan Flood](/entities/person-dan-flood.md)
 
 - [00:46:45](/episodes/ep-zSKrxIUMNqw.md#t-00-46-39) (Promise) **Candace Owens**: ["Candace Owens intends to identify who killed Charlie Kirk and determin..."](/statements/statement-0652e878d946.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
@@ -27109,7 +27420,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:06:07](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-31) (Accusation) **Candace Owens**: ["Terrell Farnsworth raced to remove the camera that was directly behind..."](/statements/statement-28df3eccda31.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 - [00:06:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-14) (Opinion) **Candace Owens**: ["I believe that there are some people that are engaged in a cover up"](/statements/statement-8ee5524d6a2e.md)
 
@@ -27639,7 +27950,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Egyptian Air Force](/entities/org-egyptian-air-force.md)
 
 - [00:12:08](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52) (Claim) **Candace Owens**: ["Terrell Farnsworth was at the Utah Valley University event on Septembe..."](/statements/statement-6bd3adc0a9ae.md)
-  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 - [00:12:33](/episodes/ep-JQjCAsfoXEE.md#t-00-12-33) (Claim) **Candace Owens**: ["Charlie Kirk flew into Salt Lake City instead of the closer Provo airp..."](/statements/statement-0fd32996450c.md)
   - Also about: [Provo](/entities/gpe-provo.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Andrew K. Smith](/entities/person-andrew-k-smith.md)
@@ -27654,7 +27965,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Egyptian Air Force](/entities/org-egyptian-air-force.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:36:19](/episodes/ep-JQjCAsfoXEE.md#t-00-36-17) (Claim) **Wolves and Finance** (via quoted speech): ["Charlie Kirk wanted to establish DOGE seven days before he died"](/statements/statement-5bad017dfe02.md)
-  - Also about: [Doge](/entities/concept-doge.md)
+  - Also about: [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md)
 
 - [00:42:02](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22) (Claim) **Wolves and Finance** (via quoted speech): ["Erika Kirk assumed the role of CEO of Turning Point USA on September 1..."](/statements/statement-b441c71aab2c.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -27722,7 +28033,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:16:19](/episodes/ep-vwG1juDCQZQ.md#t-00-16-08) (Opinion) **Erika Kirk** (via quoted speech): ["Erika Kirk said Charlie Kirk loved Saint Michael and felt that wearing..."](/statements/statement-c3e6eec20e42.md)
-  - Also about: [Saint Michael](/entities/person-saint-michael.md)
+  - Also about: [Saint Michael the Archangel](/entities/person-saint-michael-the-archangel.md)
 
 - [00:18:43](/episodes/ep-vwG1juDCQZQ.md#t-00-18-22) (Opinion) **Erika Kirk** (via quoted speech): ["Erika Kirk said she respected that people were trying to understand Ch..."](/statements/statement-dfc43e42e8d0.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -27792,7 +28103,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md)
 
 - [00:20:45](/episodes/ep-LATnak75Si0.md#t-00-20-09) (Accusation) **Candace Owens**: ["Candace Owens accused Robert Shillman of taking two million dollars aw..."](/statements/statement-15d3386acf60.md)
-  - Also about: [Robert Shillman](/entities/person-robert-shillman.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+  - Also about: [Robert J. Shillman](/entities/person-robert-j-shillman.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 - [00:31:39](/episodes/ep-LATnak75Si0.md#t-00-31-13) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk was never rendered immediate first aid..."](/statements/statement-5cd7686cb9b0.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -28269,7 +28580,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16) (Claim) **Candace Owens**: ["Laura Loomer was calling Charlie Kirk anti-Semite a couple of days bef..."](/statements/statement-686ac3fd6d5b.md)
-  - Also about: [Laura Loomer](/entities/person-laura-loomer.md), [Bob Shillman](/entities/person-bob-shillman.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md), [Robert J. Shillman](/entities/person-robert-j-shillman.md)
 
 </details>
 
@@ -28395,15 +28706,15 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [George Zinn](/entities/person-george-zinn.md)
 
 - [00:20:06](/episodes/ep-UBkFkg4UNY8.md#t-00-19-52) (Claim) **Candace Owens**: ["When tracking down who filmed the shooter on the roof, multiple Chicag..."](/statements/statement-60729132e913.md)
-  - Also about: [Chicago](/entities/gpe-chicago.md)
+  - Also about: [Chicago, Illinois](/entities/gpe-chicago-illinois.md)
 
-- [00:22:35](/episodes/ep-UBkFkg4UNY8.md#t-00-21-56) (Claim) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["An eyewitness told Owens that the shooter reached the roof no earlier ..."](/statements/statement-e5d368cc96d8.md)
+- [00:22:35](/episodes/ep-UBkFkg4UNY8.md#t-00-21-56) (Claim) **Anonymous Losee Center Eyewitness** (via quoted speech): ["An eyewitness told Owens that the shooter reached the roof no earlier ..."](/statements/statement-e5d368cc96d8.md)
   - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-- [00:23:47](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) (Opinion) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["An eyewitness told Owens that the shooter looked to him like a foreign..."](/statements/statement-09eff96da597.md)
+- [00:23:47](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) (Opinion) **Anonymous Losee Center Eyewitness** (via quoted speech): ["An eyewitness told Owens that the shooter looked to him like a foreign..."](/statements/statement-09eff96da597.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-- [00:24:37](/episodes/ep-UBkFkg4UNY8.md#t-00-24-07) (Claim) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["An eyewitness told Owens that the gun found by the FBI was not the gun..."](/statements/statement-fc87a34e3d20.md)
+- [00:24:37](/episodes/ep-UBkFkg4UNY8.md#t-00-24-07) (Claim) **Anonymous Losee Center Eyewitness** (via quoted speech): ["An eyewitness told Owens that the gun found by the FBI was not the gun..."](/statements/statement-fc87a34e3d20.md)
   - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:32:37](/episodes/ep-UBkFkg4UNY8.md#t-00-32-37) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said Charlie Kirk was not becoming Catholic but loved Ca..."](/statements/statement-d7149a360f91.md)
@@ -28434,7 +28745,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:38:06](/episodes/ep-UBkFkg4UNY8.md#t-00-38-06) (Citation) **Candace Owens**: ["Owens questioned whether Bill Ackman, Robert Shillman, or other large ..."](/statements/statement-9a3b1b4a8e51.md)
-  - Also about: [Bill Ackman](/entities/person-bill-ackman.md), [Robert Shillman](/entities/person-robert-shillman.md)
+  - Also about: [Bill Ackman](/entities/person-bill-ackman.md), [Robert J. Shillman](/entities/person-robert-j-shillman.md)
 
 - [00:38:19](/episodes/ep-UBkFkg4UNY8.md#t-00-38-06) (Claim) **Candace Owens**: ["Owens maintained that Charlie Kirk turned down the conditional funding..."](/statements/statement-aa13d75686ce.md)
 
@@ -28671,10 +28982,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [00:54:19](/episodes/ep-q7f8r-THr84.md#t-00-53-50) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said he had received text messages calling him an antisem..."](/statements/statement-4e7a36b20f4f.md)
 
-- [00:57:15](/episodes/ep-q7f8r-THr84.md#t-00-56-48) (Accusation) **Turning Point USA employee sources (identities unverified)** (via quoted speech): ["Anonymous sources reportedly said that within 48 hours before Charlie ..."](/statements/statement-911c9e3ad86b.md)
+- [00:57:15](/episodes/ep-q7f8r-THr84.md#t-00-56-48) (Accusation) **Turning Point USA employee sources (Ep 236; identities unverified)** (via quoted speech): ["Anonymous sources reportedly said that within 48 hours before Charlie ..."](/statements/statement-911c9e3ad86b.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:57:31](/episodes/ep-q7f8r-THr84.md#t-00-57-31) (Accusation) **Turning Point USA employee sources (identities unverified)** (via quoted speech): ["The same anonymous sources reportedly said that after Charlie Kirk was..."](/statements/statement-3668b054cb79.md)
+- [00:57:31](/episodes/ep-q7f8r-THr84.md#t-00-57-31) (Accusation) **Turning Point USA employee sources (Ep 236; identities unverified)** (via quoted speech): ["The same anonymous sources reportedly said that after Charlie Kirk was..."](/statements/statement-3668b054cb79.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:58:19](/episodes/ep-q7f8r-THr84.md#t-00-58-15) (Accusation) **Candace Owens**: ["Candace Owens alleged that Benjamin Netanyahu quickly implied Charlie ..."](/statements/statement-d74f5b51fdd1.md)
@@ -28837,7 +29148,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:15:22](/episodes/ep-_dRaEO47-co.md#t-00-14-52) (Accusation) **Candace Owens**: ["Candace Owens accused Antifa of chasing her and Charlie Kirk out of a ..."](/statements/statement-f4193c5fd914.md)
-  - Also about: [Antifa](/entities/org-antifa.md), [Candace Owens](/entities/person-candace-owens.md)
+  - Also about: [Antifa](/entities/concept-antifa.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:17:00](/episodes/ep-_dRaEO47-co.md#t-00-16-36) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk stood beside her when she started BLEX..."](/statements/statement-afe0db1c5ad6.md)
   - Also about: [Blexit](/entities/org-blexit.md)

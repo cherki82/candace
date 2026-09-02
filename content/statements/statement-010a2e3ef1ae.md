@@ -22,7 +22,7 @@ veracity: "mixed"
 
 ## About
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 - [David Hull](/entities/person-david-hull.md) (person)
 
 ## Source

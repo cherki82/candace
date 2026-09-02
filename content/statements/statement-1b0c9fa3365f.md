@@ -21,7 +21,7 @@ veracity: "mixed"
 
 ## About
 
-- [Turning Point Faith](/entities/org-turning-point-faith.md) (org)
+- [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md) (org)
 - [Rob McCoy](/entities/person-rob-mccoy.md) (person)
 - [Sean Feucht](/entities/person-sean-feucht.md) (person)
 

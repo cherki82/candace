@@ -256,7 +256,7 @@ youtube_url: "https://www.youtube.com/watch?v=Vu6Y24pqhZs"
 </details>
 
 <details>
-<summary><strong>Statements (36)</strong></summary>
+<summary><strong>Statements (37)</strong></summary>
 
 - [00:00:23](#t-00-00-01) [○] (Claim) **Candace Owens**: ["Owens said she confirmed that Andrew Kolvet, Marina Minas, Justin Streiff, and T..."](/statements/statement-beaace42dd6b.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Marina Minas](/entities/person-marina-minas.md), [Justin Streiff](/entities/person-justin-streiff.md)
@@ -270,6 +270,8 @@ youtube_url: "https://www.youtube.com/watch?v=Vu6Y24pqhZs"
   - About: [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [FBI](/entities/org-fbi.md), [Provo](/entities/gpe-provo.md)
 - [00:05:03](#t-00-04-43) [○] (Opinion) **Anonymous Losee Center Eyewitness**: ["The anonymous Losee Center eyewitness said the rooftop person looked like a prof..."](/statements/statement-cac5f0fc9efa.md)
   - About: [Losee Center](/entities/org-losee-center.md)
+- [00:10:45](#t-00-10-44) [○] (Opinion) **Candace Owens**: ["Owens said the rooftop footage showed a brief flash near the moving person, but ..."](/statements/statement-2f34ec8d3caa.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:11:35](#t-00-11-31) [○] (Opinion) **Candace Owens**: ["Owens said the rooftop person's movement looked to her like he was unfolding a g..."](/statements/statement-b7a96aeac493.md)
   - About: [Losee Center](/entities/org-losee-center.md)
 - [00:12:52](#t-00-12-52) [○] (Claim) **Anonymous Losee Center Eyewitness**: ["The anonymous Losee Center eyewitness said he saw no recoil before the rooftop p..."](/statements/statement-f4e8e2b579dc.md)
@@ -317,7 +319,7 @@ youtube_url: "https://www.youtube.com/watch?v=Vu6Y24pqhZs"
 - [00:40:24](#t-00-40-06) [○] (Opinion) **Candace Owens**: ["Owens said she believed Charlie Kirk discovered something while examining where ..."](/statements/statement-4d30ef83cc5e.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:40:33](#t-00-40-06) [○] (Claim) **Candace Owens**: ["Owens said Charlie Kirk established a DOGE audit that Turning Point USA's new le..."](/statements/statement-3569c918b532.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Doge](/entities/concept-doge.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md)
 - [00:45:31](#t-00-44-59) [○] (Claim) **Candace Owens**: ["Owens asserted that Charlie Kirk privately told her Donald Trump had asked him t..."](/statements/statement-ffb97a504ae8.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Brigitte Macron](/entities/person-brigitte-macron.md)
 - [00:47:30](#t-00-46-56) [○] (Claim) **Candace Owens**: ["Owens said a federal agent oversaw Charlie Kirk's autopsy."](/statements/statement-7a8568155baf.md)

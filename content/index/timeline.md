@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1773_
+_Total events: 1784_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -340,9 +340,9 @@ _Total events: 1773_
 <input type="radio" id="tab-year-1692" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (292)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (806)</label>
-  <label for="tab-year-2024" class="tab-btn">2024 (99)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (293)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (815)</label>
+  <label for="tab-year-2024" class="tab-btn">2024 (100)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (40)</label>
   <label for="tab-year-2022" class="tab-btn">2022 (23)</label>
   <label for="tab-year-2021" class="tab-btn">2021 (21)</label>
@@ -437,6 +437,23 @@ _Total events: 1773_
 <div class="timeline-container">
 
 <h2 id="year-2026">2026</h2>
+
+**September**
+
+<div class="timeline-event filter-item" id="event-2026-09-01-owens-reported-attendees-at-the-tyler-ro" data-filter-key="event-2026-09-01-owens-reported-attendees-at-the-tyler-ro">
+<div class="timeline-date">2026-09-01</div>
+<div class="timeline-desc"><a href="/events/event-2026-09-01-owens-reported-attendees-at-the-tyler-ro.md">Owens reported attendees at the Tyler Robinson hearing while a decision on advancing the case remained pending.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-09-01: Owens reported attendees at the Tyler Robinson hearing while a decision on advancing the case remained pending. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:03:05](/episodes/ep-ZkDO-MRLUco.md#t-00-03-05)
+
+</details>
+</div>
 
 **August**
 
@@ -551,13 +568,15 @@ _Total events: 1773_
 <div class="timeline-date">2026-08</div>
 <div class="timeline-desc"><a href="/events/event-2026-08-candace-owens-encountered-justin-baldoni.md">Candace Owens encountered Justin Baldoni and his family at an Iceland airport</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-08: Candace Owens encountered Justin Baldoni and his family at an Iceland airport - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:13:28](/episodes/ep-JrhGEm8MGRY.md#t-00-13-01)
+- [I Met My Cousin In Iceland... @ 00:00:00](/episodes/ep-wntKnFzh9Gs.md#t-00-00-00)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:00:09](/episodes/ep-ZkDO-MRLUco.md#t-00-00-01)
 
 </details>
 </div>
@@ -840,7 +859,7 @@ _Total events: 1773_
 <p class="timeline-desc"><a href="/events/event-2026-08-11-tyler-robinsons-defense-filed-a-brief-se.md">Tyler Robinson's defense filed a brief seeking dismissal of the aggravated-murder allegation and removal of the aggravating factor after the preliminary hearing</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 2 eps</span>
+<span class="timeline-badge mentions">4× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-08-11: Tyler Robinson\'s defense filed a brief seeking dismissal of the aggravated-murder allegation and removal of the aggravating factor after the preliminary hearing - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -849,6 +868,7 @@ _Total events: 1773_
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:16:00](/episodes/ep-aPOyk1i2LOc.md#t-01-16-00)
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:15:24](/episodes/ep-aPOyk1i2LOc.md#t-01-15-23)
 - [Behind The Scenes Of The Great Debate: TPUSA Is... @ 00:42:24](/episodes/ep-E7P2ShoYDUA.md#t-00-41-57)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:38:32](/episodes/ep-ZkDO-MRLUco.md#t-00-38-32)
 
 </details>
 </div>
@@ -1100,13 +1120,14 @@ _Total events: 1773_
 <div class="timeline-date">2026-07</div>
 <div class="timeline-desc"><a href="/events/event-2026-07-prosecution-provided-tyler-robinsons-def.md">Prosecution provided Tyler Robinson's defense with additional discovery after the preliminary hearing</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-07: Prosecution provided Tyler Robinson\'s defense with additional discovery after the preliminary hearing - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:22:45](/episodes/ep-aPOyk1i2LOc.md#t-01-22-40)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:45:15](/episodes/ep-ZkDO-MRLUco.md#t-00-44-36)
 
 </details>
 </div>
@@ -1375,13 +1396,14 @@ _Total events: 1773_
 <div class="timeline-date">2026-07-10</div>
 <div class="timeline-desc"><a href="/events/event-2026-07-10-tyler-robinsons-five-day-preliminary-hea.md">Tyler Robinson's five-day preliminary hearing concludes</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-07-10: Tyler Robinson\'s five-day preliminary hearing concludes - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [I’M BACK! And The Tyler Robinson Show Trial Beg... @ 00:49:12](/episodes/ep-EtLHqDbxqks.md#t-00-49-12)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:31:54](/episodes/ep-ZkDO-MRLUco.md#t-00-31-39)
 
 </details>
 </div>
@@ -11217,11 +11239,26 @@ _Total events: 1773_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-frank-turek-placed-jack-hibbss-prayer-ch" data-filter-key="event-2025-09-10-frank-turek-placed-jack-hibbss-prayer-ch">
+<div class="timeline-date">2025-09-10 <span class='time'>12:30</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-frank-turek-placed-jack-hibbss-prayer-ch.md">Frank Turek placed Jack Hibbs’s prayer chain at about 12:30 Utah time after the shooting.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 12:30: Frank Turek placed Jack Hibbs’s prayer chain at about 12:30 Utah time after the shooting. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:17:28](/episodes/ep-ZkDO-MRLUco.md#t-00-17-28)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-10-blake-neff-calls-mother-45-seconds-after-charlie-k" data-filter-key="event-2025-09-10-blake-neff-calls-mother-45-seconds-after-charlie-k">
 <div class="timeline-date">2025-09-10 <span class='time'>12:24</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-blake-neff-calls-mother-45-seconds-after-charlie-k.md">Blake Neff calls his mother shortly after Charlie Kirk is shot; the call lasts 45 seconds.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">10× in 6 eps</span>
+<span class="timeline-badge mentions">11× in 7 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 12:24: Blake Neff calls his mother shortly after Charlie Kirk is shot; the call lasts 45 seconds. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -11237,6 +11274,7 @@ _Total events: 1773_
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:33:09](/episodes/ep-B9TyCs-6o_0.md#t-00-32-43)
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:15:37](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37)
 - [Erika And I Sat Down. Here’s What Happened. | C... @ 00:25:11](/episodes/ep-es7PWdFGoFI.md#t-00-24-53)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:21:00](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31)
 
 </details>
 </div>
@@ -11563,7 +11601,7 @@ _Total events: 1773_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md">Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">155× in 106 eps</span>
+<span class="timeline-badge mentions">156× in 107 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -11724,6 +11762,7 @@ _Total events: 1773_
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:03:31](/episodes/ep-sImMM04XdWY.md#t-00-03-29)
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:47:11](/episodes/ep-t4U7NjnUEgc.md#t-00-46-48)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:19:27](/episodes/ep-vwG1juDCQZQ.md#t-00-19-04)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:04:40](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27)
 
 </details>
 </div>
@@ -12321,7 +12360,7 @@ _Total events: 1773_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-mikey-mccoy-called-el.md">Candace Owens said Mikey McCoy called Elizabeth McCoy after Charlie Kirk was shot and then conferenced in Erika Kirk.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Mikey McCoy called Elizabeth McCoy after Charlie Kirk was shot and then conferenced in Erika Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -12330,6 +12369,7 @@ _Total events: 1773_
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:12:42](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33)
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:13:40](/episodes/ep-OgRyiOAVtWU.md#t-00-13-18)
 - [Erika And I Sat Down. Here’s What Happened. | C... @ 00:27:08](/episodes/ep-es7PWdFGoFI.md#t-00-26-36)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27)
 
 </details>
 </div>
@@ -12830,13 +12870,14 @@ _Total events: 1773_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-danny-philip-called-m.md">Candace Owens said Danny Philip called Michael McCoy for roughly ten minutes after Charlie Kirk was shot.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Danny Philip called Michael McCoy for roughly ten minutes after Charlie Kirk was shot. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:17:10](/episodes/ep-OgRyiOAVtWU.md#t-00-16-52)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:19:47](/episodes/ep-ZkDO-MRLUco.md#t-00-19-47)
 
 </details>
 </div>
@@ -12845,7 +12886,7 @@ _Total events: 1773_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-was-transported-to-a-hospit.md">Charlie Kirk was transported to a hospital in an SUV after he was shot.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk was transported to a hospital in an SUV after he was shot. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -12854,6 +12895,7 @@ _Total events: 1773_
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:00:36](/episodes/ep-OgRyiOAVtWU.md#t-00-00-36)
 - [BREAKING: Charlie’s Team DID Call 911 En Route ... @ 00:15:29](/episodes/ep-HZvwbfePe7o.md#t-00-15-17)
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:11:05](/episodes/ep-UBkFkg4UNY8.md#t-00-10-32)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:21:24](/episodes/ep-ZkDO-MRLUco.md#t-00-21-14)
 
 </details>
 </div>
@@ -12862,13 +12904,14 @@ _Total events: 1773_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-blake-neff-said-michael-mccoy-called-rob.md">Blake Neff said Michael McCoy called Rob McCoy after Charlie Kirk was shot.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Blake Neff said Michael McCoy called Rob McCoy after Charlie Kirk was shot. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27)
 
 </details>
 </div>
@@ -12997,7 +13040,7 @@ _Total events: 1773_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-terrell-farnsworth-removed-the-sd-card-f.md">Terrell Farnsworth removed the SD card from the rear camera less than four minutes after Charlie Kirk was shot.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Terrell Farnsworth removed the SD card from the rear camera less than four minutes after Charlie Kirk was shot. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -13005,6 +13048,7 @@ _Total events: 1773_
 
 - [Liar, Liar, TPUSA On Fire? More Exclusive Foota... @ 00:20:58](/episodes/ep-4JxgOclKzqg.md#t-00-20-24)
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT... @ 00:08:23](/episodes/ep-9hRcfSrri70.md#t-00-08-00)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:20:40](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31)
 
 </details>
 </div>
@@ -13028,7 +13072,7 @@ _Total events: 1773_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-terrell-farnsworth-appeared-to-insert-th.md">Terrell Farnsworth appeared to insert the rear-camera SD card into a laptop within ten minutes after Charlie Kirk was shot.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Terrell Farnsworth appeared to insert the rear-camera SD card into a laptop within ten minutes after Charlie Kirk was shot. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -13036,6 +13080,7 @@ _Total events: 1773_
 
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT... @ 00:09:36](/episodes/ep-9hRcfSrri70.md#t-00-09-30)
 - [Honey, I Shrunk The Footage! More Exclusive TPU... @ 00:02:20](/episodes/ep-_cNtgris8Ik.md#t-00-02-00)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:20:48](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31)
 
 </details>
 </div>
@@ -13176,6 +13221,111 @@ _Total events: 1773_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-jack-hibbs-said-an-israeli-news-service-" data-filter-key="event-2025-09-10-jack-hibbs-said-an-israeli-news-service-">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-jack-hibbs-said-an-israeli-news-service-.md">Jack Hibbs said an Israeli news service informed him of Charlie Kirk’s death shortly after the shooting.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Jack Hibbs said an Israeli news service informed him of Charlie Kirk’s death shortly after the shooting. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:08:45](/episodes/ep-ZkDO-MRLUco.md#t-00-08-45)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-frank-turek-said-he-and-burton-hibbs-pos" data-filter-key="event-2025-09-10-frank-turek-said-he-and-burton-hibbs-pos">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-frank-turek-said-he-and-burton-hibbs-pos.md">Frank Turek said he and Burton Hibbs posed with Charlie Kirk in what was probably Kirk’s last formal photo.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Frank Turek said he and Burton Hibbs posed with Charlie Kirk in what was probably Kirk’s last formal photo. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:10:04](/episodes/ep-ZkDO-MRLUco.md#t-00-10-04)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-jack-hibbs-recalled-michael-mccoy-callin" data-filter-key="event-2025-09-10-jack-hibbs-recalled-michael-mccoy-callin">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-jack-hibbs-recalled-michael-mccoy-callin.md">Jack Hibbs recalled Michael McCoy calling and requesting prayer after Charlie Kirk was shot; call order was uncertain.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Jack Hibbs recalled Michael McCoy calling and requesting prayer after Charlie Kirk was shot; call order was uncertain. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:15:38](/episodes/ep-ZkDO-MRLUco.md#t-00-15-38)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-jack-hibbs-said-his-brother-burton-calle" data-filter-key="event-2025-09-10-jack-hibbs-said-his-brother-burton-calle">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-jack-hibbs-said-his-brother-burton-calle.md">Jack Hibbs said his brother Burton called saying Charlie Kirk had just been shot, with screaming audible.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Jack Hibbs said his brother Burton called saying Charlie Kirk had just been shot, with screaming audible. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:14:08](/episodes/ep-ZkDO-MRLUco.md#t-00-13-56)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-frank-turek-recalled-a-facetime-call-to-" data-filter-key="event-2025-09-10-frank-turek-recalled-a-facetime-call-to-">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-frank-turek-recalled-a-facetime-call-to-.md">Frank Turek recalled a FaceTime call to Jack Hibbs after reaching the emergency room with Charlie Kirk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Frank Turek recalled a FaceTime call to Jack Hibbs after reaching the emergency room with Charlie Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:16:08](/episodes/ep-ZkDO-MRLUco.md#t-00-16-08)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-interpreted-footage-as-burton-hibb" data-filter-key="event-2025-09-10-owens-interpreted-footage-as-burton-hibb">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-owens-interpreted-footage-as-burton-hibb.md">Owens interpreted footage as Burton Hibbs recording the scene seconds after Kirk was hit, while allowing possible FaceTime use.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens interpreted footage as Burton Hibbs recording the scene seconds after Kirk was hit, while allowing possible FaceTime use. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:23:33](/episodes/ep-ZkDO-MRLUco.md#t-00-23-16)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-said-footage-appeared-to-show-burt" data-filter-key="event-2025-09-10-owens-said-footage-appeared-to-show-burt">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-owens-said-footage-appeared-to-show-burt.md">Owens said footage appeared to show Burton Hibbs on a phone call about five minutes after Kirk was hit.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens said footage appeared to show Burton Hibbs on a phone call about five minutes after Kirk was hit. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:25:18](/episodes/ep-ZkDO-MRLUco.md#t-00-25-18)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution" data-filter-key="event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution">
 <div class="timeline-date">2025-09-09 <span class='time'>21:09</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution.md">Josh Hammer retweets Trump's 2013 public execution tweet.</a></div>
@@ -13197,7 +13347,7 @@ _Total events: 1773_
 <div class="timeline-date">2025-09-09 <span class='time'>18:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-josh-hammer-said-charlie-kirk-held-a-zoo.md">Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">6× in 6 eps</span>
+<span class="timeline-badge mentions">7× in 7 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09 18:00: Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -13209,6 +13359,7 @@ _Total events: 1773_
 - [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:35:38](/episodes/ep-MhakwJxK-Zk.md#t-00-35-16)
 - [I Survive My First Death Hoax, Erika Kirk Makes... @ 00:43:38](/episodes/ep-VMNWMXX1vO8.md#t-00-43-16)
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:21:29](/episodes/ep-2Riv3I7D0Yk.md#t-00-21-29)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:13:07](/episodes/ep-ZkDO-MRLUco.md#t-00-12-57)
 
 </details>
 </div>
@@ -13217,7 +13368,7 @@ _Total events: 1773_
 <div class="timeline-date">2025-09-09 <span class='time'>15:54</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-candace-owens-said-charlie-kirk-sent-a-t.md">Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">7× in 7 eps</span>
+<span class="timeline-badge mentions">8× in 8 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09 15:54: Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -13230,6 +13381,7 @@ _Total events: 1773_
 - [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:35:27](/episodes/ep-MhakwJxK-Zk.md#t-00-35-16)
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Co... @ 00:41:17](/episodes/ep-X3VKJVJ7cN4.md#t-00-41-05)
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:15:50](/episodes/ep-amqTMimDr0A.md#t-00-15-44)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:12:14](/episodes/ep-ZkDO-MRLUco.md#t-00-12-14)
 
 </details>
 </div>
@@ -13344,7 +13496,7 @@ _Total events: 1773_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death.md">Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">10× in 9 eps</span>
+<span class="timeline-badge mentions">11× in 10 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Text messages the day before Charlie Kirk\'s death in which he warned he thought he would be killed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -13360,6 +13512,7 @@ _Total events: 1773_
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 00:05:43](/episodes/ep-aPOyk1i2LOc.md#t-00-05-43)
 - [Behind The Scenes Of The Great Debate: TPUSA Is... @ 00:18:49](/episodes/ep-E7P2ShoYDUA.md#t-00-18-49)
 - [Erika And I Sat Down. Here’s What Happened. | C... @ 00:07:15](/episodes/ep-es7PWdFGoFI.md#t-00-06-43)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:12:50](/episodes/ep-ZkDO-MRLUco.md#t-00-12-14)
 
 </details>
 </div>
@@ -13674,6 +13827,21 @@ _Total events: 1773_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Anoth... @ 00:11:00](/episodes/ep-1CFDtD0IgEg.md#t-00-10-34)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-09-jack-hibbs-said-he-asked-charlie-kirk-th" data-filter-key="event-2025-09-09-jack-hibbs-said-he-asked-charlie-kirk-th">
+<div class="timeline-date">2025-09-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-09-jack-hibbs-said-he-asked-charlie-kirk-th.md">Jack Hibbs said he asked Charlie Kirk the night before the UVU event to accommodate his brother Burton Hibbs.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Jack Hibbs said he asked Charlie Kirk the night before the UVU event to accommodate his brother Burton Hibbs. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:09:16](/episodes/ep-ZkDO-MRLUco.md#t-00-08-58)
 
 </details>
 </div>
@@ -15900,13 +16068,14 @@ _Total events: 1773_
 <div class="timeline-date">2025-07-12</div>
 <div class="timeline-desc"><a href="/events/event-2025-07-12-the-new-york-times-reported-that-donald-.md">The New York Times reported that Donald Trump called and scolded Charlie Kirk over Epstein criticism at the Student Action Summit.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-12: The New York Times reported that Donald Trump called and scolded Charlie Kirk over Epstein criticism at the Student Action Summit. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epste... @ 00:18:47](/episodes/ep-WoXd4oLwd3w.md#t-00-18-35)
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:43:09](/episodes/ep-ZkDO-MRLUco.md#t-00-43-09)
 
 </details>
 </div>
@@ -19113,6 +19282,21 @@ _Total events: 1773_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And... @ 00:01:18](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-owens-said-blake-neff-began-working-with" data-filter-key="event-2024-owens-said-blake-neff-began-working-with">
+<div class="timeline-date">2024</div>
+<div class="timeline-desc"><a href="/events/event-2024-owens-said-blake-neff-began-working-with.md">Owens said Blake Neff began working with Charlie Kirk around the beginning of 2024.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024: Owens said Blake Neff began working with Charlie Kirk around the beginning of 2024. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:53:49](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22)
 
 </details>
 </div>

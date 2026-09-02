@@ -20,7 +20,7 @@ type: "accusation"
 
 ## About
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source

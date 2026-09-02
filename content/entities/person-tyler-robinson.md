@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 990 mentions"
+description: "Tyler Robinson (People) - 999 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-tyler-robinson-t-00-28-28">2026-08-31 · 00:28:28</a></strong></div>
-<div><span>Episodes</span><strong>104</strong></div>
-<div><span>Mentions</span><strong>990</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-52-57">2026-09-01 · 00:52:57</a></strong></div>
+<div><span>Episodes</span><strong>105</strong></div>
+<div><span>Mentions</span><strong>999</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
-<div><span>Statements about</span><strong>403</strong></div>
+<div><span>Statements about</span><strong>439</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -110,7 +110,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-tyler-robinson-t-00-25-40" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-00-51-37" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 8 mentions" title="2026-05-28 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-tyler-robinson-t-00-41-38" style="--pulse-height:8%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-tyler-robinson-t-00-13-31" style="--pulse-height:13%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 13 mentions" title="2026-06-16 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-tyler-robinson-t-00-13-31" style="--pulse-height:12%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 12 mentions" title="2026-06-16 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-robinson-t-00-08-01" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 5 mentions" title="2026-06-17 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-tyler-robinson-t-00-45-22" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 4 mentions" title="2026-06-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-tyler-robinson-t-00-01-34" style="--pulse-height:9%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 9 mentions" title="2026-06-23 · 9 mentions"><span></span></a>
@@ -140,6 +140,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-tyler-robinson-t-00-18-18" style="--pulse-height:19%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 20 mentions" title="2026-08-19 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-robinson-t-00-15-06" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 7 mentions" title="2026-08-21 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-tyler-robinson-t-00-27-53" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-01-03" style="--pulse-height:10%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 10 mentions" title="2026-09-01 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -219,7 +220,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-tyler-robinson-t-00-25-40) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-00-51-37) | 8 |
 | 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-tyler-robinson-t-00-41-38) | 1 |
-| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-tyler-robinson-t-00-13-31) | 13 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-tyler-robinson-t-00-13-31) | 12 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-robinson-t-00-08-01) | 5 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-tyler-robinson-t-00-45-22) | 4 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-tyler-robinson-t-00-01-34) | 9 |
@@ -249,6 +250,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-tyler-robinson-t-00-18-18) | 20 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-robinson-t-00-15-06) | 7 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-tyler-robinson-t-00-27-53) | 2 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-01-03) | 10 |
 
 </details>
 </section>
@@ -260,7 +262,42 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (990)</strong></summary>
+<summary><strong class="section-title">Raw mentions (999)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (10 mentions)</summary>
+
+**[00:01:03](/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-01-03)**
+> "Analyst who attacked me for looking into this case just why does she look so much like Tyler Robinson check this out uncanny uncanny what are they doing out in Utah I have no positive evidence that it wasn't Jennica Pounds that was walking up that staircase at UVU I'm over here looking at the Department of War like I'm Sophie Cunningham you know doing the point we don't know no But we know."
+
+**[00:02:05](/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-01-48)**
+> "...e is enough evidence to allow Tyler Robinson's case to proceed to trial."
+
+**[00:31:23](/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-31-08)**
+> "... preliminary evidence to move Tyler Robinson forward to trial."
+
+**[00:32:28](/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-32-16)**
+> "...meone that this happened that Tyler Robinson's vehicle pulled the side of the road and he rememb..."
+
+**[00:33:21](/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-32-54)**
+> "...e is seeking to bring against Tyler Robinson."
+
+**[00:34:39](/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-34-39)**
+> "...ng forth their claims is that Tyler Robinson is the shooter but they're also arguing that he o..."
+
+**[00:37:20](/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-37-20)**
+> "...he prosecution is saying that Tyler Robinson hid the firearm that was used to shoot Charlie Ki..."
+
+**[00:37:29](/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-37-20)**
+> "...ice for their allegation that Tyler Robinson also hid the clothing that he wore during the sho..."
+
+**[00:42:00](/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-41-54)**
+> "... propaganda and trying to get Tyler Robinson convicted and going after people who are asking m..."
+
+**[00:52:57](/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-52-57)**
+> "... why do you look so much like Tyler Robinson?"
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
@@ -2016,7 +2053,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (13 mentions)</summary>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (12 mentions)</summary>
 
 **[00:13:31](/episodes/ep-h76ZN-xXC6c.md#ent-person-tyler-robinson-t-00-13-31)**
 > "...ought to a random field where Tyler Robinson's gun is eventually going to be recovered, but not ..."
@@ -2050,9 +2087,6 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 **[01:06:19](/episodes/ep-h76ZN-xXC6c.md#ent-person-tyler-robinson-t-01-06-01)**
 > "... I feel like we all know that Tyler Robinson didn't do this thing and turning point every day ..."
-
-**[01:06:19](/episodes/ep-h76ZN-xXC6c.md#ent-person-tyler-robinson-t-01-06-01)**
-> "I feel like we all know that Tyler Robinson didn't do this thing and turning point every day ..."
 
 **[00:12:01](/episodes/ep-h76ZN-xXC6c.md#ent-person-tyler-robinson-t-00-12-01)**
 > "Again, that's my opinion, and I'm going to stick to it until I see further evidence. And what I can say and what I can state rather unequivocally is that there is now more evidence, more evidentiary support that Charlie (Charlie Kirk) may have been killed by a rigged explosive device that was on him than there is that Tyler Robinson shot him from a rooftop, committed his first assassination, and all he got was a grainy staircase photo."
@@ -4103,7 +4137,53 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (403)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (439)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (15)</summary>
+
+- [00:31:54](/episodes/ep-ZkDO-MRLUco.md#t-00-31-39) (Claim) **Candace Owens**: ["Owens said Tyler Robinson’s preliminary hearing took place over five d..."](/statements/statement-e2f43b486ea6.md)
+
+- [00:31:54](/episodes/ep-ZkDO-MRLUco.md#t-00-31-39) (Claim) **Candace Owens**: ["Owens said Utah Rule of Evidence 1102 permits reliable hearsay at the ..."](/statements/statement-a303332b1566.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Utah Rule of Evidence 1102](/entities/law-utah-evidence-rule-1102.md), [Utah Constitution](/entities/law-utah-constitution.md)
+
+- [00:33:39](/episodes/ep-ZkDO-MRLUco.md#t-00-33-39) (Claim) **Candace Owens**: ["Owens claimed Utah had never convicted someone of aggravated murder fo..."](/statements/statement-0e4fdc3a3340.md)
+  - Also about: [Utah](/entities/gpe-utah.md)
+
+- [00:34:39](/episodes/ep-ZkDO-MRLUco.md#t-00-34-39) (Claim) **Candace Owens** (via paraphrase): ["Owens said prosecutors alleged Robinson fired only one bullet despite ..."](/statements/statement-99589070745b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:35:14](/episodes/ep-ZkDO-MRLUco.md#t-00-35-14) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized the defense’s dismissal motion as arguing that the..."](/statements/statement-ff71bec514a7.md)
+
+- [00:36:05](/episodes/ep-ZkDO-MRLUco.md#t-00-35-56) (Claim) **Candace Owens** (via paraphrase): ["Owens said the prosecution relied on Pennsylvania cases involving one ..."](/statements/statement-1f777ccdd797.md)
+  - Also about: [Pennsylvania](/entities/gpe-pennsylvania.md)
+
+- [00:37:00](/episodes/ep-ZkDO-MRLUco.md#t-00-36-35) (Prediction) **Candace Owens**: ["Owens said she would be very shocked if the judge allowed the aggravat..."](/statements/statement-cb5fd608b093.md)
+  - Also about: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)
+
+- [00:37:43](/episodes/ep-ZkDO-MRLUco.md#t-00-37-20) (Opinion) **Candace Owens** (via paraphrase): ["Owens said the defense sought dismissal of count six because allegedly..."](/statements/statement-1dc676dd0446.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [00:38:32](/episodes/ep-ZkDO-MRLUco.md#t-00-38-32) (Claim) **Candace Owens** (via paraphrase): ["Owens said the defense sought dismissal of counts one, six, and seven ..."](/statements/statement-80a8d08e3c4c.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:41:34](/episodes/ep-ZkDO-MRLUco.md#t-00-41-12) (Opinion) **Candace Owens**: ["Owens said she wanted the Robinson case to proceed because she believe..."](/statements/statement-d4a5500b4c4e.md)
+
+- [00:42:00](/episodes/ep-ZkDO-MRLUco.md#t-00-41-54) (Accusation) **Candace Owens**: ["Owens accused the Department of War of funding propaganda and smears a..."](/statements/statement-bd7e4a54a446.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+- [00:43:17](/episodes/ep-ZkDO-MRLUco.md#t-00-43-09) (Opinion) **Candace Owens**: ["Owens acknowledged that proceeding to trial could harm a potentially i..."](/statements/statement-4ae258b92e49.md)
+
+- [00:43:55](/episodes/ep-ZkDO-MRLUco.md#t-00-43-55) (Accusation) **Candace Owens**: ["Owens alleged the prosecution’s large discovery delivery was a strateg..."](/statements/statement-96c7b0ef8ff3.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:44:11](/episodes/ep-ZkDO-MRLUco.md#t-00-43-55) (Claim) **Candace Owens**: ["Owens said the defense received 12.1 terabytes of material, including ..."](/statements/statement-233807fb8f6b.md)
+  - Also about: [Discord](/entities/org-discord.md)
+
+- [00:54:14](/episodes/ep-ZkDO-MRLUco.md#t-00-53-58) (Claim) **Candace Owens**: ["Owens said there were still no court-hearing updates when she ended th..."](/statements/statement-c4427cae21f3.md)
+  - Also about: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3)</summary>
@@ -4128,15 +4208,15 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:29:01](/episodes/ep-_cNtgris8Ik.md#t-00-28-41) (Accusation) **Andrew Wilson** (via quoted speech): ["Wilson said he received hundreds of messages from people who did not k..."](/statements/statement-253df4e31419.md)
-  - Also about: [Cowboy’s Smokehouse Cafe](/entities/org-cowboys-smokehouse-cafe.md)
+  - Also about: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
 
 - [00:29:20](/episodes/ep-_cNtgris8Ik.md#t-00-29-10) (Opinion) **Andrew Kolvet** (via quoted speech): ["Kolvet argued that if Robinson's defense possessed exculpatory evidenc..."](/statements/statement-3f423632e7a4.md)
 
 - [00:30:05](/episodes/ep-_cNtgris8Ik.md#t-00-29-58) (Claim) **Candace Owens**: ["Owens said the FBI knew of the Panguitch restaurant lead and took a st..."](/statements/statement-8f1e2f9ada10.md)
-  - Also about: [FBI](/entities/org-fbi.md), [Cowboy’s Smokehouse Cafe](/entities/org-cowboys-smokehouse-cafe.md), [Panguitch, Utah](/entities/gpe-panguitch-utah.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md), [Panguitch, Utah](/entities/gpe-panguitch-utah.md)
 
 - [00:31:41](/episodes/ep-_cNtgris8Ik.md#t-00-31-13) (Opinion) **Candace Owens**: ["Owens acknowledged that the restaurant server could sincerely have bel..."](/statements/statement-8a9f1e15e92d.md)
-  - Also about: [Cowboy’s Smokehouse Cafe](/entities/org-cowboys-smokehouse-cafe.md)
+  - Also about: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
 
 - [01:01:25](/episodes/ep-_cNtgris8Ik.md#t-01-00-52) (Claim) **Candace Owens** (via paraphrase): ["Owens said she knew Tyler Robinson was around the Utah Valley Universi..."](/statements/statement-c8df1c2e0dfb.md)
   - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
@@ -4213,7 +4293,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (22)</summary>
 
-- [00:31:26](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-52) (Claim) **Andrew Wilson**: ["Based on the evidence available so far, Andrew Wilson believes the sta..."](/statements/statement-3523ec3378a3.md)
+- [00:31:26](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-52) (Opinion) **Andrew Wilson**: ["Based on the evidence available so far, Andrew Wilson believes the sta..."](/statements/statement-3523ec3378a3.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:32:10](/episodes/ep-nPhCKwJ6ye8.md#t-00-32-10) (Citation) **Andrew Wilson**: ["Andrew Wilson says the case against Tyler Robinson is supported by cor..."](/statements/statement-53a47c80d7fd.md)
@@ -4260,12 +4340,12 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [02:47:57](/episodes/ep-nPhCKwJ6ye8.md#t-02-47-57) (Accusation) **Candace Owens**: ["Candace Owens believes Erika Kirk was complicit in trying to convince ..."](/statements/statement-8f4c7fed2ec6.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [03:25:17](/episodes/ep-nPhCKwJ6ye8.md#t-03-25-12) (Citation) **Candace Owens**: ["After rewatching the testimony, Candace Owens corrected her earlier cl..."](/statements/statement-7d36617db0e1.md)
+- [03:25:17](/episodes/ep-nPhCKwJ6ye8.md#t-03-25-12) (Citation) **Candace Owens**: ["After rewatching the testimony, Owens corrected her inference that Lan..."](/statements/statement-7d36617db0e1.md)
   - Also about: [Matt Robinson](/entities/person-matt-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Amber Robinson](/entities/person-amber-robinson.md)
 
 - [03:41:36](/episodes/ep-nPhCKwJ6ye8.md#t-03-41-36) (Claim) **Candace Owens**: ["Candace Owens says she spoke to the steakhouse owner and saw a receipt..."](/statements/statement-a19c5a074696.md)
 
-- [03:43:16](/episodes/ep-nPhCKwJ6ye8.md#t-03-43-16) (Promise) **Candace Owens**: ["Candace Owens promises to remove the steakhouse stop from her personal..."](/statements/statement-6e4c87e8d0c6.md)
+- [03:43:16](/episodes/ep-nPhCKwJ6ye8.md#t-03-43-16) (Promise) **Candace Owens**: ["Owens promised to remove the steakhouse stop from her personal timelin..."](/statements/statement-6e4c87e8d0c6.md)
 
 - [03:44:08](/episodes/ep-nPhCKwJ6ye8.md#t-03-43-56) (Accusation) **Candace Owens**: ["Candace Owens believes it is plausible that the screwdriver found on t..."](/statements/statement-58a5ee7b6ddc.md)
   - Also about: [Chris Bagley](/entities/person-chris-bagley.md)
@@ -4279,43 +4359,83 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1)</summary>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (5)</summary>
+
+- [00:27:12](/episodes/ep-aPOyk1i2LOc.md#t-00-27-06) (Opinion) **Candace Owens**: ["Owens allowed that Twiggs touching items shared with Robinson could ha..."](/statements/statement-1fef3e68d636.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
 
 - [01:04:42](/episodes/ep-aPOyk1i2LOc.md#t-01-04-31) (Claim) **Anonymous Source #1 (Ep aPOyk1i2LOc)** (via quoted speech): ["Federal authorities placed members of Tyler Robinson's family in a saf..."](/statements/statement-d9d2ef8923a6.md)
   - Also about: [Matt Robinson](/entities/person-matt-robinson.md), [Amber Robinson](/entities/person-amber-robinson.md), [FBI](/entities/org-fbi.md)
 
+- [01:10:22](/episodes/ep-aPOyk1i2LOc.md#t-01-10-22) (Opinion) **Candace Owens**: ["Owens allowed that the alleged Robinson messages might not be fabricat..."](/statements/statement-50a9212db10d.md)
+
+- [01:18:03](/episodes/ep-aPOyk1i2LOc.md#t-01-18-03) (Opinion) **Andrew Wilson**: ["Wilson clarified that his overwhelming-evidence assessment meant evide..."](/statements/statement-2e4cdf20307d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [02:56:56](/episodes/ep-aPOyk1i2LOc.md#t-02-56-56) (Opinion) **Andrew Wilson**: ["Wilson argued that roughly five and a half to six hours of Owens's pro..."](/statements/statement-1db390adddec.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
 </details>
 
 <details>
-<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (3)</summary>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (12)</summary>
+
+- [00:03:38](/episodes/ep-HGtMfbePDKk.md#t-00-03-08) (Opinion) **Candace Owens**: ["Owens rhetorically argued that Robinson's alleged Chick-fil-A visit wa..."](/statements/statement-895eeff88634.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:05:12](/episodes/ep-HGtMfbePDKk.md#t-00-05-02) (Opinion) **David Freiheit** (via quoted tweet): ["David Freiheit wrote that he agreed the pictured person did not look l..."](/statements/statement-f1bfa74990b9.md)
   - Also about: [Artificial intelligence](/entities/concept-artificial-intelligence.md)
 
+- [00:07:39](/episodes/ep-HGtMfbePDKk.md#t-00-07-08) (Accusation) **This Is the Zero Hour (social-media handle; identity unverified)** (via quoted tweet): ["The account This Is the Zero Hour accused Owens of tampering with evid..."](/statements/statement-5252d8c40a1e.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Diligent Denizen (online-investigator handle; identity unverified)](/entities/anon-src-HGtMfbePDKk-019.md)
+
+- [00:09:47](/episodes/ep-HGtMfbePDKk.md#t-00-09-07) (Opinion) **Candace Owens**: ["Owens judged the garage figure broader than Robinson in booking-room f..."](/statements/statement-e8a20777b17c.md)
+
 - [00:09:57](/episodes/ep-HGtMfbePDKk.md#t-00-09-52) (Claim) **Candace Owens**: ["Owens said the compression visible in the courtroom footage came from ..."](/statements/statement-a740b5040a82.md)
 
-- [00:24:50](/episodes/ep-HGtMfbePDKk.md#t-00-24-42) (Opinion) **Brandy Zadrozny** (via quoted speech): ["Zadrozny said Tyler Robinson's arrest might have united a MAGA movemen..."](/statements/statement-f1353297c6d0.md)
+- [00:24:50](/episodes/ep-HGtMfbePDKk.md#t-00-24-42) (Opinion) **Brandy Zadrozny** (via quoted tweet): ["Zadrozny said Tyler Robinson's arrest might have united a MAGA movemen..."](/statements/statement-f1353297c6d0.md)
   - Also about: [MAGA movement](/entities/concept-maga-movement.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:45:10](/episodes/ep-HGtMfbePDKk.md#t-00-45-05) (Opinion) **Candace Owens**: ["Owens expanded her possible high-socks theory from a concealed ankle t..."](/statements/statement-3dba17523920.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [00:47:25](/episodes/ep-HGtMfbePDKk.md#t-00-47-12) (Opinion) **Keeping the Faith with Father Joseph (commenter; identity unverified)** (via read message): ["A commenter using the name Keeping the Faith with Father Joseph offere..."](/statements/statement-d6b36f3a3816.md)
+
+- [00:48:00](/episodes/ep-HGtMfbePDKk.md#t-00-47-47) (Claim) **Diligent Denizen (online-investigator handle; identity unverified)** (via read message): ["According to an Alaska Dog Lady comment read by Owens, Diligent Denize..."](/statements/statement-8a2f5d6f0d49.md)
+  - Also about: [Diligent Denizen (online-investigator handle; identity unverified)](/entities/anon-src-HGtMfbePDKk-019.md)
+
+- [00:48:29](/episodes/ep-HGtMfbePDKk.md#t-00-48-29) (Opinion) **Easy Hammer (commenter; identity unverified)** (via read message): ["A commenter using the name Easy Hammer proposed the possibility that T..."](/statements/statement-a22dcde8a0de.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [00:50:18](/episodes/ep-HGtMfbePDKk.md#t-00-49-48) (Opinion) **Chris (commenter; identity unverified)** (via read message): ["A commenter using the name Chris proposed that the black-shirted figur..."](/statements/statement-64349bdf24e9.md)
+
+- [00:50:36](/episodes/ep-HGtMfbePDKk.md#t-00-50-30) (Opinion) **Candace Owens**: ["Owens argued that moving the hypothesized concealed gun higher under t..."](/statements/statement-06bb908d3f8c.md)
 
 </details>
 
 <details>
-<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (11)</summary>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (14)</summary>
+
+- [00:05:40](/episodes/ep-5zgkrOaCCj4.md#t-00-05-12) (Opinion) **Candace Owens**: ["Owens argued that the reported message about keeping the crime secret ..."](/statements/statement-fe8601d6d2b0.md)
 
 - [00:07:16](/episodes/ep-5zgkrOaCCj4.md#t-00-07-02) (Accusation) **Candace Owens**: ["Owens alleged that news media intentionally selected maroon-shirt phot..."](/statements/statement-6cc7e1038e76.md)
   - Also about: [Mainstream media](/entities/concept-mainstream-media.md)
 
 - [00:08:35](/episodes/ep-5zgkrOaCCj4.md#t-00-08-22) (Opinion) **Candace Owens**: ["Owens said she believes Tyler Robinson is a patsy."](/statements/statement-73807ad823e2.md)
 
-- [00:10:23](/episodes/ep-5zgkrOaCCj4.md#t-00-10-23) (Claim) **Anonymous Source #3 (Ep 5zgkrOaCCj4)** (via read message): ["An anonymous government source said the person in the parking-garage f..."](/statements/statement-f82975ff6cba.md)
+- [00:08:35](/episodes/ep-5zgkrOaCCj4.md#t-00-08-22) (Opinion) **Candace Owens**: ["Within her patsy theory, Owens speculated that the maroon outfit was p..."](/statements/statement-afa133cb07a1.md)
 
-- [00:12:32](/episodes/ep-5zgkrOaCCj4.md#t-00-12-32) (Opinion) **Candace Owens**: ["Owens speculated that high white socks on the person in the footage mi..."](/statements/statement-e5f5ab8dadb9.md)
+- [00:10:23](/episodes/ep-5zgkrOaCCj4.md#t-00-10-23) (Claim) **Candace Owens**: ["Owens said an anonymous government source believed the person in the p..."](/statements/statement-f82975ff6cba.md)
+
+- [00:12:32](/episodes/ep-5zgkrOaCCj4.md#t-00-12-32) (Opinion) **Candace Owens**: ["Owens speculated that the apparently pale lower legs might instead be ..."](/statements/statement-e5f5ab8dadb9.md)
 
 - [00:14:25](/episodes/ep-5zgkrOaCCj4.md#t-00-14-25) (Claim) **Candace Owens** (via paraphrase): ["Owens said the official narrative places Tyler Robinson leaving St. Ge..."](/statements/statement-572b9d4484d4.md)
   - Also about: [St. George](/entities/gpe-st-george.md)
 
-- [00:16:14](/episodes/ep-5zgkrOaCCj4.md#t-00-15-44) (Claim) **Candace Owens**: ["Owens said Tyler Robinson sent his Wordle score to a friend at 1128."](/statements/statement-a83ea7df4918.md)
+- [00:16:14](/episodes/ep-5zgkrOaCCj4.md#t-00-15-44) (Claim) **Candace Owens**: ["Owens said Tyler Robinson sent his Wordle score to a friend at 11:28 a..."](/statements/statement-a83ea7df4918.md)
   - Also about: [Wordle](/entities/work-wordle.md)
+
+- [00:18:12](/episodes/ep-5zgkrOaCCj4.md#t-00-17-47) (Opinion) **Candace Owens**: ["Owens withdrew her earlier assumption that police had pulled over Tyle..."](/statements/statement-1da2a6d349f6.md)
 
 - [00:18:31](/episodes/ep-5zgkrOaCCj4.md#t-00-18-31) (Opinion) **Candace Owens** (via paraphrase): ["Owens said she thinks Agent Hull's testimony means Tyler Robinson stop..."](/statements/statement-a7c6b59c718a.md)
   - Also about: [David Hull](/entities/person-david-hull.md)
@@ -4332,13 +4452,15 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (10)</summary>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (12)</summary>
 
 - [00:18:05](/episodes/ep-d7VsbEIWkP8.md#t-00-17-34) (Claim) **Benny Johnson** (via quoted speech): ["Benny Johnson said the public had seen maybe 1% or 2% of the evidence ..."](/statements/statement-3b0afc3efe06.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:18:45](/episodes/ep-d7VsbEIWkP8.md#t-00-18-13) (Opinion) **Candace Owens**: ["Candace Owens said she believes the person in the maroon shirt was not..."](/statements/statement-85f10601be5f.md)
   - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:19:09](/episodes/ep-d7VsbEIWkP8.md#t-00-18-53) (Opinion) **Candace Owens**: ["Owens allowed that Tyler Robinson might have been driving people near ..."](/statements/statement-45f6ac81df8b.md)
 
 - [00:19:24](/episodes/ep-d7VsbEIWkP8.md#t-00-19-24) (Opinion) **Candace Owens**: ["Candace Owens said she believes the maroon-shirted and black-shirted p..."](/statements/statement-6f2d6395bf13.md)
   - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
@@ -4349,11 +4471,14 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [00:20:44](/episodes/ep-d7VsbEIWkP8.md#t-00-20-44) (Claim) **Candace Owens**: ["Candace Owens claimed Lance Twiggs' DNA was found on the towel and rif..."](/statements/statement-8a39caf60046.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
 
-- [00:21:31](/episodes/ep-d7VsbEIWkP8.md#t-00-21-21) (Claim) **Anonymous Source #24 (Ep d7VsbEIWkP8)** (via read message): ["Unnamed family-member and schoolmate sources described Tyler Robinson ..."](/statements/statement-93a82396e059.md)
+- [00:21:31](/episodes/ep-d7VsbEIWkP8.md#t-00-21-21) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized unnamed family-member and schoolmate accounts as d..."](/statements/statement-93a82396e059.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
 
 - [00:23:55](/episodes/ep-d7VsbEIWkP8.md#t-00-23-30) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens reported that Matt Robinson suspected federal agents had..."](/statements/statement-94404f89c306.md)
   - Also about: [Matt Robinson](/entities/person-matt-robinson.md), [FBI](/entities/org-fbi.md)
+
+- [00:24:32](/episodes/ep-d7VsbEIWkP8.md#t-00-24-32) (Opinion) **Candace Owens**: ["Owens speculated that the dog bed she said was found in Tyler Robinson..."](/statements/statement-e9647bd2183d.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
 
 - [00:26:48](/episodes/ep-d7VsbEIWkP8.md#t-00-26-39) (Accusation) **Candace Owens**: ["Candace Owens asked whether Lance Twiggs could have written and burned..."](/statements/statement-84423e35608c.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
@@ -4366,7 +4491,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (17)</summary>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (18)</summary>
 
 - [00:02:40](/episodes/ep-ChuWo-n49B8.md#t-00-02-09) (Opinion) **Candace Owens**: ["Owens said she strongly suspected that Mike Mitchell was the same Mich..."](/statements/statement-50062fd23cb1.md)
   - Also about: [Mike Mitchell](/entities/person-mike-mitchell.md)
@@ -4382,8 +4507,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [00:06:34](/episodes/ep-ChuWo-n49B8.md#t-00-06-10) (Claim) **Candace Owens**: ["Tyler Robinson and Lance Twiggs are not transgender"](/statements/statement-9f0afa0dffc0.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
 
-- [00:08:10](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) (Claim) **Lance Twiggs** (via quoted speech): ["Lance Twiggs testified that he and Tyler Robinson had never discussed ..."](/statements/statement-cfe56946f7d7.md)
+- [00:08:10](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Lance Twiggs's account as saying that he and Tyler..."](/statements/statement-cfe56946f7d7.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [LGBTQ](/entities/concept-lgbtq.md)
+
+- [00:08:22](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) (Opinion) **Candace Owens**: ["Owens argued that the proposed political motive for Tyler Robinson had..."](/statements/statement-fc3e73c07a4c.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:08:40](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) (Accusation) **Candace Owens**: ["Owens accused Blake Neff of lying when he claimed footage showed Tyler..."](/statements/statement-2d41a794ee17.md)
   - Also about: [Blake Neff](/entities/person-blake-neff.md)
@@ -4404,9 +4532,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [FBI](/entities/org-fbi.md)
 
 - [00:16:26](/episodes/ep-ChuWo-n49B8.md#t-00-16-26) (Opinion) **Candace Owens**: ["Owens said Tyler Robinson's purported text messages did not sound like..."](/statements/statement-1d553f9c80a6.md)
-  - Also about: [Google Translate](/entities/work-google-translate.md), [Ukraine](/entities/gpe-ukraine.md)
+  - Also about: [Google Translate](/entities/work-google-translate.md)
 
-- [00:16:51](/episodes/ep-ChuWo-n49B8.md#t-00-16-26) (Claim) **Candace Owens**: ["Owens said it was entirely plausible that someone gained access to Tyl..."](/statements/statement-db9c1853cae3.md)
+- [00:16:51](/episodes/ep-ChuWo-n49B8.md#t-00-16-26) (Accusation) **Candace Owens**: ["Owens said it was entirely plausible that someone gained access to Tyl..."](/statements/statement-db9c1853cae3.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [iCloud](/entities/work-icloud.md)
 
 - [00:17:02](/episodes/ep-ChuWo-n49B8.md#t-00-17-02) (Claim) **Candace Owens**: ["Tyler Robinson's legal team had not been granted its discovery request..."](/statements/statement-0c7ce2a8329c.md)
@@ -4459,7 +4587,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
 
 - [00:42:18](/episodes/ep-iB-YtO3UZOg.md#t-00-41-53) (Opinion) **Candace Owens**: ["Owens said she did not believe there was a gun on the Losee Center roo..."](/statements/statement-babbe6e7dd38.md)
-  - Also about: [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md)
+  - Also about: [Losee Center](/entities/org-losee-center.md)
 
 - [00:46:11](/episodes/ep-iB-YtO3UZOg.md#t-00-45-48) (Accusation) **Candace Owens**: ["Owens accused Erika Kirk of using 'I forgive him' to convict Tyler Rob..."](/statements/statement-6d3e570ed2e8.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -4490,7 +4618,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (5)</summary>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (6)</summary>
+
+- [00:10:45](/episodes/ep-Vu6Y24pqhZs.md#t-00-10-44) (Opinion) **Candace Owens**: ["Owens said the rooftop footage showed a brief flash near the moving pe..."](/statements/statement-2f34ec8d3caa.md)
 
 - [00:17:19](/episodes/ep-Vu6Y24pqhZs.md#t-00-17-19) (Citation) **Candace Owens**: ["Owens cited the preliminary hearing as showing dust in the gun barrel ..."](/statements/statement-4b16e0b8227c.md)
 
@@ -4504,6 +4634,13 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [00:51:09](/episodes/ep-Vu6Y24pqhZs.md#t-00-51-09) (Prediction) **Candace Owens**: ["Owens predicted that a Turning Point USA employee would testify that T..."](/statements/statement-556e53831331.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
+
+- [00:38:13](/episodes/ep-amqTMimDr0A.md#t-00-38-13) (Opinion) **Candace Owens**: ["Owens said the reported Robinson messages were too formal and looked a..."](/statements/statement-98977cd9ac1b.md)
 
 </details>
 
@@ -4539,7 +4676,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
   - Also about: [FBI](/entities/org-fbi.md)
 
 - [00:14:48](/episodes/ep-N4uM8Jdr410.md#t-00-14-15) (Opinion) **Candace Owens**: ["Candace Owens said she believed the blurry rooftop object described pu..."](/statements/statement-866ec339bfbd.md)
-  - Also about: [Anonymous Source #4 (Ep N4uM8Jdr410)](/entities/anon-src-N4uM8Jdr410-004.md)
+  - Also about: [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md)
 
 - [00:49:28](/episodes/ep-N4uM8Jdr410.md#t-00-48-55) (Citation) **Candace Owens**: ["Candace Owens referred to a claim that Tyler Robinson met with three T..."](/statements/statement-7a33b32da257.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -4609,7 +4746,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
   - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md)
 
 - [00:21:28](/episodes/ep-EtLHqDbxqks.md#t-00-21-28) (Claim) **Anonymous Source #6 (Ep EtLHqDbxqks)** (via quoted speech): ["An unidentified law-enforcement witness recalled that Ms. Noble's repo..."](/statements/statement-a725e3d18b50.md)
-  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Anonymous Source #3 (Ep EtLHqDbxqks)](/entities/anon-src-EtLHqDbxqks-003.md)
+  - Also about: [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Ms. Noble (ring-camera witness; full identity unverified)](/entities/anon-src-EtLHqDbxqks-008.md)
 
 - [00:22:39](/episodes/ep-EtLHqDbxqks.md#t-00-22-21) (Claim) **Candace Owens**: ["Candace Owens said a debit-card receipt placed Tyler Robinson at a Pan..."](/statements/statement-d191a5fe5a01.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Panguitch, Utah](/entities/gpe-panguitch-utah.md), [Orem, Utah](/entities/gpe-orem-utah.md)
@@ -4618,7 +4755,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Panguitch, Utah](/entities/gpe-panguitch-utah.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
 - [00:24:00](/episodes/ep-EtLHqDbxqks.md#t-00-23-45) (Claim) **Candace Owens**: ["Candace Owens said the messages attributed to Tyler Robinson and Lance..."](/statements/statement-41f520ff65e0.md)
-  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tel Aviv](/entities/gpe-tel-aviv.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md)
 
 - [00:28:47](/episodes/ep-EtLHqDbxqks.md#t-00-28-47) (Claim) **Lance Twiggs** (via quoted speech): ["Lance Twiggs said he had never personally heard Tyler Robinson talk sp..."](/statements/statement-f5d72fd954b2.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -5443,7 +5580,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2)</summary>
 
-- [00:23:23](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) (Claim) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["The eyewitness told Owens that the shooter description he reported dif..."](/statements/statement-8acfe8fbba49.md)
+- [00:23:23](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) (Claim) **Anonymous Losee Center Eyewitness** (via quoted speech): ["The eyewitness told Owens that the shooter description he reported dif..."](/statements/statement-8acfe8fbba49.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:59:11](/episodes/ep-UBkFkg4UNY8.md#t-00-58-45) (Accusation) **Candace Owens**: ["Owens maintained that Tyler Robinson was only one piece of Charlie Kir..."](/statements/statement-ef2a0a91f8e7.md)

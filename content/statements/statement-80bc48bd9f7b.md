@@ -23,7 +23,7 @@ veracity: "true"
 
 ## About
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 - [FBI](/entities/org-fbi.md) (org)
 
 ## Source

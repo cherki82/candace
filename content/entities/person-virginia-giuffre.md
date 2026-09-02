@@ -85,7 +85,7 @@ Source: [Trump says Epstein 'stole' young women from Mar-a-Lago spa, including V
 <details>
 <summary>Formerly Worked For (1)</summary>
 
-- **[Mar-a-Lago](/entities/org-mar-a-lago.md)**
+- **[Mar-a-Lago](/entities/gpe-mar-a-lago.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:07:25](/episodes/ep-3QJqtW_NOSI.md#t-00-06-52): “I employed Virginia Giuffre. I employed her at Mar-a-Lago”
@@ -109,7 +109,7 @@ Source: [Trump says Epstein 'stole' young women from Mar-a-Lago spa, including V
 <details>
 <summary>Referenced By (2)</summary>
 
-- **[Mar-a-Lago](/entities/org-mar-a-lago.md)** formerly employed this
+- **[Mar-a-Lago](/entities/gpe-mar-a-lago.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:07:25](/episodes/ep-3QJqtW_NOSI.md#t-00-06-52): “I employed Virginia Giuffre. I employed her at Mar-a-Lago”

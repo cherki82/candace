@@ -21,7 +21,7 @@ veracity: "mixed"
 
 ## About
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 - [Utah](/entities/gpe-utah.md) (gpe)
 
 ## Source

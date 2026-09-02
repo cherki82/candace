@@ -23,7 +23,7 @@ type: "factual_claim"
 ## About
 
 - [White House](/entities/org-white-house.md) (org)
-- [Jonathan Pollard](/entities/person-jonathan-pollard.md) (person)
+- [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md) (person)
 - [Karoline Leavitt](/entities/person-karoline-leavitt.md) (person)
 - [Mike Huckabee](/entities/person-mike-huckabee.md) (person)
 

@@ -1,6 +1,6 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 494 mentions"
+description: "Ben Shapiro (People) - 498 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-ben-shapiro-t-00-49-01">2026-08-31 · 00:49:01</a></strong></div>
-<div><span>Episodes</span><strong>70</strong></div>
-<div><span>Mentions</span><strong>494</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-ben-shapiro-t-00-46-45">2026-09-01 · 00:47:21</a></strong></div>
+<div><span>Episodes</span><strong>71</strong></div>
+<div><span>Mentions</span><strong>498</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
-<div><span>Statements about</span><strong>109</strong></div>
+<div><span>Statements about</span><strong>112</strong></div>
 <div><span>Relationships</span><strong>99</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -106,6 +106,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <a href="/episodes/ep-4JxgOclKzqg.md#t-00-40-40" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-ben-shapiro-t-00-27-00" style="--pulse-height:9%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 5 mentions" title="2026-08-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-ben-shapiro-t-00-06-15" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-ben-shapiro-t-00-21-14" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -181,6 +182,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#t-00-40-40) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-ben-shapiro-t-00-27-00) | 5 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-ben-shapiro-t-00-06-15) | 4 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-ben-shapiro-t-00-21-14) | 4 |
 
 </details>
 </section>
@@ -192,7 +194,24 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (494)</strong></summary>
+<summary><strong class="section-title">Raw mentions (498)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>
+
+**[00:21:24](/episodes/ep-ZkDO-MRLUco.md#ent-person-ben-shapiro-t-00-21-14)**
+> "And then we learned that someone in the hospital-bound SUV was providing updates to Ben Shapiro's security team while Charlie Kirk was dying in the backseat. A person..."
+
+**[00:46:54](/episodes/ep-ZkDO-MRLUco.md#ent-person-ben-shapiro-t-00-46-45)**
+> "We were discussing Ben Shapiro and Mama Mia writes this. She writes, Ben Shapiro..."
+
+**[00:47:13](/episodes/ep-ZkDO-MRLUco.md#ent-person-ben-shapiro-t-00-46-45)**
+> "...et the recipe and that's Ben (Ben Shapiro)."
+
+**[00:47:21](/episodes/ep-ZkDO-MRLUco.md#ent-person-ben-shapiro-t-00-46-45)**
+> "That's really is Ben (Ben Shapiro) in a nutshell. We're just like why can't you jus..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (4 mentions)</summary>
@@ -2195,7 +2214,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Criticized By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -2216,6 +2235,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:13:46](/episodes/ep-K1tFD7FfoCU.md#t-00-13-35): “All that aside, I have to say that I was quite stunned that he found within himself—Ben (Ben Shapiro)—the audacity to present this attack on Tucker (Tucker Carlson) as a noble defense of Charlie (Charlie Kirk).”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:17:42](/episodes/ep-w1oqQbR_bYs.md#t-00-17-08): “You are an imposter, Ben. You're an imposter.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:37:57](/episodes/ep-JrhGEm8MGRY.md#t-00-37-46): “They have traditionally toured with Turning Point USA. Beyond that, we're getting Alex Clark and Ben Shapiro. Now we know why they tried so hard to explain that Ben Shapiro was friends with Charlie Kirk: he wants the company. He's like, 'Mine has failed; that one looks pretty. I'm a parasite. I'd like to be here.' He wants to pick up that bloody mic, and by golly he's going to do it. They're also trying to launch this obscure guy, Mat Nuclear, who works at The Daily Wire.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:46:54](/episodes/ep-ZkDO-MRLUco.md#t-00-46-45): “We were discussing Ben Shapiro and Mama Mia writes this. She writes, Ben Shapiro is like plankton on SpongeBob. ... He just can't make he doesn't have the sauce. He can't make one himself that people love and so he's constantly just like plotting to get the recipe and that's Ben (Ben Shapiro). ... That's really is Ben (Ben Shapiro) in a nutshell. We're just like why can't you just create something successful yourself?”
 
 </details>
 
@@ -2607,7 +2627,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -2628,6 +2648,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:13:46](/episodes/ep-K1tFD7FfoCU.md#t-00-13-35): “All that aside, I have to say that I was quite stunned that he found within himself—Ben (Ben Shapiro)—the audacity to present this attack on Tucker (Tucker Carlson) as a noble defense of Charlie (Charlie Kirk).”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:17:42](/episodes/ep-w1oqQbR_bYs.md#t-00-17-08): “You are an imposter, Ben. You're an imposter.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:37:57](/episodes/ep-JrhGEm8MGRY.md#t-00-37-46): “They have traditionally toured with Turning Point USA. Beyond that, we're getting Alex Clark and Ben Shapiro. Now we know why they tried so hard to explain that Ben Shapiro was friends with Charlie Kirk: he wants the company. He's like, 'Mine has failed; that one looks pretty. I'm a parasite. I'd like to be here.' He wants to pick up that bloody mic, and by golly he's going to do it. They're also trying to launch this obscure guy, Mat Nuclear, who works at The Daily Wire.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:46:54](/episodes/ep-ZkDO-MRLUco.md#t-00-46-45): “We were discussing Ben Shapiro and Mama Mia writes this. She writes, Ben Shapiro is like plankton on SpongeBob. ... He just can't make he doesn't have the sauce. He can't make one himself that people love and so he's constantly just like plotting to get the recipe and that's Ben (Ben Shapiro). ... That's really is Ben (Ben Shapiro) in a nutshell. We're just like why can't you just create something successful yourself?”
 
 </details>
 
@@ -3112,7 +3133,15 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ben Shapiro (109)</strong></summary>
+<summary><strong class="section-title">Statements about Ben Shapiro (112)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:21:24](/episodes/ep-ZkDO-MRLUco.md#t-00-21-14) (Accusation) **Candace Owens**: ["Owens alleged someone in the hospital-bound SUV gave Ben Shapiro’s sec..."](/statements/statement-047607ffd677.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
@@ -3131,7 +3160,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (16)</summary>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (18)</summary>
 
 - [00:05:48](/episodes/ep-amqTMimDr0A.md#t-00-05-48) (Accusation) **Candace Owens**: ["Candace Owens accused Ben Shapiro of trying to take over Breitbart aft..."](/statements/statement-731969649889.md)
   - Also about: [Breitbart News](/entities/org-breitbart-news.md), [Andrew Breitbart](/entities/person-andrew-breitbart.md)
@@ -3165,6 +3194,9 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [00:17:20](/episodes/ep-amqTMimDr0A.md#t-00-17-03) (Accusation) **Candace Owens**: ["Candace Owens accused Andrew Kolvet of lying that Ben Shapiro and Char..."](/statements/statement-e1fb69fbf02f.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
+- [00:17:31](/episodes/ep-amqTMimDr0A.md#t-00-17-31) (Claim) **Candace Owens**: ["Owens said Ben Shapiro's security team consisted of former Israeli IDF..."](/statements/statement-90ab97f260a0.md)
+  - Also about: [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
 - [00:18:33](/episodes/ep-amqTMimDr0A.md#t-00-18-33) (Claim) **Ben Shapiro** (via quoted speech): ["Ben Shapiro said he was at a breakfast-or-lunch meeting in Los Angeles..."](/statements/statement-232ac1ff7122.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
@@ -3173,6 +3205,9 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 - [00:19:41](/episodes/ep-amqTMimDr0A.md#t-00-19-05) (Claim) **Anonymous Source #1 (Ep amqTMimDr0A)** (via read message): ["An authenticated anonymous source reported that Ben Shapiro was allege..."](/statements/statement-8618f10282be.md)
   - Also about: [Gary Javitch](/entities/person-gary-javitch.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:20:38](/episodes/ep-amqTMimDr0A.md#t-00-20-28) (Claim) **Candace Owens**: ["Owens said Ben Shapiro was scheduled to appear at the Ronald Reagan Pr..."](/statements/statement-ce911959e1f7.md)
+  - Also about: [Ronald Reagan Presidential Library and Museum](/entities/org-ronald-reagan-presidential-library-and-museum.md), [Simi Valley](/entities/gpe-simi-valley.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:25:54](/episodes/ep-amqTMimDr0A.md#t-00-25-38) (Claim) **Candace Owens**: ["Candace Owens said Ben Shapiro and his wife had for years donated a li..."](/statements/statement-0ec0c419048d.md)
   - Also about: [Gary Javitch](/entities/person-gary-javitch.md), [Jewish Federation of Omaha](/entities/org-jewish-federation-of-omaha.md)
@@ -3487,7 +3522,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:02:08](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) (Claim) **Candace Owens**: ["Ben Shapiro sent an intern to Turning Point USA YWLS convention in Dal..."](/statements/statement-c2d7092ec8e5.md)
-  - Also about: [Dallas](/entities/gpe-dallas.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Young Women's Leadership Summit](/entities/org-ywls.md)
+  - Also about: [Dallas, Texas](/entities/gpe-dallas-texas.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Young Women's Leadership Summit](/entities/org-ywls.md)
 
 - [00:02:14](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) (Accusation) **Charlie Kirk** (via paraphrase): ["Owens said Charlie Kirk told her that Ben Shapiro worked behind the sc..."](/statements/statement-2443f85d69f9.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)

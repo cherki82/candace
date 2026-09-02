@@ -1,8 +1,8 @@
 ---
 title: "The eyewitness told Owens that the shooter description he re..."
-description: "\"The eyewitness told Owens that the shooter description he reported differed from the public description of Tyler Robinson in jeans\" — Anonymous Source #1 (Ep UBkFkg4UNY8)"
+description: "\"The eyewitness told Owens that the shooter description he reported differed from the public description of Tyler Robinson in jeans\" — Anonymous Losee Center Eyewitness"
 statement_id: "statement-8acfe8fbba49"
-speaker: "Anonymous Source #1 (Ep UBkFkg4UNY8)"
+speaker: "Anonymous Losee Center Eyewitness"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #1 (Ep UBkFkg4UNY8)](/entities/anon-src-UBkFkg4UNY8-001.md) (Anonymous Source)
+**Speaker:** [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md) (Anonymous Source)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

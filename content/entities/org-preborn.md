@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 228 mentions"
+description: "PreBorn! (Organizations) - 233 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-preborn-t-00-25-48">2026-08-31 · 00:26:18</a></strong></div>
-<div><span>Episodes</span><strong>74</strong></div>
-<div><span>Mentions</span><strong>228</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-preborn-t-00-29-18">2026-09-01 · 00:29:29</a></strong></div>
+<div><span>Episodes</span><strong>75</strong></div>
+<div><span>Mentions</span><strong>233</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -111,6 +111,7 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-preborn-t-00-55-34" style="--pulse-height:29%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-preborn-t-00-27-47" style="--pulse-height:29%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-preborn-t-00-25-03" style="--pulse-height:29%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-preborn-t-00-28-34" style="--pulse-height:71%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -190,6 +191,7 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-preborn-t-00-55-34) | 2 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-preborn-t-00-27-47) | 2 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-preborn-t-00-25-03) | 2 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-preborn-t-00-28-34) | 5 |
 
 </details>
 </section>
@@ -197,7 +199,27 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (228)</strong></summary>
+<summary><strong class="section-title">Raw mentions (233)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (5 mentions)</summary>
+
+**[00:28:34](/episodes/ep-ZkDO-MRLUco.md#ent-org-preborn-t-00-28-34)**
+> "Be right back after a brief break. All right, you guys, for the last 20 years, PreBorn! has stood in the gap between fear and hope."
+
+**[00:28:42](/episodes/ep-ZkDO-MRLUco.md#ent-org-preborn-t-00-28-34)**
+> "...this year alone, God has used PreBorn! to save nearly 60,000 babies from abortion. Since..."
+
+**[00:28:56](/episodes/ep-ZkDO-MRLUco.md#ent-org-preborn-t-00-28-34)**
+> "But every day inside a PreBorn! network clinic, a woman sees her baby in an ultra..."
+
+**[00:29:10](/episodes/ep-ZkDO-MRLUco.md#ent-org-preborn-t-00-28-34)**
+> "That's proof that PreBorn! is not just about saving babies, it's saving soul..."
+
+**[00:29:29](/episodes/ep-ZkDO-MRLUco.md#ent-org-preborn-t-00-29-18)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>

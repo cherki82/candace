@@ -937,7 +937,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <details>
 <summary>Funded By (1)</summary>
 
-- **[Bob Shillman](/entities/person-bob-shillman.md)**
+- **[Robert J. Shillman](/entities/person-robert-j-shillman.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16): “When you end up in a world where—like—a couple of days before Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's (Charlie Kirk's) murder—you know exactly what kind of world you live in.”
@@ -1119,7 +1119,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 </details>
 
-- **[Bob Shillman](/entities/person-bob-shillman.md)** funded this
+- **[Robert J. Shillman](/entities/person-robert-j-shillman.md)** funded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16): “When you end up in a world where—like—a couple of days before Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's (Charlie Kirk's) murder—you know exactly what kind of world you live in.”
@@ -1423,7 +1423,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1)</summary>
 
 - [00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16) (Claim) **Candace Owens**: ["Laura Loomer was calling Charlie Kirk anti-Semite a couple of days bef..."](/statements/statement-686ac3fd6d5b.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Bob Shillman](/entities/person-bob-shillman.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Robert J. Shillman](/entities/person-robert-j-shillman.md)
 
 </details>
 

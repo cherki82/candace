@@ -234,7 +234,7 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 
 </details>
 
-- **[Turning Point Faith](/entities/org-turning-point-faith.md)** affiliated with this
+- **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:32:53](/episodes/ep-ZZGWo6oDscc.md#t-00-32-44): “she's soon going to be speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make Heaven Crowded Tour ... they're partnering with the Harvest Church to do this.”
@@ -342,7 +342,7 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
 - [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) (Accusation) **Candace Owens**: ["Turning Point Faith is partnering with Greg Laurie's Harvest Church wh..."](/statements/statement-6141210a0ed9.md)
-  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Greg Laurie](/entities/person-greg-laurie.md), [Romania](/entities/gpe-romania.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Greg Laurie](/entities/person-greg-laurie.md), [Romania](/entities/gpe-romania.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
-title: "Owens said bystander footage captured at 1247 p.m. showed Of..."
-description: "\"Owens said bystander footage captured at 1247 p.m. showed Officer Bagley and Alan Robertson on the Losee rooftop.\" — Candace Owens"
+title: "Owens said bystander footage captured at 12:47 p.m. showed O..."
+description: "\"Owens said bystander footage captured at 12:47 p.m. showed Officer Bagley and Alan Robertson on the Losee rooftop.\" — Candace Owens"
 statement_id: "statement-8d22aa38a084"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Owens said bystander footage captured at 1247 p.m. showed Officer Bagley and Alan Robertson on the Losee rooftop.
+> Owens said bystander footage captured at 12:47 p.m. showed Officer Bagley and Alan Robertson on the Losee rooftop.
 
 ## Attribution
 
@@ -23,7 +23,7 @@ veracity: "true"
 
 - [Chris Bagley](/entities/person-chris-bagley.md) (person)
 - [Alan Edward Robertson](/entities/person-alan-edward-robertson.md) (person)
-- [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md) (org)
+- [Losee Center](/entities/org-losee-center.md) (org)
 
 ## Source
 

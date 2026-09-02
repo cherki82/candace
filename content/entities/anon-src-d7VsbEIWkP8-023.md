@@ -26,7 +26,7 @@ Source: [A Shocking Truth Revealed In The 4K Footage | Ep 373](https://www.youtu
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-anon-src-d7VsbEIWkP8-023-t-00-19-24">2026-08-07 · 00:19:24</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -66,19 +66,6 @@ Source: [A Shocking Truth Revealed In The 4K Footage | Ep 373](https://www.youtu
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Statements by Anonymous Source #23 (Ep d7VsbEIWkP8) (1)</strong></summary>
-
-<details>
-<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
-
-- [00:19:24](/episodes/ep-d7VsbEIWkP8.md#t-00-19-24) [○] (Claim) ["Unnamed Utah Valley University student sources said there are no cameras outside..."](/statements/statement-6f2edbfad813.md)
-  - About: [Utah Valley University](/entities/org-utah-valley-university.md)
-
-</details>
 
 </details>
 

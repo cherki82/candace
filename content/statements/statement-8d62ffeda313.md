@@ -1,8 +1,8 @@
 ---
 title: "In his 1102 statement, Farnsworth said that on September 10 ..."
-description: "\"In his 1102 statement, Farnsworth said that on September 10 he gave the Utah State Bureau of Investigation four videos through Google Drive and that t...\" — Terrell Farnsworth"
+description: "\"In his 1102 statement, Farnsworth said that on September 10 he gave the Utah State Bureau of Investigation four videos through Google Drive and that t...\" — Terryl Farnsworth"
 statement_id: "statement-8d62ffeda313"
-speaker: "Terrell Farnsworth"
+speaker: "Terryl Farnsworth"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (Quoted)
+**Speaker:** [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (Quoted)
 
 **Delivery:** Quoted from document
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
@@ -23,7 +23,7 @@ veracity: "true"
 
 ## About
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 - [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md) (org)
 - [Google](/entities/org-google.md) (org)
 

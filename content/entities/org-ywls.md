@@ -276,7 +276,7 @@ Source: [Young Women's Leadership Summit - TPUSA](https://tpusa.com/events/young
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
 - [00:02:08](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) (Claim) **Candace Owens**: ["Ben Shapiro sent an intern to Turning Point USA YWLS convention in Dal..."](/statements/statement-c2d7092ec8e5.md)
-  - Also about: [Dallas](/entities/gpe-dallas.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+  - Also about: [Dallas, Texas](/entities/gpe-dallas-texas.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
 
 </details>
 

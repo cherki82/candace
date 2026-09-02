@@ -21,6 +21,10 @@ veracity: "true"
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
 **Original Source:** Nicholas Bolling podcast clip
 
+## About
+
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+
 ## Source
 
 **Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)

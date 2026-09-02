@@ -21,7 +21,7 @@ type: "factual_claim"
 
 ## About
 
-- [Jonathan Pollard](/entities/person-jonathan-pollard.md) (person)
+- [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md) (person)
 - [Mike Huckabee](/entities/person-mike-huckabee.md) (person)
 
 ## Source

@@ -18,7 +18,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (155 times)
+## Mentioned In (156 times)
 
 ### 1. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
@@ -1268,3 +1268,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=vwG1juDCQZQ&t=1167s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was assassinated. And the difference between this and previous assassinations in this country
+
+### 156. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
+
+**Episode:** [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md)
+**Timestamp:** [00:04:40](/episodes/ep-ZkDO-MRLUco.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-04-27) 
+<a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=280s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> another character who was present on September 10th at UVU.

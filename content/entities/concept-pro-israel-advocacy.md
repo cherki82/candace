@@ -1,6 +1,6 @@
 ---
 title: "Pro-Israel advocacy"
-description: "Pro-Israel advocacy (Concepts) - 105 mentions"
+description: "Pro-Israel advocacy (Concepts) - 108 mentions"
 id: "concept-pro-israel-advocacy"
 type: "CONCEPT"
 aliases:
@@ -22,12 +22,12 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-concept-pro-israel-advocacy-t-00-51-13">2025-09-16 · 00:51:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-pro-israel-advocacy-t-00-51-04">2026-08-21 · 00:51:24</a></strong></div>
-<div><span>Episodes</span><strong>47</strong></div>
-<div><span>Mentions</span><strong>105</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-concept-pro-israel-advocacy-t-00-07-33">2026-09-01 · 00:07:51</a></strong></div>
+<div><span>Episodes</span><strong>48</strong></div>
+<div><span>Mentions</span><strong>108</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>37</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -82,6 +82,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-pro-israel-advocacy-t-00-03-34" style="--pulse-height:29%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-pro-israel-advocacy-t-00-51-04" style="--pulse-height:14%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-concept-pro-israel-advocacy-t-00-03-42" style="--pulse-height:43%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -134,6 +135,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-concept-pro-israel-advocacy-t-00-03-34) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-concept-pro-israel-advocacy-t-00-51-04) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-concept-pro-israel-advocacy-t-00-03-42) | 3 |
 
 </details>
 </section>
@@ -145,7 +147,21 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (105)</strong></summary>
+<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3 mentions)</summary>
+
+**[00:04:18](/episodes/ep-ZkDO-MRLUco.md#ent-concept-pro-israel-advocacy-t-00-03-42)**
+> "He's on the never-ending roster of radically pro-Israel pastors who do not exactly live the life that they preach from the stage."
+
+**[00:07:42](/episodes/ep-ZkDO-MRLUco.md#ent-concept-pro-israel-advocacy-t-00-07-33)**
+> "But they are radically pro-Israel, right? They also fund PragerU. They were also be..."
+
+**[00:07:51](/episodes/ep-ZkDO-MRLUco.md#ent-concept-pro-israel-advocacy-t-00-07-33)**
+> "... They also fund the radically pro-Israel politicians like Ted Cruz."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -715,6 +731,18 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 </details>
 
 <details>
+<summary>Supported By (1)</summary>
+
+- **[Wilks Brothers](/entities/person-wilks-brothers.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:07:03](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52): “She's never hidden that fact. So we're not exactly. exactly revealing or bringing any news there but I used to work for PragerU and she had suggested to me that I have him on my podcast I don't believe it ever happened but you can take from that what you will it is a fact that is how I learned about Jack (Jack Hibbs) uh Jack Hibbs from Marissa (Marissa Streit) It is also a fact that the same family who funds the construction of some of those Calvary Chapel churches, like Rob McCoy's church in Thousand Oaks, are the billionaire Wilks brothers. ... But they are radically pro-Israel, right? They also fund PragerU. They were also behind the initial big funding of the Daily Wire. ... Again, these are all just facts. So their main issue is Israel. That's what they're dedicated to.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Target Of Criticism From (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -727,7 +755,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** critic of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -740,6 +768,13 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:52:56](/episodes/ep-pc3pxRyNFZk.md#t-00-52-49): “I have no choice but to leave the pro-Israel cause.”
+
+</details>
+
+- **[Wilks Brothers](/entities/person-wilks-brothers.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:07:03](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52): “She's never hidden that fact. So we're not exactly. exactly revealing or bringing any news there but I used to work for PragerU and she had suggested to me that I have him on my podcast I don't believe it ever happened but you can take from that what you will it is a fact that is how I learned about Jack (Jack Hibbs) uh Jack Hibbs from Marissa (Marissa Streit) It is also a fact that the same family who funds the construction of some of those Calvary Chapel churches, like Rob McCoy's church in Thousand Oaks, are the billionaire Wilks brothers. ... But they are radically pro-Israel, right? They also fund PragerU. They were also behind the initial big funding of the Daily Wire. ... Again, these are all just facts. So their main issue is Israel. That's what they're dedicated to.”
 
 </details>
 

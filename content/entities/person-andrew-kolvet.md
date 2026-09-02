@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 807 mentions"
+description: "Andrew Kolvet (People) - 810 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27">2025-09-11 · 00:14:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-43-42">2026-08-31 · 00:44:03</a></strong></div>
-<div><span>Episodes</span><strong>121</strong></div>
-<div><span>Mentions</span><strong>807</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-kolvet-t-00-48-53">2026-09-01 · 00:48:59</a></strong></div>
+<div><span>Episodes</span><strong>122</strong></div>
+<div><span>Mentions</span><strong>810</strong></div>
 <div><span>Statements by</span><strong>101</strong></div>
-<div><span>Statements about</span><strong>225</strong></div>
+<div><span>Statements about</span><strong>228</strong></div>
 <div><span>Relationships</span><strong>104</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -156,6 +156,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-andrew-kolvet-t-00-05-19" style="--pulse-height:21%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 9 mentions" title="2026-08-19 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-kolvet-t-00-00-39" style="--pulse-height:33%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 14 mentions" title="2026-08-21 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-28-28" style="--pulse-height:12%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 5 mentions" title="2026-08-31 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-kolvet-t-00-03-42" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -282,6 +283,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-andrew-kolvet-t-00-05-19) | 9 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-kolvet-t-00-00-39) | 14 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-28-28) | 5 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-kolvet-t-00-03-42) | 3 |
 
 </details>
 </section>
@@ -293,7 +295,21 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (807)</strong></summary>
+<summary><strong class="section-title">Raw mentions (810)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3 mentions)</summary>
+
+**[00:03:42](/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-kolvet-t-00-03-42)**
+> "Cameras also captured Andrew Kolvet walking in looking 10 years older. Lies will age you, my friend. They will age you."
+
+**[00:47:33](/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-kolvet-t-00-47-27)**
+> "...hey were enemies. But I guess Andrew Kolvet thinks he has the power to sort of wipe, wipe his..."
+
+**[00:48:59](/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-kolvet-t-00-48-53)**
+> "...r live is bigger than Andrew (Andrew Kolvet) and Blake (Blake Neff)'s and the official Charli..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (5 mentions)</summary>
@@ -3471,7 +3487,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details>
 <summary>Criticized (2)</summary>
 
-- **[Drew Desbordes](/entities/person-drew-desbordes.md)**
+- **[Druski](/entities/person-druski.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:30:59](/episodes/ep-DEtFh2Ff-58.md#t-00-30-41): “The person who is most upset by this is Andrew Kolvet. Look what Andrew Kolvet commented. Now do conservative black women.”
@@ -3491,7 +3507,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -3525,6 +3541,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:27:51](/episodes/ep-K1tFD7FfoCU.md#t-00-27-09): “That was my reason for going after Andrew Kolvet, Mikey McCoy.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:02:24](/episodes/ep-pc3pxRyNFZk.md#t-00-02-24): “Andrew Kolvet was, I can tell you, telling the truth in part when he wrote that very long tweet”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:35:05](/episodes/ep-JrhGEm8MGRY.md#t-00-34-51): “You probably did the right thing, Jennica Pounds, by outing yourself as a positive, absolute scumbag and dishonest human being who was not, we're not attacking me because you were looking at the data.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:42](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “Cameras also captured Andrew Kolvet walking in looking 10 years older. Lies will age you, my friend. They will age you.”
 
 </details>
 
@@ -4029,7 +4046,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -4063,10 +4080,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:27:51](/episodes/ep-K1tFD7FfoCU.md#t-00-27-09): “That was my reason for going after Andrew Kolvet, Mikey McCoy.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:02:24](/episodes/ep-pc3pxRyNFZk.md#t-00-02-24): “Andrew Kolvet was, I can tell you, telling the truth in part when he wrote that very long tweet”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:35:05](/episodes/ep-JrhGEm8MGRY.md#t-00-34-51): “You probably did the right thing, Jennica Pounds, by outing yourself as a positive, absolute scumbag and dishonest human being who was not, we're not attacking me because you were looking at the data.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:42](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “Cameras also captured Andrew Kolvet walking in looking 10 years older. Lies will age you, my friend. They will age you.”
 
 </details>
 
-- **[Drew Desbordes](/entities/person-drew-desbordes.md)** criticized by this
+- **[Druski](/entities/person-druski.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:30:59](/episodes/ep-DEtFh2Ff-58.md#t-00-30-41): “The person who is most upset by this is Andrew Kolvet. Look what Andrew Kolvet commented. Now do conservative black women.”
@@ -4411,14 +4429,14 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1)</summary>
 
 - [00:15:05](/episodes/ep-4JxgOclKzqg.md#t-00-14-40) [✓] (Claim) ["Andrew Kolvet said the SD cards Farnsworth removed were in the FBI's possession ..."](/statements/statement-80bc48bd9f7b.md)
-  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [FBI](/entities/org-fbi.md)
+  - About: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [FBI](/entities/org-fbi.md)
 
 </details>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
 
-- [00:13:24](/episodes/ep-d7VsbEIWkP8.md#t-00-13-05) [✓] (Claim) ["Andrew Kolvet wrote that Andrew Wilson was paid for one day of debate training f..."](/statements/statement-c97131c02ef3.md)
+- [00:13:24](/episodes/ep-d7VsbEIWkP8.md#t-00-13-05) [✓] (Claim) ["Andrew Kolvet wrote that Wilson had been paid for one day of debate training for..."](/statements/statement-c97131c02ef3.md)
   - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
@@ -4887,7 +4905,18 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (225)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (228)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2)</summary>
+
+- [00:02:33](/episodes/ep-ZkDO-MRLUco.md#t-00-02-28) (Claim) **Candace Owens**: ["Owens reported that Erika Kirk, Charlie Kirk’s parents, Stacy Sheridan..."](/statements/statement-efdb1726744e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Tracy Martin](/entities/person-tracy-martin.md)
+
+- [00:48:45](/episodes/ep-ZkDO-MRLUco.md#t-00-48-11) (Claim) **Project Constitution** (via quoted post): ["Project Constitution wrote that its livestream audience exceeded Andre..."](/statements/statement-8b17a27ae5cc.md)
+  - Also about: [Project Constitution](/entities/org-project-constitution.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
@@ -5621,7 +5650,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2)</summary>
 
 - [00:28:30](/episodes/ep-xjzb_t5Tk9o.md#t-00-28-30) (Claim) **Candace Owens**: ["Charlie Kirk did not run his Twitter feed; Andrew Kolvet did."](/statements/statement-a0ce59f5bb16.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [X](/entities/org-x-platform.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Twitter](/entities/org-twitter.md)
 
 - [00:28:38](/episodes/ep-xjzb_t5Tk9o.md#t-00-28-34) (Claim) **Candace Owens**: ["Owens said that although Kolvet ran Kirk's Twitter feed, Kirk did beli..."](/statements/statement-b2ba2f5e2d65.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Islam](/entities/concept-islam.md)
@@ -5817,6 +5846,14 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 - [00:31:45](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet told Candace that Bibi Netanyahu offered to take Turning..."](/statements/statement-6b48d40529ea.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>
+
+- [00:11:55](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) (Claim) **Candace Owens** (via paraphrase): ["Owens said Andrew Kolvet publicly claimed Farnsworth removed the foota..."](/statements/statement-3f343073013d.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 </details>
 

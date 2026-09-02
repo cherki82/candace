@@ -1,8 +1,8 @@
 ---
 title: "A later account in 1929 said Raoul Loveday died from inflamm..."
-description: "\"A later account in 1929 said Raoul Loveday died from inflammation of the intestines\" — Anonymous Source #1 (Ep 1IY2oD-_xVA)"
+description: "\"A later account in 1929 said Raoul Loveday died from inflammation of the intestines\" — Ashley (Candace Owens producer; surname unverified)"
 statement_id: "statement-e780a8966ba6"
-speaker: "Anonymous Source #1 (Ep 1IY2oD-_xVA)"
+speaker: "Ashley (Candace Owens producer; surname unverified)"
 type: "citation"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #1 (Ep 1IY2oD-_xVA)](/entities/anon-src-1IY2oD-_xVA-001.md) (Anonymous Source)
+**Speaker:** [Ashley (Candace Owens producer; surname unverified)](/entities/person-producer-ashley-unverified.md) (Anonymous Source)
 
 **Delivery:** Paraphrased
 **Original Source:** later account referenced in episode

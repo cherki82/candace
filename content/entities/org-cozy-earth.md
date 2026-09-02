@@ -1,6 +1,6 @@
 ---
 title: "Cozy Earth"
-description: "Cozy Earth (Organizations) - 56 mentions"
+description: "Cozy Earth (Organizations) - 61 mentions"
 id: "org-cozy-earth"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-cozy-earth-t-00-28-34">2025-09-23 · 00:28:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-29-48">2026-08-04 · 00:29:58</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>56</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-cozy-earth-t-00-31-08">2026-09-01 · 00:31:18</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>61</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -47,6 +47,7 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-cozy-earth-t-00-37-35" style="--pulse-height:62%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 5 mentions" title="2026-06-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-57-48" style="--pulse-height:62%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-28-23" style="--pulse-height:62%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 5 mentions" title="2026-08-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-cozy-earth-t-00-29-55" style="--pulse-height:62%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +64,7 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-cozy-earth-t-00-37-35) | 5 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-57-48) | 5 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-28-23) | 5 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-cozy-earth-t-00-29-55) | 5 |
 
 </details>
 </section>
@@ -70,7 +72,27 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (5 mentions)</summary>
+
+**[00:30:22](/episodes/ep-ZkDO-MRLUco.md#ent-org-cozy-earth-t-00-29-55)**
+> "Again, that's puretalk.com slash Owens. I have to tell you guys also about Cozy Earth because being pregnant has made me become very particular about what I sleep in."
+
+**[00:30:32](/episodes/ep-ZkDO-MRLUco.md#ent-org-cozy-earth-t-00-30-32)**
+> "...o when I tell you that I love Cozy Earth products, I truly mean it. Their viscose bamboo s..."
+
+**[00:31:00](/episodes/ep-ZkDO-MRLUco.md#ent-org-cozy-earth-t-00-30-32)**
+> "...pgrade, it's because you need Cozy Earth."
+
+**[00:31:08](/episodes/ep-ZkDO-MRLUco.md#ent-org-cozy-earth-t-00-31-08)**
+> "Head to CozyEarth.com and use my code Candace and you'll get 20% off ho..."
+
+**[00:31:18](/episodes/ep-ZkDO-MRLUco.md#ent-org-cozy-earth-t-00-31-08)**
+> "... mention that you heard about Cozy Earth right here."
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (5 mentions)</summary>

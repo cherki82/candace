@@ -21,7 +21,7 @@ type: "factual_claim"
 
 ## About
 
-- [Dallas](/entities/gpe-dallas.md) (gpe)
+- [Dallas, Texas](/entities/gpe-dallas-texas.md) (gpe)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 - [Young Women's Leadership Summit](/entities/org-ywls.md) (org)
 - [Ben Shapiro](/entities/person-ben-shapiro.md) (person)

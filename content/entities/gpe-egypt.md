@@ -1240,7 +1240,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:35:34](/episodes/ep-DYD_QHMPwqM.md#t-00-35-14) (Accusation) **Candace Owens**: ["Egyptian planes had been tracking people affiliated with Turning Point..."](/statements/statement-bb6b909a347c.md)
-  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

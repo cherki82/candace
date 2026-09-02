@@ -4,10 +4,9 @@ description: "\"Owens said 92 members of an online group chat named 'Protecting 
 statement_id: "statement-0f046c0fdf1a"
 speaker: "Candace Owens"
 type: "factual_claim"
-veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -34,21 +33,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The primary episode identifies a 92-person group named Protecting Mrs. Kirk, and current reporting on the ensuing cease-and-desist dispute separately describes the private group and Owens's public statement referring to its 92 members. The public exposure and group-size claim are supported; this does not validate every accusation about individual members.
-
-**Confidence:** High
-
-**Sources:**
-
-- [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdown | Ep 372](https://www.youtube.com/watch?v=ChuWo-n49B8)
-- [Cease-and-desist letter to Candace Owens over Protecting Mrs Kirk chat row sparks buzz](https://www.hindustantimes.com/world-news/us-news/ceaseanddesist-letter-to-candace-owens-over-protecting-mrs-kirk-chat-row-sparks-buzz-your-conduct-has-gone-101786338758792-amp.html)
-
-*Verified: 2026-08-28T04:12:47.290110*
+_This statement has not yet been verified._
 
 ---
 

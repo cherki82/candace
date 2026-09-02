@@ -1,6 +1,6 @@
 ---
 title: "Chris Bagley"
-description: "Chris Bagley (People) - 49 mentions"
+description: "Chris Bagley (People) - 50 mentions"
 id: "person-chris-bagley"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-chris-bagley-t-00-05-13">2026-07-16 · 00:05:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-chris-bagley-t-00-35-18">2026-08-17 · 00:35:18</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-chris-bagley-t-00-32-16">2026-09-01 · 00:32:28</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -44,6 +44,7 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-chris-bagley-t-01-01-47" style="--pulse-height:12%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-chris-bagley-t-02-53-28" style="--pulse-height:18%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-chris-bagley-t-00-35-18" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-chris-bagley-t-00-32-16" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +58,7 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-chris-bagley-t-01-01-47) | 2 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-chris-bagley-t-02-53-28) | 3 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-chris-bagley-t-00-35-18) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-chris-bagley-t-00-32-16) | 1 |
 
 </details>
 </section>
@@ -68,7 +70,15 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:32:28](/episodes/ep-ZkDO-MRLUco.md#ent-person-chris-bagley-t-00-32-16)**
+> "Questioning normally there would be all of these objections from the defense because you aren't allowed to ask leading questions but for the sake of this probative hearing everything pretty much flies right people do not have to appear in person it's enough you sort of just trust the science when Officer Bagley (Chris Bagley) gets up there or Officer Hull (David Hull) gets up there and says he was told by someone that this happened that Tyler Robinson's vehicle pulled the side of the road and he remembered the"
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
@@ -352,7 +362,7 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Chris Bagley (19)</strong></summary>
+<summary><strong class="section-title">Statements about Chris Bagley (21)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
@@ -381,9 +391,6 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (5)</summary>
 
-- [00:13:56](/episodes/ep-1CFDtD0IgEg.md#t-00-13-22) (Accusation) **Blake Neff** (via quoted tweet): ["Blake Neff accused Candace Owens of harassing a Utah police officer, c..."](/statements/statement-e26806fb96e1.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md)
-
 - [00:18:21](/episodes/ep-1CFDtD0IgEg.md#t-00-18-21) (Accusation) **Candace Owens**: ["Candace Owens claimed Officer Bagley's body camera seemingly died with..."](/statements/statement-a7adddd29cd8.md)
 
 - [00:21:39](/episodes/ep-1CFDtD0IgEg.md#t-00-21-39) (Accusation) **Candace Owens**: ["Candace Owens accused Officer Bagley of failing to prepare for court, ..."](/statements/statement-64c075134903.md)
@@ -395,15 +402,18 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 - [00:23:00](/episodes/ep-1CFDtD0IgEg.md#t-00-23-00) (Claim) **Candace Owens**: ["Candace Owens claimed that someone was on the Losee Center rooftop aft..."](/statements/statement-114df699bdb7.md)
   - Also about: [Losee Center](/entities/org-losee-center.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:30:19](/episodes/ep-1CFDtD0IgEg.md#t-00-29-48) (Promise) **Candace Owens**: ["After a viewer claimed Bagley had said the name Alan during his testim..."](/statements/statement-5e5bdf840973.md)
+  - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md)
+
 </details>
 
 <details>
-<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (6)</summary>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (8)</summary>
 
 - [00:09:39](/episodes/ep-AH1KVKkweUE.md#t-00-09-28) (Claim) **Candace Owens**: ["Owens said Officer Bagley's body camera stopped at the moment he found..."](/statements/statement-387b8c78d48c.md)
 
-- [00:15:06](/episodes/ep-AH1KVKkweUE.md#t-00-14-43) (Claim) **Candace Owens**: ["Owens said bystander footage captured at 1247 p.m. showed Officer Bagl..."](/statements/statement-8d22aa38a084.md)
-  - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md), [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md)
+- [00:15:06](/episodes/ep-AH1KVKkweUE.md#t-00-14-43) (Claim) **Candace Owens**: ["Owens said bystander footage captured at 12:47 p.m. showed Officer Bag..."](/statements/statement-8d22aa38a084.md)
+  - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md), [Losee Center](/entities/org-losee-center.md)
 
 - [00:17:45](/episodes/ep-AH1KVKkweUE.md#t-00-17-45) (Accusation) **Candace Owens**: ["Owens asked why Officer Bagley was seemingly providing cover for Alan ..."](/statements/statement-2012801fe15d.md)
   - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md)
@@ -411,9 +421,15 @@ Source: [Former officer describes finding a sniper pad on nearby rooftop after C
 - [00:18:45](/episodes/ep-AH1KVKkweUE.md#t-00-18-20) (Accusation) **Nisi (independent-media creator; full name unverified)** (via quoted speech): ["Nisi said Officer Bagley's version of events did not line up with the ..."](/statements/statement-479d27cb753b.md)
 
 - [00:19:00](/episodes/ep-AH1KVKkweUE.md#t-00-18-20) (Accusation) **Nisi (independent-media creator; full name unverified)** (via quoted speech): ["Nisi alleged that Officer Bagley omitted that the red-hat man alerted ..."](/statements/statement-dc2250d9df75.md)
-  - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md), [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md)
+  - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md), [Losee Center](/entities/org-losee-center.md)
 
 - [00:19:09](/episodes/ep-AH1KVKkweUE.md#t-00-19-04) (Claim) **Nisi (independent-media creator; full name unverified)** (via quoted speech): ["Nisi said Bagley's body camera had run for only 27 minutes even though..."](/statements/statement-acb4324cdc66.md)
+
+- [00:19:31](/episodes/ep-AH1KVKkweUE.md#t-00-19-22) (Accusation) **Candace Owens**: ["Owens suggested that Alan Robertson appeared to be directing the immed..."](/statements/statement-30752bb2b7bd.md)
+  - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
+
+- [00:28:30](/episodes/ep-AH1KVKkweUE.md#t-00-28-18) (Accusation) **Candace Owens**: ["Owens speculated that Alan Robertson might actually have found the roo..."](/statements/statement-953297b09925.md)
+  - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md)
 
 </details>
 

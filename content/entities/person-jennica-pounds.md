@@ -1,6 +1,6 @@
 ---
 title: "Jennica Pounds"
-description: "Jennica Pounds (People) - 13 mentions"
+description: "Jennica Pounds (People) - 18 mentions"
 id: "person-jennica-pounds"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-jennica-pounds-t-00-29-08">2026-08-31 · 00:29:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-jennica-pounds-t-00-36-01">2026-08-31 · 00:36:13</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jennica-pounds-t-00-52-57">2026-09-01 · 00:53:08</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -37,12 +37,14 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 <p>Highest activity: <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-jennica-pounds-t-00-29-08">We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380</a> (13 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-jennica-pounds-t-00-29-08" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 13 mentions" title="2026-08-31 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jennica-pounds-t-00-00-39" style="--pulse-height:38%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-jennica-pounds-t-00-29-08) | 13 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-jennica-pounds-t-00-00-39) | 5 |
 
 </details>
 </section>
@@ -54,7 +56,27 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (5 mentions)</summary>
+
+**[00:00:55](/episodes/ep-ZkDO-MRLUco.md#ent-person-jennica-pounds-t-00-00-39)**
+> "Just why does Data Republican (Jennica Pounds), a.k.a. Jennica Pounds, a.k.a. the Department of War's fake analyst."
+
+**[00:01:03](/episodes/ep-ZkDO-MRLUco.md#ent-person-jennica-pounds-t-00-01-03)**
+> "...itive evidence that it wasn't Jennica Pounds that was walking up that staircase at UVU I'm ove..."
+
+**[00:01:29](/episodes/ep-ZkDO-MRLUco.md#ent-person-jennica-pounds-t-00-01-03)**
+> "Where were you, Ms. Pounds (Jennica Pounds)? Anyway, today we return to the scene of the cri..."
+
+**[00:52:57](/episodes/ep-ZkDO-MRLUco.md#ent-person-jennica-pounds-t-00-52-57)**
+> "... gift one to Data Republican (Jennica Pounds) and you could write a note and say, why do you l..."
+
+**[00:53:08](/episodes/ep-ZkDO-MRLUco.md#ent-person-jennica-pounds-t-00-52-57)**
+> "...re were you, Data Republican (Jennica Pounds), Jennica Pounds, on September 10th? Stop anti-Ca..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (13 mentions)</summary>
@@ -142,6 +164,18 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 </details>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:00:55](/episodes/ep-ZkDO-MRLUco.md#t-00-00-39): “Just why does Data Republican (Jennica Pounds), a.k.a. Jennica Pounds, a.k.a. the Department of War's fake analyst. ... Analyst who attacked me for looking into this case just why does she look so much like Tyler Robinson check this out uncanny uncanny what are they doing out in Utah I have no positive evidence that it wasn't Jennica Pounds that was walking up that staircase at UVU I'm over here looking at the Department of War like I'm Sophie Cunningham you know doing the point we don't know no But we know.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Endorsed By (1)</summary>
 
 - **[Elon Musk](/entities/person-elon-musk.md)**
@@ -166,7 +200,7 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -179,6 +213,13 @@ Source: [Lawfare: The GEC Files Don’t Show a Censorship Operation](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:30:49](/episodes/ep-JrhGEm8MGRY.md#t-00-30-34): “She basically says the report is legitimate. Let me show you how Candace targets her audience and Erika (Erika Kirk)'s authority. It's crazy.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:00:55](/episodes/ep-ZkDO-MRLUco.md#t-00-00-39): “Just why does Data Republican (Jennica Pounds), a.k.a. Jennica Pounds, a.k.a. the Department of War's fake analyst. ... Analyst who attacked me for looking into this case just why does she look so much like Tyler Robinson check this out uncanny uncanny what are they doing out in Utah I have no positive evidence that it wasn't Jennica Pounds that was walking up that staircase at UVU I'm over here looking at the Department of War like I'm Sophie Cunningham you know doing the point we don't know no But we know.”
 
 </details>
 

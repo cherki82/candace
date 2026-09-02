@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 262 mentions"
+description: "Frank Turek (People) - 270 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23">2025-09-22 · 00:54:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-frank-turek-t-00-47-58">2026-08-10 · 00:47:58</a></strong></div>
-<div><span>Episodes</span><strong>54</strong></div>
-<div><span>Mentions</span><strong>262</strong></div>
-<div><span>Statements by</span><strong>32</strong></div>
-<div><span>Statements about</span><strong>52</strong></div>
-<div><span>Relationships</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-49-36">2026-09-01 · 00:49:51</a></strong></div>
+<div><span>Episodes</span><strong>55</strong></div>
+<div><span>Mentions</span><strong>270</strong></div>
+<div><span>Statements by</span><strong>35</strong></div>
+<div><span>Statements about</span><strong>57</strong></div>
+<div><span>Relationships</span><strong>48</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -90,6 +90,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-frank-turek-t-00-00-01" style="--pulse-height:32%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 8 mentions" title="2026-08-04 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-frank-turek-t-00-43-45" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-frank-turek-t-00-47-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-08-58" style="--pulse-height:32%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 8 mentions" title="2026-09-01 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -149,6 +150,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-frank-turek-t-00-00-01) | 8 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-frank-turek-t-00-43-45) | 2 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-frank-turek-t-00-47-19) | 2 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-08-58) | 8 |
 
 </details>
 </section>
@@ -160,7 +162,36 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (262)</strong></summary>
+<summary><strong class="section-title">Raw mentions (270)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (8 mentions)</summary>
+
+**[00:09:30](/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-08-58)**
+> "UVU college campus event. Okay, listen to Jack (Jack Hibbs) explain how that all came together to his dear friend, the Yankin and Bankin Frankin Turek (Frank Turek). Take a listen."
+
+**[00:14:20](/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-14-20)**
+> "...e has a FaceTime session with Frank Turek from the hospital. Yes, Frank Turek manages to Fa..."
+
+**[00:14:47](/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-14-20)**
+> "...u to pay special attention to Frank Turek's posture because it just reminds me of like when m..."
+
+**[00:18:09](/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-17-43)**
+> "...ence is hard to remember when Frank Turek is looking like he wants to jump across a desk an..."
+
+**[00:18:53](/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-18-21)**
+> "...at is just amazing to me that Frank Turek was fine to start a FaceTime call from the emerge..."
+
+**[00:19:10](/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-19-05)**
+> "...tes there for a military man, Frank Turek. It just seems to me to be like an extraordinaril..."
+
+**[00:19:26](/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-19-05)**
+> "... then was FaceTimed by Frank (Frank Turek)."
+
+**[00:49:51](/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-49-36)**
+> "Was that live? Frank (Frank Turek)'s face! Praying for all of their souls regularly..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (2 mentions)</summary>
@@ -1229,16 +1260,18 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 - **[Jack Hibbs](/entities/person-jack-hibbs.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:36:45](/episodes/ep-h76ZN-xXC6c.md#t-00-36-24): “Well, Pastor Jack Hibbs accidentally kind of disrupted that narrative recently when he sat down with Frank Turek and was recapping the events of that day.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:30](/episodes/ep-ZkDO-MRLUco.md#t-00-08-58): “UVU college campus event. Okay, listen to Jack (Jack Hibbs) explain how that all came together to his dear friend, the Yankin and Bankin Frankin Turek (Frank Turek). Take a listen.”
 
 </details>
 
 - **[Burton Hibbs](/entities/person-burton-hibbs.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:33:49](/episodes/ep-MUA9ebCF4Ow.md#t-00-33-35): “This is me, Charlie (Charlie Kirk), and in the middle is Butch Hibbs.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:42](/episodes/ep-ZkDO-MRLUco.md#t-00-09-42): “And Charlie (Charlie Kirk) took pictures with all the TPUSA kids that were lined up. And then your brother was there and he goes, I'm Jack Hibbs' brother. ... Burton (Burton Hibbs), okay, yeah, yeah, yeah. And so he introduced himself and the last picture, formal picture that probably Charlie (Charlie Kirk) took. ... Was was with him and me uh”
 
 </details>
 
@@ -1278,7 +1311,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -1294,6 +1327,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:02:39](/episodes/ep-1CFDtD0IgEg.md#t-00-02-39): “Yeah, Frank Turek is of this exact ilk. The call yourself a pastor, memorize a few biblical proverbs and use those proverbs to justify literally anything, including evil and justify war.”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:47:58](/episodes/ep-ChuWo-n49B8.md#t-00-47-58): “These are, you're looking at turning point USA faith and they want access to children. They're all wacky. They're all crazy pastors. You got Frank Turek open saying, signaling that I should be struck down using the Bible, the good Bible, of course, to do it.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:48:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-48-17): “Then we have Frank Turek (Frank Turek speaking), who engages in this same sort of act of psychological manipulation, in my viewpoint, and he defends Mikey McCoy.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:18:53](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21): “That is just amazing to me that Frank Turek was fine to start a FaceTime call from the emergency room amidst all of that chaos while Charlie (Charlie Kirk) was dying, Amidst all of that chaos, while Charlie (Charlie Kirk) was dying, Brian Harpole was jumping on top of him, presumably. ... He's making probably accurate time estimates there for a military man, Frank Turek. It just seems to me to be like an extraordinarily inappropriate thing to do. ... Starting a FaceTime call with Jack Hibbs. What do I know? That's just my opinion, not a fact.”
 
 </details>
 
@@ -1352,7 +1386,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Friend Of (3)</summary>
+<summary>Friend Of (4)</summary>
 
 - **[Victor Marx](/entities/person-victor-marx.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1372,6 +1406,13 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:49:49](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-40): “Like my friend Mikey McCoy, the brilliant 24-year-old who at the time when Charlie (Charlie Kirk) was shot was 23 and was a hero that day.”
+
+</details>
+
+- **[Jack Hibbs](/entities/person-jack-hibbs.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:30](/episodes/ep-ZkDO-MRLUco.md#t-00-08-58): “UVU college campus event. Okay, listen to Jack (Jack Hibbs) explain how that all came together to his dear friend, the Yankin and Bankin Frankin Turek (Frank Turek). Take a listen.”
 
 </details>
 
@@ -1456,6 +1497,18 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
+<summary>Spoke With (1)</summary>
+
+- **[Jack Hibbs](/entities/person-jack-hibbs.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:28](/episodes/ep-ZkDO-MRLUco.md#t-00-15-28): “That was after we got to the hospital as ... I was in the ... Emergency room after we got Charlie (Charlie Kirk) there and ... I called ... You yeah ... Then I FaceTimed you. I faced, we were talking, you”
+
+</details>
+
+</details>
+
+<details>
 <summary>Trained By (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -1468,7 +1521,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Referenced By (22)</summary>
+<summary>Referenced By (24)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1479,16 +1532,18 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 - **[Jack Hibbs](/entities/person-jack-hibbs.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:36:45](/episodes/ep-h76ZN-xXC6c.md#t-00-36-24): “Well, Pastor Jack Hibbs accidentally kind of disrupted that narrative recently when he sat down with Frank Turek and was recapping the events of that day.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:30](/episodes/ep-ZkDO-MRLUco.md#t-00-08-58): “UVU college campus event. Okay, listen to Jack (Jack Hibbs) explain how that all came together to his dear friend, the Yankin and Bankin Frankin Turek (Frank Turek). Take a listen.”
 
 </details>
 
 - **[Burton Hibbs](/entities/person-burton-hibbs.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:33:49](/episodes/ep-MUA9ebCF4Ow.md#t-00-33-35): “This is me, Charlie (Charlie Kirk), and in the middle is Butch Hibbs.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:42](/episodes/ep-ZkDO-MRLUco.md#t-00-09-42): “And Charlie (Charlie Kirk) took pictures with all the TPUSA kids that were lined up. And then your brother was there and he goes, I'm Jack Hibbs' brother. ... Burton (Burton Hibbs), okay, yeah, yeah, yeah. And so he introduced himself and the last picture, formal picture that probably Charlie (Charlie Kirk) took. ... Was was with him and me uh”
 
 </details>
 
@@ -1514,7 +1569,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -1530,6 +1585,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:02:39](/episodes/ep-1CFDtD0IgEg.md#t-00-02-39): “Yeah, Frank Turek is of this exact ilk. The call yourself a pastor, memorize a few biblical proverbs and use those proverbs to justify literally anything, including evil and justify war.”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:47:58](/episodes/ep-ChuWo-n49B8.md#t-00-47-58): “These are, you're looking at turning point USA faith and they want access to children. They're all wacky. They're all crazy pastors. You got Frank Turek open saying, signaling that I should be struck down using the Bible, the good Bible, of course, to do it.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:48:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-48-17): “Then we have Frank Turek (Frank Turek speaking), who engages in this same sort of act of psychological manipulation, in my viewpoint, and he defends Mikey McCoy.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:18:53](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21): “That is just amazing to me that Frank Turek was fine to start a FaceTime call from the emergency room amidst all of that chaos while Charlie (Charlie Kirk) was dying, Amidst all of that chaos, while Charlie (Charlie Kirk) was dying, Brian Harpole was jumping on top of him, presumably. ... He's making probably accurate time estimates there for a military man, Frank Turek. It just seems to me to be like an extraordinarily inappropriate thing to do. ... Starting a FaceTime call with Jack Hibbs. What do I know? That's just my opinion, not a fact.”
 
 </details>
 
@@ -1604,6 +1660,13 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 </details>
 
+- **[Jack Hibbs](/entities/person-jack-hibbs.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:09:30](/episodes/ep-ZkDO-MRLUco.md#t-00-08-58): “UVU college campus event. Okay, listen to Jack (Jack Hibbs) explain how that all came together to his dear friend, the Yankin and Bankin Frankin Turek (Frank Turek). Take a listen.”
+
+</details>
+
 - **[Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)** hosted speaker this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1643,6 +1706,13 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 </details>
 
+- **[Jack Hibbs](/entities/person-jack-hibbs.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:28](/episodes/ep-ZkDO-MRLUco.md#t-00-15-28): “That was after we got to the hospital as ... I was in the ... Emergency room after we got Charlie (Charlie Kirk) there and ... I called ... You yeah ... Then I FaceTimed you. I faced, we were talking, you”
+
+</details>
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** trained this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1655,12 +1725,27 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Frank Turek (32)</strong></summary>
+<summary><strong class="section-title">Statements by Frank Turek (35)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3)</summary>
+
+- [00:09:42](/episodes/ep-ZkDO-MRLUco.md#t-00-09-42) [○] (Claim) ["Frank Turek said what was probably Charlie Kirk’s last formal photograph was tak..."](/statements/statement-2beb3e594dc7.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Burton Hibbs](/entities/person-burton-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:15:28](/episodes/ep-ZkDO-MRLUco.md#t-00-15-28) [○] (Claim) ["Frank Turek said he called Jack Hibbs from the emergency room after they brought..."](/statements/statement-79ceb8b3ebd0.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Jack Hibbs](/entities/person-jack-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:28](/episodes/ep-ZkDO-MRLUco.md#t-00-17-28) [○] (Claim) ["Frank Turek said Jack Hibbs started a prayer chain right away and placed it at a..."](/statements/statement-5487bc173e55.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2)</summary>
 
 - [00:04:07](/episodes/ep-1CFDtD0IgEg.md#t-00-03-53) [✓] (Accusation) ["Frank Turek accused Candace Owens of insinuating that people were guilty of murd..."](/statements/statement-5550e7482f12.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:04:30](/episodes/ep-1CFDtD0IgEg.md#t-00-03-53) [✓] (Citation) ["Frank Turek cited Deuteronomy 19 as prescribing the penalty for a crime against ..."](/statements/statement-cb103bace7ff.md)
   - About: [Old Testament](/entities/work-old-testament.md)
@@ -1853,7 +1938,27 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Frank Turek (52)</strong></summary>
+<summary><strong class="section-title">Statements about Frank Turek (57)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (5)</summary>
+
+- [00:09:42](/episodes/ep-ZkDO-MRLUco.md#t-00-09-42) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said what was probably Charlie Kirk’s last formal photogra..."](/statements/statement-2beb3e594dc7.md)
+  - Also about: [Burton Hibbs](/entities/person-burton-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:15:28](/episodes/ep-ZkDO-MRLUco.md#t-00-15-28) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said he called Jack Hibbs from the emergency room after th..."](/statements/statement-79ceb8b3ebd0.md)
+  - Also about: [Jack Hibbs](/entities/person-jack-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:14](/episodes/ep-ZkDO-MRLUco.md#t-00-16-14) (Claim) **Jack Hibbs** (via quoted speech): ["Jack Hibbs said he initially thought his brother meant their cousin Ch..."](/statements/statement-c75085f4f262.md)
+  - Also about: [Jack Hibbs](/entities/person-jack-hibbs.md), [Burton Hibbs](/entities/person-burton-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:28](/episodes/ep-ZkDO-MRLUco.md#t-00-17-28) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said Jack Hibbs started a prayer chain right away and plac..."](/statements/statement-5487bc173e55.md)
+  - Also about: [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+- [00:18:38](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21) (Claim) **Candace Owens**: ["Owens said the reported 12:30 prayer chain would have begun only seven..."](/statements/statement-f3cd280fc293.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>

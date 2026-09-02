@@ -11,7 +11,11 @@ object: "person-marissa-streit"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Marissa Streit](/entities/person-marissa-streit)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco)**
+
+- [00:06:52](/episodes/ep-ZkDO-MRLUco#t-00-06-52): _I will add that the first that I heard of Pastor Jack Hibbs, it was via Marissa Streit, the Mossad agent turned CEO of PragerU. She was in Unit 8200._
 
 **[EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A)**
 

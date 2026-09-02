@@ -83,7 +83,7 @@ _No relationships extracted yet._
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1)</summary>
 
-- [00:16:14](/episodes/ep-5zgkrOaCCj4.md#t-00-15-44) (Claim) **Candace Owens**: ["Owens said Tyler Robinson sent his Wordle score to a friend at 1128."](/statements/statement-a83ea7df4918.md)
+- [00:16:14](/episodes/ep-5zgkrOaCCj4.md#t-00-15-44) (Claim) **Candace Owens**: ["Owens said Tyler Robinson sent his Wordle score to a friend at 11:28 a..."](/statements/statement-a83ea7df4918.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>

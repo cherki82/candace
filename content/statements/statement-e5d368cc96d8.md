@@ -1,8 +1,8 @@
 ---
 title: "An eyewitness told Owens that the shooter reached the roof n..."
-description: "\"An eyewitness told Owens that the shooter reached the roof no earlier than 12:22, rather than 12:15 as Owens said the FBI reported\" — Anonymous Source #1 (Ep UBkFkg4UNY8)"
+description: "\"An eyewitness told Owens that the shooter reached the roof no earlier than 12:22, rather than 12:15 as Owens said the FBI reported\" — Anonymous Losee Center Eyewitness"
 statement_id: "statement-e5d368cc96d8"
-speaker: "Anonymous Source #1 (Ep UBkFkg4UNY8)"
+speaker: "Anonymous Losee Center Eyewitness"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #1 (Ep UBkFkg4UNY8)](/entities/anon-src-UBkFkg4UNY8-001.md) (Anonymous Source)
+**Speaker:** [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md) (Anonymous Source)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

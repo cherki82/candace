@@ -1,8 +1,8 @@
 ---
 title: "CERN's Large Hadron Collider is a 17-mile tunnel near Geneva..."
-description: "\"CERN's Large Hadron Collider is a 17-mile tunnel near Geneva, reaches roughly 600 feet underground in places, and collides subatomic particles at high...\" — Mark from Candace's production team (surname unidentified)"
+description: "\"CERN's Large Hadron Collider is a 17-mile tunnel near Geneva, reaches roughly 600 feet underground in places, and collides subatomic particles at high...\" — Mark (Candace show producer; surname unverified)"
 statement_id: "statement-02a85d11e3e2"
-speaker: "Mark from Candace's production team (surname unidentified)"
+speaker: "Mark (Candace show producer; surname unverified)"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Mark from Candace's production team (surname unidentified)](/entities/anon-src-bkcom32zegk-mark-production-team.md) (Guest)
+**Speaker:** [Mark (Candace show producer; surname unverified)](/entities/person-mark-candace-show-producer.md) (Guest)
 
 **Delivery:** Made directly
 

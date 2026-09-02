@@ -1,8 +1,8 @@
 ---
 title: "The same anonymous sources reportedly said that after Charli..."
-description: "\"The same anonymous sources reportedly said that after Charlie Kirk was shot, those donors reversed course and asked for their name to be restored to t...\" — Turning Point USA employee sources (identities unverified)"
+description: "\"The same anonymous sources reportedly said that after Charlie Kirk was shot, those donors reversed course and asked for their name to be restored to t...\" — Turning Point USA employee sources (Ep 236; identities unverified)"
 statement_id: "statement-3668b054cb79"
-speaker: "Turning Point USA employee sources (identities unverified)"
+speaker: "Turning Point USA employee sources (Ep 236; identities unverified)"
 type: "accusation"
 ---
 
@@ -14,7 +14,7 @@ type: "accusation"
 
 ## Attribution
 
-**Speaker:** [Turning Point USA employee sources (identities unverified)](/entities/anon-src-q7f8r-THr84-019.md) (Anonymous Source)
+**Speaker:** [Turning Point USA employee sources (Ep 236; identities unverified)](/entities/anon-src-q7f8r-THr84-019.md) (Anonymous Source)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

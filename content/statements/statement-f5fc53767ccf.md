@@ -1,8 +1,8 @@
 ---
 title: "An unnamed eyewitness reportedly told Candace Owens that he ..."
-description: "\"An unnamed eyewitness reportedly told Candace Owens that he filmed a person on the roof at 12:23 p.m., did not see that person take the shot, saw a sm...\" — Anonymous Source #3 (Ep es7PWdFGoFI)"
+description: "\"An unnamed eyewitness reportedly told Candace Owens that he filmed a person on the roof at 12:23 p.m., did not see that person take the shot, saw a sm...\" — Anonymous Losee Center Eyewitness"
 statement_id: "statement-f5fc53767ccf"
-speaker: "Anonymous Source #3 (Ep es7PWdFGoFI)"
+speaker: "Anonymous Losee Center Eyewitness"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #3 (Ep es7PWdFGoFI)](/entities/anon-src-es7PWdFGoFI-003.md) (Anonymous Source)
+**Speaker:** [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md) (Anonymous Source)
 
 **Delivery:** Paraphrased
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

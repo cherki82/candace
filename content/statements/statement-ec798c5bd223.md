@@ -20,7 +20,7 @@ type: "accusation"
 
 ## About
 
-- [Jewish mystical tradition](/entities/concept-jewish-mystical-tradition.md) (concept)
+- [Kabbalah](/entities/concept-kabbalah.md) (concept)
 - [transgenderism](/entities/concept-transgenderism.md) (concept)
 
 ## Source

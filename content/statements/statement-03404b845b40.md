@@ -1,8 +1,8 @@
 ---
 title: "Mark said the C-37A's call sign changed from REACH to SAM af..."
-description: "\"Mark said the C-37A's call sign changed from REACH to SAM after departing Fort Huachuca, which told him the aircraft had picked up a senior official t...\" — Mark (Candace show staff; surname unverified)"
+description: "\"Mark said the C-37A's call sign changed from REACH to SAM after departing Fort Huachuca, which told him the aircraft had picked up a senior official t...\" — Mark (Candace show producer; surname unverified)"
 statement_id: "statement-03404b845b40"
-speaker: "Mark (Candace show staff; surname unverified)"
+speaker: "Mark (Candace show producer; surname unverified)"
 type: "factual_claim"
 veracity: "mixed"
 ---
@@ -15,7 +15,7 @@ veracity: "mixed"
 
 ## Attribution
 
-**Speaker:** [Mark (Candace show staff; surname unverified)](/entities/person-mark-candace-show-staff-surname-unverified.md) (Guest)
+**Speaker:** [Mark (Candace show producer; surname unverified)](/entities/person-mark-candace-show-producer.md) (Guest)
 
 **Delivery:** Made directly
 

@@ -1,8 +1,8 @@
 ---
-title: "An anonymous social-media analyst counted 4,040 tweets about..."
-description: "\"An anonymous social-media analyst counted 4,040 tweets about Candace Owens by the No Soup for Knowles account during the 11 months after Charlie Kirk'...\" — Anonymous Source #6 (Ep 5zgkrOaCCj4)"
+title: "Owens said an anonymous social-media analyst counted 4,040 t..."
+description: "\"Owens said an anonymous social-media analyst counted 4,040 tweets about her by the No Soup for Knowles account during the 11 months after Charlie Kirk...\" — Candace Owens"
 statement_id: "statement-d2a5c5f1cd38"
-speaker: "Anonymous Source #6 (Ep 5zgkrOaCCj4)"
+speaker: "Candace Owens"
 type: "factual_claim"
 ---
 
@@ -10,19 +10,17 @@ type: "factual_claim"
 
 ## Statement
 
-> An anonymous social-media analyst counted 4,040 tweets about Candace Owens by the No Soup for Knowles account during the 11 months after Charlie Kirk's assassination.
+> Owens said an anonymous social-media analyst counted 4,040 tweets about her by the No Soup for Knowles account during the 11 months after Charlie Kirk's assassination.
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #6 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-006.md) (Anonymous Source)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Quoted from social media post
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** social-media analysis
+**Delivery:** Made directly
 
 ## About
 
-- [Anonymous Source #1 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-001.md) (anonymous_source)
+- [No Soup for Knolls (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-no-soup-for-knolls.md) (anonymous_source)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 

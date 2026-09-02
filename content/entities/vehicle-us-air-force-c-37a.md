@@ -79,12 +79,12 @@ _No relationships extracted yet._
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3)</summary>
 
 - [00:44:22](/episodes/ep-6DhWawD4ZiM.md#t-00-44-11) (Claim) **C-37A flight email tipster (identity unverified)** (via read message): ["An anonymous flight-tracking tipster reported that C-37A tail 99-0404 ..."](/statements/statement-8a03426a4ab1.md)
-  - Also about: [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+  - Also about: [Joint Base Andrews](/entities/gpe-joint-base-andrews.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 - [00:47:20](/episodes/ep-6DhWawD4ZiM.md#t-00-46-55) (Claim) **C-37A flight email tipster (identity unverified)** (via read message): ["An anonymous flight-tracking tipster reported that searches appeared t..."](/statements/statement-99edc3c2fe01.md)
   - Also about: [Pam Bondi](/entities/person-pam-bondi.md)
 
-- [00:49:01](/episodes/ep-6DhWawD4ZiM.md#t-00-48-41) (Claim) **Mark (Candace show staff; surname unverified)**: ["Mark said the C-37A's call sign changed from REACH to SAM after depart..."](/statements/statement-03404b845b40.md)
+- [00:49:01](/episodes/ep-6DhWawD4ZiM.md#t-00-48-41) (Claim) **Mark (Candace show producer; surname unverified)**: ["Mark said the C-37A's call sign changed from REACH to SAM after depart..."](/statements/statement-03404b845b40.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Special Air Mission](/entities/concept-special-air-mission.md)
 
 </details>

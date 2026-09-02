@@ -24,7 +24,7 @@ type: "opinion"
 - [Beau Mason](/entities/person-beau-mason.md) (person)
 - [Robert Bohls](/entities/person-robert-bohls.md) (person)
 - [Andrew Zenger](/entities/person-andrew-zenger.md) (person)
-- [Tony Graf](/entities/person-tony-graf.md) (person)
+- [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md) (person)
 
 ## Source
 

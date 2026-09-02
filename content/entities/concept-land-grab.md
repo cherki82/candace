@@ -88,7 +88,7 @@ _No relationships extracted yet._
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
 
 - [00:31:39](/episodes/ep-CMcktj3Egfo.md#t-00-31-08) (Accusation) **Candace Owens**: ["Candace Owens suggested that Turning Point Faith's real-estate activit..."](/statements/statement-f47f1d47dfa9.md)
-  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 
 </details>
 

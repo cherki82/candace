@@ -1,6 +1,6 @@
 ---
 title: "The Church of Jesus Christ of Latter-day Saints"
-description: "The Church of Jesus Christ of Latter-day Saints (Organizations) - 21 mentions"
+description: "The Church of Jesus Christ of Latter-day Saints (Organizations) - 26 mentions"
 id: "org-church-of-jesus-christ-of-latter-day-saints"
 type: "ORG"
 aliases:
@@ -8,30 +8,31 @@ aliases:
   - "Church of Latter-day Saints"
   - "LDS Church"
   - "Church of Jesus Christ of Latter-day Saints"
+  - "LDS"
+  - "LDS church"
 categories:
   - "religion"
+  - "religious organization"
 ---
 
 _Type: Organizations_
 
-**Also known as:** Mormon Church, Church of Latter-day Saints, LDS Church, Church of Jesus Christ of Latter-day Saints
+**Also known as:** Mormon Church, Church of Latter-day Saints, LDS Church, Church of Jesus Christ of Latter-day Saints, LDS, LDS church
 
-**Categories:** religion
-
-> **Possibly overlapping entity records:** [LDS church](/entities/org-lds-church). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** religion, religious organization
 
 **Entity verification:** verified
 > Official church page confirms canonical name.
 Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://www.churchofjesuschrist.org/learn/about-us?lang=eng)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09">2025-09-24 · 00:17:37</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-55-47">2025-09-22 · 00:56:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-33-04">2026-08-19 · 00:33:04</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -39,13 +40,18 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09">BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-55-47" style="--pulse-height:40%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-05-54" style="--pulse-height:20%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09" style="--pulse-height:100%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 5 mentions" title="2025-09-24 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-18-41" style="--pulse-height:20%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-21-05" style="--pulse-height:20%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-28-10" style="--pulse-height:20%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-42" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-42" style="--pulse-height:40%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-47-19" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-14-31" style="--pulse-height:20%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-44-13" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-37-39" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-46-16" style="--pulse-height:20%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-16-59" style="--pulse-height:20%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-19-50" style="--pulse-height:80%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-41-47" style="--pulse-height:40%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 2 mentions" title="2026-07-27 · 2 mentions"><span></span></a>
@@ -55,13 +61,18 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-55-47) | 2 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-05-54) | 1 |
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09) | 5 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-18-41) | 1 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-21-05) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-28-10) | 1 |
-| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-42) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-42) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-47-19) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-14-31) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-44-13) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-37-39) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-46-16) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-16-59) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-19-50) | 4 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-41-47) | 2 |
@@ -77,7 +88,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -124,6 +135,14 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:46:16](/episodes/ep-rupRLXmSndU.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-46-16)**
+> "LDS community"
+
+</details>
+
+<details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
 
 **[00:37:39](/episodes/ep-SgVcnx4Oh30.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-37-39)**
@@ -156,10 +175,13 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:27:49](/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-42)**
 > "... Okay, we know that things are corruptible. This is not an attack on and saying every person in the Mormon Church is involved—every person, the Catholic—every no. But we know that at the top things get corrupted. ..."
+
+**[00:29:26](/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-29-08)**
+> ""Bill Gates' grandfather—also LDS, polygamist. Not hard to dig any of this stuff up at all." "The corrupt Fed who called off the 2006 investigations into CNB Bank for Mike Hertz estate and Tupac.""
 
 </details>
 
@@ -168,6 +190,22 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 
 **[00:28:22](/episodes/ep-YFmRH8p5lt0.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-28-10)**
 > "... him, but I'm going to make some broader allegations that when I started piercing this layer of the Mormon church, I was like, "Is this a church or is this a real estate empire?" Never seen so many real estate tra..."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
+
+**[00:21:05](/episodes/ep-YA1FxrDWNIo.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-21-05)**
+> "...trying to protect this Detective Mike Mitchell. We also learned that he's a Boy Scout leader in the LDS church, but usually if you have a long tenure as a police officer, you're just featured in a lot of articl..."
+
+</details>
+
+<details>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (1 mentions)</summary>
+
+**[00:19:20](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-18-41)**
+> "...ormation on this guy. I understand that he knows Tyler through the Boy Scouts. He's involved in the LDS church. And I think Tyler was—he was the Boy Scout leader. That's the connection there. We were able to co..."
 
 </details>
 
@@ -188,6 +226,25 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 
 **[00:42:08](/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-41-55)**
 > "...it says Church of Jesus Christ of Latter-day Saints. But in the founder's story online, it says the Mormon Church. So thank you for correcting that. And you said, "Don't divide us." I wasn't trying. I genuinely wa..."
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1 mentions)</summary>
+
+**[00:06:11](/episodes/ep-UBkFkg4UNY8.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-05-54)**
+> "...e able to determine that not only is she connected to a big political family that is high up in the LDS church, but she also forgot to mention—and maybe there wasn't time to mention, to be fair—that they knew C..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
+
+**[00:56:18](/episodes/ep-ja26iltROkM.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-55-47)**
+> "intel recruits heavily from the LDS—that is a fact—Latter-day Saints, Church of Latter-day Saints"
+
+**[00:56:04](/episodes/ep-ja26iltROkM.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-55-47)**
+> "...tel recruits heavily from the LDS—that is a fact—Latter-day Saints, Church of Latte..."
 
 </details>
 
@@ -221,12 +278,19 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details>
-<summary>Has Member (2)</summary>
+<summary>Has Member (3)</summary>
 
 - **[Nick Shirley](/entities/person-nick-shirley.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:37:39](/episodes/ep-SgVcnx4Oh30.md#t-00-37-39): “Nick Shirley is that he is also a member of the LDS church sometimes referred to as the Mormon church”
+
+</details>
+
+- **[Mike Mitchell](/entities/person-mike-mitchell.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:21:05](/episodes/ep-YA1FxrDWNIo.md#t-00-21-05): “We also learned that he's a Boy Scout leader in the LDS church, but usually if you have a long tenure as a police officer, you're just featured in a lot of articles.”
 
 </details>
 
@@ -252,7 +316,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Frank William Gay](/entities/person-frank-william-gay.md)** formerly member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -275,6 +339,13 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 
 </details>
 
+- **[Mike Mitchell](/entities/person-mike-mitchell.md)** member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:21:05](/episodes/ep-YA1FxrDWNIo.md#t-00-21-05): “We also learned that he's a Boy Scout leader in the LDS church, but usually if you have a long tenure as a police officer, you're just featured in a lot of articles.”
+
+</details>
+
 - **[Lou Taylor](/entities/person-lou-taylor.md)** member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -294,7 +365,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Church of Jesus Christ of Latter-day Saints (6)</strong></summary>
+<summary><strong class="section-title">Statements about The Church of Jesus Christ of Latter-day Saints (7)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
@@ -330,6 +401,14 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 
 - [00:17:09](/episodes/ep-QZWSsq8ZWzw.md#t-00-16-32) (Claim) **Candace Owens**: ["Utah recently modernized their beehive flag, and Utah has always been ..."](/statements/statement-8d437af36e74.md)
   - Also about: [Utah](/entities/gpe-utah.md)
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
+
+- [00:05:59](/episodes/ep-UBkFkg4UNY8.md#t-00-05-54) (Claim) **Candace Owens**: ["Owens said internet sleuths had apparently determined that Tiffany Bar..."](/statements/statement-1546847cc547.md)
+  - Also about: [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md)
 
 </details>
 

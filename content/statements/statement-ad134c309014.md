@@ -49,15 +49,17 @@ veracity: "true"
 
 ### Analysis
 
-The source episode directly records Wilson saying Turning Point USA invited him to provide debate training and later supplied relevant material after he requested it. This verifies his self-report as attributed; no independent TPUSA confirmation was located.
+Wilson's account of a one-off debate-training visit is corroborated by the hosts of the August 20 Charlie Kirk Show, who recall him teaching debaters. His access to material is a first-person disclosure in the debate; the underlying message authenticity is not established here. This does not verify organizational control of his debate position or any cover-up.
 
-**Confidence:** High
+**Confidence:** Medium
 
 **Sources:**
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](https://www.youtube.com/watch?v=nPhCKwJ6ye8)
+- [The Charlie Kirk Show — live special with Andrew Wilson, August 20, 2026](https://podscripts.co/podcasts/the-charlie-kirk-show/the-stuff-that-has-to-be-said-live-special-with-andrew-wilson)
+- [Owens–Wilson debate transcript, August 14, 2026](https://owenswilsondebate.com/transcript)
 
-*Verified: 2026-08-16T14:38:04.957984*
+*Verified: 2026-09-01T18:16:53.065147*
 
 ---
 

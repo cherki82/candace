@@ -1,6 +1,6 @@
 ---
 title: "Jon Aaron Bray"
-description: "Jon Aaron Bray (People) - 33 mentions"
+description: "Jon Aaron Bray (People) - 32 mentions"
 id: "person-jon-aaron-bray"
 type: "PERSON"
 aliases:
@@ -25,7 +25,7 @@ Source: [Forensic Evidence Summary](https://followtheepicenter.com/Forensic_Evid
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jon-aaron-bray-t-01-18-09">2026-01-09 · 01:18:32</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-jon-aaron-bray-t-03-08-09">2026-08-14 · 03:08:15</a></strong></div>
 <div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,7 +37,7 @@ Source: [Forensic Evidence Summary](https://followtheepicenter.com/Forensic_Evid
 <p>Highest activity: <a href="/episodes/ep-a2bZf4fic10.md#ent-person-jon-aaron-bray-t-00-03-22">EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jon-aaron-bray-t-01-18-09" style="--pulse-height:29%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jon-aaron-bray-t-00-38-00" style="--pulse-height:57%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 4 mentions" title="2026-03-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jon-aaron-bray-t-00-38-00" style="--pulse-height:43%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-jon-aaron-bray-t-00-03-00" style="--pulse-height:71%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 5 mentions" title="2026-06-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-jon-aaron-bray-t-00-49-07" style="--pulse-height:14%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-jon-aaron-bray-t-00-12-43" style="--pulse-height:14%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
@@ -53,7 +53,7 @@ Source: [Forensic Evidence Summary](https://followtheepicenter.com/Forensic_Evid
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jon-aaron-bray-t-01-18-09) | 2 |
-| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-jon-aaron-bray-t-00-38-00) | 4 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-jon-aaron-bray-t-00-38-00) | 3 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-jon-aaron-bray-t-00-03-00) | 5 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-jon-aaron-bray-t-00-49-07) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-jon-aaron-bray-t-00-12-43) | 1 |
@@ -74,7 +74,7 @@ Source: [Forensic Evidence Summary](https://followtheepicenter.com/Forensic_Evid
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5 mentions)</summary>
@@ -203,13 +203,10 @@ Source: [Forensic Evidence Summary](https://followtheepicenter.com/Forensic_Evid
 </details>
 
 <details>
-<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (4 mentions)</summary>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3 mentions)</summary>
 
 **[00:38:00](/episodes/ep-5-HUyv9LyMg.md#ent-person-jon-aaron-bray-t-00-38-00)**
 > "...re very powerful, and I think John Bray explained to me that the magnet clasp would have ..."
-
-**[00:56:43](/episodes/ep-5-HUyv9LyMg.md#ent-person-jon-aaron-bray-t-00-56-43)**
-> "... monologues and taking us on; John Bray, who's looking into the microphone theory and why..."
 
 **[00:56:43](/episodes/ep-5-HUyv9LyMg.md#ent-person-jon-aaron-bray-t-00-56-43)**
 > "And that is thanks to the YouTubers, everyone giving a different piece, piecing together things. I mean, whether it's Missy (YouTube researcher; surname/channel unverified), who looked into Nisi (name spelling uncertain in source)—I hope I'm saying her name right—who looked into the Jillian material (referent unverified); whether you've got Baron Coleman, um, his monologues and taking us on; John Bray, who's looking into the microphone theory and why there was that explosion that happened here in Tennessee. By the way, John Bray, you should probably look into Nelda Buckman's family. I'm only saying that"

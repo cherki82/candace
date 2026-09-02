@@ -21,7 +21,7 @@ veracity: "true"
 
 ## About
 
-- [George H.W. Bush](/entities/person-george-hw-bush.md) (person)
+- [George H. W. Bush](/entities/person-george-h-w-bush.md) (person)
 - [Angolagate scandal](/entities/event-angola-gate.md) (event)
 
 ## Source

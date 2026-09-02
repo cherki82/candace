@@ -106,7 +106,7 @@ Source: [Whatever Podcast: Andrew Wilson vs. Charlie | Rachel Wilson](https://po
 <details>
 <summary>Debated (1)</summary>
 
-- **[Charlie (Whatever Podcast guest; surname unverified)](/entities/person-charlie-whatever-podcast-guest.md)**
+- **[Charlie (debate participant; surname unverified)](/entities/person-charlie-debate-participant.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:39:25](/episodes/ep-5zgkrOaCCj4.md#t-00-39-00): “Was they his wife called in and started debating her like literally he then went out for a cigarette break and she called in I can't even think of this like this person is not in the manosphere like he has a wife who is a full-blown modern feminist it's incredible you got to watch this clip of his wife on the whatever podcast taking over the debate for him.”
@@ -125,7 +125,7 @@ Source: [Whatever Podcast: Andrew Wilson vs. Charlie | Rachel Wilson](https://po
 
 </details>
 
-- **[Charlie (Whatever Podcast guest; surname unverified)](/entities/person-charlie-whatever-podcast-guest.md)** debated this
+- **[Charlie (debate participant; surname unverified)](/entities/person-charlie-debate-participant.md)** debated this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:39:25](/episodes/ep-5zgkrOaCCj4.md#t-00-39-00): “Was they his wife called in and started debating her like literally he then went out for a cigarette break and she called in I can't even think of this like this person is not in the manosphere like he has a wife who is a full-blown modern feminist it's incredible you got to watch this clip of his wife on the whatever podcast taking over the debate for him.”

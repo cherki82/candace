@@ -23,7 +23,7 @@ Source: [Google — About](https://about.google/)
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -110,6 +110,10 @@ Source: [Google — About](https://about.google/)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -492,10 +496,10 @@ _No relationships extracted yet._
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2)</summary>
 
 - [00:05:12](/episodes/ep-4JxgOclKzqg.md#t-00-04-58) (Accusation) **Candace Owens**: ["Owens accused Farnsworth of lying to her, stating that he apparently k..."](/statements/statement-12e964f553b4.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
-- [00:06:33](/episodes/ep-4JxgOclKzqg.md#t-00-06-10) (Claim) **Terrell Farnsworth** (via quoted document): ["In his 1102 statement, Farnsworth said that on September 10 he gave th..."](/statements/statement-8d62ffeda313.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
+- [00:06:33](/episodes/ep-4JxgOclKzqg.md#t-00-06-10) (Claim) **Terryl Farnsworth** (via quoted document): ["In his 1102 statement, Farnsworth said that on September 10 he gave th..."](/statements/statement-8d62ffeda313.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
 
 </details>
 

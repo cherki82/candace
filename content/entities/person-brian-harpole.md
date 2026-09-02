@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 341 mentions"
+description: "Brian Harpole (People) - 342 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-01">2025-11-18 · 00:21:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-brian-harpole-t-00-21-41">2026-08-19 · 00:22:10</a></strong></div>
-<div><span>Episodes</span><strong>52</strong></div>
-<div><span>Mentions</span><strong>341</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-brian-harpole-t-00-18-21">2026-09-01 · 00:18:53</a></strong></div>
+<div><span>Episodes</span><strong>53</strong></div>
+<div><span>Mentions</span><strong>342</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
 <div><span>Statements about</span><strong>121</strong></div>
-<div><span>Relationships</span><strong>36</strong></div>
+<div><span>Relationships</span><strong>34</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -87,6 +87,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-brian-harpole-t-00-47-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-brian-harpole-t-00-25-21" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-brian-harpole-t-00-21-41" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-brian-harpole-t-00-18-21" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -144,6 +145,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-brian-harpole-t-00-47-19) | 1 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-brian-harpole-t-00-25-21) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-brian-harpole-t-00-21-41) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-brian-harpole-t-00-18-21) | 1 |
 
 </details>
 </section>
@@ -155,7 +157,15 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (341)</strong></summary>
+<summary><strong class="section-title">Raw mentions (342)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:18:53](/episodes/ep-ZkDO-MRLUco.md#ent-person-brian-harpole-t-00-18-21)**
+> "That is just amazing to me that Frank Turek was fine to start a FaceTime call from the emergency room amidst all of that chaos while Charlie (Charlie Kirk) was dying, Amidst all of that chaos, while Charlie (Charlie Kirk) was dying, Brian Harpole was jumping on top of him, presumably."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -1521,7 +1531,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>Formerly Worked For (4)</summary>
+<summary>Formerly Worked For (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1530,10 +1540,11 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 </details>
 
-- **[Schaefer Security](/entities/org-schaefer-security.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+- **[Shaffer Security Group](/entities/org-shaffer-security-group.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-57): “It was Schaefer Security, where Dan Flood came out of, and Brian Harpole.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
 
 </details>
 
@@ -1542,13 +1553,6 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:38:00](/episodes/ep-VMNWMXX1vO8.md#t-00-38-00): “Charlie (Charlie Kirk)'s chief of security, Brian (Brian Harpole)”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:38:03](/episodes/ep-w1oqQbR_bYs.md#t-00-37-49): “he was Charlie's security and I went on tour with Charlie for years”
-
-</details>
-
-- **[Shaffer Security Group](/entities/org-shaffer-security-group.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
 
 </details>
 
@@ -1665,7 +1669,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>Referenced By (18)</summary>
+<summary>Referenced By (17)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -1736,10 +1740,11 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 </details>
 
-- **[Schaefer Security](/entities/org-schaefer-security.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+- **[Shaffer Security Group](/entities/org-shaffer-security-group.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-57): “It was Schaefer Security, where Dan Flood came out of, and Brian Harpole.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
 
 </details>
 
@@ -1748,13 +1753,6 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:38:00](/episodes/ep-VMNWMXX1vO8.md#t-00-38-00): “Charlie (Charlie Kirk)'s chief of security, Brian (Brian Harpole)”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:38:03](/episodes/ep-w1oqQbR_bYs.md#t-00-37-49): “he was Charlie's security and I went on tour with Charlie for years”
-
-</details>
-
-- **[Shaffer Security Group](/entities/org-shaffer-security-group.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
 
 </details>
 
@@ -2160,7 +2158,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Shawn Ryan](/entities/person-shawn-ryan.md)
 
 - [00:06:11](/episodes/ep-VMNWMXX1vO8.md#t-00-05-32) (Claim) **Anonymous Source #1 (Ep VMNWMXX1vO8)** (via paraphrase): ["Terrell Farnsworth was involved in communications to potentially book ..."](/statements/statement-d6aa772e0a96.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Erika Kirk](/entities/person-erika-kirk.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:38:00](/episodes/ep-VMNWMXX1vO8.md#t-00-38-00) (Prediction) **Rob McCoy** (via quoted speech): ["Candace Owens is going to go bankrupt, and Brian Harpole's lawsuit mea..."](/statements/statement-f6042895488f.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
@@ -2314,7 +2312,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:07:22](/episodes/ep-69A8TzAGHlU.md#t-00-06-57) (Claim) **Candace Owens**: ["The cited episode never mentioned Brian Harpole; its disputed quotatio..."](/statements/statement-9726775ea5c0.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Michael McCoy](/entities/person-michael-mccoy.md)
 
 - [00:09:28](/episodes/ep-69A8TzAGHlU.md#t-00-08-48) (Accusation) **Matthew Sarelson** (via quoted document): ["Candace Owens falsely accused Brian Harpole of failing to render effec..."](/statements/statement-8d57d975c7b5.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -2370,7 +2368,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
   - Also about: [Matthew Sarelson](/entities/person-matthew-sarelson.md)
 
 - [00:35:02](/episodes/ep-69A8TzAGHlU.md#t-00-34-24) (Opinion) **Candace Owens**: ["Candace Owens said Harpole's lawsuit might create an opportunity to su..."](/statements/statement-547999361b9c.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [01:09:16](/episodes/ep-69A8TzAGHlU.md#t-01-09-16) (Opinion) **Candace Owens**: ["The attacks on Candace Owens, including Brian Harpole's lawsuit, may h..."](/statements/statement-53b975735ecf.md)
   - Also about: [Matthew Sarelson](/entities/person-matthew-sarelson.md), [Laura Loomer](/entities/person-laura-loomer.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -2414,7 +2412,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
 
 - [00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-57) (Claim) **Candace Owens**: ["Candace Owens said Schaefer Security provided Charlie Kirk's travel se..."](/statements/statement-e858de21dbac.md)
-  - Also about: [Schaefer Security](/entities/org-schaefer-security.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+  - Also about: [Shaffer Security Group](/entities/org-shaffer-security-group.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 
@@ -2463,7 +2461,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
   - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
 
 - [00:46:57](/episodes/ep-9k2xrAC0H88.md#t-00-46-45) (Claim) **Candace Owens**: ["Brian Harpole landed in Los Angeles at 6:45 PM on September 7th on a d..."](/statements/statement-4719170d8578.md)
-  - Also about: [Los Angeles](/entities/gpe-los-angeles.md), [Dallas](/entities/gpe-dallas.md)
+  - Also about: [Los Angeles](/entities/gpe-los-angeles.md), [Dallas, Texas](/entities/gpe-dallas-texas.md)
 
 </details>
 

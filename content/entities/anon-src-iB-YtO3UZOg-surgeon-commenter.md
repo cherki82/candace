@@ -25,7 +25,7 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -42,6 +42,10 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -72,7 +76,7 @@ _No relationships extracted yet._
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1)</summary>
 
 - [00:37:22](/episodes/ep-iB-YtO3UZOg.md#t-00-37-22) [○] (Opinion) ["An anonymous surgeon commenter said the trajectory described in the medical exam..."](/statements/statement-b220669e6ee5.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Losee Center](/entities/org-losee-center.md)
 
 </details>
 

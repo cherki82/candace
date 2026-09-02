@@ -28,7 +28,7 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
 <div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -269,17 +269,18 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
 <details>
 <summary>Worked With (1)</summary>
 
-- **[Otto Busher III](/entities/person-otto-busher-iii.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+- **[Otto A. Busher III](/entities/person-otto-a-busher-iii.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:11:27](/episodes/ep-wcD2khO3rOA.md#t-00-10-47): “it is a fact that they worked with at that time Colonel Otto Busher III.”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:46:58](/episodes/ep-SubDoZWHARo.md#t-00-46-39): “Colonel Otto Buescher, obviously the Romanian instance with Erika (Erika Kirk) all surrounding what happened at the military. military base and he worked with Romanian angels”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -326,13 +327,6 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
 
 </details>
 
-- **[Otto Busher](/entities/person-otto-busher.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:46:58](/episodes/ep-SubDoZWHARo.md#t-00-46-39): “Colonel Otto Buescher, obviously the Romanian instance with Erika (Erika Kirk) all surrounding what happened at the military. military base and he worked with Romanian angels”
-
-</details>
-
 </details>
 
 </details>
@@ -374,7 +368,7 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md), [Romania](/entities/gpe-romania.md)
 
 - [00:11:27](/episodes/ep-wcD2khO3rOA.md#t-00-10-47) (Accusation) **Candace Owens**: ["The Romanian Angels Project worked with Colonel Otto Busher III, who w..."](/statements/statement-254404111778.md)
-  - Also about: [Otto Busher III](/entities/person-otto-busher-iii.md), [Romania](/entities/gpe-romania.md)
+  - Also about: [Otto A. Busher III](/entities/person-otto-a-busher-iii.md), [Romania](/entities/gpe-romania.md)
 
 </details>
 

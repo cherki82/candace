@@ -22,7 +22,7 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 <div><span>Episodes</span><strong>10</strong></div>
 <div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -228,13 +228,21 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rick Cutler (7)</strong></summary>
+<summary><strong class="section-title">Statements about Rick Cutler (8)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
+
+- [00:08:31](/episodes/ep-1CFDtD0IgEg.md#t-00-08-04) (Accusation) **Candace Owens**: ["Owens asked whether the possible gloves, the alleged unreleased 911 in..."](/statements/statement-73365d53ab7e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
 
-- [00:06:00](/episodes/ep-AH1KVKkweUE.md#t-00-05-49) (Accusation) **Candace Owens** (via paraphrase): ["Owens said she had been told that Rick Cutler was among those who alle..."](/statements/statement-e911fbdffe93.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+- [00:06:00](/episodes/ep-AH1KVKkweUE.md#t-00-05-49) (Claim) **Candace Owens** (via paraphrase): ["Owens said she had been told that Rick Cutler was among those who remo..."](/statements/statement-e911fbdffe93.md)
+  - Also about: [FBI](/entities/org-fbi.md)
 
 </details>
 

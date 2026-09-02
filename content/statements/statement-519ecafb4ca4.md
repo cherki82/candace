@@ -4,10 +4,9 @@ description: "\"Candace Owens claimed the alleged .30-06 bullet did not throw Ch
 statement_id: "statement-519ecafb4ca4"
 speaker: "Candace Owens"
 type: "factual_claim"
-veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -33,21 +32,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-Transcript context and the primary video confirm Owens made the two-part bullet/trajectory claim. Current preliminary-hearing reporting says ballistic testing did not permit a conclusive statement, so this result verifies the attribution ('Owens claimed'), not the underlying wound-ballistics theory.
-
-**Confidence:** Medium
-
-**Sources:**
-
-- [A Shocking Truth Revealed In The 4K Footage... | Ep 373](https://rumble.com/v7dto7u-a-shocking-truth-revealed-in-the-4k-footage.-beavis-and-butt-head-send-a-me.html)
-- [Where Does The Charlie Kirk Assassination Case Stand And Where Does It Go From Here](https://dailycaller.com/2026/07/12/charlie-kirk-murder-trial-tyler-robinson-utah-preliminary-hearing-probable-cause-ruling/)
-
-*Verified: 2026-08-28T05:43:22.742348*
+_This statement has not yet been verified._
 
 ---
 

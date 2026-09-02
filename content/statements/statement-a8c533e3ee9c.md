@@ -21,7 +21,7 @@ veracity: "unverifiable"
 
 ## About
 
-- [Turning Point Faith](/entities/org-turning-point-faith.md) (org)
+- [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md) (org)
 - [Unification Church](/entities/org-unification-church.md) (org)
 - [One-world government](/entities/concept-one-world-government.md) (concept)
 

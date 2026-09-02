@@ -11,7 +11,7 @@ object: "person-michael-mccoy"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Michael McCoy](/entities/person-michael-mccoy)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
 
@@ -20,6 +20,10 @@ object: "person-michael-mccoy"
 **[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
 
 - [00:27:51](/episodes/ep-K1tFD7FfoCU#t-00-27-51): _That was my reason for going after Andrew Kolvet, Mikey McCoy._
+
+**[BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco)**
+
+- [00:19:26](/episodes/ep-ZkDO-MRLUco#t-00-19-26): _A fact would be that it seems implausible that Mikey (Michael McCoy) called Pastor Jack (Jack Hibbs) before 1230, before he then was FaceTimed by Frank (Frank Turek). ... He was on the phone from 1224 all the way through to 1244 with Elizabeth McCoy, with Erika (Erika Kirk), with his father, and then with Danny Philip for 10 minutes. I mean, the only way it could be true that Mikey (Michael McCoy) called him before 1230._
 
 **[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
 

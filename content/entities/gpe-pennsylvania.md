@@ -1,6 +1,6 @@
 ---
 title: "Pennsylvania"
-description: "Pennsylvania (Places) - 12 mentions"
+description: "Pennsylvania (Places) - 15 mentions"
 id: "gpe-pennsylvania"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Commonwealth of Pennsylvania](https://www.pa.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-gpe-pennsylvania-t-00-30-43">2025-11-18 · 00:31:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#t-00-00-43">2026-07-16 · 00:01:10</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-pennsylvania-t-00-36-35">2026-09-01 · 00:36:48</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -42,6 +42,7 @@ Source: [Commonwealth of Pennsylvania](https://www.pa.gov/)
 <a href="/episodes/ep-WoXd4oLwd3w.md#t-00-02-00" style="--pulse-height:20%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-pennsylvania-t-00-10-16" style="--pulse-height:100%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 5 mentions" title="2026-06-15 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#t-00-00-43" style="--pulse-height:20%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-pennsylvania-t-00-35-56" style="--pulse-height:60%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Commonwealth of Pennsylvania](https://www.pa.gov/)
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-02-00) | 1 |
 | 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-pennsylvania-t-00-10-16) | 5 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#t-00-00-43) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-pennsylvania-t-00-35-56) | 3 |
 
 </details>
 </section>
@@ -65,7 +67,21 @@ Source: [Commonwealth of Pennsylvania](https://www.pa.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3 mentions)</summary>
+
+**[00:36:05](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-pennsylvania-t-00-35-56)**
+> "But we'd like to borrow from Pennsylvania law. This is what they're actually arguing. Pennsylvania law and their jurisprudence does meet this standard."
+
+**[00:36:13](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-pennsylvania-t-00-35-56)**
+> "...dismissal are citing cases in Pennsylvania where there was just one victim and it was enough..."
+
+**[00:36:48](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-pennsylvania-t-00-36-35)**
+> "Also, ironically, Pennsylvania currently has a moratorium on their death penalty..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
@@ -148,7 +164,17 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pennsylvania (1)</strong></summary>
+<summary><strong class="section-title">Statements about Pennsylvania (3)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2)</summary>
+
+- [00:36:05](/episodes/ep-ZkDO-MRLUco.md#t-00-35-56) (Claim) **Candace Owens** (via paraphrase): ["Owens said the prosecution relied on Pennsylvania cases involving one ..."](/statements/statement-1f777ccdd797.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:36:48](/episodes/ep-ZkDO-MRLUco.md#t-00-36-35) (Claim) **Candace Owens**: ["Owens said Pennsylvania currently had a moratorium on the death penalt..."](/statements/statement-c4333e312119.md)
+
+</details>
 
 <details>
 <summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>

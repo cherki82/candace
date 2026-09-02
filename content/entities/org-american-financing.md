@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 593 mentions"
+description: "American Financing (Organizations) - 598 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-american-financing-t-00-42-29">2026-08-31 · 00:42:47</a></strong></div>
-<div><span>Episodes</span><strong>134</strong></div>
-<div><span>Mentions</span><strong>593</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-41-12">2026-09-01 · 00:41:31</a></strong></div>
+<div><span>Episodes</span><strong>135</strong></div>
+<div><span>Mentions</span><strong>598</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -170,6 +170,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-american-financing-t-00-43-39" style="--pulse-height:62%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 5 mentions" title="2026-08-19 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-american-financing-t-00-57-01" style="--pulse-height:50%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 4 mentions" title="2026-08-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-american-financing-t-00-42-29" style="--pulse-height:50%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-40-30" style="--pulse-height:62%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -309,6 +310,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-american-financing-t-00-43-39) | 5 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-american-financing-t-00-57-01) | 4 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-american-financing-t-00-42-29) | 4 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-40-30) | 5 |
 
 </details>
 </section>
@@ -316,7 +318,27 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (593)</strong></summary>
+<summary><strong class="section-title">Raw mentions (598)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (5 mentions)</summary>
+
+**[00:40:30](/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-40-30)**
+> "Be sure to use code CANDACE at checkout. That's paleovalley.com using promo code CANDACE at checkout. And I have to remind you guys about American Financing because it is no secret that..."
+
+**[00:40:55](/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-40-30)**
+> "But American Financing now offers a smart equity loan so that you don't ..."
+
+**[00:41:12](/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-41-12)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:41:22](/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-41-12)**
+> "...et slash Owens. Again, that's American Financing."
+
+**[00:41:31](/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-41-12)**
+> "AmericanFinancing.net/Owens."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (4 mentions)</summary>

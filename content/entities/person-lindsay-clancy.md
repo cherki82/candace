@@ -83,10 +83,10 @@ _No relationships extracted yet._
 - [00:56:40](/episodes/ep-d7VsbEIWkP8.md#t-00-56-06) (Opinion) **Candace Owens**: ["Candace Owens said that, in her opinion, Lindsay Clancy is not guilty ..."](/statements/statement-848e0a61fb81.md)
 
 - [00:56:40](/episodes/ep-d7VsbEIWkP8.md#t-00-56-06) (Accusation) **Candace Owens**: ["Candace Owens said doctors should be imprisoned for the drugs prescrib..."](/statements/statement-368f78745c55.md)
-  - Also about: [Big Pharma](/entities/concept-big-pharma.md)
+  - Also about: [Pharmaceutical industry](/entities/concept-pharmaceutical-industry.md)
 
 - [00:57:13](/episodes/ep-d7VsbEIWkP8.md#t-00-56-48) (Claim) **Candace Owens**: ["Candace Owens said Lindsay Clancy had been taking a cocktail of 10 pha..."](/statements/statement-efd0f6d8a9b3.md)
-  - Also about: [Big Pharma](/entities/concept-big-pharma.md)
+  - Also about: [Pharmaceutical industry](/entities/concept-pharmaceutical-industry.md)
 
 </details>
 

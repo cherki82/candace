@@ -23,7 +23,7 @@ Source: [Ryan Reynolds | Biography, Movies, Deadpool, Wife, & Facts](https://www
 <div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -147,17 +147,18 @@ Source: [Ryan Reynolds | Biography, Movies, Deadpool, Wife, & Facts](https://www
 <summary>Married To (1)</summary>
 
 - **[Blake Lively](/entities/person-blake-lively.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:46:44](/episodes/ep-eMtjzXkQrsU.md#t-00-46-44): “watching evil her and ryan reynolds her husband had kind of climbed the ranks and i graduated to a class of taylor swift is our best friend”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:58:33](/episodes/ep-k1b1NDCrNFs.md#t-00-58-21): “Dimwit writes, Blake Lively is a true influencer. She influenced me to never watch any movie she's in ever. ... they'll be rich for the rest of their lives i think quietly retiring and doing some charity and raising their children totally works for me i don't wish any bad on them but it was hard to read through what they did to justin baldoni out of sport her and her husband just out of sheer sport i definitely don't ever want to see ryan reynolds ever again though i i almost the bullying that he put him through was just unbelievable just so pompous and so arrogant more comments from today Today's episode, sorry,”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:16:05](/episodes/ep-JrhGEm8MGRY.md#t-00-15-40): “Her husband is Ryan Reynolds, who is apparently a routine psychopath who has been cosplaying a superhero throughout the Marvel movies.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -167,13 +168,6 @@ Source: [Ryan Reynolds | Biography, Movies, Deadpool, Wife, & Facts](https://www
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:16:05](/episodes/ep-JrhGEm8MGRY.md#t-00-15-40): “Her husband is Ryan Reynolds, who is apparently a routine psychopath who has been cosplaying a superhero throughout the Marvel movies.”
-
-</details>
-
-- **[Blake Lively](/entities/person-blake-lively.md)** married to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:16:05](/episodes/ep-JrhGEm8MGRY.md#t-00-15-40): “Her husband is Ryan Reynolds, who is apparently a routine psychopath who has been cosplaying a superhero throughout the Marvel movies.”

@@ -1157,7 +1157,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>Location Of (2)</summary>
 
-- **[Candlewood Suites](/entities/org-candlewood-suites.md)**
+- **[Candlewood Suites Building 44420](/entities/gpe-candlewood-suites-fort-huachuca.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-09): “the evening of September 8th at the Candlewood Suites”
@@ -1188,7 +1188,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>Referenced By (6)</summary>
 
-- **[Candlewood Suites](/entities/org-candlewood-suites.md)** based in this
+- **[Candlewood Suites Building 44420](/entities/gpe-candlewood-suites-fort-huachuca.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-09): “the evening of September 8th at the Candlewood Suites”
@@ -1683,12 +1683,12 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
   - Also about: [Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border.md)
 
 - [00:44:22](/episodes/ep-6DhWawD4ZiM.md#t-00-44-11) (Claim) **C-37A flight email tipster (identity unverified)** (via read message): ["An anonymous flight-tracking tipster reported that C-37A tail 99-0404 ..."](/statements/statement-8a03426a4ab1.md)
-  - Also about: [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md), [U.S. Air Force C-37A](/entities/vehicle-us-air-force-c-37a.md)
+  - Also about: [Joint Base Andrews](/entities/gpe-joint-base-andrews.md), [U.S. Air Force C-37A](/entities/vehicle-us-air-force-c-37a.md)
 
 - [00:47:51](/episodes/ep-6DhWawD4ZiM.md#t-00-47-33) (Claim) **Candace Owens** (via paraphrase): ["Owens said her military source described the Fort Huachuca meeting he ..."](/statements/statement-45c985fc27c8.md)
   - Also about: [Harry Myers](/entities/person-harry-myers.md)
 
-- [00:49:01](/episodes/ep-6DhWawD4ZiM.md#t-00-48-41) (Claim) **Mark (Candace show staff; surname unverified)**: ["Mark said the C-37A's call sign changed from REACH to SAM after depart..."](/statements/statement-03404b845b40.md)
+- [00:49:01](/episodes/ep-6DhWawD4ZiM.md#t-00-48-41) (Claim) **Mark (Candace show producer; surname unverified)**: ["Mark said the C-37A's call sign changed from REACH to SAM after depart..."](/statements/statement-03404b845b40.md)
   - Also about: [U.S. Air Force C-37A](/entities/vehicle-us-air-force-c-37a.md), [Special Air Mission](/entities/concept-special-air-mission.md)
 
 - [00:49:39](/episodes/ep-6DhWawD4ZiM.md#t-00-49-23) (Prediction) **Candace Owens**: ["Owens said she assumed Harry Myers would be heard from directly the fo..."](/statements/statement-626a58b21e1b.md)

@@ -4,10 +4,9 @@ description: "\"Owens said she and others 'kind of think' Israel killed Charlie 
 statement_id: "statement-bfd738458205"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -35,20 +34,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The primary episode directly records Owens saying that she and others kind of think Israel killed Charlie Kirk and explaining that Israeli leaders' and supporters' behavior produced that impression. Veracity is strictly limited to the occurrence of Owens's accusation; current authoritative sources reviewed provide no substantiating evidence that Israel killed Kirk.
-
-**Confidence:** High
-
-**Sources:**
-
-- [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdown | Ep 372](https://www.youtube.com/watch?v=ChuWo-n49B8)
-
-*Verified: 2026-08-28T04:12:47.290093*
+_This statement has not yet been verified._
 
 ---
 

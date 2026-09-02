@@ -1,33 +1,33 @@
 ---
 title: "Chicago, Illinois"
-description: "Chicago, Illinois (Places) - 29 mentions"
+description: "Chicago, Illinois (Places) - 42 mentions"
 id: "gpe-chicago-illinois"
 type: "GPE"
 aliases:
   - "Chicago"
 categories:
   - "Illinois"
+  - "United States city"
+  - "journalism location"
 ---
 
 _Type: Places_
 
 **Also known as:** Chicago
 
-**Categories:** Illinois
-
-> **Possibly overlapping entity records:** [Chicago](/entities/gpe-chicago). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** Illinois, United States city, journalism location
 
 **Entity verification:** verified
 > Official city portal confirms canonical place name.
 Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51">2026-01-06 · 00:28:55</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-chicago-illinois-t-00-02-03">2025-09-11 · 00:02:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-chicago-illinois-t-00-20-42">2026-08-10 · 00:20:42</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -36,6 +36,8 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-20-38">Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-chicago-illinois-t-00-02-03" style="--pulse-height:12%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-illinois-t-00-20-36" style="--pulse-height:62%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 5 mentions" title="2025-09-23 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-chicago-illinois-t-00-42-40" style="--pulse-height:12%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-chicago-illinois-t-00-08-25" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
@@ -47,13 +49,21 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-chicago-illinois-t-00-15-54" style="--pulse-height:25%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-chicago-illinois-t-00-25-53" style="--pulse-height:12%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-chicago-illinois-t-00-23-40" style="--pulse-height:25%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-chicago-illinois-t-00-35-28" style="--pulse-height:12%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-chicago-illinois-t-00-31-10" style="--pulse-height:12%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-chicago-illinois-t-00-11-29" style="--pulse-height:12%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-chicago-illinois-t-00-21-53" style="--pulse-height:12%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-20-38" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 8 mentions" title="2026-07-14 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-chicago-illinois-t-00-58-23" style="--pulse-height:12%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-chicago-illinois-t-00-06-56" style="--pulse-height:25%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-chicago-illinois-t-00-20-42" style="--pulse-height:12%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-gpe-chicago-illinois-t-00-02-03) | 1 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-illinois-t-00-20-36) | 5 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-chicago-illinois-t-00-42-40) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-chicago-illinois-t-00-08-25) | 1 |
@@ -65,7 +75,13 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-chicago-illinois-t-00-15-54) | 2 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-chicago-illinois-t-00-25-53) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-chicago-illinois-t-00-23-40) | 2 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-chicago-illinois-t-00-35-28) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-chicago-illinois-t-00-31-10) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-chicago-illinois-t-00-11-29) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-chicago-illinois-t-00-21-53) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-20-38) | 8 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-chicago-illinois-t-00-58-23) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-chicago-illinois-t-00-06-56) | 2 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-chicago-illinois-t-00-20-42) | 1 |
 
 </details>
@@ -78,13 +94,32 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
 
 **[00:20:42](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-chicago-illinois-t-00-20-42)**
 > "...rom New Orleans, Louisiana to Chicago in that time frame."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>
+
+**[00:07:25](/episodes/ep-ds6umq1rHAw.md#ent-gpe-chicago-illinois-t-00-06-56)**
+> "Ron was also the chief of staff under Barack Obama. And then he became the mayor of Chicago."
+
+**[00:07:31](/episodes/ep-ds6umq1rHAw.md#ent-gpe-chicago-illinois-t-00-06-56)**
+> "...here's a lot of corruption in Chicago, as we know. Their father was literally in a Jewi..."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[00:58:41](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-chicago-illinois-t-00-58-23)**
+> "...be an Asian gang operating in Chicago. No one would be like, you're not allowed to say ..."
 
 </details>
 
@@ -114,6 +149,38 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 
 **[00:49:57](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-49-39)**
 > "...em, Arizona, Romania, and now Chicago."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
+
+**[00:21:53](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-chicago-illinois-t-00-21-53)**
+> "...rders are in New York City or Chicago or Detroit are solved?"
+
+</details>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:11:39](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-chicago-illinois-t-00-11-29)**
+> "Chicago, Illinois"
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:31:32](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-chicago-illinois-t-00-31-10)**
+> "You couldn't do this in Chicago."
+
+</details>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
+
+**[00:35:44](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-chicago-illinois-t-00-35-28)**
+> "ride-alongs with gangsters in Chicago"
 
 </details>
 
@@ -232,6 +299,34 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 
 </details>
 
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (5 mentions)</summary>
+
+**[00:19:46](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-illinois-t-00-20-36)**
+> "...were involved in taking that footage, and he sends him two numbers. And those two numbers were both Chicago-based. And when I looked up whose numbers those were, it looked to me like that was just kind of le..."
+
+**[00:20:05](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-illinois-t-00-20-36)**
+> "... those were, it looked to me like that was just kind of leading to nowhere. Like, why are these two Chicago-based numbers? It was very weird and very sketchy. So then I have a guy who's on the ground in Utah..."
+
+**[00:20:59](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-illinois-t-00-20-36)**
+> "... to me. So then I said, can I have Aaron's number? He gives me Aaron's number, and Aaron also has a Chicago number. So I'm getting from somebody on the ground, and I'm getting from this person on Twitter, th..."
+
+**[00:21:03](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-illinois-t-00-20-36)**
+> "...getting from somebody on the ground, and I'm getting from this person on Twitter, that all of these Chicago numbers are involved, and that's not making sense to me. And I then tried to text that number of th..."
+
+**[00:21:42](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-illinois-t-00-20-36)**
+> "...ke, well, I didn't take the footage, but my friend took the footage, and his friend does not have a Chicago-based number. So I am confused, and we ask if he'd be willing to send us the footage and to get us ..."
+
+</details>
+
+<details>
+<summary>To My Friend, Charlie Kirk. (1 mentions)</summary>
+
+**[00:02:03](/episodes/ep-_dRaEO47-co.md#ent-gpe-chicago-illinois-t-00-02-03)**
+> "...locked in. And I want you guys to know about our first planning sesh, okay? It was in the middle of Chicago O'Hare airport. There is this restaurant that's called the Macaroni Grill. And I sat down with Char..."
+
+</details>
+
 </details>
 
 <details open>
@@ -264,7 +359,7 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Chicago, Illinois (4)</strong></summary>
+<summary><strong class="section-title">Statements about Chicago, Illinois (7)</strong></summary>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2)</summary>
@@ -274,6 +369,22 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 
 - [00:22:18](/episodes/ep-X3VKJVJ7cN4.md#t-00-21-58) (Claim) **Candace Owens**: ["Owens said Stephen Philip and Tyler Bowyer's father worked at Bank of ..."](/statements/statement-53880cc31dfd.md)
   - Also about: [Stephen Philip](/entities/person-stephen-philip.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Bank of America](/entities/org-bank-of-america.md)
+
+</details>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+
+- [00:11:18](/episodes/ep-4DvYXBn_5JI.md#t-00-10-48) (Claim) **Candace Owens**: ["Candace Owens said N582MM left Denver at 11:58 a.m. Mountain Time on S..."](/statements/statement-ea896e271e9e.md)
+  - Also about: [N582MM](/entities/vehicle-n582mm.md), [Denver](/entities/gpe-denver.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md)
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:34:56](/episodes/ep-DEtFh2Ff-58.md#t-00-34-36) (Claim) **Baron Coleman**: ["On September 10th, aircraft N582MM left Pierre, South Dakota at 2:40 p..."](/statements/statement-013396861573.md)
+  - Also about: [N582MM](/entities/vehicle-n582mm.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md), [Provo Airport](/entities/org-provo-airport.md)
 
 </details>
 
@@ -290,6 +401,14 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 
 - [00:17:00](/episodes/ep-1IY2oD-_xVA.md#t-00-17-00) (Claim) **Candace Owens**: ["Jerri Frantzve began working for Quaker Oats in Chicago in 1971 and re..."](/statements/statement-252db2171f45.md)
   - Also about: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [The Quaker Oats Company](/entities/org-quaker-oats-company.md)
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
+
+- [00:20:06](/episodes/ep-UBkFkg4UNY8.md#t-00-19-52) (Claim) **Candace Owens**: ["When tracking down who filmed the shooter on the roof, multiple Chicag..."](/statements/statement-60729132e913.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

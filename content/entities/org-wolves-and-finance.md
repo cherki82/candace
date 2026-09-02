@@ -142,7 +142,7 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:36:19](/episodes/ep-JQjCAsfoXEE.md#t-00-36-17) [○] (Claim) ["Charlie Kirk wanted to establish DOGE seven days before he died"](/statements/statement-5bad017dfe02.md)
-  - About: [Doge](/entities/concept-doge.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [DOGE (Turning Point USA internal audit)](/entities/concept-doge.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:37:40](/episodes/ep-JQjCAsfoXEE.md#t-00-37-22) [○] (Claim) ["Turning Point USA sent 8.6 million dollars to America's Turning Point, their own..."](/statements/statement-f044cc0965a1.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)

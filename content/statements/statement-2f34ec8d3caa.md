@@ -25,7 +25,7 @@ type: "opinion"
 ## Source
 
 **Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
-**Timestamp:** [00:10:45](/episodes/ep-Vu6Y24pqhZs.md#t-00-10-44)
+**Timestamp:** [00:10:45](/episodes/ep-Vu6Y24pqhZs.md#t-00-10-44) 
 <a href="https://www.youtube.com/watch?v=Vu6Y24pqhZs&t=645s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, you may have noted if you're just looking at your eyes some sort of a flash that just took place, right? We're going to show you that slowed down and just kind of discuss this. We've gone back and forth here. What is that? Is he pulling something out? Is it like a signal mirror? Is it a flag? Was it already on Losee Center? Is it actually something that's in the background that's just catching weird? Is it a car? And we're just thinking that we see this flash, but we're just going to show you that so that it's clear.

@@ -133,7 +133,7 @@ Source: [About Hillsong Church](https://hillsong.com/about/)
 - [00:43:55](/episodes/ep-cZxHqYsWRYg.md#t-00-43-23) (Claim) **Brian Houston** (via quoted speech): ["Brian Houston said he had no doubt that his father was a serial pedoph..."](/statements/statement-9435c22d1e41.md)
   - Also about: [Hillsong Church](/entities/org-hillsong-church.md)
 
-- [00:44:53](/episodes/ep-cZxHqYsWRYg.md#t-00-44-32) (Claim) **Anonymous Source #2 (Ep cZxHqYsWRYg)**: ["Ashley said Terry Crist was a close friend of Hillsong founder Brian H..."](/statements/statement-24bda22c18a9.md)
+- [00:44:53](/episodes/ep-cZxHqYsWRYg.md#t-00-44-32) (Claim) **Ashley (Candace Owens producer; surname unverified)**: ["Ashley said Terry Crist was a close friend of Hillsong founder Brian H..."](/statements/statement-24bda22c18a9.md)
   - Also about: [Terry Crist](/entities/person-terry-crist.md), [Hillsong Church](/entities/org-hillsong-church.md), [City of Grace Church](/entities/org-city-of-grace-church.md)
 
 </details>

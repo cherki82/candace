@@ -1,6 +1,6 @@
 ---
 title: "United States Marine Corps"
-description: "United States Marine Corps (Organizations) - 68 mentions"
+description: "United States Marine Corps (Organizations) - 67 mentions"
 id: "org-united-states-marine-corps"
 type: "ORG"
 aliases:
@@ -27,7 +27,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-55-02">2025-09-22 · 00:55:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07">2026-08-14 · 03:04:07</a></strong></div>
 <div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>68</strong></div>
+<div><span>Mentions</span><strong>67</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>23</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
@@ -53,7 +53,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-united-states-marine-corps-t-00-12-32" style="--pulse-height:44%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-marine-corps-t-00-33-17" style="--pulse-height:11%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-marine-corps-t-00-05-32" style="--pulse-height:67%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 6 mentions" title="2026-03-10 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35" style="--pulse-height:89%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 8 mentions" title="2026-03-11 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35" style="--pulse-height:78%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 7 mentions" title="2026-03-11 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-marine-corps-t-00-15-03" style="--pulse-height:33%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-united-states-marine-corps-t-00-23-01" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-united-states-marine-corps-t-00-15-12" style="--pulse-height:22%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
@@ -86,7 +86,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-united-states-marine-corps-t-00-12-32) | 4 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-marine-corps-t-00-33-17) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-marine-corps-t-00-05-32) | 6 |
-| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35) | 8 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35) | 7 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-marine-corps-t-00-15-03) | 3 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-united-states-marine-corps-t-00-23-01) | 3 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-united-states-marine-corps-t-00-15-12) | 2 |
@@ -110,7 +110,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (68)</strong></summary>
+<summary><strong class="section-title">Raw mentions (67)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -257,7 +257,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 <details>
-<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (8 mentions)</summary>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (7 mentions)</summary>
 
 **[00:17:03](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35)**
 > "... in partnership with the U.S. Marines halfway around the world and in China while also ..."
@@ -269,9 +269,6 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 > "... support of the United States Marines."
 
 **[00:18:54](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-18-54)**
-> "...omania and teamed up with the Marine Corps to open up and sustain an orphanage with 75 beaut..."
-
-**[00:19:00](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-18-54)**
 > "...omania and teamed up with the Marine Corps to open up and sustain an orphanage with 75 beaut..."
 
 **[00:19:15](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-19-15)**

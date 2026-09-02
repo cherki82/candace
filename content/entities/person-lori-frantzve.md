@@ -1540,7 +1540,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2)</summary>
 
 - [00:33:59](/episodes/ep-5-HUyv9LyMg.md#t-00-33-59) (Claim) **Candace Owens**: ["Terrell Farnsworth's father, uncles, and cousins had a relationship wi..."](/statements/statement-a7e9db718e2d.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 - [00:42:56](/episodes/ep-5-HUyv9LyMg.md#t-00-42-56) (Accusation) **Candace Owens**: ["Turning Point Action, which is run by Tyler Bowyer, sends money back t..."](/statements/statement-f8cc12a702c2.md)
   - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)
@@ -1840,7 +1840,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
   - Also about: [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md), [Romanian Angels Project](/entities/org-romanian-angels-project.md), [Romania](/entities/gpe-romania.md)
 
 - [00:12:01](/episodes/ep-wcD2khO3rOA.md#t-00-11-27) (Claim) **Candace Owens**: ["There are no reports that Erika Kirk or Lori Frantzve participated in ..."](/statements/statement-b59d7472db95.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Otto Busher III](/entities/person-otto-busher-iii.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Otto A. Busher III](/entities/person-otto-a-busher-iii.md)
 
 </details>
 

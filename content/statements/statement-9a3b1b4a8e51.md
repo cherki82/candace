@@ -21,7 +21,7 @@ type: "citation"
 ## About
 
 - [Bill Ackman](/entities/person-bill-ackman.md) (person)
-- [Robert Shillman](/entities/person-robert-shillman.md) (person)
+- [Robert J. Shillman](/entities/person-robert-j-shillman.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source

@@ -1,6 +1,6 @@
 ---
 title: "Obsessed with Sports Rights (channel commenter; identity unverified)"
-description: "Obsessed with Sports Rights (channel commenter; identity unverified) (Anonymous Sources) - 1 mention"
+description: "Obsessed with Sports Rights (channel commenter; identity unverified) (Anonymous Sources) - 2 mentions"
 id: "anon-src-iHav0PPzUz8-009"
 type: "ANONYMOUS_SOURCE"
 ---
@@ -9,9 +9,9 @@ _Type: Anonymous Sources_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#t-00-55-25">2025-10-30 · 00:55:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#t-00-55-25">2025-10-30 · 00:55:54</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#t-00-50-52">2025-11-18 · 00:50:52</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -23,12 +23,14 @@ _Type: Anonymous Sources_
 <p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#t-00-55-25">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-iHav0PPzUz8.md#t-00-55-25" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#t-00-50-52" style="--pulse-height:100%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-55-25) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-50-52) | 1 |
 
 </details>
 </section>
@@ -36,7 +38,15 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
+
+**[00:50:52](/episodes/ep-581dILVcEE4.md#t-00-50-52)**
+> "Obsessed Sports Rights."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>

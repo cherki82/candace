@@ -4,10 +4,9 @@ description: "\"Candace Owens reported the alleged French Foreign Legion threat 
 statement_id: "statement-09827ba5d6e7"
 speaker: "Candace Owens"
 type: "factual_claim"
-veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -45,20 +44,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The source episode directly records Owens saying she reported the alleged Foreign Legion threat to Tulsi Gabbard's and Donald Trump's offices. This verifies her first-person report; no official acknowledgment confirming the contents was located.
-
-**Confidence:** Medium
-
-**Sources:**
-
-- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](https://www.youtube.com/watch?v=nPhCKwJ6ye8)
-
-*Verified: 2026-08-16T14:38:03.800397*
+_This statement has not yet been verified._
 
 ---
 

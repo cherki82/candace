@@ -77,7 +77,7 @@ Source: [Ace Capital Partners — Vision and Thesis](https://ace-capitalpartners
 <details>
 <summary>Based In (1)</summary>
 
-- **[Tel Aviv](/entities/gpe-tel-aviv.md)**
+- **[Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners.”
@@ -108,7 +108,7 @@ Source: [Ace Capital Partners — Vision and Thesis](https://ace-capitalpartners
 
 </details>
 
-- **[Tel Aviv](/entities/gpe-tel-aviv.md)** location of this
+- **[Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners.”

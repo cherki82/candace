@@ -29,7 +29,7 @@ Source: [The Protecting Mrs. Kirk Network](https://www.crowdnews.us/the-protecti
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -46,6 +46,10 @@ Source: [The Protecting Mrs. Kirk Network](https://www.crowdnews.us/the-protecti
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -99,7 +103,7 @@ Source: [The Protecting Mrs. Kirk Network](https://www.crowdnews.us/the-protecti
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
 
-- [00:19:12](/episodes/ep-ChuWo-n49B8.md#t-00-19-01) [✓] (Accusation) ["Shady Lady Katie wrote that some group-chat members coordinated, shared informat..."](/statements/statement-77e9ed3d36d5.md)
+- [00:19:12](/episodes/ep-ChuWo-n49B8.md#t-00-19-01) [○] (Accusation) ["Shady Lady Katie wrote that some group-chat members coordinated, shared informat..."](/statements/statement-77e9ed3d36d5.md)
   - About: [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

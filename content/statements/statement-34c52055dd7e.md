@@ -22,7 +22,7 @@ type: "factual_claim"
 
 - [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md) (person)
 - [Donald J. Trump](/entities/person-donald-trump.md) (person)
-- [Corey Comparatore](/entities/person-corey-comparatore.md) (person)
+- [Corey Comperatore](/entities/person-corey-comperatore.md) (person)
 
 ## Source
 

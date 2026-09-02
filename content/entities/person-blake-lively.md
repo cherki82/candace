@@ -1,6 +1,6 @@
 ---
 title: "Blake Lively"
-description: "Blake Lively (People) - 49 mentions"
+description: "Blake Lively (People) - 51 mentions"
 id: "person-blake-lively"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32">2025-10-28 · 00:45:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-lively-t-00-47-14">2026-08-31 · 00:47:30</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-lively-t-00-44-36">2026-09-01 · 00:44:43</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -47,6 +47,7 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-blake-lively-t-00-38-00" style="--pulse-height:20%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-blake-lively-t-00-21-00" style="--pulse-height:20%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-lively-t-00-14-29" style="--pulse-height:80%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 8 mentions" title="2026-08-31 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-lively-t-00-44-36" style="--pulse-height:10%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-blake-lively-t-00-38-00) | 2 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-blake-lively-t-00-21-00) | 2 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-lively-t-00-14-29) | 8 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-lively-t-00-44-36) | 1 |
 
 </details>
 </section>
@@ -75,7 +77,15 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:44:43](/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-lively-t-00-44-36)**
+> "Behind the scenes on Blake Lively, which I absolutely was not. But when she subpoenaed it, she said, I want your messages."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (8 mentions)</summary>
@@ -343,12 +353,13 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-42): “looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:54:26](/episodes/ep-uC_GjKU8rs8.md#t-00-54-26): “just complete i mean there was nothing left there was nothing left and she was pompous and she was arrogant and she was connected but we're living a different time truth wins and trying to humiliate him saying he sexually assaulted her or sexually harassed her whatever it was doing that as a pr move to destroy his family destroying his family with those sorts of”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:38:26](/episodes/ep-puuMVxEu5NU.md#t-00-38-00): “This is the story of Turning Point USA, the story of Blake Lively. We're too big to fail. ... And all of these people are failing because we live in a new age.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:14:52](/episodes/ep-JrhGEm8MGRY.md#t-00-14-29): “And I'll be frank with you guys, because way back when I was interning for Glamour magazine, Blake Lively had the she had the front cover and the person I was working for worked on the shoot and she said Blake Lively was awful. It was like her least favorite person to work with. So I wasn't passing this. It wasn't passing the sniff test.”
+- [I Met My Cousin In Iceland... @ 00:01:24](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56): “And truly, I told him I just remember that Blake Lively was awful and I wasn't buying this victim act.”
 
 </details>
 
@@ -358,21 +369,10 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 <summary>Friend Of (1)</summary>
 
 - **[Taylor Swift](/entities/person-taylor-swift.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:53:50](/episodes/ep-uC_GjKU8rs8.md#t-00-53-45): “and it was evil and it was somebody using their power and their connections to try to destroy someone not based on principle but because you can because you have access because you have resources because you are WME because Taylor Swift is your best friend because you are your husband is a part of the Marvel universe so I am very happy for Justin Baldoni congratulations I know that settlement means”
-
-</details>
-
-</details>
-
-<details>
-<summary>Married To (1)</summary>
-
-- **[Ryan Reynolds](/entities/person-ryan-reynolds.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:16:05](/episodes/ep-JrhGEm8MGRY.md#t-00-15-40): “Her husband is Ryan Reynolds, who is apparently a routine psychopath who has been cosplaying a superhero throughout the Marvel movies.”
+- [I Met My Cousin In Iceland... @ 00:01:41](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56): “And I've been following Taylor Swift and I know how she moves and I knew that. I knew that friendship was going to be over.”
 
 </details>
 
@@ -418,27 +418,30 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-42): “looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:54:26](/episodes/ep-uC_GjKU8rs8.md#t-00-54-26): “just complete i mean there was nothing left there was nothing left and she was pompous and she was arrogant and she was connected but we're living a different time truth wins and trying to humiliate him saying he sexually assaulted her or sexually harassed her whatever it was doing that as a pr move to destroy his family destroying his family with those sorts of”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:38:26](/episodes/ep-puuMVxEu5NU.md#t-00-38-00): “This is the story of Turning Point USA, the story of Blake Lively. We're too big to fail. ... And all of these people are failing because we live in a new age.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:14:52](/episodes/ep-JrhGEm8MGRY.md#t-00-14-29): “And I'll be frank with you guys, because way back when I was interning for Glamour magazine, Blake Lively had the she had the front cover and the person I was working for worked on the shoot and she said Blake Lively was awful. It was like her least favorite person to work with. So I wasn't passing this. It wasn't passing the sniff test.”
+- [I Met My Cousin In Iceland... @ 00:01:24](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56): “And truly, I told him I just remember that Blake Lively was awful and I wasn't buying this victim act.”
 
 </details>
 
 - **[Taylor Swift](/entities/person-taylor-swift.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:53:50](/episodes/ep-uC_GjKU8rs8.md#t-00-53-45): “and it was evil and it was somebody using their power and their connections to try to destroy someone not based on principle but because you can because you have access because you have resources because you are WME because Taylor Swift is your best friend because you are your husband is a part of the Marvel universe so I am very happy for Justin Baldoni congratulations I know that settlement means”
+- [I Met My Cousin In Iceland... @ 00:01:41](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56): “And I've been following Taylor Swift and I know how she moves and I knew that. I knew that friendship was going to be over.”
 
 </details>
 
 - **[Ryan Reynolds](/entities/person-ryan-reynolds.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:46:44](/episodes/ep-eMtjzXkQrsU.md#t-00-46-44): “watching evil her and ryan reynolds her husband had kind of climbed the ranks and i graduated to a class of taylor swift is our best friend”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:58:33](/episodes/ep-k1b1NDCrNFs.md#t-00-58-21): “Dimwit writes, Blake Lively is a true influencer. She influenced me to never watch any movie she's in ever. ... they'll be rich for the rest of their lives i think quietly retiring and doing some charity and raising their children totally works for me i don't wish any bad on them but it was hard to read through what they did to justin baldoni out of sport her and her husband just out of sheer sport i definitely don't ever want to see ryan reynolds ever again though i i almost the bullying that he put him through was just unbelievable just so pompous and so arrogant more comments from today Today's episode, sorry,”
+- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:16:05](/episodes/ep-JrhGEm8MGRY.md#t-00-15-40): “Her husband is Ryan Reynolds, who is apparently a routine psychopath who has been cosplaying a superhero throughout the Marvel movies.”
 
 </details>
 
@@ -483,7 +486,17 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Lively (12)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Lively (14)</strong></summary>
+
+<details>
+<summary>I Met My Cousin In Iceland... (2)</summary>
+
+- [00:01:24](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56) (Opinion) **Candace Owens**: ["Owens said she regarded Blake Lively as awful and did not believe her ..."](/statements/statement-cc4d0a85bb6f.md)
+
+- [00:01:41](/episodes/ep-wntKnFzh9Gs.md#t-00-01-41) (Opinion) **Candace Owens**: ["Owens recalled believing that Blake Lively and Taylor Swift’s friendsh..."](/statements/statement-05dc0c45df84.md)
+  - Also about: [Taylor Swift](/entities/person-taylor-swift.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (5)</summary>

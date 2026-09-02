@@ -1,6 +1,6 @@
 ---
 title: "Marissa Streit"
-description: "Marissa Streit (People) - 20 mentions"
+description: "Marissa Streit (People) - 22 mentions"
 id: "person-marissa-streit"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02">2025-09-25 · 00:08:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-marissa-streit-t-00-11-12">2026-07-23 · 00:11:45</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-marissa-streit-t-00-06-52">2026-09-01 · 00:07:03</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-marissa-streit-t-00-13-21" style="--pulse-height:25%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-marissa-streit-t-00-22-49" style="--pulse-height:25%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-marissa-streit-t-00-11-12" style="--pulse-height:50%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-marissa-streit-t-00-06-52" style="--pulse-height:50%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-marissa-streit-t-00-13-21) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-marissa-streit-t-00-22-49) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-marissa-streit-t-00-11-12) | 2 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-marissa-streit-t-00-06-52) | 2 |
 
 </details>
 </section>
@@ -67,7 +69,18 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>
+
+**[00:06:52](/episodes/ep-ZkDO-MRLUco.md#ent-person-marissa-streit-t-00-06-52)**
+> "I will add that the first that I heard of Pastor Jack Hibbs, it was via Marissa Streit, the Mossad agent turned CEO of PragerU. She was in Unit 8200."
+
+**[00:07:03](/episodes/ep-ZkDO-MRLUco.md#ent-person-marissa-streit-t-00-06-52)**
+> "...) uh Jack Hibbs from Marissa (Marissa Streit) It is also a fact that the same family who funds..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -195,9 +208,10 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 <summary>Ceo Of (1)</summary>
 
 - **[PragerU](/entities/org-prageru.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:20:55](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40): “Marissa Streit, the CEO, has never shied from telling people”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:06:52](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52): “I will add that the first that I heard of Pastor Jack Hibbs, it was via Marissa Streit, the Mossad agent turned CEO of PragerU. She was in Unit 8200.”
 
 </details>
 
@@ -207,9 +221,10 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:11:32](/episodes/ep-amqTMimDr0A.md#t-00-11-12): “I came back and I said, also Marissa (Marissa Streit), and I was referring to Marissa Streit of Prager University is involved.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:06:52](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52): “I will add that the first that I heard of Pastor Jack Hibbs, it was via Marissa Streit, the Mossad agent turned CEO of PragerU. She was in Unit 8200.”
 
 </details>
 
@@ -294,9 +309,10 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 <summary>Referenced By (8)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:11:32](/episodes/ep-amqTMimDr0A.md#t-00-11-12): “I came back and I said, also Marissa (Marissa Streit), and I was referring to Marissa Streit of Prager University is involved.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:06:52](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52): “I will add that the first that I heard of Pastor Jack Hibbs, it was via Marissa Streit, the Mossad agent turned CEO of PragerU. She was in Unit 8200.”
 
 </details>
 
@@ -332,9 +348,10 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 </details>
 
 - **[PragerU](/entities/org-prageru.md)** has CEO this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:20:55](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40): “Marissa Streit, the CEO, has never shied from telling people”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:06:52](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52): “I will add that the first that I heard of Pastor Jack Hibbs, it was via Marissa Streit, the Mossad agent turned CEO of PragerU. She was in Unit 8200.”
 
 </details>
 
@@ -357,7 +374,18 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Marissa Streit (6)</strong></summary>
+<summary><strong class="section-title">Statements about Marissa Streit (8)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2)</summary>
+
+- [00:06:52](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52) (Accusation) **Candace Owens**: ["Owens described PragerU CEO Marissa Streit as a former Mossad agent an..."](/statements/statement-5e732bb3ce2b.md)
+  - Also about: [Mossad](/entities/org-mossad.md), [Unit 8200](/entities/org-unit-8200.md), [PragerU](/entities/org-prageru.md)
+
+- [00:07:03](/episodes/ep-ZkDO-MRLUco.md#t-00-06-52) (Claim) **Candace Owens**: ["Owens said she first heard about Jack Hibbs when Marissa Streit sugges..."](/statements/statement-5c95a1bd0611.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Jack Hibbs](/entities/person-jack-hibbs.md), [PragerU](/entities/org-prageru.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>

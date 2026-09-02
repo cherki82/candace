@@ -1,6 +1,6 @@
 ---
 title: "FaceTime"
-description: "FaceTime (Works & Media) - 29 mentions"
+description: "FaceTime (Works & Media) - 36 mentions"
 id: "work-facetime"
 type: "WORK"
 categories:
@@ -18,9 +18,9 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-work-facetime-t-00-10-30">2025-09-19 · 00:10:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-facetime-t-00-07-52">2026-08-17 · 00:08:17</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-work-facetime-t-00-23-16">2026-09-01 · 00:23:50</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,21 +29,22 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-h76ZN-xXC6c.md#ent-work-facetime-t-00-35-43">The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZkDO-MRLUco.md#ent-work-facetime-t-00-14-20">BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-work-facetime-t-00-10-30" style="--pulse-height:17%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-work-facetime-t-00-18-48" style="--pulse-height:17%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#ent-work-facetime-t-00-06-43" style="--pulse-height:50%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 3 mentions" title="2026-03-31 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-facetime-t-00-02-39" style="--pulse-height:50%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-work-facetime-t-00-11-43" style="--pulse-height:17%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-work-facetime-t-00-34-26" style="--pulse-height:17%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-h76ZN-xXC6c.md#ent-work-facetime-t-00-35-43" style="--pulse-height:100%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 6 mentions" title="2026-06-16 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-work-facetime-t-00-41-24" style="--pulse-height:17%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-work-facetime-t-01-03-52" style="--pulse-height:33%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-work-facetime-t-00-47-56" style="--pulse-height:33%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-work-facetime-t-00-52-27" style="--pulse-height:17%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-facetime-t-00-36-11" style="--pulse-height:83%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 5 mentions" title="2026-07-16 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-facetime-t-00-07-52" style="--pulse-height:17%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-work-facetime-t-00-10-30" style="--pulse-height:14%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-work-facetime-t-00-18-48" style="--pulse-height:14%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-work-facetime-t-00-06-43" style="--pulse-height:43%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 3 mentions" title="2026-03-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-facetime-t-00-02-39" style="--pulse-height:43%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-work-facetime-t-00-11-43" style="--pulse-height:14%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-work-facetime-t-00-34-26" style="--pulse-height:14%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-work-facetime-t-00-35-43" style="--pulse-height:86%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 6 mentions" title="2026-06-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-work-facetime-t-00-41-24" style="--pulse-height:14%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-work-facetime-t-01-03-52" style="--pulse-height:29%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-work-facetime-t-00-47-56" style="--pulse-height:29%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-work-facetime-t-00-52-27" style="--pulse-height:14%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-facetime-t-00-36-11" style="--pulse-height:71%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 5 mentions" title="2026-07-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-facetime-t-00-07-52" style="--pulse-height:14%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-work-facetime-t-00-14-20" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 7 mentions" title="2026-09-01 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-work-facetime-t-00-52-27) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-work-facetime-t-00-36-11) | 5 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-work-facetime-t-00-07-52) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-work-facetime-t-00-14-20) | 7 |
 
 </details>
 </section>
@@ -73,7 +75,33 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (7 mentions)</summary>
+
+**[00:14:20](/episodes/ep-ZkDO-MRLUco.md#ent-work-facetime-t-00-14-20)**
+> "Okay. Now, it remains somewhat unclear to me whether Jack (Jack Hibbs) spoke to his brother Butch (Burton Hibbs) before or after he has a FaceTime session with Frank Turek from the hospital. Yes, Frank Turek manages to FaceTime Jack (Jack Hibbs) from Timpanogos."
+
+**[00:16:57](/episodes/ep-ZkDO-MRLUco.md#ent-work-facetime-t-00-16-43)**
+> "...our call came in, which was a FaceTime call."
+
+**[00:18:38](/episodes/ep-ZkDO-MRLUco.md#ent-work-facetime-t-00-18-21)**
+> "So they got this FaceTime prayer chain going about 1230."
+
+**[00:18:43](/episodes/ep-ZkDO-MRLUco.md#ent-work-facetime-t-00-18-21)**
+> "...n in seven minutes to be on a FaceTime prayer chain, right?"
+
+**[00:18:53](/episodes/ep-ZkDO-MRLUco.md#ent-work-facetime-t-00-18-21)**
+> "...ank Turek was fine to start a FaceTime call from the emergency room amidst all of that c..."
+
+**[00:19:21](/episodes/ep-ZkDO-MRLUco.md#ent-work-facetime-t-00-19-05)**
+> "Starting a FaceTime call with Jack Hibbs. What do I know? That's just..."
+
+**[00:23:50](/episodes/ep-ZkDO-MRLUco.md#ent-work-facetime-t-00-23-16)**
+> "I mean, look, maybe he's on FaceTime. I'll throw that in there too. Maybe he's FaceTim..."
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>

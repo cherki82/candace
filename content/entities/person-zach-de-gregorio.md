@@ -21,7 +21,7 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-zach-de-gregorio-t-00-20-06">2026-01-19 · 00:20:46</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
@@ -110,7 +110,7 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Zach De Gregorio (3)</strong></summary>
+<summary><strong class="section-title">Statements by Zach De Gregorio (5)</strong></summary>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (3)</summary>
@@ -123,6 +123,17 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 
 - [00:28:33](/episodes/ep-NIEbqsLAK8g.md#t-00-28-10) [○] (Opinion) ["Zach De Gregorio did not believe Turning Point USA's drone explanation and said ..."](/statements/statement-c0eb78a2bbe7.md)
   - About: [Zach De Gregorio](/entities/person-zach-de-gregorio.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2)</summary>
+
+- [00:34:50](/episodes/ep-JQjCAsfoXEE.md#t-00-34-07) [○] (Claim) ["The Form 990 for fiscal year 2024 is missing for three of Turning Point USA's fo..."](/statements/statement-6831b4cf33cf.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:40:18](/episodes/ep-JQjCAsfoXEE.md#t-00-40-12) [○] (Accusation) ["I think there are fake people on the payroll at America's Turning Point, paychec..."](/statements/statement-55019ede2600.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

@@ -37,8 +37,8 @@ type: "accusation"
 ### 2. Candace Owens vs Andrew Wilson: The Great Debate.
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
-**Timestamp:** [01:27:24](/episodes/ep-aPOyk1i2LOc.md#t-01-26-52) 
-<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=5244s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+**Timestamp:** [01:27:30](/episodes/ep-aPOyk1i2LOc.md#t-01-27-30) 
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=5250s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > He was involved somehow. I find Lance to be more suspicious, if I'm being honest with you.
 

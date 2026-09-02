@@ -36,10 +36,10 @@ type: "accusation"
 ### 2. Candace Owens vs Andrew Wilson: The Great Debate.
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
-**Timestamp:** [00:00:06](/episodes/ep-aPOyk1i2LOc.md#t-00-00-01) 
-<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=6s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+**Timestamp:** [02:14:07](/episodes/ep-aPOyk1i2LOc.md#t-02-14-07) 
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=8047s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> Candace, Andrew, you know, good to sit down here with you talking to you guys about the conversation ... Yeah, I just think it kind of shows that turning point is sending you as their horse.
+> Yeah, I just think it kind of shows that turning point is sending you as their horse.
 
 ## Verification
 

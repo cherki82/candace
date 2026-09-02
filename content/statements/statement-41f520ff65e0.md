@@ -23,7 +23,7 @@ veracity: "mixed"
 
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Lance Twiggs](/entities/person-lance-twiggs.md) (person)
-- [Tel Aviv](/entities/gpe-tel-aviv.md) (gpe)
+- [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md) (gpe)
 
 ## Source
 

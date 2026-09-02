@@ -1,6 +1,6 @@
 ---
 title: "Discord"
-description: "Discord (Organizations) - 47 mentions"
+description: "Discord (Organizations) - 51 mentions"
 id: "org-discord"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Discord — About Discord](https://discord.com/company)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44">2025-09-15 · 00:52:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-48-55">2026-08-14 · 01:48:55</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-discord-t-00-45-23">2026-09-01 · 00:45:41</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -51,6 +51,7 @@ Source: [Discord — About Discord](https://discord.com/company)
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-discord-t-00-02-45" style="--pulse-height:100%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 8 mentions" title="2026-07-31 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-discord-t-00-25-14" style="--pulse-height:12%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-discord-t-00-43-55" style="--pulse-height:50%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +73,7 @@ Source: [Discord — About Discord](https://discord.com/company)
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-discord-t-00-02-45) | 8 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-discord-t-00-25-14) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20) | 2 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-discord-t-00-43-55) | 4 |
 
 </details>
 </section>
@@ -83,7 +85,24 @@ Source: [Discord — About Discord](https://discord.com/company)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>
+
+**[00:44:21](/episodes/ep-ZkDO-MRLUco.md#ent-org-discord-t-00-43-55)**
+> "That is true. They handed over, as just one example, over 1 million Discord messages. Just so you guys understand, that is a strategy."
+
+**[00:44:55](/episodes/ep-ZkDO-MRLUco.md#ent-org-discord-t-00-44-36)**
+> "...1 million messages, 1 million Discord messages."
+
+**[00:45:23](/episodes/ep-ZkDO-MRLUco.md#ent-org-discord-t-00-45-23)**
+> "12.1 terabytes. One million Discord messages alone. What are the other numbers? It's ..."
+
+**[00:45:41](/episodes/ep-ZkDO-MRLUco.md#ent-org-discord-t-00-45-23)**
+> "...going to give you everybody's Discord messages since the year, since Discord was formed..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -329,7 +348,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Discord (4)</strong></summary>
+<summary><strong class="section-title">Statements about Discord (5)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:44:11](/episodes/ep-ZkDO-MRLUco.md#t-00-43-55) (Claim) **Candace Owens**: ["Owens said the defense received 12.1 terabytes of material, including ..."](/statements/statement-233807fb8f6b.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>

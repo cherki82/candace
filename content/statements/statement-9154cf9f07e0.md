@@ -1,8 +1,8 @@
 ---
 title: "Eyal Yakobi tweeted that releasing the rental license plates..."
-description: "\"Eyal Yakobi tweeted that releasing the rental license plates constitutes doxing and is dangerous\" — Eyal Yakobi"
+description: "\"Eyal Yakobi tweeted that releasing the rental license plates constitutes doxing and is dangerous\" — Eyal Yakoby"
 statement_id: "statement-9154cf9f07e0"
-speaker: "Eyal Yakobi"
+speaker: "Eyal Yakoby"
 type: "opinion"
 ---
 
@@ -14,7 +14,7 @@ type: "opinion"
 
 ## Attribution
 
-**Speaker:** [Eyal Yakobi](/entities/person-eyal-yakobi.md) (Quoted)
+**Speaker:** [Eyal Yakoby](/entities/person-eyal-yakoby.md) (Quoted)
 
 **Delivery:** Quoted from tweet
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

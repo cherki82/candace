@@ -250,7 +250,7 @@ _No relationships extracted yet._
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (7)</summary>
 
 - [00:21:29](/episodes/ep-QZWSsq8ZWzw.md#t-00-21-12) (Claim) **Candace Owens**: ["On July 13, 2024, a 20-year-old Thomas Matthew Crooks climbed onto a r..."](/statements/statement-34c52055dd7e.md)
-  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Corey Comparatore](/entities/person-corey-comparatore.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Corey Comperatore](/entities/person-corey-comperatore.md)
 
 - [00:21:54](/episodes/ep-QZWSsq8ZWzw.md#t-00-21-12) (Accusation) **Anonymous Source #2 (Ep QZWSsq8ZWzw)** (via read message): ["Someone reached out to Candace saying they had scraped everything abou..."](/statements/statement-4189d687007f.md)
   - Also about: [FBI](/entities/org-fbi.md)

@@ -4,10 +4,9 @@ description: "\"Owens said she and others had a sense that the state murdered Ch
 statement_id: "statement-19b76f096b36"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -36,20 +35,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The primary episode directly records Owens saying that she and others sensed the state murdered Charlie Kirk, that it must have had Donald Trump's permission, and that Israel was involved. Veracity is strictly limited to Owens having voiced those allegations; no current authoritative evidence reviewed substantiates them.
-
-**Confidence:** High
-
-**Sources:**
-
-- [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdown | Ep 372](https://www.youtube.com/watch?v=ChuWo-n49B8)
-
-*Verified: 2026-08-28T04:12:47.290113*
+_This statement has not yet been verified._
 
 ---
 

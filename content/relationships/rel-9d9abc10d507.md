@@ -1,15 +1,15 @@
 ---
-title: "Fort Huachuca location of Candlewood Suites"
-description: "Evidence for the relationship: Fort Huachuca location of Candlewood Suites"
+title: "Fort Huachuca location of Candlewood Suites Building 44420"
+description: "Evidence for the relationship: Fort Huachuca location of Candlewood Suites Building 44420"
 relationship_id: "rel-9d9abc10d507"
 subject: "gpe-fort-huachuca"
 predicate: "location of"
-object: "org-candlewood-suites"
+object: "gpe-candlewood-suites-fort-huachuca"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Fort Huachuca](/entities/gpe-fort-huachuca) location of [Candlewood Suites](/entities/org-candlewood-suites)
+## [Fort Huachuca](/entities/gpe-fort-huachuca) location of [Candlewood Suites Building 44420](/entities/gpe-candlewood-suites-fort-huachuca)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "org-candlewood-suites"
 ### Related
 
 - [Fort Huachuca](/entities/gpe-fort-huachuca)
-- [Candlewood Suites](/entities/org-candlewood-suites)
+- [Candlewood Suites Building 44420](/entities/gpe-candlewood-suites-fort-huachuca)

@@ -4,10 +4,9 @@ description: "\"Candace Owens reported that Matt Robinson suspected federal agen
 statement_id: "statement-94404f89c306"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -35,20 +34,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-Wider transcript context at 23:55-24:32 and the primary recording confirm Owens reported that Matt Robinson found a dog bed in Tyler's room and suspected federal staging. This verifies the carefully framed fact that Owens reported the accusation; no public statement from Matt Robinson or official room inventory was found to establish the underlying allegation.
-
-**Confidence:** Medium
-
-**Sources:**
-
-- [A Shocking Truth Revealed In The 4K Footage... | Ep 373](https://rumble.com/v7dto7u-a-shocking-truth-revealed-in-the-4k-footage.-beavis-and-butt-head-send-a-me.html)
-
-*Verified: 2026-08-28T05:43:22.742366*
+_This statement has not yet been verified._
 
 ---
 

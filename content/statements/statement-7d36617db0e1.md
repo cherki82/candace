@@ -1,6 +1,6 @@
 ---
-title: "After rewatching the testimony, Candace Owens corrected her ..."
-description: "\"After rewatching the testimony, Candace Owens corrected her earlier claim: only Matt Robinson was explicitly identified as having DNA on the rifle, no...\" — Candace Owens"
+title: "After rewatching the testimony, Owens corrected her inferenc..."
+description: "\"After rewatching the testimony, Owens corrected her inference that Lance Twiggs and Amber Robinson had been identified on the rifle: among the three a...\" — Candace Owens"
 statement_id: "statement-7d36617db0e1"
 speaker: "Candace Owens"
 type: "citation"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> After rewatching the testimony, Candace Owens corrected her earlier claim: only Matt Robinson was explicitly identified as having DNA on the rifle, not Lance Twiggs or Amber Robinson.
+> After rewatching the testimony, Owens corrected her inference that Lance Twiggs and Amber Robinson had been identified on the rifle: among the three additional people she had named, only Matt Robinson was explicitly identified; she said Twiggs's presence remained unknown.
 
 ## Attribution
 
@@ -39,10 +39,10 @@ veracity: "true"
 ### 2. Candace Owens vs Andrew Wilson: The Great Debate.
 
 **Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
-**Timestamp:** [02:33:52](/episodes/ep-aPOyk1i2LOc.md#t-02-33-40) 
-<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=9232s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+**Timestamp:** [02:35:10](/episodes/ep-aPOyk1i2LOc.md#t-02-35-05) 
+<a href="https://www.youtube.com/watch?v=aPOyk1i2LOc&t=9310s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
-> explaining how they got the samples and they said Lance, Matt and Amber, sorry, Lance, Matt and Amber Robinson, how they got their DNA samples. ... I think I wrongly extrapolated that they meant all three of them were on the print when the only person they officially named was Matt Robinson.
+> I had to rewatch the testimony again. It's like nine hours a day. It got very scientific when they were speaking about this. And I think I wrongly extrapolated that they meant all three of them were on the print when the only person they officially named was Matt Robinson. ... So we don't know yet if Lance Twiggs has his DNA on the print, DNA on the gun officially just yet.
 
 ### 3. Behind The Scenes Of The Great Debate: TPUSA Is The Biggest ...
 

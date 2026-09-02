@@ -1,17 +1,16 @@
 ---
-title: "Owens alleged that people working at Turning Point USA said ..."
-description: "\"Owens alleged that people working at Turning Point USA said they worked behind the scenes with the same public-relations agents, and that crisis firms...\" — Candace Owens"
+title: "Owens alleged that the same public-relations agents and cris..."
+description: "\"Owens alleged that the same public-relations agents and crisis firms working behind the scenes in Hollywood were now working with Turning Point USA an...\" — Candace Owens"
 statement_id: "statement-7ac83ca3b538"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
-> Owens alleged that people working at Turning Point USA said they worked behind the scenes with the same public-relations agents, and that crisis firms that had employed Hollywood were now employing groups like Turning Point USA and influencers targeting children
+> Owens alleged that the same public-relations agents and crisis firms working behind the scenes in Hollywood were now working with Turning Point USA and influencers she accused of targeting children.
 
 ## Attribution
 
@@ -34,20 +33,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The primary episode directly records Owens alleging that people working at Turning Point USA said they worked with the same public-relations agents and crisis firms formerly used by Hollywood, and that those firms were employing Turning Point USA-linked groups and influencers. Veracity is limited to Owens having made the allegation; no reliable independent source reviewed established the claimed arrangements.
-
-**Confidence:** High
-
-**Sources:**
-
-- [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdown | Ep 372](https://www.youtube.com/watch?v=ChuWo-n49B8)
-
-*Verified: 2026-08-28T04:12:47.290128*
+_This statement has not yet been verified._
 
 ---
 

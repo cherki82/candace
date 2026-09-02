@@ -1,21 +1,25 @@
 ---
-title: "Terrell Farnsworth works for Turning Point USA"
-description: "Evidence for the relationship: Terrell Farnsworth works for Turning Point USA"
+title: "Terryl Farnsworth works for Turning Point USA"
+description: "Evidence for the relationship: Terryl Farnsworth works for Turning Point USA"
 relationship_id: "rel-2fe944d16c6a"
-subject: "person-terrell-farnsworth"
+subject: "person-terryl-farnsworth"
 predicate: "works for"
 object: "org-turning-point-usa"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Terrell Farnsworth](/entities/person-terrell-farnsworth) works for [Turning Point USA](/entities/org-turning-point-usa)
+## [Terryl Farnsworth](/entities/person-terryl-farnsworth) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
 
 - [00:01:57](/episodes/ep-4JxgOclKzqg#t-00-01-57): _I would offer that it was when Terrell Farnsworth, Turning Point USA's audio and visual lead, he runs Visual Impulse, was seen taking..._
+
+**[A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0)**
+
+- [00:27:01](/episodes/ep-G3zdOeHpvS0#t-00-27-01): _Taryl Farnsworth, the CEO of Visual Impulse, longtime audio and visual guy for Charlie (Charlie Kirk) and Turning Point USA_
 
 **[Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE)**
 
@@ -27,5 +31,5 @@ object: "org-turning-point-usa"
 
 ### Related
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth)
 - [Turning Point USA](/entities/org-turning-point-usa)

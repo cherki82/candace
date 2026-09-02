@@ -26,8 +26,8 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <div><span>Episodes</span><strong>38</strong></div>
 <div><span>Mentions</span><strong>105</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>50</strong></div>
-<div><span>Relationships</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>51</strong></div>
+<div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -682,7 +682,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Formerly Worked For (3)</summary>
+<summary>Formerly Worked For (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -691,16 +691,10 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 </details>
 
-- **[Schaefer Security](/entities/org-schaefer-security.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+- **[Shaffer Security Group](/entities/org-shaffer-security-group.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-57): “It was Schaefer Security, where Dan Flood came out of, and Brian Harpole.”
-
-</details>
-
-- **[Shaffer Security Group](/entities/org-shaffer-security-group.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
 
 </details>
@@ -746,7 +740,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -785,16 +779,10 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 </details>
 
-- **[Schaefer Security](/entities/org-schaefer-security.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+- **[Shaffer Security Group](/entities/org-shaffer-security-group.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-57): “It was Schaefer Security, where Dan Flood came out of, and Brian Harpole.”
-
-</details>
-
-- **[Shaffer Security Group](/entities/org-shaffer-security-group.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:46:40](/episodes/ep-es7PWdFGoFI.md#t-00-46-13): “We went our separate ways early, but actually back there was like, it's obviously been publicized before he had Schaeffer security and Schaeffer security, which was run by Greg Schaeffer, who has issued a public statement. They had Dan (Dan Flood) and Brian Harpole working for them.”
 
 </details>
@@ -832,7 +820,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Flood (50)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Flood (51)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -843,10 +831,13 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (2)</summary>
 
-- [00:24:24](/episodes/ep-ChuWo-n49B8.md#t-00-24-12) (Claim) **Candace Owens**: ["Video showed Nate Walker with his bag around 12:15; when the explosive..."](/statements/statement-295c26ed081f.md)
+- [00:24:24](/episodes/ep-ChuWo-n49B8.md#t-00-24-12) (Claim) **Candace Owens**: ["Owens said footage showed Nate Walker carrying a bag and speaking with..."](/statements/statement-295c26ed081f.md)
   - Also about: [Nate Walker](/entities/person-nate-walker.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:25:53](/episodes/ep-ChuWo-n49B8.md#t-00-25-38) (Opinion) **Candace Owens**: ["Owens allowed that Nate Walker might have gone upstairs because Dan Fl..."](/statements/statement-a6f1460f196a.md)
+  - Also about: [Nate Walker](/entities/person-nate-walker.md)
 
 </details>
 
@@ -1059,7 +1050,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
 
 - [00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-57) (Claim) **Candace Owens**: ["Candace Owens said Schaefer Security provided Charlie Kirk's travel se..."](/statements/statement-e858de21dbac.md)
-  - Also about: [Schaefer Security](/entities/org-schaefer-security.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+  - Also about: [Shaffer Security Group](/entities/org-shaffer-security-group.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

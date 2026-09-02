@@ -1,6 +1,6 @@
 ---
 title: "Lance Twiggs"
-description: "Lance Twiggs (People) - 266 mentions"
+description: "Lance Twiggs (People) - 270 mentions"
 id: "person-lance-twiggs"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-44">2025-09-16 · 00:00:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-lance-twiggs-t-01-07-02">2026-08-21 · 01:07:02</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>266</strong></div>
-<div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>67</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-lance-twiggs-t-00-38-00">2026-09-01 · 00:38:00</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>270</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>79</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -64,6 +64,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-lance-twiggs-t-00-22-24" style="--pulse-height:91%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 32 mentions" title="2026-08-14 · 32 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-lance-twiggs-t-00-40-33" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-lance-twiggs-t-01-01-31" style="--pulse-height:14%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 5 mentions" title="2026-08-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-lance-twiggs-t-00-31-39" style="--pulse-height:11%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -98,6 +99,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-lance-twiggs-t-00-22-24) | 32 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-lance-twiggs-t-00-40-33) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-lance-twiggs-t-01-01-31) | 5 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-lance-twiggs-t-00-31-39) | 4 |
 
 </details>
 </section>
@@ -109,7 +111,24 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (266)</strong></summary>
+<summary><strong class="section-title">Raw mentions (270)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>
+
+**[00:32:02](/episodes/ep-ZkDO-MRLUco.md#ent-person-lance-twiggs-t-00-31-39)**
+> "Reliable hearsay is permitted at that stage. Hearsay meaning, as just one example, that's perfectly acceptable under Utah's constitution for Lance Twiggs to submit a video testimony."
+
+**[00:32:16](/episodes/ep-ZkDO-MRLUco.md#ent-person-lance-twiggs-t-00-32-16)**
+> "...s, it's probative that Lance (Lance Twiggs)'s lawyer is able to lead him in"
+
+**[00:37:43](/episodes/ep-ZkDO-MRLUco.md#ent-person-lance-twiggs-t-00-37-20)**
+> "... for allegedly texting Lance (Lance Twiggs) and saying delete this exchange. The sixth charg..."
+
+**[00:38:00](/episodes/ep-ZkDO-MRLUco.md#ent-person-lance-twiggs-t-00-38-00)**
+> "...ctually did that and directed Lance Twiggs to stay silent if police questioned him and to la..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
@@ -1152,23 +1171,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Lance Twiggs (5)</strong></summary>
-
-<details>
-<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
-
-- [00:25:59](/episodes/ep-d7VsbEIWkP8.md#t-00-25-59) [◐] (Claim) ["Lance Twiggs' reported alibi for September 10 was, 'I was sleeping.'"](/statements/statement-454e83a63156.md)
-  - About: [Lance Twiggs](/entities/person-lance-twiggs.md)
-
-</details>
-
-<details>
-<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
-
-- [00:08:10](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) [◐] (Claim) ["Lance Twiggs testified that he and Tyler Robinson had never discussed LGBTQ issu..."](/statements/statement-cfe56946f7d7.md)
-  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</details>
+<summary><strong class="section-title">Statements by Lance Twiggs (3)</strong></summary>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (3)</summary>
@@ -1187,7 +1190,18 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lance Twiggs (67)</strong></summary>
+<summary><strong class="section-title">Statements about Lance Twiggs (79)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2)</summary>
+
+- [00:31:54](/episodes/ep-ZkDO-MRLUco.md#t-00-31-39) (Claim) **Candace Owens**: ["Owens said Utah Rule of Evidence 1102 permits reliable hearsay at the ..."](/statements/statement-a303332b1566.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah Rule of Evidence 1102](/entities/law-utah-evidence-rule-1102.md), [Utah Constitution](/entities/law-utah-constitution.md)
+
+- [00:37:43](/episodes/ep-ZkDO-MRLUco.md#t-00-37-20) (Opinion) **Candace Owens** (via paraphrase): ["Owens said the defense sought dismissal of count six because allegedly..."](/statements/statement-1dc676dd0446.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -1208,8 +1222,35 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [01:58:14](/episodes/ep-nPhCKwJ6ye8.md#t-01-58-01) (Accusation) **Candace Owens**: ["Candace Owens believes Tyler Robinson was involved somehow but conside..."](/statements/statement-2683c02b1ee5.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [03:25:17](/episodes/ep-nPhCKwJ6ye8.md#t-03-25-12) (Citation) **Candace Owens**: ["After rewatching the testimony, Candace Owens corrected her earlier cl..."](/statements/statement-7d36617db0e1.md)
+- [03:25:17](/episodes/ep-nPhCKwJ6ye8.md#t-03-25-12) (Citation) **Candace Owens**: ["After rewatching the testimony, Owens corrected her inference that Lan..."](/statements/statement-7d36617db0e1.md)
   - Also about: [Matt Robinson](/entities/person-matt-robinson.md), [Amber Robinson](/entities/person-amber-robinson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2)</summary>
+
+- [00:27:12](/episodes/ep-aPOyk1i2LOc.md#t-00-27-06) (Opinion) **Candace Owens**: ["Owens allowed that Twiggs touching items shared with Robinson could ha..."](/statements/statement-1fef3e68d636.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:45:51](/episodes/ep-aPOyk1i2LOc.md#t-00-45-51) (Claim) **Candace Owens**: ["Owens claimed that use immunity meant Lance Twiggs could lie in his re..."](/statements/statement-4f19d00d6a90.md)
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (5)</summary>
+
+- [00:45:10](/episodes/ep-HGtMfbePDKk.md#t-00-45-05) (Opinion) **Candace Owens**: ["Owens expanded her possible high-socks theory from a concealed ankle t..."](/statements/statement-3dba17523920.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:45:27](/episodes/ep-HGtMfbePDKk.md#t-00-45-05) (Opinion) **Candace Owens**: ["Owens explicitly allowed that the left-handed garage figure might be s..."](/statements/statement-59be175ea746.md)
+
+- [00:48:29](/episodes/ep-HGtMfbePDKk.md#t-00-48-29) (Opinion) **Easy Hammer (commenter; identity unverified)** (via read message): ["A commenter using the name Easy Hammer proposed the possibility that T..."](/statements/statement-a22dcde8a0de.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:48:51](/episodes/ep-HGtMfbePDKk.md#t-00-48-29) (Opinion) **Candace Owens**: ["Owens speculated that Twiggs's online activities could make him vulner..."](/statements/statement-ed2e2f9e2632.md)
+
+- [00:49:22](/episodes/ep-HGtMfbePDKk.md#t-00-49-22) (Opinion) **Candace Owens**: ["Owens read Twiggs's apparent discomfort during the recorded interview ..."](/statements/statement-affe6698feb0.md)
 
 </details>
 
@@ -1224,7 +1265,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (10)</summary>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (12)</summary>
 
 - [00:20:25](/episodes/ep-d7VsbEIWkP8.md#t-00-20-00) (Accusation) **Candace Owens**: ["Candace Owens asserted that if the evidence against Tyler Robinson is ..."](/statements/statement-8577cb568432.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -1234,10 +1275,16 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [00:21:13](/episodes/ep-d7VsbEIWkP8.md#t-00-20-44) (Claim) **Candace Owens**: ["Candace Owens said the Dremel used to carve the bullets belonged to La..."](/statements/statement-42eb6b8a4a29.md)
 
-- [00:21:31](/episodes/ep-d7VsbEIWkP8.md#t-00-21-21) (Claim) **Anonymous Source #24 (Ep d7VsbEIWkP8)** (via read message): ["Unnamed family-member and schoolmate sources described Tyler Robinson ..."](/statements/statement-93a82396e059.md)
+- [00:21:31](/episodes/ep-d7VsbEIWkP8.md#t-00-21-21) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized unnamed family-member and schoolmate accounts as d..."](/statements/statement-93a82396e059.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:25:59](/episodes/ep-d7VsbEIWkP8.md#t-00-25-59) (Claim) **Lance Twiggs** (via quoted speech): ["Lance Twiggs' reported alibi for September 10 was, 'I was sleeping.'"](/statements/statement-454e83a63156.md)
+- [00:24:32](/episodes/ep-d7VsbEIWkP8.md#t-00-24-32) (Opinion) **Candace Owens**: ["Owens speculated that the dog bed she said was found in Tyler Robinson..."](/statements/statement-e9647bd2183d.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:25:21](/episodes/ep-d7VsbEIWkP8.md#t-00-25-14) (Opinion) **Candace Owens**: ["While discussing suspicion of Lance Twiggs, Owens called the fictional..."](/statements/statement-f1f11950b8e5.md)
+  - Also about: [Ashley Guajardo](/entities/person-ashley-guajardo.md)
+
+- [00:25:59](/episodes/ep-d7VsbEIWkP8.md#t-00-25-59) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Lance Twiggs's alibi for September 10 as saying he..."](/statements/statement-454e83a63156.md)
 
 - [00:26:48](/episodes/ep-d7VsbEIWkP8.md#t-00-26-39) (Accusation) **Candace Owens**: ["Candace Owens asked whether Lance Twiggs could have written and burned..."](/statements/statement-84423e35608c.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -1256,13 +1303,16 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (6)</summary>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (7)</summary>
 
 - [00:06:34](/episodes/ep-ChuWo-n49B8.md#t-00-06-10) (Claim) **Candace Owens**: ["Tyler Robinson and Lance Twiggs are not transgender"](/statements/statement-9f0afa0dffc0.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:08:10](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) (Claim) **Lance Twiggs** (via quoted speech): ["Lance Twiggs testified that he and Tyler Robinson had never discussed ..."](/statements/statement-cfe56946f7d7.md)
+- [00:08:10](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Lance Twiggs's account as saying that he and Tyler..."](/statements/statement-cfe56946f7d7.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [LGBTQ](/entities/concept-lgbtq.md)
+
+- [00:08:22](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) (Opinion) **Candace Owens**: ["Owens argued that the proposed political motive for Tyler Robinson had..."](/statements/statement-fc3e73c07a4c.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:11:05](/episodes/ep-ChuWo-n49B8.md#t-00-11-05) (Claim) **Candace Owens**: ["At least five other sets of prints were found on the rifle, Tyler Robi..."](/statements/statement-42697dd93834.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Matt Robinson](/entities/person-matt-robinson.md)
@@ -1273,7 +1323,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [00:14:02](/episodes/ep-ChuWo-n49B8.md#t-00-13-40) (Claim) **Candace Owens**: ["The text-message images lacked timestamps, and Lance Twiggs's phone wa..."](/statements/statement-548d9f758c24.md)
   - Also about: [FBI](/entities/org-fbi.md)
 
-- [00:16:51](/episodes/ep-ChuWo-n49B8.md#t-00-16-26) (Claim) **Candace Owens**: ["Owens said it was entirely plausible that someone gained access to Tyl..."](/statements/statement-db9c1853cae3.md)
+- [00:16:51](/episodes/ep-ChuWo-n49B8.md#t-00-16-26) (Accusation) **Candace Owens**: ["Owens said it was entirely plausible that someone gained access to Tyl..."](/statements/statement-db9c1853cae3.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [iCloud](/entities/work-icloud.md)
 
 </details>
@@ -1318,7 +1368,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Panguitch, Utah](/entities/gpe-panguitch-utah.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
 - [00:24:00](/episodes/ep-EtLHqDbxqks.md#t-00-23-45) (Claim) **Candace Owens**: ["Candace Owens said the messages attributed to Tyler Robinson and Lance..."](/statements/statement-41f520ff65e0.md)
-  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Tel Aviv](/entities/gpe-tel-aviv.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md)
 
 - [00:27:19](/episodes/ep-EtLHqDbxqks.md#t-00-27-19) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said testimony showed Lance Twiggs's prints were on the ..."](/statements/statement-40e48c22d0eb.md)
   - Also about: [Dremel](/entities/org-dremel.md)

@@ -28,7 +28,7 @@ Source: [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -51,6 +51,10 @@ Source: [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -111,7 +115,7 @@ _No relationships extracted yet._
   - About: [Chris Bagley](/entities/person-chris-bagley.md)
 
 - [00:19:00](/episodes/ep-AH1KVKkweUE.md#t-00-18-20) [✓] (Accusation) ["Nisi alleged that Officer Bagley omitted that the red-hat man alerted him to the..."](/statements/statement-dc2250d9df75.md)
-  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Alan Edward Robertson](/entities/person-alan-edward-robertson.md), [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Alan Edward Robertson](/entities/person-alan-edward-robertson.md), [Losee Center](/entities/org-losee-center.md)
 
 - [00:19:09](/episodes/ep-AH1KVKkweUE.md#t-00-19-04) [◐] (Claim) ["Nisi said Bagley's body camera had run for only 27 minutes even though those cam..."](/statements/statement-acb4324cdc66.md)
   - About: [Chris Bagley](/entities/person-chris-bagley.md)

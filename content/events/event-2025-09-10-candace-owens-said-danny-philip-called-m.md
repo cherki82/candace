@@ -16,10 +16,20 @@ date: "2025-09-10"
 
 > Candace Owens said Danny Philip called Michael McCoy for roughly ten minutes after Charlie Kirk was shot.
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
 
 **Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
 **Timestamp:** [00:17:10](/episodes/ep-OgRyiOAVtWU.md#t-00-16-52) 
 <a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=1030s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Danny calls Mikey and they stay on the phone for 10 minutes.
+
+### 2. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
+
+**Episode:** [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md)
+**Timestamp:** [00:19:47](/episodes/ep-ZkDO-MRLUco.md#event-event-2025-09-10-candace-owens-said-danny-philip-called-m-t-00-19-47) 
+<a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=1187s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> with his father, and then with Danny Philip for 10 minutes.

@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 400 mentions"
+description: "Utah (Places) - 410 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -22,12 +22,12 @@ Source: [State of Utah official website](https://utah.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-utah-t-00-36-01">2026-08-31 · 00:36:13</a></strong></div>
-<div><span>Episodes</span><strong>90</strong></div>
-<div><span>Mentions</span><strong>400</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-36-35">2026-09-01 · 00:37:06</a></strong></div>
+<div><span>Episodes</span><strong>91</strong></div>
+<div><span>Mentions</span><strong>410</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>27</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>28</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -109,7 +109,7 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-utah-t-00-22-50" style="--pulse-height:35%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 6 mentions" title="2026-07-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-utah-t-00-13-18" style="--pulse-height:29%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 5 mentions" title="2026-07-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-utah-t-00-28-01" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-utah-t-00-39-28" style="--pulse-height:18%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-utah-t-00-46-45" style="--pulse-height:18%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-gpe-utah-t-00-41-47" style="--pulse-height:24%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 4 mentions" title="2026-07-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-utah-t-00-06-35" style="--pulse-height:12%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-utah-t-00-14-42" style="--pulse-height:24%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 4 mentions" title="2026-07-30 · 4 mentions"><span></span></a>
@@ -125,6 +125,7 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-utah-t-00-07-16" style="--pulse-height:29%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 5 mentions" title="2026-08-19 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-utah-t-00-05-31" style="--pulse-height:12%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-utah-t-00-29-08" style="--pulse-height:12%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-10-21" style="--pulse-height:59%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 10 mentions" title="2026-09-01 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -204,7 +205,7 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-utah-t-00-22-50) | 6 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-utah-t-00-13-18) | 5 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-utah-t-00-28-01) | 1 |
-| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-utah-t-00-39-28) | 3 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-utah-t-00-46-45) | 3 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-gpe-utah-t-00-41-47) | 4 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-utah-t-00-06-35) | 2 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-utah-t-00-14-42) | 4 |
@@ -220,6 +221,7 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-utah-t-00-07-16) | 5 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-utah-t-00-05-31) | 2 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-utah-t-00-29-08) | 2 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-10-21) | 10 |
 
 </details>
 </section>
@@ -231,7 +233,42 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (400)</strong></summary>
+<summary><strong class="section-title">Raw mentions (410)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (10 mentions)</summary>
+
+**[00:10:21](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-10-21)**
+> "So my brother's lived in Utah for years and we have to make sure that this doesn't get out, but he looks like a mountain man and he's all over the terrain."
+
+**[00:01:03](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-01-03)**
+> "...ny what are they doing out in Utah I have no positive evidence that it wasn't Jennic..."
+
+**[00:02:05](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-01-48)**
+> "... the expected big news out of Utah today, the judge's decision on whether or not the..."
+
+**[00:13:27](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-12-57)**
+> "Utah. Okay. Okay, Jack Hibbs, your terms are acceptabl..."
+
+**[00:17:28](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-17-28)**
+> "...n that happened at about 1230 Utah time."
+
+**[00:27:10](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-27-10)**
+> "... can't believe it happened in Utah of all places,"
+
+**[00:32:02](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-31-39)**
+> "...'s perfectly acceptable under Utah's constitution for Lance Twiggs to submit a video..."
+
+**[00:33:39](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-33-39)**
+> "... that never in the history of Utah has there ever been an individual found guilty of..."
+
+**[00:35:56](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-35-56)**
+> "...saying, well, OK, yeah, maybe Utah has no history of ever doing this and all these o..."
+
+**[00:37:06](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-36-35)**
+> "Utah would be making history in that case, so that's w..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
@@ -575,10 +612,10 @@ Source: [State of Utah official website](https://utah.gov/)
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>
 
-**[00:39:28](/episodes/ep-amqTMimDr0A.md#ent-gpe-utah-t-00-39-28)**
+**[00:39:28](/episodes/ep-amqTMimDr0A.md#ent-gpe-utah-t-00-46-45)**
 > "... unverified) grew up in Orem, Utah."
 
-**[00:39:59](/episodes/ep-amqTMimDr0A.md#ent-gpe-utah-t-00-39-28)**
+**[00:39:59](/episodes/ep-amqTMimDr0A.md#ent-gpe-utah-t-00-46-45)**
 > "...eal? Did she grow up in Orem, Utah?"
 
 **[00:47:07](/episodes/ep-amqTMimDr0A.md#ent-gpe-utah-t-00-46-45)**
@@ -1944,7 +1981,7 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>Residence Of (3)</summary>
+<summary>Residence Of (4)</summary>
 
 - **[Gernot Omer](/entities/person-gernot-omer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1968,10 +2005,17 @@ Source: [State of Utah official website](https://utah.gov/)
 
 </details>
 
+- **[Burton Hibbs](/entities/person-burton-hibbs.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:10:21](/episodes/ep-ZkDO-MRLUco.md#t-00-10-21): “So my brother's lived in Utah for years and we have to make sure that this doesn't get out, but he looks like a mountain man and he's all over the terrain.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Jennica Pounds](/entities/person-jennica-pounds.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2024,6 +2068,13 @@ Source: [State of Utah official website](https://utah.gov/)
 
 </details>
 
+- **[Burton Hibbs](/entities/person-burton-hibbs.md)** lives in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:10:21](/episodes/ep-ZkDO-MRLUco.md#t-00-10-21): “So my brother's lived in Utah for years and we have to make sure that this doesn't get out, but he looks like a mountain man and he's all over the terrain.”
+
+</details>
+
 - **[Phil Lyman](/entities/person-phil-lyman.md)** ran against this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -2036,13 +2087,21 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah (27)</strong></summary>
+<summary><strong class="section-title">Statements about Utah (28)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:33:39](/episodes/ep-ZkDO-MRLUco.md#t-00-33-39) (Claim) **Candace Owens**: ["Owens claimed Utah had never convicted someone of aggravated murder fo..."](/statements/statement-0e4fdc3a3340.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
 
 - [00:05:08](/episodes/ep-_cNtgris8Ik.md#t-00-04-52) (Claim) **Candace Owens**: ["Owens said Farnsworth's removal and potential alteration of the SD car..."](/statements/statement-b239c1bb5a47.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 </details>
 
@@ -2080,7 +2139,7 @@ Source: [State of Utah official website](https://utah.gov/)
   - Also about: [Israel](/entities/gpe-israel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:36:59](/episodes/ep-N4uM8Jdr410.md#t-00-36-59) (Opinion) **Blake Neff**: ["Blake Neff said he interpreted a question about staying in Orem as a q..."](/statements/statement-2e648c420a02.md)
-  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Orem](/entities/gpe-orem.md), [Phoenix](/entities/gpe-phoenix.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Orem, Utah](/entities/gpe-orem-utah.md), [Phoenix](/entities/gpe-phoenix.md)
 
 </details>
 

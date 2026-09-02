@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [PragerU](/entities/org-prageru) formerly employed [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (11 mentions)
+### Evidence (12 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -45,6 +45,10 @@ object: "person-candace-owens"
 
 - [00:00:06](/episodes/ep-YA1FxrDWNIo#t-00-00-06): _when I was working for Prager University._
 - [00:06:29](/episodes/ep-YA1FxrDWNIo#t-00-06-29): _when I was working for Prager University._
+
+**[BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco)**
+
+- [00:07:03](/episodes/ep-ZkDO-MRLUco#t-00-07-03): _She's never hidden that fact. So we're not exactly. exactly revealing or bringing any news there but I used to work for PragerU and she had suggested to me that I have him on my podcast I don't believe it ever happened but you can take from that what you will it is a fact that is how I learned about Jack (Jack Hibbs) uh Jack Hibbs from Marissa (Marissa Streit) It is also a fact that the same family who funds the construction of some of those Calvary Chapel churches, like Rob McCoy's church in Thousand Oaks, are the billionaire Wilks brothers._
 
 **[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
 

@@ -4,10 +4,9 @@ description: "\"Candace Owens said a mysteriously purged 911 call allegedly capt
 statement_id: "statement-2893c29ef7cb"
 speaker: "Candace Owens"
 type: "citation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -33,21 +32,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-Transcript context and the primary episode confirm Owens said a purportedly purged 911 call allegedly included 'get that off of him.' A current public research page also reports the disputed phrase but does not authenticate the audio; the statement correctly preserves 'allegedly' and is verified as Owens's reported citation, not as proof of what occurred in the vehicle.
-
-**Confidence:** Medium
-
-**Sources:**
-
-- [A Shocking Truth Revealed In The 4K Footage... | Ep 373](https://rumble.com/v7dto7u-a-shocking-truth-revealed-in-the-4k-footage.-beavis-and-butt-head-send-a-me.html)
-- [SUV 911 and Get That Off of Him](https://whoassassinatedcharliekirk.com/Charlie/Phone_Calls/suv-911-audio)
-
-*Verified: 2026-08-28T05:43:22.742352*
+_This statement has not yet been verified._
 
 ---
 

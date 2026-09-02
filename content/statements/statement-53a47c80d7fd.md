@@ -49,15 +49,16 @@ veracity: "true"
 
 ### Analysis
 
-The source episode directly records Wilson describing the state's case as corroborating witness testimony, physical evidence, and multiple alleged confessions. This verifies the attribution to Wilson, not the truth of every underlying prosecution allegation.
+As an evidence-description citation, this is supported by the charging information's physical exhibits, investigator accounts and alleged admissions to family and roommate. Whether they are independently compelling or prove guilt remains Wilson's assessment, not a fact established by this verification. The prior note checked only his utterance.
 
-**Confidence:** High
+**Confidence:** Medium
 
 **Sources:**
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](https://www.youtube.com/watch?v=nPhCKwJ6ye8)
+- [Utah v. Tyler James Robinson — charging information, September 16, 2025](https://san.com/wp-content/uploads/securepdfs/2025/09/TJR_Information_49872215e3.pdf)
 
-*Verified: 2026-08-16T14:38:00.232071*
+*Verified: 2026-09-01T18:16:53.065128*
 
 ---
 

@@ -27,7 +27,7 @@ Source: [Wayfarer Studios](https://www.wayfarerstudios.com/)
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>3</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -71,18 +71,6 @@ Source: [Wayfarer Studios](https://www.wayfarerstudios.com/)
 <summary>Accused By (1)</summary>
 
 - **[Blake Lively](/entities/person-blake-lively.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:17:40](/episodes/ep-JrhGEm8MGRY.md#t-00-17-28): “She even accused Justin (Justin Baldoni)'s business partner, Jamey Heath, of showing her pornography on his phone. Like she looked and a woman's legs were open and she said to add insult to injury. This is from the filing to add insult to injury.”
-
-</details>
-
-</details>
-
-<details>
-<summary>Worked With (1)</summary>
-
-- **[Justin Baldoni](/entities/person-justin-baldoni.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:17:40](/episodes/ep-JrhGEm8MGRY.md#t-00-17-28): “She even accused Justin (Justin Baldoni)'s business partner, Jamey Heath, of showing her pornography on his phone. Like she looked and a woman's legs were open and she said to add insult to injury. This is from the filing to add insult to injury.”

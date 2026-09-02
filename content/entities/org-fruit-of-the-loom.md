@@ -1,6 +1,6 @@
 ---
 title: "Fruit of the Loom"
-description: "Fruit of the Loom (Organizations) - 1 mention"
+description: "Fruit of the Loom (Organizations) - 2 mentions"
 id: "org-fruit-of-the-loom"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Fruit of the Loom](https://www.fruit.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-fruit-of-the-loom-t-00-00-00">2026-01-14 · 00:00:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-fruit-of-the-loom-t-00-00-00">2026-01-14 · 00:00:19</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-fruit-of-the-loom-t-00-47-27">2026-09-01 · 00:48:02</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [Fruit of the Loom](https://www.fruit.com/)
 <p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-fruit-of-the-loom-t-00-00-00">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-fruit-of-the-loom-t-00-00-00" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-fruit-of-the-loom-t-00-47-27" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-fruit-of-the-loom-t-00-00-00) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-fruit-of-the-loom-t-00-47-27) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [Fruit of the Loom](https://www.fruit.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:48:02](/episodes/ep-ZkDO-MRLUco.md#ent-org-fruit-of-the-loom-t-00-47-27)**
+> "It is now a part of the folklore. Choclog wrote, telling us that Justin (Justin Baldoni) doesn't drink kombucha is like telling us there is no cornucopia in the Fruit of the Loom logo."
+
+</details>
 
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>

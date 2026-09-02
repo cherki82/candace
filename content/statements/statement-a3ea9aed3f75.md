@@ -4,10 +4,9 @@ description: "\"Candace Owens accused Israel of committing genocide in broad day
 statement_id: "statement-a3ea9aed3f75"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -34,21 +33,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-Transcript context and the primary recording directly confirm Owens accused Israel of genocide and of trying to punish Spain for opposing it. The result verifies the occurrence and attribution of the accusation. It does not convert the contested genocide characterization or alleged motive toward Spain into adjudicated fact.
-
-**Confidence:** Medium
-
-**Sources:**
-
-- [A Shocking Truth Revealed In The 4K Footage... | Ep 373](https://rumble.com/v7dto7u-a-shocking-truth-revealed-in-the-4k-footage.-beavis-and-butt-head-send-a-me.html)
-- [Meeting Our Commitments - Government of Spain accountability report](https://www.lamoncloa.gob.es/Documents/2025/accountability-report-government-spain-december.pdf)
-
-*Verified: 2026-08-28T05:43:22.742401*
+_This statement has not yet been verified._
 
 ---
 

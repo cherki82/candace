@@ -99,7 +99,7 @@ _No relationships extracted yet._
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
 
 - [00:11:18](/episodes/ep-4DvYXBn_5JI.md#t-00-10-48) (Claim) **Candace Owens**: ["Candace Owens said N582MM left Denver at 11:58 a.m. Mountain Time on S..."](/statements/statement-ea896e271e9e.md)
-  - Also about: [N582MM](/entities/vehicle-n582mm.md), [Denver](/entities/gpe-denver.md), [Chicago](/entities/gpe-chicago.md)
+  - Also about: [N582MM](/entities/vehicle-n582mm.md), [Denver](/entities/gpe-denver.md), [Chicago, Illinois](/entities/gpe-chicago-illinois.md)
 
 </details>
 
@@ -107,7 +107,7 @@ _No relationships extracted yet._
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
 
 - [00:34:56](/episodes/ep-DEtFh2Ff-58.md#t-00-34-36) (Claim) **Baron Coleman**: ["On September 10th, aircraft N582MM left Pierre, South Dakota at 2:40 p..."](/statements/statement-013396861573.md)
-  - Also about: [N582MM](/entities/vehicle-n582mm.md), [Chicago](/entities/gpe-chicago.md), [Provo Airport](/entities/org-provo-airport.md)
+  - Also about: [N582MM](/entities/vehicle-n582mm.md), [Chicago, Illinois](/entities/gpe-chicago-illinois.md), [Provo Airport](/entities/org-provo-airport.md)
 
 </details>
 

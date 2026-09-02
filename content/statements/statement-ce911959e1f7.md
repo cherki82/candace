@@ -28,7 +28,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
-**Timestamp:** [00:20:38](/episodes/ep-amqTMimDr0A.md#t-00-20-28)
+**Timestamp:** [00:20:38](/episodes/ep-amqTMimDr0A.md#t-00-20-28) 
 <a href="https://www.youtube.com/watch?v=amqTMimDr0A&t=1238s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > For clarity, Ben (Ben Shapiro) was in Los Angeles because he was scheduled to appear later that evening at the Ronald Reagan Presidential Library in Simi Valley at 6 o'clock p.m. That event was eventually canceled because Charlie (Charlie Kirk) was shot.

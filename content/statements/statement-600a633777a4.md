@@ -1,8 +1,8 @@
 ---
 title: "Ashley relayed an unverified word-on-the-street allegation t..."
-description: "\"Ashley relayed an unverified word-on-the-street allegation that Terry and Judith Crist had congregants vomit into bags to expel bad spirits\" — Anonymous Source #2 (Ep cZxHqYsWRYg)"
+description: "\"Ashley relayed an unverified word-on-the-street allegation that Terry and Judith Crist had congregants vomit into bags to expel bad spirits\" — Ashley (Candace Owens producer; surname unverified)"
 statement_id: "statement-600a633777a4"
-speaker: "Anonymous Source #2 (Ep cZxHqYsWRYg)"
+speaker: "Ashley (Candace Owens producer; surname unverified)"
 type: "accusation"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #2 (Ep cZxHqYsWRYg)](/entities/anon-src-cZxHqYsWRYg-002.md) (Guest)
+**Speaker:** [Ashley (Candace Owens producer; surname unverified)](/entities/person-producer-ashley-unverified.md) (Guest)
 
 **Delivery:** Made directly
 

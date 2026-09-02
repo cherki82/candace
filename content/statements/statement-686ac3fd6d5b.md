@@ -22,7 +22,7 @@ type: "factual_claim"
 
 - [Laura Loomer](/entities/person-laura-loomer.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [Bob Shillman](/entities/person-bob-shillman.md) (person)
+- [Robert J. Shillman](/entities/person-robert-j-shillman.md) (person)
 
 ## Source
 

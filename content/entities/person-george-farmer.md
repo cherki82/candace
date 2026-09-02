@@ -1,6 +1,6 @@
 ---
 title: "George Farmer"
-description: "George Farmer (People) - 107 mentions"
+description: "George Farmer (People) - 108 mentions"
 id: "person-george-farmer"
 type: "PERSON"
 categories:
@@ -20,7 +20,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37">2025-09-11 · 00:00:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-12-33">2026-08-31 · 00:12:33</a></strong></div>
 <div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>107</strong></div>
+<div><span>Mentions</span><strong>108</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>22</strong></div>
@@ -105,7 +105,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+<summary><strong class="section-title">Raw mentions (108)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (7 mentions)</summary>
@@ -137,7 +137,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
 
 **[00:42:33](/episodes/ep-_cNtgris8Ik.md#t-00-42-33)**
-> "...he has respect for my husband George became close to Charlie the whole year of our eng..."
+> "he has respect for my husband George became close to Charlie the whole year of our engagement"
 
 **[00:58:18](/episodes/ep-_cNtgris8Ik.md#t-00-58-18)**
 > "...appy anniversary, Candace and George."
@@ -165,7 +165,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 > "...was kind of in my bubble with George. George traveled with me and Charlie, but Erika a..."
 
 **[02:51:14](/episodes/ep-nPhCKwJ6ye8.md#t-02-51-04)**
-> "George and I were planning our marriage."
+> "George and I were planning our marriage. So George really got to know Charlie."
 
 </details>
 
@@ -762,7 +762,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
 
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:06:24](/episodes/ep-BKcOm32ZEGk.md#t-00-06-23): “The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:46:12](/episodes/ep-GY6GWceEqtQ.md#t-00-45-47): “I could bake cookies with any of George (George Farmer)'s exes. I just don't care. He's my husband.”
@@ -782,6 +782,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:04:47](/episodes/ep-Cq7nj9rxPdo.md#t-01-04-15): “I know that I was saved because I had the confidence to be more of myself when I married George (George Farmer), and he has supported me through everything and me never having the fashionable opinion.”
 - [To My Friend, Charlie Kirk. @ 00:18:02](/episodes/ep-_dRaEO47-co.md#t-00-18-02): “He was by my side, you know, when I got married to George.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:13](/episodes/ep-JrhGEm8MGRY.md#t-00-03-40): “Now, those names may be familiar to you. Now, I've told you guys the story a few times, but I met my husband rather serendipitously at an event hosted in London.”
+- [I Met My Cousin In Iceland... @ 00:00:27](/episodes/ep-wntKnFzh9Gs.md#t-00-00-27): “My husband (George Farmer) and I, we were just, we were all just astonished beyond belief.”
 
 </details>
 

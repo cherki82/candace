@@ -16,7 +16,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was transported to a hospital in an SUV after he was shot.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
 
@@ -41,3 +41,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=665s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > they moved very quickly from shots to getting him into the SUV, obviously trying to save his life.
+
+### 4. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
+
+**Episode:** [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md)
+**Timestamp:** [00:21:24](/episodes/ep-ZkDO-MRLUco.md#event-event-2025-09-10-charlie-kirk-was-transported-to-a-hospit-t-00-21-14) 
+<a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=1284s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> someone in the hospital-bound SUV was providing updates to Ben Shapiro's security team

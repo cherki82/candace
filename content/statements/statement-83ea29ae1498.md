@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 

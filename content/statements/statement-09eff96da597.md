@@ -1,8 +1,8 @@
 ---
 title: "An eyewitness told Owens that the shooter looked to him like..."
-description: "\"An eyewitness told Owens that the shooter looked to him like a foreign agent and seemed highly trained\" — Anonymous Source #1 (Ep UBkFkg4UNY8)"
+description: "\"An eyewitness told Owens that the shooter looked to him like a foreign agent and seemed highly trained\" — Anonymous Losee Center Eyewitness"
 statement_id: "statement-09eff96da597"
-speaker: "Anonymous Source #1 (Ep UBkFkg4UNY8)"
+speaker: "Anonymous Losee Center Eyewitness"
 type: "opinion"
 ---
 
@@ -14,7 +14,7 @@ type: "opinion"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #1 (Ep UBkFkg4UNY8)](/entities/anon-src-UBkFkg4UNY8-001.md) (Anonymous Source)
+**Speaker:** [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md) (Anonymous Source)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

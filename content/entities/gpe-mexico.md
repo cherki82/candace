@@ -1,6 +1,6 @@
 ---
 title: "Mexico"
-description: "Mexico (Places) - 22 mentions"
+description: "Mexico (Places) - 21 mentions"
 id: "gpe-mexico"
 type: "GPE"
 aliases:
@@ -25,7 +25,7 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-mexico-t-01-06-29">2025-10-08 · 01:06:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-mexico-t-00-37-14">2026-05-28 · 00:37:14</a></strong></div>
 <div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,7 +39,7 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-mexico-t-01-06-29" style="--pulse-height:14%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-mexico-t-00-07-30" style="--pulse-height:100%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 7 mentions" title="2025-12-09 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-mexico-t-00-29-17" style="--pulse-height:71%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 5 mentions" title="2025-12-18 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mexico-t-00-40-43" style="--pulse-height:29%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mexico-t-00-40-43" style="--pulse-height:14%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-mexico-t-00-44-13" style="--pulse-height:14%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-mexico-t-00-16-15" style="--pulse-height:14%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-mexico-t-00-22-38" style="--pulse-height:43%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
@@ -53,7 +53,7 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-mexico-t-01-06-29) | 1 |
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-mexico-t-00-07-30) | 7 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-mexico-t-00-29-17) | 5 |
-| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mexico-t-00-40-43) | 2 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mexico-t-00-40-43) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-mexico-t-00-44-13) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-mexico-t-00-16-15) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-mexico-t-00-22-38) | 3 |
@@ -66,7 +66,7 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -115,13 +115,10 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 </details>
 
 <details>
-<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
 
 **[00:40:53](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mexico-t-00-40-43)**
 > "So I think Mexico won."
-
-**[00:48:46](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mexico-t-00-40-43)**
-> "...s where jeffrey Epstein's new mexico house was don't quote me on that but i feel like ..."
 
 </details>
 

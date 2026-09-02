@@ -1,6 +1,6 @@
 ---
 title: "Andrew Wilson"
-description: "Andrew Wilson (People) - 121 mentions"
+description: "Andrew Wilson (People) - 122 mentions"
 id: "person-andrew-wilson"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-andrew-wilson-t-00-02-36">2026-08-07 · 00:02:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-wilson-t-00-45-20">2026-08-31 · 00:45:20</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>121</strong></div>
-<div><span>Statements by</span><strong>22</strong></div>
-<div><span>Statements about</span><strong>30</strong></div>
-<div><span>Relationships</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-wilson-t-00-32-54">2026-09-01 · 00:33:29</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>122</strong></div>
+<div><span>Statements by</span><strong>26</strong></div>
+<div><span>Statements about</span><strong>32</strong></div>
+<div><span>Relationships</span><strong>31</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -41,6 +41,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-andrew-wilson-t-00-24-33" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 5 mentions" title="2026-08-19 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-wilson-t-00-00-39" style="--pulse-height:24%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 10 mentions" title="2026-08-21 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-wilson-t-00-45-20" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-wilson-t-00-32-54" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-andrew-wilson-t-00-24-33) | 5 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-wilson-t-00-00-39) | 10 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-wilson-t-00-45-20) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-wilson-t-00-32-54) | 1 |
 
 </details>
 </section>
@@ -67,7 +69,15 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (121)</strong></summary>
+<summary><strong class="section-title">Raw mentions (122)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:33:29](/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-wilson-t-00-32-54)**
+> "Andrew Wilson did not know any of these, but the most severe and significant is the aggravated murder charge because that carries with it a death sentence."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
@@ -549,18 +559,12 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details>
-<summary>Debated (3)</summary>
+<summary>Debated (2)</summary>
 
-- **[Anonymous Source #3 (Ep d7VsbEIWkP8)](/entities/anon-src-d7VsbEIWkP8-003.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+- **[Charlie (debate participant; surname unverified)](/entities/person-charlie-debate-participant.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:11:34](/episodes/ep-d7VsbEIWkP8.md#t-00-11-16): “Here's him debating a feminist leftist. Her name also happens to be Charlie. Take a listen.”
-
-</details>
-
-- **[Charlie (Whatever Podcast guest; surname unverified)](/entities/person-charlie-whatever-podcast-guest.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
 - [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:39:00](/episodes/ep-5zgkrOaCCj4.md#t-00-39-00): “girls only fan girls in their place and telling them about how they shouldn't be living this life and yet his wife is way out of pocket and when that girl that we showed you Charlie (Whatever Podcast guest; surname unverified) debated him and was about to raise a valid point about if you're going to be lecturing about this lifestyle do you embody this lifestyle in your own personal life and he sort of crashed out what happened after that you”
 
 </details>
@@ -685,7 +689,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details>
-<summary>Referenced By (16)</summary>
+<summary>Referenced By (15)</summary>
 
 - **[UFO 120 (commenter; identity unverified)](/entities/anon-src-HGtMfbePDKk-015.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -728,16 +732,10 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 </details>
 
-- **[Anonymous Source #3 (Ep d7VsbEIWkP8)](/entities/anon-src-d7VsbEIWkP8-003.md)** debated this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+- **[Charlie (debate participant; surname unverified)](/entities/person-charlie-debate-participant.md)** debated this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:11:34](/episodes/ep-d7VsbEIWkP8.md#t-00-11-16): “Here's him debating a feminist leftist. Her name also happens to be Charlie. Take a listen.”
-
-</details>
-
-- **[Charlie (Whatever Podcast guest; surname unverified)](/entities/person-charlie-whatever-podcast-guest.md)** debated this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
 - [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:39:00](/episodes/ep-5zgkrOaCCj4.md#t-00-39-00): “girls only fan girls in their place and telling them about how they shouldn't be living this life and yet his wife is way out of pocket and when that girl that we showed you Charlie (Whatever Podcast guest; surname unverified) debated him and was about to raise a valid point about if you're going to be lecturing about this lifestyle do you embody this lifestyle in your own personal life and he sort of crashed out what happened after that you”
 
 </details>
@@ -816,13 +814,13 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Andrew Wilson (22)</strong></summary>
+<summary><strong class="section-title">Statements by Andrew Wilson (26)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
 
 - [00:29:01](/episodes/ep-_cNtgris8Ik.md#t-00-28-41) [✓] (Accusation) ["Wilson said he received hundreds of messages from people who did not know the st..."](/statements/statement-253df4e31419.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboy’s Smokehouse Cafe](/entities/org-cowboys-smokehouse-cafe.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
 
 </details>
 
@@ -861,7 +859,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (9)</summary>
 
-- [00:31:26](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-52) [✓] (Claim) ["Based on the evidence available so far, Andrew Wilson believes the state is corr..."](/statements/statement-3523ec3378a3.md)
+- [00:31:26](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-52) [○] (Opinion) ["Based on the evidence available so far, Andrew Wilson believes the state is corr..."](/statements/statement-3523ec3378a3.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:32:10](/episodes/ep-nPhCKwJ6ye8.md#t-00-32-10) [✓] (Citation) ["Andrew Wilson says the case against Tyler Robinson is supported by corroborating..."](/statements/statement-53a47c80d7fd.md)
@@ -873,10 +871,10 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 - [00:42:21](/episodes/ep-nPhCKwJ6ye8.md#t-00-42-21) [◐] (Claim) ["The ammunition in the case was a 150-grain Remington Core-Lokt soft-point round ..."](/statements/statement-bab7a17138a4.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Remington Ammunition](/entities/org-remington-ammunition.md)
 
-- [00:44:14](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-14) [✓] (Claim) ["Andrew Wilson says he was never an Army sniper."](/statements/statement-3ca42fa6f73b.md)
+- [00:44:14](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-14) [○] (Claim) ["Andrew Wilson says he was never an Army sniper."](/statements/statement-3ca42fa6f73b.md)
   - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [United States Army](/entities/org-united-states-army.md)
 
-- [00:44:21](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16) [✓] (Claim) ["Andrew Wilson says he was an NRA firearms instructor for many years and taught r..."](/statements/statement-5d4f036404fb.md)
+- [00:44:21](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16) [○] (Claim) ["Andrew Wilson says he was an NRA firearms instructor for many years and taught r..."](/statements/statement-5d4f036404fb.md)
   - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [National Rifle Association](/entities/org-national-rifle-association.md)
 
 - [00:47:02](/episodes/ep-nPhCKwJ6ye8.md#t-00-47-02) [✓] (Claim) ["Tyler Robinson's DNA was on the rifle, while the available testimony did not est..."](/statements/statement-8208e54f6594.md)
@@ -887,6 +885,23 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 - [03:57:47](/episodes/ep-nPhCKwJ6ye8.md#t-03-57-15) [○] (Opinion) ["Andrew Wilson concluded that no alternative theory presented in the debate had e..."](/statements/statement-d32537eb2441.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (4)</summary>
+
+- [01:18:03](/episodes/ep-aPOyk1i2LOc.md#t-01-18-03) [○] (Opinion) ["Wilson clarified that his overwhelming-evidence assessment meant evidence he fou..."](/statements/statement-2e4cdf20307d.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:54:58](/episodes/ep-aPOyk1i2LOc.md#t-01-54-58) [○] (Opinion) ["Wilson argued that the public exchange did not establish whether officials had i..."](/statements/statement-b6b21c6d2fd9.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [02:29:11](/episodes/ep-aPOyk1i2LOc.md#t-02-29-11) [○] (Opinion) ["Wilson said he could see Kirk's shirt move only in slowed footage, not at normal..."](/statements/statement-39ad115a407d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rob O'Neill](/entities/person-rob-oneill.md)
+
+- [02:56:56](/episodes/ep-aPOyk1i2LOc.md#t-02-56-56) [○] (Opinion) ["Wilson argued that roughly five and a half to six hours of Owens's proposed driv..."](/statements/statement-1db390adddec.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 
@@ -907,7 +922,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Wilson (30)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Wilson (32)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -990,7 +1005,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 - [00:33:19](/episodes/ep-HGtMfbePDKk.md#t-00-33-19) (Claim) **Candace Owens**: ["Owens said Joe Rogan offered to host her debate with Andrew Wilson in ..."](/statements/statement-891ae07e6bf2.md)
   - Also about: [Joe Rogan](/entities/person-joe-rogan.md), [Candace Owens](/entities/person-candace-owens.md), [Texas](/entities/gpe-texas.md)
 
-- [00:33:57](/episodes/ep-HGtMfbePDKk.md#t-00-33-57) (Claim) **Candace Owens**: ["Owens said Patrick Bet-David would control debate breaks, speaking tur..."](/statements/statement-9ec019e8f157.md)
+- [00:33:57](/episodes/ep-HGtMfbePDKk.md#t-00-33-57) (Promise) **Candace Owens**: ["Owens said Patrick Bet-David would control debate breaks, speaking tur..."](/statements/statement-9ec019e8f157.md)
   - Also about: [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:41:40](/episodes/ep-HGtMfbePDKk.md#t-00-41-40) (Promise) **Candace Owens**: ["Owens said her debate with Andrew Wilson would have no time limit and ..."](/statements/statement-19b7fea28074.md)
@@ -1004,10 +1019,16 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details>
-<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1)</summary>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (3)</summary>
 
 - [00:43:56](/episodes/ep-5zgkrOaCCj4.md#t-00-43-56) (Claim) **Candace Owens**: ["Owens said Turning Point USA brought in and paid Andrew Wilson to teac..."](/statements/statement-6eb8f19e6c53.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:51:56](/episodes/ep-5zgkrOaCCj4.md#t-00-51-56) (Claim) **Candace Owens**: ["Owens said Blake Neff had offered to put money toward an Andrew Wilson..."](/statements/statement-f074c7cf5638.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:52:13](/episodes/ep-5zgkrOaCCj4.md#t-00-51-56) (Opinion) **Candace Owens**: ["Owens treated Blake Neff's reported funding offer as sufficient inform..."](/statements/statement-2909bca153f0.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 
@@ -1026,7 +1047,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 - [00:09:01](/episodes/ep-d7VsbEIWkP8.md#t-00-08-32) (Promise) **Candace Owens**: ["Candace Owens offered to debate Andrew Wilson live without a time limi..."](/statements/statement-2f625a3bfcbb.md)
   - Also about: [Blake Neff](/entities/person-blake-neff.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [00:13:24](/episodes/ep-d7VsbEIWkP8.md#t-00-13-05) (Claim) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet wrote that Andrew Wilson was paid for one day of debate ..."](/statements/statement-c97131c02ef3.md)
+- [00:13:24](/episodes/ep-d7VsbEIWkP8.md#t-00-13-05) (Claim) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet wrote that Wilson had been paid for one day of debate tr..."](/statements/statement-c97131c02ef3.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

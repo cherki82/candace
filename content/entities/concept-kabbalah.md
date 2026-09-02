@@ -21,7 +21,7 @@ Source: [Encyclopaedia Britannica: Kabbala](https://www.britannica.com/topic/Kab
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -115,5 +115,18 @@ Source: [Encyclopaedia Britannica: Kabbala](https://www.britannica.com/topic/Kab
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Kabbalah (1)</strong></summary>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+
+- [00:56:13](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-46) (Accusation) **Candace Owens**: ["Kabbalah is the reason for the cultural push for transgenderism"](/statements/statement-ec798c5bd223.md)
+  - Also about: [transgenderism](/entities/concept-transgenderism.md)
+
+</details>
 
 </details>

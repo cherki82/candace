@@ -27,8 +27,8 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-victor-marx-t-00-06-29">2026-04-14 · 00:06:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#t-00-43-56">2026-08-10 · 00:43:56</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-victor-marx-t-00-08-09">2026-09-01 · 00:08:09</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
 <div><span>Mentions</span><strong>241</strong></div>
 <div><span>Statements by</span><strong>55</strong></div>
 <div><span>Statements about</span><strong>96</strong></div>
@@ -48,7 +48,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-00-26" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 59 mentions" title="2026-04-22 · 59 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-victor-marx-t-01-12-06" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-00-00" style="--pulse-height:19%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 11 mentions" title="2026-05-13 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-00-39" style="--pulse-height:85%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 50 mentions" title="2026-05-19 · 50 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-00-39" style="--pulse-height:83%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 49 mentions" title="2026-05-19 · 49 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-00-44" style="--pulse-height:34%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 20 mentions" title="2026-05-20 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-victor-marx-t-00-45-44" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-victor-marx-t-00-40-58" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
@@ -56,6 +56,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-victor-marx-t-00-33-11" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-victor-marx-t-00-00-26" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 5 mentions" title="2026-08-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#t-00-43-56" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-victor-marx-t-00-08-09" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,7 +70,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-00-26) | 59 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-victor-marx-t-01-12-06) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-00-00) | 11 |
-| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-00-39) | 50 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-00-39) | 49 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-00-44) | 20 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-victor-marx-t-00-45-44) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-victor-marx-t-00-40-58) | 3 |
@@ -77,6 +78,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-victor-marx-t-00-33-11) | 2 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-victor-marx-t-00-00-26) | 5 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#t-00-43-56) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-victor-marx-t-00-08-09) | 1 |
 
 </details>
 </section>
@@ -89,6 +91,14 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 <details>
 <summary><strong class="section-title">Raw mentions (241)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
+
+**[00:08:09](/episodes/ep-ZkDO-MRLUco.md#ent-person-victor-marx-t-00-08-09)**
+> "Now back to Pastor Jack Hibbs, because that's what's relevant. It is curious that like Victor Marx, another one of shady, maybe not even a pastor character that is around Erika (Erika Kirk), Pastor Jack Hibbs was among the very first to announce that Charlie (Charlie Kirk) had passed away. He did that on Facebook."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
@@ -225,7 +235,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
-<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (50 mentions)</summary>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (49 mentions)</summary>
 
 **[00:00:39](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-00-39)**
 > "...he man, the myth, the legend, Victor Marx, gubernatorial candidate for..."
@@ -283,9 +293,6 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 **[00:09:15](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-09-01)**
 > "... Corby Hall, who claimed that Victor Marx was doing some deals or attempting to do some dea..."
-
-**[00:09:27](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-09-01)**
-> "...0 guns for the IDF. We'll ask Victor Marx about that."
 
 **[00:09:27](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-09-01)**
 > "...0 guns for the IDF. We'll ask Victor Marx about that."

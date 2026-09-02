@@ -4,10 +4,9 @@ description: "\"Owens said the transfer of Terryl Farnsworth's camera footage fr
 statement_id: "statement-3b9179f3fe4a"
 speaker: "Candace Owens"
 type: "accusation"
-veracity: "true"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -34,20 +33,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The primary episode recording directly documents Owens arguing that a transfer from an SD card to another storage device made editing or zooming plausible before delivery to authorities. Veracity is limited to Owens having made that plausibility argument; the recording does not independently prove that the footage was edited.
-
-**Confidence:** High
-
-**Sources:**
-
-- [LEAKED: Protecting Erika Kirk Group Chat, Perez Hilton's Public Breakdown | Ep 372](https://www.youtube.com/watch?v=ChuWo-n49B8)
-
-*Verified: 2026-08-28T04:12:47.290088*
+_This statement has not yet been verified._
 
 ---
 

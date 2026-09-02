@@ -1,6 +1,6 @@
 ---
 title: "USS Liberty"
-description: "USS Liberty (Vehicles) - 12 mentions"
+description: "USS Liberty (Vehicles) - 13 mentions"
 id: "vehicle-uss-liberty"
 type: "VEHICLE"
 aliases:
@@ -22,8 +22,8 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-vehicle-uss-liberty-t-00-39-41">2025-11-08 · 00:40:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-vehicle-uss-liberty-t-00-16-24">2026-06-09 · 00:16:24</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -36,6 +36,7 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-vehicle-uss-liberty-t-00-39-41" style="--pulse-height:20%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-uss-liberty-t-00-31-45" style="--pulse-height:20%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-vehicle-uss-liberty-t-01-04-06" style="--pulse-height:20%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-vehicle-uss-liberty-t-00-17-08" style="--pulse-height:20%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-vehicle-uss-liberty-t-00-49-48" style="--pulse-height:20%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
@@ -49,6 +50,7 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 |---|---|---:|
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-vehicle-uss-liberty-t-00-39-41) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-uss-liberty-t-00-31-45) | 1 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-vehicle-uss-liberty-t-01-04-06) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-vehicle-uss-liberty-t-00-17-08) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59) | 5 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-vehicle-uss-liberty-t-00-49-48) | 1 |
@@ -62,7 +64,7 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
@@ -121,6 +123,14 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 
 **[00:17:16](/episodes/ep-w1oqQbR_bYs.md#ent-vehicle-uss-liberty-t-00-17-08)**
 > "...ng me because I interviewed a USS Liberty survivor who mentioned your name."
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
+
+**[01:04:06](/episodes/ep-his-JBjlkh8.md#ent-vehicle-uss-liberty-t-01-04-06)**
+> "spiritual movement in this room when we interviewed Phil Tourney of the USS Liberty."
 
 </details>
 

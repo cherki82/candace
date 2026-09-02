@@ -1,21 +1,26 @@
 ---
 title: "Anonymous Losee Center Eyewitness"
-description: "Anonymous Losee Center Eyewitness (Anonymous Sources) - 3 mentions"
+description: "Anonymous Losee Center Eyewitness (Anonymous Sources) - 6 mentions"
 id: "anon-src-puuMVxEu5NU-eyewitness"
 type: "ANONYMOUS_SOURCE"
 aliases:
   - "Anonymous Witness"
   - "lone witness"
+  - "Anonymous legacy source (claim-72522ece4e5d)"
+  - "Anonymous legacy source (claim-75a447ddd8b9)"
 categories:
   - "eyewitness"
   - "Charlie Kirk shooting footage"
+  - "eyewitness source"
+  - "anonymous eyewitness"
+  - "Charlie Kirk case"
 ---
 
 _Type: Anonymous Sources_
 
-**Also known as:** Anonymous Witness, lone witness
+**Also known as:** Anonymous Witness, lone witness, Anonymous legacy source (claim-72522ece4e5d), Anonymous legacy source (claim-75a447ddd8b9)
 
-**Categories:** eyewitness, Charlie Kirk shooting footage
+**Categories:** eyewitness, Charlie Kirk shooting footage, eyewitness source, anonymous eyewitness, Charlie Kirk case
 
 **Entity verification:** verified
 > The source intentionally withholds the eyewitness's identity while presenting his recording and interview.
@@ -25,9 +30,9 @@ Source: [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. |
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-04-43">2026-07-29 · 00:04:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-04-43">2026-07-29 · 00:04:48</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
-<div><span>Statements by</span><strong>10</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>23</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -54,7 +59,7 @@ Source: [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. |
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
@@ -96,13 +101,13 @@ Source: [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. |
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Anonymous Losee Center Eyewitness (10)</strong></summary>
+<summary><strong class="section-title">Statements by Anonymous Losee Center Eyewitness (23)</strong></summary>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1)</summary>
 
 - [00:41:37](/episodes/ep-iB-YtO3UZOg.md#t-00-41-35) [✓] (Claim) ["An unidentified eyewitness said a person had run across the Losee Center roof an..."](/statements/statement-9af1a6181380.md)
-  - About: [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md)
+  - About: [Losee Center](/entities/org-losee-center.md)
 
 </details>
 
@@ -113,6 +118,14 @@ Source: [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. |
   - About: [Losee Center](/entities/org-losee-center.md)
 
 - [00:12:52](/episodes/ep-Vu6Y24pqhZs.md#t-00-12-52) [○] (Claim) ["The anonymous Losee Center eyewitness said he saw no recoil before the rooftop p..."](/statements/statement-f4e8e2b579dc.md)
+  - About: [Losee Center](/entities/org-losee-center.md)
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:14:48](/episodes/ep-N4uM8Jdr410.md#t-00-14-15) [✓] (Claim) ["An anonymous rooftop eyewitness said the man wore a black jacket and tactical ge..."](/statements/statement-1dad3c449079.md)
   - About: [Losee Center](/entities/org-losee-center.md)
 
 </details>
@@ -143,10 +156,70 @@ Source: [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. |
 
 </details>
 
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [00:21:39](/episodes/ep-es7PWdFGoFI.md#t-00-21-09) [○] (Claim) ["An unnamed eyewitness reportedly told Candace Owens that he filmed a person on t..."](/statements/statement-f5fc53767ccf.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1)</summary>
+
+- [00:04:08](/episodes/ep-QZWSsq8ZWzw.md#t-00-03-42) [○] (Claim) ["Eyewitness told me that that gun doesn't even match what I saw"](/statements/statement-db7dd4a3398e.md)
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (10)</summary>
+
+- [00:22:35](/episodes/ep-UBkFkg4UNY8.md#t-00-21-56) [○] (Claim) ["An eyewitness told Owens that the shooter reached the roof no earlier than 12:22..."](/statements/statement-e5d368cc96d8.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:22:35](/episodes/ep-UBkFkg4UNY8.md#t-00-21-56) [○] (Opinion) ["The eyewitness told Owens that the FBI's reported 12:15 roof-arrival time did no..."](/statements/statement-a62780c5890e.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:23:23](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) [○] (Claim) ["The eyewitness told Owens that the shooter description he reported differed from..."](/statements/statement-8acfe8fbba49.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:23:31](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) [○] (Claim) ["An eyewitness told Owens that the shooter wore tactical gear and a face mask rat..."](/statements/statement-826e27868c00.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:23:47](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) [○] (Opinion) ["An eyewitness told Owens that the shooter looked to him like a foreign agent and..."](/statements/statement-09eff96da597.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:23:54](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) [○] (Opinion) ["The eyewitness told Owens he was very certain the shooter was skilled, knew what..."](/statements/statement-973c2024303b.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:24:16](/episodes/ep-UBkFkg4UNY8.md#t-00-24-07) [○] (Claim) ["An eyewitness told Owens that after George Zinn was arrested, he told someone on..."](/statements/statement-c30f477ea3a9.md)
+  - About: [George Zinn](/entities/person-george-zinn.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:24:25](/episodes/ep-UBkFkg4UNY8.md#t-00-24-07) [○] (Opinion) ["The eyewitness told Owens the shooter was obviously young because he watched the..."](/statements/statement-df82daead25e.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:24:37](/episodes/ep-UBkFkg4UNY8.md#t-00-24-07) [○] (Claim) ["An eyewitness told Owens that the gun found by the FBI was not the gun he saw an..."](/statements/statement-fc87a34e3d20.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:25:07](/episodes/ep-UBkFkg4UNY8.md#t-00-24-44) [○] (Opinion) ["An eyewitness speculated that the shooter may have used a shorter rifle platform..."](/statements/statement-a324d115ce60.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Anonymous Losee Center Eyewitness (9)</strong></summary>
+<summary><strong class="section-title">Statements about Anonymous Losee Center Eyewitness (12)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+
+- [00:14:48](/episodes/ep-N4uM8Jdr410.md#t-00-14-15) (Opinion) **Candace Owens**: ["Candace Owens said she believed the blurry rooftop object described pu..."](/statements/statement-866ec339bfbd.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:15:23](/episodes/ep-N4uM8Jdr410.md#t-00-14-58) (Claim) **Candace Owens**: ["Candace Owens said her rooftop eyewitness, who described a black jacke..."](/statements/statement-c3ace0cdac30.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (9)</summary>
@@ -177,6 +250,13 @@ Source: [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. |
 
 - [00:21:18](/episodes/ep-puuMVxEu5NU.md#t-00-20-59) (Opinion) **Candace Owens**: ["Owens guessed that the prosecution probably did not call the anonymous..."](/statements/statement-d62642087496.md)
   - Also about: [FBI](/entities/org-fbi.md), [.30-06 Springfield](/entities/concept-30-06-springfield.md)
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
+
+- [00:22:28](/episodes/ep-UBkFkg4UNY8.md#t-00-21-56) (Claim) **Candace Owens**: ["Owens said the anonymous eyewitness had extensive firearms experience ..."](/statements/statement-ac0a6691553c.md)
 
 </details>
 

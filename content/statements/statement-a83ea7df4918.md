@@ -1,6 +1,6 @@
 ---
 title: "Owens said Tyler Robinson sent his Wordle score to a friend ..."
-description: "\"Owens said Tyler Robinson sent his Wordle score to a friend at 1128.\" — Candace Owens"
+description: "\"Owens said Tyler Robinson sent his Wordle score to a friend at 11:28 a.m. on September 10, 2025.\" — Candace Owens"
 statement_id: "statement-a83ea7df4918"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Owens said Tyler Robinson sent his Wordle score to a friend at 1128.
+> Owens said Tyler Robinson sent his Wordle score to a friend at 11:28 a.m. on September 10, 2025.
 
 ## Attribution
 

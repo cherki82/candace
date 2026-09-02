@@ -1,8 +1,8 @@
 ---
 title: "TPUSA was going in a different direction, the employee had b..."
-description: "\"TPUSA was going in a different direction, the employee had been terminated, and the employee had to leave.\" — Anonymous Source #2 (Ep gG4ZoYUjUc8)"
+description: "\"TPUSA was going in a different direction, the employee had been terminated, and the employee had to leave.\" — Frank (TPUSA lawyer; surname unverified)"
 statement_id: "statement-1ff7183e5b30"
-speaker: "Anonymous Source #2 (Ep gG4ZoYUjUc8)"
+speaker: "Frank (TPUSA lawyer; surname unverified)"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #2 (Ep gG4ZoYUjUc8)](/entities/anon-src-gG4ZoYUjUc8-002.md) (Anonymous Source)
+**Speaker:** [Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md) (Anonymous Source)
 
 **Delivery:** Made directly
 

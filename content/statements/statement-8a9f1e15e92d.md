@@ -21,7 +21,7 @@ type: "opinion"
 ## About
 
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
-- [Cowboy’s Smokehouse Cafe](/entities/org-cowboys-smokehouse-cafe.md) (org)
+- [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md) (org)
 
 ## Source
 

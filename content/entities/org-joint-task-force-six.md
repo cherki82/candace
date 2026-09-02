@@ -109,7 +109,7 @@ Source: [Joint Task Force North — History](https://www.jtfn.northcom.mil/About
 <details>
 <summary>Founded By (1)</summary>
 
-- **[George H.W. Bush](/entities/person-george-hw-bush.md)**
+- **[George H. W. Bush](/entities/person-george-h-w-bush.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:14](/episodes/ep-t4U7NjnUEgc.md#t-00-05-09): “He was just 20 years old, and he was put on what was actually a brand new command, the first ever Joint Task Force Six, and this new command was being created down at the border by President George H.W. Bush”
@@ -135,7 +135,7 @@ Source: [Joint Task Force North — History](https://www.jtfn.northcom.mil/About
 
 </details>
 
-- **[George H.W. Bush](/entities/person-george-hw-bush.md)** founded this
+- **[George H. W. Bush](/entities/person-george-h-w-bush.md)** founded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:14](/episodes/ep-t4U7NjnUEgc.md#t-00-05-09): “He was just 20 years old, and he was put on what was actually a brand new command, the first ever Joint Task Force Six, and this new command was being created down at the border by President George H.W. Bush”
@@ -153,7 +153,7 @@ Source: [Joint Task Force North — History](https://www.jtfn.northcom.mil/About
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3)</summary>
 
 - [00:05:09](/episodes/ep-t4U7NjnUEgc.md#t-00-05-09) (Claim) **Candace Owens**: ["Owens said Joint Task Force Six was a brand-new command created at the..."](/statements/statement-7a3c360b229e.md)
-  - Also about: [George H.W. Bush](/entities/person-george-hw-bush.md)
+  - Also about: [George H. W. Bush](/entities/person-george-h-w-bush.md)
 
 - [00:09:08](/episodes/ep-t4U7NjnUEgc.md#t-00-09-08) (Accusation) **Harry Myers** (via quoted document): ["Harry Myers alleged that photographs in the Mexican-side tunnel house ..."](/statements/statement-744afb33e8e0.md)
   - Also about: [El Chapo](/entities/person-el-chapo.md), [United States Border Patrol](/entities/org-us-border-patrol.md)

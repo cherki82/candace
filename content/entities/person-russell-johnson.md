@@ -6,6 +6,7 @@ type: "PERSON"
 aliases:
   - "Pastor Russell"
   - "Pastor Russ"
+  - "Pastor Russell (Pursuit Church; surname unverified)"
 categories:
   - "pastor"
   - "The Pursuit"
@@ -13,7 +14,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Pastor Russell, Pastor Russ
+**Also known as:** Pastor Russell, Pastor Russ, Pastor Russell (Pursuit Church; surname unverified)
 
 **Categories:** pastor, The Pursuit
 

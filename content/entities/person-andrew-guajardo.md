@@ -27,9 +27,9 @@ Source: [Utah DHHS Institutional Review Board Membership](https://dhhs.utah.gov/
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -46,6 +46,10 @@ Source: [Utah DHHS Institutional Review Board Membership](https://dhhs.utah.gov/
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -125,10 +129,13 @@ Source: [Utah DHHS Institutional Review Board Membership](https://dhhs.utah.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Guajardo (4)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Guajardo (5)</strong></summary>
 
 <details>
-<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (4)</summary>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (5)</summary>
+
+- [00:00:31](/episodes/ep-iB-YtO3UZOg.md#t-00-00-01) (Claim) **Candace Owens**: ["Owens identified Andrew Guajardo as the medical examiner who performed..."](/statements/statement-da7affc1af2b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:02:17](/episodes/ep-iB-YtO3UZOg.md#t-00-02-12) (Claim) **Candace Owens**: ["Andrew Guajardo moved from New York to Utah in 2018 and worked as an a..."](/statements/statement-0a657d167151.md)
 

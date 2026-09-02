@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Anonymous Source #1 (Ep UBkFkg4UNY8)](/entities/anon-src-UBkFkg4UNY8-001.md) (anonymous_source)
+- [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md) (anonymous_source)
 
 ## Source
 

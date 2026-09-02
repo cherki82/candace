@@ -47,7 +47,7 @@ _No relationships extracted yet._
   - About: [John F. Kennedy](/entities/person-john-f-kennedy.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Texas](/entities/gpe-texas.md)
 
 - [00:02:28](/episodes/ep-NIEbqsLAK8g.md#t-00-01-54) [○] (Claim) ["The email source claimed Golda Meir and Lyndon B. Johnson were siblings."](/statements/statement-6fc4e471c12a.md)
-  - About: [Golda Meir](/entities/person-golda-meir.md), [Lyndon B. Johnson](/entities/person-lyndon-b-johnson.md)
+  - About: [Golda Meir](/entities/person-golda-meir.md), [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)
 
 - [00:03:33](/episodes/ep-NIEbqsLAK8g.md#t-00-03-21) [○] (Accusation) ["The email source alleged that bought-and-paid-for police officers across the Uni..."](/statements/statement-09966aaf479e.md)
   - About: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)

@@ -16,7 +16,7 @@ date: "2025-09-10"
 
 > Terrell Farnsworth removed the SD card from the rear camera less than four minutes after Charlie Kirk was shot.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10....
 
@@ -33,3 +33,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=9hRcfSrri70&t=503s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And yesterday we showed you that Terrell pocketed that SD card.
+
+### 3. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
+
+**Episode:** [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md)
+**Timestamp:** [00:20:40](/episodes/ep-ZkDO-MRLUco.md#event-event-2025-09-10-terrell-farnsworth-removed-the-sd-card-f-t-00-20-31) 
+<a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=1240s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> he then jumps down from the grassy knoll, not crying, he's chill, starts removing SD cards.

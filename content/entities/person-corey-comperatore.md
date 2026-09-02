@@ -1,28 +1,29 @@
 ---
 title: "Corey Comperatore"
-description: "Corey Comperatore (People) - 14 mentions"
+description: "Corey Comperatore (People) - 16 mentions"
 id: "person-corey-comperatore"
 type: "PERSON"
 categories:
   - "Butler rally victim"
   - "firefighter"
+  - "Butler rally shooting victim"
 ---
 
 _Type: People_
 
-**Categories:** Butler rally victim, firefighter
+**Categories:** Butler rally victim, firefighter, Butler rally shooting victim
 
 **Entity verification:** verified
 > Congressional Record confirms the canonical spelling Corey Comperatore and his role as the firefighter killed at the July 13 Butler rally.
 Source: [Congressional Record — Honoring the Life of Corey Comperatore](https://www.congress.gov/118/crec/2024/07/22/170/118/CREC-2024-07-22-house.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-00-01">2026-06-15 · 00:00:22</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#t-00-20-29">2025-09-24 · 00:20:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-corey-comperatore-t-00-28-10">2026-07-16 · 00:28:17</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -31,6 +32,7 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-00-01">Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-QZWSsq8ZWzw.md#t-00-20-29" style="--pulse-height:22%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 2 mentions" title="2025-09-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-00-01" style="--pulse-height:100%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 9 mentions" title="2026-06-15 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-corey-comperatore-t-00-02-16" style="--pulse-height:22%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-corey-comperatore-t-00-48-59" style="--pulse-height:11%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
@@ -40,6 +42,7 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#t-00-20-29) | 2 |
 | 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-00-01) | 9 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-corey-comperatore-t-00-02-16) | 2 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-corey-comperatore-t-00-48-59) | 1 |
@@ -55,7 +58,7 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (2 mentions)</summary>
@@ -116,6 +119,17 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 
 **[00:24:04](/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-23-44)**
 > "... they are receiving about how Corey Comperatore was killed. Imagine that."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
+
+**[00:20:50](/episodes/ep-QZWSsq8ZWzw.md#t-00-20-29)**
+> "...Trump did not die, but tragically, one of his supporters did, okay? A 50-year-old firefighter named Corey Comparatore lost his life trying to save his children. And then we were told virtually nothing. In fact, we wer..."
+
+**[00:20:57](/episodes/ep-QZWSsq8ZWzw.md#t-00-20-29)**
+> "A 50-year-old firefighter named Corey Comparatore lost his life trying to save his children"
 
 </details>
 
@@ -184,7 +198,7 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Corey Comperatore (8)</strong></summary>
+<summary><strong class="section-title">Statements about Corey Comperatore (9)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (3)</summary>
@@ -217,6 +231,14 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 
 - [00:23:44](/episodes/ep-5NQyGuRYbU8.md#t-00-23-13) (Claim) **Anonymous Source #1 (Ep 5NQyGuRYbU8)** (via paraphrase): ["An unnamed authority said Corey Comperatore's widow and family were di..."](/statements/statement-ea615daf7444.md)
   - Also about: [United States Secret Service](/entities/org-united-states-secret-service.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1)</summary>
+
+- [00:21:29](/episodes/ep-QZWSsq8ZWzw.md#t-00-21-12) (Claim) **Candace Owens**: ["On July 13, 2024, a 20-year-old Thomas Matthew Crooks climbed onto a r..."](/statements/statement-34c52055dd7e.md)
+  - Also about: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>
 

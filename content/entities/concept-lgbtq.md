@@ -1,21 +1,22 @@
 ---
 title: "LGBTQ"
-description: "LGBTQ (Concepts) - 25 mentions"
+description: "LGBTQ (Concepts) - 31 mentions"
 id: "concept-lgbtq"
 type: "CONCEPT"
 aliases:
   - "LGBTQIA"
+  - "LGBTQ"
+  - "LGBT"
 categories:
   - "identity"
+  - "identity and sexuality"
 ---
 
 _Type: Concepts_
 
-**Also known as:** LGBTQIA
+**Also known as:** LGBTQIA, LGBTQ, LGBT
 
-**Categories:** identity
-
-> **Possibly overlapping entity records:** [LGBT](/entities/concept-lgbt). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** identity, identity and sexuality
 
 **Entity verification:** verified
 > Library of Congress page supports canonical acronym usage.
@@ -24,8 +25,8 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-concept-lgbtq-t-00-53-06">2025-09-23 · 00:53:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-lgbtq-t-01-03-16">2026-08-21 · 01:03:26</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +39,7 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-concept-lgbtq-t-00-53-06" style="--pulse-height:20%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-lgbtq-t-00-00-00" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-lgbtq-t-01-17-16" style="--pulse-height:40%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-lgbtq-t-00-42-10" style="--pulse-height:20%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-lgbtq-t-00-33-19" style="--pulse-height:20%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-lgbtq-t-00-30-33" style="--pulse-height:20%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
@@ -47,6 +49,8 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-concept-lgbtq-t-00-07-31" style="--pulse-height:40%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-lgbtq-t-00-22-04" style="--pulse-height:20%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-lgbtq-t-00-03-08" style="--pulse-height:80%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 4 mentions" title="2026-08-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-lgbtq-t-02-23-41" style="--pulse-height:40%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-lgbtq-t-01-42-39" style="--pulse-height:40%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-lgbtq-t-00-30-10" style="--pulse-height:20%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-concept-lgbtq-t-00-37-43" style="--pulse-height:20%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-lgbtq-t-01-02-36" style="--pulse-height:60%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 3 mentions" title="2026-08-21 · 3 mentions"><span></span></a>
@@ -57,6 +61,7 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 |---|---|---:|
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-concept-lgbtq-t-00-53-06) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-lgbtq-t-00-00-00) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-lgbtq-t-01-17-16) | 2 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-concept-lgbtq-t-00-42-10) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-lgbtq-t-00-33-19) | 1 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-concept-lgbtq-t-00-30-33) | 1 |
@@ -66,6 +71,8 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-concept-lgbtq-t-00-07-31) | 2 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-concept-lgbtq-t-00-22-04) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-concept-lgbtq-t-00-03-08) | 4 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-lgbtq-t-02-23-41) | 2 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-concept-lgbtq-t-01-42-39) | 2 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-concept-lgbtq-t-00-30-10) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-concept-lgbtq-t-00-37-43) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-concept-lgbtq-t-01-02-36) | 3 |
@@ -80,7 +87,7 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (3 mentions)</summary>
@@ -109,6 +116,28 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 
 **[00:30:10](/episodes/ep-E7P2ShoYDUA.md#ent-concept-lgbtq-t-00-30-10)**
 > "he stopped and ate at Chick-fil-A, which if you are into LGBTQ issues, wouldn't be your lunch before you go kill Charlie Kirk for LGBTQ issues."
+
+</details>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
+
+**[02:23:49](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-lgbtq-t-02-23-41)**
+> "...tified they never spoke about LGBT."
+
+**[02:24:08](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-lgbtq-t-02-23-41)**
+> "LGBTQ issues that he stopped and ate at Chick-fil-A,"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[01:42:47](/episodes/ep-aPOyk1i2LOc.md#ent-concept-lgbtq-t-01-42-39)**
+> "...tified they never spoke about LGBT."
+
+**[01:43:06](/episodes/ep-aPOyk1i2LOc.md#ent-concept-lgbtq-t-01-42-39)**
+> "LGBTQ issues, that he stopped and ate at Chick-fil-A, w..."
 
 </details>
 
@@ -212,6 +241,17 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 </details>
 
 <details>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
+
+**[01:17:16](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-lgbtq-t-01-17-16)**
+> "whether it's the LGBT"
+
+**[01:16:59](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-lgbtq-t-01-16-59)**
+> "...ntion with the pushing of the lgbtq narrative is i see the more nefarious thing they ..."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
 **[00:00:38](/episodes/ep-HYn0P-P1wUw.md#ent-concept-lgbtq-t-00-00-00)**
@@ -250,7 +290,7 @@ _No relationships extracted yet._
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
 
-- [00:08:10](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) (Claim) **Lance Twiggs** (via quoted speech): ["Lance Twiggs testified that he and Tyler Robinson had never discussed ..."](/statements/statement-cfe56946f7d7.md)
+- [00:08:10](/episodes/ep-ChuWo-n49B8.md#t-00-08-10) (Claim) **Candace Owens** (via paraphrase): ["Owens characterized Lance Twiggs's account as saying that he and Tyler..."](/statements/statement-cfe56946f7d7.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

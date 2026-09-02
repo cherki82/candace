@@ -273,7 +273,7 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 
 </details>
 
-- **[Turning Point Faith](/entities/org-turning-point-faith.md)** worked with this
+- **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:15:31](/episodes/ep-wcD2khO3rOA.md#t-00-14-55): “TPUSA Faith works with Pastor Greg Laurie”
@@ -344,7 +344,7 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
   - Also about: [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Paul Havsgaard](/entities/person-paul-havsgaard.md)
 
 - [00:37:04](/episodes/ep-ZZGWo6oDscc.md#t-00-36-29) (Accusation) **Candace Owens**: ["Turning Point USA welcomes pastors who appear to be rehabilitating ped..."](/statements/statement-b6cf54701c63.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point Faith](/entities/org-turning-point-faith.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 
 </details>
 
@@ -352,7 +352,7 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
 - [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) (Accusation) **Candace Owens**: ["Turning Point Faith is partnering with Greg Laurie's Harvest Church wh..."](/statements/statement-6141210a0ed9.md)
-  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Romania](/entities/gpe-romania.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Romania](/entities/gpe-romania.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
-title: "Video showed Nate Walker with his bag around 12:15; when the..."
-description: "\"Video showed Nate Walker with his bag around 12:15; when the explosive occurred less than ten minutes later he was upstairs, and about one minute and ...\" — Candace Owens"
+title: "Owens said footage showed Nate Walker carrying a bag and spe..."
+description: "\"Owens said footage showed Nate Walker carrying a bag and speaking with Dan Flood around 12:15, then upstairs around the incident she described as an e...\" — Candace Owens"
 statement_id: "statement-295c26ed081f"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Video showed Nate Walker with his bag around 12:15; when the explosive occurred less than ten minutes later he was upstairs, and about one minute and 45 seconds afterward he was near the Hall of Flags without his bag
+> Owens said footage showed Nate Walker carrying a bag and speaking with Dan Flood around 12:15, then upstairs around the incident she described as an explosion, near the Hall of Flags around 12:25 without a visible bag, and descending roughly two minutes later.
 
 ## Attribution
 

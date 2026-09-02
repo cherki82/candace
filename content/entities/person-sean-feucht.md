@@ -194,7 +194,7 @@ Source: [About — Sean Feucht](https://www.seanfeucht.com/about)
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
 - [00:58:25](/episodes/ep-wcD2khO3rOA.md#t-00-57-44) (Claim) **Candace Owens**: ["Owens said Turning Point Faith held a pastor summit led by Rob McCoy a..."](/statements/statement-1b0c9fa3365f.md)
-  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Rob McCoy](/entities/person-rob-mccoy.md)
 
 </details>
 

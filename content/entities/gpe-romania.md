@@ -1,6 +1,6 @@
 ---
 title: "Romania"
-description: "Romania (Places) - 154 mentions"
+description: "Romania (Places) - 153 mentions"
 id: "gpe-romania"
 type: "GPE"
 categories:
@@ -20,7 +20,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-romania-t-00-08-14">2025-10-31 · 00:08:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-romania-t-00-56-28">2026-08-06 · 00:56:28</a></strong></div>
 <div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>154</strong></div>
+<div><span>Mentions</span><strong>153</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>55</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -45,7 +45,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-romania-t-00-00-00" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 29 mentions" title="2026-03-04 · 29 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-romania-t-00-26-19" style="--pulse-height:38%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 11 mentions" title="2026-03-06 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-romania-t-00-18-32" style="--pulse-height:24%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 7 mentions" title="2026-03-10 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-romania-t-00-12-32" style="--pulse-height:55%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 16 mentions" title="2026-03-11 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-romania-t-00-12-32" style="--pulse-height:52%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 15 mentions" title="2026-03-11 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-romania-t-00-16-09" style="--pulse-height:17%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 5 mentions" title="2026-03-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-romania-t-00-36-41" style="--pulse-height:10%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-romania-t-00-50-33" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
@@ -78,7 +78,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-romania-t-00-00-00) | 29 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-romania-t-00-26-19) | 11 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-romania-t-00-18-32) | 7 |
-| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-romania-t-00-12-32) | 16 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-romania-t-00-12-32) | 15 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-romania-t-00-16-09) | 5 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-romania-t-00-36-41) | 3 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-romania-t-00-50-33) | 1 |
@@ -103,7 +103,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (154)</strong></summary>
+<summary><strong class="section-title">Raw mentions (153)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -324,7 +324,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 </details>
 
 <details>
-<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (16 mentions)</summary>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (15 mentions)</summary>
 
 **[00:12:49](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-romania-t-00-12-32)**
 > "Constanta, Romania."
@@ -337,9 +337,6 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 **[00:18:54](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-romania-t-00-18-54)**
 > "...And, you know, I have been to Romania and teamed up with the Marine Corps to open up an..."
-
-**[00:19:00](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-romania-t-00-18-54)**
-> "You know, I have been to Romania and teamed up with the Marine Corps to open up an..."
 
 **[00:19:53](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-romania-t-00-19-53)**
 > "...lacement Center in Constanta, Romania, where our base was."
@@ -901,7 +898,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [China](/entities/gpe-china.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
 
 - [00:38:49](/episodes/ep-DdPjoy5W-wY.md#t-00-38-36) (Citation) **Candace Owens**: ["Candace Owens says Otto Busher III had been accused of running a broth..."](/statements/statement-6d376a17a488.md)
-  - Also about: [Otto Busher III](/entities/person-otto-busher-iii.md)
+  - Also about: [Otto A. Busher III](/entities/person-otto-a-busher-iii.md)
 
 - [00:39:07](/episodes/ep-DdPjoy5W-wY.md#t-00-38-36) (Claim) **Candace Owens**: ["The Romanian government established its National Office for Gambling G..."](/statements/statement-2db4e97720d4.md)
 
@@ -1026,13 +1023,13 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md), [Romanian Angels Project](/entities/org-romanian-angels-project.md)
 
 - [00:11:27](/episodes/ep-wcD2khO3rOA.md#t-00-10-47) (Accusation) **Candace Owens**: ["The Romanian Angels Project worked with Colonel Otto Busher III, who w..."](/statements/statement-254404111778.md)
-  - Also about: [Romanian Angels Project](/entities/org-romanian-angels-project.md), [Otto Busher III](/entities/person-otto-busher-iii.md)
+  - Also about: [Romanian Angels Project](/entities/org-romanian-angels-project.md), [Otto A. Busher III](/entities/person-otto-a-busher-iii.md)
 
 - [00:12:20](/episodes/ep-wcD2khO3rOA.md#t-00-12-10) (Claim) **Candace Owens**: ["Tyler Bowyer traveled to Romania in 2011 to work with the Romanian gov..."](/statements/statement-dee027851b21.md)
   - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Ukraine](/entities/gpe-ukraine.md)
 
 - [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) (Accusation) **Candace Owens**: ["Turning Point Faith is partnering with Greg Laurie's Harvest Church wh..."](/statements/statement-6141210a0ed9.md)
-  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)
 
 - [00:13:54](/episodes/ep-wcD2khO3rOA.md#t-00-13-35) (Claim) **Candace Owens**: ["Andrew Kolvet’s brother Curtis is a lieutenant colonel stationed in Ro..."](/statements/statement-005748582539.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Astrid Tuminez](/entities/person-astrid-tuminez.md)

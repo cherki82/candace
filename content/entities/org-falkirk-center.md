@@ -156,7 +156,7 @@ Source: [Newly renamed Standing for Freedom Center holds steady to its mission |
 
 </details>
 
-- **[Turning Point Faith](/entities/org-turning-point-faith.md)** affiliated with this
+- **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:09:26](/episodes/ep-wcD2khO3rOA.md#t-00-09-20): “what happened after it fell apart was that they decided to instead create Turning Point Faith.”
@@ -217,7 +217,7 @@ Source: [Newly renamed Standing for Freedom Center holds steady to its mission |
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
 - [00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36) (Claim) **Candace Owens**: ["Jerry Falwell Jr. and Charlie Kirk established the Falkirk Center, and..."](/statements/statement-b5a582fabd77.md)
-  - Also about: [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point Faith](/entities/org-turning-point-faith.md)
+  - Also about: [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 
 </details>
 

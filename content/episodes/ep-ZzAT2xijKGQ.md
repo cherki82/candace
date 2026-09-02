@@ -346,7 +346,7 @@ youtube_url: "https://www.youtube.com/watch?v=ZzAT2xijKGQ"
 - [00:19:23](#t-00-19-14) [✓] (Claim) **Candace Owens**: ["Erika Frantzve enrolled at Arizona State University for her final year of colleg..."](/statements/statement-12cf6e1954ae.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Arizona State University](/entities/org-arizona-state-university.md)
 - [00:20:02](#t-00-19-45) [◐] (Accusation) **Candace Owens**: ["The Romanian Angels Project worked with Colonel Otto Busher III, who was later a..."](/statements/statement-254404111778.md)
-  - About: [Romanian Angels Project](/entities/org-romanian-angels-project.md), [Otto Busher III](/entities/person-otto-busher-iii.md), [Romania](/entities/gpe-romania.md)
+  - About: [Romanian Angels Project](/entities/org-romanian-angels-project.md), [Otto A. Busher III](/entities/person-otto-a-busher-iii.md), [Romania](/entities/gpe-romania.md)
 - [00:21:19](#t-00-21-09) [○] (Claim) **Candace Owens**: ["In 2014 and 2015, Erika Kirk described herself as a casting director or casting ..."](/statements/statement-d5c5ef915908.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Los Angeles](/entities/gpe-los-angeles.md)
 - [00:21:28](#t-00-21-28) [○] (Opinion) **Candace Owens**: ["I believe Erika Kirk knew Donald Trump before she met Charlie Kirk."](/statements/statement-15f60807cdbe.md)

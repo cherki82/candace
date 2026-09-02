@@ -1,8 +1,8 @@
 ---
 title: "In a 1102 statement, Farnsworth said Visual Impulse's setup ..."
-description: "\"In a 1102 statement, Farnsworth said Visual Impulse's setup at the September 10 event used three camera angles: one on Charlie Kirk, one on questioner...\" — Terrell Farnsworth"
+description: "\"In a 1102 statement, Farnsworth said Visual Impulse's setup at the September 10 event used three camera angles: one on Charlie Kirk, one on questioner...\" — Terryl Farnsworth"
 statement_id: "statement-6c2336878f0c"
-speaker: "Terrell Farnsworth"
+speaker: "Terryl Farnsworth"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (Quoted)
+**Speaker:** [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (Quoted)
 
 **Delivery:** Quoted from document
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
@@ -23,7 +23,7 @@ veracity: "true"
 
 ## About
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 - [Visual Impulse, LLC](/entities/org-visual-impulse.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 

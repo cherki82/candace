@@ -1,0 +1,23 @@
+---
+title: "Charlie Kirk attacked by Antifa"
+description: "Evidence for the relationship: Charlie Kirk attacked by Antifa"
+relationship_id: "rel-1eb0ec5b2539"
+subject: "person-charlie-kirk"
+predicate: "attacked by"
+object: "concept-antifa"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Charlie Kirk](/entities/person-charlie-kirk) attacked by [Antifa](/entities/concept-antifa)
+
+### Evidence (1 mentions)
+
+**[To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co)**
+
+- [00:15:22](/episodes/ep-_dRaEO47-co#t-00-15-22): _I mean, of course, who could forget the infamous day that we got chased out of a Philadelphia restaurant by Antifa, and they threw water and they threw an egg on Charlie (Charlie Kirk)?_
+
+### Related
+
+- [Charlie Kirk](/entities/person-charlie-kirk)
+- [Antifa](/entities/concept-antifa)

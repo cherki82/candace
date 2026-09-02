@@ -1,17 +1,16 @@
 ---
 title: "Owens said she had been told that Rick Cutler was among thos..."
-description: "\"Owens said she had been told that Rick Cutler was among those who allegedly stripped Charlie Kirk's clothing at the hospital and that federal agents a...\" — Candace Owens"
+description: "\"Owens said she had been told that Rick Cutler was among those who removed their own clothes at the hospital, and that federal agents allegedly collect...\" — Candace Owens"
 statement_id: "statement-e911fbdffe93"
 speaker: "Candace Owens"
-type: "accusation"
-veracity: "true"
+type: "factual_claim"
 ---
 
-**Status:** ✓ Verification recorded — see analysis for scope
+**Status:** ○ Not yet verified
 
 ## Statement
 
-> Owens said she had been told that Rick Cutler was among those who allegedly stripped Charlie Kirk's clothing at the hospital and that federal agents allegedly stripped Kirk down to his boxer briefs afterward.
+> Owens said she had been told that Rick Cutler was among those who removed their own clothes at the hospital, and that federal agents allegedly collected the removed clothing, down to boxer briefs.
 
 ## Attribution
 
@@ -22,7 +21,6 @@ veracity: "true"
 ## About
 
 - [Rick Cutler](/entities/person-rick-cutler.md) (person)
-- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [FBI](/entities/org-fbi.md) (org)
 
 ## Source
@@ -35,21 +33,8 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The primary episode transcript records Owens saying Rick Cutler was allegedly among those who removed clothing at the hospital and that she had been told federal agents later took clothing down to boxer briefs. This verifies the statement as an attributed, expressly secondhand allegation; it does not establish that the alleged clothing removal or seizure occurred.
-
-**Confidence:** High
-
-**Sources:**
-
-- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](https://pod.wave.co/podcast/candace-cc79581b-6fe8-428e-ac65-6f1bc0d005e4/amnesia-or-perjury-exclusive-footage-of-the-other-man-on-the-rooftop-ep-370)
-
-*Verified: 2026-08-28T01:03:22.694985*
+_This statement has not yet been verified._
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Factual Claim | **Verifiable:** Yes

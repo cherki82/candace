@@ -228,10 +228,10 @@ Source: [What is the Unification Church and why did a Japanese court order it di
   - Also about: [Liberal Democratic Party of Japan](/entities/org-liberal-democratic-party-japan.md), [Japan](/entities/gpe-japan.md)
 
 - [00:27:40](/episodes/ep-CMcktj3Egfo.md#t-00-27-10) (Accusation) **Candace Owens**: ["Candace Owens said Turning Point Faith was intended to be the Moonies ..."](/statements/statement-a8c533e3ee9c.md)
-  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [One-world government](/entities/concept-one-world-government.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [One-world government](/entities/concept-one-world-government.md)
 
 - [00:31:27](/episodes/ep-CMcktj3Egfo.md#t-00-31-08) (Accusation) **Candace Owens**: ["Candace Owens said the Unification movement was likely a CIA operation..."](/statements/statement-9c4ef026c214.md)
-  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [South Korea](/entities/gpe-south-korea.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [South Korea](/entities/gpe-south-korea.md)
 
 </details>
 

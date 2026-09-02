@@ -170,7 +170,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 - [01:37:49](/episodes/ep-nPhCKwJ6ye8.md#t-01-37-41) (Citation) **Candace Owens**: ["The authorities did not produce statements from Tyler Robinson's paren..."](/statements/statement-a152aa832f58.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Matt Robinson](/entities/person-matt-robinson.md)
 
-- [03:25:17](/episodes/ep-nPhCKwJ6ye8.md#t-03-25-12) (Citation) **Candace Owens**: ["After rewatching the testimony, Candace Owens corrected her earlier cl..."](/statements/statement-7d36617db0e1.md)
+- [03:25:17](/episodes/ep-nPhCKwJ6ye8.md#t-03-25-12) (Citation) **Candace Owens**: ["After rewatching the testimony, Owens corrected her inference that Lan..."](/statements/statement-7d36617db0e1.md)
   - Also about: [Matt Robinson](/entities/person-matt-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>

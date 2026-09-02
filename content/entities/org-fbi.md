@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 767 mentions"
+description: "FBI (Organizations) - 766 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -28,9 +28,9 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-fbi-t-00-36-23">2025-09-15 · 00:36:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-fbi-t-00-31-13">2026-08-21 · 00:31:49</a></strong></div>
 <div><span>Episodes</span><strong>108</strong></div>
-<div><span>Mentions</span><strong>767</strong></div>
+<div><span>Mentions</span><strong>766</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>224</strong></div>
+<div><span>Statements about</span><strong>228</strong></div>
 <div><span>Relationships</span><strong>39</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -113,7 +113,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-04-55" style="--pulse-height:48%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 15 mentions" title="2026-04-21 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-fbi-t-00-56-04" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-fbi-t-00-32-49" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-fbi-t-00-47-11" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-fbi-t-00-47-11" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-fbi-t-00-01-17" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-fbi-t-00-18-17" style="--pulse-height:29%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 9 mentions" title="2026-05-19 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-org-fbi-t-00-22-22" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
@@ -226,7 +226,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-04-55) | 15 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-fbi-t-00-56-04) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-fbi-t-00-32-49) | 2 |
-| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-fbi-t-00-47-11) | 2 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-fbi-t-00-47-11) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-fbi-t-00-01-17) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-fbi-t-00-18-17) | 9 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-fbi-t-00-22-22) | 2 |
@@ -271,7 +271,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (767)</strong></summary>
+<summary><strong class="section-title">Raw mentions (766)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (3 mentions)</summary>
@@ -1099,10 +1099,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
-
-**[00:47:28](/episodes/ep-Pb7UlpRdW6U.md#ent-org-fbi-t-00-47-11)**
-> "Day Jean writes, 'I didn't believe any of the feds were telling the truth pertaining to what happened at the White House Correspondents' Dinner. I quit watching the news.'"
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
 
 **[00:47:28](/episodes/ep-Pb7UlpRdW6U.md#ent-org-fbi-t-00-47-11)**
 > "Day Jean writes, 'I didn't believe any of the feds were telling the truth pertaining to what happened at the White House Correspondents' Dinner. I quit watching the news.'"
@@ -3375,13 +3372,13 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (224)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (228)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
 
 - [00:30:05](/episodes/ep-_cNtgris8Ik.md#t-00-29-58) (Claim) **Candace Owens**: ["Owens said the FBI knew of the Panguitch restaurant lead and took a st..."](/statements/statement-8f1e2f9ada10.md)
-  - Also about: [Cowboy’s Smokehouse Cafe](/entities/org-cowboys-smokehouse-cafe.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Panguitch, Utah](/entities/gpe-panguitch-utah.md)
+  - Also about: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Panguitch, Utah](/entities/gpe-panguitch-utah.md)
 
 </details>
 
@@ -3389,7 +3386,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (4)</summary>
 
 - [00:15:05](/episodes/ep-4JxgOclKzqg.md#t-00-14-40) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said the SD cards Farnsworth removed were in the FBI's p..."](/statements/statement-80bc48bd9f7b.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 - [00:31:17](/episodes/ep-4JxgOclKzqg.md#t-00-30-48) (Claim) **Candace Owens**: ["Owens said the Utah State Bureau of Investigation could ask the FBI to..."](/statements/statement-603f5577441d.md)
   - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
@@ -3439,13 +3436,15 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (4)</summary>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (5)</summary>
 
 - [00:16:11](/episodes/ep-d7VsbEIWkP8.md#t-00-15-51) (Accusation) **Candace Owens**: ["Candace Owens claimed black shards were on the floor of the SUV that t..."](/statements/statement-9fd8c0c7bf15.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:23:55](/episodes/ep-d7VsbEIWkP8.md#t-00-23-30) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens reported that Matt Robinson suspected federal agents had..."](/statements/statement-94404f89c306.md)
   - Also about: [Matt Robinson](/entities/person-matt-robinson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:30:38](/episodes/ep-d7VsbEIWkP8.md#t-00-30-38) (Accusation) **Candace Owens**: ["Owens accused federal authorities of wanting to blur the stairwell foo..."](/statements/statement-f5ad4ec1fc48.md)
 
 - [00:31:02](/episodes/ep-d7VsbEIWkP8.md#t-00-30-38) (Claim) **Candace Owens**: ["Candace Owens said police drove Lance Twiggs to his parents' home afte..."](/statements/statement-16fca193f2c8.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
@@ -3456,7 +3455,10 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (3)</summary>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (4)</summary>
+
+- [00:03:23](/episodes/ep-ChuWo-n49B8.md#t-00-03-23) (Accusation) **Candace Owens**: ["Owens suggested that federal officers could use exposure of online chi..."](/statements/statement-8a21de87a78b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:11:59](/episodes/ep-ChuWo-n49B8.md#t-00-11-51) (Accusation) **Candace Owens**: ["Owens said the transfer of Terryl Farnsworth's camera footage from an ..."](/statements/statement-3b9179f3fe4a.md)
   - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
@@ -3470,13 +3472,23 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (2)</summary>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
 
-- [00:06:00](/episodes/ep-AH1KVKkweUE.md#t-00-05-49) (Accusation) **Candace Owens** (via paraphrase): ["Owens said she had been told that Rick Cutler was among those who alle..."](/statements/statement-e911fbdffe93.md)
-  - Also about: [Rick Cutler](/entities/person-rick-cutler.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:17:56](/episodes/ep-1CFDtD0IgEg.md#t-00-17-38) (Accusation) **Candace Owens**: ["Owens suggested that public backlash prompted officials to change the ..."](/statements/statement-25c0e36bab34.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Dan Bongino](/entities/person-dan-bongino.md)
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (3)</summary>
+
+- [00:06:00](/episodes/ep-AH1KVKkweUE.md#t-00-05-49) (Claim) **Candace Owens** (via paraphrase): ["Owens said she had been told that Rick Cutler was among those who remo..."](/statements/statement-e911fbdffe93.md)
+  - Also about: [Rick Cutler](/entities/person-rick-cutler.md)
 
 - [00:13:11](/episodes/ep-AH1KVKkweUE.md#t-00-13-11) (Claim) **Kash Patel** (via quoted speech): ["Kash Patel said Charlie Kirk was shot at 12:23 p.m. and the first FBI ..."](/statements/statement-3e9f77f39fac.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:13:35](/episodes/ep-AH1KVKkweUE.md#t-00-13-24) (Accusation) **Candace Owens**: ["Owens insinuated that the FBI's reported 16-minute arrival could sugge..."](/statements/statement-b4f84259142b.md)
 
 </details>
 
@@ -3533,7 +3545,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
   - Also about: [Dan Bongino](/entities/person-dan-bongino.md), [Benny Johnson](/entities/person-benny-johnson.md), [Graham Allen](/entities/person-graham-allen.md)
 
 - [00:15:23](/episodes/ep-N4uM8Jdr410.md#t-00-14-58) (Claim) **Candace Owens**: ["Candace Owens said her rooftop eyewitness, who described a black jacke..."](/statements/statement-c3ace0cdac30.md)
-  - Also about: [Anonymous Source #4 (Ep N4uM8Jdr410)](/entities/anon-src-N4uM8Jdr410-004.md)
+  - Also about: [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md)
 
 - [00:16:05](/episodes/ep-N4uM8Jdr410.md#t-00-15-42) (Claim) **Jennifer Faumuina** (via paraphrase): ["Jennifer Faumuina reportedly said she did not recall whether she signe..."](/statements/statement-0d9520a55e4a.md)
   - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
@@ -3889,7 +3901,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:05:37](/episodes/ep-UYkXV9mYbT4.md#t-00-05-20) (Opinion) **Candace Owens**: ["I am going to speculate this boldly: they were hiding the fact that th..."](/statements/statement-8db33ee5af32.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:08:17](/episodes/ep-UYkXV9mYbT4.md#t-00-08-03) (Claim) **Candace Owens**: ["The FBI was apparently on the phone with Justin Streiff and Frank Carn..."](/statements/statement-53b46473615f.md)
   - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Frank Carni](/entities/person-frank-carni.md)
@@ -4301,16 +4313,16 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (4)</summary>
 
-- [00:22:35](/episodes/ep-UBkFkg4UNY8.md#t-00-21-56) (Claim) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["An eyewitness told Owens that the shooter reached the roof no earlier ..."](/statements/statement-e5d368cc96d8.md)
+- [00:22:35](/episodes/ep-UBkFkg4UNY8.md#t-00-21-56) (Claim) **Anonymous Losee Center Eyewitness** (via quoted speech): ["An eyewitness told Owens that the shooter reached the roof no earlier ..."](/statements/statement-e5d368cc96d8.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-- [00:22:35](/episodes/ep-UBkFkg4UNY8.md#t-00-21-56) (Opinion) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["The eyewitness told Owens that the FBI's reported 12:15 roof-arrival t..."](/statements/statement-a62780c5890e.md)
+- [00:22:35](/episodes/ep-UBkFkg4UNY8.md#t-00-21-56) (Opinion) **Anonymous Losee Center Eyewitness** (via quoted speech): ["The eyewitness told Owens that the FBI's reported 12:15 roof-arrival t..."](/statements/statement-a62780c5890e.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-- [00:23:31](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) (Claim) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["An eyewitness told Owens that the shooter wore tactical gear and a fac..."](/statements/statement-826e27868c00.md)
+- [00:23:31](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) (Claim) **Anonymous Losee Center Eyewitness** (via quoted speech): ["An eyewitness told Owens that the shooter wore tactical gear and a fac..."](/statements/statement-826e27868c00.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-- [00:24:37](/episodes/ep-UBkFkg4UNY8.md#t-00-24-07) (Claim) **Anonymous Source #1 (Ep UBkFkg4UNY8)** (via quoted speech): ["An eyewitness told Owens that the gun found by the FBI was not the gun..."](/statements/statement-fc87a34e3d20.md)
+- [00:24:37](/episodes/ep-UBkFkg4UNY8.md#t-00-24-07) (Claim) **Anonymous Losee Center Eyewitness** (via quoted speech): ["An eyewitness told Owens that the gun found by the FBI was not the gun..."](/statements/statement-fc87a34e3d20.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </details>

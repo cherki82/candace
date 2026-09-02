@@ -22,7 +22,7 @@ veracity: "mixed"
 ## About
 
 - [Brian Harpole](/entities/person-brian-harpole.md) (person)
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
+- [Terryl Farnsworth](/entities/person-terryl-farnsworth.md) (person)
 - [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 
 ## Source

@@ -441,7 +441,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 - [00:31:44](/episodes/ep-HGtMfbePDKk.md#t-00-31-24) (Claim) **Candace Owens**: ["Owens said she accepted Patrick Bet-David as moderator after Andrew Wi..."](/statements/statement-fb715effe889.md)
   - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:33:57](/episodes/ep-HGtMfbePDKk.md#t-00-33-57) (Claim) **Candace Owens**: ["Owens said Patrick Bet-David would control debate breaks, speaking tur..."](/statements/statement-9ec019e8f157.md)
+- [00:33:57](/episodes/ep-HGtMfbePDKk.md#t-00-33-57) (Promise) **Candace Owens**: ["Owens said Patrick Bet-David would control debate breaks, speaking tur..."](/statements/statement-9ec019e8f157.md)
   - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

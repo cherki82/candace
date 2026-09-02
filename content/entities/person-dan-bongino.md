@@ -26,7 +26,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <div><span>Episodes</span><strong>14</strong></div>
 <div><span>Mentions</span><strong>45</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -443,7 +443,15 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Bongino (12)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Bongino (13)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
+
+- [00:17:56](/episodes/ep-1CFDtD0IgEg.md#t-00-17-38) (Accusation) **Candace Owens**: ["Owens suggested that public backlash prompted officials to change the ..."](/statements/statement-25c0e36bab34.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>

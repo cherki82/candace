@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 359 mentions"
+description: "Michael McCoy (People) - 369 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-18">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-michael-mccoy-t-00-05-38">2026-08-31 · 00:05:38</a></strong></div>
-<div><span>Episodes</span><strong>75</strong></div>
-<div><span>Mentions</span><strong>359</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>94</strong></div>
-<div><span>Relationships</span><strong>47</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-20-31">2026-09-01 · 00:21:00</a></strong></div>
+<div><span>Episodes</span><strong>76</strong></div>
+<div><span>Mentions</span><strong>369</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>98</strong></div>
+<div><span>Relationships</span><strong>49</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -81,7 +81,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-michael-mccoy-t-00-41-34" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-michael-mccoy-t-00-34-47" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-michael-mccoy-t-00-32-43" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-12-33" style="--pulse-height:21%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 7 mentions" title="2026-03-25 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-12-33" style="--pulse-height:18%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 6 mentions" title="2026-03-25 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-michael-mccoy-t-00-12-37" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-michael-mccoy-t-00-19-58" style="--pulse-height:21%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 7 mentions" title="2026-03-30 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-00-22" style="--pulse-height:27%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 9 mentions" title="2026-04-02 · 9 mentions"><span></span></a>
@@ -112,6 +112,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-michael-mccoy-t-00-46-40" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-michael-mccoy-t-00-50-37" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-michael-mccoy-t-00-05-38" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-20-31" style="--pulse-height:33%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 11 mentions" title="2026-09-01 · 11 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -161,7 +162,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-michael-mccoy-t-00-41-34) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-michael-mccoy-t-00-34-47) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-michael-mccoy-t-00-32-43) | 1 |
-| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-12-33) | 7 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-12-33) | 6 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-michael-mccoy-t-00-12-37) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-michael-mccoy-t-00-19-58) | 7 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-00-22) | 9 |
@@ -192,6 +193,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-michael-mccoy-t-00-46-40) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-michael-mccoy-t-00-50-37) | 2 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-michael-mccoy-t-00-05-38) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-20-31) | 11 |
 
 </details>
 </section>
@@ -203,7 +205,45 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (359)</strong></summary>
+<summary><strong class="section-title">Raw mentions (369)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (11 mentions)</summary>
+
+**[00:21:00](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-20-31)**
+> "Mikey as we mentioned earlier immediately walked away phoned his wife first Blake (Blake Neff) Blakey (Blake Neff) called his mom"
+
+**[00:04:54](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-04-27)**
+> "Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but ins..."
+
+**[00:05:27](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-05-10)**
+> "You see Mikey McCoy (Michael McCoy), when he arrived at UVU with Charlie (Charlie Ki..."
+
+**[00:15:14](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-15-14)**
+> "... call from you or from Mikey (Michael McCoy)."
+
+**[00:15:30](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-15-30)**
+> "...ot the first call from Mikey (Michael McCoy)."
+
+**[00:15:38](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-15-38)**
+> "Were saying. Okay, so Mikey (Michael McCoy) called and he said, Jack (Jack Hibbs),"
+
+**[00:17:43](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-17-43)**
+> "...doesn't remember was it Mike (Michael McCoy) ah the sequence is hard to remember"
+
+**[00:18:21](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-18-21)**
+> "...denly he was like you, Mikey (Michael McCoy) called you first. He's like, oh, yeah, Mikey (Mi..."
+
+**[00:19:26](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-19-05)**
+> "...seems implausible that Mikey (Michael McCoy) called Pastor Jack (Jack Hibbs) before 1230, bef..."
+
+**[00:19:42](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-19-05)**
+> "...ecause remember we had Mikey (Michael McCoy)'s call logs."
+
+**[00:19:47](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-19-47)**
+> "... it could be true that Mikey (Michael McCoy) called him before 1230."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>
@@ -704,7 +744,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
-<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (7 mentions)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (6 mentions)</summary>
 
 **[00:12:33](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-12-33)**
 > "Mikey McCoy"
@@ -720,9 +760,6 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 
 **[00:18:54](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-18-54)**
 > "...lvet is to be believed, where Mikey McCoy met them all outside and Elizabeth was thereafter..."
-
-**[00:18:54](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-18-54)**
-> "where Mikey McCoy met them all outside and Elizabeth was thereafter..."
 
 **[00:49:27](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-49-17)**
 > "...hen she was on the phone with mikey but then elizabeth also told Erika at the airport..."
@@ -1696,7 +1733,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <summary>Child Of (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#t-00-34-30): “He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk)."”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#t-00-38-18): “he immediately calls his dad. He calls Rob McCoy.”
@@ -1710,6 +1747,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:00](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “his father, Rob McCoy”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:06](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “Pastor Rob McCoy, Mikey McCoy's daddy.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37): “He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
 
 </details>
 
@@ -1731,11 +1769,12 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:14](/episodes/ep-I0OaY6Gryqk.md#t-00-34-47): “that Blake Neff now somehow holds the keys and knows what Charlie (Charlie Kirk) would have wanted. Mikey McCoy, this kid who came out of nowhere, knows exactly—like we were his best friends—so much so that we won't even”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:34:29](/episodes/ep-h76ZN-xXC6c.md#t-00-34-19): “why didn't you help my husband Mikey (Michael McCoy) walking away not running but walking apparently he didn't think there was gonna be any more shots”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:27:51](/episodes/ep-K1tFD7FfoCU.md#t-00-27-09): “That was my reason for going after Andrew Kolvet, Mikey McCoy.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:19:26](/episodes/ep-ZkDO-MRLUco.md#t-00-19-05): “A fact would be that it seems implausible that Mikey (Michael McCoy) called Pastor Jack (Jack Hibbs) before 1230, before he then was FaceTimed by Frank (Frank Turek). ... He was on the phone from 1224 all the way through to 1244 with Elizabeth McCoy, with Erika (Erika Kirk), with his father, and then with Danny Philip for 10 minutes. I mean, the only way it could be true that Mikey (Michael McCoy) called him before 1230.”
 
 </details>
 
@@ -1876,6 +1915,18 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
+<summary>Spoke With (1)</summary>
+
+- **[Jack Hibbs](/entities/person-jack-hibbs.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:38](/episodes/ep-ZkDO-MRLUco.md#t-00-15-38): “Were saying. Okay, so Mikey (Michael McCoy) called and he said, Jack (Jack Hibbs), ... Get everyone in the world praying. There's so much blood. There's so much. And he was beside himself, as you can imagine.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Trained By (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -1934,7 +1985,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
-<summary>Referenced By (23)</summary>
+<summary>Referenced By (24)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1958,11 +2009,12 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:14](/episodes/ep-I0OaY6Gryqk.md#t-00-34-47): “that Blake Neff now somehow holds the keys and knows what Charlie (Charlie Kirk) would have wanted. Mikey McCoy, this kid who came out of nowhere, knows exactly—like we were his best friends—so much so that we won't even”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:34:29](/episodes/ep-h76ZN-xXC6c.md#t-00-34-19): “why didn't you help my husband Mikey (Michael McCoy) walking away not running but walking apparently he didn't think there was gonna be any more shots”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:27:51](/episodes/ep-K1tFD7FfoCU.md#t-00-27-09): “That was my reason for going after Andrew Kolvet, Mikey McCoy.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:19:26](/episodes/ep-ZkDO-MRLUco.md#t-00-19-05): “A fact would be that it seems implausible that Mikey (Michael McCoy) called Pastor Jack (Jack Hibbs) before 1230, before he then was FaceTimed by Frank (Frank Turek). ... He was on the phone from 1224 all the way through to 1244 with Elizabeth McCoy, with Erika (Erika Kirk), with his father, and then with Danny Philip for 10 minutes. I mean, the only way it could be true that Mikey (Michael McCoy) called him before 1230.”
 
 </details>
 
@@ -2069,7 +2121,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 - **[Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:46](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “potentially more amazing than her husband Michael McCoy.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:14:00](/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26): “they believe Andrew (Andrew Kolvet) was accompanied by Mikey McCoy (Michael McCoy) and his wife Elizabeth.”
@@ -2081,6 +2133,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:18:58](/episodes/ep-a-e7HC6SeK8.md#t-00-18-23): “We've got Mikey McCoy and his wife, Eliza, that join them for the first time.”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:10:59](/episodes/ep-Qfwr08Ebczo.md#t-00-10-40): “just a few weeks before Charlie Kirk died, Mikey McCoy and his wife, Eliza, for the very first time”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:27:08](/episodes/ep-es7PWdFGoFI.md#t-00-26-36): “Actually, the first person he called was his wife. He called Elizabeth McCoy. And then he stayed on the phone with his wife for 10 minutes.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor. ... He was on the phone from 1224 all the way through to 1244 with Elizabeth McCoy, with Erika (Erika Kirk), with his father, and then with Danny Philip for 10 minutes. I mean, the only way it could be true that Mikey (Michael McCoy) called him before 1230.”
 
 </details>
 
@@ -2099,7 +2152,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:12](/episodes/ep-c5BcKF91iec.md#t-00-07-38): “It's a video of, of course, Pastor Rob McCoy's son.”
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-16-25): “Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie”
@@ -2111,6 +2164,14 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:00](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “his father, Rob McCoy”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:06](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “Pastor Rob McCoy, Mikey McCoy's daddy.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37): “He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
+
+</details>
+
+- **[Jack Hibbs](/entities/person-jack-hibbs.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:38](/episodes/ep-ZkDO-MRLUco.md#t-00-15-38): “Were saying. Okay, so Mikey (Michael McCoy) called and he said, Jack (Jack Hibbs), ... Get everyone in the world praying. There's so much blood. There's so much. And he was beside himself, as you can imagine.”
 
 </details>
 
@@ -2134,7 +2195,15 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Michael McCoy (4)</strong></summary>
+<summary><strong class="section-title">Statements by Michael McCoy (5)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
+
+- [00:15:38](/episodes/ep-ZkDO-MRLUco.md#t-00-15-38) [○] (Claim) ["According to Jack Hibbs’s recollection, Michael McCoy asked him to get everyone ..."](/statements/statement-4d177843fbf8.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1)</summary>
@@ -2171,13 +2240,35 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (94)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (98)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3)</summary>
+
+- [00:05:27](/episodes/ep-ZkDO-MRLUco.md#t-00-05-10) (Claim) **Candace Owens**: ["Owens said Michael McCoy and Burton Hibbs walked into the UVU event wi..."](/statements/statement-37f7aabb57b2.md)
+  - Also about: [Burton Hibbs](/entities/person-burton-hibbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:15:38](/episodes/ep-ZkDO-MRLUco.md#t-00-15-38) (Claim) **Michael McCoy** (via quoted speech): ["According to Jack Hibbs’s recollection, Michael McCoy asked him to get..."](/statements/statement-4d177843fbf8.md)
+  - Also about: [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+- [00:19:26](/episodes/ep-ZkDO-MRLUco.md#t-00-19-05) (Opinion) **Candace Owens**: ["Owens said it seemed implausible that Michael McCoy called Jack Hibbs ..."](/statements/statement-d5d1bb4d8560.md)
+  - Also about: [Jack Hibbs](/entities/person-jack-hibbs.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
 
 - [00:50:44](/episodes/ep-_cNtgris8Ik.md#t-00-50-37) (Claim) **Candace Owens** (via paraphrase): ["Owens said Kolvet told her about a Bill Ackman summit and a Benjamin N..."](/statements/statement-0f55bef1a565.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Bill Ackman](/entities/person-bill-ackman.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1)</summary>
+
+- [00:47:19](/episodes/ep-5zgkrOaCCj4.md#t-00-47-19) (Opinion) **Candace Owens**: ["Owens offered travel in two different cars to the hospital as a possib..."](/statements/statement-0af7f6ece4b3.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md)
 
 </details>
 
@@ -2301,7 +2392,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:05:04](/episodes/ep-5NQyGuRYbU8.md#t-00-04-45) (Claim) **Candace Owens**: ["Candace Owens said a person identified in the cleaned transcript as Te..."](/statements/statement-28e8ff4b5485.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -2338,7 +2429,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>
 
 - [00:07:22](/episodes/ep-69A8TzAGHlU.md#t-00-06-57) (Claim) **Candace Owens**: ["The cited episode never mentioned Brian Harpole; its disputed quotatio..."](/statements/statement-9726775ea5c0.md)
-  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 - [00:49:04](/episodes/ep-69A8TzAGHlU.md#t-00-48-38) (Citation) **Michael McCoy** (via read message): ["Michael McCoy sent Candace Owens a message through a third party telli..."](/statements/statement-f7a3f2686842.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)

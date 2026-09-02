@@ -26,9 +26,9 @@ Source: [Police Department | San Bernardino, CA](https://www.sbcity.org/Police)
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -47,6 +47,10 @@ Source: [Police Department | San Bernardino, CA](https://www.sbcity.org/Police)
 
 </details>
 </section>
+
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -106,12 +110,15 @@ Source: [Police Department | San Bernardino, CA](https://www.sbcity.org/Police)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about San Bernardino Police Department (2)</strong></summary>
+<summary><strong class="section-title">Statements about San Bernardino Police Department (3)</strong></summary>
 
 <details>
-<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2)</summary>
 
 - [00:23:46](/episodes/ep-1CFDtD0IgEg.md#t-00-23-38) (Claim) **Anonymous Source #3 (Ep 1CFDtD0IgEg)** (via read message): ["People associated with the San Bernardino Police Department told the s..."](/statements/statement-89f5c5d9bbc2.md)
+  - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md)
+
+- [00:30:33](/episodes/ep-1CFDtD0IgEg.md#t-00-30-33) (Claim) **Candace Owens**: ["Owens explicitly closed her suspicious-transfer lead about Alan Robert..."](/statements/statement-b338e1c74b1e.md)
   - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md)
 
 </details>

@@ -1,8 +1,8 @@
 ---
 title: "Diligent Denison claimed that Mark Amodei was absent from th..."
-description: "\"Diligent Denison claimed that Mark Amodei was absent from the first two September 9 committee roll calls and first appeared on the third.\" — Diligent Denison (X account; identity unverified)"
+description: "\"Diligent Denison claimed that Mark Amodei was absent from the first two September 9 committee roll calls and first appeared on the third.\" — Diligent Denizen (online-investigator handle; identity unverified)"
 statement_id: "statement-b9a86ad8ed2a"
-speaker: "Diligent Denison (X account; identity unverified)"
+speaker: "Diligent Denizen (online-investigator handle; identity unverified)"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Diligent Denison (X account; identity unverified)](/entities/anon-src-w1oqQbR_bYs-002.md) (Anonymous Source)
+**Speaker:** [Diligent Denizen (online-investigator handle; identity unverified)](/entities/anon-src-HGtMfbePDKk-019.md) (Anonymous Source)
 
 **Delivery:** Quoted from social media post
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

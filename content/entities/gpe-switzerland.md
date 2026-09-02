@@ -116,7 +116,7 @@ _No relationships extracted yet._
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1)</summary>
 
-- [00:33:47](/episodes/ep-BKcOm32ZEGk.md#t-00-33-47) (Claim) **Mark from Candace's production team (surname unidentified)**: ["CERN's Large Hadron Collider is a 17-mile tunnel near Geneva, reaches ..."](/statements/statement-02a85d11e3e2.md)
+- [00:33:47](/episodes/ep-BKcOm32ZEGk.md#t-00-33-47) (Claim) **Mark (Candace show producer; surname unverified)**: ["CERN's Large Hadron Collider is a 17-mile tunnel near Geneva, reaches ..."](/statements/statement-02a85d11e3e2.md)
   - Also about: [CERN](/entities/org-cern.md), [Geneva](/entities/gpe-geneva.md)
 
 </details>

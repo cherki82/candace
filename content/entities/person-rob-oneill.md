@@ -26,7 +26,7 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>11</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -306,6 +306,19 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 
 - [00:29:50](/episodes/ep-5autG89PW6w.md#t-00-29-19) [○] (Accusation) ["The crime scene where Charlie Kirk was killed was torn down and paved over immed..."](/statements/statement-926c6885f763.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Rob O'Neill (1)</strong></summary>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1)</summary>
+
+- [02:29:11](/episodes/ep-aPOyk1i2LOc.md#t-02-29-11) (Opinion) **Andrew Wilson**: ["Wilson said he could see Kirk's shirt move only in slowed footage, not..."](/statements/statement-39ad115a407d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

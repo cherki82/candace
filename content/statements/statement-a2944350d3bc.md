@@ -4,10 +4,9 @@ description: "\"Candace Owens said footage showed Charlie Kirk's shirt moving up
 statement_id: "statement-a2944350d3bc"
 speaker: "Candace Owens"
 type: "factual_claim"
-veracity: "true"
 ---
 
-**Status:** ✓ True
+**Status:** ○ Not yet verified
 
 ## Statement
 
@@ -33,21 +32,7 @@ veracity: "true"
 
 ## Verification
 
-> **Note:** Statements are extracted from podcast transcripts using AI analysis.
-> Speaker attribution and content may contain errors. Always verify against primary sources.
-
-### Analysis
-
-The transcript and primary video confirm that Owens described the shirt as moving upward/across and the necklace as breaking before impact. This result verifies her qualified interpretation of the footage as stated; it does not establish a forensic cause or contradict the charged shooting theory.
-
-**Confidence:** Medium
-
-**Sources:**
-
-- [A Shocking Truth Revealed In The 4K Footage... | Ep 373](https://rumble.com/v7dto7u-a-shocking-truth-revealed-in-the-4k-footage.-beavis-and-butt-head-send-a-me.html)
-- [Takeaways from a key hearing in the Charlie Kirk murder case](https://apnews.com/article/charlie-kirk-shot-trial-takeaways-21f979ed659cbe9c216481dd9f41c56e)
-
-*Verified: 2026-08-28T05:43:22.742346*
+_This statement has not yet been verified._
 
 ---
 

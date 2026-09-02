@@ -1,6 +1,6 @@
 ---
 title: "Beekeeper's Naturals"
-description: "Beekeeper's Naturals (Organizations) - 42 mentions"
+description: "Beekeeper's Naturals (Organizations) - 44 mentions"
 id: "org-beekeepers-naturals"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-38-20">2025-09-17 · 00:38:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-beekeepers-naturals-t-00-42-17">2026-08-11 · 00:42:33</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-beekeepers-naturals-t-00-42-56">2026-08-11 · 00:43:10</a></strong></div>
 <div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -47,7 +47,7 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-beekeepers-naturals-t-00-27-40" style="--pulse-height:33%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-beekeepers-naturals-t-00-27-28" style="--pulse-height:33%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-beekeepers-naturals-t-00-27-24" style="--pulse-height:33%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-beekeepers-naturals-t-00-42-17" style="--pulse-height:17%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-beekeepers-naturals-t-00-42-17" style="--pulse-height:50%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 3 mentions" title="2026-08-11 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,7 +64,7 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-beekeepers-naturals-t-00-27-40) | 2 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-beekeepers-naturals-t-00-27-28) | 2 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-beekeepers-naturals-t-00-27-24) | 2 |
-| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-beekeepers-naturals-t-00-42-17) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-beekeepers-naturals-t-00-42-17) | 3 |
 
 </details>
 </section>
@@ -72,13 +72,19 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
 
 <details>
-<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (3 mentions)</summary>
 
 **[00:42:33](/episodes/ep-HGtMfbePDKk.md#ent-org-beekeepers-naturals-t-00-42-17)**
 > "That's why Beekeepers Naturals is always stocked in our house. I especially love..."
+
+**[00:43:03](/episodes/ep-HGtMfbePDKk.md#ent-org-beekeepers-naturals-t-00-42-56)**
+> "So head to beekeepersnaturals.com slash Candace and enter. Enter code Candace a..."
+
+**[00:43:10](/episodes/ep-HGtMfbePDKk.md#ent-org-beekeepers-naturals-t-00-42-56)**
+> "Again, that's beekeepersnaturals.com slash Candace and enter code Candace at check..."
 
 </details>
 

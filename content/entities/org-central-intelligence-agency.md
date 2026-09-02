@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 174 mentions"
+description: "Central Intelligence Agency (Organizations) - 178 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-10-39">2025-09-16 · 01:11:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-central-intelligence-agency-t-00-31-29">2026-08-18 · 00:31:35</a></strong></div>
-<div><span>Episodes</span><strong>72</strong></div>
-<div><span>Mentions</span><strong>174</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-central-intelligence-agency-t-00-21-57">2026-09-01 · 00:22:28</a></strong></div>
+<div><span>Episodes</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>178</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>64</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
@@ -108,6 +108,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-central-intelligence-agency-t-00-12-47" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-central-intelligence-agency-t-00-32-21" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-central-intelligence-agency-t-00-31-29" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-central-intelligence-agency-t-00-10-35" style="--pulse-height:24%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -185,6 +186,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-central-intelligence-agency-t-00-12-47) | 1 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-central-intelligence-agency-t-00-32-21) | 1 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-central-intelligence-agency-t-00-31-29) | 1 |
+| 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-central-intelligence-agency-t-00-10-35) | 4 |
 
 </details>
 </section>
@@ -196,7 +198,24 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (174)</strong></summary>
+<summary><strong class="section-title">Raw mentions (178)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>
+
+**[00:10:38](/episodes/ep-ZkDO-MRLUco.md#ent-org-central-intelligence-agency-t-00-10-35)**
+> "You know, some people would say that he is a covert military operative for the CIA and"
+
+**[00:11:51](/episodes/ep-ZkDO-MRLUco.md#ent-org-central-intelligence-agency-t-00-11-51)**
+> "...untains. People would say I'm CIA Mossad, but he just likes the mountains or someth..."
+
+**[00:12:00](/episodes/ep-ZkDO-MRLUco.md#ent-org-central-intelligence-agency-t-00-11-51)**
+> "...ho like the mountains, right? CIA Mossad, but they really just like the mountains. ..."
+
+**[00:22:28](/episodes/ep-ZkDO-MRLUco.md#ent-org-central-intelligence-agency-t-00-21-57)**
+> "...tains, not the Mossad and the CIA, he loves the mountains."
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
@@ -1556,7 +1575,7 @@ Source: [About CIA](https://www.cia.gov/about/)
   - Also about: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md)
 
 - [00:31:27](/episodes/ep-CMcktj3Egfo.md#t-00-31-08) (Accusation) **Candace Owens**: ["Candace Owens said the Unification movement was likely a CIA operation..."](/statements/statement-9c4ef026c214.md)
-  - Also about: [Unification Church](/entities/org-unification-church.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [South Korea](/entities/gpe-south-korea.md)
+  - Also about: [Unification Church](/entities/org-unification-church.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [South Korea](/entities/gpe-south-korea.md)
 
 - [00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-47) (Opinion) **Candace Owens**: ["Candace Owens said it was almost as if Mossad and the CIA were insepar..."](/statements/statement-27fb03763d42.md)
   - Also about: [Mossad](/entities/org-mossad.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)

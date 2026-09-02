@@ -283,14 +283,14 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (4)</summary>
 
-- [00:06:33](/episodes/ep-4JxgOclKzqg.md#t-00-06-10) (Claim) **Terrell Farnsworth** (via quoted document): ["In his 1102 statement, Farnsworth said that on September 10 he gave th..."](/statements/statement-8d62ffeda313.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Google](/entities/org-google.md)
+- [00:06:33](/episodes/ep-4JxgOclKzqg.md#t-00-06-10) (Claim) **Terryl Farnsworth** (via quoted document): ["In his 1102 statement, Farnsworth said that on September 10 he gave th..."](/statements/statement-8d62ffeda313.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Google](/entities/org-google.md)
 
 - [00:13:25](/episodes/ep-4JxgOclKzqg.md#t-00-13-25) (Claim) **David Hull** (via quoted speech): ["David Hull testified that Farnsworth initially provided what Hull beli..."](/statements/statement-36274c22af90.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
 - [00:18:36](/episodes/ep-4JxgOclKzqg.md#t-00-18-26) (Claim) **Candace Owens**: ["Owens said the rear-camera footage had been turned into a separate cli..."](/statements/statement-f157a5d2bd8a.md)
-  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:31:17](/episodes/ep-4JxgOclKzqg.md#t-00-30-48) (Claim) **Candace Owens**: ["Owens said the Utah State Bureau of Investigation could ask the FBI to..."](/statements/statement-603f5577441d.md)
   - Also about: [FBI](/entities/org-fbi.md)

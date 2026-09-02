@@ -28,7 +28,7 @@ Source: [Utah National Guard Minuteman - Winter/Fall 2013](https://guard.utah.go
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -192,12 +192,14 @@ Source: [Utah National Guard Minuteman - Winter/Fall 2013](https://guard.utah.go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about James Norman Rawlinson Jr. (6)</strong></summary>
+<summary><strong class="section-title">Statements about James Norman Rawlinson Jr. (7)</strong></summary>
 
 <details>
-<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (2)</summary>
 
 - [00:02:23](/episodes/ep-ChuWo-n49B8.md#t-00-02-09) (Claim) **Candace Owens**: ["The man using the name David Sprague had changed his name from James N..."](/statements/statement-eada5a6721ed.md)
+
+- [00:02:32](/episodes/ep-ChuWo-n49B8.md#t-00-02-09) (Accusation) **Candace Owens** (via paraphrase): ["Owens said David Sprague, whom she identified as James Rawlinson, told..."](/statements/statement-22afd5b97519.md)
 
 </details>
 
