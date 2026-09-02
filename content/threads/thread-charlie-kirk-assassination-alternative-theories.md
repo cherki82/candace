@@ -10,8 +10,6 @@ description: "A single reviewed branching timeline of on-channel alternatives to
 
 <p class="thread-summary">A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.</p>
 
-<section class="thread-entity-roster" aria-labelledby="thread-entities-heading"><div class="thread-entity-heading"><div><span class="research-kicker">People, places, and organizations</span><h2 id="thread-entities-heading">Key entities</h2></div><strong>959<span> connected records</span></strong></div><p class="thread-entity-primary"><a href="/entities/person-charlie-kirk">Charlie Kirk</a> · <a href="/entities/person-candace-owens">Candace Owens</a> · <a href="/entities/person-bill-ackman">Bill Ackman</a> · <a href="/entities/person-xaviaer-durousseau">Xaviaer DuRousseau</a> · <a href="/entities/person-seth-dillon">Seth Dillon</a> · <a href="/entities/gpe-provo">Provo</a> · <a href="/entities/person-brian-harpole">Brian Harpole</a> · <a href="/entities/person-frank-turek">Frank Turek</a> · <a href="/entities/org-turning-point-usa">Turning Point USA</a> · <a href="/entities/org-utah-valley-university">Utah Valley University</a> · <a href="/entities/person-zach-de-gregorio">Zach De Gregorio</a> · <a href="/entities/person-tyler-robinson">Tyler Robinson</a></p><p class="thread-entity-note">Search names, organizations, sources, and propositions in the evidence browser below.</p></section>
-
 <div class="thread-detail-stats">
 <div><strong>3277</strong><span>reviewed turns</span></div>
 <div><strong>145</strong><span>source episodes</span></div>
@@ -19,41 +17,14 @@ description: "A single reviewed branching timeline of on-channel alternatives to
 <div><strong>2026-08-31</strong><span>latest update</span></div>
 </div>
 
-<section class="thread-browser" data-thread-browser data-index-path="/assets/threads/thread-charlie-kirk-assassination-alternative-theories.json">
-<header class="thread-browser-header">
-<div><span class="research-kicker">Focused evidence explorer</span>
-<h2>Find the thread turn that matters</h2>
-<p>Filter the chronology, then inspect only the selected milestone and its immediate reviewed connections.</p></div>
-<div class="thread-browser-density" data-thread-density aria-label="Activity by month"></div>
-<p class="thread-browser-loading" data-thread-loading role="status">Loading the compact evidence index…</p>
-</header>
-<div class="thread-browser-layout" data-thread-browser-shell hidden>
-<aside class="thread-browser-controls" aria-label="Evidence filters">
-<span class="research-kicker">Start with a useful lens</span>
-<div class="thread-browser-lenses" data-thread-lenses role="group" aria-label="Saved evidence views">
-<button type="button" data-thread-lens="latest" aria-pressed="true">Latest</button>
-<button type="button" data-thread-lens="evidence" aria-pressed="false">New evidence</button>
-<button type="button" data-thread-lens="conflicts" aria-pressed="false">Contradictions</button>
-<button type="button" data-thread-lens="roots" aria-pressed="false">Starting claims</button>
-<button type="button" data-thread-lens="unresolved" aria-pressed="false">Open questions</button>
-</div>
-<label><span>Search</span><input type="search" data-thread-query placeholder="Claims, people, sources…"></label>
-<label><span>Change type</span><select data-thread-kind><option value="">All change types</option></select></label>
-<label><span>Month</span><select data-thread-month><option value="">All months</option></select></label>
-<label><span>Order</span><select data-thread-sort><option value="newest">Newest first</option><option value="oldest">Oldest first</option></select></label>
-<button class="thread-browser-reset" type="button" data-thread-reset>Reset filters</button>
-</aside>
-<section class="thread-browser-results" aria-labelledby="thread-results-heading">
-<header><div><span class="research-kicker">Discourse chronology</span><h3 id="thread-results-heading">Matching turns</h3></div>
-<output data-thread-result-count aria-live="polite"></output></header>
-<ol data-thread-results></ol>
-<button class="thread-browser-more" type="button" data-thread-more hidden>Show 30 more</button>
+<section class="thread-explorer" data-thread-browser data-index-path="/assets/threads/thread-charlie-kirk-assassination-alternative-theories.json" aria-label="Thread evidence explorer">
+<p class="explorer-loading" data-thread-loading role="status">Loading the searchable evidence index…</p>
+<noscript>Enable JavaScript to search items and follow their reviewed connections. Source and event records remain available below.</noscript>
+<div class="explorer-layout" data-thread-browser-shell hidden></div>
 </section>
-<aside class="thread-browser-inspector" data-thread-inspector aria-live="polite">
-<span class="research-kicker">Selected milestone</span>
-<h3>Loading evidence…</h3>
-</aside>
-</div></section>
+
+<details class="thread-background"><summary>About this thread · sources, entities &amp; events</summary>
+<section class="thread-entity-roster" aria-labelledby="thread-entities-heading"><div class="thread-entity-heading"><div><span class="research-kicker">People, places, and organizations</span><h2 id="thread-entities-heading">Key entities</h2></div><strong>1,012<span> connected records</span></strong></div><p class="thread-entity-primary"><a href="/entities/person-charlie-kirk">Charlie Kirk</a> · <a href="/entities/person-candace-owens">Candace Owens</a> · <a href="/entities/person-bill-ackman">Bill Ackman</a> · <a href="/entities/person-xaviaer-durousseau">Xaviaer DuRousseau</a> · <a href="/entities/person-seth-dillon">Seth Dillon</a> · <a href="/entities/gpe-provo">Provo</a> · <a href="/entities/person-brian-harpole">Brian Harpole</a> · <a href="/entities/person-frank-turek">Frank Turek</a> · <a href="/entities/org-turning-point-usa">Turning Point USA</a> · <a href="/entities/org-utah-valley-university">Utah Valley University</a> · <a href="/entities/person-zach-de-gregorio">Zach De Gregorio</a> · <a href="/entities/person-tyler-robinson">Tyler Robinson</a></p><p class="thread-entity-note">Search names, organizations, sources, and propositions in the evidence browser below.</p></section>
 
 <section class="thread-event-register">
 <span class="research-kicker">Event time</span>
@@ -92,6 +63,7 @@ description: "A single reviewed branching timeline of on-channel alternatives to
 <a href="/events/event-2026-07-jennica-pounds-began-work-as-a-special-g">Jennica Pounds began work as a special government employee for the Department of War</a>
 </article>
 </section>
+</details>
 
 > Thread transitions describe changes in the corpus narrative. They do not independently establish which underlying proposition is true.
 </div>
