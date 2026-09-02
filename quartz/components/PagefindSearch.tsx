@@ -4,9 +4,15 @@ import { classNames } from "../util/lang"
 export default (() => {
   const PagefindSearch: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     return (
-      <div class={classNames(displayClass, "pagefind-search")}>
+      <section
+        id="transcript-search"
+        aria-label="Search transcripts"
+        class={classNames(displayClass, "pagefind-search")}
+      >
+        <h2>Search transcripts</h2>
+        <p>Find words in the source material across episodes.</p>
         <div class="pagefind-search-target"></div>
-      </div>
+      </section>
     )
   }
 
@@ -97,6 +103,8 @@ const loadPagefind = async () => {
     if (typeof PagefindUI !== 'function') throw new Error('PagefindUI did not load')
 
     containers.forEach((container, index) => {
+      // DOM-ready and SPA navigation can overlap while the script is loading.
+      if (!container.isConnected || container.querySelector('.pagefind-ui')) return
       container.id = 'pagefind-search-' + index
       new PagefindUI({
         element: '#' + container.id,

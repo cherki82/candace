@@ -32,6 +32,7 @@ import Banner from "./Banner"
 import AnchorHighlight from "./AnchorHighlight"
 import YouTubeTimestampLinks from "./YouTubeTimestampLinks"
 import ResearchWorkbench from "./ResearchWorkbench"
+import SiteHeader from "./SiteHeader"
 
 export {
   ArticleTitle,
@@ -68,4 +69,5 @@ export {
   AnchorHighlight,
   YouTubeTimestampLinks,
   ResearchWorkbench,
+  SiteHeader,
 }

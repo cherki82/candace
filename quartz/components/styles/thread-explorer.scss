@@ -27,13 +27,13 @@ html:has(.thread-explorer) {
 }
 
 .thread-explorer {
-  --te-green: #245d4f;
-  --te-rust: #90462e;
-  --te-muted: #616e67;
-  --te-paper: #f4f2eb;
-  --te-white: #fffefb;
-  --te-line: #cbd1c7;
-  --te-pale: #e6ede4;
+  --te-green: var(--secondary);
+  --te-rust: var(--tertiary);
+  --te-muted: var(--gray);
+  --te-paper: var(--light);
+  --te-white: var(--surface);
+  --te-line: var(--lightgray);
+  --te-pale: var(--pale);
   --reader-size: 18px;
   color: var(--dark);
   background: var(--te-paper);
@@ -613,13 +613,6 @@ html:has(.thread-explorer) {
 }
 
 :root[saved-theme="dark"] .thread-explorer {
-  --te-green: #91c9b4;
-  --te-rust: #edb099;
-  --te-muted: #b4bfb8;
-  --te-paper: var(--light);
-  --te-white: color-mix(in srgb, var(--light) 96%, white);
-  --te-line: #4d5b54;
-  --te-pale: #293c34;
   .open-item {
     color: #18261f;
   }
