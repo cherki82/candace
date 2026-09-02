@@ -7,7 +7,7 @@ description: "An evidence-first research workbench for imported video, audio, an
 <span class="research-kicker">Investigative evidence desk</span>
 <h1>Trace the record.<br>Test the narrative.</h1>
 <p>Search attributed statements, follow entities across sources, compare claims over time, and inspect the evidence behind every verification.</p>
-<div class="kg-home-actions"><a class="primary" href="/index/threads">Follow theory threads</a><a href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/event-explorer">Compare events</a></div>
+<div class="kg-home-actions"><a class="primary" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Follow theory threads</a><a href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/event-explorer">Compare events</a></div>
 </div>
 
 <p class="kg-freshness"><strong>161 sources</strong> · processed through <time datetime="2026-08-31">2026-08-31</time> · generated <time datetime="2026-09-01">2026-09-01</time></p>
@@ -17,7 +17,7 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div><span class="research-kicker">Theory watch</span>
 <h2 id="theory-watch-title">Watch theories evolve.</h2></div>
 <p>Reviewed lineages show which branches are still live, which became historical ancestors, and which were explicitly put to rest.</p>
-<a href="/index/threads">View every thread <span aria-hidden="true">→</span></a>
+<a href="/threads/thread-charlie-kirk-assassination-alternative-theories">Open theory thread <span aria-hidden="true">→</span></a>
 </header>
 <div class="kg-thread-grid">
 <article class="kg-thread-card featured">
