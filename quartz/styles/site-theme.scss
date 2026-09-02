@@ -521,6 +521,9 @@ textarea {
 .page .thread-explorer {
   border-radius: var(--radius);
 }
+.page .entity-pulse {
+  overflow-x: auto;
+}
 html[saved-theme="dark"] .page {
   .status-true {
     color: #95d3af;
