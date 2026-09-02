@@ -23,8 +23,8 @@ test("overlapping initial and SPA loads create one transcript search", async () 
     readyState: "complete",
     querySelectorAll: () => [container],
     querySelector: (selector: string) =>
-      selector.includes('href$="index.css"')
-        ? { href: "https://example.com/candace/index.css" }
+      selector.includes('href*="index.css"')
+        ? { href: "https://example.com/candace/index.css?v=test-version" }
         : selector.startsWith("script")
           ? appendedScript
           : null,

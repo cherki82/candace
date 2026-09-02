@@ -9,6 +9,9 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
 import { trieFromAllFiles } from "../../util/ctx"
+import Workspace from "../RecordWorkspace"
+import { workspaceRoute } from "../scripts/record-workspace-model"
+const RecordWorkspace = Workspace()
 
 interface FolderContentOptions {
   /**
@@ -29,6 +32,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
+    if (workspaceRoute(fileData.slug!)) return <RecordWorkspace {...props} />
 
     const trie = (props.ctx.trie ??= trieFromAllFiles(allFiles))
     const folder = trie.findNode(fileData.slug!.split("/"))
@@ -121,6 +125,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     )
   }
 
-  FolderContent.css = concatenateResources(style, PageList.css)
+  FolderContent.css = concatenateResources(style, PageList.css, RecordWorkspace.css)
+  FolderContent.afterDOMLoaded = RecordWorkspace.afterDOMLoaded
   return FolderContent
 }) satisfies QuartzComponentConstructor

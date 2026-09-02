@@ -94,15 +94,15 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
         // strip leading and trailing whitespace
         file.value = file.value.toString().trim()
 
-        // Text -> Text transforms
-        for (const plugin of cfg.plugins.transformers.filter((p) => p.textTransform)) {
-          file.value = plugin.textTransform!(ctx, file.value.toString())
-        }
-
-        // base data properties that plugins may use
+        // Let route-aware text transforms avoid parsing superseded generated bodies.
         file.data.filePath = file.path as FilePath
         file.data.relativePath = path.posix.relative(argv.directory, file.path) as FilePath
         file.data.slug = slugifyFilePath(file.data.relativePath)
+
+        // Text -> Text transforms
+        for (const plugin of cfg.plugins.transformers.filter((p) => p.textTransform)) {
+          file.value = plugin.textTransform!(ctx, file.value.toString(), file)
+        }
 
         const ast = processor.parse(file)
         const newAst = await processor.run(ast, file)

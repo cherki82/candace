@@ -8,6 +8,9 @@ import { htmlToJsx } from "../../util/jsx"
 import { i18n } from "../../i18n"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
+import Workspace from "../RecordWorkspace"
+import { workspaceRoute } from "../scripts/record-workspace-model"
+const RecordWorkspace = Workspace()
 
 interface TagContentOptions {
   sort?: SortFn
@@ -23,6 +26,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
 
   const TagContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
+    if (workspaceRoute(fileData.slug!)) return <RecordWorkspace {...props} />
     const slug = fileData.slug
 
     if (!(slug?.startsWith("tags/") || slug === "tags")) {
@@ -128,6 +132,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
     }
   }
 
-  TagContent.css = concatenateResources(style, PageList.css)
+  TagContent.css = concatenateResources(style, PageList.css, RecordWorkspace.css)
+  TagContent.afterDOMLoaded = RecordWorkspace.afterDOMLoaded
   return TagContent
 }) satisfies QuartzComponentConstructor

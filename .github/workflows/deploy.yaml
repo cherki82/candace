@@ -30,7 +30,7 @@ jobs:
       - name: Build Quartz
         env:
           NODE_OPTIONS: --max-old-space-size=6144
-        run: npx quartz build --concurrency=2 && npx pagefind --site public
+        run: npx quartz build --concurrency=2 && npm run build:pagefind
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:

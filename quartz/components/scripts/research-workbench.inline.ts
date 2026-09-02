@@ -24,7 +24,7 @@ const verificationBadge = (item: IndexRecord) => {
 }
 
 const stylesheet = document.querySelector<HTMLLinkElement>(
-  'link[rel="stylesheet"][href$="index.css"]',
+  'link[rel="stylesheet"][href*="index.css"]',
 )
 const siteRoot = stylesheet
   ? new URL(stylesheet.href, location.href).pathname.replace(/\/index\.css$/, "")

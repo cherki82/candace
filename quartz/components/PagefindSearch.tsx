@@ -67,7 +67,7 @@ const loadPagefind = async () => {
 
   // Quartz emits index.css at the site root, which gives us the deployment
   // prefix without guessing from the current route (e.g. /candace on Pages).
-  const siteStyles = document.querySelector('link[rel="stylesheet"][href$="index.css"]')
+  const siteStyles = document.querySelector('link[rel="stylesheet"][href*="index.css"]')
   const basePath = siteStyles
     ? new URL(siteStyles.href, window.location.href).pathname.replace(/\\/index\\.css$/, '')
     : ''

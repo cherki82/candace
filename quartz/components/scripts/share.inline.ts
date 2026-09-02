@@ -2,7 +2,7 @@
 let lastShareTrigger: HTMLElement | null = null
 
 function shareSiteRoot(): string {
-  const stylesheet = document.querySelector('link[rel="stylesheet"][href$="index.css"]')
+  const stylesheet = document.querySelector('link[rel="stylesheet"][href*="index.css"]')
   if (!stylesheet) return ""
   return new URL((stylesheet as HTMLLinkElement).href, window.location.href).pathname.replace(
     /\/index\.css$/,
@@ -155,6 +155,7 @@ function createShareModal(): HTMLElement {
 }
 
 function addShareButton(): void {
+  if (document.querySelector("[data-record-workspace]")) return
   // Keep the homepage focused on its primary research actions.
   if (["/", "/index", "/index.html"].includes(shareLocalPath())) {
     return

@@ -18,8 +18,8 @@
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "build": "npx quartz build && npx pagefind --site public",
-    "build:pagefind": "npx pagefind --site public"
+    "build": "npx quartz build && node scripts/build-search.mjs",
+    "build:pagefind": "node scripts/build-search.mjs"
   },
   "engines": {
     "npm": ">=10.9.2",

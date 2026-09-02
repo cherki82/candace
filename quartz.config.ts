@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { WorkspaceShell } from "./quartz/plugins/transformers/workspaceShell"
 
 /**
  * Quartz 4 Configuration
@@ -54,6 +55,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
+      WorkspaceShell(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
