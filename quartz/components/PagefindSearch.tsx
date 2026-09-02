@@ -113,6 +113,7 @@ const loadPagefind = async () => {
         excerptLength: 25,
         resetStyles: false,
         bundlePath: pagefindBase + '/',
+        baseUrl: basePath + '/',
         translations: {
           placeholder: "Search transcripts...",
           zero_results: "No results for [SEARCH_TERM]"

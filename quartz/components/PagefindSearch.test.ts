@@ -5,6 +5,7 @@ import PagefindSearch from "./PagefindSearch"
 
 test("overlapping initial and SPA loads create one transcript search", async () => {
   let instances = 0
+  let searchOptions: { baseUrl: string; bundlePath: string } | undefined
   const onLoad: (() => void)[] = []
   const events = new Map<string, () => void>()
   const container = { isConnected: true, id: "", querySelector: () => (instances ? {} : null) }
@@ -16,7 +17,10 @@ test("overlapping initial and SPA loads create one transcript search", async () 
     src: "",
   }
   let appendedScript: typeof script | undefined
-  const window: { PagefindUI?: new () => object; location: { href: string } } = {
+  const window: {
+    PagefindUI?: new (options: { baseUrl: string; bundlePath: string }) => object
+    location: { href: string }
+  } = {
     location: { href: "https://example.com/candace/" },
   }
   const document = {
@@ -39,13 +43,16 @@ test("overlapping initial and SPA loads create one transcript search", async () 
   runInNewContext(PagefindSearch().afterDOMLoaded as string, { document, window, URL, console })
   events.get("nav")!()
   window.PagefindUI = class {
-    constructor() {
+    constructor(options: { baseUrl: string; bundlePath: string }) {
       instances++
+      searchOptions = options
     }
   }
   onLoad.forEach((resolve) => resolve())
   await Promise.resolve()
   assert.equal(instances, 1)
+  assert.equal(searchOptions?.baseUrl, "/candace/")
+  assert.equal(searchOptions?.bundlePath, "/candace/pagefind/")
   events.get("nav")!()
   await Promise.resolve()
   assert.equal(instances, 1)
