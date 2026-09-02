@@ -45,6 +45,30 @@ export type RecordItem = {
   modality?: string
   linkHealth?: string
 }
+export const dateLabel = (date: string) =>
+  /^\d{4}-\d{2}-\d{2}$/.test(date)
+    ? new Date(`${date}T12:00:00Z`).toLocaleDateString("en-GB", {
+        day: "numeric",
+        month: "short",
+        year: "numeric",
+        timeZone: "UTC",
+      })
+    : date || "Date not recorded"
+
+export function recordMetadata(record: RecordItem) {
+  if (record.kind === "entity") {
+    const label = ["mention", "statement"]
+      .filter((kind) => typeof record.counts?.[kind] === "number")
+      .map((kind) => {
+        const count = record.counts![kind]
+        return `${count.toLocaleString("en-GB")} ${kind}${count === 1 ? "" : "s"}`
+      })
+      .join(" · ")
+    return { label, date: "" }
+  }
+  return { label: record.speaker || record.domain || "", date: dateLabel(record.date) }
+}
+
 export type EntityMeta = {
   id: string
   name: string
@@ -241,7 +265,13 @@ export function filterRecords(records: IndexedRecord[], state: WorkspaceState, s
               0,
             )
           : 0) ||
-        (state.sort === "oldest" ? a.date.localeCompare(b.date) : b.date.localeCompare(a.date)) ||
+        (state.sort === "mentions"
+          ? (b.counts?.mention || 0) - (a.counts?.mention || 0)
+          : state.sort === "name"
+            ? a.text.localeCompare(b.text)
+            : state.sort === "oldest"
+              ? a.date.localeCompare(b.date)
+              : b.date.localeCompare(a.date)) ||
         (a.appearances[0]?.episode === b.appearances[0]?.episode
           ? ((a.appearances[0]?.at || 0) - (b.appearances[0]?.at || 0)) *
             (state.sort === "oldest" ? 1 : -1)
@@ -314,6 +344,10 @@ export function readState(url: URL, route: WorkspaceRoute): WorkspaceState {
   state.appearance = Math.max(0, Number.parseInt(p.get("appearance") || "0", 10) || 0)
   state.group = p.get("group") === "episode"
   if (state.kind === "mentions") state.entity = ""
+  if (route.catalog === "entity" && !route.entity) {
+    state.from = state.to = ""
+    if (!["relevance", "name", "mentions"].includes(state.sort)) state.sort = "relevance"
+  }
   if (route.episode && !p.has("item") && /t-\d\d-\d\d-\d\d/.test(url.hash))
     state.item = `passage-${url.hash.match(/t-\d\d-\d\d-\d\d/)![0]}`
   return state

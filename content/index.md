@@ -1,5 +1,5 @@
 ---
-title: "Content Knowledge Graph"
+title: "Candace Knowledge Graph"
 description: "An evidence-first research workbench for imported video, audio, and text sources."
 ---
 

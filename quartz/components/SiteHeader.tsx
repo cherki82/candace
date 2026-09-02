@@ -43,7 +43,7 @@ const SiteHeader: QuartzComponent = ({ fileData, cfg }) => {
           K
         </span>
         <span>
-          Content
+          Candace
           <br />
           <strong>Knowledge Graph</strong>
         </span>

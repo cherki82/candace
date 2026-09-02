@@ -41,7 +41,7 @@ function generateSnippet(): string {
     case "claim":
       const claimText = document.querySelector("blockquote")?.textContent?.trim() || title
       const episodeLink = document.querySelector('a[href*="/episodes/"]')
-      const episodeName = episodeLink?.textContent || "Content Knowledge Graph"
+      const episodeName = episodeLink?.textContent || "Candace Knowledge Graph"
       snippet = `"${claimText}"
 — ${episodeName}
 📖 ${url}`

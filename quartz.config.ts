@@ -9,7 +9,7 @@ import { WorkspaceShell } from "./quartz/plugins/transformers/workspaceShell"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Content Knowledge Graph",
+    pageTitle: "Candace Knowledge Graph",
     pageTitleSuffix: " | Knowledge Graph",
     enableSPA: true,
     enablePopovers: true,

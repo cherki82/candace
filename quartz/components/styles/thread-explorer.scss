@@ -3,6 +3,9 @@ html:has(.thread-explorer) {
 }
 
 .thread-detail:has(.thread-explorer) {
+  .thread-overview-toggle {
+    display: none;
+  }
   > h1 {
     max-width: 40ch;
     font-size: clamp(1.8rem, 3vw, 2.7rem) !important;
@@ -644,13 +647,41 @@ html:has(.thread-explorer) {
 @container thread-explorer (max-width: 620px) {
   .thread-explorer {
     .explorer-layout {
-      grid-template-columns: 1fr;
+      display: block;
+      height: auto;
+      max-height: none;
+    }
+    .result-scroll,
+    .reader {
+      flex: none;
+      overflow: visible;
+      overscroll-behavior: auto;
+    }
+    .search-area {
+      padding: 14px;
+    }
+    .search-area h2,
+    .search-help,
+    .dataset-note {
+      display: none;
+    }
+    .count-row {
+      margin-top: 10px;
+    }
+    button,
+    .search-row button,
+    .toolbar button,
+    .tags button {
+      min-height: 44px;
+      min-width: 44px;
+      font-size: 14px;
     }
     .search-sidebar {
       border-right: 0;
     }
     .reader-shell {
       display: none;
+      scroll-margin-top: 8px;
     }
     &[data-selected="true"] .search-sidebar {
       display: none;
@@ -663,7 +694,18 @@ html:has(.thread-explorer) {
     }
     .toolbar,
     .toolbar-left {
-      gap: 8px;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .toolbar {
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      padding: 8px;
+      background: var(--te-white);
+    }
+    .toolbar button:disabled[data-te="back"] {
+      display: none;
     }
     .reader {
       padding: 20px 13px 40px;
@@ -671,14 +713,41 @@ html:has(.thread-explorer) {
     .size-controls {
       gap: 4px;
     }
-    .toolbar button {
-      font-size: 13px;
-    }
     .focus-card h2 {
       font-size: 29px;
     }
     .result-title {
       font-size: 20px;
+    }
+  }
+}
+
+@media (max-width: 700px) {
+  .thread-detail:has(.thread-explorer) {
+    > h1 {
+      font-size: 26px !important;
+      margin: 8px 0;
+    }
+    .thread-overview-toggle {
+      display: block;
+      min-height: 44px;
+      padding: 8px 12px;
+      margin: 8px 0;
+      border: 1px solid var(--lightgray);
+      border-radius: 4px;
+      background: var(--surface);
+      color: var(--secondary);
+      font-size: 14px;
+      cursor: pointer;
+    }
+    .thread-overview {
+      display: none;
+    }
+    .thread-overview.is-open {
+      display: block;
+    }
+    .thread-explorer {
+      margin-top: 12px;
     }
   }
 }

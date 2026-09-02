@@ -58,6 +58,33 @@ export async function initThreadExplorer(
   container.dataset.initialized = "true"
   const controller = new AbortController()
   const { signal } = controller
+  const mobile = () => container.getBoundingClientRect().width <= 622
+  const detail = container.closest<HTMLElement>(".thread-detail")
+  if (detail && !detail.querySelector(".thread-overview-toggle")) {
+    const overview = document.createElement("div")
+    overview.id = `${detail.dataset.threadId || "thread"}-overview`
+    overview.className = "thread-overview"
+    const toggle = document.createElement("button")
+    toggle.type = "button"
+    toggle.className = "thread-overview-toggle"
+    toggle.textContent = "About this thread"
+    toggle.setAttribute("aria-expanded", "false")
+    toggle.setAttribute("aria-controls", overview.id)
+    for (const node of detail.querySelectorAll(
+      ":scope > .thread-summary, :scope > .thread-detail-stats",
+    ))
+      overview.append(node)
+    container.before(toggle, overview)
+    toggle.addEventListener(
+      "click",
+      () => {
+        const expanded = toggle.getAttribute("aria-expanded") !== "true"
+        toggle.setAttribute("aria-expanded", String(expanded))
+        overview.classList.toggle("is-open", expanded)
+      },
+      { signal },
+    )
+  }
   let searchTimer = 0,
     scrollTimer = 0,
     connectorFrame = 0
@@ -123,10 +150,13 @@ export async function initThreadExplorer(
     state.sidebarScroll = resultsPane.scrollTop
     state.readerScroll = reader.scrollTop
     state.windowScroll = window.scrollY
+    if (!state.item) state.resultsWindowScroll = window.scrollY
     storeState()
   }
   function navigate(patch: Partial<ExplorerState>, replace = false) {
+    clearTimeout(scrollTimer)
     remember()
+    const wasReading = Boolean(state.item)
     const readerChanged =
       ("item" in patch && patch.item !== state.item) || ("q" in patch && patch.q !== state.q)
     state = {
@@ -138,6 +168,14 @@ export async function initThreadExplorer(
     }
     storeState(!replace)
     render()
+    if (mobile()) {
+      if (patch.item) container.querySelector(".reader-shell")!.scrollIntoView({ block: "start" })
+      else if (wasReading && patch.item === "" && !("q" in patch))
+        window.scrollTo({ top: state.resultsWindowScroll || 0 })
+      else if (("page" in patch && !("q" in patch)) || (wasReading && "q" in patch))
+        container.scrollIntoView({ block: "start" })
+      remember()
+    }
   }
   function applySearch() {
     clearTimeout(searchTimer)
@@ -401,7 +439,7 @@ export async function initThreadExplorer(
     () => {
       navigate({ item: "" })
       query.focus({ preventScroll: true })
-      container.scrollIntoView({ block: "start" })
+      if (!mobile()) container.scrollIntoView({ block: "start" })
     },
     { signal },
   )

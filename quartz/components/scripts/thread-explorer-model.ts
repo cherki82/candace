@@ -49,6 +49,7 @@ export type ExplorerState = {
   sidebarScroll: number
   readerScroll: number
   windowScroll: number
+  resultsWindowScroll?: number
   readerSize: number
 }
 
@@ -167,6 +168,7 @@ export function stateFromUrl(href: string, index: ThreadIndex): ExplorerState {
     sidebarScroll: 0,
     readerScroll: 0,
     windowScroll: 0,
+    resultsWindowScroll: 0,
     readerSize: 18,
   }
 }

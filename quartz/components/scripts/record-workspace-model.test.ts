@@ -10,6 +10,7 @@ import {
   highlight,
   outcomeFor,
   matchPassage,
+  recordMetadata,
   type RecordItem,
   type Manifest,
 } from "./record-workspace-model"
@@ -95,6 +96,22 @@ test("the main catalogs, details and legacy transcript links share the workspace
   assert.equal(workspaceRoute("threads/theory"), undefined)
   assert.equal(workspaceRoute("episodes/ep-abc")?.episode, "abc")
 })
+test("entity metadata shows evidence counts rather than an inapplicable date", () => {
+  const entity = record("person", {
+    kind: "entity",
+    date: "",
+    counts: { mention: 1234, statement: 1 },
+  })
+  assert.deepEqual(recordMetadata(entity), { label: "1,234 mentions · 1 statement", date: "" })
+  assert.deepEqual(recordMetadata({ ...entity, counts: { mention: 0, statement: 0 } }), {
+    label: "0 mentions · 0 statements",
+    date: "",
+  })
+  assert.deepEqual(recordMetadata({ ...entity, counts: undefined }), { label: "", date: "" })
+  assert.equal(recordMetadata(record("dated")).date, "1 Jan 2026")
+  assert.equal(recordMetadata(record("undated", { date: "" })).date, "Date not recorded")
+})
+
 test("search finds direct words, tags, aliases and attached excerpts", () => {
   assert.deepEqual(
     filterRecords(records, { ...defaults, q: "Hamptons" })
@@ -126,6 +143,37 @@ test("about, by and raw mentions remain distinct, with no episode tag leakage", 
 test("date range excludes unknown dates", () => {
   assert.ok(
     !filterRecords(records, { ...defaults, from: "2025-01-01" }).some((r) => r.id === "unknown"),
+  )
+})
+test("entity catalogs discard inapplicable dates and sort by name or mention count", () => {
+  const route = workspaceRoute("index/entities")!
+  const url = new URL(
+    "https://example.test/index/entities?from=2026-01-01&to=2026-02-01&sort=newest",
+  )
+  const state = readState(url, route)
+  assert.equal(state.from, "")
+  assert.equal(state.to, "")
+  assert.equal(state.sort, "relevance")
+  assert.equal(readState(url, workspaceRoute("entities/a")!).from, "2026-01-01")
+  const entities = prepareRecords(
+    [
+      record("z", { kind: "entity", text: "Zulu", date: "", counts: { mention: 10 } }),
+      record("a", { kind: "entity", text: "Alpha", date: "", counts: { mention: 2 } }),
+      record("b", { kind: "entity", text: "Beta", date: "" }),
+    ],
+    manifest,
+  )
+  assert.deepEqual(
+    filterRecords(entities, { ...state, sort: "name" }).map((r) => r.id),
+    ["a", "b", "z"],
+  )
+  assert.deepEqual(
+    filterRecords(entities, { ...state, sort: "mentions" }).map((r) => r.id),
+    ["z", "a", "b"],
+  )
+  assert.equal(
+    readState(new URL("https://example.test/index/entities?sort=mentions"), route).sort,
+    "mentions",
   )
 })
 test("URLs round trip cleared detail selections and default filters", () => {

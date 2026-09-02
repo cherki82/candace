@@ -10,7 +10,7 @@ function markup(slug: string) {
   return render(
     h(Header, {
       fileData: { slug },
-      cfg: { pageTitle: "Content Knowledge Graph", baseUrl: "example.com/candace" },
+      cfg: { pageTitle: "Candace Knowledge Graph", baseUrl: "example.com/candace" },
     } as QuartzComponentProps),
   )
 }
@@ -24,6 +24,9 @@ test("shared header keeps all destinations reachable under the deployment prefix
     "relationships/a/b",
   ]) {
     const html = markup(slug)
+    assert.match(html, /aria-label="Candace Knowledge Graph home"/)
+    assert.match(html, /Candace<br\/><strong>Knowledge Graph<\/strong>/)
+    assert.doesNotMatch(html, /Content Knowledge Graph|Content<br/)
     const page = new URL(`https://example.com/candace/${slug === "index" ? "" : slug}`)
     const hrefs = [...html.matchAll(/href="([^"]+)"/g)].map((m) => new URL(m[1], page))
     assert.equal(new Set(hrefs.map((url) => url.href)).size, 12)
