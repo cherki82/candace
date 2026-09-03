@@ -28,13 +28,23 @@ veracity: "true"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
-## Source
+## Appearances (2)
+
+### 1. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:39:35](/episodes/ep-LATnak75Si0.md#t-00-39-35) 
 <a href="https://www.youtube.com/watch?v=LATnak75Si0&t=2375s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now none of you can say anything that you've heard because Erika is not going to hear about this from anyone except me.
+
+### 2. Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footag...
+
+**Episode:** [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md)
+**Timestamp:** [00:31:56](/episodes/ep-HIlPQ-_dcxM.md#t-00-31-56) 
+<a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=1916s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> we when we learned he was dead, it was he came out and he told us and then he says and he says, now none of you can say anything that you've heard because it is Erika is not going to hear about this from anyone except me.
 
 ## Verification
 

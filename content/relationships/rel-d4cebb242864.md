@@ -11,7 +11,11 @@ object: "work-bearing-false-witness-stark"
 
 ## [Rodney Stark](/entities/person-rodney-stark) authored [Bearing False Witness: Debunking Centuries of Anti-Catholic History](/entities/work-bearing-false-witness-stark)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM)**
+
+- [01:03:24](/episodes/ep-HIlPQ-_dcxM#t-01-03-24): _Anyway, you guys, I do want to remind you that we do have book club on Friday. I also want to remind you that we are starting a new book, Bearing False Witness by Rodney Stark, who actually is evangelical._
 
 **[BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Matt Robinson"
-description: "Matt Robinson (People) - 38 mentions"
+description: "Matt Robinson (People) - 39 mentions"
 id: "person-matt-robinson"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-person-matt-robinson-t-00-41-34">2026-03-30 · 00:41:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-matt-robinson-t-00-33-42">2026-08-19 · 00:33:42</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-09-23">2026-09-02 · 00:09:23</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -39,6 +39,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-matt-robinson-t-00-48-43" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 15 mentions" title="2026-08-14 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-matt-robinson-t-00-24-05" style="--pulse-height:87%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 13 mentions" title="2026-08-14 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-matt-robinson-t-00-31-05" style="--pulse-height:13%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-09-23" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-matt-robinson-t-00-48-43) | 15 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-matt-robinson-t-00-24-05) | 13 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-matt-robinson-t-00-31-05) | 2 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#t-00-09-23) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:09:23](/episodes/ep-HIlPQ-_dcxM.md#t-00-09-23)**
+> "I've been telling you none of that is true. That Tyler (Tyler Robinson) immediately denied his involvement and that far from turning his son in, his father believes that his son is innocent."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
@@ -228,7 +238,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <summary>Parent Of (1)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:35:26](/episodes/ep-nPhCKwJ6ye8.md#t-01-35-14): “They went to the parents as well to Matt Robinson. Amber basically said your life's at risk. risk there could be somebody who jumps up and wants to avenge Charlie Kirk and you know we're going to watch you and they went into a federal safe house what happens next is that they started thinking that the feds were maybe gonna like maybe not as honest as they thought and they”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:41:28](/episodes/ep-7ERqbYElOfs.md#t-00-40-57): “Tyler Robinson ... his dad recognized him. ... Mike Mitchell is now speaking on behalf of Matt Robinson.”
@@ -238,6 +248,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:23:55](/episodes/ep-d7VsbEIWkP8.md#t-00-23-30): “This was interesting to me because I, a long time ago, very long time ago, back in October, told you that among other things that I learned about the Robinson family, of course, this whole lie that Matt Robinson believed his son was guilty. Matt Robinson, when he went back to the apartment that Tyler Robinson shared with Lance (Lance Twiggs), discovered that a bed.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:08:19](/episodes/ep-aPOyk1i2LOc.md#t-01-08-16): “initially which I think you agree with was that you know Matt Robinson knew his kid was guilty and turned him into the police station what actually happened in terms of Sheriff Brooksby who was present there and gave a press conference”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:31:23](/episodes/ep-9hRcfSrri70.md#t-00-31-05): “who was very clear on this, that it was not true, that Matt Robinson did not think his son was guilty, that Mike Mitchell was the person who quarterbacked a lot of this and that things were being intentionally misrepresented in the media.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:09:23](/episodes/ep-HIlPQ-_dcxM.md#t-00-09-23): “I've been telling you none of that is true. That Tyler (Tyler Robinson) immediately denied his involvement and that far from turning his son in, his father believes that his son is innocent.”
 
 </details>
 
@@ -247,7 +258,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <summary>Referenced By (1)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:35:26](/episodes/ep-nPhCKwJ6ye8.md#t-01-35-14): “They went to the parents as well to Matt Robinson. Amber basically said your life's at risk. risk there could be somebody who jumps up and wants to avenge Charlie Kirk and you know we're going to watch you and they went into a federal safe house what happens next is that they started thinking that the feds were maybe gonna like maybe not as honest as they thought and they”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:41:28](/episodes/ep-7ERqbYElOfs.md#t-00-40-57): “Tyler Robinson ... his dad recognized him. ... Mike Mitchell is now speaking on behalf of Matt Robinson.”
@@ -257,6 +268,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:23:55](/episodes/ep-d7VsbEIWkP8.md#t-00-23-30): “This was interesting to me because I, a long time ago, very long time ago, back in October, told you that among other things that I learned about the Robinson family, of course, this whole lie that Matt Robinson believed his son was guilty. Matt Robinson, when he went back to the apartment that Tyler Robinson shared with Lance (Lance Twiggs), discovered that a bed.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:08:19](/episodes/ep-aPOyk1i2LOc.md#t-01-08-16): “initially which I think you agree with was that you know Matt Robinson knew his kid was guilty and turned him into the police station what actually happened in terms of Sheriff Brooksby who was present there and gave a press conference”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:31:23](/episodes/ep-9hRcfSrri70.md#t-00-31-05): “who was very clear on this, that it was not true, that Matt Robinson did not think his son was guilty, that Mike Mitchell was the person who quarterbacked a lot of this and that things were being intentionally misrepresented in the media.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:09:23](/episodes/ep-HIlPQ-_dcxM.md#t-00-09-23): “I've been telling you none of that is true. That Tyler (Tyler Robinson) immediately denied his involvement and that far from turning his son in, his father believes that his son is innocent.”
 
 </details>
 

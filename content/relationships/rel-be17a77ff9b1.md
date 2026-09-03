@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Erika Kirk](/entities/person-erika-kirk) widow of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (75 mentions)
+### Evidence (76 mentions)
 
 **[OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA)**
 
@@ -124,6 +124,10 @@ object: "person-charlie-kirk"
 **[Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk)**
 
 - [00:21:04](/episodes/ep-HGtMfbePDKk#t-00-21-04): _So, yeah, suffice to say that never in a million years when I penned that response to her, could I have fathomed that Erika Kirk, the dear widow, after Charlie's assassination would open the doors literally to Brandy, who Charlie could not stand._
+
+**[Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM)**
+
+- [00:16:26](/episodes/ep-HIlPQ-_dcxM#t-00-16-26): _And what we know for a fact now is that for some strange reason, and I'm citing this as strange because we now know for a fact that Charlie (Charlie Kirk) communicated the night before that he was fearful for his life, that he thought they were going to kill him, something that his wife initially denied and then had to concede._
 
 **[BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o)**
 

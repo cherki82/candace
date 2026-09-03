@@ -1,6 +1,6 @@
 ---
 title: "Evangelicalism"
-description: "Evangelicalism (Concepts) - 19 mentions"
+description: "Evangelicalism (Concepts) - 20 mentions"
 id: "concept-evangelicalism"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-evangelicalism-t-00-38-18">2025-10-30 · 00:38:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-evangelicalism-t-00-34-46">2026-07-16 · 00:35:22</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-evangelicalism-t-01-03-09">2026-09-02 · 01:03:24</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -49,6 +49,7 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-evangelicalism-t-00-20-32" style="--pulse-height:33%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-evangelicalism-t-00-13-15" style="--pulse-height:33%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-evangelicalism-t-00-34-46" style="--pulse-height:33%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-evangelicalism-t-01-03-09" style="--pulse-height:33%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-evangelicalism-t-00-20-32) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-evangelicalism-t-00-13-15) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-evangelicalism-t-00-34-46) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-evangelicalism-t-01-03-09) | 1 |
 
 </details>
 </section>
@@ -79,7 +81,15 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[01:03:24](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-evangelicalism-t-01-03-09)**
+> "Anyway, you guys, I do want to remind you that we do have book club on Friday. I also want to remind you that we are starting a new book, Bearing False Witness by Rodney Stark, who actually is evangelical."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>

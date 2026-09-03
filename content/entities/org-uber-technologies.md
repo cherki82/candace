@@ -1,6 +1,6 @@
 ---
 title: "Uber Technologies"
-description: "Uber Technologies (Organizations) - 17 mentions"
+description: "Uber Technologies (Organizations) - 18 mentions"
 id: "org-uber-technologies"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Us | Uber](https://www.uber.com/us/en/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-22-34">2026-01-22 · 00:22:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#t-00-36-41">2026-02-10 · 00:36:41</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-15-00">2026-09-02 · 00:15:10</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [About Us | Uber](https://www.uber.com/us/en/about/)
 <a href="/episodes/ep-QdM9jLwjwLw.md#t-00-33-14" style="--pulse-height:22%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#t-00-23-40" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 9 mentions" title="2026-02-05 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#t-00-36-41" style="--pulse-height:11%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-15-00" style="--pulse-height:11%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [About Us | Uber](https://www.uber.com/us/en/about/)
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#t-00-33-14) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#t-00-23-40) | 9 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#t-00-36-41) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#t-00-15-00) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [About Us | Uber](https://www.uber.com/us/en/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:15:10](/episodes/ep-HIlPQ-_dcxM.md#t-00-15-00)**
+> "He was driving me like an Uber driver. Who knows why? And then lastly, you have on the far right there, the Hyundai Palisade. I'm not sure who actually drove this, but I do know based on footage, we've examined it, that it's a TPUSA vehicle, and that kind of stays parked on the far right side."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>

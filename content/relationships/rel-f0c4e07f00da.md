@@ -11,11 +11,15 @@ object: "person-burton-hibbs"
 
 ## [Jack Hibbs](/entities/person-jack-hibbs) sibling of [Burton Hibbs](/entities/person-burton-hibbs)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o)**
 
 - [00:44:55](/episodes/ep-7RLtGgkTh9o#t-00-44-55): _Butch Hibbs—Jack Hibbs' brother_
+
+**[Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM)**
+
+- [00:54:25](/episodes/ep-HIlPQ-_dcxM#t-00-54-25): _Okay, top comments from yesterday's episode. We were obviously covering Pastor Jack Hibbs and his brother Butch (Burton Hibbs) Hibbs, that spanking that Pastor Hibbs definitely got from Frank Turek when those cameras went off. I know the look. Look, my mom gave me the look. I know exactly._
 
 **[Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow)**
 

@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Justin Baldoni](/entities/person-justin-baldoni) met with [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[I Was Heartbroken... 💔](/episodes/ep-BTn1Z0t_kno)**
+
+- _He (Justin Baldoni) did tell me one thing that was really disturbing, and I have to share it._
 
 **[We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY)**
 

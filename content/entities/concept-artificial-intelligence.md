@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence"
-description: "Artificial intelligence (Concepts) - 179 mentions"
+description: "Artificial intelligence (Concepts) - 186 mentions"
 id: "concept-artificial-intelligence"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-09-15">2025-09-15 · 00:09:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-15-47">2026-08-21 · 00:15:47</a></strong></div>
-<div><span>Episodes</span><strong>59</strong></div>
-<div><span>Mentions</span><strong>179</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16">2026-09-02 · 00:34:53</a></strong></div>
+<div><span>Episodes</span><strong>60</strong></div>
+<div><span>Mentions</span><strong>186</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>31</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -94,6 +94,7 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <a href="/episodes/ep-E7P2ShoYDUA.md#t-01-01-26" style="--pulse-height:29%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 4 mentions" title="2026-08-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#t-00-42-55" style="--pulse-height:21%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 3 mentions" title="2026-08-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-15-06" style="--pulse-height:14%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16" style="--pulse-height:50%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 7 mentions" title="2026-09-02 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -158,6 +159,7 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#t-01-01-26) | 4 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#t-00-42-55) | 3 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-15-06) | 2 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16) | 7 |
 
 </details>
 </section>
@@ -169,7 +171,33 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (179)</strong></summary>
+<summary><strong class="section-title">Raw mentions (186)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (7 mentions)</summary>
+
+**[00:34:23](/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16)**
+> "That's why Outskill created their three-hour AI tools workshop. It's a live workshop happening again this Saturday at 10 a.m. Eastern."
+
+**[00:11:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-11-11)**
+> "...ill recall, obviously, we use AI here to demonstrate to you what the vehicles are ..."
+
+**[00:33:59](/episodes/ep-HIlPQ-_dcxM.md#t-00-33-32)**
+> "...rs trying to figure out which AI tool they should actually be using, not because A..."
+
+**[00:34:16](/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16)**
+> "...nd up spending more time with AI than you would have without it."
+
+**[00:34:29](/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16)**
+> "...e. You'll learn exactly which AI tools to use for different tasks, how to build ag..."
+
+**[00:34:42](/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16)**
+> "...e are also bonus sessions, an AI prompt library, and a personalized AI toolkit bui..."
+
+**[00:34:53](/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16)**
+> "Because AI is not an advantage unless you know how to... how..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Club Candace"
-description: "Club Candace (Organizations) - 101 mentions"
+description: "Club Candace (Organizations) - 103 mentions"
 id: "org-club-candace"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-club-candace-t-01-01-30">2025-09-15 · 01:01:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-club-candace-t-01-01-38">2026-07-23 · 01:01:51</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>101</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-club-candace-t-01-03-35">2026-09-02 · 01:03:35</a></strong></div>
+<div><span>Episodes</span><strong>41</strong></div>
+<div><span>Mentions</span><strong>103</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -77,6 +77,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-org-club-candace-t-00-46-17" style="--pulse-height:20%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-club-candace-t-01-06-44" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-club-candace-t-00-21-42" style="--pulse-height:30%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-club-candace-t-01-03-09" style="--pulse-height:20%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -122,6 +123,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-club-candace-t-00-46-17) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-club-candace-t-01-06-44) | 2 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-club-candace-t-00-21-42) | 3 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-club-candace-t-01-03-09) | 2 |
 
 </details>
 </section>
@@ -129,7 +131,18 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (101)</strong></summary>
+<summary><strong class="section-title">Raw mentions (103)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
+
+**[01:03:24](/episodes/ep-HIlPQ-_dcxM.md#ent-org-club-candace-t-01-03-09)**
+> "Anyway, you guys, I do want to remind you that we do have book club on Friday. I also want to remind you that we are starting a new book, Bearing False Witness by Rodney Stark, who actually is evangelical."
+
+**[01:03:35](/episodes/ep-HIlPQ-_dcxM.md#ent-org-club-candace-t-01-03-35)**
+> "...y some merch, sign up for the book club."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>

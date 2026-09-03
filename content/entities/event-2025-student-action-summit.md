@@ -19,6 +19,8 @@ _Type: Events_
 
 **Categories:** political conference, Turning Point USA, Tampa
 
+> **Possibly overlapping entity records:** [Student Action Summit (conference series)](/entities/event-student-action-summit-series). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official event site confirms the July 11-13, 2025 Tampa event and canonical name; SAS and TPUSA Tampa event are contextual variants.
 Source: [Student Action Summit 2025](https://www.sas2025.com/)

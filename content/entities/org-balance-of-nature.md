@@ -1,6 +1,6 @@
 ---
 title: "Balance of Nature"
-description: "Balance of Nature (Organizations) - 32 mentions"
+description: "Balance of Nature (Organizations) - 35 mentions"
 id: "org-balance-of-nature"
 type: "ORG"
 categories:
@@ -20,12 +20,12 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-balance-of-nature-t-00-59-37">2026-01-05 · 00:59:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-balance-of-nature-t-00-29-23">2026-08-19 · 00:29:33</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-balance-of-nature-t-00-35-44">2026-09-02 · 00:35:44</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -49,6 +49,7 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-balance-of-nature-t-00-41-56" style="--pulse-height:25%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-org-balance-of-nature-t-00-28-24" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-balance-of-nature-t-00-28-47" style="--pulse-height:50%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-balance-of-nature-t-00-35-01" style="--pulse-height:75%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +71,7 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-balance-of-nature-t-00-41-56) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-balance-of-nature-t-00-28-24) | 2 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-balance-of-nature-t-00-28-47) | 2 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-balance-of-nature-t-00-35-01) | 3 |
 
 </details>
 </section>
@@ -77,7 +79,21 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3 mentions)</summary>
+
+**[00:35:09](/episodes/ep-HIlPQ-_dcxM.md#ent-org-balance-of-nature-t-00-35-01)**
+> "I also want to remind you guys about Balance of Nature because as a mom, I don't have time to read a supplement label that looks like it requires a chemistry degree."
+
+**[00:35:20](/episodes/ep-HIlPQ-_dcxM.md#ent-org-balance-of-nature-t-00-35-01)**
+> "That's why I love Balance of Nature's whole health system. It's built around 47 ingredi..."
+
+**[00:35:44](/episodes/ep-HIlPQ-_dcxM.md#ent-org-balance-of-nature-t-00-35-44)**
+> "Balance of Nature uses a tailored vacuum cold process designed to h..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
@@ -279,7 +295,19 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Supporter Of (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:35:09](/episodes/ep-HIlPQ-_dcxM.md#t-00-35-01): “I also want to remind you guys about Balance of Nature because as a mom, I don't have time to read a supplement label that looks like it requires a chemistry degree.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
 <details class="relationship-evidence"><summary>Show all evidence (7)</summary>
@@ -291,6 +319,13 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:31:12](/episodes/ep-IqHsl7d2dos.md#t-00-31-12): “It includes fruits and veggies plus fiber and spice supplements, 47 whole food ingredients in total. So whether you've been on the fence for a long time or it's the first time that you're hearing about them, I recommend that you head to balanceofnature.com and get 10% off their fruits and veggie supplements with the promo code Candace at checkout.”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:29:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-29-30): “Or it's the first time that you're hearing about them, I recommend that you head to balanceofnature.com to get 10% off their fruits and veggies supplements with promo code Candace at checkout.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:42:32](/episodes/ep-OgRyiOAVtWU.md#t-00-42-32): “So whether you've been on the fence for a long time or it's the first time that you're hearing about them, I recommend that you head to balanceofnature.com to get 10% off their fruits and veggies supplements with promo code Candace at checkout.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:35:09](/episodes/ep-HIlPQ-_dcxM.md#t-00-35-01): “I also want to remind you guys about Balance of Nature because as a mom, I don't have time to read a supplement label that looks like it requires a chemistry degree.”
 
 </details>
 

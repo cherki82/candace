@@ -26,7 +26,7 @@ veracity: "true"
 - [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
@@ -43,6 +43,14 @@ veracity: "true"
 <a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=891s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I might be imagining this—but I think what he literally said was ... then he says, "I need to call Erika (Erika Kirk)." ... And then he takes his phone and he begins calling Erika (Erika Kirk). ... that is happening within a minute of all of this occurring.
+
+### 3. Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footag...
+
+**Episode:** [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md)
+**Timestamp:** [00:30:01](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-01) 
+<a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=1801s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> day for the past two years I know his personality very well he's a very bubbly guy he's a very happy guy almost all of the time and I'll never forget what I saw because it was clear in the moment that he was profoundly freaked out what I'll always remember is the way his lip was quivering which I'd never seen before and you very rarely see from someone that he was freaking out and then I think he literally said to me I might be imagining this but I think what he literally said was ... says, I need to call Erika. And then he takes his phone and he begins calling Erika. And I don't want to disclose how that call ... unfolded, but he did that this, you know, your mind extends all of this, but that is happening within a minute of all of this occurring. I remember he calls Erika.
 
 ## Verification
 

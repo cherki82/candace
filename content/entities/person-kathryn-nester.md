@@ -1,6 +1,6 @@
 ---
 title: "Kathryn Nester"
-description: "Kathryn Nester (People) - 9 mentions"
+description: "Kathryn Nester (People) - 10 mentions"
 id: "person-kathryn-nester"
 type: "PERSON"
 aliases:
@@ -24,8 +24,8 @@ Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson heari
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-kathryn-nester-t-01-22-11">2026-08-14 · 01:22:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-person-kathryn-nester-t-00-25-21">2026-08-18 · 00:25:47</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
@@ -55,7 +55,7 @@ Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson heari
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>
@@ -85,10 +85,11 @@ Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson heari
 <summary>Represented (1)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:12:32](/episodes/ep-kaWtDuoY_ns.md#t-00-12-32): “And you're about to hear Kathy Nestor assert, that's another person on Tyler Robinson's team, that they have not yet even been given access to Tyler Robinson's phone.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:09:38](/episodes/ep-aPOyk1i2LOc.md#t-01-09-38): “yeah, Kathy first in court saying she didn't get her client's phone. Yeah. And then I think we'll go to the, if”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:08:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-25): “And at this point we would waive reading of the indictment, which, I'm sorry, waive reading of the information and enter pleas of not guilty on Mr.”
 
 </details>
 
@@ -98,10 +99,11 @@ Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson heari
 <summary>Referenced By (1)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** represented by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:12:32](/episodes/ep-kaWtDuoY_ns.md#t-00-12-32): “And you're about to hear Kathy Nestor assert, that's another person on Tyler Robinson's team, that they have not yet even been given access to Tyler Robinson's phone.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:09:38](/episodes/ep-aPOyk1i2LOc.md#t-01-09-38): “yeah, Kathy first in court saying she didn't get her client's phone. Yeah. And then I think we'll go to the, if”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:08:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-25): “And at this point we would waive reading of the indictment, which, I'm sorry, waive reading of the information and enter pleas of not guilty on Mr.”
 
 </details>
 
@@ -110,7 +112,15 @@ Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson heari
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Kathryn Nester (2)</strong></summary>
+<summary><strong class="section-title">Statements by Kathryn Nester (3)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [00:08:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-25) [○] (Claim) ["Kathryn Nester entered not-guilty pleas on Tyler Robinson’s behalf to all counts..."](/statements/statement-12740ca4630e.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2)</summary>

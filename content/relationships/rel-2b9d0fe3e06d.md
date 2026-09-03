@@ -11,7 +11,11 @@ object: "work-the-charlie-kirk-show"
 
 ## [Blake Neff](/entities/person-blake-neff) works for [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM)**
+
+- [00:56:04](/episodes/ep-HIlPQ-_dcxM#t-00-56-04): _He lies so much about who Charlie (Charlie Kirk) was. Why would we accept anything Blake (Blake Neff) says when he is easily the most community noted employee of the Charlie Kirk show?_
 
 **[A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU)**
 

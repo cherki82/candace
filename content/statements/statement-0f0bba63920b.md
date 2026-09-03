@@ -28,13 +28,23 @@ veracity: "true"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
-## Source
+## Appearances (2)
+
+### 1. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:38:47](/episodes/ep-LATnak75Si0.md#t-00-38-18) 
 <a href="https://www.youtube.com/watch?v=LATnak75Si0&t=2327s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And then he immediately calls his dad. He calls Rob McCoy. ... Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends. ... Charlie (Charlie Kirk) was hit. We need everyone to pray right now.
+
+### 2. Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footag...
+
+**Episode:** [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md)
+**Timestamp:** [00:31:08](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42) 
+<a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=1868s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> He calls Rob McCoy and he says, Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends. ... Charlie (Charlie Kirk) was hit. We need everyone to pray right now.
 
 ## Verification
 

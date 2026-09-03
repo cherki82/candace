@@ -16,7 +16,7 @@ date: "2025-09-11"
 
 > Tyler James Robinson surrenders to police at Washington County Sheriff's Office
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318
 
@@ -41,3 +41,11 @@ date: "2025-09-11"
 <a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=422s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > when Tyler James Robinson surrendered to police at Washington County Sheriff's Office
+
+### 4. Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footag...
+
+**Episode:** [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md)
+**Timestamp:** [00:01:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-01-40) 
+<a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=100s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Tyler told his father that he was not guilty. His father believes him. He was told that he's going to be brought into the police station either way. And so he decided to go in peaceably despite insisting on his innocence. ... Yes, he went with his son to the police station after they were told they had no other choice. You can do this the nice way or we can do this the way where SWAT is banging down your door and you are putting your life at risk. Despite this, the foundational lie remained and they're now just trying to pivot and be like, oh, no, we only ever said.

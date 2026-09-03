@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 598 mentions"
+description: "American Financing (Organizations) - 602 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-41-12">2026-09-01 · 00:41:31</a></strong></div>
-<div><span>Episodes</span><strong>135</strong></div>
-<div><span>Mentions</span><strong>598</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-american-financing-t-00-54-13">2026-09-02 · 00:54:13</a></strong></div>
+<div><span>Episodes</span><strong>136</strong></div>
+<div><span>Mentions</span><strong>602</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -171,6 +171,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-american-financing-t-00-57-01" style="--pulse-height:50%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 4 mentions" title="2026-08-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-american-financing-t-00-42-29" style="--pulse-height:50%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-40-30" style="--pulse-height:62%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-american-financing-t-00-52-54" style="--pulse-height:50%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 4 mentions" title="2026-09-02 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -311,6 +312,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-american-financing-t-00-57-01) | 4 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-american-financing-t-00-42-29) | 4 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-40-30) | 5 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-american-financing-t-00-52-54) | 4 |
 
 </details>
 </section>
@@ -318,7 +320,24 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (598)</strong></summary>
+<summary><strong class="section-title">Raw mentions (602)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (4 mentions)</summary>
+
+**[00:53:25](/episodes/ep-HIlPQ-_dcxM.md#ent-org-american-financing-t-00-52-54)**
+> "Zip more, smoke less with Zippix nicotine toothpicks. I also want to remind you guys about American financing because it is no secret that everything is starting to feel a lot more expensive these days."
+
+**[00:53:47](/episodes/ep-HIlPQ-_dcxM.md#ent-org-american-financing-t-00-53-35)**
+> "But American financing offers a smart equity loan so that you don't have..."
+
+**[00:54:03](/episodes/ep-HIlPQ-_dcxM.md#ent-org-american-financing-t-00-53-35)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:54:13](/episodes/ep-HIlPQ-_dcxM.md#ent-org-american-financing-t-00-54-13)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (5 mentions)</summary>
@@ -2852,7 +2871,19 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Supporter Of (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:53:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-52-54): “Zip more, smoke less with Zippix nicotine toothpicks. I also want to remind you guys about American financing because it is no secret that everything is starting to feel a lot more expensive these days.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
 <details class="relationship-evidence"><summary>Show all evidence (40)</summary>
@@ -2907,6 +2938,13 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:42:42](/episodes/ep-puuMVxEu5NU.md#t-00-42-35): “Well, American Financing offers a smart equity loan so that you don't have to.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:43:32](/episodes/ep-N4uM8Jdr410.md#t-00-43-32): “But American Financing offers a smart equity loan so that you don't have to. It allows you to wipe out high interest debt and lower your monthly overhead while keeping your primary mortgage intact.”
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:56:51](/episodes/ep-czVBmqZP6Ss.md#t-00-56-30): “They've created the Smart Equity Loan, which is a solution designed to help you take control of your finances”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:53:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-52-54): “Zip more, smoke less with Zippix nicotine toothpicks. I also want to remind you guys about American financing because it is no secret that everything is starting to feel a lot more expensive these days.”
 
 </details>
 

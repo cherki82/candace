@@ -1,6 +1,6 @@
 ---
 title: "Justin Baldoni"
-description: "Justin Baldoni (People) - 56 mentions"
+description: "Justin Baldoni (People) - 58 mentions"
 id: "person-justin-baldoni"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32">2025-10-28 · 00:45:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-justin-baldoni-t-00-48-11">2026-09-01 · 00:48:11</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>56</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-BTn1Z0t_kno.md#ent-person-justin-baldoni-t-00-00-00">2026-09-03 · 00:00:00</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>58</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -43,6 +43,8 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-justin-baldoni-t-00-13-01" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 12 mentions" title="2026-08-31 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-wntKnFzh9Gs.md#ent-person-justin-baldoni-t-00-00-00" style="--pulse-height:25%" aria-label="I Met My Cousin In Iceland...: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-justin-baldoni-t-00-00-01" style="--pulse-height:42%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-baldoni-t-01-01-49" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BTn1Z0t_kno.md#ent-person-justin-baldoni-t-00-00-00" style="--pulse-height:8%" aria-label="I Was Heartbroken... 💔: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +62,8 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-justin-baldoni-t-00-13-01) | 12 |
 | 2026-09-01 | [I Met My Cousin In Iceland...](/episodes/ep-wntKnFzh9Gs.md#ent-person-justin-baldoni-t-00-00-00) | 3 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-justin-baldoni-t-00-00-01) | 5 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-baldoni-t-01-01-49) | 1 |
+| 2026-09-03 | [I Was Heartbroken... 💔](/episodes/ep-BTn1Z0t_kno.md#ent-person-justin-baldoni-t-00-00-00) | 1 |
 
 </details>
 </section>
@@ -67,7 +71,23 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+
+<details>
+<summary>I Was Heartbroken... 💔 (1 mentions)</summary>
+
+**[00:00:00](/episodes/ep-BTn1Z0t_kno.md#ent-person-justin-baldoni-t-00-00-00)**
+> "He (Justin Baldoni) did tell me one thing that was really disturbing, and I have to share it."
+
+</details>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[01:01:49](/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-baldoni-t-01-01-49)**
+> "saying like let's bring our kids to court i mean i told you very early on i had issued my verdict before this ever went to trial um and i looked at this the prescription she was on i think a lot of people are talking about those prescriptions i'm just ignorant on it and so i have stayed out of it and i do want to keep my focus on this case because i don't do things halfway like it was just the Blake (Blake Lively) and Justin Baldoni case as it was with the Kamala Chronicles"
+
+</details>
 
 <details>
 <summary>I Met My Cousin In Iceland... (3 mentions)</summary>
@@ -354,10 +374,11 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 <summary>Met With (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:13:28](/episodes/ep-JrhGEm8MGRY.md#t-00-13-01): “I kid you not, as soon as it clicks for me who she is and her jaw hits the floor and my jaw hits the floor and I look up, I see her husband, ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
 - [I Met My Cousin In Iceland... @ 00:00:00](/episodes/ep-wntKnFzh9Gs.md#t-00-00-00): “Ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
+- [I Was Heartbroken... 💔 @ 00:00:00](/episodes/ep-BTn1Z0t_kno.md#t-00-00-00): “He (Justin Baldoni) did tell me one thing that was really disturbing, and I have to share it.”
 
 </details>
 
@@ -428,10 +449,11 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:13:28](/episodes/ep-JrhGEm8MGRY.md#t-00-13-01): “I kid you not, as soon as it clicks for me who she is and her jaw hits the floor and my jaw hits the floor and I look up, I see her husband, ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
 - [I Met My Cousin In Iceland... @ 00:00:00](/episodes/ep-wntKnFzh9Gs.md#t-00-00-00): “Ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
+- [I Was Heartbroken... 💔 @ 00:00:00](/episodes/ep-BTn1Z0t_kno.md#t-00-00-00): “He (Justin Baldoni) did tell me one thing that was really disturbing, and I have to share it.”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 3069 mentions"
+description: "Erika Kirk (People) - 3075 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -27,11 +27,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-erika-kirk-t-00-18-02">2025-09-11 · 00:18:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-erika-kirk-t-00-19-47">2026-09-01 · 00:19:47</a></strong></div>
-<div><span>Episodes</span><strong>146</strong></div>
-<div><span>Mentions</span><strong>3,069</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-erika-kirk-t-01-02-29">2026-09-02 · 01:02:29</a></strong></div>
+<div><span>Episodes</span><strong>147</strong></div>
+<div><span>Mentions</span><strong>3,075</strong></div>
 <div><span>Statements by</span><strong>122</strong></div>
-<div><span>Statements about</span><strong>967</strong></div>
+<div><span>Statements about</span><strong>970</strong></div>
 <div><span>Relationships</span><strong>313</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -186,6 +186,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-erika-kirk-t-00-05-31" style="--pulse-height:17%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 15 mentions" title="2026-08-21 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-erika-kirk-t-00-04-54" style="--pulse-height:16%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 14 mentions" title="2026-08-31 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-erika-kirk-t-00-03-05" style="--pulse-height:9%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 8 mentions" title="2026-09-01 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-erika-kirk-t-00-30-33" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 6 mentions" title="2026-09-02 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -337,6 +338,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-erika-kirk-t-00-05-31) | 15 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-erika-kirk-t-00-04-54) | 14 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-erika-kirk-t-00-03-05) | 8 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-erika-kirk-t-00-30-33) | 6 |
 
 </details>
 </section>
@@ -348,7 +350,30 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3069)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3075)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (6 mentions)</summary>
+
+**[00:30:33](/episodes/ep-HIlPQ-_dcxM.md#ent-person-erika-kirk-t-00-30-33)**
+> "says, I need to call Erika. And then he takes his phone and he begins calling Erika. And I don't want to disclose how that call"
+
+**[00:30:42](/episodes/ep-HIlPQ-_dcxM.md#ent-person-erika-kirk-t-00-30-42)**
+> "...ccurring. I remember he calls Erika."
+
+**[00:31:51](/episodes/ep-HIlPQ-_dcxM.md#ent-person-erika-kirk-t-00-31-18)**
+> "...hat I can get it to get it to Erika."
+
+**[00:31:56](/episodes/ep-HIlPQ-_dcxM.md#ent-person-erika-kirk-t-00-31-56)**
+> "...at you've heard because it is Erika is not going to hear about this from anyone excep..."
+
+**[00:32:14](/episodes/ep-HIlPQ-_dcxM.md#ent-person-erika-kirk-t-00-32-09)**
+> "...the only person to speak with Erika, you would think that Mikey (Michael McCoy) would..."
+
+**[01:02:29](/episodes/ep-HIlPQ-_dcxM.md#ent-person-erika-kirk-t-01-02-29)**
+> "...ine between people that think Erika Kirk is suspicious to people that want Lindsay Clancy ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (8 mentions)</summary>
@@ -10867,7 +10892,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Criticized By (9)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (63)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (64)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -10932,6 +10957,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:38:47](/episodes/ep-4JxgOclKzqg.md#t-00-38-47): “I'd like to remind everybody I was the last to comment publicly about the strange behavior of Erika Kirk, and I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:01](/episodes/ep-Wjul6YV6izo.md#t-00-53-24): “Mrs. Kirk is not just behaving inappropriately. She's behaving suspiciously. ... it is always suspicious to tell a lie.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35): “in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:02:29](/episodes/ep-HIlPQ-_dcxM.md#t-01-02-29): “The reason why so many conservabros love it is because they're basically trying to draw this line between people that think Erika Kirk is suspicious to people that want Lindsay Clancy freed or something, some disingenuous line that they're trying to draw, which is completely crazy because they were the ones that were going on vibes of Erika and just saying that we should all ignore the lies that she's told us.”
 
 </details>
 
@@ -11781,7 +11807,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Widow Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (75)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (76)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -11858,6 +11884,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45): “Erika Kirk (Charlie Kirk's widow)”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:28](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “So what is it about Charlie's widow in particular that is inspiring his very public nervous breakdown?”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:28](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28): “A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:16:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15): “And what we know for a fact now is that for some strange reason, and I'm citing this as strange because we now know for a fact that Charlie (Charlie Kirk) communicated the night before that he was fearful for his life, that he thought they were going to kill him, something that his wife initially denied and then had to concede.”
 
 </details>
 
@@ -12354,7 +12381,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (63)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (64)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -12419,6 +12446,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:38:47](/episodes/ep-4JxgOclKzqg.md#t-00-38-47): “I'd like to remind everybody I was the last to comment publicly about the strange behavior of Erika Kirk, and I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:01](/episodes/ep-Wjul6YV6izo.md#t-00-53-24): “Mrs. Kirk is not just behaving inappropriately. She's behaving suspiciously. ... it is always suspicious to tell a lie.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35): “in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:02:29](/episodes/ep-HIlPQ-_dcxM.md#t-01-02-29): “The reason why so many conservabros love it is because they're basically trying to draw this line between people that think Erika Kirk is suspicious to people that want Lindsay Clancy freed or something, some disingenuous line that they're trying to draw, which is completely crazy because they were the ones that were going on vibes of Erika and just saying that we should all ignore the lies that she's told us.”
 
 </details>
 
@@ -12498,7 +12526,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** deceased husband of this
-<details class="relationship-evidence"><summary>Show all evidence (75)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (76)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -12575,6 +12603,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45): “Erika Kirk (Charlie Kirk's widow)”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:28](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “So what is it about Charlie's widow in particular that is inspiring his very public nervous breakdown?”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:28](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28): “A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:16:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15): “And what we know for a fact now is that for some strange reason, and I'm citing this as strange because we now know for a fact that Charlie (Charlie Kirk) communicated the night before that he was fearful for his life, that he thought they were going to kill him, something that his wife initially denied and then had to concede.”
 
 </details>
 
@@ -14045,7 +14074,21 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (967)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (970)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3)</summary>
+
+- [00:16:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk initially denied Charlie Kirk’s expressed fear f..."](/statements/statement-24bd012b606d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:18](/episodes/ep-HIlPQ-_dcxM.md#t-00-31-18) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said Michael McCoy became composed after the calls and dire..."](/statements/statement-2b923ecd6b5b.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [01:02:29](/episodes/ep-HIlPQ-_dcxM.md#t-01-02-29) (Opinion) **Candace Owens**: ["Owens criticized commentators for equating suspicion about Erika Kirk ..."](/statements/statement-c77dd45d084f.md)
+  - Also about: [Lindsay Clancy](/entities/person-lindsay-clancy.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2)</summary>

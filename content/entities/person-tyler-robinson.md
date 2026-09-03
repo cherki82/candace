@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 999 mentions"
+description: "Tyler Robinson (People) - 1030 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-52-57">2026-09-01 · 00:52:57</a></strong></div>
-<div><span>Episodes</span><strong>105</strong></div>
-<div><span>Mentions</span><strong>999</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-48-58">2026-09-02 · 00:49:25</a></strong></div>
+<div><span>Episodes</span><strong>106</strong></div>
+<div><span>Mentions</span><strong>1,030</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
-<div><span>Statements about</span><strong>439</strong></div>
+<div><span>Statements about</span><strong>455</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -141,6 +141,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-robinson-t-00-15-06" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 7 mentions" title="2026-08-21 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-tyler-robinson-t-00-27-53" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-01-03" style="--pulse-height:10%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 10 mentions" title="2026-09-01 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-00-01" style="--pulse-height:30%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 31 mentions" title="2026-09-02 · 31 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -251,6 +252,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-robinson-t-00-15-06) | 7 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-tyler-robinson-t-00-27-53) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-01-03) | 10 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-00-01) | 31 |
 
 </details>
 </section>
@@ -262,7 +264,105 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (999)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1030)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (31 mentions)</summary>
+
+**[00:00:01](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-00-01)**
+> "All right, you guys. Happy Wednesday. Well, the case is officially on. As we predicted, as we expected, the state of Utah has cleared its relatively low bar on presenting enough probative evidence using their reliable hearsay standard to bring Tyler Robinson to trial."
+
+**[00:01:06](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-01-06)**
+> "...you guys for a long time now, Tyler Robinson officially entered his plea of not guilty to the ..."
+
+**[00:01:40](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-01-40)**
+> "Tyler (Tyler Robinson) told his father that he was not guilty. His fath..."
+
+**[00:02:24](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-02-24)**
+> "...e cleared its bar to move the Tyler Robinson trial forward."
+
+**[00:03:21](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-03-03)**
+> "...state argued that him texting Tyler Robinson, texting Lance (Lance Twiggs) effectively don't s..."
+
+**[00:04:25](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-04-25)**
+> "...rictly to the message wherein Tyler Robinson allegedly says delete this exchange."
+
+**[00:07:36](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-07-07)**
+> "Yeah, Tyler Robinson, hang him. We want him to die. It's like one side..."
+
+**[00:08:01](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-07-45)**
+> "... the bigger news here is that Tyler Robinson has finally entered his plea and it is not exactl..."
+
+**[00:08:13](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-08-13)**
+> "Does Mr. Robinson wish to enter into pleas today?"
+
+**[00:08:36](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-08-25)**
+> "Robinson's behalf to all counts."
+
+**[00:08:45](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-08-40)**
+> "...uences at different time that Tyler Robinson was guilty I mean there was even a story they jus..."
+
+**[00:09:23](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-09-23)**
+> "... of that is true. That Tyler (Tyler Robinson) immediately denied his involvement and that far ..."
+
+**[00:33:07](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-32-49)**
+> "...e. It's like Blake Neff needs Tyler Robinson to be guilty."
+
+**[00:33:21](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-32-49)**
+> "Not once. but needs Tyler Robinson to be guilty so much so that he will just tell th..."
+
+**[00:38:59](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-38-59)**
+> "...tweeting the same thing, that Tyler Robinson's lawyer is arguing that political assassinations a..."
+
+**[00:40:34](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-40-25)**
+> "Tyler Robinson, defense attorney, attacked Charlie Kirk in court..."
+
+**[00:41:58](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-41-37)**
+> "So this is Tyler Robinson's lawyer, Richard Novak. I'm going to let you liste..."
+
+**[00:42:47](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-42-47)**
+> "...romantic relationship with mr robinson but that doesn't mean that those"
+
+**[00:42:59](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-42-47)**
+> "...hoices by mr twiggs and by mr robinson equate with the hate that at least mr robinson sa..."
+
+**[00:43:30](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-42-47)**
+> "Robinson felt about him."
+
+**[00:45:10](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-44-45)**
+> "...r arguments and accepted that Tyler Robinson sent a message to his lover, Lance (Lance Twiggs)..."
+
+**[00:45:47](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-45-27)**
+> "...ng enhancements. So they want Tyler Robinson's sentence to be enhanced."
+
+**[00:46:29](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-46-29)**
+> "That was one of the alleged Tyler Robinson communications, right? And then they then extrapo..."
+
+**[00:46:56](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-46-56)**
+> "... were perceived as hateful to Tyler Robinson, who they are arguing is a member of the LGBTQ co..."
+
+**[00:47:14](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-46-56)**
+> "...cution's arguments. So Tyler (Tyler Robinson)'s lawyer here is saying, even if we accepted you..."
+
+**[00:47:27](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-46-56)**
+> "...e which you claim was sent by Tyler Robinson is in reference to those statements."
+
+**[00:48:38](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-48-17)**
+> "Robinson and Mr. Twiggs are two men who love each other an..."
+
+**[00:48:45](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-48-17)**
+> "Robinson was at least intermittently identifying as a fema..."
+
+**[00:49:08](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-48-58)**
+> "Robinson was referring to. And then they go on to say thes..."
+
+**[00:49:17](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-48-58)**
+> "Kirk motivated Mr. Robinson to select Mr. Kirk for an act of violence, there ..."
+
+**[00:49:25](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-48-58)**
+> "Kirk. which, if any, Mr. Robinson may have been aware of or focused on. So it's the..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (10 mentions)</summary>
@@ -3816,7 +3916,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <summary>Child Of (2)</summary>
 
 - **[Matt Robinson](/entities/person-matt-robinson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:35:26](/episodes/ep-nPhCKwJ6ye8.md#t-01-35-14): “They went to the parents as well to Matt Robinson. Amber basically said your life's at risk. risk there could be somebody who jumps up and wants to avenge Charlie Kirk and you know we're going to watch you and they went into a federal safe house what happens next is that they started thinking that the feds were maybe gonna like maybe not as honest as they thought and they”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:41:28](/episodes/ep-7ERqbYElOfs.md#t-00-40-57): “Tyler Robinson ... his dad recognized him. ... Mike Mitchell is now speaking on behalf of Matt Robinson.”
@@ -3826,15 +3926,17 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:23:55](/episodes/ep-d7VsbEIWkP8.md#t-00-23-30): “This was interesting to me because I, a long time ago, very long time ago, back in October, told you that among other things that I learned about the Robinson family, of course, this whole lie that Matt Robinson believed his son was guilty. Matt Robinson, when he went back to the apartment that Tyler Robinson shared with Lance (Lance Twiggs), discovered that a bed.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:08:19](/episodes/ep-aPOyk1i2LOc.md#t-01-08-16): “initially which I think you agree with was that you know Matt Robinson knew his kid was guilty and turned him into the police station what actually happened in terms of Sheriff Brooksby who was present there and gave a press conference”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:31:23](/episodes/ep-9hRcfSrri70.md#t-00-31-05): “who was very clear on this, that it was not true, that Matt Robinson did not think his son was guilty, that Mike Mitchell was the person who quarterbacked a lot of this and that things were being intentionally misrepresented in the media.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:09:23](/episodes/ep-HIlPQ-_dcxM.md#t-00-09-23): “I've been telling you none of that is true. That Tyler (Tyler Robinson) immediately denied his involvement and that far from turning his son in, his father believes that his son is innocent.”
 
 </details>
 
 - **[Amber Robinson](/entities/person-amber-robinson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:35:26](/episodes/ep-nPhCKwJ6ye8.md#t-01-35-14): “They went to the parents as well to Matt Robinson. Amber basically said your life's at risk. risk there could be somebody who jumps up and wants to avenge Charlie Kirk and you know we're going to watch you and they went into a federal safe house what happens next is that they started thinking that the feds were maybe gonna like maybe not as honest as they thought and they”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:04:42](/episodes/ep-aPOyk1i2LOc.md#t-01-04-31): “They went to the parents as well to Matt Robinson and Amber basically said your life's at risk.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:31:54](/episodes/ep-9hRcfSrri70.md#t-00-31-36): “was the one who recognized thought that he recognized Tyler Robinson from the stairwell photo and then as we said he is the one that then contacted the parents and who knows what happened thereafter maybe he then says he showed the mom and said don't think kind of looks like him and the mom said yes and then when he later on wrote his statement he was like I showed this to Amber Robinson and they she she said that it could it could be him be him or something.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:10:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-10-05): “So I've just been holding the line on that telling you he's going to put in a plea of not guilty and his parents don't think he's guilty and his grandparents don't think he's guilty and these people are lying and I've not moved one inch on that nor do I need to.”
 
 </details>
 
@@ -3905,17 +4007,19 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <summary>Represented By (2)</summary>
 
 - **[Richard G. Novak](/entities/person-richard-g-novak.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:09:59](/episodes/ep-kaWtDuoY_ns.md#t-00-09-59): “Take a listen to Tyler Robinson's defense attorney, Richard Novak, explain that, yeah, they have the summary reports, but we don't have the data, the proof, the chain of custody to show that any of this is real.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:41:58](/episodes/ep-HIlPQ-_dcxM.md#t-00-41-37): “So this is Tyler Robinson's lawyer, Richard Novak. I'm going to let you listen to his words and then I'm going to.”
 
 </details>
 
 - **[Kathryn Nester](/entities/person-kathryn-nester.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:12:32](/episodes/ep-kaWtDuoY_ns.md#t-00-12-32): “And you're about to hear Kathy Nestor assert, that's another person on Tyler Robinson's team, that they have not yet even been given access to Tyler Robinson's phone.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:09:38](/episodes/ep-aPOyk1i2LOc.md#t-01-09-38): “yeah, Kathy first in court saying she didn't get her client's phone. Yeah. And then I think we'll go to the, if”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:08:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-25): “And at this point we would waive reading of the indictment, which, I'm sorry, waive reading of the information and enter pleas of not guilty on Mr.”
 
 </details>
 
@@ -3994,7 +4098,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 - **[Matt Robinson](/entities/person-matt-robinson.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:35:26](/episodes/ep-nPhCKwJ6ye8.md#t-01-35-14): “They went to the parents as well to Matt Robinson. Amber basically said your life's at risk. risk there could be somebody who jumps up and wants to avenge Charlie Kirk and you know we're going to watch you and they went into a federal safe house what happens next is that they started thinking that the feds were maybe gonna like maybe not as honest as they thought and they”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:41:28](/episodes/ep-7ERqbYElOfs.md#t-00-40-57): “Tyler Robinson ... his dad recognized him. ... Mike Mitchell is now speaking on behalf of Matt Robinson.”
@@ -4004,30 +4108,34 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:23:55](/episodes/ep-d7VsbEIWkP8.md#t-00-23-30): “This was interesting to me because I, a long time ago, very long time ago, back in October, told you that among other things that I learned about the Robinson family, of course, this whole lie that Matt Robinson believed his son was guilty. Matt Robinson, when he went back to the apartment that Tyler Robinson shared with Lance (Lance Twiggs), discovered that a bed.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:08:19](/episodes/ep-aPOyk1i2LOc.md#t-01-08-16): “initially which I think you agree with was that you know Matt Robinson knew his kid was guilty and turned him into the police station what actually happened in terms of Sheriff Brooksby who was present there and gave a press conference”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:31:23](/episodes/ep-9hRcfSrri70.md#t-00-31-05): “who was very clear on this, that it was not true, that Matt Robinson did not think his son was guilty, that Mike Mitchell was the person who quarterbacked a lot of this and that things were being intentionally misrepresented in the media.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:09:23](/episodes/ep-HIlPQ-_dcxM.md#t-00-09-23): “I've been telling you none of that is true. That Tyler (Tyler Robinson) immediately denied his involvement and that far from turning his son in, his father believes that his son is innocent.”
 
 </details>
 
 - **[Amber Robinson](/entities/person-amber-robinson.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:35:26](/episodes/ep-nPhCKwJ6ye8.md#t-01-35-14): “They went to the parents as well to Matt Robinson. Amber basically said your life's at risk. risk there could be somebody who jumps up and wants to avenge Charlie Kirk and you know we're going to watch you and they went into a federal safe house what happens next is that they started thinking that the feds were maybe gonna like maybe not as honest as they thought and they”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:04:42](/episodes/ep-aPOyk1i2LOc.md#t-01-04-31): “They went to the parents as well to Matt Robinson and Amber basically said your life's at risk.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:31:54](/episodes/ep-9hRcfSrri70.md#t-00-31-36): “was the one who recognized thought that he recognized Tyler Robinson from the stairwell photo and then as we said he is the one that then contacted the parents and who knows what happened thereafter maybe he then says he showed the mom and said don't think kind of looks like him and the mom said yes and then when he later on wrote his statement he was like I showed this to Amber Robinson and they she she said that it could it could be him be him or something.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:10:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-10-05): “So I've just been holding the line on that telling you he's going to put in a plea of not guilty and his parents don't think he's guilty and his grandparents don't think he's guilty and these people are lying and I've not moved one inch on that nor do I need to.”
 
 </details>
 
 - **[Richard G. Novak](/entities/person-richard-g-novak.md)** represented this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:09:59](/episodes/ep-kaWtDuoY_ns.md#t-00-09-59): “Take a listen to Tyler Robinson's defense attorney, Richard Novak, explain that, yeah, they have the summary reports, but we don't have the data, the proof, the chain of custody to show that any of this is real.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:41:58](/episodes/ep-HIlPQ-_dcxM.md#t-00-41-37): “So this is Tyler Robinson's lawyer, Richard Novak. I'm going to let you listen to his words and then I'm going to.”
 
 </details>
 
 - **[Kathryn Nester](/entities/person-kathryn-nester.md)** represented this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:12:32](/episodes/ep-kaWtDuoY_ns.md#t-00-12-32): “And you're about to hear Kathy Nestor assert, that's another person on Tyler Robinson's team, that they have not yet even been given access to Tyler Robinson's phone.”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:09:38](/episodes/ep-aPOyk1i2LOc.md#t-01-09-38): “yeah, Kathy first in court saying she didn't get her client's phone. Yeah. And then I think we'll go to the, if”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:08:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-25): “And at this point we would waive reading of the indictment, which, I'm sorry, waive reading of the information and enter pleas of not guilty on Mr.”
 
 </details>
 
@@ -4137,7 +4245,56 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (439)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (455)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (16)</summary>
+
+- [00:00:01](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-01) (Claim) **Candace Owens**: ["Owens said Utah had cleared the preliminary-hearing threshold to bring..."](/statements/statement-325bd3c50336.md)
+  - Also about: [Utah Rule of Evidence 1102](/entities/law-utah-evidence-rule-1102.md)
+
+- [00:01:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-01-40) (Claim) **Candace Owens** (via paraphrase): ["Owens said Robinson accompanied his father to the police station after..."](/statements/statement-7f8d126d9121.md)
+
+- [00:03:13](/episodes/ep-HIlPQ-_dcxM.md#t-00-03-03) (Opinion) **Candace Owens**: ["Owens said the only part of Judge Graf’s ruling that surprised her was..."](/statements/statement-2a1d3a7ca6d0.md)
+  - Also about: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)
+
+- [00:05:32](/episodes/ep-HIlPQ-_dcxM.md#t-00-05-32) (Claim) **Tony F. Graf Jr.** (via quoted speech): ["Judge Graf said advice to obtain counsel and remain silent was lawful ..."](/statements/statement-d17acd11d90b.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [00:07:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-06-54) (Claim) **Tony F. Graf Jr.** (via quoted speech): ["Judge Graf bound count six, witness tampering, over for trial."](/statements/statement-460416247138.md)
+
+- [00:08:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-25) (Claim) **Kathryn Nester** (via quoted speech): ["Kathryn Nester entered not-guilty pleas on Tyler Robinson’s behalf to ..."](/statements/statement-12740ca4630e.md)
+
+- [00:08:45](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-40) (Accusation) **Candace Owens**: ["Owens said Bill Ackman had offered Robinson’s father a million dollars..."](/statements/statement-462c8e68c829.md)
+  - Also about: [Bill Ackman](/entities/person-bill-ackman.md)
+
+- [00:09:23](/episodes/ep-HIlPQ-_dcxM.md#t-00-09-23) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tyler Robinson immediately denied involvement, that his fat..."](/statements/statement-322122311b03.md)
+
+- [00:33:07](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49) (Opinion) **Candace Owens**: ["Owens expressed the view that Blake Neff needed Tyler Robinson to be g..."](/statements/statement-ad1953d0acc9.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:40:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) (Opinion) **Graham Allen** (via quoted tweet): ["Graham Allen described Tyler Robinson’s defense attorney as a lunatic ..."](/statements/statement-26c6a55616ad.md)
+  - Also about: [Richard G. Novak](/entities/person-richard-g-novak.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:42:37](/episodes/ep-HIlPQ-_dcxM.md#t-00-42-07) (Claim) **Richard G. Novak** (via quoted speech): ["Richard Novak argued that evidence about Twiggs’s gender identity and ..."](/statements/statement-7c80e7242ada.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:32](/episodes/ep-HIlPQ-_dcxM.md#t-00-43-32) (Opinion) **Richard G. Novak** (via quoted speech): ["Richard Novak argued that attributing Robinson’s alleged hatred to his..."](/statements/statement-c9706f24b257.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:44:20](/episodes/ep-HIlPQ-_dcxM.md#t-00-44-20) (Accusation) **Candace Owens**: ["Owens said Novak was challenging an unsupported inference about politi..."](/statements/statement-a34cfc13e0e7.md)
+  - Also about: [Richard G. Novak](/entities/person-richard-g-novak.md), [Matt Walsh](/entities/person-matt-walsh.md)
+
+- [00:47:59](/episodes/ep-HIlPQ-_dcxM.md#t-00-47-35) (Citation) **Candace Owens** (via paraphrase): ["Owens cited page 32 of the defense’s August 11 filing as arguing that ..."](/statements/statement-db383b01e9d8.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:47:59](/episodes/ep-HIlPQ-_dcxM.md#t-00-47-35) (Claim) **Candace Owens** (via paraphrase): ["Owens said Pastor David Engelhardt’s statement had been presented to s..."](/statements/statement-a3057ac2e3fc.md)
+  - Also about: [David Engelhardt](/entities/person-david-engelhardt.md)
+
+- [01:00:36](/episodes/ep-HIlPQ-_dcxM.md#t-01-00-31) (Prediction) **Candace Owens**: ["Owens predicted an awakening beyond the authorities’ control if they e..."](/statements/statement-f46930679dd3.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (15)</summary>

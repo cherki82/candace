@@ -1,6 +1,6 @@
 ---
 title: "The Decentralized Intelligence Agency"
-description: "The Decentralized Intelligence Agency (Organizations) - 11 mentions"
+description: "The Decentralized Intelligence Agency (Organizations) - 12 mentions"
 id: "org-decentralized-intelligence-agency"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collection
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-decentralized-intelligence-agency-t-01-08-31">2025-09-15 · 01:08:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-decentralized-intelligence-agency-t-00-53-34">2026-08-04 · 00:53:34</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-decentralized-intelligence-agency-t-01-04-15">2026-09-02 · 01:04:15</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,7 @@ Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collection
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-decentralized-intelligence-agency-t-00-49-32" style="--pulse-height:33%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40" style="--pulse-height:33%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-decentralized-intelligence-agency-t-00-53-34" style="--pulse-height:33%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-decentralized-intelligence-agency-t-01-04-15" style="--pulse-height:33%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collection
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-decentralized-intelligence-agency-t-00-49-32) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40) | 1 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-decentralized-intelligence-agency-t-00-53-34) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-decentralized-intelligence-agency-t-01-04-15) | 1 |
 
 </details>
 </section>
@@ -65,7 +67,15 @@ Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collection
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[01:04:15](/episodes/ep-HIlPQ-_dcxM.md#ent-org-decentralized-intelligence-agency-t-01-04-15)**
+> "It's great. I love when I see people out and they have the CIA hat on. And it is, we know actually the decentralized intelligence agency."
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>

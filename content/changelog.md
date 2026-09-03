@@ -5,6 +5,25 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-09-03 17:57:53
+
+**Added 2 episode(s):**
+  - `BTn1Z0t_kno`: I Was Heartbroken... 💔
+  - `HIlPQ-_dcxM`: Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382
+**Added 27 new entity/entities**
+**Added 17 new event(s)**
+**Added 54 new statement(s)**
+**Added 32 new relationship(s)**
+
+**Totals:**
+- Episodes: 165
+- Entities: 4614
+- Events: 1801
+- Statements: 7173
+- Relationships: 5105
+
+---
+
 ## 2026-09-02 09:59:59
 
 **Added 2 episode(s):**

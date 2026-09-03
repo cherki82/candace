@@ -1,6 +1,6 @@
 ---
 title: "Rob McCoy"
-description: "Rob McCoy (People) - 183 mentions"
+description: "Rob McCoy (People) - 184 mentions"
 id: "person-rob-mccoy"
 type: "PERSON"
 aliases:
@@ -25,11 +25,11 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-rob-mccoy-t-00-56-03">2025-09-17 · 00:56:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-rob-mccoy-t-00-19-47">2026-09-01 · 00:20:05</a></strong></div>
-<div><span>Episodes</span><strong>47</strong></div>
-<div><span>Mentions</span><strong>183</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-rob-mccoy-t-00-30-42">2026-09-02 · 00:31:08</a></strong></div>
+<div><span>Episodes</span><strong>48</strong></div>
+<div><span>Mentions</span><strong>184</strong></div>
 <div><span>Statements by</span><strong>15</strong></div>
-<div><span>Statements about</span><strong>42</strong></div>
+<div><span>Statements about</span><strong>43</strong></div>
 <div><span>Relationships</span><strong>62</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -85,6 +85,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-rob-mccoy-t-00-45-30" style="--pulse-height:9%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-person-rob-mccoy-t-00-54-01" style="--pulse-height:18%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 2 mentions" title="2026-08-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-rob-mccoy-t-00-04-27" style="--pulse-height:36%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-rob-mccoy-t-00-30-42" style="--pulse-height:9%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -137,6 +138,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-rob-mccoy-t-00-45-30) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-rob-mccoy-t-00-54-01) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-rob-mccoy-t-00-04-27) | 4 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-rob-mccoy-t-00-30-42) | 1 |
 
 </details>
 </section>
@@ -148,7 +150,15 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (183)</strong></summary>
+<summary><strong class="section-title">Raw mentions (184)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:31:08](/episodes/ep-HIlPQ-_dcxM.md#ent-person-rob-mccoy-t-00-30-42)**
+> "He calls Rob McCoy and he says, Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>
@@ -1117,7 +1127,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <summary>Parent Of (1)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:12](/episodes/ep-c5BcKF91iec.md#t-00-07-38): “It's a video of, of course, Pastor Rob McCoy's son.”
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-16-25): “Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie”
@@ -1130,6 +1140,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:06](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “Pastor Rob McCoy, Mikey McCoy's daddy.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37): “He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:31:08](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42): “He calls Rob McCoy and he says, Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends.”
 
 </details>
 
@@ -1244,7 +1255,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#t-00-34-30): “He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk)."”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#t-00-38-18): “he immediately calls his dad. He calls Rob McCoy.”
@@ -1259,6 +1270,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:06](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “Pastor Rob McCoy, Mikey McCoy's daddy.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37): “He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:31:08](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42): “He calls Rob McCoy and he says, Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends.”
 
 </details>
 
@@ -1556,7 +1568,15 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rob McCoy (42)</strong></summary>
+<summary><strong class="section-title">Statements about Rob McCoy (43)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [00:54:57](/episodes/ep-HIlPQ-_dcxM.md#t-00-54-57) (Claim) **Candace Owens**: ["Owens said her team reviewed Michael McCoy’s press appearances and fou..."](/statements/statement-dedd8079f893.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Jack Hibbs](/entities/person-jack-hibbs.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

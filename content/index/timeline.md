@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1784_
+_Total events: 1801_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -340,8 +340,8 @@ _Total events: 1784_
 <input type="radio" id="tab-year-1692" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (293)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (815)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (299)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (826)</label>
   <label for="tab-year-2024" class="tab-btn">2024 (100)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (40)</label>
   <label for="tab-year-2022" class="tab-btn">2022 (23)</label>
@@ -451,6 +451,100 @@ _Total events: 1784_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:03:05](/episodes/ep-ZkDO-MRLUco.md#t-00-03-05)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-09-01-judge-tony-f-graf-jr-ruled-that-tyler-ro" data-filter-key="event-2026-09-01-judge-tony-f-graf-jr-ruled-that-tyler-ro">
+<div class="timeline-date">2026-09-01</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-09-01-judge-tony-f-graf-jr-ruled-that-tyler-ro.md">Judge Tony F. Graf Jr. ruled that Tyler Robinson’s charges could proceed to trial, including count six; the episode presents the ruling as a prelim...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-09-01-judge-tony-f-graf-jr-ruled-that-tyler-ro.md">Judge Tony F. Graf Jr. ruled that Tyler Robinson’s charges could proceed to trial, including count six; the episode presents the ruling as a preliminary-hearing decision, not a verdict.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-09-01: Judge Tony F. Graf Jr. ruled that Tyler Robinson’s charges could proceed to trial, including count six; the episode presents the ruling as a preliminary-hearing decision, not a verdict. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:00:01](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-09-01-kathryn-nester-entered-not-guilty-pleas-" data-filter-key="event-2026-09-01-kathryn-nester-entered-not-guilty-pleas-">
+<div class="timeline-date">2026-09-01</div>
+<div class="timeline-desc"><a href="/events/event-2026-09-01-kathryn-nester-entered-not-guilty-pleas-.md">Kathryn Nester entered not-guilty pleas to all counts on Tyler Robinson’s behalf after the bindover ruling.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-09-01: Kathryn Nester entered not-guilty pleas to all counts on Tyler Robinson’s behalf after the bindover ruling. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:08:13](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-13)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-09-01-matt-walsh-posted-criticism-describing-a" data-filter-key="event-2026-09-01-matt-walsh-posted-criticism-describing-a">
+<div class="timeline-date">2026-09-01</div>
+<div class="timeline-desc"><a href="/events/event-2026-09-01-matt-walsh-posted-criticism-describing-a.md">Matt Walsh posted criticism describing a lawyer as justifying political assassination; Owens challenged that interpretation in Episode 382.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-09-01: Matt Walsh posted criticism describing a lawyer as justifying political assassination; Owens challenged that interpretation in Episode 382. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:00:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-09-01-owens-said-graham-allen-posted-criticism" data-filter-key="event-2026-09-01-owens-said-graham-allen-posted-criticism">
+<div class="timeline-date">2026-09-01</div>
+<div class="timeline-desc"><a href="/events/event-2026-09-01-owens-said-graham-allen-posted-criticism.md">Owens said Graham Allen posted criticism of Richard Novak’s court argument, calling Robinson’s defense lawyer a lunatic.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-09-01: Owens said Graham Allen posted criticism of Richard Novak’s court argument, calling Robinson’s defense lawyer a lunatic. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:40:34](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-09-01-owens-said-blake-neff-and-brandon-tatum-" data-filter-key="event-2026-09-01-owens-said-blake-neff-and-brandon-tatum-">
+<div class="timeline-date">2026-09-01</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2026-09-01-owens-said-blake-neff-and-brandon-tatum-.md">Owens said Blake Neff and Brandon Tatum posted identical criticism of Richard Novak’s court argument, while correcting that they had not posted at ...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2026-09-01-owens-said-blake-neff-and-brandon-tatum-.md">Owens said Blake Neff and Brandon Tatum posted identical criticism of Richard Novak’s court argument, while correcting that they had not posted at the same time.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-09-01: Owens said Blake Neff and Brandon Tatum posted identical criticism of Richard Novak’s court argument, while correcting that they had not posted at the same time. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:40:44](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-09-01-owens-said-viva-frei-echoed-the-criticis" data-filter-key="event-2026-09-01-owens-said-viva-frei-echoed-the-criticis">
+<div class="timeline-date">2026-09-01</div>
+<div class="timeline-desc"><a href="/events/event-2026-09-01-owens-said-viva-frei-echoed-the-criticis.md">Owens said Viva Frei echoed the criticism of the defense court clip.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-09-01: Owens said Viva Frei echoed the criticism of the defense court clip. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:40:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-39-42)
 
 </details>
 </div>
@@ -859,7 +953,7 @@ _Total events: 1784_
 <p class="timeline-desc"><a href="/events/event-2026-08-11-tyler-robinsons-defense-filed-a-brief-se.md">Tyler Robinson's defense filed a brief seeking dismissal of the aggravated-murder allegation and removal of the aggravating factor after the preliminary hearing</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 3 eps</span>
+<span class="timeline-badge mentions">5× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-08-11: Tyler Robinson\'s defense filed a brief seeking dismissal of the aggravated-murder allegation and removal of the aggravating factor after the preliminary hearing - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -869,6 +963,7 @@ _Total events: 1784_
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:15:24](/episodes/ep-aPOyk1i2LOc.md#t-01-15-23)
 - [Behind The Scenes Of The Great Debate: TPUSA Is... @ 00:42:24](/episodes/ep-E7P2ShoYDUA.md#t-00-41-57)
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:38:32](/episodes/ep-ZkDO-MRLUco.md#t-00-38-32)
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:47:59](/episodes/ep-HIlPQ-_dcxM.md#t-00-47-35)
 
 </details>
 </div>
@@ -10639,7 +10734,7 @@ _Total events: 1784_
 <div class="timeline-date">2025-09-11</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-11-tyler-james-robinson-surrenders-to-polic.md">Tyler James Robinson surrenders to police at Washington County Sheriff's Office</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-11: Tyler James Robinson surrenders to police at Washington County Sheriff\'s Office - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -10648,6 +10743,7 @@ _Total events: 1784_
 - [The 33 Club: Freemason Murder Plot EXPOSED! | C... @ 00:42:07](/episodes/ep-7ERqbYElOfs.md#t-00-42-07)
 - [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:39:52](/episodes/ep-eLgD5yUVbko.md#t-00-39-34)
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:07:02](/episodes/ep-q7f8r-THr84.md#t-00-06-50)
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:01:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-01-40)
 
 </details>
 </div>
@@ -10814,6 +10910,21 @@ _Total events: 1784_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:13:17](/episodes/ep-sreYYcID-QY.md#t-00-13-05)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-11-judge-graf-described-an-alleged-tyler-ro" data-filter-key="event-2025-09-11-judge-graf-described-an-alleged-tyler-ro">
+<div class="timeline-date">2025-09-11</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-11-judge-graf-described-an-alleged-tyler-ro.md">Judge Graf described an alleged Tyler Robinson text to Lance Twiggs advising him to obtain a lawyer and remain silent if questioned by police.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-11: Judge Graf described an alleged Tyler Robinson text to Lance Twiggs advising him to obtain a lawyer and remain silent if questioned by police. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:04:58](/episodes/ep-HIlPQ-_dcxM.md#t-00-04-58)
 
 </details>
 </div>
@@ -11258,7 +11369,7 @@ _Total events: 1784_
 <div class="timeline-date">2025-09-10 <span class='time'>12:24</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-blake-neff-calls-mother-45-seconds-after-charlie-k.md">Blake Neff calls his mother shortly after Charlie Kirk is shot; the call lasts 45 seconds.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">11× in 7 eps</span>
+<span class="timeline-badge mentions">12× in 8 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 12:24: Blake Neff calls his mother shortly after Charlie Kirk is shot; the call lasts 45 seconds. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -11275,6 +11386,7 @@ _Total events: 1784_
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:15:37](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37)
 - [Erika And I Sat Down. Here’s What Happened. | C... @ 00:25:11](/episodes/ep-es7PWdFGoFI.md#t-00-24-53)
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:21:00](/episodes/ep-ZkDO-MRLUco.md#t-00-20-31)
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:30:52](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42)
 
 </details>
 </div>
@@ -11601,7 +11713,7 @@ _Total events: 1784_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md">Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">156× in 107 eps</span>
+<span class="timeline-badge mentions">157× in 108 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -11763,6 +11875,7 @@ _Total events: 1784_
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:47:11](/episodes/ep-t4U7NjnUEgc.md#t-00-46-48)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:19:27](/episodes/ep-vwG1juDCQZQ.md#t-00-19-04)
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:04:40](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27)
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:28:38](/episodes/ep-HIlPQ-_dcxM.md#t-00-28-38)
 
 </details>
 </div>
@@ -12699,7 +12812,7 @@ _Total events: 1784_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-gave-an-interview-at-the-re.md">Charlie Kirk gave an interview at the Restaurantology Summit in Salt Lake City before traveling to Provo.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk gave an interview at the Restaurantology Summit in Salt Lake City before traveling to Provo. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -12708,6 +12821,7 @@ _Total events: 1784_
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep... @ 00:06:48](/episodes/ep-a2bZf4fic10.md#t-00-06-18)
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Co... @ 00:11:57](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36)
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:12:07](/episodes/ep-OgRyiOAVtWU.md#t-00-12-03)
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:13:22](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-56)
 
 </details>
 </div>
@@ -12855,13 +12969,14 @@ _Total events: 1784_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-blake-neff-danny-phil.md">Candace Owens said Blake Neff, Danny Philip, Michael McCoy, and Nate Walker arrived at Timpanogos Hospital around 1 p.m.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Blake Neff, Danny Philip, Michael McCoy, and Nate Walker arrived at Timpanogos Hospital around 1 p.m. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:18:00](/episodes/ep-OgRyiOAVtWU.md#t-00-18-00)
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:27:28](/episodes/ep-HIlPQ-_dcxM.md#t-00-27-28)
 
 </details>
 </div>
@@ -12886,7 +13001,7 @@ _Total events: 1784_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-was-transported-to-a-hospit.md">Charlie Kirk was transported to a hospital in an SUV after he was shot.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 4 eps</span>
+<span class="timeline-badge mentions">5× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk was transported to a hospital in an SUV after he was shot. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -12896,6 +13011,7 @@ _Total events: 1784_
 - [BREAKING: Charlie’s Team DID Call 911 En Route ... @ 00:15:29](/episodes/ep-HZvwbfePe7o.md#t-00-15-17)
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:11:05](/episodes/ep-UBkFkg4UNY8.md#t-00-10-32)
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:21:24](/episodes/ep-ZkDO-MRLUco.md#t-00-21-14)
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:15:46](/episodes/ep-HIlPQ-_dcxM.md#t-00-15-34)
 
 </details>
 </div>
@@ -12904,7 +13020,7 @@ _Total events: 1784_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-blake-neff-said-michael-mccoy-called-rob.md">Blake Neff said Michael McCoy called Rob McCoy after Charlie Kirk was shot.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Blake Neff said Michael McCoy called Rob McCoy after Charlie Kirk was shot. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -12912,6 +13028,7 @@ _Total events: 1784_
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37)
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27)
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:31:08](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42)
 
 </details>
 </div>
@@ -13322,6 +13439,162 @@ _Total events: 1784_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:25:18](/episodes/ep-ZkDO-MRLUco.md#t-00-25-18)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-said-two-security-vehicles-arrived" data-filter-key="event-2025-09-10-owens-said-two-security-vehicles-arrived">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-owens-said-two-security-vehicles-arrived.md">Owens said two security vehicles arrived at UVU between 9 and 9:30 a.m., separately from Charlie Kirk, while he attended an event in Salt Lake City.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens said two security vehicles arrived at UVU between 9 and 9:30 a.m., separately from Charlie Kirk, while he attended an event in Salt Lake City. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:12:56](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-56)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-said-charlie-kirk-and-michael-mcco" data-filter-key="event-2025-09-10-owens-said-charlie-kirk-and-michael-mcco">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-owens-said-charlie-kirk-and-michael-mcco.md">Owens said Charlie Kirk and Michael McCoy arrived at UVU in a Yukon Denali driven by a security participant known only as Christopher.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens said Charlie Kirk and Michael McCoy arrived at UVU in a Yukon Denali driven by a security participant known only as Christopher. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:13:39](/episodes/ep-HIlPQ-_dcxM.md#t-00-13-39)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-said-danny-philip-drove-a-separate" data-filter-key="event-2025-09-10-owens-said-danny-philip-drove-a-separate">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-owens-said-danny-philip-drove-a-separate.md">Owens said Danny Philip drove a separate Yukon Denali to UVU with Blake Neff in the back seat.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens said Danny Philip drove a separate Yukon Denali to UVU with Blake Neff in the back seat. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:14:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-14-18)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-interpreted-footage-as-showing-sec" data-filter-key="event-2025-09-10-owens-interpreted-footage-as-showing-sec">
+<div class="timeline-date">2025-09-10</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-10-owens-interpreted-footage-as-showing-sec.md">Owens interpreted footage as showing security driver Christopher, whose surname is unverified, and Nate Walker upstairs near the Sorensen building ...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-10-owens-interpreted-footage-as-showing-sec.md">Owens interpreted footage as showing security driver Christopher, whose surname is unverified, and Nate Walker upstairs near the Sorensen building minutes before Kirk was struck.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens interpreted footage as showing security driver Christopher, whose surname is unverified, and Nate Walker upstairs near the Sorensen building minutes before Kirk was struck. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:17:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-51)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-said-footage-showed-justin-davis-r" data-filter-key="event-2025-09-10-owens-said-footage-showed-justin-davis-r">
+<div class="timeline-date">2025-09-10</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-10-owens-said-footage-showed-justin-davis-r.md">Owens said footage showed Justin Davis running ahead to open Kirk’s vehicle door alongside a security participant named Blake whose surname is unve...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-10-owens-said-footage-showed-justin-davis-r.md">Owens said footage showed Justin Davis running ahead to open Kirk’s vehicle door alongside a security participant named Blake whose surname is unverified.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens said footage showed Justin Davis running ahead to open Kirk’s vehicle door alongside a security participant named Blake whose surname is unverified. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:19:45](/episodes/ep-HIlPQ-_dcxM.md#t-00-19-36)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-interpreted-footage-as-showing-dan" data-filter-key="event-2025-09-10-owens-interpreted-footage-as-showing-dan">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-owens-interpreted-footage-as-showing-dan.md">Owens interpreted footage as showing Danny Philip and Michael McCoy converging in front of Kirk’s vehicle with Justin Davis after Kirk was struck.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens interpreted footage as showing Danny Philip and Michael McCoy converging in front of Kirk’s vehicle with Justin Davis after Kirk was struck. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:20:17](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-said-sources-with-direct-knowledge" data-filter-key="event-2025-09-10-owens-said-sources-with-direct-knowledge">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-owens-said-sources-with-direct-knowledge.md">Owens said sources with direct knowledge told her that unused SUVs were not driven to the hospital, leaving three security vehicles behind.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens said sources with direct knowledge told her that unused SUVs were not driven to the hospital, leaving three security vehicles behind. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:26:06](/episodes/ep-HIlPQ-_dcxM.md#t-00-25-38)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-blake-neff-recalled-fleeing-after-the-sh" data-filter-key="event-2025-09-10-blake-neff-recalled-fleeing-after-the-sh">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-blake-neff-recalled-fleeing-after-the-sh.md">Blake Neff recalled fleeing after the shooting and, within 15 or 20 seconds without another shot, inferring that the shooter had likely been stopped.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Blake Neff recalled fleeing after the shooting and, within 15 or 20 seconds without another shot, inferring that the shooter had likely been stopped. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:28:58](/episodes/ep-HIlPQ-_dcxM.md#t-00-28-53)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-blake-neff-recalled-michael-mccoy-beginn" data-filter-key="event-2025-09-10-blake-neff-recalled-michael-mccoy-beginn">
+<div class="timeline-date">2025-09-10</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-10-blake-neff-recalled-michael-mccoy-beginn.md">Blake Neff recalled Michael McCoy beginning a call to Erika Kirk within about a minute of the shooting, while qualifying his memory of McCoy’s exac...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-10-blake-neff-recalled-michael-mccoy-beginn.md">Blake Neff recalled Michael McCoy beginning a call to Erika Kirk within about a minute of the shooting, while qualifying his memory of McCoy’s exact words.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Blake Neff recalled Michael McCoy beginning a call to Erika Kirk within about a minute of the shooting, while qualifying his memory of McCoy’s exact words. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:30:01](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-blake-neff-recalled-michael-mccoy-announ" data-filter-key="event-2025-09-10-blake-neff-recalled-michael-mccoy-announ">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-blake-neff-recalled-michael-mccoy-announ.md">Blake Neff recalled Michael McCoy announcing Kirk’s death to the group and instructing them not to tell Erika because he would tell her himself.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Blake Neff recalled Michael McCoy announcing Kirk’s death to the group and instructing them not to tell Erika because he would tell her himself. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:31:56](/episodes/ep-HIlPQ-_dcxM.md#t-00-31-56)
 
 </details>
 </div>

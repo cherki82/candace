@@ -1,6 +1,6 @@
 ---
 title: "Kamala Chronicles"
-description: "Kamala Chronicles (Works & Media) - 4 mentions"
+description: "Kamala Chronicles (Works & Media) - 5 mentions"
 id: "work-kamala-chronicles"
 type: "WORK"
 categories:
@@ -18,9 +18,9 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-work-kamala-chronicles-t-00-05-50">2025-11-06 · 00:05:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-work-kamala-chronicles-t-01-00-23">2026-07-22 · 01:00:23</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-work-kamala-chronicles-t-01-01-49">2026-09-02 · 01:01:49</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -35,6 +35,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-kamala-chronicles-t-00-14-13" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-work-kamala-chronicles-t-01-04-35" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-work-kamala-chronicles-t-01-00-23" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-work-kamala-chronicles-t-01-01-49" style="--pulse-height:100%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-work-kamala-chronicles-t-00-14-13) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-work-kamala-chronicles-t-01-04-35) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-work-kamala-chronicles-t-01-00-23) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-work-kamala-chronicles-t-01-01-49) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[01:01:49](/episodes/ep-HIlPQ-_dcxM.md#ent-work-kamala-chronicles-t-01-01-49)**
+> "saying like let's bring our kids to court i mean i told you very early on i had issued my verdict before this ever went to trial um and i looked at this the prescription she was on i think a lot of people are talking about those prescriptions i'm just ignorant on it and so i have stayed out of it and i do want to keep my focus on this case because i don't do things halfway like it was just the Blake (Blake Lively) and Justin Baldoni case as it was with the Kamala Chronicles"
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>

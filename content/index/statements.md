@@ -1,11 +1,11 @@
 ---
 title: "Claims & Statements"
-description: "Browse 3809 factual claims and 7118 attributed statements"
+description: "Browse 3842 factual claims and 7172 attributed statements"
 ---
 
 # Claims & Statements
 
-_3809 factual claims within 7118 attributed statements._
+_3842 factual claims within 7172 attributed statements._
 
 [Open the filterable Claims Explorer](/index/claims) to browse claims by date, speaker, entity, and verification outcome.
 
@@ -36,7 +36,7 @@ _3809 factual claims within 7118 attributed statements._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (163)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (164)</label>
 </div>
 
 <style>
@@ -53,7 +53,210 @@ _3809 factual claims within 7118 attributed statements._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Factual Claims (3809)</strong></summary>
+<summary><strong class="section-title">Factual Claims (3842)</strong></summary>
+
+<details>
+<summary>2026-09-02 · Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (33)</summary>
+
+<div class="filter-item" data-filter-key="statement-325bd3c50336">
+
+- [00:00:01](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-01) [○] **Candace Owens**: ["Owens said Utah had cleared the preliminary-hearing threshold to bring Tyler Rob..."](/statements/statement-325bd3c50336.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah Rule of Evidence 1102](/entities/law-utah-evidence-rule-1102.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7f8d126d9121">
+
+- [00:01:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-01-40) [○] **Candace Owens**: ["Owens said Robinson accompanied his father to the police station after being tol..."](/statements/statement-7f8d126d9121.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d17acd11d90b">
+
+- [00:05:32](/episodes/ep-HIlPQ-_dcxM.md#t-00-05-32) [○] **Tony F. Graf Jr.**: ["Judge Graf said advice to obtain counsel and remain silent was lawful standing a..."](/statements/statement-d17acd11d90b.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-460416247138">
+
+- [00:07:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-06-54) [○] **Tony F. Graf Jr.**: ["Judge Graf bound count six, witness tampering, over for trial."](/statements/statement-460416247138.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-12740ca4630e">
+
+- [00:08:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-25) [○] **Kathryn Nester**: ["Kathryn Nester entered not-guilty pleas on Tyler Robinson’s behalf to all counts..."](/statements/statement-12740ca4630e.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-322122311b03">
+
+- [00:09:23](/episodes/ep-HIlPQ-_dcxM.md#t-00-09-23) [○] **Candace Owens**: ["Owens said Tyler Robinson immediately denied involvement, that his father believ..."](/statements/statement-322122311b03.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8a5a1679a627">
+
+- [00:11:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-11-11) [○] **Candace Owens**: ["Owens presented a diagram identifying five vehicles affiliated with Turning Poin..."](/statements/statement-8a5a1679a627.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Jeep Wagoneer (model)](/entities/vehicle-jeep-wagoneer-model.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c4acd967e5e8">
+
+- [00:11:22](/episodes/ep-HIlPQ-_dcxM.md#t-00-11-11) [○] **Candace Owens**: ["Owens identified Alex Faria, whose identity remains unverified, as an occupant o..."](/statements/statement-c4acd967e5e8.md)
+  - About: [Alex Faria (security team member; identity unverified)](/entities/anon-src-HIlPQ-_dcxM-001.md), [Jeep Wagoneer (model)](/entities/vehicle-jeep-wagoneer-model.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5e9ac3dcdaf9">
+
+- [00:12:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-19) [○] **Candace Owens**: ["Owens identified Justin Davis as the Lincoln Navigator’s driver and said Dan Flo..."](/statements/statement-5e9ac3dcdaf9.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Dan Flood](/entities/person-dan-flood.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d002a18b072e">
+
+- [00:12:42](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-19) [○] **Candace Owens**: ["Owens said Justin Davis, who arrived driving a different vehicle, drove Christop..."](/statements/statement-d002a18b072e.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7e5189a9476c">
+
+- [00:12:56](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-56) [○] **Candace Owens**: ["Owens said the core security team arrived at UVU between 9 and 9:30 a.m., indepe..."](/statements/statement-7e5189a9476c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Restaurantology](/entities/work-restaurantology.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-4a1f23a7c4ab">
+
+- [00:13:39](/episodes/ep-HIlPQ-_dcxM.md#t-00-13-39) [○] **Candace Owens**: ["Owens said Charlie Kirk and Michael McCoy arrived in one Yukon Denali driven by ..."](/statements/statement-4a1f23a7c4ab.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-33ee8042daf0">
+
+- [00:14:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-14-18) [○] **Candace Owens**: ["Owens said Danny Philip drove the other Yukon Denali and Blake Neff sat in its b..."](/statements/statement-33ee8042daf0.md)
+  - About: [Danny Philip](/entities/person-danny-philip.md), [Blake Neff](/entities/person-blake-neff.md), [GMC Yukon Denali (model)](/entities/vehicle-gmc-yukon-denali-model.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a7052c652586">
+
+- [00:15:10](/episodes/ep-HIlPQ-_dcxM.md#t-00-15-00) [○] **Candace Owens**: ["Owens said footage established the Hyundai Palisade was a Turning Point USA vehi..."](/statements/statement-a7052c652586.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Hyundai Palisade (model)](/entities/vehicle-hyundai-palisade-model.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-58a05c26ba59">
+
+- [00:15:58](/episodes/ep-HIlPQ-_dcxM.md#t-00-15-34) [○] **Candace Owens**: ["Owens said Charlie Kirk was placed in the SUV within roughly 45 seconds of being..."](/statements/statement-58a05c26ba59.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-627e7f28cfb6">
+
+- [00:16:46](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15) [○] **Candace Owens**: ["Owens said associates now reported that Charlie Kirk wanted his security people ..."](/statements/statement-627e7f28cfb6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6be396356cec">
+
+- [00:17:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-51) [○] **Candace Owens**: ["Owens interpreted footage as showing Christopher, the security driver whose surn..."](/statements/statement-6be396356cec.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Nate Walker](/entities/person-nate-walker.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-93ee69f0d28c">
+
+- [00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31) [○] **Candace Owens**: ["Owens said she thought someone on TikTok sent the upstairs footage to Baron Cole..."](/statements/statement-93ee69f0d28c.md)
+  - About: [Baron Coleman](/entities/person-baron-coleman.md), [TikTok](/entities/org-tiktok.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-81d82e2d624c">
+
+- [00:19:45](/episodes/ep-HIlPQ-_dcxM.md#t-00-19-36) [○] **Candace Owens**: ["Owens said footage showed Justin Davis sprinting to the vehicle and opening the ..."](/statements/statement-81d82e2d624c.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9da69ba1bd66">
+
+- [00:20:17](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17) [○] **Candace Owens**: ["Owens interpreted footage as showing Danny Philip and Michael McCoy converging a..."](/statements/statement-9da69ba1bd66.md)
+  - About: [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Justin Davis](/entities/person-justin-davis.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2c5e8e54d8ca">
+
+- [00:26:06](/episodes/ep-HIlPQ-_dcxM.md#t-00-25-38) [○] **Candace Owens**: ["Owens said sources with direct knowledge told her the unused SUVs did not go to ..."](/statements/statement-2c5e8e54d8ca.md)
+  - About: [Vehicle-disposition sources (identity unverified)](/entities/anon-src-HIlPQ-_dcxM-006.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6fbf8869cb71">
+
+- [00:27:28](/episodes/ep-HIlPQ-_dcxM.md#t-00-27-28) [○] **Candace Owens**: ["Owens said Nate Walker, Blake Neff, Danny Philip and Michael McCoy arrived at th..."](/statements/statement-6fbf8869cb71.md)
+  - About: [Nate Walker](/entities/person-nate-walker.md), [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-69009277d927">
+
+- [00:28:38](/episodes/ep-HIlPQ-_dcxM.md#t-00-28-38) [○] **Blake Neff**: ["Blake Neff said he and Michael McCoy heard a crack, saw Charlie Kirk had been sh..."](/statements/statement-69009277d927.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-783975611eae">
+
+- [00:29:14](/episodes/ep-HIlPQ-_dcxM.md#t-00-29-14) [○] **Blake Neff**: ["Blake Neff said he ran past the SUV they arrived in, briefly considered getting ..."](/statements/statement-783975611eae.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dc240fcff167">
+
+- [00:29:32](/episodes/ep-HIlPQ-_dcxM.md#t-00-29-32) [○] **Blake Neff**: ["Blake Neff said he did not remember being with Michael McCoy as he ran, thought ..."](/statements/statement-dc240fcff167.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6f68a9c82a99">
+
+- [00:30:52](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42) [○] **Blake Neff**: ["Blake Neff said he called his mother after the shooting to tell her he was safe ..."](/statements/statement-6f68a9c82a99.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2b923ecd6b5b">
+
+- [00:31:18](/episodes/ep-HIlPQ-_dcxM.md#t-00-31-18) [○] **Blake Neff**: ["Blake Neff said Michael McCoy became composed after the calls and directed peopl..."](/statements/statement-2b923ecd6b5b.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-46e4bb83a17d">
+
+- [00:40:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-39-42) [○] **Candace Owens**: ["Owens said Viva Frei echoed the court-clip criticism and that she had blocked hi..."](/statements/statement-46e4bb83a17d.md)
+  - About: [David Freiheit](/entities/person-david-freiheit.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b632c30b4ea5">
+
+- [00:40:44](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) [○] **Candace Owens**: ["Owens said Blake Neff and Brandon Tatum posted identical wording about Richard N..."](/statements/statement-b632c30b4ea5.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Brandon Tatum](/entities/person-brandon-tatum.md), [Richard G. Novak](/entities/person-richard-g-novak.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7c80e7242ada">
+
+- [00:42:37](/episodes/ep-HIlPQ-_dcxM.md#t-00-42-07) [○] **Richard G. Novak**: ["Richard Novak argued that evidence about Twiggs’s gender identity and relationsh..."](/statements/statement-7c80e7242ada.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a3057ac2e3fc">
+
+- [00:47:59](/episodes/ep-HIlPQ-_dcxM.md#t-00-47-35) [○] **Candace Owens**: ["Owens said Pastor David Engelhardt’s statement had been presented to support the..."](/statements/statement-a3057ac2e3fc.md)
+  - About: [David Engelhardt](/entities/person-david-engelhardt.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dedd8079f893">
+
+- [00:54:57](/episodes/ep-HIlPQ-_dcxM.md#t-00-54-57) [○] **Candace Owens**: ["Owens said her team reviewed Michael McCoy’s press appearances and found no dire..."](/statements/statement-dedd8079f893.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3dd1fd49a055">
+
+- [01:04:37](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-15) [○] **Candace Owens**: ["Owens said she was withholding some material because of the Brian Harpole case."](/statements/statement-3dd1fd49a055.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-09-01 · I Met My Cousin In Iceland... (2)</summary>
@@ -23150,7 +23353,54 @@ _3809 factual claims within 7118 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Accusations (1697)</strong></summary>
+<summary><strong class="section-title">Accusations (1704)</strong></summary>
+
+<details>
+<summary>2026-09-02 · Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (7)</summary>
+
+<div class="filter-item" data-filter-key="statement-462c8e68c829">
+
+- [00:08:45](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-40) [○] **Candace Owens**: ["Owens said Bill Ackman had offered Robinson’s father a million dollars amid a na..."](/statements/statement-462c8e68c829.md)
+  - About: [Bill Ackman](/entities/person-bill-ackman.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-24bd012b606d">
+
+- [00:16:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15) [○] **Candace Owens**: ["Owens said Erika Kirk initially denied Charlie Kirk’s expressed fear for his lif..."](/statements/statement-24bd012b606d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f6c481e94b3b">
+
+- [00:32:29](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-09) [○] **Candace Owens**: ["Owens disputed Neff’s account by saying the SUVs were not taken to the hospital ..."](/statements/statement-f6c481e94b3b.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-99fc997fde35">
+
+- [00:39:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-38-59) [○] **Matt Walsh**: ["Matt Walsh wrote that one lawyer was justifying political assassination and anot..."](/statements/statement-99fc997fde35.md)
+  - About: [Richard G. Novak](/entities/person-richard-g-novak.md), [Lindsay Clancy](/entities/person-lindsay-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a34cfc13e0e7">
+
+- [00:44:20](/episodes/ep-HIlPQ-_dcxM.md#t-00-44-20) [○] **Candace Owens**: ["Owens said Novak was challenging an unsupported inference about political motiva..."](/statements/statement-a34cfc13e0e7.md)
+  - About: [Richard G. Novak](/entities/person-richard-g-novak.md), [Matt Walsh](/entities/person-matt-walsh.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e372a148e703">
+
+- [00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27) [○] **Candace Owens**: ["Owens accused Andrew Wilson of changing his opinions after receiving a call from..."](/statements/statement-e372a148e703.md)
+  - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-71ee6a67771e">
+
+- [01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51) [○] **Candace Owens**: ["Owens said Brian Harpole told Shawn Ryan there had been no threats the night bef..."](/statements/statement-71ee6a67771e.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Shawn Ryan](/entities/person-shawn-ryan.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-09-01 · BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (6)</summary>
@@ -34080,7 +34330,18 @@ _3809 factual claims within 7118 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Predictions (74)</strong></summary>
+<summary><strong class="section-title">Predictions (75)</strong></summary>
+
+<details>
+<summary>2026-09-02 · Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+<div class="filter-item" data-filter-key="statement-f46930679dd3">
+
+- [01:00:36](/episodes/ep-HIlPQ-_dcxM.md#t-01-00-31) [○] **Candace Owens**: ["Owens predicted an awakening beyond the authorities’ control if they executed so..."](/statements/statement-f46930679dd3.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-09-01 · BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>
@@ -35966,7 +36227,24 @@ _3809 factual claims within 7118 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Citations (392)</strong></summary>
+<summary><strong class="section-title">Citations (394)</strong></summary>
+
+<details>
+<summary>2026-09-02 · Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2)</summary>
+
+<div class="filter-item" data-filter-key="statement-67fb746f70cb">
+
+- [00:24:47](/episodes/ep-HIlPQ-_dcxM.md#t-00-24-25) [○] **Candace Owens**: ["Owens recalled that an event-planning source had said a clean vehicle exit was o..."](/statements/statement-67fb746f70cb.md)
+  - About: [Anonymous Source #3 (Ep 1mYNOqzAdXs)](/entities/anon-src-1mYNOqzAdXs-003.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-db383b01e9d8">
+
+- [00:47:59](/episodes/ep-HIlPQ-_dcxM.md#t-00-47-35) [○] **Candace Owens**: ["Owens cited page 32 of the defense’s August 11 filing as arguing that the state ..."](/statements/statement-db383b01e9d8.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-08-31 · We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3)</summary>
@@ -38851,7 +39129,78 @@ _3809 factual claims within 7118 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Opinions (1013)</strong></summary>
+<summary><strong class="section-title">Opinions (1024)</strong></summary>
+
+<details>
+<summary>2026-09-02 · Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (11)</summary>
+
+<div class="filter-item" data-filter-key="statement-2a1d3a7ca6d0">
+
+- [00:03:13](/episodes/ep-HIlPQ-_dcxM.md#t-00-03-03) [○] **Candace Owens**: ["Owens said the only part of Judge Graf’s ruling that surprised her was his refus..."](/statements/statement-2a1d3a7ca6d0.md)
+  - About: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dd40b4f290ff">
+
+- [00:19:17](/episodes/ep-HIlPQ-_dcxM.md#t-00-18-55) [○] **Candace Owens**: ["Owens speculated that the keys were apparently waiting in Kirk’s vehicle or some..."](/statements/statement-dd40b4f290ff.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-74d8e5e59ef8">
+
+- [00:21:49](/episodes/ep-HIlPQ-_dcxM.md#t-00-21-49) [○] **Candace Owens**: ["Owens said she thought the bag left behind belonged to Christopher, explicitly s..."](/statements/statement-74d8e5e59ef8.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ad1953d0acc9">
+
+- [00:33:07](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49) [○] **Candace Owens**: ["Owens expressed the view that Blake Neff needed Tyler Robinson to be guilty."](/statements/statement-ad1953d0acc9.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-740ebaf1c0e8">
+
+- [00:36:39](/episodes/ep-HIlPQ-_dcxM.md#t-00-36-25) [○] **Candace Owens**: ["Owens criticized male podcasters for repeatedly complaining about isolated extre..."](/statements/statement-740ebaf1c0e8.md)
+  - About: [Lindsay Clancy](/entities/person-lindsay-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-26c6a55616ad">
+
+- [00:40:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) [○] **Graham Allen**: ["Graham Allen described Tyler Robinson’s defense attorney as a lunatic for saying..."](/statements/statement-26c6a55616ad.md)
+  - About: [Richard G. Novak](/entities/person-richard-g-novak.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0c54c001ae37">
+
+- [00:40:44](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) [○] **Blake Neff**: ["Blake Neff described Richard Novak’s comments in court as an outrageous moment o..."](/statements/statement-0c54c001ae37.md)
+  - About: [Richard G. Novak](/entities/person-richard-g-novak.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2d327d66c9eb">
+
+- [00:40:44](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) [○] **Brandon Tatum**: ["Brandon Tatum described Richard Novak’s comments in court as an outrageous momen..."](/statements/statement-2d327d66c9eb.md)
+  - About: [Richard G. Novak](/entities/person-richard-g-novak.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c9706f24b257">
+
+- [00:43:32](/episodes/ep-HIlPQ-_dcxM.md#t-00-43-32) [○] **Richard G. Novak**: ["Richard Novak argued that attributing Robinson’s alleged hatred to his relations..."](/statements/statement-c9706f24b257.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-780c0370d063">
+
+- [00:55:16](/episodes/ep-HIlPQ-_dcxM.md#t-00-54-57) [○] **Candace Owens**: ["Owens estimated that Michael McCoy looked back for about 0.75 seconds and argued..."](/statements/statement-780c0370d063.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c77dd45d084f">
+
+- [01:02:29](/episodes/ep-HIlPQ-_dcxM.md#t-01-02-29) [○] **Candace Owens**: ["Owens criticized commentators for equating suspicion about Erika Kirk with suppo..."](/statements/statement-c77dd45d084f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lindsay Clancy](/entities/person-lindsay-clancy.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-09-01 · I Met My Cousin In Iceland... (3)</summary>
@@ -45645,6 +45994,335 @@ _3809 factual claims within 7118 attributed statements._
 </div>
 
 <div class="tab-content tab-content-byepisode">
+
+<details>
+<summary><strong>2026-09-02 · Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382</strong> (54)</summary>
+
+<div class="filter-item" data-filter-key="statement-325bd3c50336">
+
+- [00:00:01](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-01) [○] (Claim) **Candace Owens**: ["Owens said Utah had cleared the preliminary-hearing threshold to bring Tyler Rob..."](/statements/statement-325bd3c50336.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah Rule of Evidence 1102](/entities/law-utah-evidence-rule-1102.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7f8d126d9121">
+
+- [00:01:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-01-40) [○] (Claim) **Candace Owens**: ["Owens said Robinson accompanied his father to the police station after being tol..."](/statements/statement-7f8d126d9121.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2a1d3a7ca6d0">
+
+- [00:03:13](/episodes/ep-HIlPQ-_dcxM.md#t-00-03-03) [○] (Opinion) **Candace Owens**: ["Owens said the only part of Judge Graf’s ruling that surprised her was his refus..."](/statements/statement-2a1d3a7ca6d0.md)
+  - About: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d17acd11d90b">
+
+- [00:05:32](/episodes/ep-HIlPQ-_dcxM.md#t-00-05-32) [○] (Claim) **Tony F. Graf Jr.**: ["Judge Graf said advice to obtain counsel and remain silent was lawful standing a..."](/statements/statement-d17acd11d90b.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-460416247138">
+
+- [00:07:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-06-54) [○] (Claim) **Tony F. Graf Jr.**: ["Judge Graf bound count six, witness tampering, over for trial."](/statements/statement-460416247138.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-12740ca4630e">
+
+- [00:08:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-25) [○] (Claim) **Kathryn Nester**: ["Kathryn Nester entered not-guilty pleas on Tyler Robinson’s behalf to all counts..."](/statements/statement-12740ca4630e.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-462c8e68c829">
+
+- [00:08:45](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-40) [○] (Accusation) **Candace Owens**: ["Owens said Bill Ackman had offered Robinson’s father a million dollars amid a na..."](/statements/statement-462c8e68c829.md)
+  - About: [Bill Ackman](/entities/person-bill-ackman.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-322122311b03">
+
+- [00:09:23](/episodes/ep-HIlPQ-_dcxM.md#t-00-09-23) [○] (Claim) **Candace Owens**: ["Owens said Tyler Robinson immediately denied involvement, that his father believ..."](/statements/statement-322122311b03.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8a5a1679a627">
+
+- [00:11:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-11-11) [○] (Claim) **Candace Owens**: ["Owens presented a diagram identifying five vehicles affiliated with Turning Poin..."](/statements/statement-8a5a1679a627.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Jeep Wagoneer (model)](/entities/vehicle-jeep-wagoneer-model.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c4acd967e5e8">
+
+- [00:11:22](/episodes/ep-HIlPQ-_dcxM.md#t-00-11-11) [○] (Claim) **Candace Owens**: ["Owens identified Alex Faria, whose identity remains unverified, as an occupant o..."](/statements/statement-c4acd967e5e8.md)
+  - About: [Alex Faria (security team member; identity unverified)](/entities/anon-src-HIlPQ-_dcxM-001.md), [Jeep Wagoneer (model)](/entities/vehicle-jeep-wagoneer-model.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5e9ac3dcdaf9">
+
+- [00:12:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-19) [○] (Claim) **Candace Owens**: ["Owens identified Justin Davis as the Lincoln Navigator’s driver and said Dan Flo..."](/statements/statement-5e9ac3dcdaf9.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Dan Flood](/entities/person-dan-flood.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-d002a18b072e">
+
+- [00:12:42](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-19) [○] (Claim) **Candace Owens**: ["Owens said Justin Davis, who arrived driving a different vehicle, drove Christop..."](/statements/statement-d002a18b072e.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7e5189a9476c">
+
+- [00:12:56](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-56) [○] (Claim) **Candace Owens**: ["Owens said the core security team arrived at UVU between 9 and 9:30 a.m., indepe..."](/statements/statement-7e5189a9476c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Restaurantology](/entities/work-restaurantology.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-4a1f23a7c4ab">
+
+- [00:13:39](/episodes/ep-HIlPQ-_dcxM.md#t-00-13-39) [○] (Claim) **Candace Owens**: ["Owens said Charlie Kirk and Michael McCoy arrived in one Yukon Denali driven by ..."](/statements/statement-4a1f23a7c4ab.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-33ee8042daf0">
+
+- [00:14:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-14-18) [○] (Claim) **Candace Owens**: ["Owens said Danny Philip drove the other Yukon Denali and Blake Neff sat in its b..."](/statements/statement-33ee8042daf0.md)
+  - About: [Danny Philip](/entities/person-danny-philip.md), [Blake Neff](/entities/person-blake-neff.md), [GMC Yukon Denali (model)](/entities/vehicle-gmc-yukon-denali-model.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a7052c652586">
+
+- [00:15:10](/episodes/ep-HIlPQ-_dcxM.md#t-00-15-00) [○] (Claim) **Candace Owens**: ["Owens said footage established the Hyundai Palisade was a Turning Point USA vehi..."](/statements/statement-a7052c652586.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Hyundai Palisade (model)](/entities/vehicle-hyundai-palisade-model.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-58a05c26ba59">
+
+- [00:15:58](/episodes/ep-HIlPQ-_dcxM.md#t-00-15-34) [○] (Claim) **Candace Owens**: ["Owens said Charlie Kirk was placed in the SUV within roughly 45 seconds of being..."](/statements/statement-58a05c26ba59.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-24bd012b606d">
+
+- [00:16:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15) [○] (Accusation) **Candace Owens**: ["Owens said Erika Kirk initially denied Charlie Kirk’s expressed fear for his lif..."](/statements/statement-24bd012b606d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-627e7f28cfb6">
+
+- [00:16:46](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15) [○] (Claim) **Candace Owens**: ["Owens said associates now reported that Charlie Kirk wanted his security people ..."](/statements/statement-627e7f28cfb6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6be396356cec">
+
+- [00:17:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-51) [○] (Claim) **Candace Owens**: ["Owens interpreted footage as showing Christopher, the security driver whose surn..."](/statements/statement-6be396356cec.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Nate Walker](/entities/person-nate-walker.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-93ee69f0d28c">
+
+- [00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31) [○] (Claim) **Candace Owens**: ["Owens said she thought someone on TikTok sent the upstairs footage to Baron Cole..."](/statements/statement-93ee69f0d28c.md)
+  - About: [Baron Coleman](/entities/person-baron-coleman.md), [TikTok](/entities/org-tiktok.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dd40b4f290ff">
+
+- [00:19:17](/episodes/ep-HIlPQ-_dcxM.md#t-00-18-55) [○] (Opinion) **Candace Owens**: ["Owens speculated that the keys were apparently waiting in Kirk’s vehicle or some..."](/statements/statement-dd40b4f290ff.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-81d82e2d624c">
+
+- [00:19:45](/episodes/ep-HIlPQ-_dcxM.md#t-00-19-36) [○] (Claim) **Candace Owens**: ["Owens said footage showed Justin Davis sprinting to the vehicle and opening the ..."](/statements/statement-81d82e2d624c.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-9da69ba1bd66">
+
+- [00:20:17](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17) [○] (Claim) **Candace Owens**: ["Owens interpreted footage as showing Danny Philip and Michael McCoy converging a..."](/statements/statement-9da69ba1bd66.md)
+  - About: [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Justin Davis](/entities/person-justin-davis.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-74d8e5e59ef8">
+
+- [00:21:49](/episodes/ep-HIlPQ-_dcxM.md#t-00-21-49) [○] (Opinion) **Candace Owens**: ["Owens said she thought the bag left behind belonged to Christopher, explicitly s..."](/statements/statement-74d8e5e59ef8.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-67fb746f70cb">
+
+- [00:24:47](/episodes/ep-HIlPQ-_dcxM.md#t-00-24-25) [○] (Citation) **Candace Owens**: ["Owens recalled that an event-planning source had said a clean vehicle exit was o..."](/statements/statement-67fb746f70cb.md)
+  - About: [Anonymous Source #3 (Ep 1mYNOqzAdXs)](/entities/anon-src-1mYNOqzAdXs-003.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2c5e8e54d8ca">
+
+- [00:26:06](/episodes/ep-HIlPQ-_dcxM.md#t-00-25-38) [○] (Claim) **Candace Owens**: ["Owens said sources with direct knowledge told her the unused SUVs did not go to ..."](/statements/statement-2c5e8e54d8ca.md)
+  - About: [Vehicle-disposition sources (identity unverified)](/entities/anon-src-HIlPQ-_dcxM-006.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6fbf8869cb71">
+
+- [00:27:28](/episodes/ep-HIlPQ-_dcxM.md#t-00-27-28) [○] (Claim) **Candace Owens**: ["Owens said Nate Walker, Blake Neff, Danny Philip and Michael McCoy arrived at th..."](/statements/statement-6fbf8869cb71.md)
+  - About: [Nate Walker](/entities/person-nate-walker.md), [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-69009277d927">
+
+- [00:28:38](/episodes/ep-HIlPQ-_dcxM.md#t-00-28-38) [○] (Claim) **Blake Neff**: ["Blake Neff said he and Michael McCoy heard a crack, saw Charlie Kirk had been sh..."](/statements/statement-69009277d927.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-783975611eae">
+
+- [00:29:14](/episodes/ep-HIlPQ-_dcxM.md#t-00-29-14) [○] (Claim) **Blake Neff**: ["Blake Neff said he ran past the SUV they arrived in, briefly considered getting ..."](/statements/statement-783975611eae.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dc240fcff167">
+
+- [00:29:32](/episodes/ep-HIlPQ-_dcxM.md#t-00-29-32) [○] (Claim) **Blake Neff**: ["Blake Neff said he did not remember being with Michael McCoy as he ran, thought ..."](/statements/statement-dc240fcff167.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-6f68a9c82a99">
+
+- [00:30:52](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42) [○] (Claim) **Blake Neff**: ["Blake Neff said he called his mother after the shooting to tell her he was safe ..."](/statements/statement-6f68a9c82a99.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2b923ecd6b5b">
+
+- [00:31:18](/episodes/ep-HIlPQ-_dcxM.md#t-00-31-18) [○] (Claim) **Blake Neff**: ["Blake Neff said Michael McCoy became composed after the calls and directed peopl..."](/statements/statement-2b923ecd6b5b.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f6c481e94b3b">
+
+- [00:32:29](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-09) [○] (Accusation) **Candace Owens**: ["Owens disputed Neff’s account by saying the SUVs were not taken to the hospital ..."](/statements/statement-f6c481e94b3b.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-ad1953d0acc9">
+
+- [00:33:07](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49) [○] (Opinion) **Candace Owens**: ["Owens expressed the view that Blake Neff needed Tyler Robinson to be guilty."](/statements/statement-ad1953d0acc9.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-740ebaf1c0e8">
+
+- [00:36:39](/episodes/ep-HIlPQ-_dcxM.md#t-00-36-25) [○] (Opinion) **Candace Owens**: ["Owens criticized male podcasters for repeatedly complaining about isolated extre..."](/statements/statement-740ebaf1c0e8.md)
+  - About: [Lindsay Clancy](/entities/person-lindsay-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-99fc997fde35">
+
+- [00:39:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-38-59) [○] (Accusation) **Matt Walsh**: ["Matt Walsh wrote that one lawyer was justifying political assassination and anot..."](/statements/statement-99fc997fde35.md)
+  - About: [Richard G. Novak](/entities/person-richard-g-novak.md), [Lindsay Clancy](/entities/person-lindsay-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-46e4bb83a17d">
+
+- [00:40:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-39-42) [○] (Claim) **Candace Owens**: ["Owens said Viva Frei echoed the court-clip criticism and that she had blocked hi..."](/statements/statement-46e4bb83a17d.md)
+  - About: [David Freiheit](/entities/person-david-freiheit.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-26c6a55616ad">
+
+- [00:40:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) [○] (Opinion) **Graham Allen**: ["Graham Allen described Tyler Robinson’s defense attorney as a lunatic for saying..."](/statements/statement-26c6a55616ad.md)
+  - About: [Richard G. Novak](/entities/person-richard-g-novak.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0c54c001ae37">
+
+- [00:40:44](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) [○] (Opinion) **Blake Neff**: ["Blake Neff described Richard Novak’s comments in court as an outrageous moment o..."](/statements/statement-0c54c001ae37.md)
+  - About: [Richard G. Novak](/entities/person-richard-g-novak.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2d327d66c9eb">
+
+- [00:40:44](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) [○] (Opinion) **Brandon Tatum**: ["Brandon Tatum described Richard Novak’s comments in court as an outrageous momen..."](/statements/statement-2d327d66c9eb.md)
+  - About: [Richard G. Novak](/entities/person-richard-g-novak.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b632c30b4ea5">
+
+- [00:40:44](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) [○] (Claim) **Candace Owens**: ["Owens said Blake Neff and Brandon Tatum posted identical wording about Richard N..."](/statements/statement-b632c30b4ea5.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Brandon Tatum](/entities/person-brandon-tatum.md), [Richard G. Novak](/entities/person-richard-g-novak.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7c80e7242ada">
+
+- [00:42:37](/episodes/ep-HIlPQ-_dcxM.md#t-00-42-07) [○] (Claim) **Richard G. Novak**: ["Richard Novak argued that evidence about Twiggs’s gender identity and relationsh..."](/statements/statement-7c80e7242ada.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c9706f24b257">
+
+- [00:43:32](/episodes/ep-HIlPQ-_dcxM.md#t-00-43-32) [○] (Opinion) **Richard G. Novak**: ["Richard Novak argued that attributing Robinson’s alleged hatred to his relations..."](/statements/statement-c9706f24b257.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a34cfc13e0e7">
+
+- [00:44:20](/episodes/ep-HIlPQ-_dcxM.md#t-00-44-20) [○] (Accusation) **Candace Owens**: ["Owens said Novak was challenging an unsupported inference about political motiva..."](/statements/statement-a34cfc13e0e7.md)
+  - About: [Richard G. Novak](/entities/person-richard-g-novak.md), [Matt Walsh](/entities/person-matt-walsh.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-db383b01e9d8">
+
+- [00:47:59](/episodes/ep-HIlPQ-_dcxM.md#t-00-47-35) [○] (Citation) **Candace Owens**: ["Owens cited page 32 of the defense’s August 11 filing as arguing that the state ..."](/statements/statement-db383b01e9d8.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-a3057ac2e3fc">
+
+- [00:47:59](/episodes/ep-HIlPQ-_dcxM.md#t-00-47-35) [○] (Claim) **Candace Owens**: ["Owens said Pastor David Engelhardt’s statement had been presented to support the..."](/statements/statement-a3057ac2e3fc.md)
+  - About: [David Engelhardt](/entities/person-david-engelhardt.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e372a148e703">
+
+- [00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27) [○] (Accusation) **Candace Owens**: ["Owens accused Andrew Wilson of changing his opinions after receiving a call from..."](/statements/statement-e372a148e703.md)
+  - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-dedd8079f893">
+
+- [00:54:57](/episodes/ep-HIlPQ-_dcxM.md#t-00-54-57) [○] (Claim) **Candace Owens**: ["Owens said her team reviewed Michael McCoy’s press appearances and found no dire..."](/statements/statement-dedd8079f893.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-780c0370d063">
+
+- [00:55:16](/episodes/ep-HIlPQ-_dcxM.md#t-00-54-57) [○] (Opinion) **Candace Owens**: ["Owens estimated that Michael McCoy looked back for about 0.75 seconds and argued..."](/statements/statement-780c0370d063.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f46930679dd3">
+
+- [01:00:36](/episodes/ep-HIlPQ-_dcxM.md#t-01-00-31) [○] (Prediction) **Candace Owens**: ["Owens predicted an awakening beyond the authorities’ control if they executed so..."](/statements/statement-f46930679dd3.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c77dd45d084f">
+
+- [01:02:29](/episodes/ep-HIlPQ-_dcxM.md#t-01-02-29) [○] (Opinion) **Candace Owens**: ["Owens criticized commentators for equating suspicion about Erika Kirk with suppo..."](/statements/statement-c77dd45d084f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lindsay Clancy](/entities/person-lindsay-clancy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-3dd1fd49a055">
+
+- [01:04:37](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-15) [○] (Claim) **Candace Owens**: ["Owens said she was withholding some material because of the Brian Harpole case."](/statements/statement-3dd1fd49a055.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-71ee6a67771e">
+
+- [01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51) [○] (Accusation) **Candace Owens**: ["Owens said Brian Harpole told Shawn Ryan there had been no threats the night bef..."](/statements/statement-71ee6a67771e.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Shawn Ryan](/entities/person-shawn-ryan.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
 
 <details>
 <summary><strong>2026-09-01 · I Met My Cousin In Iceland...</strong> (5)</summary>
@@ -88415,4 +89093,4 @@ _3809 factual claims within 7118 attributed statements._
 
 ---
 
-*Generated: 2026-09-02 09:59:58*
+*Generated: 2026-09-03 17:57:47*

@@ -1,6 +1,6 @@
 ---
 title: "Restaurantology"
-description: "Restaurantology (Works & Media) - 7 mentions"
+description: "Restaurantology (Works & Media) - 8 mentions"
 id: "work-restaurantology"
 type: "WORK"
 categories:
@@ -18,11 +18,11 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-work-restaurantology-t-00-59-37">2025-10-31 · 00:59:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-work-restaurantology-t-00-12-03">2026-07-21 · 00:12:07</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-work-restaurantology-t-00-12-56">2026-09-02 · 00:13:22</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 <a href="/episodes/ep-a2bZf4fic10.md#ent-work-restaurantology-t-00-06-18" style="--pulse-height:50%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-work-restaurantology-t-00-31-22" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-work-restaurantology-t-00-12-03" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-work-restaurantology-t-00-12-56" style="--pulse-height:50%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-work-restaurantology-t-00-06-18) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-work-restaurantology-t-00-31-22) | 2 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-work-restaurantology-t-00-12-03) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-work-restaurantology-t-00-12-56) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:13:22](/episodes/ep-HIlPQ-_dcxM.md#ent-work-restaurantology-t-00-12-56)**
+> "So the core security team was actually not with Charlie Kirk in Salt Lake City. They arrived independent of Charlie Kirk and they had been there since 9, 9.30 a.m. in the morning while Charlie (Charlie Kirk) was doing that restaurantology event out in Salt Lake City."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -146,7 +156,15 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Restaurantology (3)</strong></summary>
+<summary><strong class="section-title">Statements about Restaurantology (4)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [00:12:56](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-56) (Claim) **Candace Owens** (via paraphrase): ["Owens said the core security team arrived at UVU between 9 and 9:30 a...."](/statements/statement-7e5189a9476c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>

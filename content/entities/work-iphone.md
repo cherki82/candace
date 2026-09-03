@@ -1,6 +1,6 @@
 ---
 title: "iPhone"
-description: "iPhone (Works & Media) - 6 mentions"
+description: "iPhone (Works & Media) - 7 mentions"
 id: "work-iphone"
 type: "WORK"
 categories:
@@ -18,9 +18,9 @@ Source: [Apple — iPhone](https://www.apple.com/iphone/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-work-iphone-t-00-27-10">2025-09-29 · 00:27:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-work-iphone-t-01-02-19">2026-08-14 · 01:02:37</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-work-iphone-t-00-57-51">2026-09-02 · 00:57:51</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,7 @@ Source: [Apple — iPhone](https://www.apple.com/iphone/)
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-work-iphone-t-00-01-18" style="--pulse-height:50%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-work-iphone-t-00-26-44" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-work-iphone-t-01-02-19" style="--pulse-height:50%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-work-iphone-t-00-57-51" style="--pulse-height:50%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Apple — iPhone](https://www.apple.com/iphone/)
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-work-iphone-t-00-01-18) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-work-iphone-t-00-26-44) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-work-iphone-t-01-02-19) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-work-iphone-t-00-57-51) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Apple — iPhone](https://www.apple.com/iphone/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:57:51](/episodes/ep-HIlPQ-_dcxM.md#ent-work-iphone-t-00-57-51)**
+> "she continues beware that is not what a god-fearing charlie would have wanted you are correct you fight so bravely in his honor and that's why this isn't going away in faith and in prayer it's not going away it's only getting bigger charlie's trending every single day and it's not what they wanted very scary mary writes you forgot to mention that along with fight or flight there is also freeze or film sometimes the lizard brain just has to take over and you need to get your iphone well the freeze and film that that'll be taught to future generations like it was"
+
+</details>
 
 <details>
 <summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>

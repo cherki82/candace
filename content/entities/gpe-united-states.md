@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1925 mentions"
+description: "United States (Places) - 1928 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -28,9 +28,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-united-states-t-00-16-14">2026-09-01 · 00:16:24</a></strong></div>
-<div><span>Episodes</span><strong>157</strong></div>
-<div><span>Mentions</span><strong>1,925</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-united-states-t-01-03-35">2026-09-02 · 01:03:35</a></strong></div>
+<div><span>Episodes</span><strong>158</strong></div>
+<div><span>Mentions</span><strong>1,928</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>170</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
@@ -198,6 +198,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-united-states-t-00-07-38" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 3 mentions" title="2026-08-31 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-united-states-t-00-16-14" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-united-states-t-01-03-35" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -360,6 +361,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-united-states-t-00-07-38) | 3 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-united-states-t-00-16-14) | 2 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-united-states-t-01-03-35) | 3 |
 
 </details>
 </section>
@@ -371,7 +373,21 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1925)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1928)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3 mentions)</summary>
+
+**[01:03:35](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-united-states-t-01-03-35)**
+> "and he is going to debunk centuries of anti-catholic history i explained why that is relevant because like i said he is not a catholic but it does tell you about our school system and it is a build on the book that we read regarding the freemasonic start of america and what was happening on the european continent very fascinating so i'm excited to dive into this with you guys and also if you want to support the show you know what to do head to CandaceOwens.com, buy some merch, sign up for the book club."
+
+**[00:39:25](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-united-states-t-00-38-59)**
+> "...in another very dark times in America. That first sentence I'd like to address."
+
+**[00:50:13](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-united-states-t-00-49-35)**
+> "...n that the future is dark for America. I don't even wake up because now we have lawyers..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Joe Rogan"
-description: "Joe Rogan (People) - 62 mentions"
+description: "Joe Rogan (People) - 64 mentions"
 id: "person-joe-rogan"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-joe-rogan-t-00-02-20">2025-10-27 · 00:02:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-joe-rogan-t-00-01-00">2026-08-19 · 00:01:28</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>62</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-joe-rogan-t-00-37-47">2026-09-02 · 00:38:00</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>64</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>24</strong></div>
@@ -54,6 +54,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-joe-rogan-t-00-05-23" style="--pulse-height:75%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 6 mentions" title="2026-08-17 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-joe-rogan-t-00-34-59" style="--pulse-height:25%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-joe-rogan-t-00-01-00" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-joe-rogan-t-00-37-47" style="--pulse-height:25%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +83,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-joe-rogan-t-00-05-23) | 6 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-joe-rogan-t-00-34-59) | 2 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-joe-rogan-t-00-01-00) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-joe-rogan-t-00-37-47) | 2 |
 
 </details>
 </section>
@@ -93,7 +95,18 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
+
+**[00:37:54](/episodes/ep-HIlPQ-_dcxM.md#ent-person-joe-rogan-t-00-37-47)**
+> "They were talking about topics. They were talking about How men can get healthy. I mean, the Joe Rogan, the Shawn Ryan are talking about military experiences."
+
+**[00:38:00](/episodes/ep-HIlPQ-_dcxM.md#ent-person-joe-rogan-t-00-37-47)**
+> "I mean, the Joe Rogan, the Shawn Ryan's are talking about military expe..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>

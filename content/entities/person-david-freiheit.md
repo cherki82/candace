@@ -1,6 +1,6 @@
 ---
 title: "David Freiheit"
-description: "David Freiheit (People) - 3 mentions"
+description: "David Freiheit (People) - 4 mentions"
 id: "person-david-freiheit"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-david-freiheit-t-00-52-24">2025-12-16 · 00:52:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#t-00-04-26">2026-08-11 · 00:04:55</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-david-freiheit-t-00-39-42">2026-09-02 · 00:40:11</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-david-freiheit-t-00-52-24" style="--pulse-height:100%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-david-freiheit-t-00-47-27" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#t-00-04-26" style="--pulse-height:100%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-david-freiheit-t-00-39-42" style="--pulse-height:100%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-david-freiheit-t-00-52-24) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-david-freiheit-t-00-47-27) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#t-00-04-26) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-david-freiheit-t-00-39-42) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:40:11](/episodes/ep-HIlPQ-_dcxM.md#ent-person-david-freiheit-t-00-39-42)**
+> "But that's that's the reality. They think the public is stupid. Right. Viva Frei (David Freiheit) echoes this. He sent a tweet. Obviously, I blocked him. He's just proven to be such a fraud. I can't even deal with it. And he's from Canada. So I'm just like, I do not have to engage in this whatsoever."
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -92,9 +102,10 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:47:47](/episodes/ep-HGtMfbePDKk.md#t-00-47-12): “What do you mean? The lawyer from Canada says it's the opposite, that the cars that look squeezed are totally like legit and Candace is manipulating them with AI enhancement. It's irresponsible people to share that.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:40:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-39-42): “But that's that's the reality. They think the public is stupid. Right. Viva Frei (David Freiheit) echoes this. He sent a tweet. Obviously, I blocked him. He's just proven to be such a fraud. I can't even deal with it. And he's from Canada. So I'm just like, I do not have to engage in this whatsoever.”
 
 </details>
 
@@ -104,9 +115,10 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:47:47](/episodes/ep-HGtMfbePDKk.md#t-00-47-12): “What do you mean? The lawyer from Canada says it's the opposite, that the cars that look squeezed are totally like legit and Candace is manipulating them with AI enhancement. It's irresponsible people to share that.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:40:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-39-42): “But that's that's the reality. They think the public is stupid. Right. Viva Frei (David Freiheit) echoes this. He sent a tweet. Obviously, I blocked him. He's just proven to be such a fraud. I can't even deal with it. And he's from Canada. So I'm just like, I do not have to engage in this whatsoever.”
 
 </details>
 
@@ -150,6 +162,18 @@ Source: [Viva Frei — official site](https://vivafrei.com/)
 
 - [00:55:32](/episodes/ep-es7PWdFGoFI.md#t-00-55-26) [✓] (Opinion) ["Viva Frei theorized that George Zinn learned of the plan through a Discord group..."](/statements/statement-456077877849.md)
   - About: [George Zinn](/entities/person-george-zinn.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about David Freiheit (1)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [00:40:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-39-42) (Claim) **Candace Owens** (via paraphrase): ["Owens said Viva Frei echoed the court-clip criticism and that she had ..."](/statements/statement-46e4bb83a17d.md)
 
 </details>
 

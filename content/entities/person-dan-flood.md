@@ -1,6 +1,6 @@
 ---
 title: "Dan Flood"
-description: "Dan Flood (People) - 105 mentions"
+description: "Dan Flood (People) - 106 mentions"
 id: "person-dan-flood"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-17">2025-11-20 · 00:33:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-dan-flood-t-00-51-04">2026-08-21 · 00:51:04</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>105</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-dan-flood-t-00-12-19">2026-09-02 · 00:12:36</a></strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>106</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>51</strong></div>
+<div><span>Statements about</span><strong>52</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -73,6 +73,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-dan-flood-t-00-15-12" style="--pulse-height:10%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-dan-flood-t-00-19-48" style="--pulse-height:20%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-dan-flood-t-00-51-04" style="--pulse-height:10%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-dan-flood-t-00-12-19" style="--pulse-height:10%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -116,6 +117,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-dan-flood-t-00-15-12) | 1 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-dan-flood-t-00-19-48) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-dan-flood-t-00-51-04) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-dan-flood-t-00-12-19) | 1 |
 
 </details>
 </section>
@@ -127,7 +129,15 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (105)</strong></summary>
+<summary><strong class="section-title">Raw mentions (106)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:12:36](/episodes/ep-HIlPQ-_dcxM.md#ent-person-dan-flood-t-00-12-19)**
+> "The driver of that Lincoln Navigator is Justin Davis. Okay, Justin (Justin Davis), this is extremely important. Dan Flood's in that vehicle."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -820,7 +830,15 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Flood (51)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Flood (52)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [00:12:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-19) (Claim) **Candace Owens**: ["Owens identified Justin Davis as the Lincoln Navigator’s driver and sa..."](/statements/statement-5e9ac3dcdaf9.md)
+  - Also about: [Justin Davis](/entities/person-justin-davis.md), [Brian Harpole](/entities/person-brian-harpole.md), [Lincoln Navigator (model)](/entities/vehicle-lincoln-navigator-model.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>

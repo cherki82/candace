@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Matt Walsh](/entities/person-matt-walsh) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM)**
+
+- [00:00:40](/episodes/ep-HIlPQ-_dcxM#t-00-00-40): _Yesterday on X, I don't think I've ever done this, by the way, but I did actually have to slap down my former colleague, Matt Walsh, when he perpetuated one of the more disingenuous narratives out there, because I just want to be frank here._
 
 **[Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g)**
 

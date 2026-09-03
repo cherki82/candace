@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 369 mentions"
+description: "Michael McCoy (People) - 393 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-18">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-20-31">2026-09-01 · 00:21:00</a></strong></div>
-<div><span>Episodes</span><strong>76</strong></div>
-<div><span>Mentions</span><strong>369</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-54-57">2026-09-02 · 00:55:16</a></strong></div>
+<div><span>Episodes</span><strong>77</strong></div>
+<div><span>Mentions</span><strong>393</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>98</strong></div>
-<div><span>Relationships</span><strong>49</strong></div>
+<div><span>Statements about</span><strong>107</strong></div>
+<div><span>Relationships</span><strong>53</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -113,6 +113,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-michael-mccoy-t-00-50-37" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-michael-mccoy-t-00-05-38" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-20-31" style="--pulse-height:33%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 11 mentions" title="2026-09-01 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-13-39" style="--pulse-height:73%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 24 mentions" title="2026-09-02 · 24 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -194,6 +195,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-michael-mccoy-t-00-50-37) | 2 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-michael-mccoy-t-00-05-38) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-20-31) | 11 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-13-39) | 24 |
 
 </details>
 </section>
@@ -205,7 +207,84 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (369)</strong></summary>
+<summary><strong class="section-title">Raw mentions (393)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (24 mentions)</summary>
+
+**[00:13:54](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-13-39)**
+> "And we know that he shows up with Mikey McCoy (Michael McCoy) in that vehicle. And we also know that the person driving it, we only have a first name for this guy."
+
+**[00:14:35](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-14-18)**
+> "...ip does not have Mikey McCoy (Michael McCoy) sitting shotgun. It's very strange. I mean, Blak..."
+
+**[00:20:17](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-20-17)**
+> "...n to the amazing Mikey McCoy (Michael McCoy) who we are told repeatedly was definitely not on..."
+
+**[00:21:04](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-21-04)**
+> "There's Mikey (Michael McCoy) highlighted there, not on his phone."
+
+**[00:21:24](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-21-04)**
+> "And Mikey (Michael McCoy) go Mikey (Michael McCoy) still has that up to th..."
+
+**[00:22:05](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-21-49)**
+> "...ng. We're going to see Mikey (Michael McCoy) again."
+
+**[00:22:13](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-21-49)**
+> "Mikey (Michael McCoy) still seems to be walking pretty calmly, but he'..."
+
+**[00:22:21](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-21-49)**
+> "...hem, Danny Philip, and Mikey (Michael McCoy) keep running."
+
+**[00:23:27](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-23-22)**
+> "...en the fact that Mikey McCoy (Michael McCoy) showed up with a bag and has it on his back and ..."
+
+**[00:23:40](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-23-40)**
+> "...nny (Danny Philip) and Mikey (Michael McCoy) fortunately met for some reason Blake (Blake Nef..."
+
+**[00:26:16](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-26-16)**
+> "...ry and telling us that Mikey (Michael McCoy) became a general directing a battle so that he c..."
+
+**[00:27:28](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-27-28)**
+> "...Danny Philip and Mikey McCoy (Michael McCoy) that arrived to the hospital that's four of them..."
+
+**[00:27:54](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-27-28)**
+> "...e to know exactly what Mikey (Michael McCoy) was thinking, which is incredible, was because t..."
+
+**[00:28:38](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-28-38)**
+> "...g occurs. I am next to Mikey (Michael McCoy). Both of us hear a loud crack. We both turn. We ..."
+
+**[00:29:31](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-29-31)**
+> "...You didn't arrive with Mikey (Michael McCoy)."
+
+**[00:29:32](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-29-32)**
+> "...oing So I was not with Mikey (Michael McCoy) or I don't remember being with him. I think I wa..."
+
+**[00:29:42](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-29-32)**
+> "...ok around me and I see Mikey (Michael McCoy) and I see Mikey (Michael McCoy) there"
+
+**[00:29:56](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-29-56)**
+> "... saw because I've seen Mikey (Michael McCoy) almost every"
+
+**[00:31:18](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-31-18)**
+> "...ne who witnessed this who saw mikey hugely distressed and then step up in the moment ..."
+
+**[00:32:14](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-32-09)**
+> "And again, if Mikey (Michael McCoy) was supposed to be the point person and he was t..."
+
+**[00:54:45](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-54-13)**
+> "...rend Jack Hibbs quote, Mikey (Michael McCoy) called me right away and said there's so much bl..."
+
+**[00:54:51](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-54-13)**
+> "How the heck would Mikey (Michael McCoy) know how much blood there was? He turned in a sp..."
+
+**[00:54:57](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-54-57)**
+> "...at testimony came from Mikey (Michael McCoy) and Mikey (Michael McCoy) did a lot of press the..."
+
+**[00:55:16](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-54-57)**
+> "It never came from Mikey (Michael McCoy). Mikey (Michael McCoy) never made that claim tha..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (11 mentions)</summary>
@@ -1691,12 +1770,26 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (1)</summary>
+<summary>Appeared With (3)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:10:00](/episodes/ep-A39g5oqB_eM.md#t-00-09-18): “We're not going to mention what restaurant it's at, but the McCoys are there, Elizabeth (one of the McCoys; full identity unverified), Mikey (Michael McCoy), Erika (Erika Kirk), and they're in joyous spirits is exactly what the email said of someone who was there. They were in joyous spirits.”
+
+</details>
+
+- **[Danny Philip](/entities/person-danny-philip.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
+
+</details>
+
+- **[Justin Davis](/entities/person-justin-davis.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
 
 </details>
 
@@ -1733,7 +1826,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <summary>Child Of (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#t-00-34-30): “He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk)."”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#t-00-38-18): “he immediately calls his dad. He calls Rob McCoy.”
@@ -1748,6 +1841,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:06](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “Pastor Rob McCoy, Mikey McCoy's daddy.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37): “He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:31:08](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42): “He calls Rob McCoy and he says, Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends.”
 
 </details>
 
@@ -1757,9 +1851,10 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <summary>Close Associate Of (1)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:33:48](/episodes/ep-581dILVcEE4.md#t-00-33-16): “I pause; I look around me; and I see Mikey. And I see Mikey there. And I'll never—truthfully, I will never forget what I saw because I've seen Mikey almost every day for the past two years. I know his personality very well. He's a very bubbly guy. He's a very happy guy almost all of the time.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:30:01](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-01): “day for the past two years I know his personality very well he's a very bubbly guy he's a very happy guy almost all of the time and I'll never forget what I saw because it was clear in the moment that he was profoundly freaked out what I'll always remember is the way his lip was quivering which I'd never seen before and you very rarely see from someone that he was freaking out and then I think he literally said to me I might be imagining this but I think what he literally said was”
 
 </details>
 
@@ -1985,12 +2080,26 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details>
-<summary>Referenced By (24)</summary>
+<summary>Referenced By (26)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:10:00](/episodes/ep-A39g5oqB_eM.md#t-00-09-18): “We're not going to mention what restaurant it's at, but the McCoys are there, Elizabeth (one of the McCoys; full identity unverified), Mikey (Michael McCoy), Erika (Erika Kirk), and they're in joyous spirits is exactly what the email said of someone who was there. They were in joyous spirits.”
+
+</details>
+
+- **[Danny Philip](/entities/person-danny-philip.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
+
+</details>
+
+- **[Justin Davis](/entities/person-justin-davis.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
 
 </details>
 
@@ -2002,9 +2111,10 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** close associate of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:33:48](/episodes/ep-581dILVcEE4.md#t-00-33-16): “I pause; I look around me; and I see Mikey. And I see Mikey there. And I'll never—truthfully, I will never forget what I saw because I've seen Mikey almost every day for the past two years. I know his personality very well. He's a very bubbly guy. He's a very happy guy almost all of the time.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:30:01](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-01): “day for the past two years I know his personality very well he's a very bubbly guy he's a very happy guy almost all of the time and I'll never forget what I saw because it was clear in the moment that he was profoundly freaked out what I'll always remember is the way his lip was quivering which I'd never seen before and you very rarely see from someone that he was freaking out and then I think he literally said to me I might be imagining this but I think what he literally said was”
 
 </details>
 
@@ -2152,7 +2262,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:12](/episodes/ep-c5BcKF91iec.md#t-00-07-38): “It's a video of, of course, Pastor Rob McCoy's son.”
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-16-25): “Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie”
@@ -2165,6 +2275,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:06](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “Pastor Rob McCoy, Mikey McCoy's daddy.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37): “He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:54](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27): “Mikey McCoy (Michael McCoy) calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika (Erika Kirk) and his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:31:08](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42): “He calls Rob McCoy and he says, Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends.”
 
 </details>
 
@@ -2240,7 +2351,39 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (98)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (107)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (9)</summary>
+
+- [00:13:39](/episodes/ep-HIlPQ-_dcxM.md#t-00-13-39) (Claim) **Candace Owens**: ["Owens said Charlie Kirk and Michael McCoy arrived in one Yukon Denali ..."](/statements/statement-4a1f23a7c4ab.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [GMC Yukon Denali (model)](/entities/vehicle-gmc-yukon-denali-model.md)
+
+- [00:20:17](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17) (Claim) **Candace Owens**: ["Owens interpreted footage as showing Danny Philip and Michael McCoy co..."](/statements/statement-9da69ba1bd66.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Justin Davis](/entities/person-justin-davis.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:27:28](/episodes/ep-HIlPQ-_dcxM.md#t-00-27-28) (Claim) **Candace Owens**: ["Owens said Nate Walker, Blake Neff, Danny Philip and Michael McCoy arr..."](/statements/statement-6fbf8869cb71.md)
+  - Also about: [Nate Walker](/entities/person-nate-walker.md), [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md)
+
+- [00:28:38](/episodes/ep-HIlPQ-_dcxM.md#t-00-28-38) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said he and Michael McCoy heard a crack, saw Charlie Kirk h..."](/statements/statement-69009277d927.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:29:32](/episodes/ep-HIlPQ-_dcxM.md#t-00-29-32) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said he did not remember being with Michael McCoy as he ran..."](/statements/statement-dc240fcff167.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:18](/episodes/ep-HIlPQ-_dcxM.md#t-00-31-18) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said Michael McCoy became composed after the calls and dire..."](/statements/statement-2b923ecd6b5b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:32:29](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-09) (Accusation) **Candace Owens**: ["Owens disputed Neff’s account by saying the SUVs were not taken to the..."](/statements/statement-f6c481e94b3b.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:54:57](/episodes/ep-HIlPQ-_dcxM.md#t-00-54-57) (Claim) **Candace Owens**: ["Owens said her team reviewed Michael McCoy’s press appearances and fou..."](/statements/statement-dedd8079f893.md)
+  - Also about: [Rob McCoy](/entities/person-rob-mccoy.md), [Jack Hibbs](/entities/person-jack-hibbs.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:55:16](/episodes/ep-HIlPQ-_dcxM.md#t-00-54-57) (Opinion) **Candace Owens**: ["Owens estimated that Michael McCoy looked back for about 0.75 seconds ..."](/statements/statement-780c0370d063.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3)</summary>

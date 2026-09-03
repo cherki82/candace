@@ -1,6 +1,6 @@
 ---
 title: "Google"
-description: "Google (Organizations) - 60 mentions"
+description: "Google (Organizations) - 61 mentions"
 id: "org-google"
 type: "ORG"
 categories:
@@ -17,9 +17,9 @@ Source: [Google — About](https://about.google/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41">2025-09-24 · 00:24:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-google-t-00-07-26">2026-08-21 · 00:07:26</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-google-t-00-34-16">2026-09-02 · 00:34:42</a></strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>61</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -66,6 +66,7 @@ Source: [Google — About](https://about.google/)
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-03-35" style="--pulse-height:100%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 10 mentions" title="2026-08-18 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-google-t-00-04-34" style="--pulse-height:30%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 3 mentions" title="2026-08-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-google-t-00-04-25" style="--pulse-height:20%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-google-t-00-34-16" style="--pulse-height:10%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -107,6 +108,7 @@ Source: [Google — About](https://about.google/)
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-03-35) | 10 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-google-t-00-04-34) | 3 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-google-t-00-04-25) | 2 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-google-t-00-34-16) | 1 |
 
 </details>
 </section>
@@ -118,7 +120,15 @@ Source: [Google — About](https://about.google/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:34:42](/episodes/ep-HIlPQ-_dcxM.md#ent-org-google-t-00-34-16)**
+> "And you're learning from people who have worked at companies like Microsoft, Google, Amazon. There are also bonus sessions, an AI prompt library, and a personalized AI toolkit builder, all included for free."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>

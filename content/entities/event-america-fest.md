@@ -1,6 +1,6 @@
 ---
 title: "America Fest"
-description: "America Fest (Events) - 34 mentions"
+description: "America Fest (Events) - 35 mentions"
 id: "event-america-fest"
 type: "EVENT"
 aliases:
@@ -26,9 +26,9 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-america-fest-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-event-america-fest-t-00-25-58">2026-07-22 · 00:25:58</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-event-america-fest-t-00-18-55">2026-09-02 · 00:18:55</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -61,6 +61,7 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-event-america-fest-t-01-00-36" style="--pulse-height:33%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-event-america-fest-t-00-40-41" style="--pulse-height:67%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-event-america-fest-t-00-25-58" style="--pulse-height:33%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-event-america-fest-t-00-18-55" style="--pulse-height:33%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -88,6 +89,7 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-event-america-fest-t-01-00-36) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-event-america-fest-t-00-40-41) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-event-america-fest-t-00-25-58) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-event-america-fest-t-00-18-55) | 1 |
 
 </details>
 </section>
@@ -99,7 +101,15 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:18:55](/episodes/ep-HIlPQ-_dcxM.md#ent-event-america-fest-t-00-18-55)**
+> "I've done all these events. I've never seen this much security unless it was end of year AMFest, end of year SAS, like one of the big events that they do, one campus event, that many security members."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>

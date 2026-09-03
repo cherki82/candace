@@ -1,6 +1,6 @@
 ---
 title: "The Charlie Kirk Show"
-description: "The Charlie Kirk Show (Works & Media) - 63 mentions"
+description: "The Charlie Kirk Show (Works & Media) - 65 mentions"
 id: "work-the-charlie-kirk-show"
 type: "WORK"
 aliases:
@@ -23,9 +23,9 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-work-the-charlie-kirk-show-t-00-56-30">2025-09-22 · 00:57:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-24-21">2026-08-21 · 00:24:21</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>63</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-work-the-charlie-kirk-show-t-00-55-39">2026-09-02 · 00:56:04</a></strong></div>
+<div><span>Episodes</span><strong>34</strong></div>
+<div><span>Mentions</span><strong>65</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -69,6 +69,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-work-the-charlie-kirk-show-t-00-51-43" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-work-the-charlie-kirk-show-t-00-02-20" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 6 mentions" title="2026-07-21 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-24-21" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-work-the-charlie-kirk-show-t-00-55-39" style="--pulse-height:17%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -107,6 +108,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-work-the-charlie-kirk-show-t-00-51-43) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-work-the-charlie-kirk-show-t-00-02-20) | 6 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-24-21) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-work-the-charlie-kirk-show-t-00-55-39) | 2 |
 
 </details>
 </section>
@@ -118,7 +120,18 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (63)</strong></summary>
+<summary><strong class="section-title">Raw mentions (65)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
+
+**[00:56:04](/episodes/ep-HIlPQ-_dcxM.md#ent-work-the-charlie-kirk-show-t-00-55-39)**
+> "...t community noted employee of the Charlie Kirk show?"
+
+**[00:56:04](/episodes/ep-HIlPQ-_dcxM.md#ent-work-the-charlie-kirk-show-t-00-55-39)**
+> "He lies so much about who Charlie (Charlie Kirk) was. Why would we accept anything Blake (Blake Neff) says when he is easily the most community noted employee of the Charlie Kirk show?"
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -495,11 +508,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Employs (2)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show”
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:28:04](/episodes/ep-eMtjzXkQrsU.md#t-00-27-54): “technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:56:04](/episodes/ep-HIlPQ-_dcxM.md#t-00-55-39): “He lies so much about who Charlie (Charlie Kirk) was. Why would we accept anything Blake (Blake Neff) says when he is easily the most community noted employee of the Charlie Kirk show?”
 
 </details>
 
@@ -596,11 +610,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show”
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:28:04](/episodes/ep-eMtjzXkQrsU.md#t-00-27-54): “technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:56:04](/episodes/ep-HIlPQ-_dcxM.md#t-00-55-39): “He lies so much about who Charlie (Charlie Kirk) was. Why would we accept anything Blake (Blake Neff) says when he is easily the most community noted employee of the Charlie Kirk show?”
 
 </details>
 

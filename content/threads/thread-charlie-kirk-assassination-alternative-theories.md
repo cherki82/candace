@@ -11,10 +11,10 @@ description: "A single reviewed branching timeline of on-channel alternatives to
 <p class="thread-summary">A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.</p>
 
 <div class="thread-detail-stats">
-<div><strong>3620</strong><span>reviewed turns</span></div>
-<div><strong>158</strong><span>source episodes</span></div>
-<div><strong>6166</strong><span>transitions</span></div>
-<div><strong>2026-09-01</strong><span>latest update</span></div>
+<div><strong>3629</strong><span>reviewed turns</span></div>
+<div><strong>159</strong><span>source episodes</span></div>
+<div><strong>6175</strong><span>transitions</span></div>
+<div><strong>2026-09-02</strong><span>latest update</span></div>
 </div>
 
 <section class="thread-explorer" data-thread-browser data-index-path="/assets/threads/thread-charlie-kirk-assassination-alternative-theories.json" aria-label="Thread evidence explorer">
@@ -24,7 +24,7 @@ description: "A single reviewed branching timeline of on-channel alternatives to
 </section>
 
 <details class="thread-background"><summary>About this thread · sources, entities &amp; events</summary>
-<section class="thread-entity-roster" aria-labelledby="thread-entities-heading"><div class="thread-entity-heading"><div><span class="research-kicker">People, places, and organizations</span><h2 id="thread-entities-heading">Key entities</h2></div><strong>994<span> connected records</span></strong></div><p class="thread-entity-primary"><a href="/entities/person-charlie-kirk">Charlie Kirk</a> · <a href="/entities/person-candace-owens">Candace Owens</a> · <a href="/entities/person-bill-ackman">Bill Ackman</a> · <a href="/entities/person-xaviaer-durousseau">Xaviaer DuRousseau</a> · <a href="/entities/person-seth-dillon">Seth Dillon</a> · <a href="/entities/gpe-provo">Provo</a> · <a href="/entities/person-brian-harpole">Brian Harpole</a> · <a href="/entities/person-frank-turek">Frank Turek</a> · <a href="/entities/org-turning-point-usa">Turning Point USA</a> · <a href="/entities/org-utah-valley-university">Utah Valley University</a> · <a href="/entities/person-zach-de-gregorio">Zach De Gregorio</a> · <a href="/entities/person-tyler-robinson">Tyler Robinson</a></p><p class="thread-entity-note">Search names, organizations, sources, and propositions in the evidence browser below.</p></section>
+<section class="thread-entity-roster" aria-labelledby="thread-entities-heading"><div class="thread-entity-heading"><div><span class="research-kicker">People, places, and organizations</span><h2 id="thread-entities-heading">Key entities</h2></div><strong>998<span> connected records</span></strong></div><p class="thread-entity-primary"><a href="/entities/person-charlie-kirk">Charlie Kirk</a> · <a href="/entities/person-candace-owens">Candace Owens</a> · <a href="/entities/person-bill-ackman">Bill Ackman</a> · <a href="/entities/person-xaviaer-durousseau">Xaviaer DuRousseau</a> · <a href="/entities/person-seth-dillon">Seth Dillon</a> · <a href="/entities/gpe-provo">Provo</a> · <a href="/entities/person-brian-harpole">Brian Harpole</a> · <a href="/entities/person-frank-turek">Frank Turek</a> · <a href="/entities/org-turning-point-usa">Turning Point USA</a> · <a href="/entities/org-utah-valley-university">Utah Valley University</a> · <a href="/entities/person-zach-de-gregorio">Zach De Gregorio</a> · <a href="/entities/person-tyler-robinson">Tyler Robinson</a></p><p class="thread-entity-note">Search names, organizations, sources, and propositions in the evidence browser below.</p></section>
 
 <section class="thread-event-register">
 <span class="research-kicker">Event time</span>
@@ -61,6 +61,46 @@ description: "A single reviewed branching timeline of on-channel alternatives to
 <article class="thread-event-card">
 <time datetime="2026-07">2026-07</time>
 <a href="/events/event-2026-07-jennica-pounds-began-work-as-a-special-g">Jennica Pounds began work as a special government employee for the Department of War</a>
+</article>
+<article class="thread-event-card">
+<time datetime="2026-09-01">2026-09-01</time>
+<a href="/events/event-2026-09-01-judge-tony-f-graf-jr-ruled-that-tyler-ro">Judge Tony F. Graf Jr. ruled that Tyler Robinson’s charges could proceed to trial, including count six; the episode presents the ruling as a preliminary-hearing decision, not a verdict.</a>
+</article>
+<article class="thread-event-card">
+<time datetime="2026-09-01">2026-09-01</time>
+<a href="/events/event-2026-09-01-kathryn-nester-entered-not-guilty-pleas-">Kathryn Nester entered not-guilty pleas to all counts on Tyler Robinson’s behalf after the bindover ruling.</a>
+</article>
+<article class="thread-event-card">
+<time datetime="2025-09-10">2025-09-10</time>
+<a href="/events/event-2025-09-10-owens-interpreted-footage-as-showing-sec">Owens interpreted footage as showing security driver Christopher, whose surname is unverified, and Nate Walker upstairs near the Sorensen building minutes before Kirk was struck.</a>
+</article>
+<article class="thread-event-card">
+<time datetime="2025-09-10">2025-09-10</time>
+<a href="/events/event-2025-09-10-owens-said-footage-showed-justin-davis-r">Owens said footage showed Justin Davis running ahead to open Kirk’s vehicle door alongside a security participant named Blake whose surname is unverified.</a>
+</article>
+<article class="thread-event-card">
+<time datetime="2025-09-10">2025-09-10</time>
+<a href="/events/event-2025-09-10-owens-interpreted-footage-as-showing-dan">Owens interpreted footage as showing Danny Philip and Michael McCoy converging in front of Kirk’s vehicle with Justin Davis after Kirk was struck.</a>
+</article>
+<article class="thread-event-card">
+<time datetime="2025-09-10">2025-09-10</time>
+<a href="/events/event-2025-09-10-owens-said-sources-with-direct-knowledge">Owens said sources with direct knowledge told her that unused SUVs were not driven to the hospital, leaving three security vehicles behind.</a>
+</article>
+<article class="thread-event-card">
+<time datetime="2025-09-10">2025-09-10</time>
+<a href="/events/event-2025-09-10-candace-owens-said-blake-neff-danny-phil">Candace Owens said Blake Neff, Danny Philip, Michael McCoy, and Nate Walker arrived at Timpanogos Hospital around 1 p.m.</a>
+</article>
+<article class="thread-event-card">
+<time datetime="2025-09-10">2025-09-10</time>
+<a href="/events/event-2025-09-10-blake-neff-recalled-fleeing-after-the-sh">Blake Neff recalled fleeing after the shooting and, within 15 or 20 seconds without another shot, inferring that the shooter had likely been stopped.</a>
+</article>
+<article class="thread-event-card">
+<time datetime="2025-09-10">2025-09-10</time>
+<a href="/events/event-2025-09-10-blake-neff-recalled-michael-mccoy-beginn">Blake Neff recalled Michael McCoy beginning a call to Erika Kirk within about a minute of the shooting, while qualifying his memory of McCoy’s exact words.</a>
+</article>
+<article class="thread-event-card">
+<time datetime="2026-08-11">2026-08-11</time>
+<a href="/events/event-2026-08-11-tyler-robinsons-defense-filed-a-brief-se">Tyler Robinson&#x27;s defense filed a brief seeking dismissal of the aggravated-murder allegation and removal of the aggravating factor after the preliminary hearing</a>
 </article>
 </section>
 </details>

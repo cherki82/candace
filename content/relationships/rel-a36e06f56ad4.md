@@ -11,7 +11,11 @@ object: "person-tyler-robinson"
 
 ## [Kathryn Nester](/entities/person-kathryn-nester) represented [Tyler Robinson](/entities/person-tyler-robinson)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM)**
+
+- [00:08:25](/episodes/ep-HIlPQ-_dcxM#t-00-08-25): _And at this point we would waive reading of the indictment, which, I'm sorry, waive reading of the information and enter pleas of not guilty on Mr._
 
 **[Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 289 mentions"
+description: "Christianity (Concepts) - 291 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-concept-christianity-t-00-24-50">2025-10-07 · 00:24:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-christianity-t-00-45-20">2026-08-31 · 00:45:46</a></strong></div>
-<div><span>Episodes</span><strong>76</strong></div>
-<div><span>Mentions</span><strong>289</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christianity-t-00-46-29">2026-09-02 · 00:46:49</a></strong></div>
+<div><span>Episodes</span><strong>77</strong></div>
+<div><span>Mentions</span><strong>291</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>25</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -111,6 +111,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-christianity-t-00-01-27" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-christianity-t-00-08-13" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christianity-t-00-46-29" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -192,6 +193,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-christianity-t-00-01-27) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-concept-christianity-t-00-08-13) | 2 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christianity-t-00-46-29) | 2 |
 
 </details>
 </section>
@@ -203,7 +205,18 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (289)</strong></summary>
+<summary><strong class="section-title">Raw mentions (291)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
+
+**[00:46:29](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christianity-t-00-46-29)**
+> "That was one of the alleged Tyler Robinson communications, right? And then they then extrapolated from that, that he must have been referring to Charlie Kirk's statements that Charlie Kirk, he assumed, had made hateful statements against the LGBTQ community, which Charlie (Charlie Kirk) made those statements because he's a Christian man."
+
+**[00:46:49](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christianity-t-00-46-29)**
+> "He is a hetero Christian man who believes that marriage is between a man a..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>

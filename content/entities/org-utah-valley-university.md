@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 260 mentions"
+description: "Utah Valley University (Organizations) - 262 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -27,11 +27,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-38-32">2026-09-01 · 00:39:02</a></strong></div>
-<div><span>Episodes</span><strong>78</strong></div>
-<div><span>Mentions</span><strong>260</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-utah-valley-university-t-00-32-09">2026-09-02 · 00:32:42</a></strong></div>
+<div><span>Episodes</span><strong>79</strong></div>
+<div><span>Mentions</span><strong>262</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>84</strong></div>
+<div><span>Statements about</span><strong>86</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -118,6 +118,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-utah-valley-university-t-00-18-46" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-utah-valley-university-t-00-29-08" style="--pulse-height:22%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-01-03" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 9 mentions" title="2026-09-01 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-utah-valley-university-t-00-10-37" style="--pulse-height:22%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -201,6 +202,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-utah-valley-university-t-00-18-46) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-utah-valley-university-t-00-29-08) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-01-03) | 9 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-utah-valley-university-t-00-10-37) | 2 |
 
 </details>
 </section>
@@ -212,7 +214,18 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (260)</strong></summary>
+<summary><strong class="section-title">Raw mentions (262)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
+
+**[00:10:37](/episodes/ep-HIlPQ-_dcxM.md#ent-org-utah-valley-university-t-00-10-37)**
+> "The lies are going to expire. They have an expiration date. Now, speaking of truth, there is something that has been bothering me for a while, and I need you guys to really lock in here on the details because you need to commit to memory the map of cars on September 10th at UVU. Okay, there are a total of five relevant vehicles that I want to draw your attention to."
+
+**[00:32:42](/episodes/ep-HIlPQ-_dcxM.md#ent-org-utah-valley-university-t-00-32-09)**
+> "What is there to do at UVU, this campus that none of you belong at, presumab..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (9 mentions)</summary>
@@ -1589,7 +1602,18 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (84)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (86)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2)</summary>
+
+- [00:11:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-11-11) (Claim) **Candace Owens**: ["Owens presented a diagram identifying five vehicles affiliated with Tu..."](/statements/statement-8a5a1679a627.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Jeep Wagoneer (model)](/entities/vehicle-jeep-wagoneer-model.md), [Lincoln Navigator (model)](/entities/vehicle-lincoln-navigator-model.md)
+
+- [00:12:56](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-56) (Claim) **Candace Owens** (via paraphrase): ["Owens said the core security team arrived at UVU between 9 and 9:30 a...."](/statements/statement-7e5189a9476c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Restaurantology](/entities/work-restaurantology.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

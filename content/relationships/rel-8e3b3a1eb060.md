@@ -11,7 +11,7 @@ object: "person-blake-neff"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Blake Neff](/entities/person-blake-neff)
 
-### Evidence (30 mentions)
+### Evidence (31 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -48,6 +48,10 @@ object: "person-blake-neff"
 **[Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk)**
 
 - [00:23:59](/episodes/ep-HGtMfbePDKk#t-00-23-59): _I have to point out The ever decreasing social IQ of Blake Neff, like I just when we think we get to the bottom of his social IQ,_
+
+**[Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM)**
+
+- [00:33:00](/episodes/ep-HIlPQ-_dcxM#t-00-33-00): _And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer._
 
 **[BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o)**
 

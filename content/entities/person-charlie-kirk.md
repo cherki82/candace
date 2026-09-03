@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 5990 mentions"
+description: "Charlie Kirk (People) - 6039 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01">2025-09-11 · 00:00:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-53-58">2026-09-01 · 00:53:58</a></strong></div>
-<div><span>Episodes</span><strong>162</strong></div>
-<div><span>Mentions</span><strong>5,990</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-01-04-51">2026-09-02 · 01:04:51</a></strong></div>
+<div><span>Episodes</span><strong>163</strong></div>
+<div><span>Mentions</span><strong>6,039</strong></div>
 <div><span>Statements by</span><strong>124</strong></div>
-<div><span>Statements about</span><strong>1,891</strong></div>
+<div><span>Statements about</span><strong>1,914</strong></div>
 <div><span>Relationships</span><strong>352</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -199,6 +199,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 7 mentions" title="2026-08-21 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-charlie-kirk-t-00-01-27" style="--pulse-height:34%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 37 mentions" title="2026-08-31 · 37 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-01-03" style="--pulse-height:42%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 45 mentions" title="2026-09-01 · 45 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-00-40" style="--pulse-height:45%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 49 mentions" title="2026-09-02 · 49 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -366,6 +367,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-charlie-kirk-t-00-00-01) | 7 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-charlie-kirk-t-00-01-27) | 37 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-01-03) | 45 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-00-40) | 49 |
 
 </details>
 </section>
@@ -377,7 +379,159 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5990)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6039)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (49 mentions)</summary>
+
+**[00:00:55](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-00-40)**
+> "When it comes to this case, okay, I cannot, I will not, when it comes to this case, pick any other legal case to serve the people, the slop regarding, but not the Charlie Kirk one."
+
+**[00:12:42](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-12-19)**
+> "...he driver that takes Charlie (Charlie Kirk) to the hospital."
+
+**[00:13:22](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-12-56)**
+> "...ty team was actually not with Charlie Kirk in Salt Lake City. They arrived independent of Ch..."
+
+**[00:13:39](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-13-39)**
+> "...t is going to be the one that Charlie Kirk shows up in and that Charlie Kirk is going to dep..."
+
+**[00:14:47](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-14-18)**
+> "... Salt Lake City with Charlie (Charlie Kirk), he doesn't remember what they did."
+
+**[00:15:58](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-15-34)**
+> "...rry because they get Charlie (Charlie Kirk) in that car within 45 seconds, right?"
+
+**[00:16:06](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-15-34)**
+> "...icle that's carrying Charlie (Charlie Kirk)'s personal belongings would be locked."
+
+**[00:16:26](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-16-15)**
+> "...know for a fact that Charlie (Charlie Kirk) communicated the night before that he was fearfu..."
+
+**[00:16:46](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-16-15)**
+> "... they're saying that Charlie (Charlie Kirk) even took it a step further and said he wanted t..."
+
+**[00:16:51](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-16-51)**
+> "...d no one else. Well, Charlie (Charlie Kirk)'s main security person who he shows up with is t..."
+
+**[00:17:03](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-16-51)**
+> "...ason, Minutes before Charlie (Charlie Kirk) gets hit, he decides to go upstairs with Nate Wa..."
+
+**[00:17:39](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-17-31)**
+> "...why is the security, Charlie (Charlie Kirk)'s main security guy out in Salt Lake City who to..."
+
+**[00:18:30](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-18-14)**
+> "...e never been to when Charlie (Charlie Kirk) specifically expressed?"
+
+**[00:19:07](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-18-55)**
+> "Yeah, Charlie (Charlie Kirk) had fear. That's clear."
+
+**[00:20:17](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-20-17)**
+> "...on opposite sides of Charlie (Charlie Kirk),"
+
+**[00:20:43](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-20-17)**
+> "...ch other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and gr..."
+
+**[00:24:56](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-24-56)**
+> "...ed to make sure that Charlie (Charlie Kirk)'s vehicle had a clean exit. And I would like to ..."
+
+**[00:25:22](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-24-56)**
+> "...ut just as easily as Charlie (Charlie Kirk)'s vehicle can get out."
+
+**[00:26:51](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-26-51)**
+> "...iduals is to be with Charlie (Charlie Kirk). And if you're telling me that none of them call..."
+
+**[00:27:54](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-27-28)**
+> "...hey walked away from Charlie (Charlie Kirk) and somehow he's able to know exactly what Mikey..."
+
+**[00:28:24](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-28-14)**
+> "... is why we abandoned Charlie (Charlie Kirk) to this is why we then 20 seconds later knew eve..."
+
+**[00:28:38](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-28-38)**
+> "...th turn. We both see Charlie (Charlie Kirk) who has been shot."
+
+**[00:28:58](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-28-53)**
+> "...is not us abandoning Charlie (Charlie Kirk)."
+
+**[00:29:08](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-28-53)**
+> "Charlie (Charlie Kirk) had a security team. They all leapt immediately ..."
+
+**[00:31:08](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-30-42)**
+> "...s, Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."
+
+**[00:31:14](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-30-42)**
+> "Charlie (Charlie Kirk) was hit. We need everyone to pray right now."
+
+**[00:38:07](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-37-47)**
+> "...kay. And when it comes to the Charlie Kirk case, I am easily agitated."
+
+**[00:40:34](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-40-25)**
+> "...n, defense attorney, attacked Charlie Kirk in court. This man is a lunatic. Quote, Mr. Kirk ..."
+
+**[00:40:52](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-40-25)**
+> "...ovak starts trashing Charlie (Charlie Kirk), declaring that it is true. Charlie (Charlie Kir..."
+
+**[00:45:57](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-45-57)**
+> "...can demonstrate that Charlie (Charlie Kirk) was targeted for political or religious beliefs,..."
+
+**[00:46:29](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-46-29)**
+> "...e must have been referring to Charlie Kirk's statements that Charlie Kirk, he assumed, had mad..."
+
+**[00:46:56](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-46-56)**
+> "...that is arguing that Charlie (Charlie Kirk)'s statements were perceived as hateful to Tyler ..."
+
+**[00:47:14](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-46-56)**
+> "...d your argument that Charlie (Charlie Kirk) did make hateful statements that were deemed hat..."
+
+**[00:47:35](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-47-35)**
+> "...hich statements from Charlie (Charlie Kirk) are even hateful. You didn't list any statements..."
+
+**[00:50:20](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-50-20)**
+> "...like Matt Walsh know Charlie (Charlie Kirk), they were friendly with Charlie (Charlie Kirk)...."
+
+**[00:50:42](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-50-20)**
+> "...ould take my time away from a Charlie Kirk case."
+
+**[00:52:12](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-52-12)**
+> "...st needs to end regarding the Charlie Kirk case."
+
+**[00:55:39](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-55-39)**
+> "...s, he stays ahead of Charlie (Charlie Kirk). So he could not have possibly have seen that th..."
+
+**[00:55:45](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-55-39)**
+> "... We walked away from Charlie (Charlie Kirk) with 20 seconds later, we just assumed someone h..."
+
+**[00:56:04](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-55-39)**
+> "...es so much about who Charlie (Charlie Kirk) was. Why would we accept anything Blake (Blake N..."
+
+**[00:56:25](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-56-16)**
+> "...k writes, quote, he's quoting Charlie Kirk here, when I see a story and it doesn't click, ou..."
+
+**[00:56:31](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-56-16)**
+> "...the perspective that Charlie (Charlie Kirk) held, that you should trust your gut. And he cer..."
+
+**[00:57:08](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-56-59)**
+> "...nd I do believe that Charlie (Charlie Kirk)'s dream, which they love mocking dreams, but Cha..."
+
+**[00:58:46](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-58-33)**
+> "...p and never stop for Charlie (Charlie Kirk)."
+
+**[00:59:49](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-59-49)**
+> "...here the people that Charlie (Charlie Kirk) is arguing with the day before and the cause tha..."
+
+**[01:00:20](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-59-49)**
+> "...et legal justice for Charlie (Charlie Kirk), but I will stick with you until the end because..."
+
+**[01:01:16](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-01-01-16)**
+> "...lde writes, God bless you and Charlie Kirk. Can you please dive into the Lindsay Clancy case..."
+
+**[01:02:14](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-01-01-49)**
+> "And as it is now with the Charlie Kirk case, I think it's more important for me to spend..."
+
+**[01:04:51](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-01-04-51)**
+> "... and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (45 mentions)</summary>
@@ -19550,7 +19704,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Deceased Husband Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (75)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (76)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -19627,6 +19781,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45): “Erika Kirk (Charlie Kirk's widow)”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:28](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “So what is it about Charlie's widow in particular that is inspiring his very public nervous breakdown?”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:28](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28): “A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:16:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15): “And what we know for a fact now is that for some strange reason, and I'm citing this as strange because we now know for a fact that Charlie (Charlie Kirk) communicated the night before that he was fearful for his life, that he thought they were going to kill him, something that his wife initially denied and then had to concede.”
 
 </details>
 
@@ -22215,7 +22370,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** widow of this
-<details class="relationship-evidence"><summary>Show all evidence (75)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (76)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -22292,6 +22447,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45): “Erika Kirk (Charlie Kirk's widow)”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:28](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “So what is it about Charlie's widow in particular that is inspiring his very public nervous breakdown?”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:28](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28): “A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:16:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15): “And what we know for a fact now is that for some strange reason, and I'm citing this as strange because we now know for a fact that Charlie (Charlie Kirk) communicated the night before that he was fearful for his life, that he thought they were going to kill him, something that his wife initially denied and then had to concede.”
 
 </details>
 
@@ -23045,7 +23201,77 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (1891)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (1914)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (23)</summary>
+
+- [00:12:42](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-19) (Claim) **Candace Owens**: ["Owens said Justin Davis, who arrived driving a different vehicle, drov..."](/statements/statement-d002a18b072e.md)
+  - Also about: [Justin Davis](/entities/person-justin-davis.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)
+
+- [00:12:56](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-56) (Claim) **Candace Owens** (via paraphrase): ["Owens said the core security team arrived at UVU between 9 and 9:30 a...."](/statements/statement-7e5189a9476c.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Restaurantology](/entities/work-restaurantology.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
+
+- [00:13:39](/episodes/ep-HIlPQ-_dcxM.md#t-00-13-39) (Claim) **Candace Owens**: ["Owens said Charlie Kirk and Michael McCoy arrived in one Yukon Denali ..."](/statements/statement-4a1f23a7c4ab.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [GMC Yukon Denali (model)](/entities/vehicle-gmc-yukon-denali-model.md)
+
+- [00:15:58](/episodes/ep-HIlPQ-_dcxM.md#t-00-15-34) (Claim) **Candace Owens**: ["Owens said Charlie Kirk was placed in the SUV within roughly 45 second..."](/statements/statement-58a05c26ba59.md)
+
+- [00:16:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk initially denied Charlie Kirk’s expressed fear f..."](/statements/statement-24bd012b606d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:16:46](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15) (Claim) **Candace Owens** (via paraphrase): ["Owens said associates now reported that Charlie Kirk wanted his securi..."](/statements/statement-627e7f28cfb6.md)
+
+- [00:17:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-51) (Claim) **Candace Owens**: ["Owens interpreted footage as showing Christopher, the security driver ..."](/statements/statement-6be396356cec.md)
+  - Also about: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Nate Walker](/entities/person-nate-walker.md), [Sorensen Center](/entities/org-sorensen-center.md)
+
+- [00:19:17](/episodes/ep-HIlPQ-_dcxM.md#t-00-18-55) (Opinion) **Candace Owens**: ["Owens speculated that the keys were apparently waiting in Kirk’s vehic..."](/statements/statement-dd40b4f290ff.md)
+  - Also about: [Justin Davis](/entities/person-justin-davis.md)
+
+- [00:20:17](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17) (Claim) **Candace Owens**: ["Owens interpreted footage as showing Danny Philip and Michael McCoy co..."](/statements/statement-9da69ba1bd66.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Justin Davis](/entities/person-justin-davis.md)
+
+- [00:24:47](/episodes/ep-HIlPQ-_dcxM.md#t-00-24-25) (Citation) **Candace Owens** (via paraphrase): ["Owens recalled that an event-planning source had said a clean vehicle ..."](/statements/statement-67fb746f70cb.md)
+  - Also about: [Anonymous Source #3 (Ep 1mYNOqzAdXs)](/entities/anon-src-1mYNOqzAdXs-003.md)
+
+- [00:28:38](/episodes/ep-HIlPQ-_dcxM.md#t-00-28-38) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said he and Michael McCoy heard a crack, saw Charlie Kirk h..."](/statements/statement-69009277d927.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:29:14](/episodes/ep-HIlPQ-_dcxM.md#t-00-29-14) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said he ran past the SUV they arrived in, briefly considere..."](/statements/statement-783975611eae.md)
+
+- [00:29:32](/episodes/ep-HIlPQ-_dcxM.md#t-00-29-32) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said he did not remember being with Michael McCoy as he ran..."](/statements/statement-dc240fcff167.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:30:52](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said he called his mother after the shooting to tell her he..."](/statements/statement-6f68a9c82a99.md)
+
+- [00:40:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) (Opinion) **Graham Allen** (via quoted tweet): ["Graham Allen described Tyler Robinson’s defense attorney as a lunatic ..."](/statements/statement-26c6a55616ad.md)
+  - Also about: [Richard G. Novak](/entities/person-richard-g-novak.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:40:44](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) (Opinion) **Blake Neff** (via quoted tweet): ["Blake Neff described Richard Novak’s comments in court as an outrageou..."](/statements/statement-0c54c001ae37.md)
+  - Also about: [Richard G. Novak](/entities/person-richard-g-novak.md)
+
+- [00:40:44](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) (Opinion) **Brandon Tatum** (via quoted tweet): ["Brandon Tatum described Richard Novak’s comments in court as an outrag..."](/statements/statement-2d327d66c9eb.md)
+  - Also about: [Richard G. Novak](/entities/person-richard-g-novak.md)
+
+- [00:42:37](/episodes/ep-HIlPQ-_dcxM.md#t-00-42-07) (Claim) **Richard G. Novak** (via quoted speech): ["Richard Novak argued that evidence about Twiggs’s gender identity and ..."](/statements/statement-7c80e7242ada.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:43:32](/episodes/ep-HIlPQ-_dcxM.md#t-00-43-32) (Opinion) **Richard G. Novak** (via quoted speech): ["Richard Novak argued that attributing Robinson’s alleged hatred to his..."](/statements/statement-c9706f24b257.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:47:59](/episodes/ep-HIlPQ-_dcxM.md#t-00-47-35) (Citation) **Candace Owens** (via paraphrase): ["Owens cited page 32 of the defense’s August 11 filing as arguing that ..."](/statements/statement-db383b01e9d8.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [00:55:16](/episodes/ep-HIlPQ-_dcxM.md#t-00-54-57) (Opinion) **Candace Owens**: ["Owens estimated that Michael McCoy looked back for about 0.75 seconds ..."](/statements/statement-780c0370d063.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [01:00:36](/episodes/ep-HIlPQ-_dcxM.md#t-01-00-31) (Prediction) **Candace Owens**: ["Owens predicted an awakening beyond the authorities’ control if they e..."](/statements/statement-f46930679dd3.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Brian Harpole told Shawn Ryan there had been no threats the..."](/statements/statement-71ee6a67771e.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Shawn Ryan](/entities/person-shawn-ryan.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (20)</summary>

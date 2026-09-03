@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1592 mentions"
+description: "Israel (Places) - 1593 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -25,9 +25,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-50-19">2026-09-01 · 00:50:28</a></strong></div>
-<div><span>Episodes</span><strong>144</strong></div>
-<div><span>Mentions</span><strong>1,592</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-israel-t-00-59-10">2026-09-02 · 00:59:36</a></strong></div>
+<div><span>Episodes</span><strong>145</strong></div>
+<div><span>Mentions</span><strong>1,593</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>346</strong></div>
 <div><span>Relationships</span><strong>74</strong></div>
@@ -182,6 +182,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-israel-t-00-36-24" style="--pulse-height:13%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 10 mentions" title="2026-08-21 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-israel-t-00-04-54" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-06-17" style="--pulse-height:13%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 10 mentions" title="2026-09-01 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-israel-t-00-59-10" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -331,6 +332,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-israel-t-00-36-24) | 10 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-israel-t-00-04-54) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-06-17) | 10 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-israel-t-00-59-10) | 1 |
 
 </details>
 </section>
@@ -342,7 +344,15 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1592)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1593)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:59:36](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-israel-t-00-59-10)**
+> "it seems that it's very shared at the top. Patio writes, new shirt idea. We don't know how they know what they knew regarding our statements yesterday or Pastor Hibbs statements yesterday regarding Israel."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (10 mentions)</summary>

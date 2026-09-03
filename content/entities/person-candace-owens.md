@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 2622 mentions"
+description: "Candace Owens (People) - 2634 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24">2025-09-11 · 00:07:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-candace-owens-t-00-50-53">2026-09-01 · 00:50:53</a></strong></div>
-<div><span>Episodes</span><strong>161</strong></div>
-<div><span>Mentions</span><strong>2,622</strong></div>
-<div><span>Statements by</span><strong>4,817</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-01-00-31">2026-09-02 · 01:01:12</a></strong></div>
+<div><span>Episodes</span><strong>162</strong></div>
+<div><span>Mentions</span><strong>2,634</strong></div>
+<div><span>Statements by</span><strong>4,857</strong></div>
 <div><span>Statements about</span><strong>644</strong></div>
-<div><span>Relationships</span><strong>915</strong></div>
+<div><span>Relationships</span><strong>929</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -197,6 +197,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-candace-owens-t-00-01-19" style="--pulse-height:57%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 34 mentions" title="2026-08-21 · 34 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-candace-owens-t-00-01-27" style="--pulse-height:17%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 10 mentions" title="2026-08-31 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-candace-owens-t-00-45-23" style="--pulse-height:12%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 7 mentions" title="2026-09-01 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-01-40" style="--pulse-height:17%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 10 mentions" title="2026-09-02 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -363,6 +364,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-candace-owens-t-00-01-19) | 34 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-candace-owens-t-00-01-27) | 10 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-candace-owens-t-00-45-23) | 7 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-01-40) | 10 |
 
 </details>
 </section>
@@ -374,7 +376,42 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2622)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2634)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (10 mentions)</summary>
+
+**[00:02:06](/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-01-40)**
+> "...ave some fun. Welcome back to Candace."
+
+**[00:29:13](/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-29-13)**
+> "...eff] out of there, which ... [Candace Owens] You didn't see that."
+
+**[00:29:31](/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-29-31)**
+> "[Blake Neff] to do, and ... [Candace Owens] You didn't arrive with Mikey (Michael McCoy)."
+
+**[00:36:02](/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-35-44)**
+> "...d a free gift with promo code CANDACE at checkout."
+
+**[00:36:10](/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-35-44)**
+> "...balanceofnature.com with code CANDACE at checkout."
+
+**[00:37:32](/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-37-04)**
+> "...d? Did you hear what Candace (Candace Owens) said?"
+
+**[00:37:35](/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-37-04)**
+> "...(Tucker Carlson) and Candace (Candace Owens) said? We just don't need it. And I will admit, I..."
+
+**[00:53:10](/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-52-54)**
+> "...xtoothpicks.com. and use code CANDACE at checkout for 10% off your order."
+
+**[00:56:51](/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-56-16)**
+> "...a moment should underestimate Candace Owens' resolve to return to the Foxhole to protect her ..."
+
+**[01:01:12](/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-01-00-31)**
+> "Candace, love you too."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (7 mentions)</summary>
@@ -9702,7 +9739,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (63)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (64)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -9767,6 +9804,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:38:47](/episodes/ep-4JxgOclKzqg.md#t-00-38-47): “I'd like to remind everybody I was the last to comment publicly about the strange behavior of Erika Kirk, and I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:01](/episodes/ep-Wjul6YV6izo.md#t-00-53-24): “Mrs. Kirk is not just behaving inappropriately. She's behaving suspiciously. ... it is always suspicious to tell a lie.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35): “in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:02:29](/episodes/ep-HIlPQ-_dcxM.md#t-01-02-29): “The reason why so many conservabros love it is because they're basically trying to draw this line between people that think Erika Kirk is suspicious to people that want Lindsay Clancy freed or something, some disingenuous line that they're trying to draw, which is completely crazy because they were the ones that were going on vibes of Erika and just saying that we should all ignore the lies that she's told us.”
 
 </details>
 
@@ -9904,7 +9942,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -9915,6 +9953,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:08:32](/episodes/ep-AH1KVKkweUE.md#t-00-08-01): “I mean, Brian Harpole is definitively not the brightest among you, not the most trained among you.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:22:45](/episodes/ep-9hRcfSrri70.md#t-00-22-24): “So he's suing me for saying I found his interview with Shawn Ryan to be unconvincing. That's my constitutional right to think. I'm not arguing with him about that.”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:28:38](/episodes/ep-581dILVcEE4.md#t-00-28-27): “It is an unacceptable answer. Look, I've worked with Brian. Nice guy. That's a ridiculous answer. He should be fired.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51): “suddenly because they're just getting antsy and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well Brian Harpole said there were no threats the night before he was sitting down with Shawn Ryan he was like no nothing so there just seems to be this constant conflict between what various people on the security team and at Turning Point USA recall anyway we will leave it at that we will see you guys tomorrow”
 
 </details>
 
@@ -10046,7 +10085,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (30)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -10078,6 +10117,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:43:23](/episodes/ep-_cNtgris8Ik.md#t-00-43-23): “she had yeah he totally had her back when she got fired from the daily wire yeah andrew that's now now your timeline is pushed up to 2024 i was fired in march of 2024 so how long are you trying to say that we weren't friends for it's just such a nonsense truly let it go blake nobody knows who you are neither did charlie okay you started working for him in 2023 you're not laughing because you don't know anything tyler's laughing because he does And it is,”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:44:09](/episodes/ep-JrhGEm8MGRY.md#t-00-44-09): “And Blake Neff is the least believable person in the world. So glad to know that you guys think that having the State Department and the Department of War behind you is going to win the game, along with billionaires like Bill Ackman who are willing to promote your nonsense. But we see right through all of it. Top comments from the last episode before we went off air: Big Hair Do Care wrote, 'The way she drops these bombs and then goes on vacation.'”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:49](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson). ... That's that's really what happened. You don't know him at all. The fact that you said I saw the donors, his friends, you just you had no idea what sort of a human being Charlie (Charlie Kirk) was. ... And you just had you are so short sighted to think that you could continue his legacy. You just don't have it.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:33:00](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49): “And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer.”
 
 </details>
 
@@ -10192,9 +10232,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Matt Walsh](/entities/person-matt-walsh.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:32:21](/episodes/ep-_vg7ucP1E0g.md#t-00-31-54): “OK, so I absolutely have to comment on Matt Walsh for a tweet that he put out yesterday. I just because I was like. ... OK, that's strong words. So I was just stunned by it because I have to assume he did exactly zero due diligence on this case, a case that I actually followed because it was completely nutty. Now, I'm assuming he was not aware that after Kouri Richins murdered her husband, fentanyl overdose, she at first played the role of a grieving widow for an entire year.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:00:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40): “Yesterday on X, I don't think I've ever done this, by the way, but I did actually have to slap down my former colleague, Matt Walsh, when he perpetuated one of the more disingenuous narratives out there, because I just want to be frank here.”
 
 </details>
 
@@ -10375,11 +10416,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Graham Allen](/entities/person-graham-allen.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:30:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-30-15): “I don't know who's more of a doofus, Graham Allen or Paramount Tactical. It's tough.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:59:55](/episodes/ep-IqHsl7d2dos.md#t-00-59-43): “I'll tell you paramount not so tactical and Graham Allen are not going to save them. I think they probably know that they've got the dumbest people in the world in this information war.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:40:04](/episodes/ep-a2bZf4fic10.md#t-00-39-35): “Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:40:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25): “We also have our resident Pentagon member consultant Graham Allen, who tweeted, are you kidding me? Are you kidding me?”
 
 </details>
 
@@ -10458,9 +10500,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:28:31](/episodes/ep-9CuC1yf8-PU.md#t-00-27-55): “Judge Graff says that's enough. We don't have to produce anything else for this preliminary hearing. You've got to rot in prison until the real trial happens. That is why people believe the fix is in. And I am among the people in that perspective.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:03:49](/episodes/ep-HIlPQ-_dcxM.md#t-00-03-40): “You have a right to have a lawyer. Somehow that could amount to witness tampering. That's insane. And you could sense that Judge Graf, when he handed down that decision, knew that it was insane because he sort of fumbled over his reason as to why he did not dismiss that charge as a constitutional right.”
 
 </details>
 
@@ -10596,11 +10639,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Wilson](/entities/person-andrew-wilson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:47:47](/episodes/ep-4JxgOclKzqg.md#t-00-47-47): “He can't just, he's had days and he still cannot comprehend this. So we are really hoping that Andrew Wilson will be able to understand it. We are done explaining it. It is now on him and coming upon Andrew Wilson to do his best to sit down and understand.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27): “I was hoping to have an opportunity to do that with Andrew Wilson. Obviously, he just is another fed slobber, got a call from Turning Point USA, changed all of his opinions and didn't know what was going on in the case at all.”
 
 </details>
 
@@ -10633,9 +10677,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[David Freiheit](/entities/person-david-freiheit.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:47:47](/episodes/ep-HGtMfbePDKk.md#t-00-47-12): “What do you mean? The lawyer from Canada says it's the opposite, that the cars that look squeezed are totally like legit and Candace is manipulating them with AI enhancement. It's irresponsible people to share that.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:40:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-39-42): “But that's that's the reality. They think the public is stupid. Right. Viva Frei (David Freiheit) echoes this. He sent a tweet. Obviously, I blocked him. He's just proven to be such a fraud. I can't even deal with it. And he's from Canada. So I'm just like, I do not have to engage in this whatsoever.”
 
 </details>
 
@@ -11228,7 +11273,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Defended (13)</summary>
+<summary>Defended (14)</summary>
 
 - **[Marc Anthony](/entities/person-marc-anthony.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -11326,6 +11371,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:55:07](/episodes/ep-QdM9jLwjwLw.md#t-00-54-30): “And when you sued me for that, for standing up for Brett Cooper, I want you to know that I communicated to my legal team that I would accept that.”
+
+</details>
+
+- **[Richard G. Novak](/entities/person-richard-g-novak.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:44:20](/episodes/ep-HIlPQ-_dcxM.md#t-00-44-20): “So what he is doing here and what I've explained to you and you totally obviously are capable of understanding what's happening in the courtroom once someone does explain it to you is the job of the defense in this at this phase when you talk about a probable cause hearing is not to make any arguments they're not talking about their client's guilt or whether their client sent the text message that is for the actual trial they are engaging in the state's”
 
 </details>
 
@@ -12739,10 +12791,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Justin Baldoni](/entities/person-justin-baldoni.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:13:28](/episodes/ep-JrhGEm8MGRY.md#t-00-13-01): “I kid you not, as soon as it clicks for me who she is and her jaw hits the floor and my jaw hits the floor and I look up, I see her husband, ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
 - [I Met My Cousin In Iceland... @ 00:00:00](/episodes/ep-wntKnFzh9Gs.md#t-00-00-00): “Ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
+- [I Was Heartbroken... 💔 @ 00:00:00](/episodes/ep-BTn1Z0t_kno.md#t-00-00-00): “He (Justin Baldoni) did tell me one thing that was really disturbing, and I have to share it.”
 
 </details>
 
@@ -12827,7 +12880,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Spoke With (5)</summary>
+<summary>Spoke With (6)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -12861,6 +12914,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:03:43](/episodes/ep-t4U7NjnUEgc.md#t-00-03-23): “The person that I spoke with, his name is or was Harry (Harry Myers).”
+
+</details>
+
+- **[Baron Coleman](/entities/person-baron-coleman.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31): “I'm going to show you, by the way, that clip, which was captured, actually somebody on TikTok, I think, sent it to Baron Coleman and then Baron showed it to me and he's like, why is Nate Walker upstairs?”
 
 </details>
 
@@ -12958,7 +13018,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Supported By (6)</summary>
+<summary>Supported By (10)</summary>
 
 - **[Hasan Piker](/entities/person-hasan-piker.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -13000,6 +13060,34 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:54](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And the rest is future. Now, to jog your memory beyond that, John (John Mappin) and Irina (Irina Mappin) have been among the most vociferous, I should say, supporters from the very beginning of the Charlie Kirk investigation—my investigation.”
+
+</details>
+
+- **[Outskill](/entities/org-outskill.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:34:23](/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16): “That's why Outskill created their three-hour AI tools workshop. It's a live workshop happening again this Saturday at 10 a.m. Eastern.”
+
+</details>
+
+- **[Balance of Nature](/entities/org-balance-of-nature.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:35:09](/episodes/ep-HIlPQ-_dcxM.md#t-00-35-01): “I also want to remind you guys about Balance of Nature because as a mom, I don't have time to read a supplement label that looks like it requires a chemistry degree.”
+
+</details>
+
+- **[Z-Pix](/entities/org-z-pix.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:52:24](/episodes/ep-HIlPQ-_dcxM.md#t-00-52-12): “Anyway, we'll be right back after a break. All right, you guys, this episode is brought to you by Zippix nicotine infused toothpicks. Zippix gives you a clean, convenient and surprisingly satisfying way to curb your nicotine cravings without smoke, without vapor, without the long list of synthetic ingredients that you find in most modern nicotine products.”
+
+</details>
+
+- **[American Financing](/entities/org-american-financing.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:53:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-52-54): “Zip more, smoke less with Zippix nicotine toothpicks. I also want to remind you guys about American financing because it is no secret that everything is starting to feel a lot more expensive these days.”
 
 </details>
 
@@ -13166,7 +13254,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Worked With (18)</summary>
+<summary>Worked With (19)</summary>
 
 - **[Goldco](/entities/org-goldco.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -13326,10 +13414,17 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Matt Walsh](/entities/person-matt-walsh.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:00:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40): “Yesterday on X, I don't think I've ever done this, by the way, but I did actually have to slap down my former colleague, Matt Walsh, when he perpetuated one of the more disingenuous narratives out there, because I just want to be frank here.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (448)</summary>
+<summary>Referenced By (455)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -14526,7 +14621,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (63)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (64)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -14591,6 +14686,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:38:47](/episodes/ep-4JxgOclKzqg.md#t-00-38-47): “I'd like to remind everybody I was the last to comment publicly about the strange behavior of Erika Kirk, and I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:01](/episodes/ep-Wjul6YV6izo.md#t-00-53-24): “Mrs. Kirk is not just behaving inappropriately. She's behaving suspiciously. ... it is always suspicious to tell a lie.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35): “in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:02:29](/episodes/ep-HIlPQ-_dcxM.md#t-01-02-29): “The reason why so many conservabros love it is because they're basically trying to draw this line between people that think Erika Kirk is suspicious to people that want Lindsay Clancy freed or something, some disingenuous line that they're trying to draw, which is completely crazy because they were the ones that were going on vibes of Erika and just saying that we should all ignore the lies that she's told us.”
 
 </details>
 
@@ -14727,7 +14823,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -14738,6 +14834,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:08:32](/episodes/ep-AH1KVKkweUE.md#t-00-08-01): “I mean, Brian Harpole is definitively not the brightest among you, not the most trained among you.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:22:45](/episodes/ep-9hRcfSrri70.md#t-00-22-24): “So he's suing me for saying I found his interview with Shawn Ryan to be unconvincing. That's my constitutional right to think. I'm not arguing with him about that.”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:28:38](/episodes/ep-581dILVcEE4.md#t-00-28-27): “It is an unacceptable answer. Look, I've worked with Brian. Nice guy. That's a ridiculous answer. He should be fired.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51): “suddenly because they're just getting antsy and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well Brian Harpole said there were no threats the night before he was sitting down with Shawn Ryan he was like no nothing so there just seems to be this constant conflict between what various people on the security team and at Turning Point USA recall anyway we will leave it at that we will see you guys tomorrow”
 
 </details>
 
@@ -14869,7 +14966,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (30)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -14901,6 +14998,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:43:23](/episodes/ep-_cNtgris8Ik.md#t-00-43-23): “she had yeah he totally had her back when she got fired from the daily wire yeah andrew that's now now your timeline is pushed up to 2024 i was fired in march of 2024 so how long are you trying to say that we weren't friends for it's just such a nonsense truly let it go blake nobody knows who you are neither did charlie okay you started working for him in 2023 you're not laughing because you don't know anything tyler's laughing because he does And it is,”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:44:09](/episodes/ep-JrhGEm8MGRY.md#t-00-44-09): “And Blake Neff is the least believable person in the world. So glad to know that you guys think that having the State Department and the Department of War behind you is going to win the game, along with billionaires like Bill Ackman who are willing to promote your nonsense. But we see right through all of it. Top comments from the last episode before we went off air: Big Hair Do Care wrote, 'The way she drops these bombs and then goes on vacation.'”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:49](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson). ... That's that's really what happened. You don't know him at all. The fact that you said I saw the donors, his friends, you just you had no idea what sort of a human being Charlie (Charlie Kirk) was. ... And you just had you are so short sighted to think that you could continue his legacy. You just don't have it.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:33:00](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49): “And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer.”
 
 </details>
 
@@ -15015,9 +15113,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Matt Walsh](/entities/person-matt-walsh.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:32:21](/episodes/ep-_vg7ucP1E0g.md#t-00-31-54): “OK, so I absolutely have to comment on Matt Walsh for a tweet that he put out yesterday. I just because I was like. ... OK, that's strong words. So I was just stunned by it because I have to assume he did exactly zero due diligence on this case, a case that I actually followed because it was completely nutty. Now, I'm assuming he was not aware that after Kouri Richins murdered her husband, fentanyl overdose, she at first played the role of a grieving widow for an entire year.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:00:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40): “Yesterday on X, I don't think I've ever done this, by the way, but I did actually have to slap down my former colleague, Matt Walsh, when he perpetuated one of the more disingenuous narratives out there, because I just want to be frank here.”
 
 </details>
 
@@ -15198,11 +15297,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Graham Allen](/entities/person-graham-allen.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:30:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-30-15): “I don't know who's more of a doofus, Graham Allen or Paramount Tactical. It's tough.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:59:55](/episodes/ep-IqHsl7d2dos.md#t-00-59-43): “I'll tell you paramount not so tactical and Graham Allen are not going to save them. I think they probably know that they've got the dumbest people in the world in this information war.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:40:04](/episodes/ep-a2bZf4fic10.md#t-00-39-35): “Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:40:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25): “We also have our resident Pentagon member consultant Graham Allen, who tweeted, are you kidding me? Are you kidding me?”
 
 </details>
 
@@ -15281,9 +15381,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:28:31](/episodes/ep-9CuC1yf8-PU.md#t-00-27-55): “Judge Graff says that's enough. We don't have to produce anything else for this preliminary hearing. You've got to rot in prison until the real trial happens. That is why people believe the fix is in. And I am among the people in that perspective.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:03:49](/episodes/ep-HIlPQ-_dcxM.md#t-00-03-40): “You have a right to have a lawyer. Somehow that could amount to witness tampering. That's insane. And you could sense that Judge Graf, when he handed down that decision, knew that it was insane because he sort of fumbled over his reason as to why he did not dismiss that charge as a constitutional right.”
 
 </details>
 
@@ -15419,11 +15520,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Wilson](/entities/person-andrew-wilson.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:47:47](/episodes/ep-4JxgOclKzqg.md#t-00-47-47): “He can't just, he's had days and he still cannot comprehend this. So we are really hoping that Andrew Wilson will be able to understand it. We are done explaining it. It is now on him and coming upon Andrew Wilson to do his best to sit down and understand.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27): “I was hoping to have an opportunity to do that with Andrew Wilson. Obviously, he just is another fed slobber, got a call from Turning Point USA, changed all of his opinions and didn't know what was going on in the case at all.”
 
 </details>
 
@@ -15456,9 +15558,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[David Freiheit](/entities/person-david-freiheit.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:47:47](/episodes/ep-HGtMfbePDKk.md#t-00-47-12): “What do you mean? The lawyer from Canada says it's the opposite, that the cars that look squeezed are totally like legit and Candace is manipulating them with AI enhancement. It's irresponsible people to share that.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:40:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-39-42): “But that's that's the reality. They think the public is stupid. Right. Viva Frei (David Freiheit) echoes this. He sent a tweet. Obviously, I blocked him. He's just proven to be such a fraud. I can't even deal with it. And he's from Canada. So I'm just like, I do not have to engage in this whatsoever.”
 
 </details>
 
@@ -15838,6 +15941,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:55:07](/episodes/ep-QdM9jLwjwLw.md#t-00-54-30): “And when you sued me for that, for standing up for Brett Cooper, I want you to know that I communicated to my legal team that I would accept that.”
+
+</details>
+
+- **[Richard G. Novak](/entities/person-richard-g-novak.md)** defended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:44:20](/episodes/ep-HIlPQ-_dcxM.md#t-00-44-20): “So what he is doing here and what I've explained to you and you totally obviously are capable of understanding what's happening in the courtroom once someone does explain it to you is the job of the defense in this at this phase when you talk about a probable cause hearing is not to make any arguments they're not talking about their client's guilt or whether their client sent the text message that is for the actual trial they are engaging in the state's”
 
 </details>
 
@@ -17047,10 +17157,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Justin Baldoni](/entities/person-justin-baldoni.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:13:28](/episodes/ep-JrhGEm8MGRY.md#t-00-13-01): “I kid you not, as soon as it clicks for me who she is and her jaw hits the floor and my jaw hits the floor and I look up, I see her husband, ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
 - [I Met My Cousin In Iceland... @ 00:00:00](/episodes/ep-wntKnFzh9Gs.md#t-00-00-00): “Ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
+- [I Was Heartbroken... 💔 @ 00:00:00](/episodes/ep-BTn1Z0t_kno.md#t-00-00-00): “He (Justin Baldoni) did tell me one thing that was really disturbing, and I have to share it.”
 
 </details>
 
@@ -17107,6 +17218,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:03:43](/episodes/ep-t4U7NjnUEgc.md#t-00-03-23): “The person that I spoke with, his name is or was Harry (Harry Myers).”
+
+</details>
+
+- **[Baron Coleman](/entities/person-baron-coleman.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31): “I'm going to show you, by the way, that clip, which was captured, actually somebody on TikTok, I think, sent it to Baron Coleman and then Baron showed it to me and he's like, why is Nate Walker upstairs?”
 
 </details>
 
@@ -17282,6 +17400,34 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Outskill](/entities/org-outskill.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:34:23](/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16): “That's why Outskill created their three-hour AI tools workshop. It's a live workshop happening again this Saturday at 10 a.m. Eastern.”
+
+</details>
+
+- **[Balance of Nature](/entities/org-balance-of-nature.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:35:09](/episodes/ep-HIlPQ-_dcxM.md#t-00-35-01): “I also want to remind you guys about Balance of Nature because as a mom, I don't have time to read a supplement label that looks like it requires a chemistry degree.”
+
+</details>
+
+- **[Z-Pix](/entities/org-z-pix.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:52:24](/episodes/ep-HIlPQ-_dcxM.md#t-00-52-12): “Anyway, we'll be right back after a break. All right, you guys, this episode is brought to you by Zippix nicotine infused toothpicks. Zippix gives you a clean, convenient and surprisingly satisfying way to curb your nicotine cravings without smoke, without vapor, without the long list of synthetic ingredients that you find in most modern nicotine products.”
+
+</details>
+
+- **[American Financing](/entities/org-american-financing.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:53:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-52-54): “Zip more, smoke less with Zippix nicotine toothpicks. I also want to remind you guys about American financing because it is no secret that everything is starting to feel a lot more expensive these days.”
+
+</details>
+
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** target of criticism from this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -17448,6 +17594,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Matt Walsh](/entities/person-matt-walsh.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:00:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40): “Yesterday on X, I don't think I've ever done this, by the way, but I did actually have to slap down my former colleague, Matt Walsh, when he perpetuated one of the more disingenuous narratives out there, because I just want to be frank here.”
+
+</details>
+
 - **[Schuyler Pryor](/entities/person-schuyler-pryor.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
@@ -17498,7 +17651,132 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (4817)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (4857)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (40)</summary>
+
+- [00:00:01](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-01) [○] (Claim) ["Owens said Utah had cleared the preliminary-hearing threshold to bring Tyler Rob..."](/statements/statement-325bd3c50336.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah Rule of Evidence 1102](/entities/law-utah-evidence-rule-1102.md)
+
+- [00:01:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-01-40) [○] (Claim) ["Owens said Robinson accompanied his father to the police station after being tol..."](/statements/statement-7f8d126d9121.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:03:13](/episodes/ep-HIlPQ-_dcxM.md#t-00-03-03) [○] (Opinion) ["Owens said the only part of Judge Graf’s ruling that surprised her was his refus..."](/statements/statement-2a1d3a7ca6d0.md)
+  - About: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:08:45](/episodes/ep-HIlPQ-_dcxM.md#t-00-08-40) [○] (Accusation) ["Owens said Bill Ackman had offered Robinson’s father a million dollars amid a na..."](/statements/statement-462c8e68c829.md)
+  - About: [Bill Ackman](/entities/person-bill-ackman.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:09:23](/episodes/ep-HIlPQ-_dcxM.md#t-00-09-23) [○] (Claim) ["Owens said Tyler Robinson immediately denied involvement, that his father believ..."](/statements/statement-322122311b03.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:11:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-11-11) [○] (Claim) ["Owens presented a diagram identifying five vehicles affiliated with Turning Poin..."](/statements/statement-8a5a1679a627.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Jeep Wagoneer (model)](/entities/vehicle-jeep-wagoneer-model.md)
+
+- [00:11:22](/episodes/ep-HIlPQ-_dcxM.md#t-00-11-11) [○] (Claim) ["Owens identified Alex Faria, whose identity remains unverified, as an occupant o..."](/statements/statement-c4acd967e5e8.md)
+  - About: [Alex Faria (security team member; identity unverified)](/entities/anon-src-HIlPQ-_dcxM-001.md), [Jeep Wagoneer (model)](/entities/vehicle-jeep-wagoneer-model.md)
+
+- [00:12:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-19) [○] (Claim) ["Owens identified Justin Davis as the Lincoln Navigator’s driver and said Dan Flo..."](/statements/statement-5e9ac3dcdaf9.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Dan Flood](/entities/person-dan-flood.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:12:42](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-19) [○] (Claim) ["Owens said Justin Davis, who arrived driving a different vehicle, drove Christop..."](/statements/statement-d002a18b072e.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)
+
+- [00:12:56](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-56) [○] (Claim) ["Owens said the core security team arrived at UVU between 9 and 9:30 a.m., indepe..."](/statements/statement-7e5189a9476c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Restaurantology](/entities/work-restaurantology.md)
+
+- [00:13:39](/episodes/ep-HIlPQ-_dcxM.md#t-00-13-39) [○] (Claim) ["Owens said Charlie Kirk and Michael McCoy arrived in one Yukon Denali driven by ..."](/statements/statement-4a1f23a7c4ab.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)
+
+- [00:14:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-14-18) [○] (Claim) ["Owens said Danny Philip drove the other Yukon Denali and Blake Neff sat in its b..."](/statements/statement-33ee8042daf0.md)
+  - About: [Danny Philip](/entities/person-danny-philip.md), [Blake Neff](/entities/person-blake-neff.md), [GMC Yukon Denali (model)](/entities/vehicle-gmc-yukon-denali-model.md)
+
+- [00:15:10](/episodes/ep-HIlPQ-_dcxM.md#t-00-15-00) [○] (Claim) ["Owens said footage established the Hyundai Palisade was a Turning Point USA vehi..."](/statements/statement-a7052c652586.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Hyundai Palisade (model)](/entities/vehicle-hyundai-palisade-model.md)
+
+- [00:15:58](/episodes/ep-HIlPQ-_dcxM.md#t-00-15-34) [○] (Claim) ["Owens said Charlie Kirk was placed in the SUV within roughly 45 seconds of being..."](/statements/statement-58a05c26ba59.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15) [○] (Accusation) ["Owens said Erika Kirk initially denied Charlie Kirk’s expressed fear for his lif..."](/statements/statement-24bd012b606d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:46](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15) [○] (Claim) ["Owens said associates now reported that Charlie Kirk wanted his security people ..."](/statements/statement-627e7f28cfb6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-51) [○] (Claim) ["Owens interpreted footage as showing Christopher, the security driver whose surn..."](/statements/statement-6be396356cec.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Nate Walker](/entities/person-nate-walker.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31) [○] (Claim) ["Owens said she thought someone on TikTok sent the upstairs footage to Baron Cole..."](/statements/statement-93ee69f0d28c.md)
+  - About: [Baron Coleman](/entities/person-baron-coleman.md), [TikTok](/entities/org-tiktok.md)
+
+- [00:19:17](/episodes/ep-HIlPQ-_dcxM.md#t-00-18-55) [○] (Opinion) ["Owens speculated that the keys were apparently waiting in Kirk’s vehicle or some..."](/statements/statement-dd40b4f290ff.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:19:45](/episodes/ep-HIlPQ-_dcxM.md#t-00-19-36) [○] (Claim) ["Owens said footage showed Justin Davis sprinting to the vehicle and opening the ..."](/statements/statement-81d82e2d624c.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md)
+
+- [00:20:17](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17) [○] (Claim) ["Owens interpreted footage as showing Danny Philip and Michael McCoy converging a..."](/statements/statement-9da69ba1bd66.md)
+  - About: [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Justin Davis](/entities/person-justin-davis.md)
+
+- [00:21:49](/episodes/ep-HIlPQ-_dcxM.md#t-00-21-49) [○] (Opinion) ["Owens said she thought the bag left behind belonged to Christopher, explicitly s..."](/statements/statement-74d8e5e59ef8.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)
+
+- [00:24:47](/episodes/ep-HIlPQ-_dcxM.md#t-00-24-25) [○] (Citation) ["Owens recalled that an event-planning source had said a clean vehicle exit was o..."](/statements/statement-67fb746f70cb.md)
+  - About: [Anonymous Source #3 (Ep 1mYNOqzAdXs)](/entities/anon-src-1mYNOqzAdXs-003.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:26:06](/episodes/ep-HIlPQ-_dcxM.md#t-00-25-38) [○] (Claim) ["Owens said sources with direct knowledge told her the unused SUVs did not go to ..."](/statements/statement-2c5e8e54d8ca.md)
+  - About: [Vehicle-disposition sources (identity unverified)](/entities/anon-src-HIlPQ-_dcxM-006.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:27:28](/episodes/ep-HIlPQ-_dcxM.md#t-00-27-28) [○] (Claim) ["Owens said Nate Walker, Blake Neff, Danny Philip and Michael McCoy arrived at th..."](/statements/statement-6fbf8869cb71.md)
+  - About: [Nate Walker](/entities/person-nate-walker.md), [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md)
+
+- [00:32:29](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-09) [○] (Accusation) ["Owens disputed Neff’s account by saying the SUVs were not taken to the hospital ..."](/statements/statement-f6c481e94b3b.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:33:07](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49) [○] (Opinion) ["Owens expressed the view that Blake Neff needed Tyler Robinson to be guilty."](/statements/statement-ad1953d0acc9.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:36:39](/episodes/ep-HIlPQ-_dcxM.md#t-00-36-25) [○] (Opinion) ["Owens criticized male podcasters for repeatedly complaining about isolated extre..."](/statements/statement-740ebaf1c0e8.md)
+  - About: [Lindsay Clancy](/entities/person-lindsay-clancy.md)
+
+- [00:40:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-39-42) [○] (Claim) ["Owens said Viva Frei echoed the court-clip criticism and that she had blocked hi..."](/statements/statement-46e4bb83a17d.md)
+  - About: [David Freiheit](/entities/person-david-freiheit.md)
+
+- [00:40:44](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) [○] (Claim) ["Owens said Blake Neff and Brandon Tatum posted identical wording about Richard N..."](/statements/statement-b632c30b4ea5.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Brandon Tatum](/entities/person-brandon-tatum.md), [Richard G. Novak](/entities/person-richard-g-novak.md)
+
+- [00:44:20](/episodes/ep-HIlPQ-_dcxM.md#t-00-44-20) [○] (Accusation) ["Owens said Novak was challenging an unsupported inference about political motiva..."](/statements/statement-a34cfc13e0e7.md)
+  - About: [Richard G. Novak](/entities/person-richard-g-novak.md), [Matt Walsh](/entities/person-matt-walsh.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:47:59](/episodes/ep-HIlPQ-_dcxM.md#t-00-47-35) [○] (Citation) ["Owens cited page 32 of the defense’s August 11 filing as arguing that the state ..."](/statements/statement-db383b01e9d8.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:47:59](/episodes/ep-HIlPQ-_dcxM.md#t-00-47-35) [○] (Claim) ["Owens said Pastor David Engelhardt’s statement had been presented to support the..."](/statements/statement-a3057ac2e3fc.md)
+  - About: [David Engelhardt](/entities/person-david-engelhardt.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27) [○] (Accusation) ["Owens accused Andrew Wilson of changing his opinions after receiving a call from..."](/statements/statement-e372a148e703.md)
+  - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:54:57](/episodes/ep-HIlPQ-_dcxM.md#t-00-54-57) [○] (Claim) ["Owens said her team reviewed Michael McCoy’s press appearances and found no dire..."](/statements/statement-dedd8079f893.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Jack Hibbs](/entities/person-jack-hibbs.md)
+
+- [00:55:16](/episodes/ep-HIlPQ-_dcxM.md#t-00-54-57) [○] (Opinion) ["Owens estimated that Michael McCoy looked back for about 0.75 seconds and argued..."](/statements/statement-780c0370d063.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:00:36](/episodes/ep-HIlPQ-_dcxM.md#t-01-00-31) [○] (Prediction) ["Owens predicted an awakening beyond the authorities’ control if they executed so..."](/statements/statement-f46930679dd3.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [01:02:29](/episodes/ep-HIlPQ-_dcxM.md#t-01-02-29) [○] (Opinion) ["Owens criticized commentators for equating suspicion about Erika Kirk with suppo..."](/statements/statement-c77dd45d084f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lindsay Clancy](/entities/person-lindsay-clancy.md)
+
+- [01:04:37](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-15) [○] (Claim) ["Owens said she was withholding some material because of the Brian Harpole case."](/statements/statement-3dd1fd49a055.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51) [○] (Accusation) ["Owens said Brian Harpole told Shawn Ryan there had been no threats the night bef..."](/statements/statement-71ee6a67771e.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Shawn Ryan](/entities/person-shawn-ryan.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>I Met My Cousin In Iceland... (5)</summary>

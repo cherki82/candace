@@ -1,6 +1,6 @@
 ---
 title: "United States Pentagon"
-description: "United States Pentagon (Organizations) - 48 mentions"
+description: "United States Pentagon (Organizations) - 52 mentions"
 id: "org-united-states-pentagon"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-united-states-pentagon-t-00-04-43">2025-09-18 · 00:04:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-united-states-pentagon-t-00-34-51">2026-08-31 · 00:34:51</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>48</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-united-states-pentagon-t-00-40-25">2026-09-02 · 00:40:25</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -52,6 +52,7 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-pentagon-t-01-01-34" style="--pulse-height:10%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-pentagon-t-00-38-49" style="--pulse-height:30%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-united-states-pentagon-t-00-27-53" style="--pulse-height:70%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 7 mentions" title="2026-08-31 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-united-states-pentagon-t-00-08-40" style="--pulse-height:40%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 4 mentions" title="2026-09-02 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +74,7 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-pentagon-t-01-01-34) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-pentagon-t-00-38-49) | 3 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-united-states-pentagon-t-00-27-53) | 7 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-united-states-pentagon-t-00-08-40) | 4 |
 
 </details>
 </section>
@@ -84,7 +86,24 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (4 mentions)</summary>
+
+**[00:08:45](/episodes/ep-HIlPQ-_dcxM.md#ent-org-united-states-pentagon-t-00-08-40)**
+> "like I said you were told by so many Pentagon influences at different time that Tyler Robinson was guilty I mean there was even a story they just magically dropped it that is his father was just so brave and took him to the police station because he knew his son was guilty we told you that is not true Bill Ackman was going to give him a million dollars they just sort of dropped that narrative entirely because there was no truth and no substance to what they were saying it's like a foundational lie they then told us that you know Tyler Robinson confessed it he"
+
+**[00:00:21](/episodes/ep-HIlPQ-_dcxM.md#ent-org-united-states-pentagon-t-00-00-01)**
+> "...ing to be a long few years of Pentagon."
+
+**[00:08:01](/episodes/ep-HIlPQ-_dcxM.md#ent-org-united-states-pentagon-t-00-07-45)**
+> "...not exactly what the orbit of Pentagon influencers have been telling you. Take a listen."
+
+**[00:40:25](/episodes/ep-HIlPQ-_dcxM.md#ent-org-united-states-pentagon-t-00-40-25)**
+> "We also have our resident Pentagon member consultant Graham Allen, who tweeted, are ..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (7 mentions)</summary>

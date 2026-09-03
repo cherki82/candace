@@ -1,6 +1,6 @@
 ---
 title: "Nate Walker"
-description: "Nate Walker (People) - 8 mentions"
+description: "Nate Walker (People) - 12 mentions"
 id: "person-nate-walker"
 type: "PERSON"
 categories:
@@ -18,23 +18,24 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-nate-walker-t-00-03-25">2026-07-16 · 00:03:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-nate-walker-t-00-20-31">2026-09-01 · 00:21:07</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-nate-walker-t-00-32-49">2026-09-02 · 00:32:49</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-nate-walker-t-00-23-31">LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-nate-walker-t-00-16-51">Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-nate-walker-t-00-03-25" style="--pulse-height:67%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-nate-walker-t-00-10-50" style="--pulse-height:67%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-nate-walker-t-00-23-31" style="--pulse-height:100%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-nate-walker-t-00-20-31" style="--pulse-height:33%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-nate-walker-t-00-03-25" style="--pulse-height:50%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-nate-walker-t-00-10-50" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-nate-walker-t-00-23-31" style="--pulse-height:75%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-nate-walker-t-00-20-31" style="--pulse-height:25%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-nate-walker-t-00-16-51" style="--pulse-height:100%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 4 mentions" title="2026-09-02 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-nate-walker-t-00-10-50) | 2 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-nate-walker-t-00-23-31) | 3 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-nate-walker-t-00-20-31) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-nate-walker-t-00-16-51) | 4 |
 
 </details>
 </section>
@@ -55,7 +57,24 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (4 mentions)</summary>
+
+**[00:17:03](/episodes/ep-HIlPQ-_dcxM.md#ent-person-nate-walker-t-00-16-51)**
+> "Yet Christopher (security driver; surname unverified), for some odd reason, Minutes before Charlie (Charlie Kirk) gets hit, he decides to go upstairs with Nate Walker, and he is upstairs when the shot goes off. So Chris (Christopher; security driver; surname unverified), the security person who has the keys, who locks the car, is upstairs when the explosive goes off."
+
+**[00:17:31](/episodes/ep-HIlPQ-_dcxM.md#ent-person-nate-walker-t-00-17-31)**
+> "...t to me and he's like, why is Nate Walker upstairs?"
+
+**[00:27:28](/episodes/ep-HIlPQ-_dcxM.md#ent-person-nate-walker-t-00-27-28)**
+> "...we know that it's going to be Nate Walker and Blake (Blake Neff) and Danny Philip and Mikey..."
+
+**[00:32:49](/episodes/ep-HIlPQ-_dcxM.md#ent-person-nate-walker-t-00-32-49)**
+> "What was Nate Walker doing upstairs with the security a couple of minu..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
@@ -107,6 +126,18 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-51): “Yet Christopher (security driver; surname unverified), for some odd reason, Minutes before Charlie (Charlie Kirk) gets hit, he decides to go upstairs with Nate Walker, and he is upstairs when the shot goes off. So Chris (Christopher; security driver; surname unverified), the security person who has the keys, who locks the car, is upstairs when the explosive goes off.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Assistant To (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -144,7 +175,14 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-51): “Yet Christopher (security driver; surname unverified), for some odd reason, Minutes before Charlie (Charlie Kirk) gets hit, he decides to go upstairs with Nate Walker, and he is upstairs when the shot goes off. So Chris (Christopher; security driver; surname unverified), the security person who has the keys, who locks the car, is upstairs when the explosive goes off.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** has assistant this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -189,7 +227,18 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nate Walker (4)</strong></summary>
+<summary><strong class="section-title">Statements about Nate Walker (6)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2)</summary>
+
+- [00:17:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-51) (Claim) **Candace Owens**: ["Owens interpreted footage as showing Christopher, the security driver ..."](/statements/statement-6be396356cec.md)
+  - Also about: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Sorensen Center](/entities/org-sorensen-center.md)
+
+- [00:27:28](/episodes/ep-HIlPQ-_dcxM.md#t-00-27-28) (Claim) **Candace Owens**: ["Owens said Nate Walker, Blake Neff, Danny Philip and Michael McCoy arr..."](/statements/statement-6fbf8869cb71.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

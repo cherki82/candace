@@ -1,6 +1,6 @@
 ---
 title: "Brandon Tatum"
-description: "Brandon Tatum (People) - 8 mentions"
+description: "Brandon Tatum (People) - 10 mentions"
 id: "person-brandon-tatum"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [U.S. House Judiciary — Brandon Tatum Bio](https://docs.house.gov/meet
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-brandon-tatum-t-00-57-31">2025-09-16 · 00:58:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-brandon-tatum-t-00-49-01">2026-08-31 · 00:49:30</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-brandon-tatum-t-00-41-07">2026-09-02 · 00:41:07</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,6 +35,7 @@ Source: [U.S. House Judiciary — Brandon Tatum Bio](https://docs.house.gov/meet
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-brandon-tatum-t-01-05-08" style="--pulse-height:33%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-brandon-tatum-t-00-00-46" style="--pulse-height:33%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-brandon-tatum-t-00-37-46" style="--pulse-height:67%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-brandon-tatum-t-00-40-25" style="--pulse-height:67%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [U.S. House Judiciary — Brandon Tatum Bio](https://docs.house.gov/meet
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-brandon-tatum-t-01-05-08) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-brandon-tatum-t-00-00-46) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-brandon-tatum-t-00-37-46) | 2 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-brandon-tatum-t-00-40-25) | 2 |
 
 </details>
 </section>
@@ -52,7 +54,18 @@ Source: [U.S. House Judiciary — Brandon Tatum Bio](https://docs.house.gov/meet
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
+
+**[00:40:44](/episodes/ep-HIlPQ-_dcxM.md#ent-person-brandon-tatum-t-00-40-25)**
+> "Then we had at the same time. Blake Neff and Brandon Tatum sent out an identical tweet. I'm sorry, not at the same time, but it was an identical tweet."
+
+**[00:41:07](/episodes/ep-HIlPQ-_dcxM.md#ent-person-brandon-tatum-t-00-41-07)**
+> "...at I have a relationship with Brandon Tatum. I'm not going to say and try to argue that they'..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>
@@ -109,6 +122,18 @@ Source: [U.S. House Judiciary — Brandon Tatum Bio](https://docs.house.gov/meet
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized (1)</summary>
+
+- **[Richard G. Novak](/entities/person-richard-g-novak.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:40:52](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25): “Outrageous moment in court as defense attorney Richard Novak starts trashing Charlie (Charlie Kirk), declaring that it is true. Charlie (Charlie Kirk) spoke hatefully about people who were not heterosexual or had sex outside of marriage.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
@@ -121,7 +146,14 @@ Source: [U.S. House Judiciary — Brandon Tatum Bio](https://docs.house.gov/meet
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Richard G. Novak](/entities/person-richard-g-novak.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:40:52](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25): “Outrageous moment in court as defense attorney Richard Novak starts trashing Charlie (Charlie Kirk), declaring that it is true. Charlie (Charlie Kirk) spoke hatefully about people who were not heterosexual or had sex outside of marriage.”
+
+</details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -129,6 +161,32 @@ Source: [U.S. House Judiciary — Brandon Tatum Bio](https://docs.house.gov/meet
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:58:03](/episodes/ep-q7f8r-THr84.md#t-00-57-31): “He was doing a ton of podcasts in America. He went on to Patrick Bet-David's podcast. He went on to Brandon Tatum's podcast.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Brandon Tatum (1)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [00:40:44](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) [○] (Opinion) ["Brandon Tatum described Richard Novak’s comments in court as an outrageous momen..."](/statements/statement-2d327d66c9eb.md)
+  - About: [Richard G. Novak](/entities/person-richard-g-novak.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Brandon Tatum (1)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [00:40:44](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) (Claim) **Candace Owens**: ["Owens said Blake Neff and Brandon Tatum posted identical wording about..."](/statements/statement-b632c30b4ea5.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Richard G. Novak](/entities/person-richard-g-novak.md)
 
 </details>
 

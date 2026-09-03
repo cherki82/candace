@@ -18,7 +18,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (156 times)
+## Mentioned In (157 times)
 
 ### 1. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
@@ -1276,3 +1276,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=280s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > another character who was present on September 10th at UVU.
+
+### 157. Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footag...
+
+**Episode:** [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md)
+**Timestamp:** [00:28:38](/episodes/ep-HIlPQ-_dcxM.md#t-00-28-38) 
+<a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=1718s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> The shooting occurs. I am next to Mikey. Both of us hear a loud crack. We both turn. We both see Charlie who has been shot. ... Both of us, I think at about the same time, realized that that means there is a shooter who is on the scene.

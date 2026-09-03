@@ -1,6 +1,6 @@
 ---
 title: "WhatsApp"
-description: "WhatsApp (Organizations) - 1 mention"
+description: "WhatsApp (Organizations) - 2 mentions"
 id: "org-whatsapp"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [About Us | WhatsApp](https://www.whatsapp.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-whatsapp-t-00-55-45">2026-08-06 · 00:56:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-whatsapp-t-00-55-45">2026-08-06 · 00:56:13</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-whatsapp-t-00-35-01">2026-09-02 · 00:35:01</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [About Us | WhatsApp](https://www.whatsapp.com/about)
 <p>Highest activity: <a href="/episodes/ep-ChuWo-n49B8.md#ent-org-whatsapp-t-00-55-45">LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-org-whatsapp-t-00-55-45" style="--pulse-height:100%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-whatsapp-t-00-35-01" style="--pulse-height:100%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-whatsapp-t-00-55-45) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-whatsapp-t-00-35-01) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [About Us | WhatsApp](https://www.whatsapp.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:35:01](/episodes/ep-HIlPQ-_dcxM.md#ent-org-whatsapp-t-00-35-01)**
+> "The workshop is free, but seats are limited. Hit the link in the description, scan the QR code and join the WhatsApp community before registration closes."
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>

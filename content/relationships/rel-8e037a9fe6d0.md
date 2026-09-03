@@ -11,7 +11,11 @@ object: "person-richard-g-novak"
 
 ## [Tyler Robinson](/entities/person-tyler-robinson) represented by [Richard G. Novak](/entities/person-richard-g-novak)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM)**
+
+- [00:41:58](/episodes/ep-HIlPQ-_dcxM#t-00-41-58): _So this is Tyler Robinson's lawyer, Richard Novak. I'm going to let you listen to his words and then I'm going to._
 
 **[EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns)**
 

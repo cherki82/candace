@@ -1,6 +1,6 @@
 ---
 title: "TikTok"
-description: "TikTok (Organizations) - 63 mentions"
+description: "TikTok (Organizations) - 65 mentions"
 id: "org-tiktok"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About TikTok](https://www.tiktok.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-tiktok-t-00-43-29">2025-09-19 · 00:43:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27">2026-08-14 · 00:27:46</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>63</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-tiktok-t-00-36-25">2026-09-02 · 00:36:25</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>65</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -63,6 +63,7 @@ Source: [About TikTok](https://www.tiktok.com/about)
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-org-tiktok-t-00-36-05" style="--pulse-height:38%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27" style="--pulse-height:12%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-tiktok-t-00-02-49" style="--pulse-height:12%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-tiktok-t-00-17-31" style="--pulse-height:25%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -100,6 +101,7 @@ Source: [About TikTok](https://www.tiktok.com/about)
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-tiktok-t-00-36-05) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-tiktok-t-00-02-49) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-tiktok-t-00-17-31) | 2 |
 
 </details>
 </section>
@@ -111,7 +113,18 @@ Source: [About TikTok](https://www.tiktok.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (63)</strong></summary>
+<summary><strong class="section-title">Raw mentions (65)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
+
+**[00:17:31](/episodes/ep-HIlPQ-_dcxM.md#ent-org-tiktok-t-00-17-31)**
+> "I'm going to show you, by the way, that clip, which was captured, actually somebody on TikTok, I think, sent it to Baron Coleman and then Baron showed it to me and he's like, why is Nate Walker upstairs?"
+
+**[00:36:25](/episodes/ep-HIlPQ-_dcxM.md#ent-org-tiktok-t-00-36-25)**
+> "...that women need to get off of TikTok, right?"
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -491,7 +504,15 @@ Source: [About TikTok](https://www.tiktok.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about TikTok (6)</strong></summary>
+<summary><strong class="section-title">Statements about TikTok (7)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31) (Claim) **Candace Owens** (via paraphrase): ["Owens said she thought someone on TikTok sent the upstairs footage to ..."](/statements/statement-93ee69f0d28c.md)
+  - Also about: [Baron Coleman](/entities/person-baron-coleman.md)
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Burton Hibbs"
-description: "Burton Hibbs (People) - 38 mentions"
+description: "Burton Hibbs (People) - 39 mentions"
 id: "person-burton-hibbs"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-burton-hibbs-t-00-32-55">2025-11-12 · 00:32:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-48-53">2026-09-01 · 00:49:11</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-burton-hibbs-t-00-54-13">2026-09-02 · 00:54:25</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
@@ -44,6 +44,7 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-burton-hibbs-t-00-36-37" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-burton-hibbs-t-00-12-03" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-05-10" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 21 mentions" title="2026-09-01 · 21 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-burton-hibbs-t-00-54-13" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +58,7 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-burton-hibbs-t-00-36-37) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-burton-hibbs-t-00-12-03) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-05-10) | 21 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-burton-hibbs-t-00-54-13) | 1 |
 
 </details>
 </section>
@@ -68,7 +70,15 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:54:25](/episodes/ep-HIlPQ-_dcxM.md#ent-person-burton-hibbs-t-00-54-13)**
+> "Okay, top comments from yesterday's episode. We were obviously covering Pastor Jack Hibbs and his brother Butch (Burton Hibbs) Hibbs, that spanking that Pastor Hibbs definitely got from Frank Turek when those cameras went off. I know the look. Look, my mom gave me the look. I know exactly."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (21 mentions)</summary>
@@ -370,11 +380,12 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 </details>
 
 - **[Jack Hibbs](/entities/person-jack-hibbs.md)** sibling of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:33:49](/episodes/ep-MUA9ebCF4Ow.md#t-00-33-35): “Butch Hibbs. That's the brother of Jack Hibbs—Pastor Jack Hibbs.”
 - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:44:55](/episodes/ep-7RLtGgkTh9o.md#t-00-44-27): “Butch Hibbs—Jack Hibbs' brother”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:06:26](/episodes/ep-ZkDO-MRLUco.md#t-00-06-17): “He is from a military family. His brother is Pastor Jack Hibbs, another senior pastor at Calvary Chapel Church. His church is based in Chino Hills, California.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:54:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-54-13): “Okay, top comments from yesterday's episode. We were obviously covering Pastor Jack Hibbs and his brother Butch (Burton Hibbs) Hibbs, that spanking that Pastor Hibbs definitely got from Frank Turek when those cameras went off. I know the look. Look, my mom gave me the look. I know exactly.”
 
 </details>
 

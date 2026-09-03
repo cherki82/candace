@@ -1,6 +1,6 @@
 ---
 title: "SMART Equity Loan"
-description: "SMART Equity Loan (Works & Media) - 103 mentions"
+description: "SMART Equity Loan (Works & Media) - 105 mentions"
 id: "work-smart-equity-loan"
 type: "WORK"
 aliases:
@@ -23,9 +23,9 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-work-smart-equity-loan-t-00-56-30">2025-09-15 · 00:56:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-work-smart-equity-loan-t-00-40-30">2026-09-01 · 00:41:04</a></strong></div>
-<div><span>Episodes</span><strong>54</strong></div>
-<div><span>Mentions</span><strong>103</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-work-smart-equity-loan-t-00-53-35">2026-09-02 · 00:53:55</a></strong></div>
+<div><span>Episodes</span><strong>55</strong></div>
+<div><span>Mentions</span><strong>105</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -90,6 +90,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-work-smart-equity-loan-t-00-45-56" style="--pulse-height:67%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-work-smart-equity-loan-t-02-59-45" style="--pulse-height:67%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-work-smart-equity-loan-t-00-40-30" style="--pulse-height:67%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-work-smart-equity-loan-t-00-53-35" style="--pulse-height:67%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -149,6 +150,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-work-smart-equity-loan-t-00-45-56) | 2 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-work-smart-equity-loan-t-02-59-45) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-work-smart-equity-loan-t-00-40-30) | 2 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-work-smart-equity-loan-t-00-53-35) | 2 |
 
 </details>
 </section>
@@ -156,7 +158,18 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (103)</strong></summary>
+<summary><strong class="section-title">Raw mentions (105)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
+
+**[00:53:47](/episodes/ep-HIlPQ-_dcxM.md#ent-work-smart-equity-loan-t-00-53-35)**
+> "But American financing offers a smart equity loan so that you don't have to. It allows you to wipe out high interest debt and lower your monthly overhead while keeping your primary mortgage intact."
+
+**[00:53:55](/episodes/ep-HIlPQ-_dcxM.md#ent-work-smart-equity-loan-t-00-53-35)**
+> "...like a fluctuating HELOC, the Smart Equity Loan is a fixed rate loan, giving you a predictable mo..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>

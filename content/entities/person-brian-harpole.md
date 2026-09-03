@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 342 mentions"
+description: "Brian Harpole (People) - 345 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-01">2025-11-18 · 00:21:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-brian-harpole-t-00-18-21">2026-09-01 · 00:18:53</a></strong></div>
-<div><span>Episodes</span><strong>53</strong></div>
-<div><span>Mentions</span><strong>342</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-brian-harpole-t-01-04-51">2026-09-02 · 01:04:51</a></strong></div>
+<div><span>Episodes</span><strong>54</strong></div>
+<div><span>Mentions</span><strong>345</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
-<div><span>Statements about</span><strong>121</strong></div>
+<div><span>Statements about</span><strong>124</strong></div>
 <div><span>Relationships</span><strong>34</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -88,6 +88,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-brian-harpole-t-00-25-21" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-brian-harpole-t-00-21-41" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-brian-harpole-t-00-18-21" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-brian-harpole-t-00-12-19" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -146,6 +147,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-brian-harpole-t-00-25-21) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-brian-harpole-t-00-21-41) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-brian-harpole-t-00-18-21) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-brian-harpole-t-00-12-19) | 3 |
 
 </details>
 </section>
@@ -157,7 +159,21 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (342)</strong></summary>
+<summary><strong class="section-title">Raw mentions (345)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3 mentions)</summary>
+
+**[00:12:42](/episodes/ep-HIlPQ-_dcxM.md#ent-person-brian-harpole-t-00-12-19)**
+> "Brian Harpole is in that vehicle. And Justin Davis is a very relevant person for you to know because he's going to eventually be the driver that takes Charlie (Charlie Kirk) to the hospital."
+
+**[01:04:37](/episodes/ep-HIlPQ-_dcxM.md#ent-person-brian-harpole-t-01-04-15)**
+> "...m holding back because of the Brian Harpole case, which is, I don't know, they're making a lo..."
+
+**[01:04:51](/episodes/ep-HIlPQ-_dcxM.md#ent-person-brian-harpole-t-01-04-51)**
+> "...ing to die and it's like well Brian Harpole said there were no threats the night before he wa..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
@@ -1502,7 +1518,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -1513,6 +1529,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:08:32](/episodes/ep-AH1KVKkweUE.md#t-00-08-01): “I mean, Brian Harpole is definitively not the brightest among you, not the most trained among you.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:22:45](/episodes/ep-9hRcfSrri70.md#t-00-22-24): “So he's suing me for saying I found his interview with Shawn Ryan to be unconvincing. That's my constitutional right to think. I'm not arguing with him about that.”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:28:38](/episodes/ep-581dILVcEE4.md#t-00-28-27): “It is an unacceptable answer. Look, I've worked with Brian. Nice guy. That's a ridiculous answer. He should be fired.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51): “suddenly because they're just getting antsy and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well Brian Harpole said there were no threats the night before he was sitting down with Shawn Ryan he was like no nothing so there just seems to be this constant conflict between what various people on the security team and at Turning Point USA recall anyway we will leave it at that we will see you guys tomorrow”
 
 </details>
 
@@ -1562,7 +1579,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Interviewed By (2)</summary>
 
 - **[Shawn Ryan](/entities/person-shawn-ryan.md)**
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:08:56](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury."”
@@ -1576,6 +1593,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:10](/episodes/ep-581dILVcEE4.md#t-00-23-45): “First up, many of you guys pinged me regarding Brian Harpole in an interview that he did with Sean Bryan.”
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:41:03](/episodes/ep-9k2xrAC0H88.md#t-00-40-54): “Now, why is this date interesting? Well, we're going to pop into the timeline and I'm going to remind you first and foremost that Brian Harpole, when he sits down with Shawn Ryan, tells us that they began preparations for the UVU event.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06): “Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan).”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51): “suddenly because they're just getting antsy and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well Brian Harpole said there were no threats the night before he was sitting down with Shawn Ryan he was like no nothing so there just seems to be this constant conflict between what various people on the security team and at Turning Point USA recall anyway we will leave it at that we will see you guys tomorrow”
 
 </details>
 
@@ -1696,7 +1714,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
@@ -1707,6 +1725,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:08:32](/episodes/ep-AH1KVKkweUE.md#t-00-08-01): “I mean, Brian Harpole is definitively not the brightest among you, not the most trained among you.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:22:45](/episodes/ep-9hRcfSrri70.md#t-00-22-24): “So he's suing me for saying I found his interview with Shawn Ryan to be unconvincing. That's my constitutional right to think. I'm not arguing with him about that.”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:28:38](/episodes/ep-581dILVcEE4.md#t-00-28-27): “It is an unacceptable answer. Look, I've worked with Brian. Nice guy. That's a ridiculous answer. He should be fired.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51): “suddenly because they're just getting antsy and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well Brian Harpole said there were no threats the night before he was sitting down with Shawn Ryan he was like no nothing so there just seems to be this constant conflict between what various people on the security team and at Turning Point USA recall anyway we will leave it at that we will see you guys tomorrow”
 
 </details>
 
@@ -1757,7 +1776,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Shawn Ryan](/entities/person-shawn-ryan.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:08:56](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury."”
@@ -1772,6 +1791,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:10](/episodes/ep-581dILVcEE4.md#t-00-23-45): “First up, many of you guys pinged me regarding Brian Harpole in an interview that he did with Sean Bryan.”
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:41:03](/episodes/ep-9k2xrAC0H88.md#t-00-40-54): “Now, why is this date interesting? Well, we're going to pop into the timeline and I'm going to remind you first and foremost that Brian Harpole, when he sits down with Shawn Ryan, tells us that they began preparations for the UVU event.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06): “Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan).”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51): “suddenly because they're just getting antsy and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well Brian Harpole said there were no threats the night before he was sitting down with Shawn Ryan he was like no nothing so there just seems to be this constant conflict between what various people on the security team and at Turning Point USA recall anyway we will leave it at that we will see you guys tomorrow”
 
 </details>
 
@@ -1985,7 +2005,20 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (121)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (124)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3)</summary>
+
+- [00:12:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-19) (Claim) **Candace Owens**: ["Owens identified Justin Davis as the Lincoln Navigator’s driver and sa..."](/statements/statement-5e9ac3dcdaf9.md)
+  - Also about: [Justin Davis](/entities/person-justin-davis.md), [Dan Flood](/entities/person-dan-flood.md), [Lincoln Navigator (model)](/entities/vehicle-lincoln-navigator-model.md)
+
+- [01:04:37](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-15) (Claim) **Candace Owens**: ["Owens said she was withholding some material because of the Brian Harp..."](/statements/statement-3dd1fd49a055.md)
+
+- [01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Brian Harpole told Shawn Ryan there had been no threats the..."](/statements/statement-71ee6a67771e.md)
+  - Also about: [Shawn Ryan](/entities/person-shawn-ryan.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>

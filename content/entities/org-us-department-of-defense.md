@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Defense"
-description: "United States Department of Defense (Organizations) - 86 mentions"
+description: "United States Department of Defense (Organizations) - 87 mentions"
 id: "org-us-department-of-defense"
 type: "ORG"
 aliases:
@@ -28,9 +28,9 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29">2025-10-28 · 00:31:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-us-department-of-defense-t-00-42-25">2026-09-01 · 00:42:25</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>86</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-us-department-of-defense-t-00-01-06">2026-09-02 · 00:01:06</a></strong></div>
+<div><span>Episodes</span><strong>34</strong></div>
+<div><span>Mentions</span><strong>87</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>54</strong></div>
 <div><span>Relationships</span><strong>26</strong></div>
@@ -74,6 +74,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-us-department-of-defense-t-00-03-59" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-00-45" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 13 mentions" title="2026-08-31 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-us-department-of-defense-t-00-00-39" style="--pulse-height:31%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-us-department-of-defense-t-00-01-06" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -112,6 +113,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-us-department-of-defense-t-00-03-59) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-00-45) | 13 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-us-department-of-defense-t-00-00-39) | 4 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-us-department-of-defense-t-00-01-06) | 1 |
 
 </details>
 </section>
@@ -123,7 +125,15 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (86)</strong></summary>
+<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:01:06](/episodes/ep-HIlPQ-_dcxM.md#ent-org-us-department-of-defense-t-00-01-06)**
+> "Just come honestly, engage in debate honestly. We're going to discuss all of that in a moment. Also, as we have been insisting to you guys for a long time now, Tyler Robinson officially entered his plea of not guilty to the charges, which, by the way, that runs counter to the extraordinary claims made by the Department of War propagandists that Tyler (Tyler Robinson)'s dad turned him in because Tyler (Tyler Robinson) confessed to his crime. That is what they told you repeatedly."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>

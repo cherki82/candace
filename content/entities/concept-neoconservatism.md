@@ -1,6 +1,6 @@
 ---
 title: "Neoconservatism"
-description: "Neoconservatism (Concepts) - 31 mentions"
+description: "Neoconservatism (Concepts) - 33 mentions"
 id: "concept-neoconservatism"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-neoconservatism-t-00-09-46">2025-11-12 · 00:09:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-neoconservatism-t-00-41-14">2026-08-07 · 00:41:23</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-neoconservatism-t-00-00-01">2026-09-02 · 00:00:21</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -48,6 +48,7 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-neoconservatism-t-00-34-56" style="--pulse-height:20%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-neoconservatism-t-00-00-01" style="--pulse-height:10%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-neoconservatism-t-00-37-11" style="--pulse-height:20%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-neoconservatism-t-00-00-01" style="--pulse-height:20%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-neoconservatism-t-00-34-56) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-neoconservatism-t-00-00-01) | 1 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-concept-neoconservatism-t-00-37-11) | 2 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-neoconservatism-t-00-00-01) | 2 |
 
 </details>
 </section>
@@ -72,7 +74,18 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
+
+**[00:00:21](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-neoconservatism-t-00-00-01)**
+> "...dging by the almost automatic neocon response, it's going to be a long few years of Pe..."
+
+**[00:00:21](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-neoconservatism-t-00-00-01)**
+> "And judging by the almost automatic neocon response, it's going to be a long few years of Pentagon."
+
+</details>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>

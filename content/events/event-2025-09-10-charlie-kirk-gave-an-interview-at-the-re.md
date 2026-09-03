@@ -20,7 +20,7 @@ date: "2025-09-10"
 
 > Charlie Kirk gave an interview at the Restaurantology Summit in Salt Lake City before traveling to Provo.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357
 
@@ -45,3 +45,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=727s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie went to the restaurantology event.
+
+### 4. Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footag...
+
+**Episode:** [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md)
+**Timestamp:** [00:13:22](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-56) 
+<a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=802s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> So the core security team was actually not with Charlie Kirk in Salt Lake City. They arrived independent of Charlie Kirk and they had been there since 9, 9.30 a.m. in the morning while Charlie was doing that restaurantology event out in Salt Lake City.

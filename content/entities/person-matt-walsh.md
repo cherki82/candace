@@ -1,6 +1,6 @@
 ---
 title: "Matt Walsh"
-description: "Matt Walsh (People) - 34 mentions"
+description: "Matt Walsh (People) - 38 mentions"
 id: "person-matt-walsh"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03">2025-10-08 · 00:13:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-43-21">2026-08-07 · 00:43:55</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
-<div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-matt-walsh-t-00-50-20">2026-09-02 · 00:50:20</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Statements by</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -50,6 +50,7 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-matt-walsh-t-00-22-40" style="--pulse-height:17%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-matt-walsh-t-00-07-31" style="--pulse-height:17%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-35-59" style="--pulse-height:100%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 6 mentions" title="2026-08-07 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-matt-walsh-t-00-00-40" style="--pulse-height:67%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 4 mentions" title="2026-09-02 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +75,7 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-matt-walsh-t-00-22-40) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-matt-walsh-t-00-07-31) | 1 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-35-59) | 6 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-matt-walsh-t-00-00-40) | 4 |
 
 </details>
 </section>
@@ -81,7 +83,24 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (4 mentions)</summary>
+
+**[00:00:40](/episodes/ep-HIlPQ-_dcxM.md#ent-person-matt-walsh-t-00-00-40)**
+> "Yesterday on X, I don't think I've ever done this, by the way, but I did actually have to slap down my former colleague, Matt Walsh, when he perpetuated one of the more disingenuous narratives out there, because I just want to be frank here."
+
+**[00:39:17](/episodes/ep-HIlPQ-_dcxM.md#ent-person-matt-walsh-t-00-38-59)**
+> "...this is one of many examples, Matt Walsh's tweet."
+
+**[00:41:22](/episodes/ep-HIlPQ-_dcxM.md#ent-person-matt-walsh-t-00-41-07)**
+> "...shared it. I would argue that Matt Walsh did not think that when he sent it because I know..."
+
+**[00:50:20](/episodes/ep-HIlPQ-_dcxM.md#ent-person-matt-walsh-t-00-50-20)**
+> "...majority of these people like Matt Walsh know Charlie (Charlie Kirk), they were friendly w..."
+
+</details>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (6 mentions)</summary>
@@ -286,12 +305,19 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Criticized (1)</summary>
+<summary>Criticized (2)</summary>
 
 - **[Kouri Richins](/entities/person-kouri-richins.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:33:13](/episodes/ep-_vg7ucP1E0g.md#t-00-33-13): “He wrote, and this is regarding Kouri Richins, a New York Post article that said grief author Kouri Richins found guilty of fatally poisoning her husband for his four million dollar estate. ... Matt Walsh comments and writes, there is no good moral reason why she should not simply be taken outside the morning after her conviction and hanged. This woman has lost her right to exist.”
+
+</details>
+
+- **[Richard G. Novak](/entities/person-richard-g-novak.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:39:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-38-59): “That annoyed me. He says we have a lawyer justifying political assassination in one court case and another lawyer justifying the mass murder of children in another very dark times in America. That first sentence I'd like to address.”
 
 </details>
 
@@ -301,9 +327,10 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:32:21](/episodes/ep-_vg7ucP1E0g.md#t-00-31-54): “OK, so I absolutely have to comment on Matt Walsh for a tweet that he put out yesterday. I just because I was like. ... OK, that's strong words. So I was just stunned by it because I have to assume he did exactly zero due diligence on this case, a case that I actually followed because it was completely nutty. Now, I'm assuming he was not aware that after Kouri Richins murdered her husband, fentanyl overdose, she at first played the role of a grieving widow for an entire year.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:00:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40): “Yesterday on X, I don't think I've ever done this, by the way, but I did actually have to slap down my former colleague, Matt Walsh, when he perpetuated one of the more disingenuous narratives out there, because I just want to be frank here.”
 
 </details>
 
@@ -322,12 +349,25 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Worked With (1)</summary>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+- **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:00:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40): “Yesterday on X, I don't think I've ever done this, by the way, but I did actually have to slap down my former colleague, Matt Walsh, when he perpetuated one of the more disingenuous narratives out there, because I just want to be frank here.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:32:21](/episodes/ep-_vg7ucP1E0g.md#t-00-31-54): “OK, so I absolutely have to comment on Matt Walsh for a tweet that he put out yesterday. I just because I was like. ... OK, that's strong words. So I was just stunned by it because I have to assume he did exactly zero due diligence on this case, a case that I actually followed because it was completely nutty. Now, I'm assuming he was not aware that after Kouri Richins murdered her husband, fentanyl overdose, she at first played the role of a grieving widow for an entire year.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:00:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40): “Yesterday on X, I don't think I've ever done this, by the way, but I did actually have to slap down my former colleague, Matt Walsh, when he perpetuated one of the more disingenuous narratives out there, because I just want to be frank here.”
 
 </details>
 
@@ -338,10 +378,24 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 
 </details>
 
+- **[Richard G. Novak](/entities/person-richard-g-novak.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:39:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-38-59): “That annoyed me. He says we have a lawyer justifying political assassination in one court case and another lawyer justifying the mass murder of children in another very dark times in America. That first sentence I'd like to address.”
+
+</details>
+
 - **[Erika Kirk](/entities/person-erika-kirk.md)** defended by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:00:53](/episodes/ep-_vg7ucP1E0g.md#t-00-00-28): “You should know more about how they met. Plus, later on, on that same topic, Matt Walsh tweeted a thing. ... He's a staunch defender of Erika (Erika Kirk), which made the thing that he tweeted last night ironic to say the least. Welcome back to Bride of Charlie (Charlie Kirk).”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:00:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40): “Yesterday on X, I don't think I've ever done this, by the way, but I did actually have to slap down my former colleague, Matt Walsh, when he perpetuated one of the more disingenuous narratives out there, because I just want to be frank here.”
 
 </details>
 
@@ -350,7 +404,15 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Matt Walsh (7)</strong></summary>
+<summary><strong class="section-title">Statements by Matt Walsh (8)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [00:39:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-38-59) [○] (Accusation) ["Matt Walsh wrote that one lawyer was justifying political assassination and anot..."](/statements/statement-99fc997fde35.md)
+  - About: [Richard G. Novak](/entities/person-richard-g-novak.md), [Lindsay Clancy](/entities/person-lindsay-clancy.md)
+
+</details>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (4)</summary>
@@ -395,7 +457,15 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Matt Walsh (8)</strong></summary>
+<summary><strong class="section-title">Statements about Matt Walsh (9)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [00:44:20](/episodes/ep-HIlPQ-_dcxM.md#t-00-44-20) (Accusation) **Candace Owens**: ["Owens said Novak was challenging an unsupported inference about politi..."](/statements/statement-a34cfc13e0e7.md)
+  - Also about: [Richard G. Novak](/entities/person-richard-g-novak.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (4)</summary>

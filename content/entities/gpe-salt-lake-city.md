@@ -1,6 +1,6 @@
 ---
 title: "Salt Lake City"
-description: "Salt Lake City (Places) - 61 mentions"
+description: "Salt Lake City (Places) - 65 mentions"
 id: "gpe-salt-lake-city"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [SLC.gov](https://www.slc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53">2025-09-17 · 00:19:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-salt-lake-city-t-01-38-09">2026-08-14 · 01:38:09</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>61</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-salt-lake-city-t-00-23-40">2026-09-02 · 00:24:12</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>65</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -58,6 +58,7 @@ Source: [SLC.gov](https://www.slc.gov/)
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-salt-lake-city-t-00-32-41" style="--pulse-height:25%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 3 mentions" title="2026-08-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-salt-lake-city-t-01-38-09" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-salt-lake-city-t-01-07-18" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-salt-lake-city-t-00-12-56" style="--pulse-height:33%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 4 mentions" title="2026-09-02 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -90,6 +91,7 @@ Source: [SLC.gov](https://www.slc.gov/)
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-salt-lake-city-t-00-32-41) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-salt-lake-city-t-01-38-09) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-salt-lake-city-t-01-07-18) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-salt-lake-city-t-00-12-56) | 4 |
 
 </details>
 </section>
@@ -101,7 +103,24 @@ Source: [SLC.gov](https://www.slc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+<summary><strong class="section-title">Raw mentions (65)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (4 mentions)</summary>
+
+**[00:13:22](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-salt-lake-city-t-00-12-56)**
+> "So the core security team was actually not with Charlie Kirk in Salt Lake City. They arrived independent of Charlie Kirk and they had been there since 9, 9.30 a.m. in the morning while Charlie (Charlie Kirk) was doing that restaurantology event out in Salt Lake City."
+
+**[00:14:47](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-salt-lake-city-t-00-14-18)**
+> "...h. And also when they were in Salt Lake City with Charlie (Charlie Kirk), he doesn't remember ..."
+
+**[00:17:39](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-salt-lake-city-t-00-17-31)**
+> "...k)'s main security guy out in Salt Lake City who took Charlie (Charlie Kirk) to the event upst..."
+
+**[00:24:12](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-salt-lake-city-t-00-23-40)**
+> "...ember what they were doing in Salt Lake City. He didn't remember how they had arrived."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -431,7 +450,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Salt Lake City (13)</strong></summary>
+<summary><strong class="section-title">Statements about Salt Lake City (14)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [00:12:56](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-56) (Claim) **Candace Owens** (via paraphrase): ["Owens said the core security team arrived at UVU between 9 and 9:30 a...."](/statements/statement-7e5189a9476c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Restaurantology](/entities/work-restaurantology.md)
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>

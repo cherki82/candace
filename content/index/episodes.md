@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 163_
+_Total episodes: 165_
 
 <div class="page-filter-container">
   <input type="search" class="page-filter" placeholder="Filter episodes..." aria-label="Filter episodes..." autocomplete="off">
@@ -25,6 +25,8 @@ _Total episodes: 163_
 
 ## Week of Aug 31 - Sep 06, 2026
 
+- [I Was Heartbroken... 💔](/episodes/ep-BTn1Z0t_kno.md) — Thu, Sep 03
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md) — Wed, Sep 02
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md) — Tue, Sep 01
 - [I Met My Cousin In Iceland...](/episodes/ep-wntKnFzh9Gs.md) — Tue, Sep 01
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md) — Mon, Aug 31

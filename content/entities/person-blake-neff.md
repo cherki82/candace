@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 380 mentions"
+description: "Blake Neff (People) - 400 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -24,93 +24,94 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-neff-t-00-53-22">2026-09-01 · 00:53:22</a></strong></div>
-<div><span>Episodes</span><strong>74</strong></div>
-<div><span>Mentions</span><strong>380</strong></div>
-<div><span>Statements by</span><strong>49</strong></div>
-<div><span>Statements about</span><strong>65</strong></div>
-<div><span>Relationships</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-56-16">2026-09-02 · 00:56:16</a></strong></div>
+<div><span>Episodes</span><strong>75</strong></div>
+<div><span>Mentions</span><strong>400</strong></div>
+<div><span>Statements by</span><strong>55</strong></div>
+<div><span>Statements about</span><strong>70</strong></div>
+<div><span>Relationships</span><strong>47</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-blake-neff-t-00-01-46">Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</a> (18 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-14-18">Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382</a> (20 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-5autG89PW6w.md#t-00-15-02" style="--pulse-height:17%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32" style="--pulse-height:11%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#t-00-10-04" style="--pulse-height:11%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-32" style="--pulse-height:44%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 8 mentions" title="2025-11-05 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#t-00-15-02" style="--pulse-height:15%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32" style="--pulse-height:10%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#t-00-10-04" style="--pulse-height:10%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-32" style="--pulse-height:40%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 8 mentions" title="2025-11-05 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#t-00-05-50" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-01" style="--pulse-height:44%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 8 mentions" title="2025-11-18 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-02-14" style="--pulse-height:50%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 9 mentions" title="2025-12-03 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-03-41" style="--pulse-height:67%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 12 mentions" title="2025-12-05 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-04-36" style="--pulse-height:78%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 14 mentions" title="2025-12-05 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-01" style="--pulse-height:40%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 8 mentions" title="2025-11-18 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-02-14" style="--pulse-height:45%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 9 mentions" title="2025-12-03 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-03-41" style="--pulse-height:60%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 12 mentions" title="2025-12-05 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-04-36" style="--pulse-height:70%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 14 mentions" title="2025-12-05 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-blake-neff-t-00-37-15" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-blake-neff-t-00-25-05" style="--pulse-height:17%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36" style="--pulse-height:22%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-blake-neff-t-00-27-17" style="--pulse-height:22%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-37" style="--pulse-height:11%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-19-05" style="--pulse-height:11%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-blake-neff-t-00-25-05" style="--pulse-height:15%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36" style="--pulse-height:20%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-blake-neff-t-00-27-17" style="--pulse-height:20%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-37" style="--pulse-height:10%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-19-05" style="--pulse-height:10%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-neff-t-01-01-57" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-blake-neff-t-00-11-31" style="--pulse-height:11%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-blake-neff-t-00-11-31" style="--pulse-height:10%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-blake-neff-t-00-07-27" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-blake-neff-t-00-05-39" style="--pulse-height:11%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-41-55" style="--pulse-height:39%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 7 mentions" title="2026-03-03 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:11%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-blake-neff-t-00-05-39" style="--pulse-height:10%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-41-55" style="--pulse-height:35%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 7 mentions" title="2026-03-03 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:10%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-13-26" style="--pulse-height:61%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 11 mentions" title="2026-03-10 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-blake-neff-t-00-44-46" style="--pulse-height:11%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 2 mentions" title="2026-03-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-blake-neff-t-00-13-15" style="--pulse-height:39%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-13-26" style="--pulse-height:55%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 11 mentions" title="2026-03-10 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-blake-neff-t-00-44-46" style="--pulse-height:10%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 2 mentions" title="2026-03-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-blake-neff-t-00-13-15" style="--pulse-height:35%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-blake-neff-t-00-34-47" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-blake-neff-t-00-13-50" style="--pulse-height:11%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-43-28" style="--pulse-height:50%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 9 mentions" title="2026-03-24 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-blake-neff-t-00-13-50" style="--pulse-height:10%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-43-28" style="--pulse-height:45%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 9 mentions" title="2026-03-24 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-blake-neff-t-00-49-39" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:67%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 12 mentions" title="2026-04-02 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-11-16" style="--pulse-height:28%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-blake-neff-t-00-02-07" style="--pulse-height:11%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:89%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 16 mentions" title="2026-04-21 · 16 mentions"><span></span></a>
-<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-blake-neff-t-00-46-57" style="--pulse-height:28%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 5 mentions" title="2026-04-29 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-neff-t-00-27-54" style="--pulse-height:17%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 3 mentions" title="2026-05-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-blake-neff-t-00-57-36" style="--pulse-height:22%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 4 mentions" title="2026-05-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:60%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 12 mentions" title="2026-04-02 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-11-16" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-blake-neff-t-00-02-07" style="--pulse-height:10%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:80%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 16 mentions" title="2026-04-21 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-blake-neff-t-00-46-57" style="--pulse-height:25%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 5 mentions" title="2026-04-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-neff-t-00-27-54" style="--pulse-height:15%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 3 mentions" title="2026-05-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-blake-neff-t-00-57-36" style="--pulse-height:20%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 4 mentions" title="2026-05-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-neff-t-00-03-02" style="--pulse-height:33%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 6 mentions" title="2026-05-11 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-10-09" style="--pulse-height:50%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 9 mentions" title="2026-05-13 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-blake-neff-t-00-30-37" style="--pulse-height:28%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-14-14" style="--pulse-height:67%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 12 mentions" title="2026-05-18 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-blake-neff-t-00-35-10" style="--pulse-height:22%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 4 mentions" title="2026-05-26 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-blake-neff-t-00-40-06" style="--pulse-height:17%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 3 mentions" title="2026-05-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-neff-t-00-03-02" style="--pulse-height:30%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 6 mentions" title="2026-05-11 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-10-09" style="--pulse-height:45%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 9 mentions" title="2026-05-13 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-blake-neff-t-00-30-37" style="--pulse-height:25%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-14-14" style="--pulse-height:60%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 12 mentions" title="2026-05-18 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-blake-neff-t-00-35-10" style="--pulse-height:20%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 4 mentions" title="2026-05-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-blake-neff-t-00-40-06" style="--pulse-height:15%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 3 mentions" title="2026-05-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-blake-neff-t-01-03-29" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-blake-neff-t-01-00-36" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-blake-neff-t-00-16-41" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-blake-neff-t-00-31-11" style="--pulse-height:11%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-31-27" style="--pulse-height:56%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 10 mentions" title="2026-06-15 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-blake-neff-t-00-30-41" style="--pulse-height:11%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-blake-neff-t-00-04-32" style="--pulse-height:22%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-44-45" style="--pulse-height:50%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 9 mentions" title="2026-06-22 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-a2bZf4fic10.md#ent-person-blake-neff-t-00-25-15" style="--pulse-height:11%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-blake-neff-t-00-21-46" style="--pulse-height:11%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-00-42" style="--pulse-height:78%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 14 mentions" title="2026-07-14 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:44%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 8 mentions" title="2026-07-16 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-blake-neff-t-00-00-56" style="--pulse-height:33%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-36-05" style="--pulse-height:39%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 7 mentions" title="2026-07-20 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-blake-neff-t-00-01-46" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 18 mentions" title="2026-07-21 · 18 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-28-01" style="--pulse-height:56%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 10 mentions" title="2026-07-22 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-blake-neff-t-00-09-42" style="--pulse-height:17%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 3 mentions" title="2026-07-27 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-blake-neff-t-00-09-06" style="--pulse-height:78%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 14 mentions" title="2026-07-30 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-blake-neff-t-00-31-11" style="--pulse-height:10%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-31-27" style="--pulse-height:50%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 10 mentions" title="2026-06-15 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-blake-neff-t-00-30-41" style="--pulse-height:10%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-blake-neff-t-00-04-32" style="--pulse-height:20%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-44-45" style="--pulse-height:45%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 9 mentions" title="2026-06-22 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-person-blake-neff-t-00-25-15" style="--pulse-height:10%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-blake-neff-t-00-21-46" style="--pulse-height:10%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-00-42" style="--pulse-height:70%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 14 mentions" title="2026-07-14 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:40%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 8 mentions" title="2026-07-16 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-blake-neff-t-00-00-56" style="--pulse-height:30%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-36-05" style="--pulse-height:35%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 7 mentions" title="2026-07-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-blake-neff-t-00-01-46" style="--pulse-height:90%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 18 mentions" title="2026-07-21 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-28-01" style="--pulse-height:50%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 10 mentions" title="2026-07-22 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-blake-neff-t-00-09-42" style="--pulse-height:15%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 3 mentions" title="2026-07-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-blake-neff-t-00-09-06" style="--pulse-height:70%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 14 mentions" title="2026-07-30 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-blake-neff-t-00-00-47" style="--pulse-height:28%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 5 mentions" title="2026-08-03 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:61%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 11 mentions" title="2026-08-04 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-blake-neff-t-00-08-10" style="--pulse-height:17%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-blake-neff-t-00-05-52" style="--pulse-height:33%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 6 mentions" title="2026-08-07 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-blake-neff-t-00-48-35" style="--pulse-height:11%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-blake-neff-t-00-12-30" style="--pulse-height:22%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 4 mentions" title="2026-08-11 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:17%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 3 mentions" title="2026-08-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-4JxgOclKzqg.md#ent-person-blake-neff-t-00-42-07" style="--pulse-height:11%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9hRcfSrri70.md#ent-person-blake-neff-t-00-01-00" style="--pulse-height:39%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 7 mentions" title="2026-08-19 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-blake-neff-t-00-00-47" style="--pulse-height:25%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 5 mentions" title="2026-08-03 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:55%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 11 mentions" title="2026-08-04 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-blake-neff-t-00-08-10" style="--pulse-height:15%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-blake-neff-t-00-05-52" style="--pulse-height:30%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 6 mentions" title="2026-08-07 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-blake-neff-t-00-48-35" style="--pulse-height:10%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-blake-neff-t-00-12-30" style="--pulse-height:20%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 4 mentions" title="2026-08-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:15%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 3 mentions" title="2026-08-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-person-blake-neff-t-00-42-07" style="--pulse-height:10%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-person-blake-neff-t-00-01-00" style="--pulse-height:35%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 7 mentions" title="2026-08-19 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-blake-neff-t-00-24-21" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-32-58" style="--pulse-height:28%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 5 mentions" title="2026-08-31 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-neff-t-00-43-55" style="--pulse-height:22%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-32-58" style="--pulse-height:25%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 5 mentions" title="2026-08-31 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-neff-t-00-43-55" style="--pulse-height:20%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-14-18" style="--pulse-height:100%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 20 mentions" title="2026-09-02 · 20 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -190,6 +191,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-blake-neff-t-00-24-21) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-32-58) | 5 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-neff-t-00-43-55) | 4 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-14-18) | 20 |
 
 </details>
 </section>
@@ -201,7 +203,72 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (380)</strong></summary>
+<summary><strong class="section-title">Raw mentions (400)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (20 mentions)</summary>
+
+**[00:14:35](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-14-18)**
+> "And he has Danny Philip does not have Mikey McCoy (Michael McCoy) sitting shotgun. It's very strange. I mean, Blake Neff sitting shotgun."
+
+**[00:09:54](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-09-23)**
+> "...elies on all of us developing Blake Neff's amnesia to pretend that it's true."
+
+**[00:14:18](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-14-18)**
+> "...I'm saying mysterious because Blake Neff made it mysterious by pretending he didn't know w..."
+
+**[00:14:42](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-14-18)**
+> "Blake Neff is actually sitting in the back seat. So when the..."
+
+**[00:14:47](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-14-18)**
+> "And you have Blake Neff in the backseat and Blake (Blake Neff) is very we..."
+
+**[00:23:40](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-23-40)**
+> "...ly met for some reason Blake (Blake Neff) is really weird about mentioning Danny (Danny Ph..."
+
+**[00:24:12](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-23-40)**
+> "...be he did. We know how Blake (Blake Neff) is. He doesn't remember what they were doing in ..."
+
+**[00:25:51](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-25-38)**
+> "...sitioning of Danny Philip and Blake Neff's car there, the Denali on the right-hand side clos..."
+
+**[00:26:16](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-26-16)**
+> "... on because I remember Blake (Blake Neff) sort of recounting the story and telling us that..."
+
+**[00:27:28](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-27-28)**
+> "Blake Neff big empty SUV we know that it's going to be Nate ..."
+
+**[00:27:48](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-27-28)**
+> "... memory jogged of what Blake (Blake Neff)'s testimony is in that day, because now I have a..."
+
+**[00:28:35](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-28-14)**
+> "Here's Blake (Blake Neff)'s testimony."
+
+**[00:29:13](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-29-13)**
+> "[Blake Neff] out of there, which ... [Candace Owens] You didn..."
+
+**[00:29:31](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-29-31)**
+> "[Blake Neff] to do, and ... [Candace Owens] You didn't arrive..."
+
+**[00:33:00](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-32-49)**
+> "...p? These are my questions for Blake Neff, which he will not answer."
+
+**[00:33:07](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-32-49)**
+> "...is general posture. It's like Blake Neff needs Tyler Robinson to be guilty."
+
+**[00:40:44](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-40-25)**
+> "Then we had at the same time. Blake Neff and Brandon Tatum sent out an identical tweet. I'..."
+
+**[00:55:56](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-55-39)**
+> "... know. I believe nothing that Blake Neff ever says because he lies so much about me."
+
+**[00:56:04](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-55-39)**
+> "...uld we accept anything Blake (Blake Neff) says when he is easily the most community noted ..."
+
+**[00:56:16](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-56-16)**
+> "... faster as a liar online than Blake Neff."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>
@@ -1728,9 +1795,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Danny Philip](/entities/person-danny-philip.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:33:16](/episodes/ep-1CFDtD0IgEg.md#t-00-33-16): “Remember, we were helping Blake (Blake Neff), who blanked out. ... he didn't even remember that he was with Danny Phillip or where him and Danny Phillip went”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:14:42](/episodes/ep-HIlPQ-_dcxM.md#t-00-14-18): “Blake Neff is actually sitting in the back seat. So when they pull up, you have Danny Philip driving.”
 
 </details>
 
@@ -1747,16 +1815,17 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Close Associate Of (1)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:33:48](/episodes/ep-581dILVcEE4.md#t-00-33-16): “I pause; I look around me; and I see Mikey. And I see Mikey there. And I'll never—truthfully, I will never forget what I saw because I've seen Mikey almost every day for the past two years. I know his personality very well. He's a very bubbly guy. He's a very happy guy almost all of the time.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:30:01](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-01): “day for the past two years I know his personality very well he's a very bubbly guy he's a very happy guy almost all of the time and I'll never forget what I saw because it was clear in the moment that he was profoundly freaked out what I'll always remember is the way his lip was quivering which I'd never seen before and you very rarely see from someone that he was freaking out and then I think he literally said to me I might be imagining this but I think what he literally said was”
 
 </details>
 
 </details>
 
 <details>
-<summary>Criticized (5)</summary>
+<summary>Criticized (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (11)</summary>
@@ -1803,13 +1872,20 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+- **[Richard G. Novak](/entities/person-richard-g-novak.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:40:52](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25): “Outrageous moment in court as defense attorney Richard Novak starts trashing Charlie (Charlie Kirk), declaring that it is true. Charlie (Charlie Kirk) spoke hatefully about people who were not heterosexual or had sex outside of marriage.”
+
+</details>
+
 </details>
 
 <details>
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (30)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -1841,6 +1917,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:43:23](/episodes/ep-_cNtgris8Ik.md#t-00-43-23): “she had yeah he totally had her back when she got fired from the daily wire yeah andrew that's now now your timeline is pushed up to 2024 i was fired in march of 2024 so how long are you trying to say that we weren't friends for it's just such a nonsense truly let it go blake nobody knows who you are neither did charlie okay you started working for him in 2023 you're not laughing because you don't know anything tyler's laughing because he does And it is,”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:44:09](/episodes/ep-JrhGEm8MGRY.md#t-00-44-09): “And Blake Neff is the least believable person in the world. So glad to know that you guys think that having the State Department and the Department of War behind you is going to win the game, along with billionaires like Bill Ackman who are willing to promote your nonsense. But we see right through all of it. Top comments from the last episode before we went off air: Big Hair Do Care wrote, 'The way she drops these bombs and then goes on vacation.'”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:49](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson). ... That's that's really what happened. You don't know him at all. The fact that you said I saw the donors, his friends, you just you had no idea what sort of a human being Charlie (Charlie Kirk) was. ... And you just had you are so short sighted to think that you could continue his legacy. You just don't have it.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:33:00](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49): “And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer.”
 
 </details>
 
@@ -1977,18 +2054,19 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show”
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:28:04](/episodes/ep-eMtjzXkQrsU.md#t-00-27-54): “technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:56:04](/episodes/ep-HIlPQ-_dcxM.md#t-00-55-39): “He lies so much about who Charlie (Charlie Kirk) was. Why would we accept anything Blake (Blake Neff) says when he is easily the most community noted employee of the Charlie Kirk show?”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (22)</summary>
+<summary>Referenced By (23)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -2000,9 +2078,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Danny Philip](/entities/person-danny-philip.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:33:16](/episodes/ep-1CFDtD0IgEg.md#t-00-33-16): “Remember, we were helping Blake (Blake Neff), who blanked out. ... he didn't even remember that he was with Danny Phillip or where him and Danny Phillip went”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:14:42](/episodes/ep-HIlPQ-_dcxM.md#t-00-14-18): “Blake Neff is actually sitting in the back seat. So when they pull up, you have Danny Philip driving.”
 
 </details>
 
@@ -2014,14 +2093,15 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)** close associate of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:33:48](/episodes/ep-581dILVcEE4.md#t-00-33-16): “I pause; I look around me; and I see Mikey. And I see Mikey there. And I'll never—truthfully, I will never forget what I saw because I've seen Mikey almost every day for the past two years. I know his personality very well. He's a very bubbly guy. He's a very happy guy almost all of the time.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:30:01](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-01): “day for the past two years I know his personality very well he's a very bubbly guy he's a very happy guy almost all of the time and I'll never forget what I saw because it was clear in the moment that he was profoundly freaked out what I'll always remember is the way his lip was quivering which I'd never seen before and you very rarely see from someone that he was freaking out and then I think he literally said to me I might be imagining this but I think what he literally said was”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (30)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -2053,6 +2133,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:43:23](/episodes/ep-_cNtgris8Ik.md#t-00-43-23): “she had yeah he totally had her back when she got fired from the daily wire yeah andrew that's now now your timeline is pushed up to 2024 i was fired in march of 2024 so how long are you trying to say that we weren't friends for it's just such a nonsense truly let it go blake nobody knows who you are neither did charlie okay you started working for him in 2023 you're not laughing because you don't know anything tyler's laughing because he does And it is,”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:44:09](/episodes/ep-JrhGEm8MGRY.md#t-00-44-09): “And Blake Neff is the least believable person in the world. So glad to know that you guys think that having the State Department and the Department of War behind you is going to win the game, along with billionaires like Bill Ackman who are willing to promote your nonsense. But we see right through all of it. Top comments from the last episode before we went off air: Big Hair Do Care wrote, 'The way she drops these bombs and then goes on vacation.'”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:49](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson). ... That's that's really what happened. You don't know him at all. The fact that you said I saw the donors, his friends, you just you had no idea what sort of a human being Charlie (Charlie Kirk) was. ... And you just had you are so short sighted to think that you could continue his legacy. You just don't have it.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:33:00](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49): “And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer.”
 
 </details>
 
@@ -2101,6 +2182,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+- **[Richard G. Novak](/entities/person-richard-g-novak.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:40:52](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25): “Outrageous moment in court as defense attorney Richard Novak starts trashing Charlie (Charlie Kirk), declaring that it is true. Charlie (Charlie Kirk) spoke hatefully about people who were not heterosexual or had sex outside of marriage.”
+
+</details>
+
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
@@ -2113,11 +2201,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show”
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:28:04](/episodes/ep-eMtjzXkQrsU.md#t-00-27-54): “technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:56:04](/episodes/ep-HIlPQ-_dcxM.md#t-00-55-39): “He lies so much about who Charlie (Charlie Kirk) was. Why would we accept anything Blake (Blake Neff) says when he is easily the most community noted employee of the Charlie Kirk show?”
 
 </details>
 
@@ -2197,7 +2286,30 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (49)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (55)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (6)</summary>
+
+- [00:28:38](/episodes/ep-HIlPQ-_dcxM.md#t-00-28-38) [○] (Claim) ["Blake Neff said he and Michael McCoy heard a crack, saw Charlie Kirk had been sh..."](/statements/statement-69009277d927.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:29:14](/episodes/ep-HIlPQ-_dcxM.md#t-00-29-14) [○] (Claim) ["Blake Neff said he ran past the SUV they arrived in, briefly considered getting ..."](/statements/statement-783975611eae.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:29:32](/episodes/ep-HIlPQ-_dcxM.md#t-00-29-32) [○] (Claim) ["Blake Neff said he did not remember being with Michael McCoy as he ran, thought ..."](/statements/statement-dc240fcff167.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:30:52](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42) [○] (Claim) ["Blake Neff said he called his mother after the shooting to tell her he was safe ..."](/statements/statement-6f68a9c82a99.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:18](/episodes/ep-HIlPQ-_dcxM.md#t-00-31-18) [○] (Claim) ["Blake Neff said Michael McCoy became composed after the calls and directed peopl..."](/statements/statement-2b923ecd6b5b.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:40:44](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) [○] (Opinion) ["Blake Neff described Richard Novak’s comments in court as an outrageous moment o..."](/statements/statement-0c54c001ae37.md)
+  - About: [Richard G. Novak](/entities/person-richard-g-novak.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
@@ -2459,7 +2571,27 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (65)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (70)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (5)</summary>
+
+- [00:14:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-14-18) (Claim) **Candace Owens**: ["Owens said Danny Philip drove the other Yukon Denali and Blake Neff sa..."](/statements/statement-33ee8042daf0.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [GMC Yukon Denali (model)](/entities/vehicle-gmc-yukon-denali-model.md)
+
+- [00:27:28](/episodes/ep-HIlPQ-_dcxM.md#t-00-27-28) (Claim) **Candace Owens**: ["Owens said Nate Walker, Blake Neff, Danny Philip and Michael McCoy arr..."](/statements/statement-6fbf8869cb71.md)
+  - Also about: [Nate Walker](/entities/person-nate-walker.md), [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:32:29](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-09) (Accusation) **Candace Owens**: ["Owens disputed Neff’s account by saying the SUVs were not taken to the..."](/statements/statement-f6c481e94b3b.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:33:07](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49) (Opinion) **Candace Owens**: ["Owens expressed the view that Blake Neff needed Tyler Robinson to be g..."](/statements/statement-ad1953d0acc9.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:40:44](/episodes/ep-HIlPQ-_dcxM.md#t-00-40-25) (Claim) **Candace Owens**: ["Owens said Blake Neff and Brandon Tatum posted identical wording about..."](/statements/statement-b632c30b4ea5.md)
+  - Also about: [Brandon Tatum](/entities/person-brandon-tatum.md), [Richard G. Novak](/entities/person-richard-g-novak.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3)</summary>

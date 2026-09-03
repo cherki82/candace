@@ -13,7 +13,7 @@ time: "12:24"
 
 > Blake Neff calls his mother shortly after Charlie Kirk is shot; the call lasts 45 seconds.
 
-## Mentioned In (11 times)
+## Mentioned In (12 times)
 
 ### 1. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
 
@@ -102,3 +102,11 @@ time: "12:24"
 <a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=1260s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Blake Blakey called his mom ... He did not thereafter call 911.
+
+### 12. Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footag...
+
+**Episode:** [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md)
+**Timestamp:** [00:30:52](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42) 
+<a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=1852s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> I around the same time I pull out my phone and I call my mom just to say, Mom, there's been a shooting. You're going to see it on the news. I'm OK. ... You know, pray for me. I've got to go. And I remember that call. And around the time I put that phone away and then he immediately calls his dad.

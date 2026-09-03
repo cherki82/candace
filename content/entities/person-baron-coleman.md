@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 140 mentions"
+description: "Baron Coleman (People) - 141 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-44">2025-12-16 · 00:14:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-28-04">2026-08-21 · 00:28:11</a></strong></div>
-<div><span>Episodes</span><strong>45</strong></div>
-<div><span>Mentions</span><strong>140</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-baron-coleman-t-00-17-31">2026-09-02 · 00:17:31</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>141</strong></div>
 <div><span>Statements by</span><strong>31</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -80,6 +80,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-person-baron-coleman-t-00-26-41" style="--pulse-height:25%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 4 mentions" title="2026-08-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-baron-coleman-t-00-40-45" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-28-04" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-baron-coleman-t-00-17-31" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -130,6 +131,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-baron-coleman-t-00-26-41) | 4 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-baron-coleman-t-00-40-45) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-28-04) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-baron-coleman-t-00-17-31) | 1 |
 
 </details>
 </section>
@@ -141,7 +143,15 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (140)</strong></summary>
+<summary><strong class="section-title">Raw mentions (141)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:17:31](/episodes/ep-HIlPQ-_dcxM.md#ent-person-baron-coleman-t-00-17-31)**
+> "I'm going to show you, by the way, that clip, which was captured, actually somebody on TikTok, I think, sent it to Baron Coleman and then Baron showed it to me and he's like, why is Nate Walker upstairs?"
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -828,6 +838,18 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details>
+<summary>Spoke With (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31): “I'm going to show you, by the way, that clip, which was captured, actually somebody on TikTok, I think, sent it to Baron Coleman and then Baron showed it to me and he's like, why is Nate Walker upstairs?”
+
+</details>
+
+</details>
+
+<details>
 <summary>Supporter Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
@@ -840,7 +862,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -861,6 +883,13 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:58:58](/episodes/ep-qZ8RWfyuewQ.md#t-00-58-58): “Andrew (Andrew Kolvet), Blake (Blake Neff) doesn't say it. There's no requirement. I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods. None.”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:42:54](/episodes/ep-69A8TzAGHlU.md#t-00-42-47): “Number one, why did you claim Candace said that Erica (Erika Kirk) killed Charlie (Charlie Kirk)? She's never said it that I've seen.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31): “I'm going to show you, by the way, that clip, which was captured, actually somebody on TikTok, I think, sent it to Baron Coleman and then Baron showed it to me and he's like, why is Nate Walker upstairs?”
 
 </details>
 
@@ -1033,7 +1062,15 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Baron Coleman (5)</strong></summary>
+<summary><strong class="section-title">Statements about Baron Coleman (6)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31) (Claim) **Candace Owens** (via paraphrase): ["Owens said she thought someone on TikTok sent the upstairs footage to ..."](/statements/statement-93ee69f0d28c.md)
+  - Also about: [TikTok](/entities/org-tiktok.md)
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1)</summary>

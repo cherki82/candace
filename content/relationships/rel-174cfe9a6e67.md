@@ -11,7 +11,7 @@ object: "person-rob-mccoy"
 
 ## [Michael McCoy](/entities/person-michael-mccoy) child of [Rob McCoy](/entities/person-rob-mccoy)
 
-### Evidence (13 mentions)
+### Evidence (14 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -28,6 +28,10 @@ object: "person-rob-mccoy"
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
 - [00:32:43](/episodes/ep-B9TyCs-6o_0#t-00-32-43): _he was defending Mikey McCoy and talked about how he ran and after he ran, he called his mom. ... And around the time I put that phone away and then he immediately calls his dad. ... He calls Rob McCoy._
+
+**[Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM)**
+
+- [00:31:08](/episodes/ep-HIlPQ-_dcxM#t-00-31-08): _He calls Rob McCoy and he says, Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends._
 
 **[Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0)**
 

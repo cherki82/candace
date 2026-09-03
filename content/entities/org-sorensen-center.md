@@ -1,6 +1,6 @@
 ---
 title: "Sorensen Center"
-description: "Sorensen Center (Organizations) - 9 mentions"
+description: "Sorensen Center (Organizations) - 11 mentions"
 id: "org-sorensen-center"
 type: "ORG"
 aliases:
@@ -23,13 +23,13 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-sorensen-center-t-00-15-56">2025-09-30 · 00:16:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-org-sorensen-center-t-00-26-35">2026-04-30 · 00:27:02</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-sorensen-center-t-00-18-14">2026-09-02 · 00:18:30</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
-<div><span>Threads</span><strong>0</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
@@ -40,6 +40,7 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 <a href="/episodes/ep-581dILVcEE4.md#ent-org-sorensen-center-t-00-25-08" style="--pulse-height:67%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 3 mentions" title="2025-11-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-sorensen-center-t-00-26-35" style="--pulse-height:67%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-sorensen-center-t-00-18-14" style="--pulse-height:67%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,14 +50,30 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-sorensen-center-t-00-25-08) | 2 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57) | 3 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-sorensen-center-t-00-26-35) | 2 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-sorensen-center-t-00-18-14) | 2 |
 
 </details>
 </section>
 
+## Reviewed theory threads
+
+- [How alternative Charlie Kirk assassination theories evolved](/threads/thread-charlie-kirk-assassination-alternative-theories) — A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
+
+**[00:18:30](/episodes/ep-HIlPQ-_dcxM.md#ent-org-sorensen-center-t-00-18-14)**
+> "Why were they headed toward the Sorensen building? At this moment, nobody knows, okay? But it's relevant. What could there be to do toward the Sorensen building on a campus that you've never been to when Charlie (Charlie Kirk) specifically expressed?"
+
+**[00:18:14](/episodes/ep-HIlPQ-_dcxM.md#ent-org-sorensen-center-t-00-18-14)**
+> "... right to be clear toward the Sorensen building."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2 mentions)</summary>
@@ -137,7 +154,15 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Sorensen Center (1)</strong></summary>
+<summary><strong class="section-title">Statements about Sorensen Center (2)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [00:17:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-51) (Claim) **Candace Owens**: ["Owens interpreted footage as showing Christopher, the security driver ..."](/statements/statement-6be396356cec.md)
+  - Also about: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Nate Walker](/entities/person-nate-walker.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1)</summary>

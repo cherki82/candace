@@ -1,6 +1,6 @@
 ---
 title: "Christ Is King"
-description: "Christ Is King (Concepts) - 61 mentions"
+description: "Christ Is King (Concepts) - 64 mentions"
 id: "concept-christ-is-king"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-christ-is-king-t-01-06-16">2025-09-17 · 01:06:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-christ-is-king-t-00-50-18">2026-08-31 · 00:50:24</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>61</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christ-is-king-t-01-01-16">2026-09-02 · 01:01:27</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>64</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -66,6 +66,7 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-christ-is-king-t-00-59-06" style="--pulse-height:60%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-christ-is-king-t-00-08-04" style="--pulse-height:60%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 3 mentions" title="2026-08-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-concept-christ-is-king-t-00-50-18" style="--pulse-height:20%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christ-is-king-t-00-58-33" style="--pulse-height:60%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -103,6 +104,7 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christ-is-king-t-00-59-06) | 3 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-christ-is-king-t-00-08-04) | 3 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-concept-christ-is-king-t-00-50-18) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christ-is-king-t-00-58-33) | 3 |
 
 </details>
 </section>
@@ -110,7 +112,21 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3 mentions)</summary>
+
+**[00:58:54](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christ-is-king-t-00-58-33)**
+> "Sending all of my love and everyone else's from Houston. Christ is king indeed. And like I said, it did feel like just God sending a sign to keep going and it's been a tough year, but it is, like I said, we are all in a different circumstance."
+
+**[01:00:31](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christ-is-king-t-01-00-31)**
+> "...se them, go max. We love you. Christ is king."
+
+**[01:01:27](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-christ-is-king-t-01-01-16)**
+> "... lost me with his commentary. Christ is King. I just can't split my time. This case takes so m..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>

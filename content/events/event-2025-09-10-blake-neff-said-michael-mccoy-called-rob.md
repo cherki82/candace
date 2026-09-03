@@ -16,7 +16,7 @@ date: "2025-09-10"
 
 > Blake Neff said Michael McCoy called Rob McCoy after Charlie Kirk was shot.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
 
@@ -33,3 +33,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=294s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > his father, Pastor Rob McCoy of Calvary Chapel Church in Thousand Oaks, longtime pastor.
+
+### 3. Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footag...
+
+**Episode:** [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md)
+**Timestamp:** [00:31:08](/episodes/ep-HIlPQ-_dcxM.md#t-00-30-42) 
+<a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=1868s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> He calls Rob McCoy and he says, Dad, someone shot Charlie. You need to call all of your pastor friends. ... Charlie was hit. We need everyone to pray right now.

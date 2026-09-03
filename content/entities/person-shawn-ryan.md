@@ -1,6 +1,6 @@
 ---
 title: "Shawn Ryan"
-description: "Shawn Ryan (People) - 67 mentions"
+description: "Shawn Ryan (People) - 70 mentions"
 id: "person-shawn-ryan"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-41">2025-11-05 · 00:23:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-shawn-ryan-t-00-22-24">2026-08-19 · 00:22:45</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-shawn-ryan-t-01-04-51">2026-09-02 · 01:04:51</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -65,6 +65,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-person-shawn-ryan-t-00-08-01" style="--pulse-height:10%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-shawn-ryan-t-00-34-59" style="--pulse-height:10%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-shawn-ryan-t-00-01-00" style="--pulse-height:20%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-shawn-ryan-t-00-37-47" style="--pulse-height:30%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -100,6 +101,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-person-shawn-ryan-t-00-08-01) | 1 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-shawn-ryan-t-00-34-59) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-shawn-ryan-t-00-01-00) | 2 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-shawn-ryan-t-00-37-47) | 3 |
 
 </details>
 </section>
@@ -111,7 +113,21 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3 mentions)</summary>
+
+**[00:37:54](/episodes/ep-HIlPQ-_dcxM.md#ent-person-shawn-ryan-t-00-37-47)**
+> "They were talking about topics. They were talking about How men can get healthy. I mean, the Joe Rogan, the Shawn Ryan are talking about military experiences."
+
+**[00:38:00](/episodes/ep-HIlPQ-_dcxM.md#ent-person-shawn-ryan-t-00-37-47)**
+> "I mean, the Joe Rogan, the Shawn Ryan's are talking about military experiences. It's now ..."
+
+**[01:04:51](/episodes/ep-HIlPQ-_dcxM.md#ent-person-shawn-ryan-t-01-04-51)**
+> "...fore he was sitting down with Shawn Ryan he was like no nothing so there just seems to be ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
@@ -482,7 +498,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <summary>Interviewed (3)</summary>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
-<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:08:56](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury."”
@@ -497,6 +513,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:10](/episodes/ep-581dILVcEE4.md#t-00-23-45): “First up, many of you guys pinged me regarding Brian Harpole in an interview that he did with Sean Bryan.”
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:41:03](/episodes/ep-9k2xrAC0H88.md#t-00-40-54): “Now, why is this date interesting? Well, we're going to pop into the timeline and I'm going to remind you first and foremost that Brian Harpole, when he sits down with Shawn Ryan, tells us that they began preparations for the UVU event.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06): “Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan).”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51): “suddenly because they're just getting antsy and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well Brian Harpole said there were no threats the night before he was sitting down with Shawn Ryan he was like no nothing so there just seems to be this constant conflict between what various people on the security team and at Turning Point USA recall anyway we will leave it at that we will see you guys tomorrow”
 
 </details>
 
@@ -541,7 +558,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 </details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:08:56](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury."”
@@ -555,6 +572,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:10](/episodes/ep-581dILVcEE4.md#t-00-23-45): “First up, many of you guys pinged me regarding Brian Harpole in an interview that he did with Sean Bryan.”
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:41:03](/episodes/ep-9k2xrAC0H88.md#t-00-40-54): “Now, why is this date interesting? Well, we're going to pop into the timeline and I'm going to remind you first and foremost that Brian Harpole, when he sits down with Shawn Ryan, tells us that they began preparations for the UVU event.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:15:13](/episodes/ep-es7PWdFGoFI.md#t-00-15-06): “Now, obviously we discussed the security. I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan).”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51): “suddenly because they're just getting antsy and they're like oh Charlie (Charlie Kirk) did think he was going to die and it's like well Brian Harpole said there were no threats the night before he was sitting down with Shawn Ryan he was like no nothing so there just seems to be this constant conflict between what various people on the security team and at Turning Point USA recall anyway we will leave it at that we will see you guys tomorrow”
 
 </details>
 
@@ -586,7 +604,15 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Shawn Ryan (4)</strong></summary>
+<summary><strong class="section-title">Statements about Shawn Ryan (5)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Brian Harpole told Shawn Ryan there had been no threats the..."](/statements/statement-71ee6a67771e.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1)</summary>

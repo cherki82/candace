@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 645 mentions"
+description: "Tucker Carlson (People) - 647 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tucker-carlson-t-00-53-22">2026-09-01 · 00:53:49</a></strong></div>
-<div><span>Episodes</span><strong>107</strong></div>
-<div><span>Mentions</span><strong>645</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-tucker-carlson-t-00-37-04">2026-09-02 · 00:37:35</a></strong></div>
+<div><span>Episodes</span><strong>108</strong></div>
+<div><span>Mentions</span><strong>647</strong></div>
 <div><span>Statements by</span><strong>62</strong></div>
 <div><span>Statements about</span><strong>95</strong></div>
 <div><span>Relationships</span><strong>124</strong></div>
@@ -142,6 +142,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tucker-carlson-t-00-22-14" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-tucker-carlson-t-00-49-01" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tucker-carlson-t-00-53-22" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-tucker-carlson-t-00-37-04" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -254,6 +255,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-tucker-carlson-t-00-22-14) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-tucker-carlson-t-00-49-01) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-tucker-carlson-t-00-53-22) | 2 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tucker-carlson-t-00-37-04) | 2 |
 
 </details>
 </section>
@@ -265,7 +267,18 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (645)</strong></summary>
+<summary><strong class="section-title">Raw mentions (647)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
+
+**[00:37:32](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tucker-carlson-t-00-37-04)**
+> "Log on and complain every day. Did you hear what Tucker (Tucker Carlson) said? Did you hear what Candace (Candace Owens) said?"
+
+**[00:37:35](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tucker-carlson-t-00-37-04)**
+> "Did you hear what Tucker (Tucker Carlson) and Candace (Candace Owens) said? We just don't ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>

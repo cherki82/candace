@@ -1,6 +1,6 @@
 ---
 title: "LGBTQ"
-description: "LGBTQ (Concepts) - 31 mentions"
+description: "LGBTQ (Concepts) - 35 mentions"
 id: "concept-lgbtq"
 type: "CONCEPT"
 aliases:
@@ -24,9 +24,9 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-concept-lgbtq-t-00-53-06">2025-09-23 · 00:53:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-lgbtq-t-01-03-16">2026-08-21 · 01:03:26</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-lgbtq-t-00-46-56">2026-09-02 · 00:47:24</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -54,6 +54,7 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-lgbtq-t-00-30-10" style="--pulse-height:20%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-concept-lgbtq-t-00-37-43" style="--pulse-height:20%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-lgbtq-t-01-02-36" style="--pulse-height:60%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 3 mentions" title="2026-08-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-lgbtq-t-00-46-29" style="--pulse-height:60%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +77,7 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-concept-lgbtq-t-00-30-10) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-concept-lgbtq-t-00-37-43) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-concept-lgbtq-t-01-02-36) | 3 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-lgbtq-t-00-46-29) | 3 |
 
 </details>
 </section>
@@ -87,7 +89,21 @@ Source: [Library of Congress — LGBTQ Pride Month](https://www.loc.gov/lgbt-pri
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3 mentions)</summary>
+
+**[00:46:29](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-lgbtq-t-00-46-29)**
+> "...ateful statements against the LGBTQ community, which Charlie (Charlie Kirk) made thos..."
+
+**[00:46:56](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-lgbtq-t-00-46-56)**
+> "...re arguing is a member of the LGBTQ community."
+
+**[00:47:24](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-lgbtq-t-00-46-56)**
+> "Hateful to the LGBTQ community."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (3 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Freemasonry"
-description: "Freemasonry (Concepts) - 69 mentions"
+description: "Freemasonry (Concepts) - 70 mentions"
 id: "concept-freemasonry"
 type: "CONCEPT"
 aliases:
@@ -27,9 +27,9 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-freemasonry-t-00-23-36">2025-09-17 · 00:23:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-freemasonry-t-00-21-42">2026-07-23 · 00:22:02</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>69</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-freemasonry-t-01-03-35">2026-09-02 · 01:03:35</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -61,6 +61,7 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-freemasonry-t-02-34-34" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-freemasonry-t-00-54-54" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-concept-freemasonry-t-00-21-42" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-concept-freemasonry-t-01-03-35" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +88,7 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-concept-freemasonry-t-02-34-34) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-freemasonry-t-00-54-54) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-freemasonry-t-00-21-42) | 1 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-freemasonry-t-01-03-35) | 1 |
 
 </details>
 </section>
@@ -98,7 +100,15 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[01:03:35](/episodes/ep-HIlPQ-_dcxM.md#ent-concept-freemasonry-t-01-03-35)**
+> "and he is going to debunk centuries of anti-catholic history i explained why that is relevant because like i said he is not a catholic but it does tell you about our school system and it is a build on the book that we read regarding the freemasonic start of america and what was happening on the european continent very fascinating so i'm excited to dive into this with you guys and also if you want to support the show you know what to do head to CandaceOwens.com, buy some merch, sign up for the book club."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>

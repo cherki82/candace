@@ -11,11 +11,15 @@ object: "person-amber-robinson"
 
 ## [Tyler Robinson](/entities/person-tyler-robinson) child of [Amber Robinson](/entities/person-amber-robinson)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70)**
 
 - [00:31:54](/episodes/ep-9hRcfSrri70#t-00-31-54): _was the one who recognized thought that he recognized Tyler Robinson from the stairwell photo and then as we said he is the one that then contacted the parents and who knows what happened thereafter maybe he then says he showed the mom and said don't think kind of looks like him and the mom said yes and then when he later on wrote his statement he was like I showed this to Amber Robinson and they she she said that it could it could be him be him or something._
+
+**[Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM)**
+
+- [00:10:25](/episodes/ep-HIlPQ-_dcxM#t-00-10-25): _So I've just been holding the line on that telling you he's going to put in a plea of not guilty and his parents don't think he's guilty and his grandparents don't think he's guilty and these people are lying and I've not moved one inch on that nor do I need to._
 
 **[Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc)**
 

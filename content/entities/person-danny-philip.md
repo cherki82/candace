@@ -1,6 +1,6 @@
 ---
 title: "Danny Philip"
-description: "Danny Philip (People) - 23 mentions"
+description: "Danny Philip (People) - 36 mentions"
 id: "person-danny-philip"
 type: "PERSON"
 categories:
@@ -19,12 +19,12 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-15-14">2026-07-14 · 00:15:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-danny-philip-t-00-21-57">2026-09-01 · 00:21:57</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-32-49">2026-09-02 · 00:33:00</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 <a href="/episodes/ep-ChuWo-n49B8.md#t-00-23-31" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#t-00-47-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-danny-philip-t-00-19-47" style="--pulse-height:20%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-14-18" style="--pulse-height:87%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 13 mentions" title="2026-09-02 · 13 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#t-00-23-31) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#t-00-47-19) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-danny-philip-t-00-19-47) | 3 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-14-18) | 13 |
 
 </details>
 </section>
@@ -62,7 +64,51 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (13 mentions)</summary>
+
+**[00:14:26](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-14-18)**
+> "This is the vehicle that just Danny McCoy is driving and he has not, sorry, Danny Philip, Danny Philip is driving."
+
+**[00:14:35](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-14-18)**
+> "And he has Danny Philip does not have Mikey McCoy (Michael McCoy) sitting..."
+
+**[00:14:42](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-14-18)**
+> "...o when they pull up, you have Danny Philip driving."
+
+**[00:15:00](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-15-00)**
+> "...t say, yeah, I showed up with Danny Philip, got out of the car."
+
+**[00:20:17](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-20-17)**
+> "...rkably if you look at him and Danny Philip Despite not being with each other, they were on o..."
+
+**[00:21:09](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-21-04)**
+> "There's Danny (Danny Philip) running behind him."
+
+**[00:21:22](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-21-04)**
+> "And off Danny (Danny Philip)."
+
+**[00:22:21](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-21-49)**
+> "... up there. The three of them, Danny Philip, and Mikey (Michael McCoy) keep running."
+
+**[00:23:40](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-23-40)**
+> "... is all just luck that Danny (Danny Philip) and Mikey (Michael McCoy) fortunately met for so..."
+
+**[00:25:51](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-25-38)**
+> "...tention to the positioning of Danny Philip and Blake Neff's car there, the Denali on the rig..."
+
+**[00:27:24](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-26-51)**
+> "... car that you have available, Danny Philip?"
+
+**[00:27:28](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-27-28)**
+> "...er and Blake (Blake Neff) and Danny Philip and Mikey McCoy (Michael McCoy) that arrived to t..."
+
+**[00:33:00](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-32-49)**
+> "...y on details when it comes to Danny Philip? These are my questions for Blake Neff, which he ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3 mentions)</summary>
@@ -174,12 +220,27 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (1)</summary>
+<summary>Appeared With (3)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:33:16](/episodes/ep-1CFDtD0IgEg.md#t-00-33-16): “Remember, we were helping Blake (Blake Neff), who blanked out. ... he didn't even remember that he was with Danny Phillip or where him and Danny Phillip went”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:14:42](/episodes/ep-HIlPQ-_dcxM.md#t-00-14-18): “Blake Neff is actually sitting in the back seat. So when they pull up, you have Danny Philip driving.”
+
+</details>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
+
+</details>
+
+- **[Justin Davis](/entities/person-justin-davis.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
 
 </details>
 
@@ -260,12 +321,27 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:33:16](/episodes/ep-1CFDtD0IgEg.md#t-00-33-16): “Remember, we were helping Blake (Blake Neff), who blanked out. ... he didn't even remember that he was with Danny Phillip or where him and Danny Phillip went”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:14:42](/episodes/ep-HIlPQ-_dcxM.md#t-00-14-18): “Blake Neff is actually sitting in the back seat. So when they pull up, you have Danny Philip driving.”
+
+</details>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
+
+</details>
+
+- **[Justin Davis](/entities/person-justin-davis.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:20:43](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17): “both of them are going to kind of run and then meet each other in front of Charlie (Charlie Kirk)'s vehicle and duck down for a little meet and greet with Justin Davis, like a perfect little dip and meet as if they all knew to go there.”
 
 </details>
 
@@ -318,7 +394,21 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Danny Philip (16)</strong></summary>
+<summary><strong class="section-title">Statements about Danny Philip (19)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3)</summary>
+
+- [00:14:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-14-18) (Claim) **Candace Owens**: ["Owens said Danny Philip drove the other Yukon Denali and Blake Neff sa..."](/statements/statement-33ee8042daf0.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [GMC Yukon Denali (model)](/entities/vehicle-gmc-yukon-denali-model.md)
+
+- [00:20:17](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17) (Claim) **Candace Owens**: ["Owens interpreted footage as showing Danny Philip and Michael McCoy co..."](/statements/statement-9da69ba1bd66.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Justin Davis](/entities/person-justin-davis.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:27:28](/episodes/ep-HIlPQ-_dcxM.md#t-00-27-28) (Claim) **Candace Owens**: ["Owens said Nate Walker, Blake Neff, Danny Philip and Michael McCoy arr..."](/statements/statement-6fbf8869cb71.md)
+  - Also about: [Nate Walker](/entities/person-nate-walker.md), [Blake Neff](/entities/person-blake-neff.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 2059 mentions"
+description: "Turning Point USA (Organizations) - 2065 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -27,11 +27,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-turning-point-usa-t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-turning-point-usa-t-00-49-36">2026-09-01 · 00:50:10</a></strong></div>
-<div><span>Episodes</span><strong>158</strong></div>
-<div><span>Mentions</span><strong>2,059</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-01-04-51">2026-09-02 · 01:04:51</a></strong></div>
+<div><span>Episodes</span><strong>159</strong></div>
+<div><span>Mentions</span><strong>2,065</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>796</strong></div>
+<div><span>Statements about</span><strong>800</strong></div>
 <div><span>Relationships</span><strong>226</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -198,6 +198,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-turning-point-usa-t-00-00-01" style="--pulse-height:42%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 23 mentions" title="2026-08-21 · 23 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-04-54" style="--pulse-height:16%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 9 mentions" title="2026-08-31 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-turning-point-usa-t-00-02-28" style="--pulse-height:16%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 9 mentions" title="2026-09-01 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-00-11-11" style="--pulse-height:11%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 6 mentions" title="2026-09-02 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -361,6 +362,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-turning-point-usa-t-00-00-01) | 23 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-04-54) | 9 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-turning-point-usa-t-00-02-28) | 9 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-00-11-11) | 6 |
 
 </details>
 </section>
@@ -372,7 +374,30 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2059)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2065)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (6 mentions)</summary>
+
+**[00:11:11](/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-00-11-11)**
+> "Let's pull up a diagram. Okay, these are the cars. You will recall, obviously, we use AI here to demonstrate to you what the vehicles are here that turning point or that are affiliated with turning point USA."
+
+**[00:15:10](/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-00-15-00)**
+> "...e've examined it, that it's a TPUSA vehicle, and that kind of stays parked on the far..."
+
+**[00:51:36](/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-00-51-27)**
+> "... fed slobber, got a call from Turning Point USA, changed all of his opinions and didn't know what..."
+
+**[00:56:16](/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-00-56-16)**
+> "...eing community noted like the Turning Point USA affiliates, that whole orbit. Nobody has been clo..."
+
+**[00:57:08](/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-00-56-59)**
+> "...t it would be associated with Turning Point USA."
+
+**[01:04:51](/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-01-04-51)**
+> "...e on the security team and at Turning Point USA recall anyway we will leave it at that we will se..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (9 mentions)</summary>
@@ -9766,7 +9791,24 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (796)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (800)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (4)</summary>
+
+- [00:11:11](/episodes/ep-HIlPQ-_dcxM.md#t-00-11-11) (Claim) **Candace Owens**: ["Owens presented a diagram identifying five vehicles affiliated with Tu..."](/statements/statement-8a5a1679a627.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Jeep Wagoneer (model)](/entities/vehicle-jeep-wagoneer-model.md), [Lincoln Navigator (model)](/entities/vehicle-lincoln-navigator-model.md)
+
+- [00:15:10](/episodes/ep-HIlPQ-_dcxM.md#t-00-15-00) (Claim) **Candace Owens**: ["Owens said footage established the Hyundai Palisade was a Turning Poin..."](/statements/statement-a7052c652586.md)
+  - Also about: [Hyundai Palisade (model)](/entities/vehicle-hyundai-palisade-model.md)
+
+- [00:26:06](/episodes/ep-HIlPQ-_dcxM.md#t-00-25-38) (Claim) **Candace Owens** (via paraphrase): ["Owens said sources with direct knowledge told her the unused SUVs did ..."](/statements/statement-2c5e8e54d8ca.md)
+  - Also about: [Vehicle-disposition sources (identity unverified)](/entities/anon-src-HIlPQ-_dcxM-006.md)
+
+- [00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27) (Accusation) **Candace Owens**: ["Owens accused Andrew Wilson of changing his opinions after receiving a..."](/statements/statement-e372a148e703.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

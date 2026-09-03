@@ -1,6 +1,6 @@
 ---
 title: "Jack Hibbs"
-description: "Jack Hibbs (People) - 49 mentions"
+description: "Jack Hibbs (People) - 52 mentions"
 id: "person-jack-hibbs"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37">2025-10-31 · 00:59:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-49-36">2026-09-01 · 00:49:51</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-jack-hibbs-t-00-54-57">2026-09-02 · 00:55:04</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>27</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -48,6 +48,7 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jack-hibbs-t-00-29-09" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-06-52" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 24 mentions" title="2026-09-01 · 24 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-jack-hibbs-t-00-54-13" style="--pulse-height:12%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-jack-hibbs-t-00-29-09) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-06-52) | 24 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-jack-hibbs-t-00-54-13) | 3 |
 
 </details>
 </section>
@@ -77,7 +79,21 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3 mentions)</summary>
+
+**[00:54:25](/episodes/ep-HIlPQ-_dcxM.md#ent-person-jack-hibbs-t-00-54-13)**
+> "Okay, top comments from yesterday's episode. We were obviously covering Pastor Jack Hibbs and his brother Butch (Burton Hibbs) Hibbs, that spanking that Pastor Hibbs definitely got from Frank Turek when those cameras went off. I know the look. Look, my mom gave me the look. I know exactly."
+
+**[00:54:45](/episodes/ep-HIlPQ-_dcxM.md#ent-person-jack-hibbs-t-00-54-13)**
+> "I made cake wrote Reverend Jack Hibbs quote, Mikey (Michael McCoy) called me right away..."
+
+**[00:55:04](/episodes/ep-HIlPQ-_dcxM.md#ent-person-jack-hibbs-t-00-54-57)**
+> "...om his father. That came from Jack Hibbs. That came from, I think, Frank Turek. It came fr..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (24 mentions)</summary>
@@ -394,11 +410,12 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <summary>Sibling Of (1)</summary>
 
 - **[Burton Hibbs](/entities/person-burton-hibbs.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:33:49](/episodes/ep-MUA9ebCF4Ow.md#t-00-33-35): “Butch Hibbs. That's the brother of Jack Hibbs—Pastor Jack Hibbs.”
 - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:44:55](/episodes/ep-7RLtGgkTh9o.md#t-00-44-27): “Butch Hibbs—Jack Hibbs' brother”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:06:26](/episodes/ep-ZkDO-MRLUco.md#t-00-06-17): “He is from a military family. His brother is Pastor Jack Hibbs, another senior pastor at Calvary Chapel Church. His church is based in Chino Hills, California.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:54:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-54-13): “Okay, top comments from yesterday's episode. We were obviously covering Pastor Jack Hibbs and his brother Butch (Burton Hibbs) Hibbs, that spanking that Pastor Hibbs definitely got from Frank Turek when those cameras went off. I know the look. Look, my mom gave me the look. I know exactly.”
 
 </details>
 
@@ -567,7 +584,15 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jack Hibbs (13)</strong></summary>
+<summary><strong class="section-title">Statements about Jack Hibbs (14)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>
+
+- [00:54:57](/episodes/ep-HIlPQ-_dcxM.md#t-00-54-57) (Claim) **Candace Owens**: ["Owens said her team reviewed Michael McCoy’s press appearances and fou..."](/statements/statement-dedd8079f893.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (12)</summary>

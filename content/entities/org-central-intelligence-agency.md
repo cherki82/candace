@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 178 mentions"
+description: "Central Intelligence Agency (Organizations) - 180 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-10-39">2025-09-16 · 01:11:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-central-intelligence-agency-t-00-21-57">2026-09-01 · 00:22:28</a></strong></div>
-<div><span>Episodes</span><strong>73</strong></div>
-<div><span>Mentions</span><strong>178</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-central-intelligence-agency-t-01-04-15">2026-09-02 · 01:04:15</a></strong></div>
+<div><span>Episodes</span><strong>74</strong></div>
+<div><span>Mentions</span><strong>180</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>64</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
@@ -109,6 +109,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-central-intelligence-agency-t-00-32-21" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-central-intelligence-agency-t-00-31-29" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-central-intelligence-agency-t-00-10-35" style="--pulse-height:24%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-central-intelligence-agency-t-01-03-35" style="--pulse-height:12%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -187,6 +188,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-central-intelligence-agency-t-00-32-21) | 1 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-central-intelligence-agency-t-00-31-29) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-central-intelligence-agency-t-00-10-35) | 4 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-central-intelligence-agency-t-01-03-35) | 2 |
 
 </details>
 </section>
@@ -198,7 +200,18 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (178)</strong></summary>
+<summary><strong class="section-title">Raw mentions (180)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
+
+**[01:04:09](/episodes/ep-HIlPQ-_dcxM.md#ent-org-central-intelligence-agency-t-01-03-35)**
+> "Only your second favorite shirt is available on the website. Also while you're there, buy a CIA hat."
+
+**[01:04:15](/episodes/ep-HIlPQ-_dcxM.md#ent-org-central-intelligence-agency-t-01-04-15)**
+> "... people out and they have the CIA hat on. And it is, we know actually the decentral..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>

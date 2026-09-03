@@ -1,6 +1,6 @@
 ---
 title: "Lance Twiggs"
-description: "Lance Twiggs (People) - 270 mentions"
+description: "Lance Twiggs (People) - 276 mentions"
 id: "person-lance-twiggs"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-44">2025-09-16 · 00:00:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-lance-twiggs-t-00-38-00">2026-09-01 · 00:38:00</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>270</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-lance-twiggs-t-00-48-17">2026-09-02 · 00:48:45</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>276</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>79</strong></div>
+<div><span>Statements about</span><strong>83</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -65,6 +65,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-lance-twiggs-t-00-40-33" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-lance-twiggs-t-01-01-31" style="--pulse-height:14%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 5 mentions" title="2026-08-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-lance-twiggs-t-00-31-39" style="--pulse-height:11%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-lance-twiggs-t-00-03-03" style="--pulse-height:17%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 6 mentions" title="2026-09-02 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -100,6 +101,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-lance-twiggs-t-00-40-33) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-lance-twiggs-t-01-01-31) | 5 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-lance-twiggs-t-00-31-39) | 4 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-lance-twiggs-t-00-03-03) | 6 |
 
 </details>
 </section>
@@ -111,7 +113,30 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (270)</strong></summary>
+<summary><strong class="section-title">Raw mentions (276)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (6 mentions)</summary>
+
+**[00:03:21](/episodes/ep-HIlPQ-_dcxM.md#ent-person-lance-twiggs-t-00-03-03)**
+> "I actually was astonished by that. That is positively wild to me. Now, I explained this to you guys yesterday that the sixth charge was witness tampering, wherein the state argued that him texting Tyler Robinson, texting Lance (Lance Twiggs) effectively don't speak to the police."
+
+**[00:04:36](/episodes/ep-HIlPQ-_dcxM.md#ent-person-lance-twiggs-t-00-04-25)**
+> "... saying that's tampering with Lance Twiggs as a witness. Two different charges, but you're g..."
+
+**[00:05:02](/episodes/ep-HIlPQ-_dcxM.md#ent-person-lance-twiggs-t-00-04-58)**
+> "...endant sent a text message to Lance Twiggs stating, if any police ask you questions, ask for..."
+
+**[00:09:54](/episodes/ep-HIlPQ-_dcxM.md#ent-person-lance-twiggs-t-00-09-23)**
+> "that he confessed to Lance (Lance Twiggs). That is not true. That is so not true that it r..."
+
+**[00:45:10](/episodes/ep-HIlPQ-_dcxM.md#ent-person-lance-twiggs-t-00-44-45)**
+> "... message to his lover, Lance (Lance Twiggs), and said, don't speak to anybody and lawyer up,..."
+
+**[00:48:45](/episodes/ep-HIlPQ-_dcxM.md#ent-person-lance-twiggs-t-00-48-17)**
+> "...ng the state's arguments that Lance Twiggs is trans, that they are in this loving relationsh..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>
@@ -1190,7 +1215,24 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lance Twiggs (79)</strong></summary>
+<summary><strong class="section-title">Statements about Lance Twiggs (83)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (4)</summary>
+
+- [00:05:32](/episodes/ep-HIlPQ-_dcxM.md#t-00-05-32) (Claim) **Tony F. Graf Jr.** (via quoted speech): ["Judge Graf said advice to obtain counsel and remain silent was lawful ..."](/statements/statement-d17acd11d90b.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:42:37](/episodes/ep-HIlPQ-_dcxM.md#t-00-42-07) (Claim) **Richard G. Novak** (via quoted speech): ["Richard Novak argued that evidence about Twiggs’s gender identity and ..."](/statements/statement-7c80e7242ada.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:32](/episodes/ep-HIlPQ-_dcxM.md#t-00-43-32) (Opinion) **Richard G. Novak** (via quoted speech): ["Richard Novak argued that attributing Robinson’s alleged hatred to his..."](/statements/statement-c9706f24b257.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:47:59](/episodes/ep-HIlPQ-_dcxM.md#t-00-47-35) (Citation) **Candace Owens** (via paraphrase): ["Owens cited page 32 of the defense’s August 11 filing as arguing that ..."](/statements/statement-db383b01e9d8.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2)</summary>

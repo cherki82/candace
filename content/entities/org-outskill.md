@@ -1,6 +1,6 @@
 ---
 title: "Outskill"
-description: "Outskill (Organizations) - 2 mentions"
+description: "Outskill (Organizations) - 3 mentions"
 id: "org-outskill"
 type: "ORG"
 categories:
@@ -18,12 +18,12 @@ Source: [Outskill - 2 Day AI Mastermind](https://www.outskill.com/mastermind-ref
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-outskill-t-00-38-20">2026-03-23 · 00:38:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-outskill-t-00-38-20">2026-03-23 · 00:38:50</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-outskill-t-00-34-16">2026-09-02 · 00:34:23</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -32,12 +32,14 @@ Source: [Outskill - 2 Day AI Mastermind](https://www.outskill.com/mastermind-ref
 <p>Highest activity: <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-outskill-t-00-38-20">EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-outskill-t-00-38-20" style="--pulse-height:100%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-outskill-t-00-34-16" style="--pulse-height:50%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-outskill-t-00-38-20) | 2 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-outskill-t-00-34-16) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [Outskill - 2 Day AI Mastermind](https://www.outskill.com/mastermind-ref
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
+
+**[00:34:23](/episodes/ep-HIlPQ-_dcxM.md#ent-org-outskill-t-00-34-16)**
+> "That's why Outskill created their three-hour AI tools workshop. It's a live workshop happening again this Saturday at 10 a.m. Eastern."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2 mentions)</summary>
@@ -63,6 +73,28 @@ Source: [Outskill - 2 Day AI Mastermind](https://www.outskill.com/mastermind-ref
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Supporter Of (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:34:23](/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16): “That's why Outskill created their three-hour AI tools workshop. It's a live workshop happening again this Saturday at 10 a.m. Eastern.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:34:23](/episodes/ep-HIlPQ-_dcxM.md#t-00-34-16): “That's why Outskill created their three-hour AI tools workshop. It's a live workshop happening again this Saturday at 10 a.m. Eastern.”
+
+</details>
+
+</details>
 
 </details>

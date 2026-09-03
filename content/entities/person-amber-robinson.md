@@ -1,6 +1,6 @@
 ---
 title: "Amber Robinson"
-description: "Amber Robinson (People) - 15 mentions"
+description: "Amber Robinson (People) - 16 mentions"
 id: "person-amber-robinson"
 type: "PERSON"
 categories:
@@ -20,7 +20,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-amber-robinson-t-00-24-05">2026-08-14 · 00:24:05</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-amber-robinson-t-00-31-36">2026-08-19 · 00:31:54</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -53,7 +53,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -124,11 +124,12 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <summary>Parent Of (1)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:35:26](/episodes/ep-nPhCKwJ6ye8.md#t-01-35-14): “They went to the parents as well to Matt Robinson. Amber basically said your life's at risk. risk there could be somebody who jumps up and wants to avenge Charlie Kirk and you know we're going to watch you and they went into a federal safe house what happens next is that they started thinking that the feds were maybe gonna like maybe not as honest as they thought and they”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:04:42](/episodes/ep-aPOyk1i2LOc.md#t-01-04-31): “They went to the parents as well to Matt Robinson and Amber basically said your life's at risk.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:31:54](/episodes/ep-9hRcfSrri70.md#t-00-31-36): “was the one who recognized thought that he recognized Tyler Robinson from the stairwell photo and then as we said he is the one that then contacted the parents and who knows what happened thereafter maybe he then says he showed the mom and said don't think kind of looks like him and the mom said yes and then when he later on wrote his statement he was like I showed this to Amber Robinson and they she she said that it could it could be him be him or something.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:10:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-10-05): “So I've just been holding the line on that telling you he's going to put in a plea of not guilty and his parents don't think he's guilty and his grandparents don't think he's guilty and these people are lying and I've not moved one inch on that nor do I need to.”
 
 </details>
 
@@ -138,11 +139,12 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <summary>Referenced By (1)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:35:26](/episodes/ep-nPhCKwJ6ye8.md#t-01-35-14): “They went to the parents as well to Matt Robinson. Amber basically said your life's at risk. risk there could be somebody who jumps up and wants to avenge Charlie Kirk and you know we're going to watch you and they went into a federal safe house what happens next is that they started thinking that the feds were maybe gonna like maybe not as honest as they thought and they”
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:04:42](/episodes/ep-aPOyk1i2LOc.md#t-01-04-31): “They went to the parents as well to Matt Robinson and Amber basically said your life's at risk.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:31:54](/episodes/ep-9hRcfSrri70.md#t-00-31-36): “was the one who recognized thought that he recognized Tyler Robinson from the stairwell photo and then as we said he is the one that then contacted the parents and who knows what happened thereafter maybe he then says he showed the mom and said don't think kind of looks like him and the mom said yes and then when he later on wrote his statement he was like I showed this to Amber Robinson and they she she said that it could it could be him be him or something.”
+- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:10:25](/episodes/ep-HIlPQ-_dcxM.md#t-00-10-05): “So I've just been holding the line on that telling you he's going to put in a plea of not guilty and his parents don't think he's guilty and his grandparents don't think he's guilty and these people are lying and I've not moved one inch on that nor do I need to.”
 
 </details>
 

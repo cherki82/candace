@@ -16,7 +16,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was transported to a hospital in an SUV after he was shot.
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
 
@@ -49,3 +49,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=1284s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > someone in the hospital-bound SUV was providing updates to Ben Shapiro's security team
+
+### 5. Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footag...
+
+**Episode:** [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md)
+**Timestamp:** [00:15:46](/episodes/ep-HIlPQ-_dcxM.md#t-00-15-34) 
+<a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=946s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> If suddenly Justin Davis, who is driving the car on the left-hand side, now has to drive Christopher's vehicle to the hospital. ... At the very least, if that's the circumstance and they decide this is the vehicle that we want to take and we're going to take this in a hurry because they get Charlie in that car within 45 seconds, right?

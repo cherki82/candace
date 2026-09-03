@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk assassination"
-description: "Charlie Kirk assassination (Events) - 253 mentions"
+description: "Charlie Kirk assassination (Events) - 255 mentions"
 id: "event-charlie-kirk-assassination"
 type: "EVENT"
 aliases:
@@ -29,9 +29,9 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-26-07">2025-09-15 · 00:24:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-event-charlie-kirk-assassination-t-00-34-07">2026-08-31 · 00:34:24</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>253</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-event-charlie-kirk-assassination-t-00-50-47">2026-09-02 · 00:51:16</a></strong></div>
+<div><span>Episodes</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>255</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>189</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -88,6 +88,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-event-charlie-kirk-assassination-t-00-00-45" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-event-charlie-kirk-assassination-t-00-54-22" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-event-charlie-kirk-assassination-t-00-00-45" style="--pulse-height:21%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-event-charlie-kirk-assassination-t-00-50-47" style="--pulse-height:11%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -139,6 +140,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-event-charlie-kirk-assassination-t-00-00-45) | 2 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-event-charlie-kirk-assassination-t-00-54-22) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-event-charlie-kirk-assassination-t-00-00-45) | 4 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-event-charlie-kirk-assassination-t-00-50-47) | 2 |
 
 </details>
 </section>
@@ -150,7 +152,18 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (253)</strong></summary>
+<summary><strong class="section-title">Raw mentions (255)</strong></summary>
+
+<details>
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
+
+**[00:17:03](/episodes/ep-HIlPQ-_dcxM.md#ent-event-charlie-kirk-assassination-t-00-50-47)**
+> "Yet Christopher (security driver; surname unverified), for some odd reason, Minutes before Charlie (Charlie Kirk) gets hit, he decides to go upstairs with Nate Walker, and he is upstairs when the shot goes off. So Chris (Christopher; security driver; surname unverified), the security person who has the keys, who locks the car, is upstairs when the explosive goes off."
+
+**[00:51:16](/episodes/ep-HIlPQ-_dcxM.md#ent-event-charlie-kirk-assassination-t-00-50-47)**
+> "...that deeply matters like with Charlie Kirk assassination."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (4 mentions)</summary>
