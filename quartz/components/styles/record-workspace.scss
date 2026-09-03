@@ -658,17 +658,49 @@
   .rw-transcript-tools select {
     max-width: 100%;
   }
-  .rw-transcript-passages {
+  .rw-episode-reader > .rw-source-actions {
+    margin-block: 12px 16px;
+  }
+  .rw-episode-reader .rw-transcript-tools {
+    align-items: center;
+    justify-content: space-between;
+  }
+  .rw-episode-reader .rw-transcript-tools p {
+    margin: 0;
+  }
+  .rw-episode-reader .rw-transcript-tools label {
+    flex: 0 1 240px;
+  }
+  .rw-linked-transcript {
     max-width: 82ch;
     margin-inline: auto;
+    font-size: var(--rw-reader-size);
+    line-height: 1.8;
+    overflow-wrap: anywhere;
+  }
+  .rw-linked-transcript > p[id^="t-"] {
+    padding-block: 22px;
+    border-top: 1px solid var(--lightgray);
+    scroll-margin-top: 16px;
+  }
+  .rw-linked-transcript > p > strong:first-child {
+    display: block;
+    margin-bottom: 12px;
+    font-size: 13px;
+  }
+  .rw-linked-transcript a {
+    color: var(--secondary);
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+  }
+  .rw-linked-transcript .youtube-timestamp-link,
+  .rw-linked-transcript .timestamp-link {
+    text-decoration: none;
   }
   .rw-transcript-passage {
     padding-block: 24px;
     border-top: 1px solid var(--lightgray);
     scroll-margin-top: 16px;
-  }
-  .rw-transcript-passage[data-selected] {
-    border-top: 2px solid var(--secondary);
   }
   .rw-transcript-passage header {
     display: flex;
@@ -682,24 +714,6 @@
     font-size: var(--rw-reader-size);
     line-height: 1.8;
     overflow-wrap: anywhere;
-  }
-  .rw-transcript-links {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: start;
-    gap: 14px;
-    font-size: 12px;
-    margin-top: 12px;
-  }
-  .rw-transcript-links details {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background: none;
-  }
-  .rw-transcript-links summary {
-    color: var(--secondary);
-    padding: 0;
   }
   // Entity profiles put the question first; their reader uses the page's natural scroll.
   &[data-view="entity-profile"] {

@@ -8,12 +8,21 @@ export const WorkspaceShell: QuartzTransformerPlugin = () => ({
   textTransform(_ctx, src, file) {
     if (!file?.data.slug || !workspaceRoute(file.data.slug)) return src
     // Retain YAML metadata, including aliases and publication dates, verbatim.
-    return src.match(/^---\r?\n[\s\S]*?\r?\n---(?:\r?\n|$)/)?.[0] || ""
+    const header = src.match(/^---\r?\n[\s\S]*?\r?\n---(?:\r?\n|$)/)?.[0] || ""
+    // Compile the original linked transcript once for lazy loading in readers.
+    // The large evidence appendices and timestamp pages remain stripped.
+    if (file.data.slug.startsWith("episodes/")) {
+      const transcript = src.match(
+        /<details>\s*<summary>(?:<strong\b[^>]*>)?Transcript(?:<\/strong>)?<\/summary>([\s\S]*?)<\/details>/i,
+      )
+      return header + (transcript?.[1] || "")
+    }
+    return header
   },
   markdownPlugins() {
     return [
       () => (tree, file) => {
-        if (workspaceRoute(file.data.slug!)) {
+        if (workspaceRoute(file.data.slug!) && !file.data.slug!.startsWith("episodes/")) {
           tree.children = [
             {
               type: "paragraph",

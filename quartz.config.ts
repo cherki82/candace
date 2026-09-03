@@ -1,6 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 import { WorkspaceShell } from "./quartz/plugins/transformers/workspaceShell"
+import { Transcripts } from "./quartz/plugins/emitters/transcripts"
 
 /**
  * Quartz 4 Configuration
@@ -75,6 +76,7 @@ const config: QuartzConfig = {
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
+      Transcripts(),
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),

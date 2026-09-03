@@ -19,3 +19,19 @@ test("workspace shells retain exact metadata without parsing legacy lists", () =
     header + "Reviewed lineage",
   )
 })
+
+test("episode readers retain original entity links and timestamps without appendices", () => {
+  const file = new VFile()
+  file.data.slug = "episodes/ep-a" as FullSlug
+  const header = '---\ntitle: "Episode"\n---\n'
+  const transcript =
+    '\n\n**00:01:00:** <a href="/entities/person-a.md">Alice</a> spoke. ^t-00-01-00\n\n'
+  const source =
+    header +
+    'Metadata\n<details>\n<summary><strong class="section-title">Transcript</strong></summary>' +
+    transcript +
+    "</details>\n# Appendix\nLarge evidence lists"
+  assert.equal(WorkspaceShell().textTransform!({} as BuildCtx, source, file), header + transcript)
+  file.data.slug = "timestamps/ep-a/t-00-01-00" as FullSlug
+  assert.equal(WorkspaceShell().textTransform!({} as BuildCtx, source, file), header)
+})

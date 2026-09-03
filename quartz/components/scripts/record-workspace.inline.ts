@@ -19,8 +19,10 @@ import {
   recordUrl,
   stateUrl,
 } from "./record-workspace-model"
+import { normalizeRelativeURLs } from "../../util/path"
 import type {
   Appearance,
+  EpisodeMeta,
   IndexedRecord,
   Manifest,
   RecordItem,
@@ -425,7 +427,46 @@ async function initWorkspace(root: HTMLElement) {
     }
     const recordLink = (href: string, title: string) =>
       `<a href="${safe(href)}">${esc(title)} →</a>`
-    function renderTranscript() {
+    async function linkedTranscript(ep: EpisodeMeta) {
+      try {
+        const payload = await json<{ html: string }>(asset(`../transcripts/${ep.slug}.json`))
+        const content = document.createElement("div")
+        content.innerHTML = payload.html
+        normalizeRelativeURLs(content, local(`/episodes/${ep.slug}`))
+        if (state.q.trim()) {
+          const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT)
+          const nodes: Text[] = []
+          while (walker.nextNode()) nodes.push(walker.currentNode as Text)
+          for (const node of nodes) {
+            const marked = highlight(node.data, state.q)
+            if (!marked.includes("<mark>")) continue
+            const span = document.createElement("span")
+            span.innerHTML = marked
+            node.replaceWith(span)
+          }
+        }
+        return content.innerHTML
+      } catch {
+        // The existing paragraph data remains readable if a transcript asset is unavailable.
+        return ""
+      }
+    }
+    function transcriptTools(payload: Payload, inline = false) {
+      const paragraphs = payload.paragraphs || []
+      return `<div class="rw-transcript-tools"><div>${inline ? "" : "<h2>Full transcript</h2>"}<p>${paragraphs.length.toLocaleString()} passages · Continuous reading</p></div><label><span${inline ? ' class="sr-only"' : ""}>Jump to a passage</span><select name="transcript-jump"><option value="">Jump to a timestamp</option>${paragraphs.map((p) => `<option value="${esc(p.id)}" ${p.id === state.item ? "selected" : ""}>${esc(p.time)} · ${esc(p.speaker)}</option>`).join("")}</select></label>${inline ? "" : '<button type="button" data-action="smaller" aria-label="Decrease transcript text size">A−</button><button type="button" data-action="larger" aria-label="Increase transcript text size">A+</button>'}</div><p class="rw-caveat">Auto-transcribed; speaker identification may be imperfect. Linked names open entity records, not verification of the claims.</p>`
+    }
+    function transcriptFallback(ep: EpisodeMeta, payload: Payload) {
+      const paragraphRecords = new Map(payload.records.map((record) => [record.id, record]))
+      return (
+        (payload.paragraphs || [])
+          .map((p) => {
+            const record = paragraphRecords.get(p.id)
+            return `<section id="${esc(p.id.replace(/^passage-/, ""))}" class="rw-transcript-passage"><header><strong>${esc(p.time)} · ${esc(p.speaker)}</strong></header><p>${highlight(p.text, state.q)}</p><div class="rw-tags">${(record?.entityIds || []).map((id) => recordLink(`/entities/${id}`, manifest.entities[id]?.name || id)).join("")}</div>${recordLink(`/episodes/${ep.slug}?item=${p.id}`, "Passage details")}</section>`
+          })
+          .join("") || "<p>No transcript is recorded for this source.</p>"
+      )
+    }
+    async function renderTranscript(restoreWindow = false) {
       if (!episode) return
       root.dataset.mode = state.view
       root.querySelectorAll<HTMLAnchorElement>("[data-episode-view]").forEach((link) => {
@@ -437,37 +478,12 @@ async function initWorkspace(root: HTMLElement) {
       const transcript = $(".rw-transcript")
       transcript.hidden = state.view !== "transcript"
       if (transcript.hidden) return
-      const paragraphs = payloads[0].paragraphs || []
-      const anchor = (p: Paragraph) => p.id.replace(/^passage-/, "")
-      transcript.innerHTML = `<div class="rw-transcript-tools"><div><h2>Full transcript</h2><p>${paragraphs.length.toLocaleString()} passages · Continuous reading · Use your browser’s Find to search every word.</p></div><label>Jump to a passage<select name="transcript-jump"><option value="">Choose a timestamp</option>${paragraphs.map((p) => `<option value="${esc(p.id)}" ${p.id === state.item ? "selected" : ""}>${esc(p.time)} · ${esc(p.speaker)}</option>`).join("")}</select></label><button type="button" data-action="smaller" aria-label="Decrease transcript text size">A−</button><button type="button" data-action="larger" aria-label="Increase transcript text size">A+</button></div><p class="rw-caveat">Automatically transcribed source material; speaker identification may be imperfect. Entity tags reflect recorded mentions, not verified claims.</p><div class="rw-transcript-passages">${
-        paragraphs
-          .map((p) => {
-            const record = byId.get(p.id)
-            const selectedUrl = stateUrl(
-              new URL(location.href),
-              { ...state, view: "workspace", item: p.id, appearance: 0, kind: "passage" },
-              route,
-            )
-            const passageUrl = stateUrl(
-              new URL(location.href),
-              { ...state, view: "transcript", item: p.id },
-              route,
-            )
-            passageUrl.hash = anchor(p)
-            let watch = episode.url
-            try {
-              const url = new URL(watch)
-              if (/(^|\.)youtube\.com$|(^|\.)youtu\.be$/.test(url.hostname))
-                url.searchParams.set("t", String(Math.floor(p.start)))
-              watch = url.href
-            } catch {
-              /* safe() rejects invalid schemes. */
-            }
-            return `<section id="${esc(anchor(p))}" class="rw-transcript-passage" ${state.item === p.id ? 'data-selected="true"' : ""}><header><a href="${esc(passageUrl.href)}" aria-label="Link to passage at ${esc(p.time)}">${esc(p.time)}</a><strong>${esc(p.speaker || "Speaker not recorded")}</strong><a href="${safe(watch)}" target="_blank" rel="noopener">Original source ↗</a></header><p>${highlight(p.text, state.q)}</p><div class="rw-transcript-links"><a href="${esc(selectedUrl.href)}">Passage details →</a>${record?.entityIds.length ? `<details><summary>Entities in this passage (${record.entityIds.length})</summary><div class="rw-tags">${record.entityIds.map((id) => recordLink(`/entities/${id}`, manifest.entities[id]?.name || id)).join("")}</div></details>` : ""}</div></section>`
-          })
-          .join("") ||
-        "<p>No transcript is recorded for this source. Use the original source link above.</p>"
-      }</div>`
+      transcript.innerHTML = `${transcriptTools(payloads[0])}<div class="rw-linked-transcript"><p role="status">Loading full transcript…</p></div>`
+      const body = transcript.querySelector<HTMLElement>(".rw-linked-transcript")!
+      const html = await linkedTranscript(episode)
+      if (!live() || !body.isConnected) return
+      body.innerHTML = html || transcriptFallback(episode, payloads[0])
+      if (!restoreWindow) scrollToTranscriptSelection()
     }
     function sourceHtml(r: RecordItem, app: Appearance) {
       const ep = manifest.episodes[app.episode]
@@ -496,6 +512,28 @@ async function initWorkspace(root: HTMLElement) {
       if (!r) {
         $(".rw-content").innerHTML =
           `<div class="rw-welcome"><p class="rw-eyebrow">${state.item ? "Record not found in this snapshot" : entity ? "Inside this entity’s record" : "Start with the information"}</p><h2>${entity ? "Explore this entity’s evidence." : episode ? "Read this episode in context." : entityCatalog ? "Choose an entity.<br>Explore its record." : state.q ? "Find the passage.<br>Keep the context." : "The evidence,<br>without the detour."}</h2><p>${state.item ? "This saved record is not available in this view. Choose another result or return to your previous screen." : entity ? `Choose a statement, mention or connection linked to ${esc(entity.name)}.` : entityCatalog ? "Choose an entity to open its full details, statements, mentions, and relationships." : "Choose a result to read its full content, attribution, and source evidence here."}</p><p class="rw-help">${entity ? "Looking for another person, place or organization? Use All entities above." : entityCatalog ? "Back returns to this search and your place in the results." : "Episode titles identify the source. They no longer stand between you and the content."}</p>${route.catalog === "all" ? "<p>For every word of a transcript, open an episode or use Search transcripts below.</p>" : ""}</div>`
+        return
+      }
+      if (r.kind === "episode") {
+        const ep = manifest.episodes[r.id]
+        const readerScroll = saved.readerScroll
+        $(".rw-selection-label").textContent = "Full episode transcript"
+        $(".rw-content").innerHTML =
+          `<article class="rw-episode-reader" aria-label="Selected episode transcript"><p class="rw-eyebrow">Episode transcript</p><h2 class="rw-record-title">${esc(r.text)}</h2><p class="rw-source-meta">${esc(dateLabel(r.date))} · ${esc(r.speaker)}</p><div class="rw-source-actions">${recordLink(`${r.href}?view=transcript`, "Open full page")}${recordLink(r.href, "Search this episode’s evidence")}${ep?.url ? `<a href="${safe(ep.url)}" target="_blank" rel="noopener">Original source ↗</a>` : ""}</div><div class="rw-episode-transcript"><p role="status">Loading full transcript…</p></div></article>`
+        try {
+          const [payload, html] = await Promise.all([
+            load(`episodes/${r.id}.json`),
+            ep ? linkedTranscript(ep) : Promise.resolve(""),
+          ])
+          if (!live() || generation !== readerGeneration) return
+          $(".rw-episode-transcript").innerHTML =
+            `${transcriptTools(payload, true)}<div class="rw-linked-transcript">${html || (ep ? transcriptFallback(ep, payload) : "No transcript is recorded for this source.")}</div>`
+          $(".rw-reader").scrollTop = readerScroll
+        } catch {
+          if (live() && generation === readerGeneration)
+            $(".rw-episode-transcript").innerHTML =
+              `<p>Could not load the transcript. ${recordLink(`${r.href}?view=transcript`, "Open the episode to retry")}</p>`
+        }
         return
       }
       const app = chosenApp(r)
@@ -527,7 +565,6 @@ async function initWorkspace(root: HTMLElement) {
         `${!matches.some((item) => item.id === r.id) ? '<p class="rw-outside">This selection is outside the current results. Back restores your previous view.</p>' : ""}<article class="rw-record" aria-label="Full selected record"><div class="rw-record-topline"><p class="rw-eyebrow">${esc(contextName)} / ${esc(label(r.type))}</p>${r.kind === "statement" ? `<span class="rw-review-badge" data-outcome="${esc(outcome)}">${esc(assessmentLabel(outcome))}</span>` : ""}</div><h2 class="rw-record-title">${highlight(r.text, state.q)}</h2>${metadata.date ? (r.speaker ? `<p class="rw-attribution"><strong>${esc(r.speaker)}</strong>${r.reportedBy ? ` · reported by ${esc(r.reportedBy)}` : ""}<small>${esc(metadata.date)}${app ? ` · ${esc(app.time)}` : ""}</small></p>` : `<p class="rw-source-meta">${esc(metadata.date)}${r.datePrecision ? ` · ${esc(r.datePrecision)} precision` : ""}</p>`) : ""}
         ${entity ? `<div class="rw-why"><strong>Why this is here</strong><p>${esc(entityReasons(r, entity.id).join(" · "))} (${esc(entity.name)})</p></div>` : ""}
         <p class="rw-caveat">${r.kind === "mention" ? "A transcript mention is not necessarily a claim about this entity." : r.kind === "statement" ? (r.type === "factual_claim" ? "A factual claim is an assertion that can be examined—not an established fact. Extracted wording may not be verbatim." : "Extracted statement, not necessarily verbatim. Attribution does not establish the underlying claim.") : r.kind === "relationship" ? "An extracted relationship supported by the recorded excerpts—not an independently verified finding." : r.kind === "event" ? "An event recorded in the research dataset. Dates may be approximate; inspect the source wording." : r.kind === "passage" ? "Automatically transcribed source material; speaker identification may be imperfect." : "Follow the evidence and source material before drawing conclusions."}</p>
-        ${r.kind === "episode" ? `<p class="rw-open-scope">${recordLink(r.href, "Search this episode’s transcript & evidence")}</p>` : ""}
         ${r.notes ? `<section><h3>${r.kind === "source" ? "Why this source was cited" : "Record notes"}</h3><p class="rw-notes">${highlight(r.notes, state.q)}</p></section>` : ""}
         ${r.dateAsStated ? `<p>Source date wording: ${esc(r.dateAsStated)}</p>` : ""}
         ${r.url ? `<p><a href="${safe(r.url)}" target="_blank" rel="noopener">${esc(r.domain || "Original source")} ↗</a></p>` : ""}
@@ -595,7 +632,7 @@ async function initWorkspace(root: HTMLElement) {
     }
     function render(restoreWindow = false) {
       renderResults()
-      renderTranscript()
+      const pendingTranscript = renderTranscript(restoreWindow)
       const selected = state.item
       const top = saved.windowScroll || 0
       const pendingReader = renderReader()
@@ -603,7 +640,7 @@ async function initWorkspace(root: HTMLElement) {
         window.scrollTo({ top })
         const reached = window.scrollY
         // Expanded transcript context can arrive after the initial history restoration.
-        void pendingReader.then(() => {
+        void Promise.all([pendingReader, pendingTranscript]).then(() => {
           if (live() && state.item === selected && window.scrollY === reached)
             window.scrollTo({ top })
         })
@@ -648,8 +685,14 @@ async function initWorkspace(root: HTMLElement) {
           })
         if (input.name === "appearance") change({ appearance: Number(input.value) }, false)
         if (input.name === "transcript-jump" && input.value) {
-          change({ item: input.value }, false)
-          scrollToTranscriptSelection()
+          if (route.episode) {
+            change({ item: input.value }, false)
+            scrollToTranscriptSelection()
+          } else {
+            $(".rw-linked-transcript")
+              .querySelector(`#${CSS.escape(input.value.replace(/^passage-/, ""))}`)
+              ?.scrollIntoView({ block: "start" })
+          }
         }
       },
       { signal: abort.signal },
@@ -805,9 +848,11 @@ async function initWorkspace(root: HTMLElement) {
       saved.reading = false
     }
     function scrollToTranscriptSelection() {
-      if (state.view === "transcript")
+      if (state.view === "transcript" && state.item)
         root
-          .querySelector('.rw-transcript-passage[data-selected="true"]')
+          .querySelector(
+            `.rw-linked-transcript #${CSS.escape(state.item.replace(/^passage-/, ""))}`,
+          )
           ?.scrollIntoView({ block: "start" })
     }
     if (entity && !restoring && !mobile() && !new URL(location.href).searchParams.has("item")) {
