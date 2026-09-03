@@ -2,6 +2,8 @@ import assert from "node:assert/strict"
 import { test } from "node:test"
 import {
   defaults,
+  datalistOptions,
+  entityFilterIds,
   workspaceRoute,
   workspaceContext,
   entityTypeLabel,
@@ -76,6 +78,48 @@ const records = prepareRecords(
   ],
   manifest,
 )
+
+test("filter choices include the complete alphabet, speaker list, and escaped aliases", () => {
+  const names = Array.from({ length: 5000 }, (_, i) => ({ name: `A person ${i}` }))
+  const entities = datalistOptions([
+    ...names,
+    { name: "The Hamptons", aliases: ["East End"] },
+    { name: 'Zed & "Company"', aliases: ['<alias> "quoted"'] },
+  ])
+  assert.equal((entities.match(/<option /g) || []).length, 5002)
+  assert.ok(entities.includes('<option value="The Hamptons" label="East End">'))
+  assert.ok(
+    entities.includes(
+      '<option value="Zed &amp; &quot;Company&quot;" label="&lt;alias&gt; &quot;quoted&quot;">',
+    ),
+  )
+  const speakers = datalistOptions([...names.slice(0, 100), { name: "Zohran Mamdani" }])
+  assert.equal((speakers.match(/<option /g) || []).length, 101)
+  assert.ok(speakers.endsWith('<option value="Zohran Mamdani"></option>'))
+  assert.equal(datalistOptions([]), "")
+  assert.deepEqual(
+    filterRecords(records, { ...defaults, entity: "East End" }).map((r) => r.id),
+    ["tagged"],
+  )
+})
+
+test("entity filters match entity records themselves as well as explicitly tagged evidence", () => {
+  const entity = record("a", { kind: "entity", text: "The Hamptons", aliases: ["East End"] })
+  const candidates = prepareRecords([entity, ...records], manifest)
+  assert.deepEqual([...new Set([entity, ...records].flatMap(entityFilterIds))], ["a"])
+  for (const query of ["a", "Hamptons", "East End"]) {
+    const all = filterRecords(candidates, { ...defaults, entity: query })
+    assert.deepEqual(new Set(all.map((r) => r.id)), new Set(["a", "tagged"]))
+    const entities = filterRecords(candidates, { ...defaults, kind: "entity", entity: query })
+    assert.deepEqual(
+      entities.map((r) => r.id),
+      ["a"],
+    )
+  }
+  // Matching an entity's identity does not manufacture a tag in the source record.
+  assert.deepEqual(candidates.find((r) => r.id === "a")!.entityIds, [])
+  assert.deepEqual(entityFilterIds(record("untagged")), [])
+})
 
 test("the main catalogs, details and legacy transcript links share the workspace", () => {
   for (const slug of [
@@ -213,6 +257,7 @@ test("URLs round trip cleared detail selections and default filters", () => {
     workspaceRoute("index/claims")!,
     workspaceRoute("tags/hamptons")!,
     workspaceRoute("episodes/ep-abc")!,
+    workspaceRoute("index/episodes")!,
   ]) {
     const url = stateUrl(new URL("https://example.test/candace/statements/a#old"), defaults, route)
     assert.deepEqual(readState(url, route), defaults)
@@ -230,6 +275,38 @@ test("URLs round trip cleared detail selections and default filters", () => {
   assert.deepEqual(
     readState(stateUrl(new URL("https://example.test"), state), { catalog: "all", title: "" }),
     state,
+  )
+})
+
+test("episode catalogs default to newest while explicit sorts and transcript order are preserved", () => {
+  for (const slug of ["index/episodes", "episodes/index", "episodes"]) {
+    const route = workspaceRoute(slug)!
+    const url = new URL(`https://example.test/candace/${slug}?q=Hamptons`)
+    const state = readState(url, route)
+    assert.equal(state.sort, "newest")
+    assert.equal(stateUrl(url, state, route).searchParams.has("sort"), false)
+    for (const sort of ["relevance", "oldest", "newest"]) {
+      const chosen = { ...state, sort }
+      assert.deepEqual(readState(stateUrl(url, chosen, route), route), chosen)
+    }
+  }
+  const sorted = prepareRecords(
+    [
+      record("older", { kind: "episode", date: "2025-01-01", text: "Hamptons Hamptons" }),
+      record("recent", { kind: "episode", date: "2026-09-01", text: "A Hamptons visit" }),
+    ],
+    manifest,
+  )
+  const route = workspaceRoute("index/episodes")!
+  assert.deepEqual(
+    filterRecords(sorted, readState(new URL("https://example.test?q=Hamptons"), route)).map(
+      (r) => r.id,
+    ),
+    ["recent", "older"],
+  )
+  assert.equal(
+    readState(new URL("https://example.test"), workspaceRoute("episodes/ep-abc")!).sort,
+    "oldest",
   )
 })
 test("entity results open the full entity workspace without carrying catalog filters", () => {
@@ -319,7 +396,8 @@ test("entity claims are directly tagged factual statements, not opinions or inci
     "Attributed to this entity",
   ])
   assert.deepEqual(entityReasons(items[6], "a"), ["Name occurrence in the transcript"])
-  assert.equal(entityViews.length, 6)
+  assert.equal(entityViews[0].kind, "all")
+  assert.ok(entityViews.some((view) => view.kind === "statement"))
   assert.equal(assessmentLabel("mixed"), "Mixed assessment")
   assert.equal(
     assessmentLabel(
@@ -333,10 +411,10 @@ test("entity claims are directly tagged factual statements, not opinions or inci
     "Review recorded",
   )
 })
-test("entity views default to claims but preserve legacy and explicit filters in share URLs", () => {
+test("entity views default to all records but preserve legacy and explicit filters in share URLs", () => {
   const route = workspaceRoute("entities/a")!
   const url = new URL("https://example.test/candace/entities/a")
-  assert.equal(readState(url, route).kind, "claims")
+  assert.equal(readState(url, route).kind, "all")
   assert.equal(readState(url, route).sort, "newest")
   for (const kind of [...entityViews.map((v) => v.kind), "about", "event", "factual_claim"]) {
     const state = { ...defaults, kind, q: "Hamptons", item: "both", page: 2, appearance: 1 }
@@ -346,6 +424,30 @@ test("entity views default to claims but preserve legacy and explicit filters in
   assert.equal(readState(new URL(`${url}?kind=mentions&entity=unrelated`), route).entity, "")
   assert.equal(recordMetadata(record("multi-source"), "2025-06-17").date, "17 Jun 2025")
 })
+test("catalogs and episode viewers default to all records within their scope", () => {
+  for (const slug of [
+    "index",
+    "index/explorer",
+    "index/entities",
+    "index/episodes",
+    "index/statements",
+    "index/event-explorer",
+    "index/sources",
+    "index/relationships",
+    "episodes/ep-abc",
+  ]) {
+    const route = workspaceRoute(slug)!
+    const url = new URL(`https://example.test/candace/${slug}`)
+    assert.equal(readState(url, route).kind, "all", slug)
+    assert.equal(readState(new URL(`${url}?kind=statement`), route).kind, "statement")
+  }
+  // This named shortcut intentionally scopes the catalog to factual claims.
+  assert.equal(
+    readState(new URL("https://example.test"), workspaceRoute("index/claims")!).kind,
+    "factual_claim",
+  )
+})
+
 test("full transcript links retain their reading mode and timestamp across navigation", () => {
   const route = workspaceRoute("episodes/ep-abc")!
   const url = new URL("https://example.test/candace/episodes/ep-abc?view=transcript#t-00-01-00")

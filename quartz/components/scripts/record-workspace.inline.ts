@@ -1,7 +1,9 @@
 import {
   defaults,
   dateLabel,
+  datalistOptions,
   assessmentLabel,
+  entityFilterIds,
   entityReasons,
   entityViews,
   entityTypeLabel,
@@ -11,7 +13,6 @@ import {
   label,
   matchPassage,
   matchesKind,
-  normalize,
   outcomeFor,
   prepareRecords,
   readState,
@@ -174,7 +175,10 @@ async function initWorkspace(root: HTMLElement) {
         ? `<p>${esc(dateLabel(episode.date))} · ${esc(episode.channel)}</p><a href="${safe(episode.url)}" target="_blank" rel="noopener">Original source ↗</a>`
         : `<p>${records.length.toLocaleString()} ${entityCatalog ? "entities" : "searchable records"}</p><p>Read-only research snapshot</p>`
     const kinds = entity
-      ? [...entityViews.map((v) => v.kind), "about", "event", "factual_claim"]
+      ? [
+          ...entityViews.map((v) => v.kind),
+          ...(["about", "factual_claim"].includes(state.kind) ? [state.kind] : []),
+        ]
       : episode
         ? ["all", "passage", "statement", "relationship", "event"]
         : route.catalog === "all"
@@ -194,7 +198,7 @@ async function initWorkspace(root: HTMLElement) {
           ? entityCatalog
             ? "All entity types"
             : entity || episode
-              ? "All evidence"
+              ? "All records"
               : kindName(kind)
           : entityCatalog
             ? entityTypeLabel(kind)
@@ -206,7 +210,7 @@ async function initWorkspace(root: HTMLElement) {
             `<option value="${esc(value)}"${value === current ? " selected" : ""}>${esc(filterKindName(value))}</option>`,
         )
         .join("")
-    const entityIds = new Set(records.flatMap((r) => r.entityIds))
+    const entityIds = new Set(records.flatMap(entityFilterIds))
     const entities = [...entityIds]
       .map((id) => manifest.entities[id])
       .filter(Boolean)
@@ -215,7 +219,7 @@ async function initWorkspace(root: HTMLElement) {
     const searchLabel = entityCatalog
       ? "Find an entity"
       : entity
-        ? "Search within this view"
+        ? "Search this entity’s records"
         : episode
           ? "Search within this episode"
           : "Search this catalog"
@@ -228,21 +232,17 @@ async function initWorkspace(root: HTMLElement) {
       `<form class="rw-search" role="search"><label class="rw-search-label" for="rw-query">${searchLabel}</label><input id="rw-query" type="search" name="q" placeholder="${entityCatalog ? "Name, alias, type or tag…" : "Words, tags, names or source excerpts…"}" autocomplete="off"><button type="submit">Search ↵</button><span class="rw-scope">${esc(entity ? `Within ${entity.name}’s record` : episode ? "Within this episode" : route.catalog === "all" ? "Across statements, people, events & sources" : `Within ${kindName(route.catalog).toLowerCase()}`)}</span></form>
       <button type="button" class="rw-mobile rw-filter-toggle" data-action="filters" aria-expanded="false" aria-controls="rw-filter-panel">Filters</button><div id="rw-filter-panel">
       <div class="rw-filter-line">${primaryKinds.length > 1 ? `<div class="rw-kinds" role="group" aria-label="${kindLabel}s">${primaryKinds.map((kind) => `<button type="button" data-kind="${kind}">${esc(filterKindName(kind))} <span></span></button>`).join("")}</div>` : ""}<label class="rw-kind-select"><span>${kindLabel}</span><select name="kind">${options(kinds, state.kind)}</select></label><button type="button" data-action="reset" class="rw-text-button">Reset</button></div>
-      <div class="rw-filters"><label class="rw-tag-filter"><span>${entity ? "Also tagged with" : "Tagged entity"}</span><input type="search" name="entity" list="rw-entity-options" placeholder="Name or alias" aria-describedby="rw-filter-help"><datalist id="rw-entity-options"></datalist></label><label><span>Speaker</span><input type="search" name="speaker" list="rw-speaker-options" placeholder="Any speaker"><datalist id="rw-speaker-options">${[
-        ...new Set(records.map((r) => r.speaker).filter(Boolean)),
-      ]
-        .sort()
-        .slice(0, 80)
-        .map((s) => `<option value="${esc(s)}"></option>`)
-        .join(
-          "",
-        )}</datalist></label><details class="rw-more-filters"><summary>${entityCatalog ? "Review filters" : "Date & review filters"}</summary><div>${entityCatalog ? "" : '<label><span>From</span><input type="date" name="from"></label><label><span>To</span><input type="date" name="to"></label>'}<label><span>Recorded review</span><select name="outcome"><option value="">Any assessment</option>${[
+      <div class="rw-filters"><label class="rw-tag-filter"><span>${entity ? "Also tagged with" : "Tagged entity"}</span><input type="search" name="entity" list="rw-entity-options" placeholder="Type a name or alias" autocomplete="off" aria-describedby="rw-filter-help"><datalist id="rw-entity-options">${datalistOptions(entities)}</datalist></label><label><span>Speaker</span><input type="search" name="speaker" list="rw-speaker-options" placeholder="Any speaker" autocomplete="off"><datalist id="rw-speaker-options">${datalistOptions(
+        [...new Set(records.map((r) => r.speaker).filter(Boolean))]
+          .sort()
+          .map((name) => ({ name })),
+      )}</datalist></label><details class="rw-more-filters"><summary>${entityCatalog ? "Review filters" : "Date & review filters"}</summary><div>${entityCatalog ? "" : '<label><span>From</span><input type="date" name="from"></label><label><span>To</span><input type="date" name="to"></label>'}<label><span>Recorded review</span><select name="outcome"><option value="">Any assessment</option>${[
         ...new Set(records.map(outcomeFor)),
       ]
         .sort()
         .map((s) => `<option value="${esc(s)}">${esc(label(s))}</option>`)
         .join("")}</select></label></div></details></div>
-      <p class="rw-help" id="rw-filter-help">Tags are attached to the individual record—not everything mentioned in the same episode. Raw mention records have no additional entity tags.</p></div><div class="rw-active-filters"></div>`
+      <p class="rw-help" id="rw-filter-help"></p></div><div class="rw-active-filters"></div>`
     $(".rw-result-options").innerHTML =
       `<label><span class="sr-only">Sort results</span><select name="sort"><option value="relevance">Most relevant</option>${entityCatalog ? '<option value="name">Name A–Z</option><option value="mentions">Most mentions</option>' : '<option value="newest">Newest first</option><option value="oldest">Oldest first</option>'}</select></label>${entity || episode ? '<button type="button" data-action="group" aria-pressed="false">Group by episode</button>' : ""}`
     if (entity) {
@@ -253,25 +253,23 @@ async function initWorkspace(root: HTMLElement) {
       review.querySelector("span")!.textContent = "Recorded assessment"
       const sort = $("[name=sort]").closest("label")!
       sort.querySelector("span")!.className = ""
-      primary.append(review, sort, $('[data-action="reset"]'))
+      const kind = $("[name=kind]").closest("label")!
+      kind.querySelector("span")!.textContent = "Related records"
+      primary.append(kind, review, sort, $('[data-action="reset"]'))
       $(".rw-search").after(primary)
+      const help = document.createElement("p")
+      help.className = "rw-view-help"
+      help.id = "rw-view-help"
+      $("[name=kind]").setAttribute("aria-describedby", help.id)
+      primary.after(help)
       $(".rw-more-filters summary").textContent = "Date range"
       const more = document.createElement("details")
       more.className = "rw-entity-more-filters"
       more.innerHTML = "<summary>More filters: speaker, tags & dates</summary>"
       more.append($("#rw-filter-panel"))
       more.append($('[data-action="group"]'))
-      primary.after(more)
+      help.after(more)
       $(".rw-filter-toggle").remove()
-    }
-    function suggestions() {
-      $("#rw-entity-options").innerHTML = entities
-        .filter((e) =>
-          normalize([e.name, ...e.aliases].join(" ")).includes(normalize(state.entity)),
-        )
-        .slice(0, 40)
-        .map((e) => `<option value="${esc(e.name)}"></option>`)
-        .join("")
     }
     function remember() {
       if (location.pathname !== path) return
@@ -331,8 +329,6 @@ async function initWorkspace(root: HTMLElement) {
       matches = filterRecords(records, state, route.entity)
       if (entity) {
         const view = entityViews.find((v) => v.kind === state.kind)
-        $("#rw-view-title").textContent =
-          `${view?.label || filterKindName(state.kind)}${state.kind === "other" ? " about" : ["claims", "by", "about"].includes(state.kind) ? "" : " ·"} ${entity.name}`
         $(".rw-view-help").textContent =
           view?.help ||
           "Records explicitly linked to this entity. Original classifications are unchanged."
@@ -381,6 +377,14 @@ async function initWorkspace(root: HTMLElement) {
       }
       $(".rw-tag-filter").hidden = state.kind === "mentions" || !entities.length
       $("#rw-filter-help").hidden = state.kind === "mentions" || !entities.length
+      const choosingEntity = entityCatalog || state.kind === "entity"
+      $(".rw-tag-filter > span").textContent = choosingEntity
+        ? "Entity"
+        : entity
+          ? "Also tagged with"
+          : "Tagged entity"
+      $("#rw-filter-help").textContent =
+        `${entities.length.toLocaleString()} entities available. Type a name or alias to narrow the choices. ${choosingEntity ? "Select an entity to find its record." : "For evidence, tags are attached to the individual record—not everything mentioned in the same episode. Raw mention records have no additional entity tags."}`
       $("[name=speaker]").closest<HTMLElement>("label")!.hidden = !records.some((r) => r.speaker)
       const activeFilters = ["kind", "entity", "speaker", "from", "to", "outcome"].filter(
         (key) =>
@@ -423,7 +427,6 @@ async function initWorkspace(root: HTMLElement) {
         `<button type="button" data-page="${state.page - 1}" aria-label="Previous results page" ${state.page <= 1 ? "disabled" : ""}>←</button><span>Page ${state.page} of ${pages}</span><button type="button" data-page="${state.page + 1}" aria-label="Next results page" ${state.page >= pages ? "disabled" : ""}>→</button>`
       root.querySelector('[data-action="group"]')?.setAttribute("aria-pressed", String(state.group))
       $(".rw-result-scroll").scrollTop = saved.listScroll
-      suggestions()
     }
     const recordLink = (href: string, title: string) =>
       `<a href="${safe(href)}">${esc(title)} →</a>`
@@ -782,8 +785,8 @@ async function initWorkspace(root: HTMLElement) {
             case "reset":
               change({
                 ...defaults,
-                kind: entity ? state.kind : route.kind || "all",
-                sort: route.episode ? "oldest" : entity ? "newest" : "relevance",
+                kind: route.kind || "all",
+                sort: readState(new URL(location.pathname, location.origin), route).sort,
               })
               break
             case "group":

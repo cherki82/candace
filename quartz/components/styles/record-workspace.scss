@@ -715,45 +715,11 @@
     line-height: 1.8;
     overflow-wrap: anywhere;
   }
-  // Entity profiles put the question first; their reader uses the page's natural scroll.
+  // Keep entity scope and search filters together; the reader uses natural page scroll.
   &[data-view="entity-profile"] {
-    .rw-entity-views {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 3px;
-      border-bottom: 1px solid var(--lightgray);
-    }
-    .rw-entity-views button {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 10px;
-      padding: 12px;
-      min-height: 46px;
-      border: 0;
-      border-bottom: 3px solid transparent;
-      border-radius: 0;
-      background: transparent;
-    }
-    .rw-entity-views button[aria-pressed="true"] {
-      color: var(--secondary);
-      background: var(--surface);
-      border-bottom-color: var(--secondary);
-      font-weight: 600;
-    }
-    .rw-entity-views span {
-      font-size: 12px;
-      color: var(--gray);
-    }
-    .rw-view-intro {
-      padding: 20px 0 15px;
-    }
-    .rw-view-intro h2 {
-      font: 400 25px/1.25 var(--headerFont);
-      margin: 5px 0 8px;
-    }
     .rw-view-help {
       max-width: 88ch;
+      margin: 12px 0 0;
       font-size: 14px;
       color: var(--gray);
     }
@@ -909,11 +875,6 @@
 @media (max-width: 1000px) {
   .page .record-workspace {
     &[data-view="entity-profile"] {
-      .rw-entity-views button {
-        font-size: 13px;
-        padding: 10px;
-        gap: 8px;
-      }
       .rw-subtitle {
         display: none;
       }
@@ -1122,14 +1083,6 @@
       padding-block: 16px;
     }
     &[data-view="entity-profile"] {
-      .rw-entity-views {
-        display: grid;
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-      }
-      .rw-entity-views button {
-        font-size: 12px;
-        padding: 10px 8px;
-      }
       .rw-controls {
         display: block;
       }
@@ -1154,9 +1107,7 @@
         min-height: 0;
       }
       &[data-reading="true"] {
-        .rw-controls,
-        .rw-entity-views,
-        .rw-view-intro {
+        .rw-controls {
           display: none;
         }
       }

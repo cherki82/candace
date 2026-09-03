@@ -1,6 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor } from "./types"
 import { pathToRoot } from "../util/path"
-import { entityViews, workspaceContext, workspaceRoute } from "./scripts/record-workspace-model"
+import { workspaceContext, workspaceRoute } from "./scripts/record-workspace-model"
 // @ts-ignore
 import script from "./scripts/record-workspace.inline"
 import style from "./styles/record-workspace.scss"
@@ -44,22 +44,6 @@ const RecordWorkspace: QuartzComponent = ({ fileData, ctx }) => {
             Search & evidence
           </a>
         </nav>
-      )}
-      {route.entity && (
-        <>
-          <nav class="rw-entity-views" aria-label="Explore this entity">
-            {entityViews.map((view) => (
-              <button type="button" data-kind={view.kind}>
-                {view.label} <span />
-              </button>
-            ))}
-          </nav>
-          <section class="rw-view-intro" aria-labelledby="rw-view-title">
-            <p class="rw-eyebrow">You are exploring</p>
-            <h2 id="rw-view-title">Claims about {fileData.frontmatter?.title}</h2>
-            <p class="rw-view-help">{entityViews[0].help}</p>
-          </section>
-        </>
       )}
       <div class="rw-controls">
         <p role="status">Loading this view’s searchable records…</p>

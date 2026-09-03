@@ -169,7 +169,6 @@ export function workspaceRoute(slug: string): WorkspaceRoute | undefined {
     return {
       catalog: "episode",
       episode: id.replace(/^ep-/, ""),
-      kind: "passage",
       title: "Source evidence",
       ...(anchor ? { item: `passage-${anchor}` } : {}),
     }
@@ -228,6 +227,14 @@ export const escapeHtml = (value: unknown) =>
     /[&<>"']/g,
     (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!,
   )
+// Keep the complete list available to the browser's native name/alias filtering.
+export const datalistOptions = (values: { name: string; aliases?: string[] }[]) =>
+  values
+    .map(
+      ({ name, aliases }) =>
+        `<option value="${escapeHtml(name)}"${aliases?.length ? ` label="${escapeHtml(aliases.join(" · "))}"` : ""}></option>`,
+    )
+    .join("")
 export const label = (value: string) =>
   value.replaceAll("_", " ").replace(/^./, (c) => c.toUpperCase())
 export const entityTypeLabel = (value: string) => {
@@ -255,6 +262,16 @@ export const assessmentLabel = (value: string) =>
 
 export const entityViews = [
   {
+    kind: "all",
+    label: "All records",
+    help: "All records explicitly linked to this entity, including statements, mentions, connections and dated events.",
+  },
+  {
+    kind: "statement",
+    label: "Statements",
+    help: "Statements about or attributed to this entity, including factual claims and other statement types.",
+  },
+  {
     kind: "claims",
     label: "Claims about",
     help: "Statements classified as factual claims and explicitly tagged to this entity—not a finding that they are true.",
@@ -280,9 +297,9 @@ export const entityViews = [
     help: "Explicitly recorded relationships involving this entity. Shared episodes alone do not establish a connection.",
   },
   {
-    kind: "all",
-    label: "All evidence",
-    help: "All records explicitly linked to this entity in the published snapshot, including dated events.",
+    kind: "event",
+    label: "Events",
+    help: "Dated events explicitly linked to this entity in the published snapshot.",
   },
 ]
 export function entityReasons(record: RecordItem, entity: string) {
@@ -301,9 +318,13 @@ export type IndexedRecord = RecordItem & {
   haystack: string
   entityText: string
 }
+export const entityFilterIds = (record: RecordItem) =>
+  record.kind === "entity" ? [record.id] : record.entityIds
 export function prepareRecords(records: RecordItem[], manifest: Manifest): IndexedRecord[] {
   return records.map((record) => {
-    const entities = record.entityIds.map((id) => manifest.entities[id]).filter(Boolean)
+    const entities = entityFilterIds(record)
+      .map((id) => manifest.entities[id])
+      .filter(Boolean)
     const fields = [
       ["Record", record.text],
       ["Tag", [...record.tags, ...entities.flatMap((e) => [e.name, ...e.tags])].join(" · ")],
@@ -353,7 +374,7 @@ export function filterRecords(records: IndexedRecord[], state: WorkspaceState, s
     .filter(
       (r) =>
         matchesKind(r, state.kind, scopeEntity) &&
-        (!tag || r.entityIds.includes(tag) || r.entityText.includes(normalize(tag))) &&
+        (!tag || entityFilterIds(r).includes(tag) || r.entityText.includes(normalize(tag))) &&
         (!state.speaker || normalize(r.speaker).includes(normalize(state.speaker))) &&
         (!state.from || (r.date && r.date.padEnd(10, "9") >= state.from)) &&
         (!state.to || (r.date && r.date <= state.to)) &&
@@ -429,8 +450,12 @@ export function readState(url: URL, route: WorkspaceRoute): WorkspaceState {
   const p = url.searchParams
   const state = {
     ...defaults,
-    sort: route.episode ? "oldest" : route.entity ? "newest" : "relevance",
-    kind: route.kind || (route.entity ? "claims" : "all"),
+    sort: route.episode
+      ? "oldest"
+      : route.entity || route.catalog === "episode"
+        ? "newest"
+        : "relevance",
+    kind: route.kind || "all",
     q: route.q || "",
     item: route.item || "",
   }

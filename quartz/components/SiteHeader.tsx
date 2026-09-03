@@ -51,9 +51,25 @@ const SiteHeader: QuartzComponent = ({ fileData, cfg }) => {
       <nav class="site-navigation" aria-label="Site navigation">
         <div class="site-primary-links">{links.map(navLink)}</div>
         <details class="site-more" data-active={moreLinks.some(active)}>
-          <summary>More</summary>
+          <summary>
+            <span class="site-desktop-menu-label">More</span>
+            <span class="site-mobile-menu-label">
+              <svg
+                aria-hidden="true"
+                viewBox="0 0 24 24"
+                width="18"
+                height="18"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+              >
+                <path d="M3 6h18M3 12h18M3 18h18" />
+              </svg>
+              Menu
+            </span>
+          </summary>
           <div class="site-more-links">
-            <div class="site-mobile-links">{links.slice(3).map(navLink)}</div>
+            <div class="site-mobile-links">{links.map(navLink)}</div>
             {moreLinks.map(navLink)}
             <a href="#transcript-search">Search transcripts</a>
           </div>
@@ -63,5 +79,28 @@ const SiteHeader: QuartzComponent = ({ fileData, cfg }) => {
   )
 }
 
-// Native details supplies keyboard interaction; SPA navigation replaces the menu.
+// Native details supplies disclosure semantics and Enter/Space interaction.
+// Close on navigation (including same-page anchors), outside click, and Escape.
+SiteHeader.afterDOMLoaded = `
+document.addEventListener("nav", () => {
+  const menu = document.querySelector(".site-more")
+  if (!menu) return
+  const click = (event) => {
+    if (menu.open && event.target instanceof Element &&
+        (!menu.contains(event.target) || event.target.closest("a"))) menu.open = false
+  }
+  const keydown = (event) => {
+    if (event.key === "Escape" && menu.open) {
+      menu.open = false
+      menu.querySelector("summary").focus()
+    }
+  }
+  document.addEventListener("click", click)
+  document.addEventListener("keydown", keydown)
+  window.addCleanup(() => {
+    document.removeEventListener("click", click)
+    document.removeEventListener("keydown", keydown)
+  })
+})
+`
 export default (() => SiteHeader) satisfies QuartzComponentConstructor

@@ -229,6 +229,7 @@ function setupSearch(searchElement: Element, currentSlug: FullSlug) {
   }
 
   function hideSearch() {
+    if (!container.classList.contains("active")) return
     container.classList.remove("active")
     searchBar.value = "" // clear the input when we dismiss the search
     if (sidebar) sidebar.style.zIndex = ""

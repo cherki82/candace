@@ -38,8 +38,21 @@ test("shared header keeps all destinations reachable under the deployment prefix
     )
     assert.ok(hrefs.some((url) => url.hash === "#transcript-search"))
     assert.match(html, /<details class="site-more"/)
-    assert.match(html, /<summary>More<\/summary>/)
+    assert.match(html, /class="site-desktop-menu-label">More<\/span>/)
   }
+})
+
+test("mobile menu starts collapsed and includes every primary destination at one level", () => {
+  const html = markup("index/episodes")
+  assert.match(html, /class="site-mobile-menu-label"/)
+  assert.doesNotMatch(html, /<details[^>]*\bopen(?:=|\s|>)/)
+  const mobile = html.match(/<div class="site-mobile-links">([\s\S]*?)<\/div>/)![1]
+  assert.deepEqual(
+    [...mobile.matchAll(/<a[^>]*>([^<]+)<\/a>/g)].map((m) => m[1]),
+    ["Search site", "Theory threads", "Entities", "Episodes", "Events", "Sources"],
+  )
+  assert.match(mobile, /aria-current="page">Episodes<\/a>/)
+  assert.doesNotMatch(mobile, /<details|<summary/)
 })
 
 test("active navigation is rendered for detail, index, and secondary pages", () => {
