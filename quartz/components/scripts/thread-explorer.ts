@@ -34,10 +34,10 @@ const dateLabel = (value: string) => {
           timeZone: "UTC",
         })
 }
-const welcome = `<div class="welcome"><p class="eyebrow">A connected reading space</p><h2>Find a piece.<br>See where it leads.</h2><p>Choose an item on the left. Its earlier and later connections will appear here, ready to expand.</p><p class="small">Search names, places, tags, statements, source excerpts, and review notes. Multiple words can appear anywhere in a record.</p></div>`
+const welcome = `<div class="welcome"><p>Select an item to see its connections.</p></div>`
 const shellMarkup = `
   <aside class="search-sidebar" aria-label="Search results">
-    <div class="search-area"><h2>Follow the thread.</h2>
+    <div class="search-area"><h2>Thread items</h2>
       <form data-te="search-form" role="search" aria-label="Thread items"><label for="thread-query">Search all thread items</label><div class="search-row"><input id="thread-query" data-te="query" type="search" placeholder="Search names, places, words…" autocomplete="off" aria-describedby="thread-search-help"><button type="submit">Find</button></div></form>
       <p class="search-help" id="thread-search-help">Tags, entities, aliases &amp; full record text.</p>
       <div class="count-row"><span data-te="result-count" role="status"></span><button class="text-button" data-te="clear-search" type="button" hidden>Clear</button></div>
@@ -46,7 +46,7 @@ const shellMarkup = `
     <nav class="pagination" aria-label="Result pages" data-te="pagination" hidden><button data-te="previous-page" type="button">← Prev</button><span data-te="page-label"></span><button data-te="next-page" type="button">Next →</button></nav>
     <p class="dataset-note" data-te="dataset-note"></p>
   </aside>
-  <section class="reader-shell" aria-label="Connected reading space">
+  <section class="reader-shell" aria-label="Selected item">
     <div class="toolbar"><div class="toolbar-left"><button data-te="back" type="button" disabled>← Back</button><button class="mobile-results" data-te="show-results" type="button">Results</button><span class="toolbar-label" data-te="toolbar-label"></span></div><div class="size-controls" role="group" aria-label="Reading text size"><button data-te="smaller" type="button" aria-label="Decrease reading text size">A−</button><span data-te="text-size">18px</span><button data-te="larger" type="button" aria-label="Increase reading text size">A+</button></div></div>
     <div class="reader" data-te="reader" tabindex="-1" role="region" aria-label="Selected item and direct connections"><div class="reader-inner" data-te="content"></div></div>
   </section>`

@@ -4,19 +4,15 @@ description: "An evidence-first research workbench for imported video, audio, an
 ---
 
 <div class="kg-home-hero">
-<span class="research-kicker">Investigative evidence desk</span>
-<h1>Trace the record.<br>Test the narrative.</h1>
-<p>Search attributed statements, follow entities across sources, compare claims over time, and inspect the evidence behind every verification.</p>
-<div class="kg-home-actions"><a class="primary" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Follow theory threads</a><a href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/event-explorer">Compare events</a></div>
+<h1>Candace Knowledge Graph</h1>
+<div class="kg-home-actions"><a class="primary" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Theory threads</a><a href="/index/claims">Factual claims</a><a href="/index/statements">Statements</a><a href="/index/event-explorer">Events</a></div>
 </div>
 
 <p class="kg-freshness"><strong>165 sources</strong> · processed through <time datetime="2026-09-03">2026-09-03</time> · generated <time datetime="2026-09-03">2026-09-03</time></p>
 
 <section class="kg-thread-observatory" aria-labelledby="theory-watch-title">
 <header>
-<div><span class="research-kicker">Theory watch</span>
-<h2 id="theory-watch-title">Watch theories evolve.</h2></div>
-<p>Reviewed lineages show which branches are still live, which became historical ancestors, and which were explicitly put to rest.</p>
+<h2 id="theory-watch-title">Theory threads</h2>
 <a href="/threads/thread-charlie-kirk-assassination-alternative-theories">Open theory thread <span aria-hidden="true">→</span></a>
 </header>
 <div class="kg-thread-grid">
@@ -29,7 +25,7 @@ description: "An evidence-first research workbench for imported video, audio, an
 <h3><a href="/threads/thread-charlie-kirk-assassination-alternative-theories">How alternative Charlie Kirk assassination theories evolved</a></h3>
 <p>A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.</p>
 <div class="thread-index-preview"><span><strong>345</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,175</strong> reviewed links</span></div>
-<a class="thread-card-open" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Trace the evidence <span aria-hidden="true">→</span></a>
+<a class="thread-card-open" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Open thread <span aria-hidden="true">→</span></a>
 </article>
 </div>
 </section>

@@ -430,16 +430,7 @@
     overflow-wrap: anywhere;
   }
   .rw-welcome {
-    max-width: 44ch;
-    padding-block: 48px;
-  }
-  .rw-welcome h2 {
-    font: 400 clamp(32px, 4vw, 50px)/1.13 var(--headerFont);
-    margin: 15px 0 20px;
-    letter-spacing: -0.025em;
-  }
-  .rw-welcome p + p {
-    margin-top: 18px;
+    color: var(--gray);
   }
   .rw-record-topline {
     display: flex;
@@ -1078,9 +1069,6 @@
     }
     .rw-content {
       padding: 22px 18px;
-    }
-    .rw-welcome {
-      padding-block: 16px;
     }
     &[data-view="entity-profile"] {
       .rw-controls {

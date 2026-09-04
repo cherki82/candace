@@ -31,7 +31,7 @@ const RecordWorkspace: QuartzComponent = ({ fileData, ctx }) => {
         <div>
           <p class="rw-eyebrow">{context.eyebrow}</p>
           <h1>{route.entity || route.episode ? fileData.frontmatter?.title : route.title}</h1>
-          <p class="rw-subtitle">{context.subtitle}</p>
+          {context.subtitle && <p class="rw-subtitle">{context.subtitle}</p>}
         </div>
         <div class="rw-overview" />
       </header>
@@ -82,7 +82,7 @@ const RecordWorkspace: QuartzComponent = ({ fileData, ctx }) => {
                 </button>
               </>
             )}
-            <span class="rw-selection-label">Reading space</span>
+            <span class="rw-selection-label" />
             <button type="button" data-action="smaller" aria-label="Decrease reading text size">
               A−
             </button>
@@ -96,16 +96,7 @@ const RecordWorkspace: QuartzComponent = ({ fileData, ctx }) => {
           <div class="rw-reader" tabIndex={-1}>
             <div class="rw-content">
               <div class="rw-welcome">
-                <p class="rw-eyebrow">Start with the information</p>
-                <h2>
-                  The evidence,
-                  <br />
-                  without the detour.
-                </h2>
-                <p>
-                  Search or choose a result. Its full record, attribution, and source context will
-                  open here.
-                </p>
+                <p>Select a result.</p>
               </div>
             </div>
           </div>

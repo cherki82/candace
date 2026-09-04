@@ -3,7 +3,6 @@ title: "Theory Threads"
 description: "Reviewed theory milestones and proposition changes over event and discourse time."
 ---
 
-<div class="research-kicker">The narrative desk</div>
 
 # Theory Threads
 

@@ -173,7 +173,7 @@ async function initWorkspace(root: HTMLElement) {
       ? `<p>${esc(entityTypeLabel(entity.type))} · ${records.length.toLocaleString()} evidence records</p><details><summary>Aliases & record information</summary><p>${esc(entity.aliases.length ? `Also known as: ${entity.aliases.join(", ")}` : "No aliases recorded.")}</p><p>${esc(entity.tags.join(" · "))}</p><p>${esc(entity.verification.note || "")}</p>${entity.verification.source_url ? `<a href="${safe(entity.verification.source_url)}" target="_blank" rel="noopener">${esc(entity.verification.source_title || "Identity source")} ↗</a>` : ""}</details>`
       : episode
         ? `<p>${esc(dateLabel(episode.date))} · ${esc(episode.channel)}</p><a href="${safe(episode.url)}" target="_blank" rel="noopener">Original source ↗</a>`
-        : `<p>${records.length.toLocaleString()} ${entityCatalog ? "entities" : "searchable records"}</p><p>Read-only research snapshot</p>`
+        : `<p>${records.length.toLocaleString()} ${entityCatalog ? "entities" : "searchable records"}</p>`
     const kinds = entity
       ? [
           ...entityViews.map((v) => v.kind),
@@ -509,12 +509,10 @@ async function initWorkspace(root: HTMLElement) {
       const back = $<HTMLButtonElement>('[data-action="back"]')
       if (back) back.disabled = history.length <= 1
       if (entity) $<HTMLButtonElement>('[data-action="results"]').disabled = !r
-      $(".rw-selection-label").textContent = r
-        ? `${label(r.kind)} detail`
-        : "Select evidence to read"
+      $(".rw-selection-label").textContent = r ? `${label(r.kind)} detail` : ""
       if (!r) {
         $(".rw-content").innerHTML =
-          `<div class="rw-welcome"><p class="rw-eyebrow">${state.item ? "Record not found in this snapshot" : entity ? "Inside this entity’s record" : "Start with the information"}</p><h2>${entity ? "Explore this entity’s evidence." : episode ? "Read this episode in context." : entityCatalog ? "Choose an entity.<br>Explore its record." : state.q ? "Find the passage.<br>Keep the context." : "The evidence,<br>without the detour."}</h2><p>${state.item ? "This saved record is not available in this view. Choose another result or return to your previous screen." : entity ? `Choose a statement, mention or connection linked to ${esc(entity.name)}.` : entityCatalog ? "Choose an entity to open its full details, statements, mentions, and relationships." : "Choose a result to read its full content, attribution, and source evidence here."}</p><p class="rw-help">${entity ? "Looking for another person, place or organization? Use All entities above." : entityCatalog ? "Back returns to this search and your place in the results." : "Episode titles identify the source. They no longer stand between you and the content."}</p>${route.catalog === "all" ? "<p>For every word of a transcript, open an episode or use Search transcripts below.</p>" : ""}</div>`
+          `<div class="rw-welcome"><p>${state.item ? "Record unavailable in this view. Select another result." : "Select a result."}</p></div>`
         return
       }
       if (r.kind === "episode") {
@@ -564,10 +562,24 @@ async function initWorkspace(root: HTMLElement) {
                   .filter(Boolean)
                   .join(" & ") + ` ${entity.name}`
               : kindName(r.kind)
+      const caveat =
+        r.kind === "mention"
+          ? "A transcript mention is not necessarily a claim about this entity."
+          : r.kind === "statement"
+            ? r.type === "factual_claim"
+              ? "A factual claim is an assertion that can be examined—not an established fact. Extracted wording may not be verbatim."
+              : "Extracted statement, not necessarily verbatim. Attribution does not establish the underlying claim."
+            : r.kind === "relationship"
+              ? "An extracted relationship supported by the recorded excerpts—not an independently verified finding."
+              : r.kind === "event"
+                ? "An event recorded in the research dataset. Dates may be approximate; inspect the source wording."
+                : r.kind === "passage"
+                  ? "Automatically transcribed source material; speaker identification may be imperfect."
+                  : ""
       $(".rw-content").innerHTML =
         `${!matches.some((item) => item.id === r.id) ? '<p class="rw-outside">This selection is outside the current results. Back restores your previous view.</p>' : ""}<article class="rw-record" aria-label="Full selected record"><div class="rw-record-topline"><p class="rw-eyebrow">${esc(contextName)} / ${esc(label(r.type))}</p>${r.kind === "statement" ? `<span class="rw-review-badge" data-outcome="${esc(outcome)}">${esc(assessmentLabel(outcome))}</span>` : ""}</div><h2 class="rw-record-title">${highlight(r.text, state.q)}</h2>${metadata.date ? (r.speaker ? `<p class="rw-attribution"><strong>${esc(r.speaker)}</strong>${r.reportedBy ? ` · reported by ${esc(r.reportedBy)}` : ""}<small>${esc(metadata.date)}${app ? ` · ${esc(app.time)}` : ""}</small></p>` : `<p class="rw-source-meta">${esc(metadata.date)}${r.datePrecision ? ` · ${esc(r.datePrecision)} precision` : ""}</p>`) : ""}
         ${entity ? `<div class="rw-why"><strong>Why this is here</strong><p>${esc(entityReasons(r, entity.id).join(" · "))} (${esc(entity.name)})</p></div>` : ""}
-        <p class="rw-caveat">${r.kind === "mention" ? "A transcript mention is not necessarily a claim about this entity." : r.kind === "statement" ? (r.type === "factual_claim" ? "A factual claim is an assertion that can be examined—not an established fact. Extracted wording may not be verbatim." : "Extracted statement, not necessarily verbatim. Attribution does not establish the underlying claim.") : r.kind === "relationship" ? "An extracted relationship supported by the recorded excerpts—not an independently verified finding." : r.kind === "event" ? "An event recorded in the research dataset. Dates may be approximate; inspect the source wording." : r.kind === "passage" ? "Automatically transcribed source material; speaker identification may be imperfect." : "Follow the evidence and source material before drawing conclusions."}</p>
+        ${caveat ? `<p class="rw-caveat">${caveat}</p>` : ""}
         ${r.notes ? `<section><h3>${r.kind === "source" ? "Why this source was cited" : "Record notes"}</h3><p class="rw-notes">${highlight(r.notes, state.q)}</p></section>` : ""}
         ${r.dateAsStated ? `<p>Source date wording: ${esc(r.dateAsStated)}</p>` : ""}
         ${r.url ? `<p><a href="${safe(r.url)}" target="_blank" rel="noopener">${esc(r.domain || "Original source")} ↗</a></p>` : ""}

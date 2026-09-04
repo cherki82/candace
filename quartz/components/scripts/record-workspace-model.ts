@@ -136,8 +136,8 @@ export const defaults: WorkspaceState = {
 export function workspaceRoute(slug: string): WorkspaceRoute | undefined {
   const path = slug.replace(/\.html$/, "").replace(/\/index$/, "")
   const catalogs: Record<string, [string, string]> = {
-    index: ["all", "Find the information. Keep the context."],
-    "index/explorer": ["all", "Search the record"],
+    index: ["all", "Search"],
+    "index/explorer": ["all", "Search"],
     "index/entities": ["entity", "Entities"],
     entities: ["entity", "Entities"],
     "index/episodes": ["episode", "Episodes"],
@@ -191,21 +191,21 @@ export function workspaceContext(route: WorkspaceRoute) {
     return {
       view: "entity-profile",
       eyebrow: "Entity profile",
-      subtitle: "Statements, mentions and connections linked to this entity.",
+      subtitle: "",
       parent: { title: "All entities", href: "/index/entities" },
     }
   if (route.episode)
     return {
       view: "episode",
       eyebrow: "Episode transcript & evidence",
-      subtitle: "Search and read within this episode's source material.",
+      subtitle: "",
       parent: { title: "All episodes", href: "/index/episodes" },
     }
   if (route.item)
     return {
       view: "record",
       eyebrow: "Record detail",
-      subtitle: "Read the selected record, its attribution and source evidence.",
+      subtitle: "",
       parent: {
         title: `All ${route.catalog}s`,
         href: route.catalog === "event" ? "/index/event-explorer" : `/index/${route.catalog}s`,
@@ -214,10 +214,8 @@ export function workspaceContext(route: WorkspaceRoute) {
   const directory = route.catalog === "entity"
   return {
     view: directory ? "entity-directory" : "catalog",
-    eyebrow: directory ? "Entity directory" : "Browse the corpus",
-    subtitle: directory
-      ? "Find a person, place, organization or other entity. Open their profile to explore the evidence."
-      : "Search across records. Choose a result to read it in context.",
+    eyebrow: directory ? "Entity directory" : "Catalog",
+    subtitle: "",
     parent: undefined,
   }
 }

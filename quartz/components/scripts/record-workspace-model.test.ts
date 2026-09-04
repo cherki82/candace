@@ -177,7 +177,7 @@ test("directory, profile, source and record levels have distinct context and par
     assert.equal(context.view, view)
     assert.equal(context.parent?.href, parent)
     assert.ok(context.eyebrow)
-    assert.ok(context.subtitle)
+    assert.equal(context.subtitle, "")
   }
 })
 test("entity types use readable names without changing stored values", () => {

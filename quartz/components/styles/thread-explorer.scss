@@ -335,21 +335,8 @@ html:has(.thread-explorer) {
     margin: auto;
     font-size: var(--reader-size);
   }
-  .welcome {
-    max-width: 580px;
-    margin: clamp(30px, 8vh, 100px) auto;
-  }
-  .welcome h2 {
-    font-size: clamp(34px, 4cqw, 51px);
-    margin: 12px 0 20px;
-  }
   .welcome p {
-    font-size: 18px;
     color: var(--te-muted);
-    line-height: 1.65;
-  }
-  .welcome .small {
-    font-size: 14px;
   }
   .scope-warning {
     padding: 12px 16px;
