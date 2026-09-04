@@ -27,7 +27,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>13</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -375,18 +375,6 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 </details>
 
 <details>
-<summary>Worked With (1)</summary>
-
-- **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:17](/episodes/ep-ZkDO-MRLUco.md#t-00-03-05): “So were Erika Kirk's de facto parents, Stacy Sheridan. Tracy Martin, we're just going to count them as her parents, I think, because she's never surrounded by her actual family. ... She does Erika (Erika Kirk)'s PR dirty work, always willing to sit down and tell a story.”
-
-</details>
-
-</details>
-
-<details>
 <summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
@@ -432,10 +420,11 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Erika Kirk has been a dear friend of mine for almost 15 years. We have done multiple projects together.”
 - [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:28:01](/episodes/ep-y8lak3CRwDw.md#t-00-28-01): “On June 7th of 2012, Erika is going to team up with that Tracy Martin. Tracy says they met backstage and they just decided to go in to do some good together.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:17](/episodes/ep-ZkDO-MRLUco.md#t-00-03-05): “So were Erika Kirk's de facto parents, Stacy Sheridan. Tracy Martin, we're just going to count them as her parents, I think, because she's never surrounded by her actual family. ... She does Erika (Erika Kirk)'s PR dirty work, always willing to sit down and tell a story.”
 
 </details>
 

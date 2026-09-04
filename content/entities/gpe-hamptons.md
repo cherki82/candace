@@ -1,6 +1,6 @@
 ---
 title: "Hamptons"
-description: "Hamptons (Places) - 95 mentions"
+description: "Hamptons (Places) - 98 mentions"
 id: "gpe-hamptons"
 type: "GPE"
 aliases:
@@ -25,9 +25,9 @@ Source: [Suffolk County Government - Towns and Villages](https://suffolkcountyny
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-15-01">2025-09-15 · 00:15:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-hamptons-t-02-26-33">2026-08-14 · 02:26:42</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>95</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-hamptons-t-00-40-31">2026-09-03 · 00:40:51</a></strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>98</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -74,6 +74,7 @@ Source: [Suffolk County Government - Towns and Villages](https://suffolkcountyny
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-hamptons-t-00-51-46" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-hamptons-t-02-25-29" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-hamptons-t-01-44-27" style="--pulse-height:14%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-hamptons-t-00-05-25" style="--pulse-height:21%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -115,6 +116,7 @@ Source: [Suffolk County Government - Towns and Villages](https://suffolkcountyny
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-hamptons-t-00-51-46) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-hamptons-t-02-25-29) | 2 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-hamptons-t-01-44-27) | 2 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-hamptons-t-00-05-25) | 3 |
 
 </details>
 </section>
@@ -126,7 +128,21 @@ Source: [Suffolk County Government - Towns and Villages](https://suffolkcountyny
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (95)</strong></summary>
+<summary><strong class="section-title">Raw mentions (98)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3 mentions)</summary>
+
+**[00:05:44](/episodes/ep-1FhY-koMuWM.md#ent-gpe-hamptons-t-00-05-25)**
+> "And I was also told that he was allegedly in attendance during that fateful Hamptons summit where Bibi Netanyahu (Benjamin Netanyahu) called Charlie Kirk something, a story that we broke and which, I mean, Erika (Erika Kirk) confirmed the reasons for that phone."
+
+**[00:06:00](/episodes/ep-1FhY-koMuWM.md#ent-gpe-hamptons-t-00-05-25)**
+> "...ept what she told me, but the Hamptons Summit is an interesting one, especially given Bi..."
+
+**[00:40:51](/episodes/ep-1FhY-koMuWM.md#ent-gpe-hamptons-t-00-40-31)**
+> "...as true. I told you about the Hamptons, okay?"
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>

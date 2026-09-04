@@ -17,7 +17,7 @@ time: "15:54"
 
 > Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause.
 
-## Mentioned In (8 times)
+## Mentioned In (9 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -82,3 +82,11 @@ time: "15:54"
 <a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=734s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Charlie's texting donors that he has no choice but to abandon of all things the pro israel cause
+
+### 9. Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Re...
+
+**Episode:** [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md)
+**Timestamp:** [00:32:22](/episodes/ep-1FhY-koMuWM.md#t-00-32-15) 
+<a href="https://www.youtube.com/watch?v=1FhY-koMuWM&t=1942s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> He then jumps right on to a 40-minute interview on Mark Halperin's show. At 3 o'clock p.m., Erika told me that she was getting her nails done and that in this hour is when Charlie had that back and forth and fight on the phone and said that he was leaving the pro-Israel cause. ... And no, he was not saying it tongue in cheek. That's at 3:54 p.m. That message was sent.

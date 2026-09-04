@@ -1,6 +1,6 @@
 ---
 title: "Club Candace"
-description: "Club Candace (Organizations) - 103 mentions"
+description: "Club Candace (Organizations) - 107 mentions"
 id: "org-club-candace"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-club-candace-t-01-01-30">2025-09-15 · 01:01:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-club-candace-t-01-03-35">2026-09-02 · 01:03:35</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>103</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-club-candace-t-00-57-31">2026-09-03 · 00:58:06</a></strong></div>
+<div><span>Episodes</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>107</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -78,6 +78,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-club-candace-t-01-06-44" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-club-candace-t-00-21-42" style="--pulse-height:30%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-club-candace-t-01-03-09" style="--pulse-height:20%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-club-candace-t-00-57-00" style="--pulse-height:40%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 4 mentions" title="2026-09-03 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -124,6 +125,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-club-candace-t-01-06-44) | 2 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-club-candace-t-00-21-42) | 3 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-club-candace-t-01-03-09) | 2 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-club-candace-t-00-57-00) | 4 |
 
 </details>
 </section>
@@ -131,7 +133,24 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (103)</strong></summary>
+<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (4 mentions)</summary>
+
+**[00:57:00](/episodes/ep-1FhY-koMuWM.md#ent-org-club-candace-t-00-57-00)**
+> "And I just thank you guys for your support. If you would like to support us in a larger capacity, you can join our book club. Tomorrow we begin at 1 p.m. Eastern, Bearing False Witness by Rodney Stark."
+
+**[00:57:46](/episodes/ep-1FhY-koMuWM.md#ent-org-club-candace-t-00-57-31)**
+> "... always. If you're not in the book club, I won't see you tomorrow."
+
+**[00:57:51](/episodes/ep-1FhY-koMuWM.md#ent-org-club-candace-t-00-57-31)**
+> "... on Monday. If you are in the book club again tomorrow, I'm sorry, I'll see you on Tuesda..."
+
+**[00:58:06](/episodes/ep-1FhY-koMuWM.md#ent-org-club-candace-t-00-57-31)**
+> "...Tuesday if you are not in the book club."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Terryl Farnsworth"
-description: "Terryl Farnsworth (People) - 166 mentions"
+description: "Terryl Farnsworth (People) - 167 mentions"
 id: "person-terryl-farnsworth"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#t-00-11-52">2025-11-17 · 00:12:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-terryl-farnsworth-t-00-22-39">2026-09-01 · 00:22:51</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>166</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-terryl-farnsworth-t-00-08-04">2026-09-03 · 00:08:04</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>167</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>81</strong></div>
 <div><span>Relationships</span><strong>25</strong></div>
@@ -68,6 +68,7 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <a href="/episodes/ep-9hRcfSrri70.md#t-00-04-34" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 14 mentions" title="2026-08-19 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-02-00" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-terryl-farnsworth-t-00-20-31" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-terryl-farnsworth-t-00-08-04" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -104,6 +105,7 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#t-00-04-34) | 14 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-02-00) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-terryl-farnsworth-t-00-20-31) | 2 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-terryl-farnsworth-t-00-08-04) | 1 |
 
 </details>
 </section>
@@ -115,7 +117,15 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (166)</strong></summary>
+<summary><strong class="section-title">Raw mentions (167)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:08:04](/episodes/ep-1FhY-koMuWM.md#ent-person-terryl-farnsworth-t-00-08-04)**
+> "um, at first sort of slide and dive toward Charlie (Charlie Kirk) before then instantly pivoting and sprinting to the car. And we're going to isolate those actions and show you that one by one. First up, we're going to look at Blake (security team member; surname unverified). Okay, so he is going to dive across the table. That's our table diver. You can watch him actually from two angles. We have the angle behind Charlie (Charlie Kirk)'s head, which Terryl (Terryl Farnsworth) shared with me, and the angle from the crowd. Take a look at this. There"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Sorensen Center"
-description: "Sorensen Center (Organizations) - 11 mentions"
+description: "Sorensen Center (Organizations) - 14 mentions"
 id: "org-sorensen-center"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-sorensen-center-t-00-15-56">2025-09-30 · 00:16:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-sorensen-center-t-00-18-14">2026-09-02 · 00:18:30</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-sorensen-center-t-00-21-55">2026-09-03 · 00:21:55</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -41,6 +41,7 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 <a href="/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 3 mentions" title="2025-11-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-sorensen-center-t-00-26-35" style="--pulse-height:67%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-sorensen-center-t-00-18-14" style="--pulse-height:67%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-sorensen-center-t-00-12-04" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57) | 3 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-sorensen-center-t-00-26-35) | 2 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-sorensen-center-t-00-18-14) | 2 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-sorensen-center-t-00-12-04) | 3 |
 
 </details>
 </section>
@@ -62,7 +64,21 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3 mentions)</summary>
+
+**[00:12:17](/episodes/ep-1FhY-koMuWM.md#ent-org-sorensen-center-t-00-12-04)**
+> "The driver, who one might assume had the keys, Chris (Christopher, security driver; surname unverified), and who had previously locked that car at some point before the explosive goes off, he presumably unlocks the car and then makes a decision to go upstairs with Charlie (Charlie Kirk)'s assistant, Nate Walker, heading toward the Sorensen Center."
+
+**[00:18:14](/episodes/ep-1FhY-koMuWM.md#ent-org-sorensen-center-t-00-18-03)**
+> "toward the Sorensen building (Sorensen Center). And I do want to stress that when we come back ..."
+
+**[00:21:55](/episodes/ep-1FhY-koMuWM.md#ent-org-sorensen-center-t-00-21-55)**
+> "In tow and towards Sorensen (Sorensen Center). What's in Sorensen (Sorensen Center)? Does he e..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 2632 mentions"
+description: "Candace Owens (People) - 2640 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24">2025-09-11 · 00:07:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-01-00-31">2026-09-02 · 01:01:12</a></strong></div>
-<div><span>Episodes</span><strong>162</strong></div>
-<div><span>Mentions</span><strong>2,632</strong></div>
-<div><span>Statements by</span><strong>4,852</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-candace-owens-t-00-55-37">2026-09-03 · 00:55:37</a></strong></div>
+<div><span>Episodes</span><strong>163</strong></div>
+<div><span>Mentions</span><strong>2,640</strong></div>
+<div><span>Statements by</span><strong>4,881</strong></div>
 <div><span>Statements about</span><strong>644</strong></div>
-<div><span>Relationships</span><strong>929</strong></div>
+<div><span>Relationships</span><strong>935</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -198,6 +198,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-candace-owens-t-00-01-27" style="--pulse-height:17%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 10 mentions" title="2026-08-31 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-candace-owens-t-00-45-23" style="--pulse-height:12%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 7 mentions" title="2026-09-01 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-01-40" style="--pulse-height:17%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 10 mentions" title="2026-09-02 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-candace-owens-t-00-35-59" style="--pulse-height:12%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 7 mentions" title="2026-09-03 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -365,6 +366,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-candace-owens-t-00-01-27) | 10 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-candace-owens-t-00-45-23) | 7 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-01-40) | 10 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-candace-owens-t-00-35-59) | 7 |
 
 </details>
 </section>
@@ -376,7 +378,33 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2632)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2640)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (7 mentions)</summary>
+
+**[00:35:52](/episodes/ep-1FhY-koMuWM.md#ent-person-candace-owens-t-00-35-59)**
+> "[Candace Owens: "We can come out of this."] [Frank Turek: "Charl..."
+
+**[00:35:59](/episodes/ep-1FhY-koMuWM.md#ent-person-candace-owens-t-00-35-59)**
+> "...t he wanted to bring Candace (Candace Owens) back."
+
+**[00:40:39](/episodes/ep-1FhY-koMuWM.md#ent-person-candace-owens-t-00-40-31)**
+> "... can shut that down. Candace (Candace Owens) has been lying to you. Everything Candace (Canda..."
+
+**[00:51:24](/episodes/ep-1FhY-koMuWM.md#ent-person-candace-owens-t-00-51-02)**
+> "...n. I mean, it's insane to say Candace Owens and Charlie Kirk were not friends. That is like a..."
+
+**[00:52:56](/episodes/ep-1FhY-koMuWM.md#ent-person-candace-owens-t-00-52-56)**
+> "...rified) writes, hey, Candace (Candace Owens), regarding Charlie (Charlie Kirk)'s SUV, I remem..."
+
+**[00:53:34](/episodes/ep-1FhY-koMuWM.md#ent-person-candace-owens-t-00-52-56)**
+> "...erified) writes, hi, Candace (Candace Owens), I know you get a ton of emails, but did you get..."
+
+**[00:55:37](/episodes/ep-1FhY-koMuWM.md#ent-person-candace-owens-t-00-55-37)**
+> "... with his big sister Candace (Candace Owens) by his side on tour."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (10 mentions)</summary>
@@ -9478,7 +9506,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Make Him a Sandwich](/entities/work-make-him-a-sandwich.md)**
-<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
@@ -9504,6 +9532,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:51:46](/episodes/ep-a-e7HC6SeK8.md#t-00-51-29): “Anyways, you guys—to get to some housekeeping: some great news. My book, Make Him a Sandwich, is not just available on the Make Him a Sandwich website—which is MakeHimASandwich.com—but now it is”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:47:10](/episodes/ep-sImMM04XdWY.md#t-00-47-02): “If you'd like to buy my new book "Make Him a Sandwich," you can head to MakeHimASandwich.com for our regularly priced books.”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:50:25](/episodes/ep-w1oqQbR_bYs.md#t-00-50-07): “if you would like to purchase my book for Christmas ... And it's MakeEmASandwich.com.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:57:26](/episodes/ep-1FhY-koMuWM.md#t-00-57-00): “That is always the way. It's always the easiest way to support us. You can also buy my book, Make Him a Sandwich, which is right there.”
 
 </details>
 
@@ -9656,7 +9685,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Criticized (117)</summary>
+<summary>Criticized (120)</summary>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -9667,7 +9696,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (50)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (51)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): “The majority of people think Turning Point is acting suspicious”
@@ -9719,6 +9748,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:08:14](/episodes/ep-pc3pxRyNFZk.md#t-00-08-07): “it certainly looked like Turning Point employees or staff or students thugged him so that he wouldn't say what he thought happened.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35): “in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:43:26](/episodes/ep-ZkDO-MRLUco.md#t-00-43-26): “Or played some role that day which I've always thought that he was around campus on that day but it would to me I think it would be ultimately a good thing for us to be able to sort of look this beast in the face this beast of government in the face and to see how it operates and to continue to watch Turning Point USA growing more desperate in their smears and in their lies I did see, recently, again, they rely on public ignorance as most people don't go through trials. ... Most people are not being sued every single day. And so they are relying on public ignorance of not knowing how trials function for them to be able to spin and to lie and to present things as if they're big wins. For example, I saw Blake (Blake Neff) pushing today.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:23:00](/episodes/ep-1FhY-koMuWM.md#t-00-22-39): “very intentional is that Turning Point will not acknowledge its authenticity and that Turning Point did not choose to instead, since their whole narrative that they have been trying to push is that a leftist did this, why didn't they release this immediately? Why didn't Turning Point USA give this to New York Post, give this to the Daily Mail, say, aha, here it is, evidence that he was terrified of the left? No. To the contrary, they did the exact opposite.”
 
 </details>
 
@@ -9902,7 +9932,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -9937,6 +9967,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:02:24](/episodes/ep-pc3pxRyNFZk.md#t-00-02-24): “Andrew Kolvet was, I can tell you, telling the truth in part when he wrote that very long tweet”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:35:05](/episodes/ep-JrhGEm8MGRY.md#t-00-34-51): “You probably did the right thing, Jennica Pounds, by outing yourself as a positive, absolute scumbag and dishonest human being who was not, we're not attacking me because you were looking at the data.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:42](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “Cameras also captured Andrew Kolvet walking in looking 10 years older. Lies will age you, my friend. They will age you.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:24](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “in Blake (Blake Neff)'s and Andrew (Andrew Kolvet)'s lies now. It's a desperation. I mean, it's insane to say Candace Owens and Charlie Kirk were not friends. That is like an insane thing to say, and it can only be uttered out of sheer desperation to try to get a handle on the narrative.”
 
 </details>
 
@@ -9968,7 +9999,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -9985,6 +10016,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:47:58](/episodes/ep-ChuWo-n49B8.md#t-00-47-58): “These are, you're looking at turning point USA faith and they want access to children. They're all wacky. They're all crazy pastors. You got Frank Turek open saying, signaling that I should be struck down using the Bible, the good Bible, of course, to do it.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:48:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-48-17): “Then we have Frank Turek (Frank Turek speaking), who engages in this same sort of act of psychological manipulation, in my viewpoint, and he defends Mikey McCoy.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:18:53](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21): “That is just amazing to me that Frank Turek was fine to start a FaceTime call from the emergency room amidst all of that chaos while Charlie (Charlie Kirk) was dying, Amidst all of that chaos, while Charlie (Charlie Kirk) was dying, Brian Harpole was jumping on top of him, presumably. ... He's making probably accurate time estimates there for a military man, Frank Turek. It just seems to me to be like an extraordinarily inappropriate thing to do. ... Starting a FaceTime call with Jack Hibbs. What do I know? That's just my opinion, not a fact.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01): “Now, I do want to say regarding Alex Faria falling out of that car, it's a bit of a wonder that a pastor would think it's wise for him to be in the car above security on the way to the hospital. You would think that he would yield to security and say, OK, I'll find my own way. ... I think that feels mildly inappropriate, given the circumstances. And speaking of Frank Turek, there are a lot of things that he has said about that day that are questionable. I mean, definitely the CPR, the CPR story to me is the most senseless. ... His excuse that Brian Harpole was distracted and forgot that he conducted CPR on a dying person in the veh— ... In the very small vehicle, I don't think Harpole (Brian Harpole) just forgot that. I actually think Harpole (Brian Harpole) told the truth between the two of them, if I'm being honest, when he said that no CPR was conducted in the car. I don't think he was distracted.”
 
 </details>
 
@@ -10084,7 +10116,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -10117,6 +10149,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:44:09](/episodes/ep-JrhGEm8MGRY.md#t-00-44-09): “And Blake Neff is the least believable person in the world. So glad to know that you guys think that having the State Department and the Department of War behind you is going to win the game, along with billionaires like Bill Ackman who are willing to promote your nonsense. But we see right through all of it. Top comments from the last episode before we went off air: Big Hair Do Care wrote, 'The way she drops these bombs and then goes on vacation.'”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:49](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson). ... That's that's really what happened. You don't know him at all. The fact that you said I saw the donors, his friends, you just you had no idea what sort of a human being Charlie (Charlie Kirk) was. ... And you just had you are so short sighted to think that you could continue his legacy. You just don't have it.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:33:00](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49): “And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:02](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “And like I said, it reflects where they are at. They are not behaving honestly. They are lying repeatedly, especially Blake Neff. There's nobody that gets community noted faster for trying to lie to the public about various aspects of this case, lying about who Charlie (Charlie Kirk) was friendships and like who is who is friends with. And like I said, you sense a desperation.”
 
 </details>
 
@@ -10638,12 +10671,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Wilson](/entities/person-andrew-wilson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:47:47](/episodes/ep-4JxgOclKzqg.md#t-00-47-47): “He can't just, he's had days and he still cannot comprehend this. So we are really hoping that Andrew Wilson will be able to understand it. We are done explaining it. It is now on him and coming upon Andrew Wilson to do his best to sit down and understand.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27): “I was hoping to have an opportunity to do that with Andrew Wilson. Obviously, he just is another fed slobber, got a call from Turning Point USA, changed all of his opinions and didn't know what was going on in the case at all.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:23:47](/episodes/ep-1FhY-koMuWM.md#t-00-23-47): “odd that Turning Point USA hands it to a third party who we know is happy to lie. He'll lie about what he said two seconds ago. He'll lie about what he knows. He'll lie. This was really, our debate was three hours of him trying to gaslight me about things that were said moments earlier, pretending that he knew the charges, all sorts of things. Why would they hand this to a chain-smoking liar”
 
 </details>
 
@@ -10861,6 +10895,27 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:00:55](/episodes/ep-ZkDO-MRLUco.md#t-00-00-39): “Just why does Data Republican (Jennica Pounds), a.k.a. Jennica Pounds, a.k.a. the Department of War's fake analyst. ... Analyst who attacked me for looking into this case just why does she look so much like Tyler Robinson check this out uncanny uncanny what are they doing out in Utah I have no positive evidence that it wasn't Jennica Pounds that was walking up that staircase at UVU I'm over here looking at the Department of War like I'm Sophie Cunningham you know doing the point we don't know no But we know.”
+
+</details>
+
+- **[Holy See](/entities/org-holy-see.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:49:37](/episodes/ep-1FhY-koMuWM.md#t-00-49-30): “And in 2018, the Vatican entered a secretive deal with the Chinese Communist Party. The idea was to make things better for the Chinese Christians that the CCP was oppressing. But since then, it's only gotten worse. Bishops are disappearing.”
+
+</details>
+
+- **[Communist Party of China](/entities/org-communist-party-of-china.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:49:37](/episodes/ep-1FhY-koMuWM.md#t-00-49-30): “And in 2018, the Vatican entered a secretive deal with the Chinese Communist Party. The idea was to make things better for the Chinese Christians that the CCP was oppressing. But since then, it's only gotten worse. Bishops are disappearing.”
+
+</details>
+
+- **[Pope Leo XIV](/entities/person-pope-leo-xiv.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:49:57](/episodes/ep-1FhY-koMuWM.md#t-00-49-30): “This dark secret deal doesn't just compromise Catholics in China. It binds and silences the whole church. Even Pope Leo (Pope Leo XIV) himself has nervously refused to comment on it when asked on camera.”
 
 </details>
 
@@ -11246,12 +11301,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Wilson](/entities/person-andrew-wilson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 00:06:33](/episodes/ep-aPOyk1i2LOc.md#t-00-06-23): “But we came here today to debate, and so let's get to it. The debate topic today is, one, my belief that there's overwhelming evidence that Tyler Robinson killed Charlie Kirk, and two, Candace's belief that there's overwhelming evidence that Tyler Robinson was a patsy and didn't kill Charlie Kirk.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:00:06](/episodes/ep-E7P2ShoYDUA.md#t-00-00-01): “My, oh, my. Honestly, you guys, if we're being honest, it was over the minute that Andrew Wilson began reading his quote unquote opening statement from his phone.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:41:31](/episodes/ep-4JxgOclKzqg.md#t-00-41-23): “And the best way to solve this is to just sit down and be honest. You know, I actually taught a great lesson yesterday or last week in my debate when we turned Andrew Wilson by the end of it into a conspiracy theorist who thought.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:00:39](/episodes/ep-_cNtgris8Ik.md#t-00-00-39): “Andrew Kolvet, by the way. is lying so badly he brought on andrew wilson who i debated last friday onto their beavis and butthead platform and he tries to smear me i'm talking about Andrew Kolvet not andrew wilson he tries to smear me as a hitler lover and the smear was so bad him and blake are like is what they do that andrew wilson actually interjects yes the person that i just debated was the one who interjects and is like OK, to be fair,”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:22:34](/episodes/ep-1FhY-koMuWM.md#t-00-21-55): “Now, this is the same message that Andrew Wilson bizarrely read as his opening statement in our debate.”
 
 </details>
 
@@ -12152,7 +12208,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>Friend Of (10)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (52)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (53)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00): “Charlie, my friend, is dead.”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:00:10](/episodes/ep-YFmRH8p5lt0.md#t-00-00-00): “This is real life: the assassination of my friend, Charlie (Charlie Kirk).”
@@ -12206,6 +12262,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:52:31](/episodes/ep-aDlhjfW6hz8.md#t-00-52-11): “We are going to solve the murder of my friend, Charlie Kirk.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:58:39](/episodes/ep-pc3pxRyNFZk.md#t-00-58-03): “The special bond that you shared with Charlie (Charlie Kirk) is evident for all to see in many videos of you both.”
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:00:30](/episodes/ep-q7f8r-THr84.md#t-00-00-01): “What is happening right now in the world, and what just happened to my friend Charlie (Charlie Kirk), is a battle of sheer evil versus goodness.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:24](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “in Blake (Blake Neff)'s and Andrew (Andrew Kolvet)'s lies now. It's a desperation. I mean, it's insane to say Candace Owens and Charlie Kirk were not friends. That is like an insane thing to say, and it can only be uttered out of sheer desperation to try to get a handle on the narrative.”
 
 </details>
 
@@ -12713,7 +12770,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:50:20](/episodes/ep-OEAHy3SsIiI.md#t-00-49-35): “And that to me ran counter to my meeting with Erika (Erika Kirk).”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:48](/episodes/ep-HYn0P-P1wUw.md#t-00-26-34): “I decided to ask Erika (Erika Kirk) in person during our sit-down how she met Tyler (Tyler Bowyer).”
@@ -12735,6 +12792,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:52:36](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58): “And I told you when I sat down with Erika (Erika Kirk), they didn't have anything. They weren't hiding anything.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-02-04): “And I can tell you guys that yesterday for four hours and 30 minutes, there were no rules. They said you can say, you can ask us any question that you want, anything that's on your mind, which I appreciated. And some of you guys are thinking, who is they? Who is they? It's the Jews, obviously. Just kidding. It's Justin (Justin Streiff). Justin (Justin Streiff) was in the room. It was just Justin (Justin Streiff) and Erika (Erika Kirk).”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:29](/episodes/ep-ja26iltROkM.md#t-00-02-10): “I remember meeting Erika.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:30:14](/episodes/ep-1FhY-koMuWM.md#t-00-29-40): “And then I met up with Erika (Erika Kirk). They very quickly then reached out and she was like, oh yeah, no, the messages are real.”
 
 </details>
 
@@ -13249,7 +13307,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Worked With (19)</summary>
+<summary>Worked With (20)</summary>
 
 - **[Goldco](/entities/org-goldco.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -13416,10 +13474,17 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[The Vulnerable People Project](/entities/org-vulnerable-people-project.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:49:22](/episodes/ep-1FhY-koMuWM.md#t-00-48-47): “I can tell you guys that we have, just getting into some stuff that we are releasing, you know that we've been working with Vulnerable People Project.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (455)</summary>
+<summary>Referenced By (457)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -14085,7 +14150,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Make Him a Sandwich](/entities/work-make-him-a-sandwich.md)** authored by this
-<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
@@ -14111,6 +14176,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:51:46](/episodes/ep-a-e7HC6SeK8.md#t-00-51-29): “Anyways, you guys—to get to some housekeeping: some great news. My book, Make Him a Sandwich, is not just available on the Make Him a Sandwich website—which is MakeHimASandwich.com—but now it is”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:47:10](/episodes/ep-sImMM04XdWY.md#t-00-47-02): “If you'd like to buy my new book "Make Him a Sandwich," you can head to MakeHimASandwich.com for our regularly priced books.”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:50:25](/episodes/ep-w1oqQbR_bYs.md#t-00-50-07): “if you would like to purchase my book for Christmas ... And it's MakeEmASandwich.com.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:57:26](/episodes/ep-1FhY-koMuWM.md#t-00-57-00): “That is always the way. It's always the easiest way to support us. You can also buy my book, Make Him a Sandwich, which is right there.”
 
 </details>
 
@@ -14545,7 +14611,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (49)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (50)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:17](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): “they obviously were always panicked and then they issue a dumb statement.”
@@ -14596,6 +14662,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:08:14](/episodes/ep-pc3pxRyNFZk.md#t-00-08-07): “it certainly looked like Turning Point employees or staff or students thugged him so that he wouldn't say what he thought happened.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35): “in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:43:26](/episodes/ep-ZkDO-MRLUco.md#t-00-43-26): “Or played some role that day which I've always thought that he was around campus on that day but it would to me I think it would be ultimately a good thing for us to be able to sort of look this beast in the face this beast of government in the face and to see how it operates and to continue to watch Turning Point USA growing more desperate in their smears and in their lies I did see, recently, again, they rely on public ignorance as most people don't go through trials. ... Most people are not being sued every single day. And so they are relying on public ignorance of not knowing how trials function for them to be able to spin and to lie and to present things as if they're big wins. For example, I saw Blake (Blake Neff) pushing today.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:23:00](/episodes/ep-1FhY-koMuWM.md#t-00-22-39): “very intentional is that Turning Point will not acknowledge its authenticity and that Turning Point did not choose to instead, since their whole narrative that they have been trying to push is that a leftist did this, why didn't they release this immediately? Why didn't Turning Point USA give this to New York Post, give this to the Daily Mail, say, aha, here it is, evidence that he was terrified of the left? No. To the contrary, they did the exact opposite.”
 
 </details>
 
@@ -14778,7 +14845,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -14813,6 +14880,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:02:24](/episodes/ep-pc3pxRyNFZk.md#t-00-02-24): “Andrew Kolvet was, I can tell you, telling the truth in part when he wrote that very long tweet”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:35:05](/episodes/ep-JrhGEm8MGRY.md#t-00-34-51): “You probably did the right thing, Jennica Pounds, by outing yourself as a positive, absolute scumbag and dishonest human being who was not, we're not attacking me because you were looking at the data.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:42](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “Cameras also captured Andrew Kolvet walking in looking 10 years older. Lies will age you, my friend. They will age you.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:24](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “in Blake (Blake Neff)'s and Andrew (Andrew Kolvet)'s lies now. It's a desperation. I mean, it's insane to say Candace Owens and Charlie Kirk were not friends. That is like an insane thing to say, and it can only be uttered out of sheer desperation to try to get a handle on the narrative.”
 
 </details>
 
@@ -14844,7 +14912,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -14861,6 +14929,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:47:58](/episodes/ep-ChuWo-n49B8.md#t-00-47-58): “These are, you're looking at turning point USA faith and they want access to children. They're all wacky. They're all crazy pastors. You got Frank Turek open saying, signaling that I should be struck down using the Bible, the good Bible, of course, to do it.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:48:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-48-17): “Then we have Frank Turek (Frank Turek speaking), who engages in this same sort of act of psychological manipulation, in my viewpoint, and he defends Mikey McCoy.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:18:53](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21): “That is just amazing to me that Frank Turek was fine to start a FaceTime call from the emergency room amidst all of that chaos while Charlie (Charlie Kirk) was dying, Amidst all of that chaos, while Charlie (Charlie Kirk) was dying, Brian Harpole was jumping on top of him, presumably. ... He's making probably accurate time estimates there for a military man, Frank Turek. It just seems to me to be like an extraordinarily inappropriate thing to do. ... Starting a FaceTime call with Jack Hibbs. What do I know? That's just my opinion, not a fact.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01): “Now, I do want to say regarding Alex Faria falling out of that car, it's a bit of a wonder that a pastor would think it's wise for him to be in the car above security on the way to the hospital. You would think that he would yield to security and say, OK, I'll find my own way. ... I think that feels mildly inappropriate, given the circumstances. And speaking of Frank Turek, there are a lot of things that he has said about that day that are questionable. I mean, definitely the CPR, the CPR story to me is the most senseless. ... His excuse that Brian Harpole was distracted and forgot that he conducted CPR on a dying person in the veh— ... In the very small vehicle, I don't think Harpole (Brian Harpole) just forgot that. I actually think Harpole (Brian Harpole) told the truth between the two of them, if I'm being honest, when he said that no CPR was conducted in the car. I don't think he was distracted.”
 
 </details>
 
@@ -14960,7 +15029,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -14993,6 +15062,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:44:09](/episodes/ep-JrhGEm8MGRY.md#t-00-44-09): “And Blake Neff is the least believable person in the world. So glad to know that you guys think that having the State Department and the Department of War behind you is going to win the game, along with billionaires like Bill Ackman who are willing to promote your nonsense. But we see right through all of it. Top comments from the last episode before we went off air: Big Hair Do Care wrote, 'The way she drops these bombs and then goes on vacation.'”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:49](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson). ... That's that's really what happened. You don't know him at all. The fact that you said I saw the donors, his friends, you just you had no idea what sort of a human being Charlie (Charlie Kirk) was. ... And you just had you are so short sighted to think that you could continue his legacy. You just don't have it.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:33:00](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49): “And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:02](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “And like I said, it reflects where they are at. They are not behaving honestly. They are lying repeatedly, especially Blake Neff. There's nobody that gets community noted faster for trying to lie to the public about various aspects of this case, lying about who Charlie (Charlie Kirk) was friendships and like who is who is friends with. And like I said, you sense a desperation.”
 
 </details>
 
@@ -15514,12 +15584,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Wilson](/entities/person-andrew-wilson.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:47:47](/episodes/ep-4JxgOclKzqg.md#t-00-47-47): “He can't just, he's had days and he still cannot comprehend this. So we are really hoping that Andrew Wilson will be able to understand it. We are done explaining it. It is now on him and coming upon Andrew Wilson to do his best to sit down and understand.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27): “I was hoping to have an opportunity to do that with Andrew Wilson. Obviously, he just is another fed slobber, got a call from Turning Point USA, changed all of his opinions and didn't know what was going on in the case at all.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:23:47](/episodes/ep-1FhY-koMuWM.md#t-00-23-47): “odd that Turning Point USA hands it to a third party who we know is happy to lie. He'll lie about what he said two seconds ago. He'll lie about what he knows. He'll lie. This was really, our debate was three hours of him trying to gaslight me about things that were said moments earlier, pretending that he knew the charges, all sorts of things. Why would they hand this to a chain-smoking liar”
 
 </details>
 
@@ -15740,6 +15811,27 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Holy See](/entities/org-holy-see.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:49:37](/episodes/ep-1FhY-koMuWM.md#t-00-49-30): “And in 2018, the Vatican entered a secretive deal with the Chinese Communist Party. The idea was to make things better for the Chinese Christians that the CCP was oppressing. But since then, it's only gotten worse. Bishops are disappearing.”
+
+</details>
+
+- **[Communist Party of China](/entities/org-communist-party-of-china.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:49:37](/episodes/ep-1FhY-koMuWM.md#t-00-49-30): “And in 2018, the Vatican entered a secretive deal with the Chinese Communist Party. The idea was to make things better for the Chinese Christians that the CCP was oppressing. But since then, it's only gotten worse. Bishops are disappearing.”
+
+</details>
+
+- **[Pope Leo XIV](/entities/person-pope-leo-xiv.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:49:57](/episodes/ep-1FhY-koMuWM.md#t-00-49-30): “This dark secret deal doesn't just compromise Catholics in China. It binds and silences the whole church. Even Pope Leo (Pope Leo XIV) himself has nervously refused to comment on it when asked on camera.”
+
+</details>
+
 - **[Shmuley Boteach](/entities/person-shmuley-boteach.md)** debated this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -15757,12 +15849,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Wilson](/entities/person-andrew-wilson.md)** debated this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 00:06:33](/episodes/ep-aPOyk1i2LOc.md#t-00-06-23): “But we came here today to debate, and so let's get to it. The debate topic today is, one, my belief that there's overwhelming evidence that Tyler Robinson killed Charlie Kirk, and two, Candace's belief that there's overwhelming evidence that Tyler Robinson was a patsy and didn't kill Charlie Kirk.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:00:06](/episodes/ep-E7P2ShoYDUA.md#t-00-00-01): “My, oh, my. Honestly, you guys, if we're being honest, it was over the minute that Andrew Wilson began reading his quote unquote opening statement from his phone.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:41:31](/episodes/ep-4JxgOclKzqg.md#t-00-41-23): “And the best way to solve this is to just sit down and be honest. You know, I actually taught a great lesson yesterday or last week in my debate when we turned Andrew Wilson by the end of it into a conspiracy theorist who thought.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:00:39](/episodes/ep-_cNtgris8Ik.md#t-00-00-39): “Andrew Kolvet, by the way. is lying so badly he brought on andrew wilson who i debated last friday onto their beavis and butthead platform and he tries to smear me i'm talking about Andrew Kolvet not andrew wilson he tries to smear me as a hitler lover and the smear was so bad him and blake are like is what they do that andrew wilson actually interjects yes the person that i just debated was the one who interjects and is like OK, to be fair,”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:22:34](/episodes/ep-1FhY-koMuWM.md#t-00-21-55): “Now, this is the same message that Andrew Wilson bizarrely read as his opening statement in our debate.”
 
 </details>
 
@@ -16560,7 +16653,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (48)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (49)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00): “Charlie, my friend, is dead.”
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:13:46](/episodes/ep-ozWJz2spBcI.md#t-00-13-44): “Charlie Kirk was a friend to Candace (Candace Owens) and never publicly spoke poorly of her, although he disagreed with her.”
@@ -16610,6 +16703,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:52:31](/episodes/ep-aDlhjfW6hz8.md#t-00-52-11): “We are going to solve the murder of my friend, Charlie Kirk.”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:58:39](/episodes/ep-pc3pxRyNFZk.md#t-00-58-03): “The special bond that you shared with Charlie (Charlie Kirk) is evident for all to see in many videos of you both.”
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:00:30](/episodes/ep-q7f8r-THr84.md#t-00-00-01): “What is happening right now in the world, and what just happened to my friend Charlie (Charlie Kirk), is a battle of sheer evil versus goodness.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:24](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “in Blake (Blake Neff)'s and Andrew (Andrew Kolvet)'s lies now. It's a desperation. I mean, it's insane to say Candace Owens and Charlie Kirk were not friends. That is like an insane thing to say, and it can only be uttered out of sheer desperation to try to get a handle on the narrative.”
 
 </details>
 
@@ -17075,7 +17169,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:50:20](/episodes/ep-OEAHy3SsIiI.md#t-00-49-35): “And that to me ran counter to my meeting with Erika (Erika Kirk).”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:48](/episodes/ep-HYn0P-P1wUw.md#t-00-26-34): “I decided to ask Erika (Erika Kirk) in person during our sit-down how she met Tyler (Tyler Bowyer).”
@@ -17097,6 +17191,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:52:36](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58): “And I told you when I sat down with Erika (Erika Kirk), they didn't have anything. They weren't hiding anything.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-02-04): “And I can tell you guys that yesterday for four hours and 30 minutes, there were no rules. They said you can say, you can ask us any question that you want, anything that's on your mind, which I appreciated. And some of you guys are thinking, who is they? Who is they? It's the Jews, obviously. Just kidding. It's Justin (Justin Streiff). Justin (Justin Streiff) was in the room. It was just Justin (Justin Streiff) and Erika (Erika Kirk).”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:29](/episodes/ep-ja26iltROkM.md#t-00-02-10): “I remember meeting Erika.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:30:14](/episodes/ep-1FhY-koMuWM.md#t-00-29-40): “And then I met up with Erika (Erika Kirk). They very quickly then reached out and she was like, oh yeah, no, the messages are real.”
 
 </details>
 
@@ -17585,13 +17680,6 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
-- **[Matt Walsh](/entities/person-matt-walsh.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:00:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40): “Yesterday on X, I don't think I've ever done this, by the way, but I did actually have to slap down my former colleague, Matt Walsh, when he perpetuated one of the more disingenuous narratives out there, because I just want to be frank here.”
-
-</details>
-
 - **[Schuyler Pryor](/entities/person-schuyler-pryor.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
@@ -17642,7 +17730,99 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (4852)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (4881)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (29)</summary>
+
+- [00:02:00](/episodes/ep-1FhY-koMuWM.md#t-00-01-34) [○] (Claim) ["Owens identified a man in a security photograph as Todd Espy; the episode does n..."](/statements/statement-ef67bd10aea6.md)
+  - About: [Todd Espy (security participant identified by Owens)](/entities/person-todd-espy-security.md)
+
+- [00:02:10](/episodes/ep-1FhY-koMuWM.md#t-00-02-10) [○] (Claim) ["Owens said she was fairly certain a security participant called Chester went by ..."](/statements/statement-37dfac71585b.md)
+  - About: [Claude Barnes (Integrity Security Solutions)](/entities/person-claude-barnes-security.md), [Integrity Security Solutions (Brian Harpole company)](/entities/org-integrity-security-solutions.md)
+
+- [00:05:19](/episodes/ep-1FhY-koMuWM.md#t-00-04-45) [○] (Claim) ["Owens said unnamed people connected with Turning Point USA told her Christopher ..."](/statements/statement-64b8fe31884a.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [TPUSA sources on Christopher (identities unverified; episode 1FhY-koMuWM)](/entities/anon-src-1FhY-koMuWM-001.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:07:01](/episodes/ep-1FhY-koMuWM.md#t-00-06-53) [○] (Opinion) ["Owens inferred that the SUV was already unlocked because Justin Davis ran direct..."](/statements/statement-58d2ca5ea852.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [GMC Yukon Denali (model)](/entities/vehicle-gmc-yukon-denali-model.md)
+
+- [00:08:36](/episodes/ep-1FhY-koMuWM.md#t-00-08-36) [○] (Claim) ["Owens interpreted footage as showing a security participant named Blake reaching..."](/statements/statement-8dab33d1b26c.md)
+  - About: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md)
+
+- [00:11:45](/episodes/ep-1FhY-koMuWM.md#t-00-11-22) [○] (Opinion) ["Owens said the movements around Kirk’s vehicle looked strangely choreographed to..."](/statements/statement-20adab108b62.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:13:23](/episodes/ep-1FhY-koMuWM.md#t-00-13-16) [○] (Claim) ["Owens identified the person who fell from the rear of Kirk’s SUV while a backpac..."](/statements/statement-fcc9b42c9047.md)
+  - About: [Alex Faria (security team member; identity unverified)](/entities/anon-src-HIlPQ-_dcxM-001.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01) [○] (Opinion) ["Owens said she did not believe the account that Frank Turek performed CPR in the..."](/statements/statement-0bc3517a3931.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:15:12](/episodes/ep-1FhY-koMuWM.md#t-00-15-12) [○] (Claim) ["Owens identified the woman who retrieved the backpack after the shooting as Chri..."](/statements/statement-99e81d30acb2.md)
+  - About: [Chrissy Pacheco](/entities/person-chrissy-pacheco.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:16:33](/episodes/ep-1FhY-koMuWM.md#t-00-16-33) [○] (Claim) ["Owens said newly presented footage around 12:11 p.m. on September 10 showed Chri..."](/statements/statement-eb697cf42d8e.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:22:19](/episodes/ep-1FhY-koMuWM.md#t-00-21-55) [○] (Accusation) ["Owens said Andrew Kolvet authorized Andrew Wilson to read an alleged Telegram ex..."](/statements/statement-5ba892679521.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Andrew Wilson](/entities/person-andrew-wilson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:23:24](/episodes/ep-1FhY-koMuWM.md#t-00-23-24) [○] (Claim) ["Owens said a trusted unnamed source described Kirk’s message to Dan Flood as an ..."](/statements/statement-e682356e6916.md)
+  - About: [Message-format source (identity unverified; episode 1FhY-koMuWM)](/entities/anon-src-1FhY-koMuWM-002.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:24:19](/episodes/ep-1FhY-koMuWM.md#t-00-23-47) [○] (Accusation) ["Owens said she believed the exchange read by Wilson was a recreation in which th..."](/statements/statement-009b29f5640c.md)
+  - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:29:52](/episodes/ep-1FhY-koMuWM.md#t-00-29-40) [○] (Accusation) ["Owens said Erika Kirk acknowledged the fear messages were real during their priv..."](/statements/statement-5688224d9fdc.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Signal Messenger](/entities/org-signal-messenger.md)
+
+- [00:30:54](/episodes/ep-1FhY-koMuWM.md#t-00-30-54) [○] (Claim) ["Owens said the fear messages were sent while Kirk was on a Zoom call about Israe..."](/statements/statement-c43361701037.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Will Cain](/entities/person-will-cain.md), [Mark Halperin](/entities/person-mark-halperin.md)
+
+- [00:32:46](/episodes/ep-1FhY-koMuWM.md#t-00-32-15) [○] (Opinion) ["Owens suggested the Zoom call might have been an emergency intervention over Kir..."](/statements/statement-21ba4f7ec883.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:35:59](/episodes/ep-1FhY-koMuWM.md#t-00-35-59) [○] (Claim) ["Owens said Andrew Kolvet forwarded Kirk’s message about leaving the pro-Israel c..."](/statements/statement-261594754578.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Joe Kent](/entities/person-joe-kent.md)
+
+- [00:37:21](/episodes/ep-1FhY-koMuWM.md#t-00-37-21) [○] (Claim) ["Owens said Erika Kirk did not deny during their four-hour meeting that Charlie K..."](/statements/statement-e2507d7375d0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:41](/episodes/ep-1FhY-koMuWM.md#t-00-37-21) [○] (Claim) ["Owens said donors withdrew millions of dollars from Turning Point USA before Kir..."](/statements/statement-62822d9ff6bc.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:45:57](/episodes/ep-1FhY-koMuWM.md#t-00-45-22) [○] (Opinion) ["Owens inferred from lozenges that Kirk might have been shouting the prior night ..."](/statements/statement-5076fcb8e7b6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:48:47](/episodes/ep-1FhY-koMuWM.md#t-00-48-47) [○] (Claim) ["Owens said Kirk’s body was placed on an audiovisual travel case after he was sho..."](/statements/statement-5b15a6856056.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:49:37](/episodes/ep-1FhY-koMuWM.md#t-00-49-30) [○] (Accusation) ["Owens said a secretive 2018 agreement between the Vatican and the Chinese Commun..."](/statements/statement-36e54bee8482.md)
+  - About: [Holy See](/entities/org-holy-see.md), [Communist Party of China](/entities/org-communist-party-of-china.md)
+
+- [00:49:37](/episodes/ep-1FhY-koMuWM.md#t-00-49-30) [○] (Opinion) ["Owens argued that Pope Leo XIV could end the Vatican’s agreement with the Chines..."](/statements/statement-7658858a9a17.md)
+  - About: [Holy See](/entities/org-holy-see.md), [Communist Party of China](/entities/org-communist-party-of-china.md), [Pope Leo XIV](/entities/person-pope-leo-xiv.md)
+
+- [00:49:48](/episodes/ep-1FhY-koMuWM.md#t-00-49-30) [○] (Accusation) ["Owens said Beijing appointed bishops loyal to the Chinese Communist Party agains..."](/statements/statement-b7ca4d9d78a3.md)
+  - About: [Holy See](/entities/org-holy-see.md), [Communist Party of China](/entities/org-communist-party-of-china.md), [Pope Leo XIV](/entities/person-pope-leo-xiv.md)
+
+- [00:51:02](/episodes/ep-1FhY-koMuWM.md#t-00-51-02) [○] (Accusation) ["Owens accused Blake Neff of repeatedly denying her friendship with Charlie Kirk."](/statements/statement-e1cfd4ecb94c.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:52:33](/episodes/ep-1FhY-koMuWM.md#t-00-52-14) [○] (Opinion) ["Owens said she believed Michael McCoy knew more than he had publicly communicate..."](/statements/statement-92b0c0999bff.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:52:56](/episodes/ep-1FhY-koMuWM.md#t-00-52-56) [○] (Opinion) ["Owens said she believed Christopher backed in the SUV while Kirk walked toward t..."](/statements/statement-eb8a36abdbda.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:53:55](/episodes/ep-1FhY-koMuWM.md#t-00-53-41) [○] (Claim) ["Owens said an unnamed source involved in planning told her Turning Point USA ins..."](/statements/statement-5e4a2e52e3c9.md)
+  - About: [UVU event-planning source (identity unverified; episode 1FhY-koMuWM)](/entities/anon-src-1FhY-koMuWM-003.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:55:48](/episodes/ep-1FhY-koMuWM.md#t-00-55-37) [○] (Claim) ["Owens said additional messages from September 9 directed Turning Point USA to br..."](/statements/statement-f5ce91c08942.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [AmericaFest 2025](/entities/event-americafest-2025.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (40)</summary>

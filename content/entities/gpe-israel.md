@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1593 mentions"
+description: "Israel (Places) - 1602 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -25,9 +25,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-israel-t-00-59-10">2026-09-02 · 00:59:36</a></strong></div>
-<div><span>Episodes</span><strong>145</strong></div>
-<div><span>Mentions</span><strong>1,593</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-41-59">2026-09-03 · 00:41:59</a></strong></div>
+<div><span>Episodes</span><strong>146</strong></div>
+<div><span>Mentions</span><strong>1,602</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>346</strong></div>
 <div><span>Relationships</span><strong>74</strong></div>
@@ -183,6 +183,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-israel-t-00-04-54" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-06-17" style="--pulse-height:13%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 10 mentions" title="2026-09-01 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-israel-t-00-59-10" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-31-35" style="--pulse-height:12%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 9 mentions" title="2026-09-03 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -333,6 +334,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-israel-t-00-04-54) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-06-17) | 10 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-israel-t-00-59-10) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-31-35) | 9 |
 
 </details>
 </section>
@@ -344,7 +346,39 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1593)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1602)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (9 mentions)</summary>
+
+**[00:31:35](/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-31-35)**
+> "And what is interesting about when Charlie (Charlie Kirk) sent these alleged panicked messages to his security, Dan Flood, and to Andrew Kolvet, which he has not yet addressed, is that he sent them when he was on the now notorious Zoom call with leaders in Israel."
+
+**[00:27:33](/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-27-01)**
+> "..., oh, it was it's the Jews in Israel. He didn't say that."
+
+**[00:33:00](/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-33-00)**
+> "We have two Israeli officials that are on the Zoom call, as well as B..."
+
+**[00:33:38](/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-33-38)**
+> "... you were on a Zoom call with Israeli officials after you said that you were leaving th..."
+
+**[00:34:51](/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-34-47)**
+> "...ng with a couple of people in Israel and a couple of people in the room."
+
+**[00:34:59](/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-34-47)**
+> "... another person, an expert on Israel in the United States, and we were asking them, an..."
+
+**[00:35:13](/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-34-47)**
+> "...harlie Kirk) was giving up on Israel, that's not true."
+
+**[00:38:18](/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-37-57)**
+> "...i officials. And mind you, in Israel, it's four o'clock in the morning."
+
+**[00:41:59](/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-41-59)**
+> "...g while he was on a call with Israel, four o'clock in the morning, Israel time, to be ..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "ZeroGhost"
-description: "ZeroGhost (Organizations) - 13 mentions"
+description: "ZeroGhost (Organizations) - 16 mentions"
 id: "org-zeroghost"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Resources – ZeroGhost](https://zeroghost.com/pages/resources)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-zeroghost-t-00-27-50">2026-05-26 · 00:28:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-zeroghost-t-02-59-45">2026-08-14 · 03:00:01</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-zeroghost-t-00-43-21">2026-09-03 · 00:43:30</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -40,6 +40,7 @@ Source: [Resources – ZeroGhost](https://zeroghost.com/pages/resources)
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-zeroghost-t-00-48-52" style="--pulse-height:100%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-zeroghost-t-00-41-44" style="--pulse-height:67%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-zeroghost-t-02-59-00" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-zeroghost-t-00-41-59" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Resources – ZeroGhost](https://zeroghost.com/pages/resources)
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-zeroghost-t-00-48-52) | 3 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-zeroghost-t-00-41-44) | 2 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-zeroghost-t-02-59-00) | 3 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-zeroghost-t-00-41-59) | 3 |
 
 </details>
 </section>
@@ -57,7 +59,21 @@ Source: [Resources – ZeroGhost](https://zeroghost.com/pages/resources)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3 mentions)</summary>
+
+**[00:42:37](/episodes/ep-1FhY-koMuWM.md#ent-org-zeroghost-t-00-41-59)**
+> "Thankfully, my friends over at Zero Ghost believe that your smartphone should know its boundaries and mind its own business."
+
+**[00:43:21](/episodes/ep-1FhY-koMuWM.md#ent-org-zeroghost-t-00-43-21)**
+> "...off a ghost phone by visiting zeroghost.com slash candace and using promo code candace at..."
+
+**[00:43:30](/episodes/ep-1FhY-koMuWM.md#ent-org-zeroghost-t-00-43-21)**
+> "That's zeroghost.com slash candace for $50 off. Installment plans ..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs Andrew Wilson: The Great Debate. (3 mentions)</summary>

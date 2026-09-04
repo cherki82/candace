@@ -1,6 +1,6 @@
 ---
 title: "Nate Walker"
-description: "Nate Walker (People) - 12 mentions"
+description: "Nate Walker (People) - 18 mentions"
 id: "person-nate-walker"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-nate-walker-t-00-03-25">2026-07-16 · 00:03:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-nate-walker-t-00-32-49">2026-09-02 · 00:32:49</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-nate-walker-t-00-45-22">2026-09-03 · 00:45:46</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -29,13 +29,14 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-nate-walker-t-00-16-51">Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-nate-walker-t-00-03-44">Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-nate-walker-t-00-03-25" style="--pulse-height:50%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-nate-walker-t-00-10-50" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-nate-walker-t-00-23-31" style="--pulse-height:75%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-nate-walker-t-00-20-31" style="--pulse-height:25%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-nate-walker-t-00-16-51" style="--pulse-height:100%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 4 mentions" title="2026-09-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-nate-walker-t-00-03-25" style="--pulse-height:33%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-nate-walker-t-00-10-50" style="--pulse-height:33%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-nate-walker-t-00-23-31" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-nate-walker-t-00-20-31" style="--pulse-height:17%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-nate-walker-t-00-16-51" style="--pulse-height:67%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 4 mentions" title="2026-09-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-nate-walker-t-00-03-44" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 6 mentions" title="2026-09-03 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-nate-walker-t-00-23-31) | 3 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-nate-walker-t-00-20-31) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-nate-walker-t-00-16-51) | 4 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-nate-walker-t-00-03-44) | 6 |
 
 </details>
 </section>
@@ -57,7 +59,30 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (6 mentions)</summary>
+
+**[00:03:53](/episodes/ep-1FhY-koMuWM.md#ent-person-nate-walker-t-00-03-44)**
+> "Anyway, we still do not, however, have a positive ID on a rather crucial character, Christopher (security driver; surname unverified), the security member that was on Charlie (Charlie Kirk) and who drove him to the event at UVU with Mikey McCoy (Michael McCoy) and Nate Walker and Frank Turek in the backseat. Now, I want to show you guys some clearer images of Christopher (security driver; surname unverified) because I realized yesterday we only showed you one blurry one and I intended to show you."
+
+**[00:12:17](/episodes/ep-1FhY-koMuWM.md#ent-person-nate-walker-t-00-12-04)**
+> "...e (Charlie Kirk)'s assistant, Nate Walker, heading toward the Sorensen Center."
+
+**[00:18:03](/episodes/ep-1FhY-koMuWM.md#ent-person-nate-walker-t-00-18-03)**
+> "...next is he goes upstairs with Nate Walker, Charlie (Charlie Kirk)'s assistant."
+
+**[00:18:46](/episodes/ep-1FhY-koMuWM.md#ent-person-nate-walker-t-00-18-46)**
+> "I don't think Nate Walker needed to be guarded."
+
+**[00:21:46](/episodes/ep-1FhY-koMuWM.md#ent-person-nate-walker-t-00-21-29)**
+> "... did he then go upstairs with Nate Walker?"
+
+**[00:45:46](/episodes/ep-1FhY-koMuWM.md#ent-person-nate-walker-t-00-45-22)**
+> "..., maybe it looks like perhaps Nate Walker picked them up. We see the bag."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (4 mentions)</summary>
@@ -129,9 +154,10 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 <summary>Appeared With (1)</summary>
 
 - **[Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-51): “Yet Christopher (security driver; surname unverified), for some odd reason, Minutes before Charlie (Charlie Kirk) gets hit, he decides to go upstairs with Nate Walker, and he is upstairs when the shot goes off. So Chris (Christopher; security driver; surname unverified), the security person who has the keys, who locks the car, is upstairs when the explosive goes off.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:12:17](/episodes/ep-1FhY-koMuWM.md#t-00-12-04): “The driver, who one might assume had the keys, Chris (Christopher, security driver; surname unverified), and who had previously locked that car at some point before the explosive goes off, he presumably unlocks the car and then makes a decision to go upstairs with Charlie (Charlie Kirk)'s assistant, Nate Walker, heading toward the Sorensen Center.”
 
 </details>
 
@@ -178,9 +204,10 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 <summary>Referenced By (4)</summary>
 
 - **[Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-51): “Yet Christopher (security driver; surname unverified), for some odd reason, Minutes before Charlie (Charlie Kirk) gets hit, he decides to go upstairs with Nate Walker, and he is upstairs when the shot goes off. So Chris (Christopher; security driver; surname unverified), the security person who has the keys, who locks the car, is upstairs when the explosive goes off.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:12:17](/episodes/ep-1FhY-koMuWM.md#t-00-12-04): “The driver, who one might assume had the keys, Chris (Christopher, security driver; surname unverified), and who had previously locked that car at some point before the explosive goes off, he presumably unlocks the car and then makes a decision to go upstairs with Charlie (Charlie Kirk)'s assistant, Nate Walker, heading toward the Sorensen Center.”
 
 </details>
 

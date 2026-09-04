@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 3074 mentions"
+description: "Erika Kirk (People) - 3091 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -27,12 +27,12 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-erika-kirk-t-00-18-02">2025-09-11 · 00:18:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-erika-kirk-t-01-02-29">2026-09-02 · 01:02:29</a></strong></div>
-<div><span>Episodes</span><strong>146</strong></div>
-<div><span>Mentions</span><strong>3,074</strong></div>
-<div><span>Statements by</span><strong>121</strong></div>
-<div><span>Statements about</span><strong>968</strong></div>
-<div><span>Relationships</span><strong>313</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-50-33">2026-09-03 · 00:50:33</a></strong></div>
+<div><span>Episodes</span><strong>147</strong></div>
+<div><span>Mentions</span><strong>3,091</strong></div>
+<div><span>Statements by</span><strong>122</strong></div>
+<div><span>Statements about</span><strong>971</strong></div>
+<div><span>Relationships</span><strong>310</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -186,6 +186,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-erika-kirk-t-00-04-54" style="--pulse-height:16%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 14 mentions" title="2026-08-31 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-erika-kirk-t-00-03-05" style="--pulse-height:9%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 8 mentions" title="2026-09-01 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-erika-kirk-t-00-30-33" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 6 mentions" title="2026-09-02 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-05-25" style="--pulse-height:19%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 16 mentions" title="2026-09-03 · 16 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -337,6 +338,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-erika-kirk-t-00-04-54) | 14 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-erika-kirk-t-00-03-05) | 8 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-erika-kirk-t-00-30-33) | 6 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-05-25) | 16 |
 
 </details>
 </section>
@@ -348,7 +350,60 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3074)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3091)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (16 mentions)</summary>
+
+**[00:05:44](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-05-25)**
+> "...oke and which, I mean, Erika (Erika Kirk) confirmed the reasons for that phone."
+
+**[00:26:35](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-26-35)**
+> "Because back when Erika (Erika Kirk) did her first PR blitz in December of 2025, it w..."
+
+**[00:28:00](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-27-41)**
+> "...ater, in December when Erika (Erika Kirk) hit the circuit clearly with the express purpose..."
+
+**[00:29:40](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-29-40)**
+> "...l me that and not tell Erika (Erika Kirk)."
+
+**[00:29:52](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-29-40)**
+> "...pposed to believe that Erika (Erika Kirk) was completely ignorant on these messages until ..."
+
+**[00:30:06](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-29-40)**
+> "Erika (Erika Kirk) was lying there. That's very strange. These mess..."
+
+**[00:30:14](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-29-40)**
+> "And then I met up with Erika (Erika Kirk). They very quickly then reached out and she was ..."
+
+**[00:30:36](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-30-20)**
+> "...hat I didn't reveal to Erika (Erika Kirk) is that a source that I trust deeply, much more ..."
+
+**[00:32:09](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-31-35)**
+> "Erika (Erika Kirk), remember, he comes back from Korea, so he's jet..."
+
+**[00:32:22](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-32-15)**
+> "...ow. At 3 o'clock p.m., Erika (Erika Kirk) told me that she was getting her nails done and ..."
+
+**[00:36:32](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-35-59)**
+> "...k because when I asked Erika (Erika Kirk) about this message, she didn't say it was tongue..."
+
+**[00:37:21](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-37-21)**
+> "... This is not something Erika (Erika Kirk) denied or tried to clean up or tried to present ..."
+
+**[00:40:22](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-39-49)**
+> "... they denied. And then Erika (Erika Kirk) went and did her PR blitz, the stop, just stop."
+
+**[00:45:40](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-45-22)**
+> "...call bullshit on that, Erika (Erika Kirk). Pardon my language."
+
+**[00:46:47](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-46-47)**
+> "...re some more messages, Erika (Erika Kirk). Apparently he didn't open up to you and Andrew ..."
+
+**[00:50:33](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-50-33)**
+> "...ank Turek, Andrew Wilson, and Erika Kirk and realize life could be so much worse. I could ..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (6 mentions)</summary>
@@ -11445,12 +11500,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Glenn Beck](/entities/person-glenn-beck.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:16:30](/episodes/ep-6J6lRZPQ4jk.md#t-00-16-17): “We're gonna get more because Erika (Erika Kirk) also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:05:40](/episodes/ep-es7PWdFGoFI.md#t-00-05-30): “But they owned right away, which felt great, that if you guys recall, We, Erika (Erika Kirk) sat down with Glenn (Glenn Beck).”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14): “Well, then fast forward to December 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first interview from Charlie (Charlie Kirk)'s home office. She gave an interview to Glenn Beck.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:19](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): “as she told Glenn Beck”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:28:18](/episodes/ep-1FhY-koMuWM.md#t-00-27-41): “She went to Glenn Beck. And here’s what she said. Take a listen. ... I know the tour. That was the first stop of the tour. And I know you two had met ... Mm-hmm. ... Do you think Charlie (Charlie Kirk) knew to some degree and had made the conscience, the conscious choice that I may be taken out early? Not saying he knew that that day, but that he had any inkling that this might come his way, and that ... It's interesting because we always, we have, I mean, I still, I have unbelievable amounts of death threats.”
 
 </details>
 
@@ -11530,7 +11586,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Met With (12)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:50:20](/episodes/ep-OEAHy3SsIiI.md#t-00-49-35): “And that to me ran counter to my meeting with Erika (Erika Kirk).”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:48](/episodes/ep-HYn0P-P1wUw.md#t-00-26-34): “I decided to ask Erika (Erika Kirk) in person during our sit-down how she met Tyler (Tyler Bowyer).”
@@ -11552,6 +11608,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:52:36](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58): “And I told you when I sat down with Erika (Erika Kirk), they didn't have anything. They weren't hiding anything.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-02-04): “And I can tell you guys that yesterday for four hours and 30 minutes, there were no rules. They said you can say, you can ask us any question that you want, anything that's on your mind, which I appreciated. And some of you guys are thinking, who is they? Who is they? It's the Jews, obviously. Just kidding. It's Justin (Justin Streiff). Justin (Justin Streiff) was in the room. It was just Justin (Justin Streiff) and Erika (Erika Kirk).”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:29](/episodes/ep-ja26iltROkM.md#t-00-02-10): “I remember meeting Erika.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:30:14](/episodes/ep-1FhY-koMuWM.md#t-00-29-40): “And then I met up with Erika (Erika Kirk). They very quickly then reached out and she was like, oh yeah, no, the messages are real.”
 
 </details>
 
@@ -11879,7 +11936,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Worked With (18)</summary>
+<summary>Worked With (17)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -11931,7 +11988,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:05:15](/episodes/ep-QdM9jLwjwLw.md#t-00-05-05): “meetings come out and say like yes this Hamptons Summit did happen yes Bibi (Benjamin Netanyahu) did call and try to work through with Andrew (Andrew Kolvet) why they have different memories of whether or not he called to fund things to the next level we have also confirmed that Erika (Erika Kirk) and Andrew (Andrew Kolvet) were working together on that Fort Huachuca PR response we got the craziest attacks I've ever endured Alex Jones quite entertainingly he's coming for me my whole life everything”
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:22:46](/episodes/ep-DYD_QHMPwqM.md#t-00-22-31): “The reality is her and Andrew (Andrew Kolvet) called the doctor together through a call on the day of Charlie (Charlie Kirk)'s funeral”
@@ -11940,14 +11997,16 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:53:36](/episodes/ep-KpxIBWkNsSs.md#t-00-53-36): “she was she was not at Fort Huachuca she was here they didn't do that they went behind the scenes and i will clock another lie it was after Erika (Erika Kirk) told me that they were getting rid of Andrew Kolvet so Andrew Kolvet has been doing her dirty work she's obviously got caught red-handed working with Andrew Kolvet to get this out through this obscure youtube channel this alibi After she told me that they had hired crisis PR and they were moving Andrew (Andrew Kolvet) out of out of PR.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:28:15](/episodes/ep-4DvYXBn_5JI.md#t-00-28-15): “moved away from PR because he was failing miserably at it. They brought in crisis PR, at least that's what Erika told me, and Erika coordinating with Andrew Kolvet to get an alibi for Fort Huachuca to this obscure YouTuber.”
 - [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:13:39](/episodes/ep-tXoI0TTKVrs.md#t-00-13-15): “Andrew Kolvet was live texting with Erika (Erika Kirk) during that interview with Alex Clark to make sure that he had permission because they wanted to protect their evangelical Zionist base of donors.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:29:40](/episodes/ep-1FhY-koMuWM.md#t-00-29-40): “Spicy. He didn't say that. And I have a cell phone and it's important to remember that Andrew Kolvet was doing PR with her and traveling with her at this time. So it really is weird that Andrew Kolvet would tell me that and not tell Erika (Erika Kirk).”
 
 </details>
 
 - **[Tracy Martin](/entities/person-tracy-martin.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Erika Kirk has been a dear friend of mine for almost 15 years. We have done multiple projects together.”
 - [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:28:01](/episodes/ep-y8lak3CRwDw.md#t-00-28-01): “On June 7th of 2012, Erika is going to team up with that Tracy Martin. Tracy says they met backstage and they just decided to go in to do some good together.”
+- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:17](/episodes/ep-ZkDO-MRLUco.md#t-00-03-05): “So were Erika Kirk's de facto parents, Stacy Sheridan. Tracy Martin, we're just going to count them as her parents, I think, because she's never surrounded by her actual family. ... She does Erika (Erika Kirk)'s PR dirty work, always willing to sit down and tell a story.”
 
 </details>
 
@@ -12023,13 +12082,6 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
-- **[James Kaddis](/entities/person-james-kaddis.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:54](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “And notably, you may not have recognized who this was. This is Pastor James Kaddis. He's the senior pastor of Calvary Chapel in Signal Hill, California. ... He is also one of Erika Kirk's many problematic TPUSA faith pastors. He also hosts a show with her with that like fledgling fashion brand that she has, Bible in 365.”
-
-</details>
-
 </details>
 
 <details>
@@ -12053,7 +12105,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Referenced By (146)</summary>
+<summary>Referenced By (144)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (26)</summary>
@@ -12127,13 +12179,6 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:43:45](/episodes/ep-ChuWo-n49B8.md#t-00-43-45): “a perfect segue by the way into Victor Marx one of Erika's (Erika Kirk) spiritual advisors we all get the ick we all know something's wrong it's like we listen to Frank Turek we just go this doesn't feel godly but you keep telling me it is well Piers Morgan interviewed Victor Marx and tweeted that it was one of the most bizarre interviews of his career yeah well what's funny about this is Piers Morgan has been hosting people attacking me as he always does uh saying i'm wrong Erika (Erika Kirk) is the widow he always accepts the slop up”
-
-</details>
-
-- **[BIBLEin365](/entities/org-biblein365.md)** affiliated with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:04:03](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “He is also one of Erika Kirk's many problematic TPUSA faith pastors. He also hosts a show with her with that like fledgling fashion brand that she has, Bible in 365.”
 
 </details>
 
@@ -13133,11 +13178,12 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Glenn Beck](/entities/person-glenn-beck.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:16:30](/episodes/ep-6J6lRZPQ4jk.md#t-00-16-17): “We're gonna get more because Erika (Erika Kirk) also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV.”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14): “Well, then fast forward to December 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first interview from Charlie (Charlie Kirk)'s home office. She gave an interview to Glenn Beck.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:19](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): “as she told Glenn Beck”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:28:18](/episodes/ep-1FhY-koMuWM.md#t-00-27-41): “She went to Glenn Beck. And here’s what she said. Take a listen. ... I know the tour. That was the first stop of the tour. And I know you two had met ... Mm-hmm. ... Do you think Charlie (Charlie Kirk) knew to some degree and had made the conscience, the conscious choice that I may be taken out early? Not saying he knew that that day, but that he had any inkling that this might come his way, and that ... It's interesting because we always, we have, I mean, I still, I have unbelievable amounts of death threats.”
 
 </details>
 
@@ -13217,7 +13263,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:50:20](/episodes/ep-OEAHy3SsIiI.md#t-00-49-35): “And that to me ran counter to my meeting with Erika (Erika Kirk).”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:48](/episodes/ep-HYn0P-P1wUw.md#t-00-26-34): “I decided to ask Erika (Erika Kirk) in person during our sit-down how she met Tyler (Tyler Bowyer).”
@@ -13239,6 +13285,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:52:36](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58): “And I told you when I sat down with Erika (Erika Kirk), they didn't have anything. They weren't hiding anything.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-02-04): “And I can tell you guys that yesterday for four hours and 30 minutes, there were no rules. They said you can say, you can ask us any question that you want, anything that's on your mind, which I appreciated. And some of you guys are thinking, who is they? Who is they? It's the Jews, obviously. Just kidding. It's Justin (Justin Streiff). Justin (Justin Streiff) was in the room. It was just Justin (Justin Streiff) and Erika (Erika Kirk).”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:29](/episodes/ep-ja26iltROkM.md#t-00-02-10): “I remember meeting Erika.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:30:14](/episodes/ep-1FhY-koMuWM.md#t-00-29-40): “And then I met up with Erika (Erika Kirk). They very quickly then reached out and she was like, oh yeah, no, the messages are real.”
 
 </details>
 
@@ -13430,19 +13477,20 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
-- **[Tracy Martin](/entities/person-tracy-martin.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:17](/episodes/ep-ZkDO-MRLUco.md#t-00-03-05): “So were Erika Kirk's de facto parents, Stacy Sheridan. Tracy Martin, we're just going to count them as her parents, I think, because she's never surrounded by her actual family. ... She does Erika (Erika Kirk)'s PR dirty work, always willing to sit down and tell a story.”
-
-</details>
-
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Erika Kirk (121)</strong></summary>
+<summary><strong class="section-title">Statements by Erika Kirk (122)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>
+
+- [00:29:00](/episodes/ep-1FhY-koMuWM.md#t-00-29-00) [○] (Claim) ["In an embedded interview with Glenn Beck, Erika Kirk said threats against her, h..."](/statements/statement-933d177d44a5.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -14052,7 +14100,21 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (968)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (971)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3)</summary>
+
+- [00:29:52](/episodes/ep-1FhY-koMuWM.md#t-00-29-40) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk acknowledged the fear messages were real during ..."](/statements/statement-5688224d9fdc.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Signal Messenger](/entities/org-signal-messenger.md), [Telegram](/entities/org-telegram.md)
+
+- [00:37:21](/episodes/ep-1FhY-koMuWM.md#t-00-37-21) (Claim) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk did not deny during their four-hour meeting that..."](/statements/statement-e2507d7375d0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:45:57](/episodes/ep-1FhY-koMuWM.md#t-00-45-22) (Opinion) **Candace Owens**: ["Owens inferred from lozenges that Kirk might have been shouting the pr..."](/statements/statement-5076fcb8e7b6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3)</summary>

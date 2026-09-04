@@ -1,6 +1,6 @@
 ---
 title: "Mike Mitchell"
-description: "Mike Mitchell (People) - 59 mentions"
+description: "Mike Mitchell (People) - 58 mentions"
 id: "person-mike-mitchell"
 type: "PERSON"
 aliases:
@@ -25,7 +25,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-18-41">2025-09-29 · 00:18:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-mike-mitchell-t-00-08-40">2026-09-02 · 00:09:11</a></strong></div>
 <div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>59</strong></div>
+<div><span>Mentions</span><strong>58</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
@@ -49,7 +49,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-mike-mitchell-t-01-06-57" style="--pulse-height:80%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 8 mentions" title="2026-08-14 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-mike-mitchell-t-00-30-29" style="--pulse-height:70%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 7 mentions" title="2026-08-19 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-mike-mitchell-t-01-06-19" style="--pulse-height:10%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-mike-mitchell-t-00-08-40" style="--pulse-height:20%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-mike-mitchell-t-00-08-40" style="--pulse-height:10%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,7 +68,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-mike-mitchell-t-01-06-57) | 8 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-mike-mitchell-t-00-30-29) | 7 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-mike-mitchell-t-01-06-19) | 1 |
-| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-mike-mitchell-t-00-08-40) | 2 |
+| 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-mike-mitchell-t-00-08-40) | 1 |
 
 </details>
 </section>
@@ -80,13 +80,10 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+<summary><strong class="section-title">Raw mentions (58)</strong></summary>
 
 <details>
-<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
-
-**[00:09:11](/episodes/ep-HIlPQ-_dcxM.md#ent-person-mike-mitchell-t-00-08-40)**
-> "He confessed it to Mike Mitchell. He confessed it to his parents when he got to hi..."
+<summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
 
 **[00:09:11](/episodes/ep-HIlPQ-_dcxM.md#ent-person-mike-mitchell-t-00-08-40)**
 > "He confessed it to Mike Mitchell. He confessed it to his parents when he got to his house."

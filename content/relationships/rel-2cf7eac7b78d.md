@@ -11,7 +11,11 @@ object: "person-erika-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) met with [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (20 mentions)
+### Evidence (21 mentions)
+
+**[Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM)**
+
+- [00:30:14](/episodes/ep-1FhY-koMuWM#t-00-30-14): _And then I met up with Erika (Erika Kirk). They very quickly then reached out and she was like, oh yeah, no, the messages are real._
 
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 

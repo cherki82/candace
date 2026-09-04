@@ -1,6 +1,6 @@
 # Entity Disambiguation - Resolved Mentions
 
-Generated: 2026-09-04 08:10:43
+Generated: 2026-09-04 09:51:03
 
 **3 ambiguous mentions** were automatically resolved using context.
 
@@ -10,7 +10,7 @@ Review these to verify the disambiguation was correct.
 
 ## `DOGE` (3 resolved)
 
-**Candidates:** Department of Government Efficiency, DOGE (Turning Point USA internal audit)
+**Candidates:** DOGE (Turning Point USA internal audit), Department of Government Efficiency
 
 | Episode | Location | Resolved To | Context |
 |---------|----------|-------------|--------|

@@ -1,6 +1,6 @@
 ---
 title: "Andrew Wilson"
-description: "Andrew Wilson (People) - 123 mentions"
+description: "Andrew Wilson (People) - 129 mentions"
 id: "person-andrew-wilson"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-andrew-wilson-t-00-02-36">2026-08-07 · 00:02:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-andrew-wilson-t-00-51-27">2026-09-02 · 00:51:36</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>123</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-wilson-t-00-50-33">2026-09-03 · 00:50:33</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>129</strong></div>
 <div><span>Statements by</span><strong>26</strong></div>
-<div><span>Statements about</span><strong>33</strong></div>
+<div><span>Statements about</span><strong>35</strong></div>
 <div><span>Relationships</span><strong>31</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-wilson-t-00-45-20" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-wilson-t-00-32-54" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-andrew-wilson-t-00-51-27" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-wilson-t-00-00-37" style="--pulse-height:15%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 6 mentions" title="2026-09-03 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-wilson-t-00-45-20) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-wilson-t-00-32-54) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-andrew-wilson-t-00-51-27) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-wilson-t-00-00-37) | 6 |
 
 </details>
 </section>
@@ -71,7 +73,30 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (123)</strong></summary>
+<summary><strong class="section-title">Raw mentions (129)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (6 mentions)</summary>
+
+**[00:00:54](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-wilson-t-00-00-37)**
+> "Andrew Wilson released while I was in Iceland, the alleged message from Charlie (Charlie Kirk) night before his death, allegedly sent via Telegram, wherein Charlie (Charlie Kirk) says he's afraid the left is going to kill him. That message is exceedingly problematic, but not for the reasons that you think. Turning Point walked right into a most wonderful trap, and I'm going to explain to you guys why. Welcome back to Candace."
+
+**[00:22:19](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-wilson-t-00-21-55)**
+> "...amely Andrew Kolvet, greenlit Andrew Wilson coming out with an alleged Telegram message from ..."
+
+**[00:22:34](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-wilson-t-00-21-55)**
+> "...this is the same message that Andrew Wilson bizarrely read as his opening statement in our de..."
+
+**[00:30:54](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-wilson-t-00-30-54)**
+> "...age is edited or not, is that Andrew Wilson provided timestamps. The internet literally did n..."
+
+**[00:31:13](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-wilson-t-00-30-54)**
+> "Now, Andrew (Andrew Wilson), Andrew Wilson, if you had listened to me and ho..."
+
+**[00:50:33](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-wilson-t-00-50-33)**
+> "...-second clips of Frank Turek, Andrew Wilson, and Erika Kirk and realize life could be so much..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
@@ -558,12 +583,13 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:47:47](/episodes/ep-4JxgOclKzqg.md#t-00-47-47): “He can't just, he's had days and he still cannot comprehend this. So we are really hoping that Andrew Wilson will be able to understand it. We are done explaining it. It is now on him and coming upon Andrew Wilson to do his best to sit down and understand.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27): “I was hoping to have an opportunity to do that with Andrew Wilson. Obviously, he just is another fed slobber, got a call from Turning Point USA, changed all of his opinions and didn't know what was going on in the case at all.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:23:47](/episodes/ep-1FhY-koMuWM.md#t-00-23-47): “odd that Turning Point USA hands it to a third party who we know is happy to lie. He'll lie about what he said two seconds ago. He'll lie about what he knows. He'll lie. This was really, our debate was three hours of him trying to gaslight me about things that were said moments earlier, pretending that he knew the charges, all sorts of things. Why would they hand this to a chain-smoking liar”
 
 </details>
 
@@ -581,12 +607,13 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 00:06:33](/episodes/ep-aPOyk1i2LOc.md#t-00-06-23): “But we came here today to debate, and so let's get to it. The debate topic today is, one, my belief that there's overwhelming evidence that Tyler Robinson killed Charlie Kirk, and two, Candace's belief that there's overwhelming evidence that Tyler Robinson was a patsy and didn't kill Charlie Kirk.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:00:06](/episodes/ep-E7P2ShoYDUA.md#t-00-00-01): “My, oh, my. Honestly, you guys, if we're being honest, it was over the minute that Andrew Wilson began reading his quote unquote opening statement from his phone.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:41:31](/episodes/ep-4JxgOclKzqg.md#t-00-41-23): “And the best way to solve this is to just sit down and be honest. You know, I actually taught a great lesson yesterday or last week in my debate when we turned Andrew Wilson by the end of it into a conspiracy theorist who thought.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:00:39](/episodes/ep-_cNtgris8Ik.md#t-00-00-39): “Andrew Kolvet, by the way. is lying so badly he brought on andrew wilson who i debated last friday onto their beavis and butthead platform and he tries to smear me i'm talking about Andrew Kolvet not andrew wilson he tries to smear me as a hitler lover and the smear was so bad him and blake are like is what they do that andrew wilson actually interjects yes the person that i just debated was the one who interjects and is like OK, to be fair,”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:22:34](/episodes/ep-1FhY-koMuWM.md#t-00-21-55): “Now, this is the same message that Andrew Wilson bizarrely read as his opening statement in our debate.”
 
 </details>
 
@@ -724,12 +751,13 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:47:47](/episodes/ep-4JxgOclKzqg.md#t-00-47-47): “He can't just, he's had days and he still cannot comprehend this. So we are really hoping that Andrew Wilson will be able to understand it. We are done explaining it. It is now on him and coming upon Andrew Wilson to do his best to sit down and understand.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27): “I was hoping to have an opportunity to do that with Andrew Wilson. Obviously, he just is another fed slobber, got a call from Turning Point USA, changed all of his opinions and didn't know what was going on in the case at all.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:23:47](/episodes/ep-1FhY-koMuWM.md#t-00-23-47): “odd that Turning Point USA hands it to a third party who we know is happy to lie. He'll lie about what he said two seconds ago. He'll lie about what he knows. He'll lie. This was really, our debate was three hours of him trying to gaslight me about things that were said moments earlier, pretending that he knew the charges, all sorts of things. Why would they hand this to a chain-smoking liar”
 
 </details>
 
@@ -753,12 +781,13 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** debated this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Candace Owens vs Andrew Wilson: The Great Debate. @ 00:06:33](/episodes/ep-aPOyk1i2LOc.md#t-00-06-23): “But we came here today to debate, and so let's get to it. The debate topic today is, one, my belief that there's overwhelming evidence that Tyler Robinson killed Charlie Kirk, and two, Candace's belief that there's overwhelming evidence that Tyler Robinson was a patsy and didn't kill Charlie Kirk.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:00:06](/episodes/ep-E7P2ShoYDUA.md#t-00-00-01): “My, oh, my. Honestly, you guys, if we're being honest, it was over the minute that Andrew Wilson began reading his quote unquote opening statement from his phone.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:41:31](/episodes/ep-4JxgOclKzqg.md#t-00-41-23): “And the best way to solve this is to just sit down and be honest. You know, I actually taught a great lesson yesterday or last week in my debate when we turned Andrew Wilson by the end of it into a conspiracy theorist who thought.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:00:39](/episodes/ep-_cNtgris8Ik.md#t-00-00-39): “Andrew Kolvet, by the way. is lying so badly he brought on andrew wilson who i debated last friday onto their beavis and butthead platform and he tries to smear me i'm talking about Andrew Kolvet not andrew wilson he tries to smear me as a hitler lover and the smear was so bad him and blake are like is what they do that andrew wilson actually interjects yes the person that i just debated was the one who interjects and is like OK, to be fair,”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:22:34](/episodes/ep-1FhY-koMuWM.md#t-00-21-55): “Now, this is the same message that Andrew Wilson bizarrely read as his opening statement in our debate.”
 
 </details>
 
@@ -934,7 +963,18 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Wilson (33)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Wilson (35)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2)</summary>
+
+- [00:22:19](/episodes/ep-1FhY-koMuWM.md#t-00-21-55) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Andrew Kolvet authorized Andrew Wilson to read an alleged T..."](/statements/statement-5ba892679521.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Telegram](/entities/org-telegram.md)
+
+- [00:24:19](/episodes/ep-1FhY-koMuWM.md#t-00-23-47) (Accusation) **Candace Owens**: ["Owens said she believed the exchange read by Wilson was a recreation i..."](/statements/statement-009b29f5640c.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>

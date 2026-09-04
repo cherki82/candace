@@ -1,6 +1,6 @@
 ---
 title: "Hamas"
-description: "Hamas (Organizations) - 41 mentions"
+description: "Hamas (Organizations) - 42 mentions"
 id: "org-hamas"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-51-57">2025-09-16 · 00:51:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-hamas-t-00-37-00">2026-08-04 · 00:37:00</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-hamas-t-00-34-47">2026-09-03 · 00:34:59</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
@@ -49,6 +49,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-00-07-48" style="--pulse-height:60%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 6 mentions" title="2026-05-19 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-hamas-t-00-12-40" style="--pulse-height:10%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-hamas-t-00-37-00" style="--pulse-height:10%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-hamas-t-00-34-47" style="--pulse-height:10%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +73,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-00-07-48) | 6 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-hamas-t-00-12-40) | 1 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-hamas-t-00-37-00) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-hamas-t-00-34-47) | 1 |
 
 </details>
 </section>
@@ -79,7 +81,15 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:34:59](/episodes/ep-1FhY-koMuWM.md#ent-org-hamas-t-00-34-47)**
+> "and another person, an expert on Israel in the United States, and we were asking them, and Charlie (Charlie Kirk) was asking them, tell me your perspective on what's going on with Hamas now and the Israeli situation."
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>

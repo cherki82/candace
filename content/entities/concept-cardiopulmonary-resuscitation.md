@@ -1,6 +1,6 @@
 ---
 title: "Cardiopulmonary resuscitation"
-description: "Cardiopulmonary resuscitation (Concepts) - 52 mentions"
+description: "Cardiopulmonary resuscitation (Concepts) - 55 mentions"
 id: "concept-cardiopulmonary-resuscitation"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-cardiopulmonary-resuscitation-t-00-38-48">2026-06-17 · 00:38:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-concept-cardiopulmonary-resuscitation-t-00-02-28">2026-08-03 · 00:02:28</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-concept-cardiopulmonary-resuscitation-t-00-14-37">2026-09-03 · 00:14:48</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,7 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-concept-cardiopulmonary-resuscitation-t-00-15-57" style="--pulse-height:17%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 2 mentions" title="2026-07-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-concept-cardiopulmonary-resuscitation-t-00-15-12" style="--pulse-height:17%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 2 mentions" title="2026-07-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-concept-cardiopulmonary-resuscitation-t-00-02-28" style="--pulse-height:8%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-concept-cardiopulmonary-resuscitation-t-00-14-01" style="--pulse-height:25%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-concept-cardiopulmonary-resuscitation-t-00-15-57) | 2 |
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-concept-cardiopulmonary-resuscitation-t-00-15-12) | 2 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-concept-cardiopulmonary-resuscitation-t-00-02-28) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-concept-cardiopulmonary-resuscitation-t-00-14-01) | 3 |
 
 </details>
 </section>
@@ -69,7 +71,21 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3 mentions)</summary>
+
+**[00:14:21](/episodes/ep-1FhY-koMuWM.md#ent-concept-cardiopulmonary-resuscitation-t-00-14-01)**
+> "I think that feels mildly inappropriate, given the circumstances. And speaking of Frank Turek, there are a lot of things that he has said about that day that are questionable. I mean, definitely the CPR, the CPR story to me is the most senseless."
+
+**[00:14:37](/episodes/ep-1FhY-koMuWM.md#ent-concept-cardiopulmonary-resuscitation-t-00-14-37)**
+> "... and forgot that he conducted CPR on a dying person in the veh—"
+
+**[00:14:48](/episodes/ep-1FhY-koMuWM.md#ent-concept-cardiopulmonary-resuscitation-t-00-14-37)**
+> "... honest, when he said that no CPR was conducted in the car. I don't think he was di..."
+
+</details>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>

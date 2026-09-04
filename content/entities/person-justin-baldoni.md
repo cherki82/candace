@@ -1,6 +1,6 @@
 ---
 title: "Justin Baldoni"
-description: "Justin Baldoni (People) - 54 mentions"
+description: "Justin Baldoni (People) - 55 mentions"
 id: "person-justin-baldoni"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32">2025-10-28 · 00:45:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-baldoni-t-01-01-49">2026-09-02 · 01:01:49</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>54</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-justin-baldoni-t-00-42-42">2026-09-03 · 00:43:14</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
@@ -43,6 +43,7 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-justin-baldoni-t-00-13-01" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 12 mentions" title="2026-08-31 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-justin-baldoni-t-00-00-01" style="--pulse-height:42%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-baldoni-t-01-01-49" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-justin-baldoni-t-00-42-42" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-justin-baldoni-t-00-13-01) | 12 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-justin-baldoni-t-00-00-01) | 5 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-baldoni-t-01-01-49) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-baldoni-t-00-42-42) | 1 |
 
 </details>
 </section>
@@ -67,7 +69,15 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:43:14](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-baldoni-t-00-42-42)**
+> "So if you happen to randomly run into Justin Baldoni at an airport in Iceland, your Ghost Phone can still help you find the nearest place to buy him a kombucha."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>

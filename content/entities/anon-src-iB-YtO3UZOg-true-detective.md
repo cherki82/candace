@@ -1,6 +1,6 @@
 ---
 title: "True Detective (commenter; identity unverified)"
-description: "True Detective (commenter; identity unverified) (Anonymous Sources) - 5 mentions"
+description: "True Detective (commenter; identity unverified) (Anonymous Sources) - 6 mentions"
 id: "anon-src-iB-YtO3UZOg-true-detective"
 type: "ANONYMOUS_SOURCE"
 aliases:
@@ -25,9 +25,9 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-47-10">2026-07-31 · 00:47:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-46-00">2026-08-31 · 00:46:22</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-50-33">2026-09-03 · 00:50:33</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -43,6 +43,7 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-54-35" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-01-18-35" style="--pulse-height:100%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-46-00" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-50-33" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-54-35) | 1 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-01-18-35) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-46-00) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-50-33) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Exa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:50:33](/episodes/ep-1FhY-koMuWM.md#ent-anon-src-iB-YtO3UZOg-true-detective-t-00-50-33)**
+> "Nope, said it again. Sorry, pregnancy brain. True Detective (commenter handle; identity unverified) writes, "Whenever I felt down on myself, I would watch reruns of To Catch a Predator. Now when I need encouragement, I just watch 10-second clips of Frank Turek, Andrew Wilson, and Erika Kirk and realize life could be so much worse. I could have gone the way of Judas (Judas Iscariot). Also, FaceTime, Pickle Jar, and Glitter Pants are the worst nicknames to have in prison." That's very funny. I mean, Andrew Wilson is just like, we're, like I said, bottom of the barrel. Now you..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 2064 mentions"
+description: "Turning Point USA (Organizations) - 2084 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -27,12 +27,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-turning-point-usa-t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-01-04-51">2026-09-02 · 01:04:51</a></strong></div>
-<div><span>Episodes</span><strong>158</strong></div>
-<div><span>Mentions</span><strong>2,064</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-55-37">2026-09-03 · 00:55:48</a></strong></div>
+<div><span>Episodes</span><strong>159</strong></div>
+<div><span>Mentions</span><strong>2,084</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>798</strong></div>
-<div><span>Relationships</span><strong>226</strong></div>
+<div><span>Statements about</span><strong>807</strong></div>
+<div><span>Relationships</span><strong>228</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -198,6 +198,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-04-54" style="--pulse-height:16%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 9 mentions" title="2026-08-31 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-turning-point-usa-t-00-02-28" style="--pulse-height:16%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 9 mentions" title="2026-09-01 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-00-11-11" style="--pulse-height:11%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 6 mentions" title="2026-09-02 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-00-37" style="--pulse-height:36%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 20 mentions" title="2026-09-03 · 20 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -361,6 +362,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-turning-point-usa-t-00-04-54) | 9 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-turning-point-usa-t-00-02-28) | 9 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-00-11-11) | 6 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-00-37) | 20 |
 
 </details>
 </section>
@@ -372,7 +374,72 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2064)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2084)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (20 mentions)</summary>
+
+**[00:00:54](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-00-37)**
+> "Andrew Wilson released while I was in Iceland, the alleged message from Charlie (Charlie Kirk) night before his death, allegedly sent via Telegram, wherein Charlie (Charlie Kirk) says he's afraid the left is going to kill him. That message is exceedingly problematic, but not for the reasons that you think. Turning Point walked right into a most wonderful trap, and I'm going to explain to you guys why. Welcome back to Candace."
+
+**[00:00:21](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-00-01)**
+> "...ining security members on the TPUSA team."
+
+**[00:05:19](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-04-45)**
+> "...e, reach out to my sources at Turning Point USA to learn more about him."
+
+**[00:05:33](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-05-25)**
+> "... He didn't speak to anyone at Turning Point USA's facilities. He was on Charlie (Charlie Kirk), and..."
+
+**[00:15:12](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-15-12)**
+> "... it happened to be a longtime Turning Point USA employee, Chrissy Pacheco, who picks up that back..."
+
+**[00:15:24](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-15-12)**
+> "...ber of the logistics team for Turning Point USA that helped to set up everything."
+
+**[00:15:55](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-15-55)**
+> "...s not a rando, someone on the Turning Point USA team."
+
+**[00:18:14](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-18-03)**
+> "... talk about this message that Turning Point USA released. And it's really strange because if Char..."
+
+**[00:22:19](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-21-55)**
+> "...y, so while I was in Iceland, Turning Point USA, namely Andrew Kolvet, greenlit Andrew Wilson com..."
+
+**[00:23:00](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-22-39)**
+> "... this immediately? Why didn't Turning Point USA give this to New York Post, give this to the Dail..."
+
+**[00:23:47](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-23-47)**
+> "odd that Turning Point USA hands it to a third party who we know is happy to..."
+
+**[00:27:01](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-27-01)**
+> "... as well as somebody close to Turning Point USA, I specifically asked Andrew Kolvet who Charlie (..."
+
+**[00:29:58](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-29-40)**
+> "That was the original TPUSA sin, so to speak, that I said, that's really weir..."
+
+**[00:32:15](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-32-15)**
+> "...n the Will Cain show from his Turning Point USA office studio."
+
+**[00:41:31](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-41-15)**
+> "So Turning Point USA would like to come out and clarify that those mes..."
+
+**[00:47:55](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-47-31)**
+> "...o fears night before. But now Turning Point USA is disputing that."
+
+**[00:51:39](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-51-39)**
+> "...ehind Charlie (Charlie Kirk), TPUSA text."
+
+**[00:53:41](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-53-41)**
+> "The documents show TPUSA rejecting EMS asking for three parking spots as c..."
+
+**[00:53:55](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-53-41)**
+> "...ce was solid on the fact that Turning Point USA insisted on being outdoor despite them advising t..."
+
+**[00:55:48](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-55-37)**
+> "...he message to other people at Turning Point USA saying that he wanted me back for AmFest, and he ..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (6 mentions)</summary>
@@ -7541,7 +7608,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (49)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (50)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:17](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): “they obviously were always panicked and then they issue a dumb statement.”
@@ -7592,6 +7659,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:08:14](/episodes/ep-pc3pxRyNFZk.md#t-00-08-07): “it certainly looked like Turning Point employees or staff or students thugged him so that he wouldn't say what he thought happened.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35): “in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:43:26](/episodes/ep-ZkDO-MRLUco.md#t-00-43-26): “Or played some role that day which I've always thought that he was around campus on that day but it would to me I think it would be ultimately a good thing for us to be able to sort of look this beast in the face this beast of government in the face and to see how it operates and to continue to watch Turning Point USA growing more desperate in their smears and in their lies I did see, recently, again, they rely on public ignorance as most people don't go through trials. ... Most people are not being sued every single day. And so they are relying on public ignorance of not knowing how trials function for them to be able to spin and to lie and to present things as if they're big wins. For example, I saw Blake (Blake Neff) pushing today.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:23:00](/episodes/ep-1FhY-koMuWM.md#t-00-22-39): “very intentional is that Turning Point will not acknowledge its authenticity and that Turning Point did not choose to instead, since their whole narrative that they have been trying to push is that a leftist did this, why didn't they release this immediately? Why didn't Turning Point USA give this to New York Post, give this to the Daily Mail, say, aha, here it is, evidence that he was terrified of the left? No. To the contrary, they did the exact opposite.”
 
 </details>
 
@@ -7625,7 +7693,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Employs (30)</summary>
+<summary>Employs (31)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
@@ -7893,6 +7961,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:42:25](/episodes/ep-ZkDO-MRLUco.md#t-00-42-25): “The people that were working for them, even Graham Allen, I told you that he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them. It, to me, signals some sort of a preparation. There would be no reason for the Department of War not to be on our side and wanting to get to the bottom, especially at the helm of the Trump (Donald J. Trump) administration, wanting to get to the bottom of who killed their friend, Charlie Kirk.”
+
+</details>
+
+- **[Chrissy Pacheco](/entities/person-chrissy-pacheco.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:15:12](/episodes/ep-1FhY-koMuWM.md#t-00-15-12): “It is, again, more remarkable luck. It looks like choreography almost. They're so lucky that it happened to be a longtime Turning Point USA employee, Chrissy Pacheco, who picks up that backpack.”
 
 </details>
 
@@ -8565,7 +8640,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Referenced By (116)</summary>
+<summary>Referenced By (117)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (37)</summary>
@@ -8815,7 +8890,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (50)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (51)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): “The majority of people think Turning Point is acting suspicious”
@@ -8867,6 +8942,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:08:14](/episodes/ep-pc3pxRyNFZk.md#t-00-08-07): “it certainly looked like Turning Point employees or staff or students thugged him so that he wouldn't say what he thought happened.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35): “in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:43:26](/episodes/ep-ZkDO-MRLUco.md#t-00-43-26): “Or played some role that day which I've always thought that he was around campus on that day but it would to me I think it would be ultimately a good thing for us to be able to sort of look this beast in the face this beast of government in the face and to see how it operates and to continue to watch Turning Point USA growing more desperate in their smears and in their lies I did see, recently, again, they rely on public ignorance as most people don't go through trials. ... Most people are not being sued every single day. And so they are relying on public ignorance of not knowing how trials function for them to be able to spin and to lie and to present things as if they're big wins. For example, I saw Blake (Blake Neff) pushing today.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:23:00](/episodes/ep-1FhY-koMuWM.md#t-00-22-39): “very intentional is that Turning Point will not acknowledge its authenticity and that Turning Point did not choose to instead, since their whole narrative that they have been trying to push is that a leftist did this, why didn't they release this immediately? Why didn't Turning Point USA give this to New York Post, give this to the Daily Mail, say, aha, here it is, evidence that he was terrified of the left? No. To the contrary, they did the exact opposite.”
 
 </details>
 
@@ -9669,6 +9745,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
+- **[Chrissy Pacheco](/entities/person-chrissy-pacheco.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:15:12](/episodes/ep-1FhY-koMuWM.md#t-00-15-12): “It is, again, more remarkable luck. It looks like choreography almost. They're so lucky that it happened to be a longtime Turning Point USA employee, Chrissy Pacheco, who picks up that backpack.”
+
+</details>
+
 </details>
 
 </details>
@@ -9779,7 +9862,38 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (798)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (807)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (9)</summary>
+
+- [00:05:19](/episodes/ep-1FhY-koMuWM.md#t-00-04-45) (Claim) **Candace Owens** (via paraphrase): ["Owens said unnamed people connected with Turning Point USA told her Ch..."](/statements/statement-64b8fe31884a.md)
+  - Also about: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [TPUSA sources on Christopher (identities unverified; episode 1FhY-koMuWM)](/entities/anon-src-1FhY-koMuWM-001.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:15:12](/episodes/ep-1FhY-koMuWM.md#t-00-15-12) (Claim) **Candace Owens**: ["Owens identified the woman who retrieved the backpack after the shooti..."](/statements/statement-99e81d30acb2.md)
+  - Also about: [Chrissy Pacheco](/entities/person-chrissy-pacheco.md)
+
+- [00:22:19](/episodes/ep-1FhY-koMuWM.md#t-00-21-55) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Andrew Kolvet authorized Andrew Wilson to read an alleged T..."](/statements/statement-5ba892679521.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Andrew Wilson](/entities/person-andrew-wilson.md), [Telegram](/entities/org-telegram.md)
+
+- [00:24:19](/episodes/ep-1FhY-koMuWM.md#t-00-23-47) (Accusation) **Candace Owens**: ["Owens said she believed the exchange read by Wilson was a recreation i..."](/statements/statement-009b29f5640c.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:29:00](/episodes/ep-1FhY-koMuWM.md#t-00-29-00) (Claim) **Erika Kirk** (via quoted speech): ["In an embedded interview with Glenn Beck, Erika Kirk said threats agai..."](/statements/statement-933d177d44a5.md)
+
+- [00:37:41](/episodes/ep-1FhY-koMuWM.md#t-00-37-21) (Claim) **Candace Owens** (via paraphrase): ["Owens said donors withdrew millions of dollars from Turning Point USA ..."](/statements/statement-62822d9ff6bc.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:53:34](/episodes/ep-1FhY-koMuWM.md#t-00-52-56) (Claim) **Talks with Tiff (commenter; identity unverified)** (via read message): ["A commenter using Talks with Tiff said planning documents showed Turni..."](/statements/statement-2330d1d19981.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:53:55](/episodes/ep-1FhY-koMuWM.md#t-00-53-41) (Claim) **Candace Owens** (via paraphrase): ["Owens said an unnamed source involved in planning told her Turning Poi..."](/statements/statement-5e4a2e52e3c9.md)
+  - Also about: [UVU event-planning source (identity unverified; episode 1FhY-koMuWM)](/entities/anon-src-1FhY-koMuWM-003.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:55:48](/episodes/ep-1FhY-koMuWM.md#t-00-55-37) (Claim) **Candace Owens** (via paraphrase): ["Owens said additional messages from September 9 directed Turning Point..."](/statements/statement-f5ce91c08942.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [AmericaFest 2025](/entities/event-americafest-2025.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (4)</summary>

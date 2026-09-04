@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 393 mentions"
+description: "Michael McCoy (People) - 402 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-18">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-54-57">2026-09-02 · 00:55:16</a></strong></div>
-<div><span>Episodes</span><strong>77</strong></div>
-<div><span>Mentions</span><strong>393</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-52-14">2026-09-03 · 00:52:42</a></strong></div>
+<div><span>Episodes</span><strong>78</strong></div>
+<div><span>Mentions</span><strong>402</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>107</strong></div>
+<div><span>Statements about</span><strong>109</strong></div>
 <div><span>Relationships</span><strong>53</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -114,6 +114,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-michael-mccoy-t-00-05-38" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-20-31" style="--pulse-height:33%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 11 mentions" title="2026-09-01 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-13-39" style="--pulse-height:73%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 24 mentions" title="2026-09-02 · 24 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-03-44" style="--pulse-height:27%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 9 mentions" title="2026-09-03 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -196,6 +197,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-michael-mccoy-t-00-05-38) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-20-31) | 11 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-13-39) | 24 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-03-44) | 9 |
 
 </details>
 </section>
@@ -207,7 +209,39 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (393)</strong></summary>
+<summary><strong class="section-title">Raw mentions (402)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (9 mentions)</summary>
+
+**[00:03:53](/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-03-44)**
+> "Anyway, we still do not, however, have a positive ID on a rather crucial character, Christopher (security driver; surname unverified), the security member that was on Charlie (Charlie Kirk) and who drove him to the event at UVU with Mikey McCoy (Michael McCoy) and Nate Walker and Frank Turek in the backseat. Now, I want to show you guys some clearer images of Christopher (security driver; surname unverified) because I realized yesterday we only showed you one blurry one and I intended to show you."
+
+**[00:10:39](/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-10-39)**
+> "...vis), a little huddle, Mikey (Michael McCoy), and then he gets in there."
+
+**[00:11:10](/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-10-39)**
+> "There's Mikey (Michael McCoy) not on the phone, just covering his ear. And now..."
+
+**[00:12:36](/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-12-36)**
+> "...hought that maybe it's Mikey (Michael McCoy) who handed those keys to Justin Davis because Mi..."
+
+**[00:13:02](/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-12-36)**
+> "...and then goes off with Mikey (Michael McCoy) to the left."
+
+**[00:52:14](/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-52-14)**
+> "... about one thing, that Mikey (Michael McCoy) is bubbly."
+
+**[00:52:25](/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-52-14)**
+> "...Neff), but he did like Mikey (Michael McCoy)."
+
+**[00:52:33](/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-52-14)**
+> "...ad a relationship with Mikey (Michael McCoy) and I think that Mikey (Michael McCoy) was the m..."
+
+**[00:52:42](/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-52-14)**
+> "...se adjectives. I think Mikey (Michael McCoy) knows more than he has communicated. And look, I..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (24 mentions)</summary>
@@ -2351,7 +2385,17 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (107)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (109)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2)</summary>
+
+- [00:11:45](/episodes/ep-1FhY-koMuWM.md#t-00-11-22) (Opinion) **Candace Owens**: ["Owens said the movements around Kirk’s vehicle looked strangely choreo..."](/statements/statement-20adab108b62.md)
+  - Also about: [Justin Davis](/entities/person-justin-davis.md)
+
+- [00:52:33](/episodes/ep-1FhY-koMuWM.md#t-00-52-14) (Opinion) **Candace Owens**: ["Owens said she believed Michael McCoy knew more than he had publicly c..."](/statements/statement-92b0c0999bff.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (9)</summary>

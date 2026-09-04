@@ -1,6 +1,6 @@
 ---
 title: "Pro-Israel advocacy"
-description: "Pro-Israel advocacy (Concepts) - 108 mentions"
+description: "Pro-Israel advocacy (Concepts) - 116 mentions"
 id: "concept-pro-israel-advocacy"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-concept-pro-israel-advocacy-t-00-51-13">2025-09-16 · 00:51:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-concept-pro-israel-advocacy-t-00-07-33">2026-09-01 · 00:07:51</a></strong></div>
-<div><span>Episodes</span><strong>48</strong></div>
-<div><span>Mentions</span><strong>108</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-55-37">2026-09-03 · 00:55:48</a></strong></div>
+<div><span>Episodes</span><strong>49</strong></div>
+<div><span>Mentions</span><strong>116</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>37</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -33,56 +33,57 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-15-41">The World Is A Stage: Trump Survives...Again? | Ep 343</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-32-15">Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-concept-pro-israel-advocacy-t-00-51-13" style="--pulse-height:29%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-pro-israel-advocacy-t-00-43-29" style="--pulse-height:14%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#ent-concept-pro-israel-advocacy-t-00-50-57" style="--pulse-height:29%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-concept-pro-israel-advocacy-t-00-07-21" style="--pulse-height:14%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-concept-pro-israel-advocacy-t-00-09-04" style="--pulse-height:29%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-concept-pro-israel-advocacy-t-00-30-14" style="--pulse-height:57%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 4 mentions" title="2025-10-08 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-concept-pro-israel-advocacy-t-00-45-45" style="--pulse-height:57%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-pro-israel-advocacy-t-00-12-11" style="--pulse-height:29%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-pro-israel-advocacy-t-00-11-50" style="--pulse-height:57%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 4 mentions" title="2025-10-29 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-pro-israel-advocacy-t-00-39-12" style="--pulse-height:43%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27" style="--pulse-height:86%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 6 mentions" title="2025-10-31 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-concept-pro-israel-advocacy-t-00-06-26" style="--pulse-height:43%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-pro-israel-advocacy-t-00-03-13" style="--pulse-height:14%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-concept-pro-israel-advocacy-t-00-46-45" style="--pulse-height:14%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-concept-pro-israel-advocacy-t-00-47-15" style="--pulse-height:14%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-concept-pro-israel-advocacy-t-00-08-38" style="--pulse-height:14%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-20" style="--pulse-height:14%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-pro-israel-advocacy-t-00-38-55" style="--pulse-height:29%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36" style="--pulse-height:29%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-pro-israel-advocacy-t-00-06-26" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-pro-israel-advocacy-t-00-39-33" style="--pulse-height:43%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-pro-israel-advocacy-t-00-04-56" style="--pulse-height:29%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-pro-israel-advocacy-t-00-19-32" style="--pulse-height:14%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-pro-israel-advocacy-t-00-44-06" style="--pulse-height:14%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-concept-pro-israel-advocacy-t-00-04-23" style="--pulse-height:14%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-concept-pro-israel-advocacy-t-00-03-17" style="--pulse-height:14%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25" style="--pulse-height:43%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-pro-israel-advocacy-t-00-36-07" style="--pulse-height:43%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 3 mentions" title="2026-05-04 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-eMtjzXkQrsU.md#ent-concept-pro-israel-advocacy-t-00-14-21" style="--pulse-height:57%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 4 mentions" title="2026-05-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-pro-israel-advocacy-t-01-14-45" style="--pulse-height:29%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-15-41" style="--pulse-height:100%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 7 mentions" title="2026-05-26 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-pro-israel-advocacy-t-00-31-11" style="--pulse-height:29%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-concept-pro-israel-advocacy-t-00-12-06" style="--pulse-height:29%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-WoXd4oLwd3w.md#ent-concept-pro-israel-advocacy-t-00-17-07" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 7 mentions" title="2026-06-13 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-5NQyGuRYbU8.md#ent-concept-pro-israel-advocacy-t-00-41-38" style="--pulse-height:29%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-pro-israel-advocacy-t-00-31-24" style="--pulse-height:14%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-pro-israel-advocacy-t-00-42-32" style="--pulse-height:29%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-pro-israel-advocacy-t-00-42-01" style="--pulse-height:14%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-pro-israel-advocacy-t-00-36-04" style="--pulse-height:14%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-concept-pro-israel-advocacy-t-00-41-05" style="--pulse-height:29%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-pro-israel-advocacy-t-00-25-58" style="--pulse-height:29%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-amqTMimDr0A.md#ent-concept-pro-israel-advocacy-t-00-12-40" style="--pulse-height:71%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 5 mentions" title="2026-07-23 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-HZvwbfePe7o.md#ent-concept-pro-israel-advocacy-t-00-42-23" style="--pulse-height:14%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5zgkrOaCCj4.md#ent-concept-pro-israel-advocacy-t-00-29-53" style="--pulse-height:14%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-pro-israel-advocacy-t-00-03-34" style="--pulse-height:29%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-pro-israel-advocacy-t-00-51-04" style="--pulse-height:14%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZkDO-MRLUco.md#ent-concept-pro-israel-advocacy-t-00-03-42" style="--pulse-height:43%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-concept-pro-israel-advocacy-t-00-51-13" style="--pulse-height:25%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-pro-israel-advocacy-t-00-43-29" style="--pulse-height:12%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-concept-pro-israel-advocacy-t-00-50-57" style="--pulse-height:25%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-concept-pro-israel-advocacy-t-00-07-21" style="--pulse-height:12%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-concept-pro-israel-advocacy-t-00-09-04" style="--pulse-height:25%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-concept-pro-israel-advocacy-t-00-30-14" style="--pulse-height:50%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 4 mentions" title="2025-10-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-concept-pro-israel-advocacy-t-00-45-45" style="--pulse-height:50%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-pro-israel-advocacy-t-00-12-11" style="--pulse-height:25%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-pro-israel-advocacy-t-00-11-50" style="--pulse-height:50%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 4 mentions" title="2025-10-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-pro-israel-advocacy-t-00-39-12" style="--pulse-height:38%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27" style="--pulse-height:75%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 6 mentions" title="2025-10-31 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-concept-pro-israel-advocacy-t-00-06-26" style="--pulse-height:38%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-pro-israel-advocacy-t-00-03-13" style="--pulse-height:12%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-concept-pro-israel-advocacy-t-00-46-45" style="--pulse-height:12%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-concept-pro-israel-advocacy-t-00-47-15" style="--pulse-height:12%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-concept-pro-israel-advocacy-t-00-08-38" style="--pulse-height:12%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-20" style="--pulse-height:12%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-pro-israel-advocacy-t-00-38-55" style="--pulse-height:25%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-pro-israel-advocacy-t-00-06-26" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-pro-israel-advocacy-t-00-39-33" style="--pulse-height:38%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-pro-israel-advocacy-t-00-04-56" style="--pulse-height:25%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-pro-israel-advocacy-t-00-19-32" style="--pulse-height:12%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-pro-israel-advocacy-t-00-44-06" style="--pulse-height:12%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-concept-pro-israel-advocacy-t-00-04-23" style="--pulse-height:12%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-concept-pro-israel-advocacy-t-00-03-17" style="--pulse-height:12%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25" style="--pulse-height:38%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-pro-israel-advocacy-t-00-36-07" style="--pulse-height:38%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 3 mentions" title="2026-05-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-concept-pro-israel-advocacy-t-00-14-21" style="--pulse-height:50%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 4 mentions" title="2026-05-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-pro-israel-advocacy-t-01-14-45" style="--pulse-height:25%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-15-41" style="--pulse-height:88%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 7 mentions" title="2026-05-26 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-pro-israel-advocacy-t-00-31-11" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-concept-pro-israel-advocacy-t-00-12-06" style="--pulse-height:25%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-concept-pro-israel-advocacy-t-00-17-07" style="--pulse-height:88%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 7 mentions" title="2026-06-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-concept-pro-israel-advocacy-t-00-41-38" style="--pulse-height:25%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-pro-israel-advocacy-t-00-31-24" style="--pulse-height:12%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-pro-israel-advocacy-t-00-42-32" style="--pulse-height:25%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-pro-israel-advocacy-t-00-42-01" style="--pulse-height:12%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-pro-israel-advocacy-t-00-36-04" style="--pulse-height:12%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-concept-pro-israel-advocacy-t-00-41-05" style="--pulse-height:25%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-pro-israel-advocacy-t-00-25-58" style="--pulse-height:25%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-concept-pro-israel-advocacy-t-00-12-40" style="--pulse-height:62%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 5 mentions" title="2026-07-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-concept-pro-israel-advocacy-t-00-42-23" style="--pulse-height:12%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-concept-pro-israel-advocacy-t-00-29-53" style="--pulse-height:12%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12" style="--pulse-height:12%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-pro-israel-advocacy-t-00-03-34" style="--pulse-height:25%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-pro-israel-advocacy-t-00-51-04" style="--pulse-height:12%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-concept-pro-israel-advocacy-t-00-03-42" style="--pulse-height:38%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-32-15" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 8 mentions" title="2026-09-03 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -136,6 +137,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-concept-pro-israel-advocacy-t-00-03-34) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-concept-pro-israel-advocacy-t-00-51-04) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-concept-pro-israel-advocacy-t-00-03-42) | 3 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-32-15) | 8 |
 
 </details>
 </section>
@@ -147,7 +149,36 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+<summary><strong class="section-title">Raw mentions (116)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (8 mentions)</summary>
+
+**[00:32:22](/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-32-15)**
+> "He then jumps right on to a 40-minute interview on Mark Halperin's show. At 3 o'clock p.m., Erika (Erika Kirk) told me that she was getting her nails done and that in this hour is when Charlie (Charlie Kirk) had that back and forth and fight on the phone and said that he was leaving the pro-Israel cause."
+
+**[00:33:38](/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-33-38)**
+> "...aid that you were leaving the pro-Israel cause, and Rabbi Wolicki (Pesach Wolicki) confirm..."
+
+**[00:35:59](/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-35-59)**
+> "...id that he was abandoning the pro-Israel cause, that he wanted to bring Candace (Candace O..."
+
+**[00:37:21](/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-37-21)**
+> "He was done with the pro-Israel cause. This is not something Erika (Erika Kirk) d..."
+
+**[00:37:47](/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-37-21)**
+> "...and that he is abandoning the pro-Israel cause."
+
+**[00:39:10](/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-38-42)**
+> "...harlie Kirk) is done with the pro-Israel cause. He is pushing back on them. He's always go..."
+
+**[00:40:57](/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-40-31)**
+> "... the text message leaving the pro-Israel cause, which they denied until I dropped it, okay..."
+
+**[00:55:48](/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-55-37)**
+> "...him saying he was leaving the pro-Israel cause, that was not the only message that Charlie..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3 mentions)</summary>

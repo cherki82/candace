@@ -27,7 +27,7 @@ Source: [About - Pastor James Kaddis](https://jameskaddis.com/about/)
 <div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -232,21 +232,7 @@ Source: [About - Pastor James Kaddis](https://jameskaddis.com/about/)
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
-
-- **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** affiliated with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:54](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “And notably, you may not have recognized who this was. This is Pastor James Kaddis. He's the senior pastor of Calvary Chapel in Signal Hill, California. ... He is also one of Erika Kirk's many problematic TPUSA faith pastors. He also hosts a show with her with that like fledgling fashion brand that she has, Bible in 365.”
-
-</details>
-
-- **[BIBLEin365](/entities/org-biblein365.md)** affiliated with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:54](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “And notably, you may not have recognized who this was. This is Pastor James Kaddis. He's the senior pastor of Calvary Chapel in Signal Hill, California. ... He is also one of Erika Kirk's many problematic TPUSA faith pastors. He also hosts a show with her with that like fledgling fashion brand that she has, Bible in 365.”
-
-</details>
+<summary>Referenced By (6)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -287,13 +273,6 @@ Source: [About - Pastor James Kaddis](https://jameskaddis.com/about/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:54](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “And notably, you may not have recognized who this was. This is Pastor James Kaddis. He's the senior pastor of Calvary Chapel in Signal Hill, California.”
-
-</details>
-
-- **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:54](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “And notably, you may not have recognized who this was. This is Pastor James Kaddis. He's the senior pastor of Calvary Chapel in Signal Hill, California. ... He is also one of Erika Kirk's many problematic TPUSA faith pastors. He also hosts a show with her with that like fledgling fashion brand that she has, Bible in 365.”
 
 </details>
 

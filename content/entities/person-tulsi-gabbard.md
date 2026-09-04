@@ -1,6 +1,6 @@
 ---
 title: "Tulsi Gabbard"
-description: "Tulsi Gabbard (People) - 25 mentions"
+description: "Tulsi Gabbard (People) - 26 mentions"
 id: "person-tulsi-gabbard"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-20-35">2025-10-29 · 00:20:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-tulsi-gabbard-t-00-29-40">2026-08-17 · 00:29:40</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-tulsi-gabbard-t-00-35-59">2026-09-03 · 00:36:22</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -46,6 +46,7 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tulsi-gabbard-t-02-21-45" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 7 mentions" title="2026-08-14 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-tulsi-gabbard-t-01-40-43" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 7 mentions" title="2026-08-14 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-tulsi-gabbard-t-00-29-40" style="--pulse-height:14%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-tulsi-gabbard-t-00-35-59" style="--pulse-height:14%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tulsi-gabbard-t-02-21-45) | 7 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-tulsi-gabbard-t-01-40-43) | 7 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-tulsi-gabbard-t-00-29-40) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-tulsi-gabbard-t-00-35-59) | 1 |
 
 </details>
 </section>
@@ -73,7 +75,15 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:36:22](/episodes/ep-1FhY-koMuWM.md#ent-person-tulsi-gabbard-t-00-35-59)**
+> "When asked about threats and things, and he thought that this message was relevant enough to send. To Tulsi Gabbard's office to investigate further."
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
@@ -215,7 +225,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tulsi Gabbard (4)</strong></summary>
+<summary><strong class="section-title">Statements about Tulsi Gabbard (5)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>
+
+- [00:35:59](/episodes/ep-1FhY-koMuWM.md#t-00-35-59) (Claim) **Candace Owens** (via paraphrase): ["Owens said Andrew Kolvet forwarded Kirk’s message about leaving the pr..."](/statements/statement-261594754578.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Joe Kent](/entities/person-joe-kent.md)
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>

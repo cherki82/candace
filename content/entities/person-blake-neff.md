@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 400 mentions"
+description: "Blake Neff (People) - 408 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-56-16">2026-09-02 · 00:56:16</a></strong></div>
-<div><span>Episodes</span><strong>75</strong></div>
-<div><span>Mentions</span><strong>400</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-54-21">2026-09-03 · 00:54:40</a></strong></div>
+<div><span>Episodes</span><strong>76</strong></div>
+<div><span>Mentions</span><strong>408</strong></div>
 <div><span>Statements by</span><strong>55</strong></div>
-<div><span>Statements about</span><strong>70</strong></div>
+<div><span>Statements about</span><strong>71</strong></div>
 <div><span>Relationships</span><strong>47</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -112,6 +112,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-32-58" style="--pulse-height:25%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 5 mentions" title="2026-08-31 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-neff-t-00-43-55" style="--pulse-height:20%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-14-18" style="--pulse-height:100%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 20 mentions" title="2026-09-02 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-33-00" style="--pulse-height:40%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 8 mentions" title="2026-09-03 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -192,6 +193,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-blake-neff-t-00-32-58) | 5 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-neff-t-00-43-55) | 4 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-14-18) | 20 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-33-00) | 8 |
 
 </details>
 </section>
@@ -203,7 +205,36 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (400)</strong></summary>
+<summary><strong class="section-title">Raw mentions (408)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (8 mentions)</summary>
+
+**[00:33:00](/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-33-00)**
+> "We have two Israeli officials that are on the Zoom call, as well as Blake Neff and Andrew Kolvet. If Rabbi Wolicki (Pesach Wolicki) is to be believed, he says that actually, we'll show you that in a second, that his producers were on the phone call."
+
+**[00:38:44](/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-38-42)**
+> "...person on that call. He needs Blake Neff and Frank Turek. Look at these guys."
+
+**[00:38:52](/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-38-42)**
+> "He needs Blake Neff and Frank Turek and Andrew Kolvet helping him to ..."
+
+**[00:51:02](/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-51-02)**
+> "... lying repeatedly, especially Blake Neff. There's nobody that gets community noted faster ..."
+
+**[00:51:24](/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-51-02)**
+> "in Blake (Blake Neff)'s and Andrew (Andrew Kolvet)'s lies now. It's a ..."
+
+**[00:52:14](/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-52-14)**
+> "...y unverified) writes, Blakey (Blake Neff) has been entirely truthful about one thing, that..."
+
+**[00:52:25](/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-52-14)**
+> "...'t know anything that Blakey (Blake Neff) has been truthful about, but you know, Charlie (..."
+
+**[00:54:40](/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-54-21)**
+> "...erified) writes, I’m thinking Blake Neff, Andrew K. (Andrew Kolvet), and those others are ..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (20 mentions)</summary>
@@ -1885,7 +1916,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -1918,6 +1949,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:44:09](/episodes/ep-JrhGEm8MGRY.md#t-00-44-09): “And Blake Neff is the least believable person in the world. So glad to know that you guys think that having the State Department and the Department of War behind you is going to win the game, along with billionaires like Bill Ackman who are willing to promote your nonsense. But we see right through all of it. Top comments from the last episode before we went off air: Big Hair Do Care wrote, 'The way she drops these bombs and then goes on vacation.'”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:49](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson). ... That's that's really what happened. You don't know him at all. The fact that you said I saw the donors, his friends, you just you had no idea what sort of a human being Charlie (Charlie Kirk) was. ... And you just had you are so short sighted to think that you could continue his legacy. You just don't have it.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:33:00](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49): “And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:02](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “And like I said, it reflects where they are at. They are not behaving honestly. They are lying repeatedly, especially Blake Neff. There's nobody that gets community noted faster for trying to lie to the public about various aspects of this case, lying about who Charlie (Charlie Kirk) was friendships and like who is who is friends with. And like I said, you sense a desperation.”
 
 </details>
 
@@ -2101,7 +2133,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -2134,6 +2166,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:44:09](/episodes/ep-JrhGEm8MGRY.md#t-00-44-09): “And Blake Neff is the least believable person in the world. So glad to know that you guys think that having the State Department and the Department of War behind you is going to win the game, along with billionaires like Bill Ackman who are willing to promote your nonsense. But we see right through all of it. Top comments from the last episode before we went off air: Big Hair Do Care wrote, 'The way she drops these bombs and then goes on vacation.'”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:49](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson). ... That's that's really what happened. You don't know him at all. The fact that you said I saw the donors, his friends, you just you had no idea what sort of a human being Charlie (Charlie Kirk) was. ... And you just had you are so short sighted to think that you could continue his legacy. You just don't have it.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:33:00](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49): “And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:02](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “And like I said, it reflects where they are at. They are not behaving honestly. They are lying repeatedly, especially Blake Neff. There's nobody that gets community noted faster for trying to lie to the public about various aspects of this case, lying about who Charlie (Charlie Kirk) was friendships and like who is who is friends with. And like I said, you sense a desperation.”
 
 </details>
 
@@ -2571,7 +2604,15 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (70)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (71)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>
+
+- [00:51:02](/episodes/ep-1FhY-koMuWM.md#t-00-51-02) (Accusation) **Candace Owens**: ["Owens accused Blake Neff of repeatedly denying her friendship with Cha..."](/statements/statement-e1cfd4ecb94c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (5)</summary>

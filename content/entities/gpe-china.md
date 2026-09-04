@@ -1,6 +1,6 @@
 ---
 title: "China"
-description: "China (Places) - 55 mentions"
+description: "China (Places) - 58 mentions"
 id: "gpe-china"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-38">2025-10-01 · 00:30:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-china-t-00-44-43">2026-07-21 · 00:45:04</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-china-t-00-49-30">2026-09-03 · 00:49:57</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>58</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -48,6 +48,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-china-t-00-19-21" style="--pulse-height:45%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-china-t-00-43-45" style="--pulse-height:9%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-china-t-00-44-43" style="--pulse-height:9%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-china-t-00-49-30" style="--pulse-height:18%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +71,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-china-t-00-19-21) | 5 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-china-t-00-43-45) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-china-t-00-44-43) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-china-t-00-49-30) | 2 |
 
 </details>
 </section>
@@ -81,7 +83,18 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>
+
+**[00:49:48](/episodes/ep-1FhY-koMuWM.md#ent-gpe-china-t-00-49-30)**
+> "in China. Priests are forced to submit to an officially at..."
+
+**[00:49:57](/episodes/ep-1FhY-koMuWM.md#ent-gpe-china-t-00-49-30)**
+> "... just compromise Catholics in China. It binds and silences the whole church. Even Pop..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>

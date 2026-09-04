@@ -1,6 +1,6 @@
 ---
 title: "Candace (podcast)"
-description: "Candace (podcast) (Works & Media) - 12 mentions"
+description: "Candace (podcast) (Works & Media) - 13 mentions"
 id: "work-candace-podcast-series"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [Candace | Apple Podcasts](https://podcasts.apple.com/us/podcast/candace
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-work-candace-podcast-series-t-00-09-02">2026-03-25 · 00:09:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-work-candace-podcast-series-t-03-10-14">2026-08-14 · 03:10:25</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#t-00-00-37">2026-09-03 · 00:00:54</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,7 @@ Source: [Candace | Apple Podcasts](https://podcasts.apple.com/us/podcast/candace
 <a href="/episodes/ep-OgRyiOAVtWU.md#t-00-01-10" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#t-00-00-56" style="--pulse-height:50%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-work-candace-podcast-series-t-00-01-19" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#t-00-00-37" style="--pulse-height:50%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [Candace | Apple Podcasts](https://podcasts.apple.com/us/podcast/candace
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#t-00-01-10) | 1 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#t-00-00-56) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-work-candace-podcast-series-t-00-01-19) | 2 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#t-00-00-37) | 1 |
 
 </details>
 </section>
@@ -69,7 +71,15 @@ Source: [Candace | Apple Podcasts](https://podcasts.apple.com/us/podcast/candace
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:00:54](/episodes/ep-1FhY-koMuWM.md#t-00-00-37)**
+> "Andrew Wilson released while I was in Iceland, the alleged message from Charlie (Charlie Kirk) night before his death, allegedly sent via Telegram, wherein Charlie (Charlie Kirk) says he's afraid the left is going to kill him. That message is exceedingly problematic, but not for the reasons that you think. Turning Point walked right into a most wonderful trap, and I'm going to explain to you guys why. Welcome back to Candace."
+
+</details>
 
 <details>
 <summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>

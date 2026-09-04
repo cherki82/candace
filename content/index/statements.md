@@ -1,11 +1,11 @@
 ---
 title: "Claims & Statements"
-description: "Browse 3837 factual claims and 7162 attributed statements"
+description: "Browse 3859 factual claims and 7199 attributed statements"
 ---
 
 # Claims & Statements
 
-_3837 factual claims within 7162 attributed statements._
+_3859 factual claims within 7199 attributed statements._
 
 [Open the filterable Claims Explorer](/index/claims) to browse claims by date, speaker, entity, and verification outcome.
 
@@ -36,7 +36,7 @@ _3837 factual claims within 7162 attributed statements._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (162)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (163)</label>
 </div>
 
 <style>
@@ -53,7 +53,144 @@ _3837 factual claims within 7162 attributed statements._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Factual Claims (3837)</strong></summary>
+<summary><strong class="section-title">Factual Claims (3859)</strong></summary>
+
+<details>
+<summary>2026-09-03 · Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (22)</summary>
+
+<div class="filter-item" data-filter-key="statement-ef67bd10aea6">
+
+- [00:02:00](/episodes/ep-1FhY-koMuWM.md#t-00-01-34) [○] **Candace Owens**: ["Owens identified a man in a security photograph as Todd Espy; the episode does n..."](/statements/statement-ef67bd10aea6.md)
+  - About: [Todd Espy (security participant identified by Owens)](/entities/person-todd-espy-security.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-37dfac71585b">
+
+- [00:02:10](/episodes/ep-1FhY-koMuWM.md#t-00-02-10) [○] **Candace Owens**: ["Owens said she was fairly certain a security participant called Chester went by ..."](/statements/statement-37dfac71585b.md)
+  - About: [Claude Barnes (Integrity Security Solutions)](/entities/person-claude-barnes-security.md), [Integrity Security Solutions (Brian Harpole company)](/entities/org-integrity-security-solutions.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-64b8fe31884a">
+
+- [00:05:19](/episodes/ep-1FhY-koMuWM.md#t-00-04-45) [○] **Candace Owens**: ["Owens said unnamed people connected with Turning Point USA told her Christopher ..."](/statements/statement-64b8fe31884a.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [TPUSA sources on Christopher (identities unverified; episode 1FhY-koMuWM)](/entities/anon-src-1FhY-koMuWM-001.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8dab33d1b26c">
+
+- [00:08:36](/episodes/ep-1FhY-koMuWM.md#t-00-08-36) [○] **Candace Owens**: ["Owens interpreted footage as showing a security participant named Blake reaching..."](/statements/statement-8dab33d1b26c.md)
+  - About: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fcc9b42c9047">
+
+- [00:13:23](/episodes/ep-1FhY-koMuWM.md#t-00-13-16) [○] **Candace Owens**: ["Owens identified the person who fell from the rear of Kirk’s SUV while a backpac..."](/statements/statement-fcc9b42c9047.md)
+  - About: [Alex Faria (security team member; identity unverified)](/entities/anon-src-HIlPQ-_dcxM-001.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-99e81d30acb2">
+
+- [00:15:12](/episodes/ep-1FhY-koMuWM.md#t-00-15-12) [○] **Candace Owens**: ["Owens identified the woman who retrieved the backpack after the shooting as Chri..."](/statements/statement-99e81d30acb2.md)
+  - About: [Chrissy Pacheco](/entities/person-chrissy-pacheco.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-eb697cf42d8e">
+
+- [00:16:33](/episodes/ep-1FhY-koMuWM.md#t-00-16-33) [○] **Candace Owens**: ["Owens said newly presented footage around 12:11 p.m. on September 10 showed Chri..."](/statements/statement-eb697cf42d8e.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e682356e6916">
+
+- [00:23:24](/episodes/ep-1FhY-koMuWM.md#t-00-23-24) [○] **Candace Owens**: ["Owens said a trusted unnamed source described Kirk’s message to Dan Flood as an ..."](/statements/statement-e682356e6916.md)
+  - About: [Message-format source (identity unverified; episode 1FhY-koMuWM)](/entities/anon-src-1FhY-koMuWM-002.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0b6967804f06">
+
+- [00:24:53](/episodes/ep-1FhY-koMuWM.md#t-00-24-31) [○] **Dan Flood**: ["In the disputed exchange Owens read, a sender she tentatively identified as Dan ..."](/statements/statement-0b6967804f06.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cb95bd23d0df">
+
+- [00:25:16](/episodes/ep-1FhY-koMuWM.md#t-00-25-16) [○] **Charlie Kirk**: ["In the disputed exchange Owens read, a sender presented as Charlie Kirk said thr..."](/statements/statement-cb95bd23d0df.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-933d177d44a5">
+
+- [00:29:00](/episodes/ep-1FhY-koMuWM.md#t-00-29-00) [○] **Erika Kirk**: ["In an embedded interview with Glenn Beck, Erika Kirk said threats against her, h..."](/statements/statement-933d177d44a5.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c43361701037">
+
+- [00:30:54](/episodes/ep-1FhY-koMuWM.md#t-00-30-54) [○] **Candace Owens**: ["Owens said the fear messages were sent while Kirk was on a Zoom call about Israe..."](/statements/statement-c43361701037.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Will Cain](/entities/person-will-cain.md), [Mark Halperin](/entities/person-mark-halperin.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-faf411c6cde8">
+
+- [00:34:47](/episodes/ep-1FhY-koMuWM.md#t-00-34-47) [○] **Frank Turek**: ["Frank Turek said he and Kirk participated in a Zoom meeting the day before Kirk’..."](/statements/statement-faf411c6cde8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7a73f19f579c">
+
+- [00:35:34](/episodes/ep-1FhY-koMuWM.md#t-00-35-30) [○] **Frank Turek**: ["Frank Turek said he was in Utah the next day because Kirk had been invited to sp..."](/statements/statement-7a73f19f579c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Restaurantology](/entities/work-restaurantology.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-261594754578">
+
+- [00:35:59](/episodes/ep-1FhY-koMuWM.md#t-00-35-59) [○] **Candace Owens**: ["Owens said Andrew Kolvet forwarded Kirk’s message about leaving the pro-Israel c..."](/statements/statement-261594754578.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Joe Kent](/entities/person-joe-kent.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-12d9a3e03ffb">
+
+- [00:36:39](/episodes/ep-1FhY-koMuWM.md#t-00-36-39) [○] **Pesach Wolicki**: ["In the New York Post account read by Owens, Rabbi Pesach Wolicki described Kirk ..."](/statements/statement-12d9a3e03ffb.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e2507d7375d0">
+
+- [00:37:21](/episodes/ep-1FhY-koMuWM.md#t-00-37-21) [○] **Candace Owens**: ["Owens said Erika Kirk did not deny during their four-hour meeting that Charlie K..."](/statements/statement-e2507d7375d0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-62822d9ff6bc">
+
+- [00:37:41](/episodes/ep-1FhY-koMuWM.md#t-00-37-21) [○] **Candace Owens**: ["Owens said donors withdrew millions of dollars from Turning Point USA before Kir..."](/statements/statement-62822d9ff6bc.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5b15a6856056">
+
+- [00:48:47](/episodes/ep-1FhY-koMuWM.md#t-00-48-47) [○] **Candace Owens**: ["Owens said Kirk’s body was placed on an audiovisual travel case after he was sho..."](/statements/statement-5b15a6856056.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2330d1d19981">
+
+- [00:53:34](/episodes/ep-1FhY-koMuWM.md#t-00-52-56) [○] **Talks with Tiff (commenter; identity unverified)**: ["A commenter using Talks with Tiff said planning documents showed Turning Point U..."](/statements/statement-2330d1d19981.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5e4a2e52e3c9">
+
+- [00:53:55](/episodes/ep-1FhY-koMuWM.md#t-00-53-41) [○] **Candace Owens**: ["Owens said an unnamed source involved in planning told her Turning Point USA ins..."](/statements/statement-5e4a2e52e3c9.md)
+  - About: [UVU event-planning source (identity unverified; episode 1FhY-koMuWM)](/entities/anon-src-1FhY-koMuWM-003.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f5ce91c08942">
+
+- [00:55:48](/episodes/ep-1FhY-koMuWM.md#t-00-55-37) [○] **Candace Owens**: ["Owens said additional messages from September 9 directed Turning Point USA to br..."](/statements/statement-f5ce91c08942.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [AmericaFest 2025](/entities/event-americafest-2025.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-09-02 · Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (33)</summary>
@@ -23313,7 +23450,48 @@ _3837 factual claims within 7162 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Accusations (1703)</strong></summary>
+<summary><strong class="section-title">Accusations (1709)</strong></summary>
+
+<details>
+<summary>2026-09-03 · Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (6)</summary>
+
+<div class="filter-item" data-filter-key="statement-5ba892679521">
+
+- [00:22:19](/episodes/ep-1FhY-koMuWM.md#t-00-21-55) [○] **Candace Owens**: ["Owens said Andrew Kolvet authorized Andrew Wilson to read an alleged Telegram ex..."](/statements/statement-5ba892679521.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Andrew Wilson](/entities/person-andrew-wilson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-009b29f5640c">
+
+- [00:24:19](/episodes/ep-1FhY-koMuWM.md#t-00-23-47) [○] **Candace Owens**: ["Owens said she believed the exchange read by Wilson was a recreation in which th..."](/statements/statement-009b29f5640c.md)
+  - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5688224d9fdc">
+
+- [00:29:52](/episodes/ep-1FhY-koMuWM.md#t-00-29-40) [○] **Candace Owens**: ["Owens said Erika Kirk acknowledged the fear messages were real during their priv..."](/statements/statement-5688224d9fdc.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Signal Messenger](/entities/org-signal-messenger.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-36e54bee8482">
+
+- [00:49:37](/episodes/ep-1FhY-koMuWM.md#t-00-49-30) [○] **Candace Owens**: ["Owens said a secretive 2018 agreement between the Vatican and the Chinese Commun..."](/statements/statement-36e54bee8482.md)
+  - About: [Holy See](/entities/org-holy-see.md), [Communist Party of China](/entities/org-communist-party-of-china.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b7ca4d9d78a3">
+
+- [00:49:48](/episodes/ep-1FhY-koMuWM.md#t-00-49-30) [○] **Candace Owens**: ["Owens said Beijing appointed bishops loyal to the Chinese Communist Party agains..."](/statements/statement-b7ca4d9d78a3.md)
+  - About: [Holy See](/entities/org-holy-see.md), [Communist Party of China](/entities/org-communist-party-of-china.md), [Pope Leo XIV](/entities/person-pope-leo-xiv.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e1cfd4ecb94c">
+
+- [00:51:02](/episodes/ep-1FhY-koMuWM.md#t-00-51-02) [○] **Candace Owens**: ["Owens accused Blake Neff of repeatedly denying her friendship with Charlie Kirk."](/statements/statement-e1cfd4ecb94c.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-09-02 · Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (7)</summary>
@@ -34979,7 +35157,18 @@ _3837 factual claims within 7162 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Promises (133)</strong></summary>
+<summary><strong class="section-title">Promises (134)</strong></summary>
+
+<details>
+<summary>2026-09-03 · Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>
+
+<div class="filter-item" data-filter-key="statement-7555608fc015">
+
+- [00:25:46](/episodes/ep-1FhY-koMuWM.md#t-00-25-16) [○] **Dan Flood**: ["In the disputed exchange Owens read, the sender allegedly identified as Dan Floo..."](/statements/statement-7555608fc015.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-08-31 · We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2)</summary>
@@ -39078,7 +39267,60 @@ _3837 factual claims within 7162 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Opinions (1020)</strong></summary>
+<summary><strong class="section-title">Opinions (1028)</strong></summary>
+
+<details>
+<summary>2026-09-03 · Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (8)</summary>
+
+<div class="filter-item" data-filter-key="statement-58d2ca5ea852">
+
+- [00:07:01](/episodes/ep-1FhY-koMuWM.md#t-00-06-53) [○] **Candace Owens**: ["Owens inferred that the SUV was already unlocked because Justin Davis ran direct..."](/statements/statement-58d2ca5ea852.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [GMC Yukon Denali (model)](/entities/vehicle-gmc-yukon-denali-model.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-20adab108b62">
+
+- [00:11:45](/episodes/ep-1FhY-koMuWM.md#t-00-11-22) [○] **Candace Owens**: ["Owens said the movements around Kirk’s vehicle looked strangely choreographed to..."](/statements/statement-20adab108b62.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0bc3517a3931">
+
+- [00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01) [○] **Candace Owens**: ["Owens said she did not believe the account that Frank Turek performed CPR in the..."](/statements/statement-0bc3517a3931.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-21ba4f7ec883">
+
+- [00:32:46](/episodes/ep-1FhY-koMuWM.md#t-00-32-15) [○] **Candace Owens**: ["Owens suggested the Zoom call might have been an emergency intervention over Kir..."](/statements/statement-21ba4f7ec883.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5076fcb8e7b6">
+
+- [00:45:57](/episodes/ep-1FhY-koMuWM.md#t-00-45-22) [○] **Candace Owens**: ["Owens inferred from lozenges that Kirk might have been shouting the prior night ..."](/statements/statement-5076fcb8e7b6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7658858a9a17">
+
+- [00:49:37](/episodes/ep-1FhY-koMuWM.md#t-00-49-30) [○] **Candace Owens**: ["Owens argued that Pope Leo XIV could end the Vatican’s agreement with the Chines..."](/statements/statement-7658858a9a17.md)
+  - About: [Holy See](/entities/org-holy-see.md), [Communist Party of China](/entities/org-communist-party-of-china.md), [Pope Leo XIV](/entities/person-pope-leo-xiv.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-92b0c0999bff">
+
+- [00:52:33](/episodes/ep-1FhY-koMuWM.md#t-00-52-14) [○] **Candace Owens**: ["Owens said she believed Michael McCoy knew more than he had publicly communicate..."](/statements/statement-92b0c0999bff.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-eb8a36abdbda">
+
+- [00:52:56](/episodes/ep-1FhY-koMuWM.md#t-00-52-56) [○] **Candace Owens**: ["Owens said she believed Christopher backed in the SUV while Kirk walked toward t..."](/statements/statement-eb8a36abdbda.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</div>
+</details>
 
 <details>
 <summary>2026-09-02 · Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (11)</summary>
@@ -45909,6 +46151,233 @@ _3837 factual claims within 7162 attributed statements._
 </div>
 
 <div class="tab-content tab-content-byepisode">
+
+<details>
+<summary><strong>2026-09-03 · Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.</strong> (37)</summary>
+
+<div class="filter-item" data-filter-key="statement-ef67bd10aea6">
+
+- [00:02:00](/episodes/ep-1FhY-koMuWM.md#t-00-01-34) [○] (Claim) **Candace Owens**: ["Owens identified a man in a security photograph as Todd Espy; the episode does n..."](/statements/statement-ef67bd10aea6.md)
+  - About: [Todd Espy (security participant identified by Owens)](/entities/person-todd-espy-security.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-37dfac71585b">
+
+- [00:02:10](/episodes/ep-1FhY-koMuWM.md#t-00-02-10) [○] (Claim) **Candace Owens**: ["Owens said she was fairly certain a security participant called Chester went by ..."](/statements/statement-37dfac71585b.md)
+  - About: [Claude Barnes (Integrity Security Solutions)](/entities/person-claude-barnes-security.md), [Integrity Security Solutions (Brian Harpole company)](/entities/org-integrity-security-solutions.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-64b8fe31884a">
+
+- [00:05:19](/episodes/ep-1FhY-koMuWM.md#t-00-04-45) [○] (Claim) **Candace Owens**: ["Owens said unnamed people connected with Turning Point USA told her Christopher ..."](/statements/statement-64b8fe31884a.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [TPUSA sources on Christopher (identities unverified; episode 1FhY-koMuWM)](/entities/anon-src-1FhY-koMuWM-001.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-58d2ca5ea852">
+
+- [00:07:01](/episodes/ep-1FhY-koMuWM.md#t-00-06-53) [○] (Opinion) **Candace Owens**: ["Owens inferred that the SUV was already unlocked because Justin Davis ran direct..."](/statements/statement-58d2ca5ea852.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [GMC Yukon Denali (model)](/entities/vehicle-gmc-yukon-denali-model.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-8dab33d1b26c">
+
+- [00:08:36](/episodes/ep-1FhY-koMuWM.md#t-00-08-36) [○] (Claim) **Candace Owens**: ["Owens interpreted footage as showing a security participant named Blake reaching..."](/statements/statement-8dab33d1b26c.md)
+  - About: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-20adab108b62">
+
+- [00:11:45](/episodes/ep-1FhY-koMuWM.md#t-00-11-22) [○] (Opinion) **Candace Owens**: ["Owens said the movements around Kirk’s vehicle looked strangely choreographed to..."](/statements/statement-20adab108b62.md)
+  - About: [Justin Davis](/entities/person-justin-davis.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-fcc9b42c9047">
+
+- [00:13:23](/episodes/ep-1FhY-koMuWM.md#t-00-13-16) [○] (Claim) **Candace Owens**: ["Owens identified the person who fell from the rear of Kirk’s SUV while a backpac..."](/statements/statement-fcc9b42c9047.md)
+  - About: [Alex Faria (security team member; identity unverified)](/entities/anon-src-HIlPQ-_dcxM-001.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0bc3517a3931">
+
+- [00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01) [○] (Opinion) **Candace Owens**: ["Owens said she did not believe the account that Frank Turek performed CPR in the..."](/statements/statement-0bc3517a3931.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-99e81d30acb2">
+
+- [00:15:12](/episodes/ep-1FhY-koMuWM.md#t-00-15-12) [○] (Claim) **Candace Owens**: ["Owens identified the woman who retrieved the backpack after the shooting as Chri..."](/statements/statement-99e81d30acb2.md)
+  - About: [Chrissy Pacheco](/entities/person-chrissy-pacheco.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-eb697cf42d8e">
+
+- [00:16:33](/episodes/ep-1FhY-koMuWM.md#t-00-16-33) [○] (Claim) **Candace Owens**: ["Owens said newly presented footage around 12:11 p.m. on September 10 showed Chri..."](/statements/statement-eb697cf42d8e.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5ba892679521">
+
+- [00:22:19](/episodes/ep-1FhY-koMuWM.md#t-00-21-55) [○] (Accusation) **Candace Owens**: ["Owens said Andrew Kolvet authorized Andrew Wilson to read an alleged Telegram ex..."](/statements/statement-5ba892679521.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Andrew Wilson](/entities/person-andrew-wilson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e682356e6916">
+
+- [00:23:24](/episodes/ep-1FhY-koMuWM.md#t-00-23-24) [○] (Claim) **Candace Owens**: ["Owens said a trusted unnamed source described Kirk’s message to Dan Flood as an ..."](/statements/statement-e682356e6916.md)
+  - About: [Message-format source (identity unverified; episode 1FhY-koMuWM)](/entities/anon-src-1FhY-koMuWM-002.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-009b29f5640c">
+
+- [00:24:19](/episodes/ep-1FhY-koMuWM.md#t-00-23-47) [○] (Accusation) **Candace Owens**: ["Owens said she believed the exchange read by Wilson was a recreation in which th..."](/statements/statement-009b29f5640c.md)
+  - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-0b6967804f06">
+
+- [00:24:53](/episodes/ep-1FhY-koMuWM.md#t-00-24-31) [○] (Claim) **Dan Flood**: ["In the disputed exchange Owens read, a sender she tentatively identified as Dan ..."](/statements/statement-0b6967804f06.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-cb95bd23d0df">
+
+- [00:25:16](/episodes/ep-1FhY-koMuWM.md#t-00-25-16) [○] (Claim) **Charlie Kirk**: ["In the disputed exchange Owens read, a sender presented as Charlie Kirk said thr..."](/statements/statement-cb95bd23d0df.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7555608fc015">
+
+- [00:25:46](/episodes/ep-1FhY-koMuWM.md#t-00-25-16) [○] (Promise) **Dan Flood**: ["In the disputed exchange Owens read, the sender allegedly identified as Dan Floo..."](/statements/statement-7555608fc015.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-933d177d44a5">
+
+- [00:29:00](/episodes/ep-1FhY-koMuWM.md#t-00-29-00) [○] (Claim) **Erika Kirk**: ["In an embedded interview with Glenn Beck, Erika Kirk said threats against her, h..."](/statements/statement-933d177d44a5.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5688224d9fdc">
+
+- [00:29:52](/episodes/ep-1FhY-koMuWM.md#t-00-29-40) [○] (Accusation) **Candace Owens**: ["Owens said Erika Kirk acknowledged the fear messages were real during their priv..."](/statements/statement-5688224d9fdc.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Signal Messenger](/entities/org-signal-messenger.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-c43361701037">
+
+- [00:30:54](/episodes/ep-1FhY-koMuWM.md#t-00-30-54) [○] (Claim) **Candace Owens**: ["Owens said the fear messages were sent while Kirk was on a Zoom call about Israe..."](/statements/statement-c43361701037.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Will Cain](/entities/person-will-cain.md), [Mark Halperin](/entities/person-mark-halperin.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-21ba4f7ec883">
+
+- [00:32:46](/episodes/ep-1FhY-koMuWM.md#t-00-32-15) [○] (Opinion) **Candace Owens**: ["Owens suggested the Zoom call might have been an emergency intervention over Kir..."](/statements/statement-21ba4f7ec883.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-faf411c6cde8">
+
+- [00:34:47](/episodes/ep-1FhY-koMuWM.md#t-00-34-47) [○] (Claim) **Frank Turek**: ["Frank Turek said he and Kirk participated in a Zoom meeting the day before Kirk’..."](/statements/statement-faf411c6cde8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7a73f19f579c">
+
+- [00:35:34](/episodes/ep-1FhY-koMuWM.md#t-00-35-30) [○] (Claim) **Frank Turek**: ["Frank Turek said he was in Utah the next day because Kirk had been invited to sp..."](/statements/statement-7a73f19f579c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Restaurantology](/entities/work-restaurantology.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-261594754578">
+
+- [00:35:59](/episodes/ep-1FhY-koMuWM.md#t-00-35-59) [○] (Claim) **Candace Owens**: ["Owens said Andrew Kolvet forwarded Kirk’s message about leaving the pro-Israel c..."](/statements/statement-261594754578.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Joe Kent](/entities/person-joe-kent.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-12d9a3e03ffb">
+
+- [00:36:39](/episodes/ep-1FhY-koMuWM.md#t-00-36-39) [○] (Claim) **Pesach Wolicki**: ["In the New York Post account read by Owens, Rabbi Pesach Wolicki described Kirk ..."](/statements/statement-12d9a3e03ffb.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e2507d7375d0">
+
+- [00:37:21](/episodes/ep-1FhY-koMuWM.md#t-00-37-21) [○] (Claim) **Candace Owens**: ["Owens said Erika Kirk did not deny during their four-hour meeting that Charlie K..."](/statements/statement-e2507d7375d0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-62822d9ff6bc">
+
+- [00:37:41](/episodes/ep-1FhY-koMuWM.md#t-00-37-21) [○] (Claim) **Candace Owens**: ["Owens said donors withdrew millions of dollars from Turning Point USA before Kir..."](/statements/statement-62822d9ff6bc.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5076fcb8e7b6">
+
+- [00:45:57](/episodes/ep-1FhY-koMuWM.md#t-00-45-22) [○] (Opinion) **Candace Owens**: ["Owens inferred from lozenges that Kirk might have been shouting the prior night ..."](/statements/statement-5076fcb8e7b6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5b15a6856056">
+
+- [00:48:47](/episodes/ep-1FhY-koMuWM.md#t-00-48-47) [○] (Claim) **Candace Owens**: ["Owens said Kirk’s body was placed on an audiovisual travel case after he was sho..."](/statements/statement-5b15a6856056.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-36e54bee8482">
+
+- [00:49:37](/episodes/ep-1FhY-koMuWM.md#t-00-49-30) [○] (Accusation) **Candace Owens**: ["Owens said a secretive 2018 agreement between the Vatican and the Chinese Commun..."](/statements/statement-36e54bee8482.md)
+  - About: [Holy See](/entities/org-holy-see.md), [Communist Party of China](/entities/org-communist-party-of-china.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-7658858a9a17">
+
+- [00:49:37](/episodes/ep-1FhY-koMuWM.md#t-00-49-30) [○] (Opinion) **Candace Owens**: ["Owens argued that Pope Leo XIV could end the Vatican’s agreement with the Chines..."](/statements/statement-7658858a9a17.md)
+  - About: [Holy See](/entities/org-holy-see.md), [Communist Party of China](/entities/org-communist-party-of-china.md), [Pope Leo XIV](/entities/person-pope-leo-xiv.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-b7ca4d9d78a3">
+
+- [00:49:48](/episodes/ep-1FhY-koMuWM.md#t-00-49-30) [○] (Accusation) **Candace Owens**: ["Owens said Beijing appointed bishops loyal to the Chinese Communist Party agains..."](/statements/statement-b7ca4d9d78a3.md)
+  - About: [Holy See](/entities/org-holy-see.md), [Communist Party of China](/entities/org-communist-party-of-china.md), [Pope Leo XIV](/entities/person-pope-leo-xiv.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-e1cfd4ecb94c">
+
+- [00:51:02](/episodes/ep-1FhY-koMuWM.md#t-00-51-02) [○] (Accusation) **Candace Owens**: ["Owens accused Blake Neff of repeatedly denying her friendship with Charlie Kirk."](/statements/statement-e1cfd4ecb94c.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-92b0c0999bff">
+
+- [00:52:33](/episodes/ep-1FhY-koMuWM.md#t-00-52-14) [○] (Opinion) **Candace Owens**: ["Owens said she believed Michael McCoy knew more than he had publicly communicate..."](/statements/statement-92b0c0999bff.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-eb8a36abdbda">
+
+- [00:52:56](/episodes/ep-1FhY-koMuWM.md#t-00-52-56) [○] (Opinion) **Candace Owens**: ["Owens said she believed Christopher backed in the SUV while Kirk walked toward t..."](/statements/statement-eb8a36abdbda.md)
+  - About: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-2330d1d19981">
+
+- [00:53:34](/episodes/ep-1FhY-koMuWM.md#t-00-52-56) [○] (Claim) **Talks with Tiff (commenter; identity unverified)**: ["A commenter using Talks with Tiff said planning documents showed Turning Point U..."](/statements/statement-2330d1d19981.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-5e4a2e52e3c9">
+
+- [00:53:55](/episodes/ep-1FhY-koMuWM.md#t-00-53-41) [○] (Claim) **Candace Owens**: ["Owens said an unnamed source involved in planning told her Turning Point USA ins..."](/statements/statement-5e4a2e52e3c9.md)
+  - About: [UVU event-planning source (identity unverified; episode 1FhY-koMuWM)](/entities/anon-src-1FhY-koMuWM-003.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item" data-filter-key="statement-f5ce91c08942">
+
+- [00:55:48](/episodes/ep-1FhY-koMuWM.md#t-00-55-37) [○] (Claim) **Candace Owens**: ["Owens said additional messages from September 9 directed Turning Point USA to br..."](/statements/statement-f5ce91c08942.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [AmericaFest 2025](/entities/event-americafest-2025.md)
+
+</div>
+</details>
 
 <details>
 <summary><strong>2026-09-02 · Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382</strong> (54)</summary>
@@ -88938,4 +89407,4 @@ _3837 factual claims within 7162 attributed statements._
 
 ---
 
-*Generated: 2026-09-04 08:12:15*
+*Generated: 2026-09-04 09:52:11*

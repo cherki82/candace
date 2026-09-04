@@ -1,6 +1,6 @@
 ---
 title: "Telegram"
-description: "Telegram (Organizations) - 13 mentions"
+description: "Telegram (Organizations) - 23 mentions"
 id: "org-telegram"
 type: "ORG"
 categories:
@@ -17,27 +17,28 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-org-telegram-t-00-07-35">2025-10-07 · 00:07:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-telegram-t-00-41-23">2026-08-18 · 00:41:43</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-41-15">2026-09-03 · 00:41:45</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-5autG89PW6w.md#ent-org-telegram-t-00-07-35">TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-00-37">Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-5autG89PW6w.md#ent-org-telegram-t-00-07-35" style="--pulse-height:100%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-telegram-t-00-10-50" style="--pulse-height:33%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-telegram-t-00-44-28" style="--pulse-height:67%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-telegram-t-00-14-24" style="--pulse-height:33%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-org-telegram-t-01-06-06" style="--pulse-height:33%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-telegram-t-03-39-42" style="--pulse-height:67%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-telegram-t-02-49-36" style="--pulse-height:67%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-4JxgOclKzqg.md#ent-org-telegram-t-00-41-23" style="--pulse-height:33%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-telegram-t-00-07-35" style="--pulse-height:30%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-telegram-t-00-10-50" style="--pulse-height:10%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-telegram-t-00-44-28" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-telegram-t-00-14-24" style="--pulse-height:10%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-telegram-t-01-06-06" style="--pulse-height:10%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-telegram-t-03-39-42" style="--pulse-height:20%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-telegram-t-02-49-36" style="--pulse-height:20%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-org-telegram-t-00-41-23" style="--pulse-height:10%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-00-37" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 10 mentions" title="2026-09-03 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-telegram-t-03-39-42) | 2 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-telegram-t-02-49-36) | 2 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-telegram-t-00-41-23) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-00-37) | 10 |
 
 </details>
 </section>
@@ -62,7 +64,42 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (10 mentions)</summary>
+
+**[00:00:54](/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-00-37)**
+> "Andrew Wilson released while I was in Iceland, the alleged message from Charlie (Charlie Kirk) night before his death, allegedly sent via Telegram, wherein Charlie (Charlie Kirk) says he's afraid the left is going to kill him. That message is exceedingly problematic, but not for the reasons that you think. Turning Point walked right into a most wonderful trap, and I'm going to explain to you guys why. Welcome back to Candace."
+
+**[00:22:19](/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-21-55)**
+> "...on coming out with an alleged Telegram message from Charlie Kirk the night before he was..."
+
+**[00:23:32](/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-23-24)**
+> "...o Dan Flood via iMessage, not Telegram, to strike you again as remarkably."
+
+**[00:24:19](/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-23-47)**
+> "...hat was sent on iMessage, not Telegram."
+
+**[00:24:48](/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-24-31)**
+> "...t he released. Again, this is Telegram."
+
+**[00:26:23](/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-26-01)**
+> "... (Charlie Kirk) likes that on Telegram. Now, immediately the Internet clocked that this ..."
+
+**[00:30:28](/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-30-20)**
+> "...-delete on his Signal and his Telegram."
+
+**[00:30:49](/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-30-20)**
+> "...ve that these messages are on Telegram."
+
+**[00:41:31](/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-41-15)**
+> "...al and that those messages on Telegram were not edited in any way to include the little ..."
+
+**[00:41:45](/episodes/ep-1FhY-koMuWM.md#ent-org-telegram-t-00-41-15)**
+> "...Dan Flood on iMessage, not on Telegram, and I trust nothing that you guys say because yo..."
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
@@ -175,7 +212,21 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Telegram (2)</strong></summary>
+<summary><strong class="section-title">Statements about Telegram (5)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3)</summary>
+
+- [00:22:19](/episodes/ep-1FhY-koMuWM.md#t-00-21-55) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Andrew Kolvet authorized Andrew Wilson to read an alleged T..."](/statements/statement-5ba892679521.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Andrew Wilson](/entities/person-andrew-wilson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:23:24](/episodes/ep-1FhY-koMuWM.md#t-00-23-24) (Claim) **Candace Owens** (via paraphrase): ["Owens said a trusted unnamed source described Kirk’s message to Dan Fl..."](/statements/statement-e682356e6916.md)
+  - Also about: [Message-format source (identity unverified; episode 1FhY-koMuWM)](/entities/anon-src-1FhY-koMuWM-002.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:29:52](/episodes/ep-1FhY-koMuWM.md#t-00-29-40) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk acknowledged the fear messages were real during ..."](/statements/statement-5688224d9fdc.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Signal Messenger](/entities/org-signal-messenger.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

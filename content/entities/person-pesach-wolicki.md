@@ -1,6 +1,6 @@
 ---
 title: "Pesach Wolicki"
-description: "Pesach Wolicki (People) - 13 mentions"
+description: "Pesach Wolicki (People) - 17 mentions"
 id: "person-pesach-wolicki"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-pesach-wolicki-t-00-19-41">2025-10-08 · 00:19:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-pesach-wolicki-t-00-42-22">2026-03-26 · 00:42:22</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-pesach-wolicki-t-00-36-39">2026-09-03 · 00:36:39</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-pesach-wolicki-t-00-05-37" style="--pulse-height:22%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-pesach-wolicki-t-00-14-25" style="--pulse-height:11%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-pesach-wolicki-t-00-42-22" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-pesach-wolicki-t-00-32-15" style="--pulse-height:44%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 4 mentions" title="2026-09-03 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-pesach-wolicki-t-00-05-37) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-pesach-wolicki-t-00-14-25) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-pesach-wolicki-t-00-42-22) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-pesach-wolicki-t-00-32-15) | 4 |
 
 </details>
 </section>
@@ -61,7 +63,24 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (4 mentions)</summary>
+
+**[00:32:46](/episodes/ep-1FhY-koMuWM.md#ent-person-pesach-wolicki-t-00-32-15)**
+> "Suddenly, there's a Zoom call. An emergency Zoom call. It seems to be this was an emergency Zoom call because we have Charlie (Charlie Kirk), we have Josh Hammer, we have Frank Turek, we have Rabbi Wolicki (Pesach Wolicki)."
+
+**[00:33:00](/episodes/ep-1FhY-koMuWM.md#ent-person-pesach-wolicki-t-00-33-00)**
+> "...rew Kolvet. If Rabbi Wolicki (Pesach Wolicki) is to be believed, he says that actually, we'll ..."
+
+**[00:33:38](/episodes/ep-1FhY-koMuWM.md#ent-person-pesach-wolicki-t-00-33-38)**
+> "...ael cause, and Rabbi Wolicki (Pesach Wolicki) confirmed, by the way, he was the only one who t..."
+
+**[00:36:39](/episodes/ep-1FhY-koMuWM.md#ent-person-pesach-wolicki-t-00-36-39)**
+> "...n we have from Rabbi Wolicki (Pesach Wolicki) that he kept up that energy. He said in various ..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
@@ -156,9 +175,10 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 <summary>Spoke With (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:19:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-19-41): “He bragged that he and Rabbi Wolicki (Pesach Wolicki) had a Zoom call with Charlie (Charlie Kirk).”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:33:38](/episodes/ep-1FhY-koMuWM.md#t-00-33-38): “And he says he doesn't know who he was referring to. But if you were on a Zoom call with Israeli officials after you said that you were leaving the pro-Israel cause, and Rabbi Wolicki (Pesach Wolicki) confirmed, by the way, he was the only one who told the truth. Everyone was like, this call was just daisies and it was about prepping. Rabbi Wolicki (Pesach Wolicki) actually said, yeah, it got a little contentious. Charlie (Charlie Kirk) was playing devil's advocate. Uh, you know, Charlie (Charlie Kirk) was pushing back, asking us about Gaza.”
 
 </details>
 
@@ -183,9 +203,10 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** spoke with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:19:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-19-41): “He bragged that he and Rabbi Wolicki (Pesach Wolicki) had a Zoom call with Charlie (Charlie Kirk).”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:33:38](/episodes/ep-1FhY-koMuWM.md#t-00-33-38): “And he says he doesn't know who he was referring to. But if you were on a Zoom call with Israeli officials after you said that you were leaving the pro-Israel cause, and Rabbi Wolicki (Pesach Wolicki) confirmed, by the way, he was the only one who told the truth. Everyone was like, this call was just daisies and it was about prepping. Rabbi Wolicki (Pesach Wolicki) actually said, yeah, it got a little contentious. Charlie (Charlie Kirk) was playing devil's advocate. Uh, you know, Charlie (Charlie Kirk) was pushing back, asking us about Gaza.”
 
 </details>
 
@@ -194,7 +215,15 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Pesach Wolicki (2)</strong></summary>
+<summary><strong class="section-title">Statements by Pesach Wolicki (3)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>
+
+- [00:36:39](/episodes/ep-1FhY-koMuWM.md#t-00-36-39) [○] (Claim) ["In the New York Post account read by Owens, Rabbi Pesach Wolicki described Kirk ..."](/statements/statement-12d9a3e03ffb.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2)</summary>
@@ -210,7 +239,15 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pesach Wolicki (5)</strong></summary>
+<summary><strong class="section-title">Statements about Pesach Wolicki (6)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>
+
+- [00:32:46](/episodes/ep-1FhY-koMuWM.md#t-00-32-15) (Opinion) **Candace Owens**: ["Owens suggested the Zoom call might have been an emergency interventio..."](/statements/statement-21ba4f7ec883.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>

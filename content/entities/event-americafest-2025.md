@@ -1,6 +1,6 @@
 ---
 title: "AmericaFest 2025"
-description: "AmericaFest 2025 (Events) - 42 mentions"
+description: "AmericaFest 2025 (Events) - 43 mentions"
 id: "event-americafest-2025"
 type: "EVENT"
 aliases:
@@ -25,11 +25,11 @@ Source: [AmericaFest](https://www.amfest.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-02-04">2026-01-05 · 00:02:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-13-59">2026-07-23 · 00:14:19</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>42</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-event-americafest-2025-t-00-55-37">2026-09-03 · 00:55:48</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -55,6 +55,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-event-americafest-2025-t-00-21-24" style="--pulse-height:10%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-event-americafest-2025-t-00-04-23" style="--pulse-height:10%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-05-48" style="--pulse-height:20%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-event-americafest-2025-t-00-55-37" style="--pulse-height:10%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -77,6 +78,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-event-americafest-2025-t-00-21-24) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-event-americafest-2025-t-00-04-23) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-05-48) | 2 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-event-americafest-2025-t-00-55-37) | 1 |
 
 </details>
 </section>
@@ -88,7 +90,15 @@ Source: [AmericaFest](https://www.amfest.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:55:48](/episodes/ep-1FhY-koMuWM.md#ent-event-americafest-2025-t-00-55-37)**
+> "Rest in peace, Charlie (Charlie Kirk). Yes, and that was not the only, them trying to sort of downplay the message of him saying he was leaving the pro-Israel cause, that was not the only message that Charlie (Charlie Kirk) sent that day. He sent the message to other people at Turning Point USA saying that he wanted me back for AmFest, and he made that very clear to them. It was a directive. It was not a suggestion. And like I said, they're hiding all this stuff because why? You tell me. Because why? You fill in the blank."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -377,7 +387,15 @@ Source: [AmericaFest](https://www.amfest.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about AmericaFest 2025 (14)</strong></summary>
+<summary><strong class="section-title">Statements about AmericaFest 2025 (15)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>
+
+- [00:55:48](/episodes/ep-1FhY-koMuWM.md#t-00-55-37) (Claim) **Candace Owens** (via paraphrase): ["Owens said additional messages from September 9 directed Turning Point..."](/statements/statement-f5ce91c08942.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>

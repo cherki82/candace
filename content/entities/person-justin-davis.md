@@ -1,6 +1,6 @@
 ---
 title: "Justin Davis"
-description: "Justin Davis (People) - 18 mentions"
+description: "Justin Davis (People) - 30 mentions"
 id: "person-justin-davis"
 type: "PERSON"
 categories:
@@ -18,24 +18,25 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14">2026-06-24 · 00:09:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-davis-t-00-21-04">2026-09-02 · 00:21:24</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-12-36">2026-09-03 · 00:12:36</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-davis-t-00-12-19">Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382</a> (10 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-06-53">Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.</a> (12 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14" style="--pulse-height:30%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-justin-davis-t-01-03-52" style="--pulse-height:20%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-justin-davis-t-00-34-03" style="--pulse-height:10%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-justin-davis-t-00-19-43" style="--pulse-height:10%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-davis-t-00-12-19" style="--pulse-height:100%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 10 mentions" title="2026-09-02 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14" style="--pulse-height:25%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-justin-davis-t-01-03-52" style="--pulse-height:17%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-justin-davis-t-00-34-03" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-justin-davis-t-00-19-43" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-davis-t-00-12-19" style="--pulse-height:83%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 10 mentions" title="2026-09-02 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-06-53" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 12 mentions" title="2026-09-03 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-justin-davis-t-00-34-03) | 1 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-justin-davis-t-00-19-43) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-davis-t-00-12-19) | 10 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-06-53) | 12 |
 
 </details>
 </section>
@@ -57,7 +59,48 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (12 mentions)</summary>
+
+**[00:06:53](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-06-53)**
+> "Because if you take a look at Justin Davis and you take a look at Blake (security team member; surname unverified), they arrive to the car first. They don't go to the hood or to any other area."
+
+**[00:07:24](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-06-53)**
+> "...s well. It could have been in Justin Davis's"
+
+**[00:07:38](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-07-38)**
+> "...losive goes off, both Justin (Justin Davis) and Blake (security team member; surname unverif..."
+
+**[00:09:17](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-09-17)**
+> "...orth noting. Next up, we have Justin Davis."
+
+**[00:09:41](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-09-17)**
+> "There's Justin (Justin Davis) in front. He turns around there and then he come..."
+
+**[00:10:08](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-09-58)**
+> "...we are again going to isolate Justin Davis so that you can see that he is the first to arriv..."
+
+**[00:10:23](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-09-58)**
+> "...before we isolate who Justin (Justin Davis) is. Take a look at this. There"
+
+**[00:10:39](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-10-39)**
+> "...t and greet in front. Justin (Justin Davis), a little huddle, Mikey (Michael McCoy), and the..."
+
+**[00:11:18](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-10-39)**
+> "Justin (Justin Davis) goes around to the front."
+
+**[00:11:22](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-11-22)**
+> "... were given rather to Justin (Justin Davis) or Blake (security team member; surname unverifi..."
+
+**[00:12:04](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-12-04)**
+> "... seconds when you see Justin (Justin Davis) and them get there."
+
+**[00:12:36](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-12-36)**
+> "...Coy) who handed those keys to Justin Davis because Mikey (Michael McCoy) was, in fact, in th..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (10 mentions)</summary>
@@ -195,7 +238,18 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Davis (6)</strong></summary>
+<summary><strong class="section-title">Statements about Justin Davis (8)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2)</summary>
+
+- [00:07:01](/episodes/ep-1FhY-koMuWM.md#t-00-06-53) (Opinion) **Candace Owens**: ["Owens inferred that the SUV was already unlocked because Justin Davis ..."](/statements/statement-58d2ca5ea852.md)
+  - Also about: [GMC Yukon Denali (model)](/entities/vehicle-gmc-yukon-denali-model.md)
+
+- [00:11:45](/episodes/ep-1FhY-koMuWM.md#t-00-11-22) (Opinion) **Candace Owens**: ["Owens said the movements around Kirk’s vehicle looked strangely choreo..."](/statements/statement-20adab108b62.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (5)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Zoom Communications"
-description: "Zoom Communications (Organizations) - 30 mentions"
+description: "Zoom Communications (Organizations) - 38 mentions"
 id: "org-zoom-communications"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#t-00-50-16">2025-12-05 · 00:50:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#t-00-02-01">2026-08-04 · 00:02:01</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#t-00-34-47">2026-09-03 · 00:34:51</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,28 +33,29 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#t-00-39-33">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-1FhY-koMuWM.md#t-00-31-35">Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-DqGNvi36ol8.md#t-00-50-16" style="--pulse-height:20%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-14-11" style="--pulse-height:60%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#t-00-00-00" style="--pulse-height:40%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#t-00-01-30" style="--pulse-height:20%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#t-00-39-33" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#t-00-05-37" style="--pulse-height:40%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#t-00-38-46" style="--pulse-height:20%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#t-00-10-44" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#t-00-54-15" style="--pulse-height:20%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#t-01-00-10" style="--pulse-height:40%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-qZ8RWfyuewQ.md#t-01-12-32" style="--pulse-height:20%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-KpxIBWkNsSs.md#t-00-35-57" style="--pulse-height:20%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1QZ4X6q1DPg.md#t-00-16-13" style="--pulse-height:20%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-cPidFQDJLbo.md#t-00-32-19" style="--pulse-height:20%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#t-00-20-06" style="--pulse-height:20%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#t-00-35-16" style="--pulse-height:20%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#t-00-08-56" style="--pulse-height:40%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#t-00-46-04" style="--pulse-height:20%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#t-00-54-54" style="--pulse-height:20%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#t-00-02-01" style="--pulse-height:20%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#t-00-50-16" style="--pulse-height:12%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-14-11" style="--pulse-height:38%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#t-00-00-00" style="--pulse-height:25%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#t-00-01-30" style="--pulse-height:12%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#t-00-39-33" style="--pulse-height:62%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#t-00-05-37" style="--pulse-height:25%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#t-00-38-46" style="--pulse-height:12%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#t-00-10-44" style="--pulse-height:12%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#t-00-54-15" style="--pulse-height:12%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#t-01-00-10" style="--pulse-height:25%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#t-01-12-32" style="--pulse-height:12%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#t-00-35-57" style="--pulse-height:12%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#t-00-16-13" style="--pulse-height:12%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#t-00-32-19" style="--pulse-height:12%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#t-00-20-06" style="--pulse-height:12%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#t-00-35-16" style="--pulse-height:12%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#t-00-08-56" style="--pulse-height:25%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#t-00-46-04" style="--pulse-height:12%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#t-00-54-54" style="--pulse-height:12%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#t-00-02-01" style="--pulse-height:12%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#t-00-31-35" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 8 mentions" title="2026-09-03 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +81,7 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#t-00-46-04) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#t-00-54-54) | 1 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#t-00-02-01) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#t-00-31-35) | 8 |
 
 </details>
 </section>
@@ -91,7 +93,36 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (8 mentions)</summary>
+
+**[00:31:35](/episodes/ep-1FhY-koMuWM.md#t-00-31-35)**
+> "And what is interesting about when Charlie (Charlie Kirk) sent these alleged panicked messages to his security, Dan Flood, and to Andrew Kolvet, which he has not yet addressed, is that he sent them when he was on the now notorious Zoom call with leaders in Israel."
+
+**[00:32:46](/episodes/ep-1FhY-koMuWM.md#t-00-32-15)**
+> "Suddenly, there's a Zoom call. An emergency Zoom call. It seems to be this..."
+
+**[00:33:00](/episodes/ep-1FhY-koMuWM.md#t-00-33-00)**
+> "...eli officials that are on the Zoom call, as well as Blake Neff and Andrew Kolvet. If..."
+
+**[00:33:15](/episodes/ep-1FhY-koMuWM.md#t-00-33-00)**
+> "...his phone, that he is on this Zoom call and Andrew Kolvet is on the Zoom call, Charl..."
+
+**[00:33:38](/episodes/ep-1FhY-koMuWM.md#t-00-33-38)**
+> "...ring to. But if you were on a Zoom call with Israeli officials after you said that y..."
+
+**[00:34:12](/episodes/ep-1FhY-koMuWM.md#t-00-33-38)**
+> "... Kolvet), in reference to the Zoom call that you were on when this message was sent."
+
+**[00:34:26](/episodes/ep-1FhY-koMuWM.md#t-00-34-21)**
+> "...e who he was currently on the Zoom call with."
+
+**[00:34:51](/episodes/ep-1FhY-koMuWM.md#t-00-34-47)**
+> "a Zoom meeting with a couple of people in Israel and a c..."
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>

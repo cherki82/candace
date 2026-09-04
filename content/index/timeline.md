@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1801_
+_Total events: 1810_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -341,14 +341,14 @@ _Total events: 1801_
 
 <div class="tab-controls">
   <label for="tab-year-2026" class="tab-btn">2026 (299)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (826)</label>
-  <label for="tab-year-2024" class="tab-btn">2024 (100)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (833)</label>
+  <label for="tab-year-2024" class="tab-btn">2024 (101)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (40)</label>
   <label for="tab-year-2022" class="tab-btn">2022 (23)</label>
   <label for="tab-year-2021" class="tab-btn">2021 (21)</label>
   <label for="tab-year-2020" class="tab-btn">2020 (15)</label>
   <label for="tab-year-2019" class="tab-btn">2019 (30)</label>
-  <label for="tab-year-2018" class="tab-btn">2018 (50)</label>
+  <label for="tab-year-2018" class="tab-btn">2018 (51)</label>
   <label for="tab-year-2017" class="tab-btn">2017 (19)</label>
   <label for="tab-year-2016" class="tab-btn">2016 (16)</label>
   <label for="tab-year-2015" class="tab-btn">2015 (14)</label>
@@ -5368,7 +5368,7 @@ _Total events: 1801_
 <div class="timeline-date">2025-12-15</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-15-candace-owens-and-erika-kirk-meeting.md">Candace Owens and Erika Kirk meeting</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">10× in 10 eps</span>
+<span class="timeline-badge mentions">11× in 11 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-15: Candace Owens and Erika Kirk meeting - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -5384,6 +5384,7 @@ _Total events: 1801_
 - [Update! Erika Did Not Go Home. Source Confirms ... @ 00:48:52](/episodes/ep-KpxIBWkNsSs.md#t-00-48-33)
 - [Behind The Scenes Of The Great Debate: TPUSA Is... @ 00:20:15](/episodes/ep-E7P2ShoYDUA.md#t-00-20-15)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:04:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-04-21)
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:29:52](/episodes/ep-1FhY-koMuWM.md#t-00-29-40)
 
 </details>
 </div>
@@ -5422,7 +5423,7 @@ _Total events: 1801_
 <div class="timeline-date">2025-12-12</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-12-erika-kirk-conducted-an-interview-with-g.md">Erika Kirk conducted an interview with Glenn Beck from Charlie Kirk's home office.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-12: Erika Kirk conducted an interview with Glenn Beck from Charlie Kirk\'s home office. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -5431,6 +5432,7 @@ _Total events: 1801_
 - [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14)
 - [Okay…These Text Messages Are Crazy! | Candace E... @ 00:33:09](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42)
 - [Behind The Scenes Of The Great Debate: TPUSA Is... @ 00:19:58](/episodes/ep-E7P2ShoYDUA.md#t-00-19-48)
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:28:00](/episodes/ep-1FhY-koMuWM.md#t-00-27-41)
 
 </details>
 </div>
@@ -8010,6 +8012,21 @@ _Total events: 1801_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-10-07-owens-said-she-first-told-her-audience-a" data-filter-key="event-2025-10-07-owens-said-she-first-told-her-audience-a">
+<div class="timeline-date">2025-10-07</div>
+<div class="timeline-desc"><a href="/events/event-2025-10-07-owens-said-she-first-told-her-audience-a.md">Owens said she first told her audience about Kirk’s two fear-of-being-killed messages on October 7.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-10-07: Owens said she first told her audience about Kirk’s two fear-of-being-killed messages on October 7. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:26:35](/episodes/ep-1FhY-koMuWM.md#t-00-26-35)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-10-06-candace-owens-releases-screenshots-of-charlie-kirk" data-filter-key="event-2025-10-06-candace-owens-releases-screenshots-of-charlie-kirk">
 <div class="timeline-date">2025-10-06</div>
 <div class="timeline-desc"><a href="/events/event-2025-10-06-candace-owens-releases-screenshots-of-charlie-kirk.md">Candace Owens releases screenshots of Charlie Kirk's text messages criticizing Israel</a></div>
@@ -8562,13 +8579,14 @@ _Total events: 1801_
 <div class="timeline-date">2025-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-candace-owens-says-charlie-kirks-unnamed.md">Candace Owens says Charlie Kirk's unnamed top Jewish donors pulled funding within 48 hours before his shooting</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Candace Owens says Charlie Kirk\'s unnamed top Jewish donors pulled funding within 48 hours before his shooting - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:57:15](/episodes/ep-q7f8r-THr84.md#t-00-56-48)
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:37:41](/episodes/ep-1FhY-koMuWM.md#t-00-37-21)
 
 </details>
 </div>
@@ -8584,6 +8602,21 @@ _Total events: 1801_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 01:01:43](/episodes/ep-q7f8r-THr84.md#t-01-00-59)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-owens-said-andrew-kolvet-told-her-in-the" data-filter-key="event-2025-09-owens-said-andrew-kolvet-told-her-in-the">
+<div class="timeline-date">2025-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-owens-said-andrew-kolvet-told-her-in-the.md">Owens said Andrew Kolvet told her in the week after Kirk died that Kirk had sent fear messages to him and Dan Flood.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Owens said Andrew Kolvet told her in the week after Kirk died that Kirk had sent fear messages to him and Dan Flood. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:27:01](/episodes/ep-1FhY-koMuWM.md#t-00-27-01)
 
 </details>
 </div>
@@ -12809,7 +12842,7 @@ _Total events: 1801_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-gave-an-interview-at-the-re.md">Charlie Kirk gave an interview at the Restaurantology Summit in Salt Lake City before traveling to Provo.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 4 eps</span>
+<span class="timeline-badge mentions">5× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk gave an interview at the Restaurantology Summit in Salt Lake City before traveling to Provo. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -12819,6 +12852,7 @@ _Total events: 1801_
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Co... @ 00:11:57](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36)
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:12:07](/episodes/ep-OgRyiOAVtWU.md#t-00-12-03)
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:13:22](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-56)
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:35:34](/episodes/ep-1FhY-koMuWM.md#t-00-35-30)
 
 </details>
 </div>
@@ -13459,13 +13493,14 @@ _Total events: 1801_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-owens-said-charlie-kirk-and-michael-mcco.md">Owens said Charlie Kirk and Michael McCoy arrived at UVU in a Yukon Denali driven by a security participant known only as Christopher.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens said Charlie Kirk and Michael McCoy arrived at UVU in a Yukon Denali driven by a security participant known only as Christopher. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:13:39](/episodes/ep-HIlPQ-_dcxM.md#t-00-13-39)
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:03:53](/episodes/ep-1FhY-koMuWM.md#t-00-03-44)
 
 </details>
 </div>
@@ -13491,13 +13526,14 @@ _Total events: 1801_
 <p class="timeline-desc"><a href="/events/event-2025-09-10-owens-interpreted-footage-as-showing-sec.md">Owens interpreted footage as showing security driver Christopher, whose surname is unverified, and Nate Walker upstairs near the Sorensen building minutes before Kirk was struck.</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens interpreted footage as showing security driver Christopher, whose surname is unverified, and Nate Walker upstairs near the Sorensen building minutes before Kirk was struck. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:17:03](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-51)
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:12:17](/episodes/ep-1FhY-koMuWM.md#t-00-12-04)
 
 </details>
 </div>
@@ -13523,13 +13559,14 @@ _Total events: 1801_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-owens-interpreted-footage-as-showing-dan.md">Owens interpreted footage as showing Danny Philip and Michael McCoy converging in front of Kirk’s vehicle with Justin Davis after Kirk was struck.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens interpreted footage as showing Danny Philip and Michael McCoy converging in front of Kirk’s vehicle with Justin Davis after Kirk was struck. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:20:17](/episodes/ep-HIlPQ-_dcxM.md#t-00-20-17)
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:12:36](/episodes/ep-1FhY-koMuWM.md#t-00-12-36)
 
 </details>
 </div>
@@ -13596,6 +13633,53 @@ _Total events: 1801_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-identified-alex-faria-as-the-perso" data-filter-key="event-2025-09-10-owens-identified-alex-faria-as-the-perso">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-owens-identified-alex-faria-as-the-perso.md">Owens identified Alex Faria as the person who fell from the rear of Kirk’s SUV as a backpack fell out; the identity remains unverified.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens identified Alex Faria as the person who fell from the rear of Kirk’s SUV as a backpack fell out; the identity remains unverified. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:13:23](/episodes/ep-1FhY-koMuWM.md#t-00-13-16)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-identified-chrissy-pacheco-as-the-" data-filter-key="event-2025-09-10-owens-identified-chrissy-pacheco-as-the-">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-owens-identified-chrissy-pacheco-as-the-.md">Owens identified Chrissy Pacheco as the woman who retrieved a backpack after it fell from Kirk’s SUV.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens identified Chrissy Pacheco as the woman who retrieved a backpack after it fell from Kirk’s SUV. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:15:12](/episodes/ep-1FhY-koMuWM.md#t-00-15-12)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-said-footage-around-1211-pm-showed" data-filter-key="event-2025-09-10-owens-said-footage-around-1211-pm-showed">
+<div class="timeline-date">2025-09-10</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-10-owens-said-footage-around-1211-pm-showed.md">Owens said footage around 12:11 p.m. showed Christopher accessing the SUV’s trunk roughly twelve minutes before Kirk was shot; the object handled w...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-10-owens-said-footage-around-1211-pm-showed.md">Owens said footage around 12:11 p.m. showed Christopher accessing the SUV’s trunk roughly twelve minutes before Kirk was shot; the object handled was unclear.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens said footage around 12:11 p.m. showed Christopher accessing the SUV’s trunk roughly twelve minutes before Kirk was shot; the object handled was unclear. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:16:33](/episodes/ep-1FhY-koMuWM.md#t-00-16-33)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution" data-filter-key="event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution">
 <div class="timeline-date">2025-09-09 <span class='time'>21:09</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution.md">Josh Hammer retweets Trump's 2013 public execution tweet.</a></div>
@@ -13617,7 +13701,7 @@ _Total events: 1801_
 <div class="timeline-date">2025-09-09 <span class='time'>18:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-josh-hammer-said-charlie-kirk-held-a-zoo.md">Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">7× in 7 eps</span>
+<span class="timeline-badge mentions">8× in 8 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09 18:00: Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -13630,6 +13714,7 @@ _Total events: 1801_
 - [I Survive My First Death Hoax, Erika Kirk Makes... @ 00:43:38](/episodes/ep-VMNWMXX1vO8.md#t-00-43-16)
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:21:29](/episodes/ep-2Riv3I7D0Yk.md#t-00-21-29)
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:13:07](/episodes/ep-ZkDO-MRLUco.md#t-00-12-57)
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:34:47](/episodes/ep-1FhY-koMuWM.md#t-00-34-47)
 
 </details>
 </div>
@@ -13638,7 +13723,7 @@ _Total events: 1801_
 <div class="timeline-date">2025-09-09 <span class='time'>15:54</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-candace-owens-said-charlie-kirk-sent-a-t.md">Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">8× in 8 eps</span>
+<span class="timeline-badge mentions">9× in 9 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09 15:54: Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -13652,6 +13737,7 @@ _Total events: 1801_
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Co... @ 00:41:17](/episodes/ep-X3VKJVJ7cN4.md#t-00-41-05)
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:15:50](/episodes/ep-amqTMimDr0A.md#t-00-15-44)
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:12:14](/episodes/ep-ZkDO-MRLUco.md#t-00-12-14)
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:32:22](/episodes/ep-1FhY-koMuWM.md#t-00-32-15)
 
 </details>
 </div>
@@ -13766,7 +13852,7 @@ _Total events: 1801_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death.md">Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">11× in 10 eps</span>
+<span class="timeline-badge mentions">12× in 11 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Text messages the day before Charlie Kirk\'s death in which he warned he thought he would be killed. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -13783,6 +13869,7 @@ _Total events: 1801_
 - [Behind The Scenes Of The Great Debate: TPUSA Is... @ 00:18:49](/episodes/ep-E7P2ShoYDUA.md#t-00-18-49)
 - [Erika And I Sat Down. Here’s What Happened. | C... @ 00:07:15](/episodes/ep-es7PWdFGoFI.md#t-00-06-43)
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:12:50](/episodes/ep-ZkDO-MRLUco.md#t-00-12-14)
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:25:16](/episodes/ep-1FhY-koMuWM.md#t-00-25-16)
 
 </details>
 </div>
@@ -14014,13 +14101,14 @@ _Total events: 1801_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-candace-owens-said-charlie-kirk-appeared.md">Candace Owens said Charlie Kirk appeared on The Will Cain Show from his TPUSA office.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Candace Owens said Charlie Kirk appeared on The Will Cain Show from his TPUSA office. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:41:13](/episodes/ep-CEF7gQRWYCE.md#t-00-40-46)
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:31:59](/episodes/ep-1FhY-koMuWM.md#t-00-31-35)
 
 </details>
 </div>
@@ -14112,6 +14200,36 @@ _Total events: 1801_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:09:16](/episodes/ep-ZkDO-MRLUco.md#t-00-08-58)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-09-owens-said-kirk-joined-a-roughly-forty-m" data-filter-key="event-2025-09-09-owens-said-kirk-joined-a-roughly-forty-m">
+<div class="timeline-date">2025-09-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-09-owens-said-kirk-joined-a-roughly-forty-m.md">Owens said Kirk joined a roughly forty-minute interview on Mark Halperin’s show after his Will Cain appearance.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Owens said Kirk joined a roughly forty-minute interview on Mark Halperin’s show after his Will Cain appearance. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:31:59](/episodes/ep-1FhY-koMuWM.md#t-00-31-35)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-09-owens-said-kirk-sent-additional-messages" data-filter-key="event-2025-09-09-owens-said-kirk-sent-additional-messages">
+<div class="timeline-date">2025-09-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-09-owens-said-kirk-sent-additional-messages.md">Owens said Kirk sent additional messages directing Turning Point USA to bring her back to AmericaFest.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Owens said Kirk sent additional messages directing Turning Point USA to bring her back to AmericaFest. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:55:48](/episodes/ep-1FhY-koMuWM.md#t-00-55-37)
 
 </details>
 </div>
@@ -15096,7 +15214,7 @@ _Total events: 1801_
 <div class="timeline-date">2025-08</div>
 <div class="timeline-desc"><a href="/events/event-2025-08-candace-owens-said-benjamin-netanyahu-ca.md">Candace Owens said Benjamin Netanyahu called Charlie Kirk during the Hamptons retreat, offered to elevate Turning Point USA, and Kirk declined.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-08: Candace Owens said Benjamin Netanyahu called Charlie Kirk during the Hamptons retreat, offered to elevate Turning Point USA, and Kirk declined. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -15105,6 +15223,7 @@ _Total events: 1801_
 - [REVEALED! Trump Scolded Charlie Kirk Over Epste... @ 00:33:32](/episodes/ep-WoXd4oLwd3w.md#t-00-32-58)
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:30:14](/episodes/ep-xjzb_t5Tk9o.md#t-00-30-14)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:22:11](/episodes/ep-a-e7HC6SeK8.md#t-00-21-56)
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:05:33](/episodes/ep-1FhY-koMuWM.md#t-00-05-25)
 
 </details>
 </div>
@@ -19571,6 +19690,21 @@ _Total events: 1801_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2024-owens-said-unnamed-tpusa-sources-told-he" data-filter-key="event-2024-owens-said-unnamed-tpusa-sources-told-he">
+<div class="timeline-date">2024</div>
+<div class="timeline-desc"><a href="/events/event-2024-owens-said-unnamed-tpusa-sources-told-he.md">Owens said unnamed TPUSA sources told her the security driver known only as Christopher was hired in late 2024.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024: Owens said unnamed TPUSA sources told her the security driver known only as Christopher was hired in late 2024. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:05:19](/episodes/ep-1FhY-koMuWM.md#t-00-04-45)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -21913,6 +22047,21 @@ _Total events: 1801_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:22:01](/episodes/ep-gG4ZoYUjUc8.md#t-00-21-22)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2018-09-22-the-holy-see-and-china-signed-a-provisio" data-filter-key="event-2018-09-22-the-holy-see-and-china-signed-a-provisio">
+<div class="timeline-date">2018-09-22</div>
+<div class="timeline-desc"><a href="/events/event-2018-09-22-the-holy-see-and-china-signed-a-provisio.md">The Holy See and China signed a provisional agreement on appointing bishops, which Owens criticized in this episode.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018-09-22: The Holy See and China signed a provisional agreement on appointing bishops, which Owens criticized in this episode. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:49:37](/episodes/ep-1FhY-koMuWM.md#t-00-49-30)
 
 </details>
 </div>

@@ -20,7 +20,7 @@ date: "2025-12-12"
 
 > Erika Kirk conducted an interview with Glenn Beck from Charlie Kirk's home office.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
 
@@ -45,3 +45,11 @@ date: "2025-12-12"
 <a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=1198s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > This is in December that she's joining Glenn Beck, mid-December that she is joining Glenn Beck
+
+### 4. Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Re...
+
+**Episode:** [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md)
+**Timestamp:** [00:28:00](/episodes/ep-1FhY-koMuWM.md#t-00-27-41) 
+<a href="https://www.youtube.com/watch?v=1FhY-koMuWM&t=1680s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Yet, despite me knowing about Charlie's concerns and knowing about these message back in September and informing my audience on October 7th, months later, in December when Erika hit the circuit clearly with the express purpose of debunking what I had said, she denied the messages existence. ... And he would say, if they're going to get me, they're going to get me. But he ... was not messaging people the day before saying, I'm going to be murdered. They're coming after me. Someone's going to kill me. ... He didn't say that. ... And I have his cell phone.

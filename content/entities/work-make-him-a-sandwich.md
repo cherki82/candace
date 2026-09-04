@@ -1,6 +1,6 @@
 ---
 title: "Make Him a Sandwich"
-description: "Make Him a Sandwich (Works & Media) - 88 mentions"
+description: "Make Him a Sandwich (Works & Media) - 89 mentions"
 id: "work-make-him-a-sandwich"
 type: "WORK"
 aliases:
@@ -25,9 +25,9 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-work-make-him-a-sandwich-t-00-49-29">2025-10-27 · 00:49:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-work-make-him-a-sandwich-t-01-08-55">2026-08-21 · 01:09:05</a></strong></div>
-<div><span>Episodes</span><strong>57</strong></div>
-<div><span>Mentions</span><strong>88</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-work-make-him-a-sandwich-t-00-57-00">2026-09-03 · 00:57:26</a></strong></div>
+<div><span>Episodes</span><strong>58</strong></div>
+<div><span>Mentions</span><strong>89</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -95,6 +95,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-work-make-him-a-sandwich-t-00-53-17" style="--pulse-height:33%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-work-make-him-a-sandwich-t-00-53-02" style="--pulse-height:67%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-work-make-him-a-sandwich-t-01-08-55" style="--pulse-height:33%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-work-make-him-a-sandwich-t-00-57-00" style="--pulse-height:33%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -157,6 +158,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-work-make-him-a-sandwich-t-00-53-17) | 1 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-work-make-him-a-sandwich-t-00-53-02) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-work-make-him-a-sandwich-t-01-08-55) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-work-make-him-a-sandwich-t-00-57-00) | 1 |
 
 </details>
 </section>
@@ -164,7 +166,15 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+<summary><strong class="section-title">Raw mentions (89)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:57:26](/episodes/ep-1FhY-koMuWM.md#ent-work-make-him-a-sandwich-t-00-57-00)**
+> "That is always the way. It's always the easiest way to support us. You can also buy my book, Make Him a Sandwich, which is right there."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -715,7 +725,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <summary>Authored By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
@@ -741,6 +751,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:51:46](/episodes/ep-a-e7HC6SeK8.md#t-00-51-29): “Anyways, you guys—to get to some housekeeping: some great news. My book, Make Him a Sandwich, is not just available on the Make Him a Sandwich website—which is MakeHimASandwich.com—but now it is”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:47:10](/episodes/ep-sImMM04XdWY.md#t-00-47-02): “If you'd like to buy my new book "Make Him a Sandwich," you can head to MakeHimASandwich.com for our regularly priced books.”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:50:25](/episodes/ep-w1oqQbR_bYs.md#t-00-50-07): “if you would like to purchase my book for Christmas ... And it's MakeEmASandwich.com.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:57:26](/episodes/ep-1FhY-koMuWM.md#t-00-57-00): “That is always the way. It's always the easiest way to support us. You can also buy my book, Make Him a Sandwich, which is right there.”
 
 </details>
 
@@ -750,7 +761,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** authored this
-<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
@@ -776,6 +787,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:51:46](/episodes/ep-a-e7HC6SeK8.md#t-00-51-29): “Anyways, you guys—to get to some housekeeping: some great news. My book, Make Him a Sandwich, is not just available on the Make Him a Sandwich website—which is MakeHimASandwich.com—but now it is”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:47:10](/episodes/ep-sImMM04XdWY.md#t-00-47-02): “If you'd like to buy my new book "Make Him a Sandwich," you can head to MakeHimASandwich.com for our regularly priced books.”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:50:25](/episodes/ep-w1oqQbR_bYs.md#t-00-50-07): “if you would like to purchase my book for Christmas ... And it's MakeEmASandwich.com.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:57:26](/episodes/ep-1FhY-koMuWM.md#t-00-57-00): “That is always the way. It's always the easiest way to support us. You can also buy my book, Make Him a Sandwich, which is right there.”
 
 </details>
 

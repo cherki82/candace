@@ -5,6 +5,24 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-09-04 09:52:17
+
+**Added 1 episode(s):**
+  - `1FhY-koMuWM`: Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.
+**Added 20 new entity/entities**
+**Added 9 new event(s)**
+**Added 37 new statement(s)**
+**Added 5 new relationship(s)**
+
+**Totals:**
+- Episodes: 163
+- Entities: 4630
+- Events: 1810
+- Statements: 7200
+- Relationships: 5109
+
+---
+
 ## 2026-09-04 — Full episodes only
 
 Removed three non-episode sources and their associated references: two short

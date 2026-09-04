@@ -11,7 +11,11 @@ object: "person-shawn-ryan"
 
 ## [Brian Harpole](/entities/person-brian-harpole) interviewed by [Shawn Ryan](/entities/person-shawn-ryan)
 
-### Evidence (13 mentions)
+### Evidence (14 mentions)
+
+**[Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM)**
+
+- [00:47:55](/episodes/ep-1FhY-koMuWM#t-00-47-55): _Also, it's interesting that Brian Harpole's claim, as he told Shawn Ryan, [unclear aside about pulling it from the episode], was that Charlie (Charlie Kirk) had no fears night before. But now Turning Point USA is disputing that._
 
 **[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
 

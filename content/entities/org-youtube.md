@@ -1,6 +1,6 @@
 ---
 title: "YouTube"
-description: "YouTube (Organizations) - 156 mentions"
+description: "YouTube (Organizations) - 157 mentions"
 id: "org-youtube"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [About YouTube](https://about.youtube/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-youtube-t-00-41-28">2025-09-18 · 00:42:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-youtube-t-00-25-30">2026-08-21 · 00:25:41</a></strong></div>
-<div><span>Episodes</span><strong>71</strong></div>
-<div><span>Mentions</span><strong>156</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-youtube-t-00-56-19">2026-09-03 · 00:56:42</a></strong></div>
+<div><span>Episodes</span><strong>72</strong></div>
+<div><span>Mentions</span><strong>157</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -102,6 +102,7 @@ Source: [About YouTube](https://about.youtube/)
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-youtube-t-00-37-22" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-youtube-t-00-47-30" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-youtube-t-00-20-47" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-youtube-t-00-56-19" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -178,6 +179,7 @@ Source: [About YouTube](https://about.youtube/)
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-youtube-t-00-37-22) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-youtube-t-00-47-30) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-youtube-t-00-20-47) | 2 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-youtube-t-00-56-19) | 1 |
 
 </details>
 </section>
@@ -189,7 +191,15 @@ Source: [About YouTube](https://about.youtube/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (156)</strong></summary>
+<summary><strong class="section-title">Raw mentions (157)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:56:42](/episodes/ep-1FhY-koMuWM.md#ent-org-youtube-t-00-56-19)**
+> "We are only at this point because of your patience, because of your steady interest, because of you guys not letting this go, because of all of the investigators, smaller YouTube channels, bigger YouTube channels coming together and saying that this is an evil that cannot stand."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>

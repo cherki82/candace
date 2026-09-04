@@ -1,6 +1,6 @@
 ---
 title: "Internal Revenue Service"
-description: "Internal Revenue Service (Organizations) - 171 mentions"
+description: "Internal Revenue Service (Organizations) - 175 mentions"
 id: "org-internal-revenue-service"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-internal-revenue-service-t-01-05-44">2025-09-16 · 01:06:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-internal-revenue-service-t-00-41-10">2026-08-31 · 00:41:44</a></strong></div>
-<div><span>Episodes</span><strong>50</strong></div>
-<div><span>Mentions</span><strong>171</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-internal-revenue-service-t-00-21-29">2026-09-03 · 00:21:29</a></strong></div>
+<div><span>Episodes</span><strong>51</strong></div>
+<div><span>Mentions</span><strong>175</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -85,6 +85,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-internal-revenue-service-t-02-31-28" style="--pulse-height:80%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-14-47" style="--pulse-height:80%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 4 mentions" title="2026-08-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-internal-revenue-service-t-00-41-10" style="--pulse-height:80%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-internal-revenue-service-t-00-20-46" style="--pulse-height:80%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 4 mentions" title="2026-09-03 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -140,6 +141,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-internal-revenue-service-t-02-31-28) | 4 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-14-47) | 4 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-internal-revenue-service-t-00-41-10) | 4 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-internal-revenue-service-t-00-20-46) | 4 |
 
 </details>
 </section>
@@ -147,7 +149,24 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (171)</strong></summary>
+<summary><strong class="section-title">Raw mentions (175)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (4 mentions)</summary>
+
+**[00:21:00](/episodes/ep-1FhY-koMuWM.md#ent-org-internal-revenue-service-t-00-20-46)**
+> "The October tax deadline is already approaching and now is the perfect time to take action. Every month you wait, IRS penalties and interest can continue adding to what you owe."
+
+**[00:21:08](/episodes/ep-1FhY-koMuWM.md#ent-org-internal-revenue-service-t-00-20-46)**
+> "...igger tax problem. Before the IRS sends more letters or takes collection action, ca..."
+
+**[00:21:17](/episodes/ep-1FhY-koMuWM.md#ent-org-internal-revenue-service-t-00-20-46)**
+> "... unfiled returns, and serious IRS problems."
+
+**[00:21:29](/episodes/ep-1FhY-koMuWM.md#ent-org-internal-revenue-service-t-00-21-29)**
+> "Right now you can get a free IRS investigative call to find out what you owe and w..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (4 mentions)</summary>

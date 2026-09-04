@@ -1,6 +1,6 @@
 ---
 title: "Burton Hibbs"
-description: "Burton Hibbs (People) - 39 mentions"
+description: "Burton Hibbs (People) - 41 mentions"
 id: "person-burton-hibbs"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-burton-hibbs-t-00-32-55">2025-11-12 · 00:32:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-burton-hibbs-t-00-54-13">2026-09-02 · 00:54:25</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-burton-hibbs-t-00-52-56">2026-09-03 · 00:52:56</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
@@ -45,6 +45,7 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-burton-hibbs-t-00-12-03" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-05-10" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 21 mentions" title="2026-09-01 · 21 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-burton-hibbs-t-00-54-13" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-burton-hibbs-t-00-03-05" style="--pulse-height:10%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-burton-hibbs-t-00-12-03) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-burton-hibbs-t-00-05-10) | 21 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-burton-hibbs-t-00-54-13) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-burton-hibbs-t-00-03-05) | 2 |
 
 </details>
 </section>
@@ -70,7 +72,18 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>
+
+**[00:03:05](/episodes/ep-1FhY-koMuWM.md#ent-person-burton-hibbs-t-00-03-05)**
+> "Didn't strike me as odd, but I will say what does strike me as interesting is that Butch Hibbs (Burton Hibbs) is matching them. Yeah, I asked myself that a while ago. I said, what are the odds that Butch Hibbs (Burton Hibbs), the mountain man, just to be clear, not the CIA or the Mossad man, he just likes the mountains, what are the odds that he shows up on a whim in matching attire? Okay, here's Butch (Burton Hibbs). Obviously,"
+
+**[00:52:56](/episodes/ep-1FhY-koMuWM.md#ent-person-burton-hibbs-t-00-52-56)**
+> "... Kirk meets the Mountain Man (Burton Hibbs)."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>

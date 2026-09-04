@@ -17,7 +17,7 @@ time: "18:00"
 
 > Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi.
 
-## Mentioned In (7 times)
+## Mentioned In (8 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -74,3 +74,11 @@ time: "18:00"
 <a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=787s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So he was asking for debate tips from people like Josh Hammer and rabbis that are based in Israel.
+
+### 8. Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Re...
+
+**Episode:** [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md)
+**Timestamp:** [00:34:47](/episodes/ep-1FhY-koMuWM.md#t-00-34-47) 
+<a href="https://www.youtube.com/watch?v=1FhY-koMuWM&t=2087s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> So, the next day we had a meeting. ... a Zoom meeting with a couple of people in Israel and a couple of people in the room. ... and another person, an expert on Israel in the United States, and we were asking them, and Charlie was asking them, tell me your perspective on what's going on with Hamas now and the Israeli situation. ... Tell me, I want to be better able to answer questions when I get questions on this. So contrary to popular opinion, some popular opinion that Charlie was giving up on Israel, that's not true. ... He was trying to prepare himself to know the facts and be better able to answer those questions. ... This is the day before he was murdered. ... We're in this meeting. I'm in the meeting with him.

@@ -11,11 +11,15 @@ object: "person-candace-owens"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (49 mentions)
+### Evidence (50 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
 - [00:13:41](/episodes/ep-1CFDtD0IgEg#t-00-13-41): _I can't figure out why us bringing forth more viable leads is so naturally upsetting to Turning Point USA._
+
+**[Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM)**
+
+- [00:23:00](/episodes/ep-1FhY-koMuWM#t-00-23-00): _very intentional is that Turning Point will not acknowledge its authenticity and that Turning Point did not choose to instead, since their whole narrative that they have been trying to push is that a leftist did this, why didn't they release this immediately? Why didn't Turning Point USA give this to New York Post, give this to the Daily Mail, say, aha, here it is, evidence that he was terrified of the left? No. To the contrary, they did the exact opposite._
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 

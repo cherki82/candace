@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 261 mentions"
+description: "Utah Valley University (Organizations) - 264 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -27,11 +27,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-utah-valley-university-t-00-32-09">2026-09-02 · 00:32:42</a></strong></div>
-<div><span>Episodes</span><strong>78</strong></div>
-<div><span>Mentions</span><strong>261</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-utah-valley-university-t-00-52-56">2026-09-03 · 00:53:34</a></strong></div>
+<div><span>Episodes</span><strong>79</strong></div>
+<div><span>Mentions</span><strong>264</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>86</strong></div>
+<div><span>Statements about</span><strong>89</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -118,6 +118,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-utah-valley-university-t-00-29-08" style="--pulse-height:22%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-01-03" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 9 mentions" title="2026-09-01 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-utah-valley-university-t-00-10-37" style="--pulse-height:22%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-utah-valley-university-t-00-03-44" style="--pulse-height:33%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -201,6 +202,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-utah-valley-university-t-00-29-08) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-01-03) | 9 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-utah-valley-university-t-00-10-37) | 2 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-utah-valley-university-t-00-03-44) | 3 |
 
 </details>
 </section>
@@ -212,7 +214,21 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (261)</strong></summary>
+<summary><strong class="section-title">Raw mentions (264)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3 mentions)</summary>
+
+**[00:03:53](/episodes/ep-1FhY-koMuWM.md#ent-org-utah-valley-university-t-00-03-44)**
+> "Anyway, we still do not, however, have a positive ID on a rather crucial character, Christopher (security driver; surname unverified), the security member that was on Charlie (Charlie Kirk) and who drove him to the event at UVU with Mikey McCoy (Michael McCoy) and Nate Walker and Frank Turek in the backseat. Now, I want to show you guys some clearer images of Christopher (security driver; surname unverified) because I realized yesterday we only showed you one blurry one and I intended to show you."
+
+**[00:52:56](/episodes/ep-1FhY-koMuWM.md#ent-org-utah-valley-university-t-00-52-56)**
+> "...member when they pulled up to UVU, Charlie (Charlie Kirk)'s SUV pulled forward and ..."
+
+**[00:53:34](/episodes/ep-1FhY-koMuWM.md#ent-org-utah-valley-university-t-00-52-56)**
+> "...did you get my email with the UVU documents for event planning?"
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
@@ -1592,7 +1608,21 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (86)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (89)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3)</summary>
+
+- [00:24:53](/episodes/ep-1FhY-koMuWM.md#t-00-24-31) (Claim) **Dan Flood** (via read message): ["In the disputed exchange Owens read, a sender she tentatively identifi..."](/statements/statement-0b6967804f06.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:53:34](/episodes/ep-1FhY-koMuWM.md#t-00-52-56) (Claim) **Talks with Tiff (commenter; identity unverified)** (via read message): ["A commenter using Talks with Tiff said planning documents showed Turni..."](/statements/statement-2330d1d19981.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:53:55](/episodes/ep-1FhY-koMuWM.md#t-00-53-41) (Claim) **Candace Owens** (via paraphrase): ["Owens said an unnamed source involved in planning told her Turning Poi..."](/statements/statement-5e4a2e52e3c9.md)
+  - Also about: [UVU event-planning source (identity unverified; episode 1FhY-koMuWM)](/entities/anon-src-1FhY-koMuWM-003.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Joe Kent"
-description: "Joe Kent (People) - 108 mentions"
+description: "Joe Kent (People) - 109 mentions"
 id: "person-joe-kent"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-20-35">2025-10-29 · 00:20:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-joe-kent-t-00-55-00">2026-08-21 · 00:55:00</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>108</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-joe-kent-t-00-35-59">2026-09-03 · 00:36:17</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>109</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
-<div><span>Statements about</span><strong>26</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>36</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -56,6 +56,7 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-joe-kent-t-01-44-27" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-joe-kent-t-00-33-14" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-joe-kent-t-00-55-00" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-joe-kent-t-00-35-59" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +83,7 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-joe-kent-t-01-44-27) | 1 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-joe-kent-t-00-33-14) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-joe-kent-t-00-55-00) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-joe-kent-t-00-35-59) | 1 |
 
 </details>
 </section>
@@ -93,7 +95,15 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+<summary><strong class="section-title">Raw mentions (109)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:36:17](/episodes/ep-1FhY-koMuWM.md#ent-person-joe-kent-t-00-35-59)**
+> "Andrew (Andrew Kolvet) clearly was concerned enough about being on this text thread that he sent it to Joe Kent."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -874,7 +884,15 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Joe Kent (26)</strong></summary>
+<summary><strong class="section-title">Statements about Joe Kent (27)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>
+
+- [00:35:59](/episodes/ep-1FhY-koMuWM.md#t-00-35-59) (Claim) **Candace Owens** (via paraphrase): ["Owens said Andrew Kolvet forwarded Kirk’s message about leaving the pr..."](/statements/statement-261594754578.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md)
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1)</summary>

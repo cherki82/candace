@@ -11,11 +11,15 @@ object: "person-candace-owens"
 
 ## [Blake Neff](/entities/person-blake-neff) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (31 mentions)
+### Evidence (32 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
 - [00:47:30](/episodes/ep-1CFDtD0IgEg#t-00-47-30): _blake (Blake Neff) is just so obviously someone that charlie (Charlie Kirk) and i would have been like had a nickname for because how could you not like we watch blake (Blake Neff) here and we're just sort of like how is this how is it possible that someone could be so fundamentally unlikable and so fundamentally unbelievable in everything that he says and does total lack of talent_
+
+**[Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM)**
+
+- [00:51:02](/episodes/ep-1FhY-koMuWM#t-00-51-02): _And like I said, it reflects where they are at. They are not behaving honestly. They are lying repeatedly, especially Blake Neff. There's nobody that gets community noted faster for trying to lie to the public about various aspects of this case, lying about who Charlie (Charlie Kirk) was friendships and like who is who is friends with. And like I said, you sense a desperation._
 
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 

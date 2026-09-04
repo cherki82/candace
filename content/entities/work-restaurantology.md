@@ -22,7 +22,7 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -156,7 +156,15 @@ Source: [Restaurantology — Restaurant Operator Summit in Utah](https://restaur
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Restaurantology (4)</strong></summary>
+<summary><strong class="section-title">Statements about Restaurantology (5)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>
+
+- [00:35:34](/episodes/ep-1FhY-koMuWM.md#t-00-35-30) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said he was in Utah the next day because Kirk had been inv..."](/statements/statement-7a73f19f579c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>

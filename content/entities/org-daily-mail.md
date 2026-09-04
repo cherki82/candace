@@ -1,6 +1,6 @@
 ---
 title: "Daily Mail"
-description: "Daily Mail (Organizations) - 73 mentions"
+description: "Daily Mail (Organizations) - 74 mentions"
 id: "org-daily-mail"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40">2025-09-18 · 00:44:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-daily-mail-t-00-21-34">2026-08-06 · 00:21:34</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>73</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-daily-mail-t-00-22-39">2026-09-03 · 00:23:00</a></strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>74</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>25</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -59,6 +59,7 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-org-daily-mail-t-00-03-04" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-daily-mail-t-00-14-49" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-org-daily-mail-t-00-21-34" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-daily-mail-t-00-22-39" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -92,6 +93,7 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-daily-mail-t-00-03-04) | 1 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-daily-mail-t-00-14-49) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-daily-mail-t-00-21-34) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-daily-mail-t-00-22-39) | 1 |
 
 </details>
 </section>
@@ -103,7 +105,15 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:23:00](/episodes/ep-1FhY-koMuWM.md#ent-org-daily-mail-t-00-22-39)**
+> "very intentional is that Turning Point will not acknowledge its authenticity and that Turning Point did not choose to instead, since their whole narrative that they have been trying to push is that a leftist did this, why didn't they release this immediately? Why didn't Turning Point USA give this to New York Post, give this to the Daily Mail, say, aha, here it is, evidence that he was terrified of the left? No. To the contrary, they did the exact opposite."
+
+</details>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>

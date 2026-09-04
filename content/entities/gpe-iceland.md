@@ -1,6 +1,6 @@
 ---
 title: "Iceland"
-description: "Iceland (Places) - 14 mentions"
+description: "Iceland (Places) - 17 mentions"
 id: "gpe-iceland"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [Iceland | History, Maps, Flag, Population, Climate, & Facts](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-iceland-t-00-56-19">2026-06-10 · 00:56:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-iceland-t-00-00-01">2026-09-01 · 00:00:09</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-iceland-t-00-42-42">2026-09-03 · 00:43:14</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [Iceland | History, Maps, Flag, Population, Climate, & Facts](https://ww
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-iceland-t-00-48-49" style="--pulse-height:33%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 3 mentions" title="2026-08-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-iceland-t-00-13-01" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 9 mentions" title="2026-08-31 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-iceland-t-00-00-01" style="--pulse-height:11%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-iceland-t-00-00-37" style="--pulse-height:33%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Iceland | History, Maps, Flag, Population, Climate, & Facts](https://ww
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-iceland-t-00-48-49) | 3 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-iceland-t-00-13-01) | 9 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-iceland-t-00-00-01) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-iceland-t-00-00-37) | 3 |
 
 </details>
 </section>
@@ -51,7 +53,21 @@ Source: [Iceland | History, Maps, Flag, Population, Climate, & Facts](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3 mentions)</summary>
+
+**[00:00:54](/episodes/ep-1FhY-koMuWM.md#ent-gpe-iceland-t-00-00-37)**
+> "Andrew Wilson released while I was in Iceland, the alleged message from Charlie (Charlie Kirk) night before his death, allegedly sent via Telegram, wherein Charlie (Charlie Kirk) says he's afraid the left is going to kill him. That message is exceedingly problematic, but not for the reasons that you think. Turning Point walked right into a most wonderful trap, and I'm going to explain to you guys why. Welcome back to Candace."
+
+**[00:22:19](/episodes/ep-1FhY-koMuWM.md#ent-gpe-iceland-t-00-21-55)**
+> "Anyway, so while I was in Iceland, Turning Point USA, namely Andrew Kolvet, greenli..."
+
+**[00:43:14](/episodes/ep-1FhY-koMuWM.md#ent-gpe-iceland-t-00-42-42)**
+> "...stin Baldoni at an airport in Iceland, your Ghost Phone can still help you find the nea..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>

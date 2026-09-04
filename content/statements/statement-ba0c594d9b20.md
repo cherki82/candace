@@ -24,7 +24,7 @@ type: "factual_claim"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
 
@@ -41,6 +41,14 @@ type: "factual_claim"
 <a href="https://www.youtube.com/watch?v=E7P2ShoYDUA&t=1170s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And he would say, if they're going to get me, they're going to get me. But he was not messaging people the day before saying, I'm going to be murdered. They're coming after me.
+
+### 3. Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Re...
+
+**Episode:** [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md)
+**Timestamp:** [00:29:20](/episodes/ep-1FhY-koMuWM.md#t-00-29-00) 
+<a href="https://www.youtube.com/watch?v=1FhY-koMuWM&t=1760s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> And he would say, if they're going to get me, they're going to get me. But he ... was not messaging people the day before saying, I'm going to be murdered. They're coming after me. Someone's going to kill me. ... He didn't say that. ... And I have his cell phone. ... Didn't say that.
 
 ## Verification
 

@@ -23,7 +23,7 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 <div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>8</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -343,18 +343,6 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:00:53](/episodes/ep-_vg7ucP1E0g.md#t-00-00-28): “You should know more about how they met. Plus, later on, on that same topic, Matt Walsh tweeted a thing. ... He's a staunch defender of Erika (Erika Kirk), which made the thing that he tweeted last night ironic to say the least. Welcome back to Bride of Charlie (Charlie Kirk).”
-
-</details>
-
-</details>
-
-<details>
-<summary>Worked With (1)</summary>
-
-- **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:00:40](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40): “Yesterday on X, I don't think I've ever done this, by the way, but I did actually have to slap down my former colleague, Matt Walsh, when he perpetuated one of the more disingenuous narratives out there, because I just want to be frank here.”
 
 </details>
 

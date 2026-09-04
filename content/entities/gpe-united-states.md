@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1928 mentions"
+description: "United States (Places) - 1930 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -28,9 +28,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-united-states-t-01-03-35">2026-09-02 · 01:03:35</a></strong></div>
-<div><span>Episodes</span><strong>158</strong></div>
-<div><span>Mentions</span><strong>1,928</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-united-states-t-00-34-47">2026-09-03 · 00:34:59</a></strong></div>
+<div><span>Episodes</span><strong>159</strong></div>
+<div><span>Mentions</span><strong>1,930</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>170</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
@@ -199,6 +199,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-united-states-t-00-07-38" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 3 mentions" title="2026-08-31 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-united-states-t-00-16-14" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-united-states-t-01-03-35" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-united-states-t-00-19-28" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -362,6 +363,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-united-states-t-00-07-38) | 3 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-united-states-t-00-16-14) | 2 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-united-states-t-01-03-35) | 3 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-united-states-t-00-19-28) | 2 |
 
 </details>
 </section>
@@ -373,7 +375,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1928)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1930)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>
+
+**[00:20:06](/episodes/ep-1FhY-koMuWM.md#ent-gpe-united-states-t-00-19-28)**
+> "Their grass-fed tallow is sourced from ranchers in Montana and every product is batched and filled right here in the USA."
+
+**[00:34:59](/episodes/ep-1FhY-koMuWM.md#ent-gpe-united-states-t-00-34-47)**
+> "...n, an expert on Israel in the United States, and we were asking them, and Charlie (Charlie Ki..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3 mentions)</summary>

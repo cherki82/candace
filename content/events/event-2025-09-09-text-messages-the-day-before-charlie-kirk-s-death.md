@@ -12,7 +12,7 @@ date: "2025-09-09"
 
 > Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.
 
-## Mentioned In (11 times)
+## Mentioned In (12 times)
 
 ### 1. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
 
@@ -101,3 +101,11 @@ date: "2025-09-09"
 <a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=770s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now he's texting people saying that he thinks he's going to be killed, that they're going to kill him.
+
+### 12. Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Re...
+
+**Episode:** [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md)
+**Timestamp:** [00:25:16](/episodes/ep-1FhY-koMuWM.md#t-00-25-16) 
+<a href="https://www.youtube.com/watch?v=1FhY-koMuWM&t=1516s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> And Charlie says, thank you. Threats are higher than ever. And then that gets cut off. And Dan says, I have 11 on site. ... Then Charlie said, okay, great. Delicately remind them that they are there for one person, security only. ... I'm somewhat worried about the left trying to kill me. Just said separately by itself there. ... In fact, when Andrew Kolvet told me this information because he was my source and he told me he received one message and Dan Flood received the other and I covered for him and said it was a donor as well as somebody close to Turning Point USA, I specifically asked Andrew Kolvet who Charlie meant by they.

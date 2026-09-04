@@ -33,7 +33,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <div><span>Mentions</span><strong>104</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>24</strong></div>
-<div><span>Relationships</span><strong>28</strong></div>
+<div><span>Relationships</span><strong>27</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -592,7 +592,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 <details>
-<summary>Affiliated With (3)</summary>
+<summary>Affiliated With (2)</summary>
 
 - **[Falkirk Center](/entities/org-falkirk-center.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -605,13 +605,6 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:32:53](/episodes/ep-ZZGWo6oDscc.md#t-00-32-44): “she's soon going to be speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make Heaven Crowded Tour ... they're partnering with the Harvest Church to do this.”
-
-</details>
-
-- **[James Kaddis](/entities/person-james-kaddis.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:54](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “And notably, you may not have recognized who this was. This is Pastor James Kaddis. He's the senior pastor of Calvary Chapel in Signal Hill, California. ... He is also one of Erika Kirk's many problematic TPUSA faith pastors. He also hosts a show with her with that like fledgling fashion brand that she has, Bible in 365.”
 
 </details>
 

@@ -11,10 +11,10 @@ description: "A single reviewed branching timeline of on-channel alternatives to
 <p class="thread-summary">A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.</p>
 
 <div class="thread-detail-stats">
-<div><strong>3629</strong><span>reviewed turns</span></div>
-<div><strong>159</strong><span>source episodes</span></div>
-<div><strong>6175</strong><span>transitions</span></div>
-<div><strong>2026-09-02</strong><span>latest update</span></div>
+<div><strong>3637</strong><span>reviewed turns</span></div>
+<div><strong>160</strong><span>source episodes</span></div>
+<div><strong>6183</strong><span>transitions</span></div>
+<div><strong>2026-09-03</strong><span>latest update</span></div>
 </div>
 
 <section class="thread-explorer" data-thread-browser data-index-path="/assets/threads/thread-charlie-kirk-assassination-alternative-theories.json" aria-label="Thread evidence explorer">
@@ -24,7 +24,7 @@ description: "A single reviewed branching timeline of on-channel alternatives to
 </section>
 
 <details class="thread-background"><summary>About this thread · sources, entities &amp; events</summary>
-<section class="thread-entity-roster" aria-labelledby="thread-entities-heading"><div class="thread-entity-heading"><div><span class="research-kicker">People, places, and organizations</span><h2 id="thread-entities-heading">Key entities</h2></div><strong>998<span> connected records</span></strong></div><p class="thread-entity-primary"><a href="/entities/person-charlie-kirk">Charlie Kirk</a> · <a href="/entities/person-candace-owens">Candace Owens</a> · <a href="/entities/person-bill-ackman">Bill Ackman</a> · <a href="/entities/person-xaviaer-durousseau">Xaviaer DuRousseau</a> · <a href="/entities/person-seth-dillon">Seth Dillon</a> · <a href="/entities/gpe-provo">Provo</a> · <a href="/entities/person-brian-harpole">Brian Harpole</a> · <a href="/entities/person-frank-turek">Frank Turek</a> · <a href="/entities/org-turning-point-usa">Turning Point USA</a> · <a href="/entities/org-utah-valley-university">Utah Valley University</a> · <a href="/entities/person-zach-de-gregorio">Zach De Gregorio</a> · <a href="/entities/person-tyler-robinson">Tyler Robinson</a></p><p class="thread-entity-note">Search names, organizations, sources, and propositions in the evidence browser below.</p></section>
+<section class="thread-entity-roster" aria-labelledby="thread-entities-heading"><div class="thread-entity-heading"><div><span class="research-kicker">People, places, and organizations</span><h2 id="thread-entities-heading">Key entities</h2></div><strong>1,001<span> connected records</span></strong></div><p class="thread-entity-primary"><a href="/entities/person-charlie-kirk">Charlie Kirk</a> · <a href="/entities/person-candace-owens">Candace Owens</a> · <a href="/entities/person-bill-ackman">Bill Ackman</a> · <a href="/entities/person-xaviaer-durousseau">Xaviaer DuRousseau</a> · <a href="/entities/person-seth-dillon">Seth Dillon</a> · <a href="/entities/gpe-provo">Provo</a> · <a href="/entities/person-brian-harpole">Brian Harpole</a> · <a href="/entities/person-frank-turek">Frank Turek</a> · <a href="/entities/org-turning-point-usa">Turning Point USA</a> · <a href="/entities/org-utah-valley-university">Utah Valley University</a> · <a href="/entities/person-zach-de-gregorio">Zach De Gregorio</a> · <a href="/entities/person-tyler-robinson">Tyler Robinson</a></p><p class="thread-entity-note">Search names, organizations, sources, and propositions in the evidence browser below.</p></section>
 
 <section class="thread-event-register">
 <span class="research-kicker">Event time</span>
@@ -101,6 +101,22 @@ description: "A single reviewed branching timeline of on-channel alternatives to
 <article class="thread-event-card">
 <time datetime="2026-08-11">2026-08-11</time>
 <a href="/events/event-2026-08-11-tyler-robinsons-defense-filed-a-brief-se">Tyler Robinson&#x27;s defense filed a brief seeking dismissal of the aggravated-murder allegation and removal of the aggravating factor after the preliminary hearing</a>
+</article>
+<article class="thread-event-card">
+<time datetime="2025-09-10">2025-09-10</time>
+<a href="/events/event-2025-09-10-owens-said-footage-around-1211-pm-showed">Owens said footage around 12:11 p.m. showed Christopher accessing the SUV’s trunk roughly twelve minutes before Kirk was shot; the object handled was unclear.</a>
+</article>
+<article class="thread-event-card">
+<time datetime="2025-09-10">2025-09-10</time>
+<a href="/events/event-2025-09-10-owens-identified-alex-faria-as-the-perso">Owens identified Alex Faria as the person who fell from the rear of Kirk’s SUV as a backpack fell out; the identity remains unverified.</a>
+</article>
+<article class="thread-event-card">
+<time datetime="2025-09-10">2025-09-10</time>
+<a href="/events/event-2025-09-10-owens-identified-chrissy-pacheco-as-the-">Owens identified Chrissy Pacheco as the woman who retrieved a backpack after it fell from Kirk’s SUV.</a>
+</article>
+<article class="thread-event-card">
+<time datetime="2025-09-09">2025-09-09</time>
+<a href="/events/event-2025-09-09-josh-hammer-said-charlie-kirk-held-a-zoo">Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi.</a>
 </article>
 </section>
 </details>

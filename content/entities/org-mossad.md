@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 98 mentions"
+description: "Mossad (Organizations) - 100 mentions"
 id: "org-mossad"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49">2025-09-15 · 00:30:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-mossad-t-00-21-57">2026-09-01 · 00:22:28</a></strong></div>
-<div><span>Episodes</span><strong>42</strong></div>
-<div><span>Mentions</span><strong>98</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-mossad-t-00-03-44">2026-09-03 · 00:03:44</a></strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>100</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>40</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -77,6 +77,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-mossad-t-00-47-40" style="--pulse-height:10%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-org-mossad-t-00-50-30" style="--pulse-height:10%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-mossad-t-00-06-52" style="--pulse-height:60%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 6 mentions" title="2026-09-01 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-mossad-t-00-03-05" style="--pulse-height:20%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -124,6 +125,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-mossad-t-00-47-40) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-mossad-t-00-50-30) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-mossad-t-00-06-52) | 6 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-mossad-t-00-03-05) | 2 |
 
 </details>
 </section>
@@ -135,7 +137,18 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (98)</strong></summary>
+<summary><strong class="section-title">Raw mentions (100)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>
+
+**[00:03:05](/episodes/ep-1FhY-koMuWM.md#ent-org-mossad-t-00-03-05)**
+> "Didn't strike me as odd, but I will say what does strike me as interesting is that Butch Hibbs (Burton Hibbs) is matching them. Yeah, I asked myself that a while ago. I said, what are the odds that Butch Hibbs (Burton Hibbs), the mountain man, just to be clear, not the CIA or the Mossad man, he just likes the mountains, what are the odds that he shows up on a whim in matching attire? Okay, here's Butch (Burton Hibbs). Obviously,"
+
+**[00:03:44](/episodes/ep-1FhY-koMuWM.md#ent-org-mossad-t-00-03-44)**
+> "It's just interesting. Not exactly what I would call mountain shoes, but I mean, I guess I wouldn't call them Mossad shoes either."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (6 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 272 mentions"
+description: "Frank Turek (People) - 284 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23">2025-09-22 · 00:54:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-frank-turek-t-00-54-57">2026-09-02 · 00:55:04</a></strong></div>
-<div><span>Episodes</span><strong>56</strong></div>
-<div><span>Mentions</span><strong>272</strong></div>
-<div><span>Statements by</span><strong>35</strong></div>
-<div><span>Statements about</span><strong>58</strong></div>
-<div><span>Relationships</span><strong>48</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-52-56">2026-09-03 · 00:53:09</a></strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>284</strong></div>
+<div><span>Statements by</span><strong>37</strong></div>
+<div><span>Statements about</span><strong>61</strong></div>
+<div><span>Relationships</span><strong>50</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -92,6 +92,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-frank-turek-t-00-47-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-08-58" style="--pulse-height:32%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 8 mentions" title="2026-09-01 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-frank-turek-t-00-54-13" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-03-44" style="--pulse-height:44%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 11 mentions" title="2026-09-03 · 11 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -153,6 +154,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-frank-turek-t-00-47-19) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-08-58) | 8 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-frank-turek-t-00-54-13) | 2 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-03-44) | 11 |
 
 </details>
 </section>
@@ -164,7 +166,45 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (272)</strong></summary>
+<summary><strong class="section-title">Raw mentions (284)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (11 mentions)</summary>
+
+**[00:03:53](/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-03-44)**
+> "...el McCoy) and Nate Walker and Frank Turek in the backseat. Now, I want to show you guys som..."
+
+**[00:13:23](/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-13-16)**
+> "...s to get into the trunk where Frank Turek is, but then he falls out and we can show you tha..."
+
+**[00:14:21](/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-14-01)**
+> "...ircumstances. And speaking of Frank Turek, there are a lot of things that he has said about..."
+
+**[00:32:46](/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-32-15)**
+> "... we have Josh Hammer, we have Frank Turek, we have Rabbi Wolicki (Pesach Wolicki)."
+
+**[00:34:42](/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-34-21)**
+> "Here's Frank (Frank Turek) describing who was on the call. Take a listen."
+
+**[00:35:52](/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-34-21)**
+> "... "We can come out of this."] [Frank Turek: "Charlie (Charlie Kirk), could you"]"
+
+**[00:35:59](/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-35-59)**
+> "... there's what we have. Frank (Frank Turek) telling us a story that Charlie (Charlie Kirk) h..."
+
+**[00:38:44](/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-38-42)**
+> "...call. He needs Blake Neff and Frank Turek. Look at these guys."
+
+**[00:38:52](/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-38-42)**
+> "He needs Blake Neff and Frank Turek and Andrew Kolvet helping him to fashion his deba..."
+
+**[00:50:33](/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-50-33)**
+> "...just watch 10-second clips of Frank Turek, Andrew Wilson, and Erika Kirk and realize life c..."
+
+**[00:53:09](/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-52-56)**
+> "...rk) walks forward with Frank (Frank Turek) and other security"
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
@@ -1324,7 +1364,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -1341,6 +1381,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:47:58](/episodes/ep-ChuWo-n49B8.md#t-00-47-58): “These are, you're looking at turning point USA faith and they want access to children. They're all wacky. They're all crazy pastors. You got Frank Turek open saying, signaling that I should be struck down using the Bible, the good Bible, of course, to do it.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:48:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-48-17): “Then we have Frank Turek (Frank Turek speaking), who engages in this same sort of act of psychological manipulation, in my viewpoint, and he defends Mikey McCoy.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:18:53](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21): “That is just amazing to me that Frank Turek was fine to start a FaceTime call from the emergency room amidst all of that chaos while Charlie (Charlie Kirk) was dying, Amidst all of that chaos, while Charlie (Charlie Kirk) was dying, Brian Harpole was jumping on top of him, presumably. ... He's making probably accurate time estimates there for a military man, Frank Turek. It just seems to me to be like an extraordinarily inappropriate thing to do. ... Starting a FaceTime call with Jack Hibbs. What do I know? That's just my opinion, not a fact.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01): “Now, I do want to say regarding Alex Faria falling out of that car, it's a bit of a wonder that a pastor would think it's wise for him to be in the car above security on the way to the hospital. You would think that he would yield to security and say, OK, I'll find my own way. ... I think that feels mildly inappropriate, given the circumstances. And speaking of Frank Turek, there are a lot of things that he has said about that day that are questionable. I mean, definitely the CPR, the CPR story to me is the most senseless. ... His excuse that Brian Harpole was distracted and forgot that he conducted CPR on a dying person in the veh— ... In the very small vehicle, I don't think Harpole (Brian Harpole) just forgot that. I actually think Harpole (Brian Harpole) told the truth between the two of them, if I'm being honest, when he said that no CPR was conducted in the car. I don't think he was distracted.”
 
 </details>
 
@@ -1510,12 +1551,19 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Spoke With (1)</summary>
+<summary>Spoke With (2)</summary>
 
 - **[Jack Hibbs](/entities/person-jack-hibbs.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:28](/episodes/ep-ZkDO-MRLUco.md#t-00-15-28): “That was after we got to the hospital as ... I was in the ... Emergency room after we got Charlie (Charlie Kirk) there and ... I called ... You yeah ... Then I FaceTimed you. I faced, we were talking, you”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:34:47](/episodes/ep-1FhY-koMuWM.md#t-00-34-47): “So, the next day we had a meeting. ... a Zoom meeting with a couple of people in Israel and a couple of people in the room. ... and another person, an expert on Israel in the United States, and we were asking them, and Charlie (Charlie Kirk) was asking them, tell me your perspective on what's going on with Hamas now and the Israeli situation. ... Tell me, I want to be better able to answer questions when I get questions on this. So contrary to popular opinion, some popular opinion that Charlie (Charlie Kirk) was giving up on Israel, that's not true. ... This is the day before he was murdered. ... We're in this meeting. I'm in the meeting with him.”
 
 </details>
 
@@ -1534,7 +1582,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Referenced By (24)</summary>
+<summary>Referenced By (25)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1582,7 +1630,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -1599,6 +1647,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:47:58](/episodes/ep-ChuWo-n49B8.md#t-00-47-58): “These are, you're looking at turning point USA faith and they want access to children. They're all wacky. They're all crazy pastors. You got Frank Turek open saying, signaling that I should be struck down using the Bible, the good Bible, of course, to do it.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:48:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-48-17): “Then we have Frank Turek (Frank Turek speaking), who engages in this same sort of act of psychological manipulation, in my viewpoint, and he defends Mikey McCoy.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:18:53](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21): “That is just amazing to me that Frank Turek was fine to start a FaceTime call from the emergency room amidst all of that chaos while Charlie (Charlie Kirk) was dying, Amidst all of that chaos, while Charlie (Charlie Kirk) was dying, Brian Harpole was jumping on top of him, presumably. ... He's making probably accurate time estimates there for a military man, Frank Turek. It just seems to me to be like an extraordinarily inappropriate thing to do. ... Starting a FaceTime call with Jack Hibbs. What do I know? That's just my opinion, not a fact.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01): “Now, I do want to say regarding Alex Faria falling out of that car, it's a bit of a wonder that a pastor would think it's wise for him to be in the car above security on the way to the hospital. You would think that he would yield to security and say, OK, I'll find my own way. ... I think that feels mildly inappropriate, given the circumstances. And speaking of Frank Turek, there are a lot of things that he has said about that day that are questionable. I mean, definitely the CPR, the CPR story to me is the most senseless. ... His excuse that Brian Harpole was distracted and forgot that he conducted CPR on a dying person in the veh— ... In the very small vehicle, I don't think Harpole (Brian Harpole) just forgot that. I actually think Harpole (Brian Harpole) told the truth between the two of them, if I'm being honest, when he said that no CPR was conducted in the car. I don't think he was distracted.”
 
 </details>
 
@@ -1726,6 +1775,13 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 </details>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:34:47](/episodes/ep-1FhY-koMuWM.md#t-00-34-47): “So, the next day we had a meeting. ... a Zoom meeting with a couple of people in Israel and a couple of people in the room. ... and another person, an expert on Israel in the United States, and we were asking them, and Charlie (Charlie Kirk) was asking them, tell me your perspective on what's going on with Hamas now and the Israeli situation. ... Tell me, I want to be better able to answer questions when I get questions on this. So contrary to popular opinion, some popular opinion that Charlie (Charlie Kirk) was giving up on Israel, that's not true. ... This is the day before he was murdered. ... We're in this meeting. I'm in the meeting with him.”
+
+</details>
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** trained this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1738,7 +1794,18 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Frank Turek (35)</strong></summary>
+<summary><strong class="section-title">Statements by Frank Turek (37)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2)</summary>
+
+- [00:34:47](/episodes/ep-1FhY-koMuWM.md#t-00-34-47) [○] (Claim) ["Frank Turek said he and Kirk participated in a Zoom meeting the day before Kirk’..."](/statements/statement-faf411c6cde8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:35:34](/episodes/ep-1FhY-koMuWM.md#t-00-35-30) [○] (Claim) ["Frank Turek said he was in Utah the next day because Kirk had been invited to sp..."](/statements/statement-7a73f19f579c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Restaurantology](/entities/work-restaurantology.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3)</summary>
@@ -1951,7 +2018,21 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Frank Turek (58)</strong></summary>
+<summary><strong class="section-title">Statements about Frank Turek (61)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3)</summary>
+
+- [00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01) (Opinion) **Candace Owens**: ["Owens said she did not believe the account that Frank Turek performed ..."](/statements/statement-0bc3517a3931.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:32:46](/episodes/ep-1FhY-koMuWM.md#t-00-32-15) (Opinion) **Candace Owens**: ["Owens suggested the Zoom call might have been an emergency interventio..."](/statements/statement-21ba4f7ec883.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md), [Pesach Wolicki](/entities/person-pesach-wolicki.md)
+
+- [00:52:56](/episodes/ep-1FhY-koMuWM.md#t-00-52-56) (Opinion) **Candace Owens**: ["Owens said she believed Christopher backed in the SUV while Kirk walke..."](/statements/statement-eb8a36abdbda.md)
+  - Also about: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1)</summary>

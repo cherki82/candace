@@ -1,6 +1,6 @@
 ---
 title: "Glenn Beck"
-description: "Glenn Beck (People) - 40 mentions"
+description: "Glenn Beck (People) - 43 mentions"
 id: "person-glenn-beck"
 type: "PERSON"
 categories:
@@ -17,9 +17,9 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-glenn-beck-t-00-07-38">2025-09-23 · 00:07:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-glenn-beck-t-00-16-58">2026-08-19 · 00:16:58</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-glenn-beck-t-00-40-31">2026-09-03 · 00:40:31</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -52,6 +52,7 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-glenn-beck-t-00-19-48" style="--pulse-height:25%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-glenn-beck-t-00-51-31" style="--pulse-height:12%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-glenn-beck-t-00-16-58" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-glenn-beck-t-00-27-41" style="--pulse-height:25%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -79,6 +80,7 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-glenn-beck-t-00-19-48) | 2 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-glenn-beck-t-00-51-31) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-glenn-beck-t-00-16-58) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-glenn-beck-t-00-27-41) | 2 |
 
 </details>
 </section>
@@ -90,7 +92,18 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>
+
+**[00:28:18](/episodes/ep-1FhY-koMuWM.md#ent-person-glenn-beck-t-00-27-41)**
+> "She went to Glenn Beck. And here’s what she said. Take a listen."
+
+**[00:40:31](/episodes/ep-1FhY-koMuWM.md#ent-person-glenn-beck-t-00-40-31)**
+> "...ackfires. And she goes on the Glenn Beck show."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -360,11 +373,12 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:16:30](/episodes/ep-6J6lRZPQ4jk.md#t-00-16-17): “We're gonna get more because Erika (Erika Kirk) also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV.”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14): “Well, then fast forward to December 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first interview from Charlie (Charlie Kirk)'s home office. She gave an interview to Glenn Beck.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:19](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): “as she told Glenn Beck”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:28:18](/episodes/ep-1FhY-koMuWM.md#t-00-27-41): “She went to Glenn Beck. And here’s what she said. Take a listen. ... I know the tour. That was the first stop of the tour. And I know you two had met ... Mm-hmm. ... Do you think Charlie (Charlie Kirk) knew to some degree and had made the conscience, the conscious choice that I may be taken out early? Not saying he knew that that day, but that he had any inkling that this might come his way, and that ... It's interesting because we always, we have, I mean, I still, I have unbelievable amounts of death threats.”
 
 </details>
 
@@ -396,12 +410,13 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:16:30](/episodes/ep-6J6lRZPQ4jk.md#t-00-16-17): “We're gonna get more because Erika (Erika Kirk) also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:05:40](/episodes/ep-es7PWdFGoFI.md#t-00-05-30): “But they owned right away, which felt great, that if you guys recall, We, Erika (Erika Kirk) sat down with Glenn (Glenn Beck).”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14): “Well, then fast forward to December 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first interview from Charlie (Charlie Kirk)'s home office. She gave an interview to Glenn Beck.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:19](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): “as she told Glenn Beck”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:28:18](/episodes/ep-1FhY-koMuWM.md#t-00-27-41): “She went to Glenn Beck. And here’s what she said. Take a listen. ... I know the tour. That was the first stop of the tour. And I know you two had met ... Mm-hmm. ... Do you think Charlie (Charlie Kirk) knew to some degree and had made the conscience, the conscious choice that I may be taken out early? Not saying he knew that that day, but that he had any inkling that this might come his way, and that ... It's interesting because we always, we have, I mean, I still, I have unbelievable amounts of death threats.”
 
 </details>
 

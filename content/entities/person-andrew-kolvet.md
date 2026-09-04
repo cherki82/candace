@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 810 mentions"
+description: "Andrew Kolvet (People) - 831 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27">2025-09-11 · 00:14:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-kolvet-t-00-48-53">2026-09-01 · 00:48:59</a></strong></div>
-<div><span>Episodes</span><strong>122</strong></div>
-<div><span>Mentions</span><strong>810</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-54-21">2026-09-03 · 00:54:40</a></strong></div>
+<div><span>Episodes</span><strong>123</strong></div>
+<div><span>Mentions</span><strong>831</strong></div>
 <div><span>Statements by</span><strong>101</strong></div>
-<div><span>Statements about</span><strong>228</strong></div>
+<div><span>Statements about</span><strong>231</strong></div>
 <div><span>Relationships</span><strong>104</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -157,6 +157,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-kolvet-t-00-00-39" style="--pulse-height:33%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 14 mentions" title="2026-08-21 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-28-28" style="--pulse-height:12%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 5 mentions" title="2026-08-31 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-kolvet-t-00-03-42" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-21-55" style="--pulse-height:49%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 21 mentions" title="2026-09-03 · 21 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -284,6 +285,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-kolvet-t-00-00-39) | 14 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-28-28) | 5 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-kolvet-t-00-03-42) | 3 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-21-55) | 21 |
 
 </details>
 </section>
@@ -295,7 +297,75 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (810)</strong></summary>
+<summary><strong class="section-title">Raw mentions (831)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (21 mentions)</summary>
+
+**[00:22:19](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-21-55)**
+> "Anyway, so while I was in Iceland, Turning Point USA, namely Andrew Kolvet, greenlit Andrew Wilson coming out with an alleged Telegram message from Charlie Kirk the night before he was killed."
+
+**[00:27:01](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-27-01)**
+> "In fact, when Andrew Kolvet told me this information because he was my source..."
+
+**[00:27:22](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-27-01)**
+> "...harlie (Charlie Kirk) died by Andrew Kolvet. Okay. And I specifically prodded that narrative ..."
+
+**[00:27:41](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-27-41)**
+> "... who just randomly would text Andrew Kolvet and be like, they're going to kill me. Like who's..."
+
+**[00:29:40](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-29-40)**
+> "...'s important to remember that Andrew Kolvet was doing PR with her and traveling with her at t..."
+
+**[00:30:06](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-29-40)**
+> "...ere received by Dan Flood and Andrew Kolvet."
+
+**[00:31:35](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-31-35)**
+> "...s security, Dan Flood, and to Andrew Kolvet, which he has not yet addressed, is that he sent ..."
+
+**[00:32:15](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-32-15)**
+> "That's per Andrew Kolvet. At 1 o'clock p.m., Charlie (Charlie Kirk) appear..."
+
+**[00:33:00](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-33-00)**
+> "...ll, as well as Blake Neff and Andrew Kolvet. If Rabbi Wolicki (Pesach Wolicki) is to be belie..."
+
+**[00:33:15](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-33-00)**
+> "...t he is on this Zoom call and Andrew Kolvet is on the Zoom call, Charlie (Charlie Kirk) texts..."
+
+**[00:34:12](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-33-38)**
+> "...text might have been, Andrew (Andrew Kolvet), in reference to the Zoom call that you were on ..."
+
+**[00:36:10](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-35-59)**
+> "...sage. It wasn't that. Andrew (Andrew Kolvet) did not tell me it was that."
+
+**[00:36:17](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-35-59)**
+> "Andrew (Andrew Kolvet) clearly was concerned enough about being on this..."
+
+**[00:38:10](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-37-57)**
+> "And then he sends Andrew (Andrew Kolvet) a message and he says, they're going to kill me...."
+
+**[00:38:52](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-38-42)**
+> "...lake Neff and Frank Turek and Andrew Kolvet helping him to fashion his debate skills?"
+
+**[00:39:16](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-38-42)**
+> "... that call, he starts texting Andrew Kolvet, and he says they're going to kill me."
+
+**[00:39:22](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-39-22)**
+> "Andrew (Andrew Kolvet) then later tells me that text message, but then ..."
+
+**[00:39:40](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-39-22)**
+> "...said the left to both Andrew (Andrew Kolvet) and Dan Flood, that would have been the front pa..."
+
+**[00:46:47](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-46-47)**
+> "... he didn't open up to you and Andrew Kolvet didn't tell you and your best friend Kash Patel d..."
+
+**[00:51:24](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-51-02)**
+> "...ke (Blake Neff)'s and Andrew (Andrew Kolvet)'s lies now. It's a desperation. I mean, it's ins..."
+
+**[00:54:40](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-54-21)**
+> "...inking Blake Neff, Andrew K. (Andrew Kolvet), and those others are terrified. And that is why..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3 mentions)</summary>
@@ -3507,7 +3577,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -3542,6 +3612,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:02:24](/episodes/ep-pc3pxRyNFZk.md#t-00-02-24): “Andrew Kolvet was, I can tell you, telling the truth in part when he wrote that very long tweet”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:35:05](/episodes/ep-JrhGEm8MGRY.md#t-00-34-51): “You probably did the right thing, Jennica Pounds, by outing yourself as a positive, absolute scumbag and dishonest human being who was not, we're not attacking me because you were looking at the data.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:42](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “Cameras also captured Andrew Kolvet walking in looking 10 years older. Lies will age you, my friend. They will age you.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:24](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “in Blake (Blake Neff)'s and Andrew (Andrew Kolvet)'s lies now. It's a desperation. I mean, it's insane to say Candace Owens and Charlie Kirk were not friends. That is like an insane thing to say, and it can only be uttered out of sheer desperation to try to get a handle on the narrative.”
 
 </details>
 
@@ -4046,7 +4117,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -4081,6 +4152,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:02:24](/episodes/ep-pc3pxRyNFZk.md#t-00-02-24): “Andrew Kolvet was, I can tell you, telling the truth in part when he wrote that very long tweet”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:35:05](/episodes/ep-JrhGEm8MGRY.md#t-00-34-51): “You probably did the right thing, Jennica Pounds, by outing yourself as a positive, absolute scumbag and dishonest human being who was not, we're not attacking me because you were looking at the data.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:03:42](/episodes/ep-ZkDO-MRLUco.md#t-00-03-42): “Cameras also captured Andrew Kolvet walking in looking 10 years older. Lies will age you, my friend. They will age you.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:24](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “in Blake (Blake Neff)'s and Andrew (Andrew Kolvet)'s lies now. It's a desperation. I mean, it's insane to say Candace Owens and Charlie Kirk were not friends. That is like an insane thing to say, and it can only be uttered out of sheer desperation to try to get a handle on the narrative.”
 
 </details>
 
@@ -4373,7 +4445,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:05:15](/episodes/ep-QdM9jLwjwLw.md#t-00-05-05): “meetings come out and say like yes this Hamptons Summit did happen yes Bibi (Benjamin Netanyahu) did call and try to work through with Andrew (Andrew Kolvet) why they have different memories of whether or not he called to fund things to the next level we have also confirmed that Erika (Erika Kirk) and Andrew (Andrew Kolvet) were working together on that Fort Huachuca PR response we got the craziest attacks I've ever endured Alex Jones quite entertainingly he's coming for me my whole life everything”
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:22:46](/episodes/ep-DYD_QHMPwqM.md#t-00-22-31): “The reality is her and Andrew (Andrew Kolvet) called the doctor together through a call on the day of Charlie (Charlie Kirk)'s funeral”
@@ -4382,6 +4454,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:53:36](/episodes/ep-KpxIBWkNsSs.md#t-00-53-36): “she was she was not at Fort Huachuca she was here they didn't do that they went behind the scenes and i will clock another lie it was after Erika (Erika Kirk) told me that they were getting rid of Andrew Kolvet so Andrew Kolvet has been doing her dirty work she's obviously got caught red-handed working with Andrew Kolvet to get this out through this obscure youtube channel this alibi After she told me that they had hired crisis PR and they were moving Andrew (Andrew Kolvet) out of out of PR.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:28:15](/episodes/ep-4DvYXBn_5JI.md#t-00-28-15): “moved away from PR because he was failing miserably at it. They brought in crisis PR, at least that's what Erika told me, and Erika coordinating with Andrew Kolvet to get an alibi for Fort Huachuca to this obscure YouTuber.”
 - [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:13:39](/episodes/ep-tXoI0TTKVrs.md#t-00-13-15): “Andrew Kolvet was live texting with Erika (Erika Kirk) during that interview with Alex Clark to make sure that he had permission because they wanted to protect their evangelical Zionist base of donors.”
+- [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:29:40](/episodes/ep-1FhY-koMuWM.md#t-00-29-40): “Spicy. He didn't say that. And I have a cell phone and it's important to remember that Andrew Kolvet was doing PR with her and traveling with her at this time. So it really is weird that Andrew Kolvet would tell me that and not tell Erika (Erika Kirk).”
 
 </details>
 
@@ -4905,7 +4978,21 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (228)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (231)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3)</summary>
+
+- [00:22:19](/episodes/ep-1FhY-koMuWM.md#t-00-21-55) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Andrew Kolvet authorized Andrew Wilson to read an alleged T..."](/statements/statement-5ba892679521.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Telegram](/entities/org-telegram.md)
+
+- [00:24:19](/episodes/ep-1FhY-koMuWM.md#t-00-23-47) (Accusation) **Candace Owens**: ["Owens said she believed the exchange read by Wilson was a recreation i..."](/statements/statement-009b29f5640c.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:35:59](/episodes/ep-1FhY-koMuWM.md#t-00-35-59) (Claim) **Candace Owens** (via paraphrase): ["Owens said Andrew Kolvet forwarded Kirk’s message about leaving the pr..."](/statements/statement-261594754578.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Joe Kent](/entities/person-joe-kent.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2)</summary>

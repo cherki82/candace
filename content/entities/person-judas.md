@@ -1,13 +1,17 @@
 ---
 title: "Judas"
-description: "Judas (People) - 8 mentions"
+description: "Judas (People) - 9 mentions"
 id: "person-judas"
 type: "PERSON"
+aliases:
+  - "Judas Iscariot"
 categories:
   - "religious figure"
 ---
 
 _Type: People_
+
+**Also known as:** Judas Iscariot
 
 **Categories:** religious figure
 
@@ -17,9 +21,9 @@ Source: [Judas Iscariot](https://en.wikipedia.org/wiki/Judas_Iscariot)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-judas-t-00-43-05">2025-10-27 · 00:43:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-judas-t-00-20-32">2026-05-04 · 00:20:32</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-judas-t-00-50-33">2026-09-03 · 00:50:33</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +40,7 @@ Source: [Judas Iscariot](https://en.wikipedia.org/wiki/Judas_Iscariot)
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-judas-t-00-52-08" style="--pulse-height:100%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-judas-t-00-39-59" style="--pulse-height:50%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-judas-t-00-19-59" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-judas-t-00-50-33" style="--pulse-height:50%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +52,7 @@ Source: [Judas Iscariot](https://en.wikipedia.org/wiki/Judas_Iscariot)
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-judas-t-00-52-08) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-judas-t-00-39-59) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-judas-t-00-19-59) | 2 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-judas-t-00-50-33) | 1 |
 
 </details>
 </section>
@@ -54,7 +60,15 @@ Source: [Judas Iscariot](https://en.wikipedia.org/wiki/Judas_Iscariot)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:50:33](/episodes/ep-1FhY-koMuWM.md#ent-person-judas-t-00-50-33)**
+> "Nope, said it again. Sorry, pregnancy brain. True Detective (commenter handle; identity unverified) writes, "Whenever I felt down on myself, I would watch reruns of To Catch a Predator. Now when I need encouragement, I just watch 10-second clips of Frank Turek, Andrew Wilson, and Erika Kirk and realize life could be so much worse. I could have gone the way of Judas (Judas Iscariot). Also, FaceTime, Pickle Jar, and Glitter Pants are the worst nicknames to have in prison." That's very funny. I mean, Andrew Wilson is just like, we're, like I said, bottom of the barrel. Now you..."
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>

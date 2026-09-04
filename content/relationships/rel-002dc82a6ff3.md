@@ -11,7 +11,11 @@ object: "person-andrew-wilson"
 
 ## [Candace Owens](/entities/person-candace-owens) debated [Andrew Wilson](/entities/person-andrew-wilson)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
+
+**[Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM)**
+
+- [00:22:34](/episodes/ep-1FhY-koMuWM#t-00-22-34): _Now, this is the same message that Andrew Wilson bizarrely read as his opening statement in our debate._
 
 **[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
 

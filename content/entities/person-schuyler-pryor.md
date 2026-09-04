@@ -1,6 +1,6 @@
 ---
 title: "Schuyler Pryor"
-description: "Schuyler Pryor (People) - 86 mentions"
+description: "Schuyler Pryor (People) - 87 mentions"
 id: "person-schuyler-pryor"
 type: "PERSON"
 aliases:
@@ -30,9 +30,9 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-schuyler-pryor-t-00-11-08">2025-09-15 · 00:11:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-schuyler-pryor-t-00-44-36">2026-09-01 · 00:45:15</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>86</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-schuyler-pryor-t-00-57-31">2026-09-03 · 00:57:59</a></strong></div>
+<div><span>Episodes</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>87</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -89,6 +89,7 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-schuyler-pryor-t-00-39-23" style="--pulse-height:40%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-schuyler-pryor-t-00-00-25" style="--pulse-height:40%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-schuyler-pryor-t-00-44-36" style="--pulse-height:20%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-schuyler-pryor-t-00-57-31" style="--pulse-height:20%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -140,6 +141,7 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-schuyler-pryor-t-00-39-23) | 2 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-schuyler-pryor-t-00-00-25) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-schuyler-pryor-t-00-44-36) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-schuyler-pryor-t-00-57-31) | 1 |
 
 </details>
 </section>
@@ -147,7 +149,15 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (86)</strong></summary>
+<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:57:59](/episodes/ep-1FhY-koMuWM.md#ent-person-schuyler-pryor-t-00-57-31)**
+> "Sad. You only have me for three days next week. Skylar (Schuyler Pryor) is always the one to remind me in my ear, by the way. He's like, I have a holiday on Monday."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>

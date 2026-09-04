@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 1030 mentions"
+description: "Tyler Robinson (People) - 1031 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-48-58">2026-09-02 · 00:49:25</a></strong></div>
-<div><span>Episodes</span><strong>106</strong></div>
-<div><span>Mentions</span><strong>1,030</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-tyler-robinson-t-00-51-39">2026-09-03 · 00:51:39</a></strong></div>
+<div><span>Episodes</span><strong>107</strong></div>
+<div><span>Mentions</span><strong>1,031</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
 <div><span>Statements about</span><strong>455</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
@@ -142,6 +142,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-tyler-robinson-t-00-27-53" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-01-03" style="--pulse-height:10%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 10 mentions" title="2026-09-01 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-00-01" style="--pulse-height:30%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 31 mentions" title="2026-09-02 · 31 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-tyler-robinson-t-00-51-39" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -253,6 +254,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-tyler-robinson-t-00-27-53) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-01-03) | 10 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-00-01) | 31 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-tyler-robinson-t-00-51-39) | 1 |
 
 </details>
 </section>
@@ -264,7 +266,15 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1030)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1031)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:51:39](/episodes/ep-1FhY-koMuWM.md#ent-person-tyler-robinson-t-00-51-39)**
+> "Scotty Thrive Tribe (commenter handle; identity unverified) writes, does anybody have a definitive list of missing evidence? Example, the body cam discovering the rifle and towel, the body cam of Tyler (Tyler Robinson) asking a cop a question, the surveillance of the first cop approaching the screwdriver, the necklace, Meta glasses that were recording, the camera behind Charlie (Charlie Kirk), TPUSA text."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (31 mentions)</summary>

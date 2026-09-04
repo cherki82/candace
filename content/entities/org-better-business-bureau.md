@@ -1,6 +1,6 @@
 ---
 title: "Better Business Bureau"
-description: "Better Business Bureau (Organizations) - 32 mentions"
+description: "Better Business Bureau (Organizations) - 33 mentions"
 id: "org-better-business-bureau"
 type: "ORG"
 aliases:
@@ -21,9 +21,9 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-better-business-bureau-t-00-25-49">2025-09-25 · 00:25:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-better-business-bureau-t-00-27-24">2026-08-19 · 00:27:40</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-better-business-bureau-t-00-19-28">2026-09-03 · 00:19:34</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -65,6 +65,7 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-better-business-bureau-t-00-33-54" style="--pulse-height:100%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-better-business-bureau-t-00-53-21" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-better-business-bureau-t-00-27-24" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-better-business-bureau-t-00-19-28" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -101,6 +102,7 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-better-business-bureau-t-00-33-54) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-better-business-bureau-t-00-53-21) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-better-business-bureau-t-00-27-24) | 1 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-better-business-bureau-t-00-19-28) | 1 |
 
 </details>
 </section>
@@ -108,7 +110,15 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
+
+**[00:19:34](/episodes/ep-1FhY-koMuWM.md#ent-org-better-business-bureau-t-00-19-28)**
+> "PDS Debt is the top-rated company in the industry with thousands of five-star reviews and an A-plus rating on the BBB."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>

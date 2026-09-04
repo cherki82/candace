@@ -1,6 +1,6 @@
 ---
 title: "Nimi Skincare"
-description: "Nimi Skincare (Organizations) - 354 mentions"
+description: "Nimi Skincare (Organizations) - 359 mentions"
 id: "org-nimi-skincare"
 type: "ORG"
 aliases:
@@ -46,9 +46,9 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-nimi-skincare-t-00-57-16">2025-09-15 · 00:57:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-nimi-skincare-t-00-28-47">2026-08-19 · 00:28:47</a></strong></div>
-<div><span>Episodes</span><strong>77</strong></div>
-<div><span>Mentions</span><strong>354</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-nimi-skincare-t-00-20-46">2026-09-03 · 00:20:46</a></strong></div>
+<div><span>Episodes</span><strong>78</strong></div>
+<div><span>Mentions</span><strong>359</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -136,6 +136,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-nimi-skincare-t-00-33-54" style="--pulse-height:56%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 5 mentions" title="2026-08-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-nimi-skincare-t-03-01-04" style="--pulse-height:56%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 5 mentions" title="2026-08-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-org-nimi-skincare-t-00-27-24" style="--pulse-height:44%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 4 mentions" title="2026-08-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-nimi-skincare-t-00-19-28" style="--pulse-height:56%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 5 mentions" title="2026-09-03 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -218,6 +219,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-nimi-skincare-t-00-33-54) | 5 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-nimi-skincare-t-03-01-04) | 5 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-nimi-skincare-t-00-27-24) | 4 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-nimi-skincare-t-00-19-28) | 5 |
 
 </details>
 </section>
@@ -225,7 +227,27 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (354)</strong></summary>
+<summary><strong class="section-title">Raw mentions (359)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (5 mentions)</summary>
+
+**[00:19:50](/episodes/ep-1FhY-koMuWM.md#ent-org-nimi-skincare-t-00-19-28)**
+> "I also have to tell you guys about Nimi Skin Care. You know I love them. I've talked about their tallow skin care before, but today I have some exciting news."
+
+**[00:19:56](/episodes/ep-1FhY-koMuWM.md#ent-org-nimi-skincare-t-00-19-28)**
+> "Nimi just launched a full tallow body line as well and..."
+
+**[00:20:32](/episodes/ep-1FhY-koMuWM.md#ent-org-nimi-skincare-t-00-20-12)**
+> "...anent spot in my routine, and Nimi has definitely done that for me."
+
+**[00:20:37](/episodes/ep-1FhY-koMuWM.md#ent-org-nimi-skincare-t-00-20-12)**
+> "Head to Nimi Skincare, that’s N-I-M-I skincare.com, and use my code Can..."
+
+**[00:20:46](/episodes/ep-1FhY-koMuWM.md#ent-org-nimi-skincare-t-00-20-46)**
+> "That's nimiskincare.com code Candace10 at checkout. And I have to remind ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4 mentions)</summary>

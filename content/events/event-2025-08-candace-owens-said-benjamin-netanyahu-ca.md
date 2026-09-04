@@ -16,7 +16,7 @@ date: "2025-08"
 
 > Candace Owens said Benjamin Netanyahu called Charlie Kirk during the Hamptons retreat, offered to elevate Turning Point USA, and Kirk declined.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Na...
 
@@ -44,3 +44,11 @@ date: "2025-08"
 
 > **Date stated in this source:** “during the early-August Hamptons timeline”
 > **Date review note:** The transcript supports month precision only, matching the canonical 2025-08 date.
+
+### 4. Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Re...
+
+**Episode:** [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md)
+**Timestamp:** [00:05:33](/episodes/ep-1FhY-koMuWM.md#t-00-05-25) 
+<a href="https://www.youtube.com/watch?v=1FhY-koMuWM&t=333s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> and that he was not particularly friendly. He didn't speak to anyone at Turning Point USA's facilities. He was on Charlie, and so that's why nobody seems to know his last name. ... And I was also told that he was allegedly in attendance during that fateful Hamptons summit where Bibi Netanyahu called Charlie Kirk something, a story that we broke and which, I mean, Erika confirmed the reasons for that phone.

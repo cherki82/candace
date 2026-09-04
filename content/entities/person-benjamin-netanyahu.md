@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 411 mentions"
+description: "Benjamin Netanyahu (People) - 413 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -28,11 +28,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">2025-09-15 · 00:01:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-benjamin-netanyahu-t-00-51-43">2026-08-21 · 00:52:19</a></strong></div>
-<div><span>Episodes</span><strong>97</strong></div>
-<div><span>Mentions</span><strong>411</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-benjamin-netanyahu-t-00-40-31">2026-09-03 · 00:40:57</a></strong></div>
+<div><span>Episodes</span><strong>98</strong></div>
+<div><span>Mentions</span><strong>413</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>127</strong></div>
+<div><span>Statements about</span><strong>128</strong></div>
 <div><span>Relationships</span><strong>64</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -138,6 +138,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-benjamin-netanyahu-t-00-45-25" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-benjamin-netanyahu-t-00-49-45" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-benjamin-netanyahu-t-00-50-37" style="--pulse-height:19%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 5 mentions" title="2026-08-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-benjamin-netanyahu-t-00-05-25" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -240,6 +241,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-benjamin-netanyahu-t-00-45-25) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-benjamin-netanyahu-t-00-49-45) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-benjamin-netanyahu-t-00-50-37) | 5 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-benjamin-netanyahu-t-00-05-25) | 2 |
 
 </details>
 </section>
@@ -251,7 +253,18 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (411)</strong></summary>
+<summary><strong class="section-title">Raw mentions (413)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>
+
+**[00:05:44](/episodes/ep-1FhY-koMuWM.md#ent-person-benjamin-netanyahu-t-00-05-25)**
+> "And I was also told that he was allegedly in attendance during that fateful Hamptons summit where Bibi Netanyahu (Benjamin Netanyahu) called Charlie Kirk something, a story that we broke and which, I mean, Erika (Erika Kirk) confirmed the reasons for that phone."
+
+**[00:40:57](/episodes/ep-1FhY-koMuWM.md#ent-person-benjamin-netanyahu-t-00-40-31)**
+> "...old you about Bibi Netanyahu (Benjamin Netanyahu)'s call. I told you about the text message leavin..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
@@ -2617,7 +2630,15 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (127)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (128)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>
+
+- [00:05:19](/episodes/ep-1FhY-koMuWM.md#t-00-04-45) (Claim) **Candace Owens** (via paraphrase): ["Owens said unnamed people connected with Turning Point USA told her Ch..."](/statements/statement-64b8fe31884a.md)
+  - Also about: [Christopher (security driver; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-002.md), [TPUSA sources on Christopher (identities unverified; episode 1FhY-koMuWM)](/entities/anon-src-1FhY-koMuWM-001.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>

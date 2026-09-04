@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 602 mentions"
+description: "American Financing (Organizations) - 606 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-american-financing-t-00-54-13">2026-09-02 · 00:54:13</a></strong></div>
-<div><span>Episodes</span><strong>136</strong></div>
-<div><span>Mentions</span><strong>602</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-american-financing-t-00-44-02">2026-09-03 · 00:44:19</a></strong></div>
+<div><span>Episodes</span><strong>137</strong></div>
+<div><span>Mentions</span><strong>606</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -172,6 +172,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-american-financing-t-00-42-29" style="--pulse-height:50%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-40-30" style="--pulse-height:62%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-american-financing-t-00-52-54" style="--pulse-height:50%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 4 mentions" title="2026-09-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-org-american-financing-t-00-43-21" style="--pulse-height:50%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 4 mentions" title="2026-09-03 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -313,6 +314,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-american-financing-t-00-42-29) | 4 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-40-30) | 5 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-american-financing-t-00-52-54) | 4 |
+| 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-american-financing-t-00-43-21) | 4 |
 
 </details>
 </section>
@@ -320,7 +322,24 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (602)</strong></summary>
+<summary><strong class="section-title">Raw mentions (606)</strong></summary>
+
+<details>
+<summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (4 mentions)</summary>
+
+**[00:43:30](/episodes/ep-1FhY-koMuWM.md#ent-org-american-financing-t-00-43-21)**
+> "That's zeroghost.com slash candace for $50 off. Installment plans are available at checkout. I want to remind you guys about American financing because it's no secret that everything is starting to feel a lot more expensive these days."
+
+**[00:43:54](/episodes/ep-1FhY-koMuWM.md#ent-org-american-financing-t-00-43-21)**
+> "But American financing offers a smart equity loan so that you don't have..."
+
+**[00:44:08](/episodes/ep-1FhY-koMuWM.md#ent-org-american-financing-t-00-44-02)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:44:19](/episodes/ep-1FhY-koMuWM.md#ent-org-american-financing-t-00-44-02)**
+> "...that's 800-795-1210. Or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (4 mentions)</summary>
