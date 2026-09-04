@@ -1,6 +1,6 @@
 ---
 title: "Constanța"
-description: "Constanța (Places) - 19 mentions"
+description: "Constanța (Places) - 18 mentions"
 id: "gpe-constanta"
 type: "GPE"
 aliases:
@@ -21,10 +21,10 @@ _Type: Places_
 Source: [Primăria Municipiului Constanța](https://portal.primaria-constanta.ro/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LKR94FQ5p3o.md#ent-gpe-constanta-t-00-01-09">2026-02-23 · 00:01:09</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-constanta-t-00-29-50">2026-03-03 · 00:29:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-constanta-t-00-15-37">2026-06-26 · 00:16:07</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -35,7 +35,6 @@ Source: [Primăria Municipiului Constanța](https://portal.primaria-constanta.ro
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-constanta-t-00-12-32">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-LKR94FQ5p3o.md#ent-gpe-constanta-t-00-01-09" style="--pulse-height:25%" aria-label="Coming soon...: 1 mentions" title="2026-02-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-constanta-t-00-29-50" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-constanta-t-00-12-32" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-constanta-t-00-18-32" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 4 mentions" title="2026-03-10 · 4 mentions"><span></span></a>
@@ -47,7 +46,6 @@ Source: [Primăria Municipiului Constanța](https://portal.primaria-constanta.ro
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-02-23 | [Coming soon...](/episodes/ep-LKR94FQ5p3o.md#ent-gpe-constanta-t-00-01-09) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-constanta-t-00-29-50) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-constanta-t-00-12-32) | 4 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-constanta-t-00-18-32) | 4 |
@@ -65,7 +63,7 @@ Source: [Primăria Municipiului Constanța](https://portal.primaria-constanta.ro
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
@@ -148,14 +146,6 @@ Source: [Primăria Municipiului Constanța](https://portal.primaria-constanta.ro
 
 **[00:29:50](/episodes/ep-2tFYJf1klgY.md#ent-gpe-constanta-t-00-29-50)**
 > "... beach’—that's going to be in Constanța, just so you know—‘for four days and legit slept ..."
-
-</details>
-
-<details>
-<summary>Coming soon... (1 mentions)</summary>
-
-**[00:01:09](/episodes/ep-LKR94FQ5p3o.md#ent-gpe-constanta-t-00-01-09)**
-> "Her operation was in Constanta."
 
 </details>
 

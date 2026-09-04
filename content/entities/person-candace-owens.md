@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 2634 mentions"
+description: "Candace Owens (People) - 2632 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -25,8 +25,8 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24">2025-09-11 · 00:07:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-01-00-31">2026-09-02 · 01:01:12</a></strong></div>
 <div><span>Episodes</span><strong>162</strong></div>
-<div><span>Mentions</span><strong>2,634</strong></div>
-<div><span>Statements by</span><strong>4,857</strong></div>
+<div><span>Mentions</span><strong>2,632</strong></div>
+<div><span>Statements by</span><strong>4,852</strong></div>
 <div><span>Statements about</span><strong>644</strong></div>
 <div><span>Relationships</span><strong>929</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
@@ -376,7 +376,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2634)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2632)</strong></summary>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (10 mentions)</summary>
@@ -9892,13 +9892,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Blake Lively](/entities/person-blake-lively.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-42): “looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:54:26](/episodes/ep-uC_GjKU8rs8.md#t-00-54-26): “just complete i mean there was nothing left there was nothing left and she was pompous and she was arrogant and she was connected but we're living a different time truth wins and trying to humiliate him saying he sexually assaulted her or sexually harassed her whatever it was doing that as a pr move to destroy his family destroying his family with those sorts of”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:38:26](/episodes/ep-puuMVxEu5NU.md#t-00-38-00): “This is the story of Turning Point USA, the story of Blake Lively. We're too big to fail. ... And all of these people are failing because we live in a new age.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:14:52](/episodes/ep-JrhGEm8MGRY.md#t-00-14-29): “And I'll be frank with you guys, because way back when I was interning for Glamour magazine, Blake Lively had the she had the front cover and the person I was working for worked on the shoot and she said Blake Lively was awful. It was like her least favorite person to work with. So I wasn't passing this. It wasn't passing the sniff test.”
-- [I Met My Cousin In Iceland... @ 00:01:24](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56): “And truly, I told him I just remember that Blake Lively was awful and I wasn't buying this victim act.”
 
 </details>
 
@@ -11338,11 +11337,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Justin Baldoni](/entities/person-justin-baldoni.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:54:26](/episodes/ep-uC_GjKU8rs8.md#t-00-54-26): “just complete i mean there was nothing left there was nothing left and she was pompous and she was arrogant and she was connected but we're living a different time truth wins and trying to humiliate him saying he sexually assaulted her or sexually harassed her whatever it was doing that as a pr move to destroy his family destroying his family with those sorts of”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:20:39](/episodes/ep-JrhGEm8MGRY.md#t-00-20-39): “they didn't know what what had motivated good people to stand up and to do something and he was interested in that asking me what in motivated me and truly I told him I just remember that Blake Lively was awful and I wasn't buying this victim act and I've been following Taylor Swift and I know how she moves and I knew that friendship was going to be over and when I got into it I just couldn't look away and so I was just”
-- [I Met My Cousin In Iceland... @ 00:01:24](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56): “And he was interested in that, asking me what motivated me. And truly, I told him I just remember that Blake Lively was awful and I wasn't buying this victim act. ... And so I was just being motivated by wanting to see a wrong corrected.”
 
 </details>
 
@@ -12626,7 +12624,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>Married To (1)</summary>
 
 - **[George Farmer](/entities/person-george-farmer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:06:24](/episodes/ep-BKcOm32ZEGk.md#t-00-06-23): “The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:46:12](/episodes/ep-GY6GWceEqtQ.md#t-00-45-47): “I could bake cookies with any of George (George Farmer)'s exes. I just don't care. He's my husband.”
@@ -12646,7 +12644,6 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 01:04:47](/episodes/ep-Cq7nj9rxPdo.md#t-01-04-15): “I know that I was saved because I had the confidence to be more of myself when I married George (George Farmer), and he has supported me through everything and me never having the fashionable opinion.”
 - [To My Friend, Charlie Kirk. @ 00:18:02](/episodes/ep-_dRaEO47-co.md#t-00-18-02): “He was by my side, you know, when I got married to George.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:13](/episodes/ep-JrhGEm8MGRY.md#t-00-03-40): “Now, those names may be familiar to you. Now, I've told you guys the story a few times, but I met my husband rather serendipitously at an event hosted in London.”
-- [I Met My Cousin In Iceland... @ 00:00:27](/episodes/ep-wntKnFzh9Gs.md#t-00-00-27): “My husband (George Farmer) and I, we were just, we were all just astonished beyond belief.”
 
 </details>
 
@@ -12791,11 +12788,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Justin Baldoni](/entities/person-justin-baldoni.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:13:28](/episodes/ep-JrhGEm8MGRY.md#t-00-13-01): “I kid you not, as soon as it clicks for me who she is and her jaw hits the floor and my jaw hits the floor and I look up, I see her husband, ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
-- [I Met My Cousin In Iceland... @ 00:00:00](/episodes/ep-wntKnFzh9Gs.md#t-00-00-00): “Ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
-- [I Was Heartbroken... 💔 @ 00:00:00](/episodes/ep-BTn1Z0t_kno.md#t-00-00-00): “He (Justin Baldoni) did tell me one thing that was really disturbing, and I have to share it.”
 
 </details>
 
@@ -14773,13 +14768,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Blake Lively](/entities/person-blake-lively.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-42): “looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:54:26](/episodes/ep-uC_GjKU8rs8.md#t-00-54-26): “just complete i mean there was nothing left there was nothing left and she was pompous and she was arrogant and she was connected but we're living a different time truth wins and trying to humiliate him saying he sexually assaulted her or sexually harassed her whatever it was doing that as a pr move to destroy his family destroying his family with those sorts of”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:38:26](/episodes/ep-puuMVxEu5NU.md#t-00-38-00): “This is the story of Turning Point USA, the story of Blake Lively. We're too big to fail. ... And all of these people are failing because we live in a new age.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:14:52](/episodes/ep-JrhGEm8MGRY.md#t-00-14-29): “And I'll be frank with you guys, because way back when I was interning for Glamour magazine, Blake Lively had the she had the front cover and the person I was working for worked on the shoot and she said Blake Lively was awful. It was like her least favorite person to work with. So I wasn't passing this. It wasn't passing the sniff test.”
-- [I Met My Cousin In Iceland... @ 00:01:24](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56): “And truly, I told him I just remember that Blake Lively was awful and I wasn't buying this victim act.”
 
 </details>
 
@@ -15908,11 +15902,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Justin Baldoni](/entities/person-justin-baldoni.md)** defended by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:54:26](/episodes/ep-uC_GjKU8rs8.md#t-00-54-26): “just complete i mean there was nothing left there was nothing left and she was pompous and she was arrogant and she was connected but we're living a different time truth wins and trying to humiliate him saying he sexually assaulted her or sexually harassed her whatever it was doing that as a pr move to destroy his family destroying his family with those sorts of”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:20:39](/episodes/ep-JrhGEm8MGRY.md#t-00-20-39): “they didn't know what what had motivated good people to stand up and to do something and he was interested in that asking me what in motivated me and truly I told him I just remember that Blake Lively was awful and I wasn't buying this victim act and I've been following Taylor Swift and I know how she moves and I knew that friendship was going to be over and when I got into it I just couldn't look away and so I was just”
-- [I Met My Cousin In Iceland... @ 00:01:24](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56): “And he was interested in that, asking me what motivated me. And truly, I told him I just remember that Blake Lively was awful and I wasn't buying this victim act. ... And so I was just being motivated by wanting to see a wrong corrected.”
 
 </details>
 
@@ -17157,11 +17150,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Justin Baldoni](/entities/person-justin-baldoni.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:13:28](/episodes/ep-JrhGEm8MGRY.md#t-00-13-01): “I kid you not, as soon as it clicks for me who she is and her jaw hits the floor and my jaw hits the floor and I look up, I see her husband, ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
-- [I Met My Cousin In Iceland... @ 00:00:00](/episodes/ep-wntKnFzh9Gs.md#t-00-00-00): “Ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
-- [I Was Heartbroken... 💔 @ 00:00:00](/episodes/ep-BTn1Z0t_kno.md#t-00-00-00): “He (Justin Baldoni) did tell me one thing that was really disturbing, and I have to share it.”
 
 </details>
 
@@ -17651,7 +17642,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (4857)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (4852)</strong></summary>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (40)</summary>
@@ -17775,26 +17766,6 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51) [○] (Accusation) ["Owens said Brian Harpole told Shawn Ryan there had been no threats the night bef..."](/statements/statement-71ee6a67771e.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Shawn Ryan](/entities/person-shawn-ryan.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</details>
-
-<details>
-<summary>I Met My Cousin In Iceland... (5)</summary>
-
-- [00:00:27](/episodes/ep-wntKnFzh9Gs.md#t-00-00-27) [○] (Claim) ["Owens said Iceland had a population of only 400,000 people."](/statements/statement-4109685826f8.md)
-  - About: [Iceland](/entities/gpe-iceland.md)
-
-- [00:00:27](/episodes/ep-wntKnFzh9Gs.md#t-00-00-27) [○] (Claim) ["Owens said Justin Baldoni was on an Iceland layover from Sweden with his wife an..."](/statements/statement-35bfb89c9c3d.md)
-  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Emily Baldoni](/entities/person-emily-baldoni.md), [Iceland](/entities/gpe-iceland.md)
-
-- [00:01:24](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56) [○] (Opinion) ["Owens said she regarded Blake Lively as awful and did not believe her victim por..."](/statements/statement-cc4d0a85bb6f.md)
-  - About: [Blake Lively](/entities/person-blake-lively.md)
-
-- [00:01:41](/episodes/ep-wntKnFzh9Gs.md#t-00-01-41) [○] (Opinion) ["Owens recalled believing that Blake Lively and Taylor Swift’s friendship would e..."](/statements/statement-05dc0c45df84.md)
-  - About: [Blake Lively](/entities/person-blake-lively.md), [Taylor Swift](/entities/person-taylor-swift.md)
-
-- [00:02:37](/episodes/ep-wntKnFzh9Gs.md#t-00-02-24) [○] (Opinion) ["Owens said Justin Baldoni had faced established power, including The New York Ti..."](/statements/statement-b0fb402d518b.md)
-  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [The New York Times](/entities/org-the-new-york-times.md), [WME](/entities/org-wme.md)
 
 </details>
 

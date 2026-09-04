@@ -1,6 +1,6 @@
 ---
 title: "Romania"
-description: "Romania (Places) - 153 mentions"
+description: "Romania (Places) - 152 mentions"
 id: "gpe-romania"
 type: "GPE"
 categories:
@@ -19,8 +19,8 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-romania-t-00-08-14">2025-10-31 · 00:08:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-romania-t-00-56-28">2026-08-06 · 00:56:28</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>153</strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>152</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>55</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -39,7 +39,6 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-romania-t-00-14-50" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-romania-t-00-31-23" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-romania-t-00-29-39" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LKR94FQ5p3o.md#ent-gpe-romania-t-00-01-09" style="--pulse-height:8%" aria-label="Coming soon...: 1 mentions" title="2026-02-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-romania-t-00-24-43" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-romania-t-00-00-01" style="--pulse-height:55%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 16 mentions" title="2026-03-03 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-romania-t-00-00-00" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 29 mentions" title="2026-03-04 · 29 mentions"><span></span></a>
@@ -72,7 +71,6 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-romania-t-00-14-50) | 2 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-romania-t-00-31-23) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-romania-t-00-29-39) | 1 |
-| 2026-02-23 | [Coming soon...](/episodes/ep-LKR94FQ5p3o.md#ent-gpe-romania-t-00-01-09) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-romania-t-00-24-43) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-romania-t-00-00-01) | 16 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-romania-t-00-00-00) | 29 |
@@ -103,7 +101,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (153)</strong></summary>
+<summary><strong class="section-title">Raw mentions (152)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -590,14 +588,6 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 **[00:47:34](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-romania-t-00-47-34)**
 > "...Bowyer and the connections in Romania but I do want to show you this clip of her just k..."
-
-</details>
-
-<details>
-<summary>Coming soon... (1 mentions)</summary>
-
-**[00:01:12](/episodes/ep-LKR94FQ5p3o.md#ent-gpe-romania-t-00-01-09)**
-> "The epicenter of Romania's trafficking scandal."
 
 </details>
 

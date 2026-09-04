@@ -8,7 +8,7 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Theory threads</a><a href="/index/claims">Factual claims</a><a href="/index/statements">Statements</a><a href="/index/event-explorer">Events</a></div>
 </div>
 
-<p class="kg-freshness"><strong>165 sources</strong> · processed through <time datetime="2026-09-03">2026-09-03</time> · generated <time datetime="2026-09-03">2026-09-03</time></p>
+<p class="kg-freshness"><strong>162 sources</strong> · processed through <time datetime="2026-09-02">2026-09-02</time> · generated <time datetime="2026-09-04">2026-09-04</time></p>
 
 <section class="kg-thread-observatory" aria-labelledby="theory-watch-title">
 <header>
@@ -34,15 +34,15 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-coverage-heading">
 <span class="research-kicker">Publication audit</span>
 <h2 id="coverage-title">Research coverage</h2>
-<p><strong>164 of 165</strong> published sources have completed every extraction stage.</p>
+<p><strong>161 of 162</strong> published sources have completed every extraction stage.</p>
 </div>
 <div class="kg-coverage-grid">
-<div><span>Transcript cleaned</span><strong>165 / 165</strong></div>
-<div><span>Entities extracted</span><strong>165 / 165</strong></div>
-<div><span>Statements extracted</span><strong>165 / 165</strong></div>
-<div><span>Events extracted</span><strong>164 / 165</strong></div>
-<div><span>Relationships extracted</span><strong>165 / 165</strong></div>
-<div><span>Theory threads reviewed</span><strong>165 / 165</strong></div>
+<div><span>Transcript cleaned</span><strong>162 / 162</strong></div>
+<div><span>Entities extracted</span><strong>162 / 162</strong></div>
+<div><span>Statements extracted</span><strong>162 / 162</strong></div>
+<div><span>Events extracted</span><strong>161 / 162</strong></div>
+<div><span>Relationships extracted</span><strong>162 / 162</strong></div>
+<div><span>Theory threads reviewed</span><strong>162 / 162</strong></div>
 </div>
 <details class="kg-coverage-gaps">
 <summary>Inspect 1 source-level pipeline gap</summary>
@@ -53,10 +53,10 @@ description: "An evidence-first research workbench for imported video, audio, an
 </section>
 
 <div class="kg-stat-grid">
-<div><strong>7,172</strong><span>Claims &amp; statements</span></div>
-<div><strong>4,614</strong><span>Tracked entities</span></div>
+<div><strong>7,162</strong><span>Claims &amp; statements</span></div>
+<div><strong>4,610</strong><span>Tracked entities</span></div>
 <div><strong>1,801</strong><span>Timeline events</span></div>
-<div><strong>3,090</strong><span>Research sources</span></div>
+<div><strong>3,082</strong><span>Research sources</span></div>
 </div>
 
 ## Latest source additions
@@ -64,11 +64,6 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Ordered by source publication date, not editorial priority.</p>
 
 <div class="recent-source-list">
-<article>
-<time datetime="2026-09-03">2026-09-03</time>
-<a href="/episodes/ep-BTn1Z0t_kno">I Was Heartbroken... 💔</a>
-<span>Candace Owens</span>
-</article>
 <article>
 <time datetime="2026-09-02">2026-09-02</time>
 <a href="/episodes/ep-HIlPQ-_dcxM">Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382</a>
@@ -80,13 +75,18 @@ description: "An evidence-first research workbench for imported video, audio, an
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-09-01">2026-09-01</time>
-<a href="/episodes/ep-wntKnFzh9Gs">I Met My Cousin In Iceland...</a>
+<time datetime="2026-08-31">2026-08-31</time>
+<a href="/episodes/ep-JrhGEm8MGRY">We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-08-31">2026-08-31</time>
-<a href="/episodes/ep-JrhGEm8MGRY">We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380</a>
+<time datetime="2026-08-21">2026-08-21</time>
+<a href="/episodes/ep-_cNtgris8Ik">Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379</a>
+<span>Candace Owens</span>
+</article>
+<article>
+<time datetime="2026-08-19">2026-08-19</time>
+<a href="/episodes/ep-9hRcfSrri70">EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378</a>
 <span>Candace Owens</span>
 </article>
 </div>
@@ -96,12 +96,12 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
-<a href="/entities/person-michael-mccoy"><strong>Michael McCoy</strong><span>36 recent mentions · +34 vs prior window</span></a>
+<a href="/entities/person-michael-mccoy"><strong>Michael McCoy</strong><span>38 recent mentions · +38 vs prior window</span></a>
+<a href="/entities/person-blake-neff"><strong>Blake Neff</strong><span>37 recent mentions · +28 vs prior window</span></a>
 <a href="/entities/person-jack-hibbs"><strong>Jack Hibbs</strong><span>27 recent mentions · +27 vs prior window</span></a>
 <a href="/entities/person-burton-hibbs"><strong>Burton Hibbs</strong><span>22 recent mentions · +22 vs prior window</span></a>
-<a href="/entities/person-justin-baldoni"><strong>Justin Baldoni</strong><span>22 recent mentions · +20 vs prior window</span></a>
+<a href="/entities/person-justin-baldoni"><strong>Justin Baldoni</strong><span>20 recent mentions · +20 vs prior window</span></a>
 <a href="/entities/person-jennica-pounds"><strong>Jennica Pounds</strong><span>18 recent mentions · +18 vs prior window</span></a>
-<a href="/entities/org-us-department-of-defense"><strong>United States Department of Defense</strong><span>18 recent mentions · +18 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes

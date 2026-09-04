@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 165_
+_Total episodes: 162_
 
 <div class="page-filter-container">
   <input type="search" class="page-filter" placeholder="Filter episodes..." aria-label="Filter episodes..." autocomplete="off">
@@ -25,10 +25,8 @@ _Total episodes: 165_
 
 ## Week of Aug 31 - Sep 06, 2026
 
-- [I Was Heartbroken... 💔](/episodes/ep-BTn1Z0t_kno.md) — Thu, Sep 03
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md) — Wed, Sep 02
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md) — Tue, Sep 01
-- [I Met My Cousin In Iceland...](/episodes/ep-wntKnFzh9Gs.md) — Tue, Sep 01
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md) — Mon, Aug 31
 
 ## Week of Aug 17 - 23, 2026
@@ -183,7 +181,6 @@ _Total episodes: 165_
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md) — Sat, Feb 28
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md) — Fri, Feb 27
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md) — Wed, Feb 25
-- [Coming soon...](/episodes/ep-LKR94FQ5p3o.md) — Mon, Feb 23
 
 ## Week of Feb 09 - 15, 2026
 

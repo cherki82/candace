@@ -11,7 +11,7 @@ object: "person-george-farmer"
 
 ## [Candace Owens](/entities/person-candace-owens) married to [George Farmer](/entities/person-george-farmer)
 
-### Evidence (19 mentions)
+### Evidence (18 mentions)
 
 **[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
 
@@ -84,10 +84,6 @@ object: "person-george-farmer"
 **[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
 
 - [01:02:40](/episodes/ep-qZ8RWfyuewQ#t-01-02-40): _It was, we left off before I went to Rome and it was Candace and her husband are living separated. ... I think this was according to Laura Loomer, we were living separate and in two different houses. and I had dual citizenship of course none of that is true then it was George (George Farmer)'s in a secret gay relationship with Milo_
-
-**[I Met My Cousin In Iceland...](/episodes/ep-wntKnFzh9Gs)**
-
-- [00:00:27](/episodes/ep-wntKnFzh9Gs#t-00-00-27): _My husband (George Farmer) and I, we were just, we were all just astonished beyond belief._
 
 ### Related
 

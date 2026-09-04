@@ -3,7 +3,6 @@ title: "Theory Threads"
 description: "Reviewed theory milestones and proposition changes over event and discourse time."
 ---
 
-
 # Theory Threads
 
 <p class="thread-index-intro">Follow the investigation as one living lineage: dormant seeds wait for support, active branches split into competing accounts, and explicit retractions or refutations put branches to rest. Every turn is tied to a canonical statement and transcript moment.</p>

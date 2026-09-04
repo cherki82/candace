@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 6039 mentions"
+description: "Charlie Kirk (People) - 6036 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -25,10 +25,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01">2025-09-11 · 00:00:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-01-04-51">2026-09-02 · 01:04:51</a></strong></div>
-<div><span>Episodes</span><strong>163</strong></div>
-<div><span>Mentions</span><strong>6,039</strong></div>
+<div><span>Episodes</span><strong>162</strong></div>
+<div><span>Mentions</span><strong>6,036</strong></div>
 <div><span>Statements by</span><strong>124</strong></div>
-<div><span>Statements about</span><strong>1,914</strong></div>
+<div><span>Statements about</span><strong>1,911</strong></div>
 <div><span>Relationships</span><strong>352</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -112,7 +112,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:67%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 72 mentions" title="2026-02-10 · 72 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:58%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 63 mentions" title="2026-02-11 · 63 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-11-21" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 36 mentions" title="2026-02-13 · 36 mentions"><span></span></a>
-<a href="/episodes/ep-LKR94FQ5p3o.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:8%" aria-label="Coming soon...: 3 mentions" title="2026-02-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-00-45" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 22 mentions" title="2026-02-25 · 22 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-01-09" style="--pulse-height:15%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 16 mentions" title="2026-02-27 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-20-19" style="--pulse-height:19%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 20 mentions" title="2026-02-28 · 20 mentions"><span></span></a>
@@ -280,7 +279,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-charlie-kirk-t-00-00-00) | 72 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-charlie-kirk-t-00-00-01) | 63 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-11-21) | 36 |
-| 2026-02-23 | [Coming soon...](/episodes/ep-LKR94FQ5p3o.md#ent-person-charlie-kirk-t-00-00-00) | 3 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-00-45) | 22 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-01-09) | 16 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-20-19) | 20 |
@@ -379,7 +377,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6039)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6036)</strong></summary>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (49 mentions)</summary>
@@ -8778,20 +8776,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 **[00:59:27](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-59-01)**
 > "...hen ish hits the fan charlie (Charlie Kirk) deserves the truth to be found out and we all kn..."
-
-</details>
-
-<details>
-<summary>Coming soon... (3 mentions)</summary>
-
-**[00:00:00](/episodes/ep-LKR94FQ5p3o.md#ent-person-charlie-kirk-t-00-00-00)**
-> "President Trump (Donald J. Trump) says that Kirk (Charlie Kirk) has died after he was shot from a nearby building."
-
-**[00:00:06](/episodes/ep-LKR94FQ5p3o.md#ent-person-charlie-kirk-t-00-00-06)**
-> "The great and even legendary Charlie Kirk is dead."
-
-**[00:01:06](/episodes/ep-LKR94FQ5p3o.md#ent-person-charlie-kirk-t-00-01-02)**
-> "...ied through their teeth about Charlie Kirk."
 
 </details>
 
@@ -19704,7 +19688,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Deceased Husband Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (76)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (75)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -19720,7 +19704,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:17:02](/episodes/ep-ti5Fxrvegno.md#t-00-16-27): “We can't even get his widow to at least come out and tell the truth about Charlie (Charlie Kirk) shifting positions.”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:06:17](/episodes/ep-hWTdXHGQ8R4.md#t-00-06-05): “No person in their right mind would go into the home of a grieving widow and move a photo of her and her husband from their wedding day without explicit permission.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:22:49](/episodes/ep-1hcjQGgvxUY.md#t-00-22-45): “this godly woman happened to have tweeted this right before her husband got assassinated.”
-- [Coming soon... @ 00:00:00](/episodes/ep-LKR94FQ5p3o.md#t-00-00-00): “President Trump (Donald J. Trump) says that Kirk (Charlie Kirk) has died after he was shot from a nearby building. ... The cries of this widow will echo around the world like a battle cry. ... I didn't get to give him a kiss goodbye. ... My husband's dead.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:09:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-08-32): “Erica (Erika Kirk) saw a brand with Charlie (Charlie Kirk). ... Her husband died a few days ago...”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:08:39](/episodes/ep-1IY2oD-_xVA.md#t-00-08-39): “Why did the military choose to have us all watch Charlie (Charlie Kirk)'s execution? ... Erika (Erika Kirk), that was where it was supposed to go. You watched it. She's the widow.”
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:01:52](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21): “So Charlie (Charlie Kirk) was removed and in his place, we got a Shabbat Shalom and not so grieving widow.”
@@ -22370,7 +22353,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** widow of this
-<details class="relationship-evidence"><summary>Show all evidence (76)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (75)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -22386,7 +22369,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:17:02](/episodes/ep-ti5Fxrvegno.md#t-00-16-27): “We can't even get his widow to at least come out and tell the truth about Charlie (Charlie Kirk) shifting positions.”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:06:17](/episodes/ep-hWTdXHGQ8R4.md#t-00-06-05): “No person in their right mind would go into the home of a grieving widow and move a photo of her and her husband from their wedding day without explicit permission.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:22:49](/episodes/ep-1hcjQGgvxUY.md#t-00-22-45): “this godly woman happened to have tweeted this right before her husband got assassinated.”
-- [Coming soon... @ 00:00:00](/episodes/ep-LKR94FQ5p3o.md#t-00-00-00): “President Trump (Donald J. Trump) says that Kirk (Charlie Kirk) has died after he was shot from a nearby building. ... The cries of this widow will echo around the world like a battle cry. ... I didn't get to give him a kiss goodbye. ... My husband's dead.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:09:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-08-32): “Erica (Erika Kirk) saw a brand with Charlie (Charlie Kirk). ... Her husband died a few days ago...”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:08:39](/episodes/ep-1IY2oD-_xVA.md#t-00-08-39): “Why did the military choose to have us all watch Charlie (Charlie Kirk)'s execution? ... Erika (Erika Kirk), that was where it was supposed to go. You watched it. She's the widow.”
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:01:52](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21): “So Charlie (Charlie Kirk) was removed and in his place, we got a Shabbat Shalom and not so grieving widow.”
@@ -23201,7 +23183,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (1914)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (1911)</strong></summary>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (23)</summary>
@@ -26637,19 +26619,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [00:59:03](/episodes/ep-ZAsV0fHGBiM.md#t-00-59-01) (Claim) **Candace Owens**: ["Owens said she had not accused Erika Kirk of killing Charlie Kirk."](/statements/statement-5ea6fa4e7999.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
-
-</details>
-
-<details>
-<summary>Coming soon... (3)</summary>
-
-- [00:00:06](/episodes/ep-LKR94FQ5p3o.md#t-00-00-06) (Claim) **Donald J. Trump**: ["The great and even legendary Charlie Kirk is dead."](/statements/statement-8b4427689f08.md)
-
-- [00:00:49](/episodes/ep-LKR94FQ5p3o.md#t-00-00-49) (Opinion) **Anonymous Source #2 (Ep LKR94FQ5p3o)**: ["Nobody knows why she's out there in a glittering pantsuit in a recreat..."](/statements/statement-142bb554e60f.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:01:02](/episodes/ep-LKR94FQ5p3o.md#t-00-01-02) (Accusation) **Anonymous Source #3 (Ep LKR94FQ5p3o)**: ["Zionists, the Prime Minister of Israel (Benjamin Netanyahu), all lied ..."](/statements/statement-366f47c962a4.md)
-  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 </details>
 

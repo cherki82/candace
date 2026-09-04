@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 262 mentions"
+description: "Utah Valley University (Organizations) - 261 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -28,8 +28,8 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-utah-valley-university-t-00-32-09">2026-09-02 · 00:32:42</a></strong></div>
-<div><span>Episodes</span><strong>79</strong></div>
-<div><span>Mentions</span><strong>262</strong></div>
+<div><span>Episodes</span><strong>78</strong></div>
+<div><span>Mentions</span><strong>261</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>86</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
@@ -83,7 +83,6 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-utah-valley-university-t-00-25-22" style="--pulse-height:22%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-utah-valley-university-t-00-04-15" style="--pulse-height:67%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 6 mentions" title="2026-02-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-utah-valley-university-t-00-11-50" style="--pulse-height:56%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 5 mentions" title="2026-02-11 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-LKR94FQ5p3o.md#ent-org-utah-valley-university-t-00-00-00" style="--pulse-height:11%" aria-label="Coming soon...: 1 mentions" title="2026-02-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-utah-valley-university-t-00-44-39" style="--pulse-height:44%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 4 mentions" title="2026-02-25 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-utah-valley-university-t-00-54-22" style="--pulse-height:11%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-utah-valley-university-t-00-10-20" style="--pulse-height:22%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
@@ -167,7 +166,6 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-utah-valley-university-t-00-25-22) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-utah-valley-university-t-00-04-15) | 6 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-utah-valley-university-t-00-11-50) | 5 |
-| 2026-02-23 | [Coming soon...](/episodes/ep-LKR94FQ5p3o.md#ent-org-utah-valley-university-t-00-00-00) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-utah-valley-university-t-00-44-39) | 4 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-utah-valley-university-t-00-54-22) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-utah-valley-university-t-00-10-20) | 2 |
@@ -214,7 +212,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (262)</strong></summary>
+<summary><strong class="section-title">Raw mentions (261)</strong></summary>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (2 mentions)</summary>
@@ -661,14 +659,6 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 **[00:45:39](/episodes/ep-ZAsV0fHGBiM.md#ent-org-utah-valley-university-t-00-45-19)**
 > "...ewish Studies on the board at UVU. Zion's Gate,"
-
-</details>
-
-<details>
-<summary>Coming soon... (1 mentions)</summary>
-
-**[00:00:04](/episodes/ep-LKR94FQ5p3o.md#ent-org-utah-valley-university-t-00-00-00)**
-> "After being shot at Utah Valley University."
 
 </details>
 

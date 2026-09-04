@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 2065 mentions"
+description: "Turning Point USA (Organizations) - 2064 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -28,10 +28,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-turning-point-usa-t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-01-04-51">2026-09-02 · 01:04:51</a></strong></div>
-<div><span>Episodes</span><strong>159</strong></div>
-<div><span>Mentions</span><strong>2,065</strong></div>
+<div><span>Episodes</span><strong>158</strong></div>
+<div><span>Mentions</span><strong>2,064</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>800</strong></div>
+<div><span>Statements about</span><strong>798</strong></div>
 <div><span>Relationships</span><strong>226</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -114,7 +114,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-turning-point-usa-t-00-03-37" style="--pulse-height:27%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 15 mentions" title="2026-02-10 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-turning-point-usa-t-00-06-50" style="--pulse-height:9%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 5 mentions" title="2026-02-11 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-turning-point-usa-t-00-17-29" style="--pulse-height:18%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 10 mentions" title="2026-02-13 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-LKR94FQ5p3o.md#ent-org-turning-point-usa-t-00-00-30" style="--pulse-height:8%" aria-label="Coming soon...: 1 mentions" title="2026-02-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-turning-point-usa-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 4 mentions" title="2026-02-25 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-turning-point-usa-t-00-43-54" style="--pulse-height:20%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 11 mentions" title="2026-02-27 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-usa-t-00-00-42" style="--pulse-height:18%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 10 mentions" title="2026-02-28 · 10 mentions"><span></span></a>
@@ -278,7 +277,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-turning-point-usa-t-00-03-37) | 15 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-turning-point-usa-t-00-06-50) | 5 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-turning-point-usa-t-00-17-29) | 10 |
-| 2026-02-23 | [Coming soon...](/episodes/ep-LKR94FQ5p3o.md#ent-org-turning-point-usa-t-00-00-30) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-turning-point-usa-t-00-00-00) | 4 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-turning-point-usa-t-00-43-54) | 11 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-usa-t-00-00-42) | 10 |
@@ -374,7 +372,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2065)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2064)</strong></summary>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (6 mentions)</summary>
@@ -3535,14 +3533,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 **[00:10:00](/episodes/ep-ZAsV0fHGBiM.md#ent-org-turning-point-usa-t-00-10-00)**
 > "...t donors or the trajectory of Turning Point USA,"
-
-</details>
-
-<details>
-<summary>Coming soon... (1 mentions)</summary>
-
-**[00:00:30](/episodes/ep-LKR94FQ5p3o.md#ent-org-turning-point-usa-t-00-00-30)**
-> "Erika Kirk has been named the new CEO of Turning Point USA."
 
 </details>
 
@@ -8149,7 +8139,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Has Ceo (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (37)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (36)</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:21:14](/episodes/ep-vwG1juDCQZQ.md#t-00-20-52): “This is where it's going to be really hard for Erika to be a CEO and to be somebody who is a widow at the same time, right? Because the messaging that is coming out of Turning Point USA—so this is Erika in her CEO and her chairman capacity—has just been unacceptable, right?”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:33:05](/episodes/ep-K5GjF53bfN4.md#t-00-33-05): “Erika (Erika Kirk) a couple of days ago, and I said she is stepping into a role: a CEO and the chairman of a company, a company that got bigger than Charlie (Charlie Kirk)”
@@ -8168,7 +8158,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:00:48](/episodes/ep-A39g5oqB_eM.md#t-00-00-40): “Erika (Erika Kirk) installed as the new CEO and chairman. ... And she does begin the call by being thankful to the entire Turning Point USA team for their work at the memorial event.”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:09:48](/episodes/ep-QdM9jLwjwLw.md#t-00-09-48): “And now it is our great pride to announce Erika Kirk as the new CEO and chair of the board for Turning Point USA.”
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:02:58](/episodes/ep-mFuno0TuuQQ.md#t-00-02-32): “plea to the courts, I don't know, I think that it stands in stark contrast to the actions that are available to Erika Kirk as the CEO and chairman of this massive organization.”
-- [Coming soon... @ 00:00:30](/episodes/ep-LKR94FQ5p3o.md#t-00-00-30): “Erika Kirk has been named the new CEO of Turning Point USA.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:00:28](/episodes/ep-ZAsV0fHGBiM.md#t-00-00-00): “Turning Point USA is a literal charity ... Erika Kirk is grieving. ... Please allow her to do so in the privacy of the billion dollar charity that she took over. ... Despite all that the public remains unconvinced that she is simply a grieving widow because she isn't simply a grieving widow she's also the CEO and chairman of an organization.”
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:48:11](/episodes/ep-jTj9Ip46r4w.md#t-00-48-11): “She is obviously not fit to be the CEO and chairman of Turning Point USA just on the basis of the amount of dishonesty that we can just show you using her own words, okay? Just using Erica (Erika Kirk)'s own words, trying to make sense of anything is a very difficult task.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:10:28](/episodes/ep-DdPjoy5W-wY.md#t-00-09-55): “Oh, how are you doing this? Well, of course, because God so willed it. She must continue Charlie (Charlie Kirk)'s company. ... By her kids not only have one parent, by dividing her time to be a CEO and a chairman. ... She's just going to take on Turning Point USA and she wants us to believe that she's both putting her children first and putting the company first.”
@@ -8579,7 +8568,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Referenced By (116)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** CEO of this
-<details class="relationship-evidence"><summary>Show all evidence (38)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (37)</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:21:14](/episodes/ep-vwG1juDCQZQ.md#t-00-20-52): “This is where it's going to be really hard for Erika to be a CEO and to be somebody who is a widow at the same time, right? Because the messaging that is coming out of Turning Point USA—so this is Erika in her CEO and her chairman capacity—has just been unacceptable, right?”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:33:05](/episodes/ep-K5GjF53bfN4.md#t-00-33-05): “Erika (Erika Kirk) a couple of days ago, and I said she is stepping into a role: a CEO and the chairman of a company, a company that got bigger than Charlie (Charlie Kirk)”
@@ -8599,7 +8588,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:00:48](/episodes/ep-A39g5oqB_eM.md#t-00-00-40): “Erika (Erika Kirk) installed as the new CEO and chairman. ... And she does begin the call by being thankful to the entire Turning Point USA team for their work at the memorial event.”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:09:48](/episodes/ep-QdM9jLwjwLw.md#t-00-09-48): “And now it is our great pride to announce Erika Kirk as the new CEO and chair of the board for Turning Point USA.”
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:02:58](/episodes/ep-mFuno0TuuQQ.md#t-00-02-32): “plea to the courts, I don't know, I think that it stands in stark contrast to the actions that are available to Erika Kirk as the CEO and chairman of this massive organization.”
-- [Coming soon... @ 00:00:30](/episodes/ep-LKR94FQ5p3o.md#t-00-00-30): “Erika Kirk has been named the new CEO of Turning Point USA.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:00:28](/episodes/ep-ZAsV0fHGBiM.md#t-00-00-00): “Turning Point USA is a literal charity ... Erika Kirk is grieving. ... Please allow her to do so in the privacy of the billion dollar charity that she took over. ... Despite all that the public remains unconvinced that she is simply a grieving widow because she isn't simply a grieving widow she's also the CEO and chairman of an organization.”
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:48:11](/episodes/ep-jTj9Ip46r4w.md#t-00-48-11): “She is obviously not fit to be the CEO and chairman of Turning Point USA just on the basis of the amount of dishonesty that we can just show you using her own words, okay? Just using Erica (Erika Kirk)'s own words, trying to make sense of anything is a very difficult task.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:10:28](/episodes/ep-DdPjoy5W-wY.md#t-00-09-55): “Oh, how are you doing this? Well, of course, because God so willed it. She must continue Charlie (Charlie Kirk)'s company. ... By her kids not only have one parent, by dividing her time to be a CEO and a chairman. ... She's just going to take on Turning Point USA and she wants us to believe that she's both putting her children first and putting the company first.”
@@ -9791,7 +9779,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (800)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (798)</strong></summary>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (4)</summary>
@@ -11326,16 +11314,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [00:10:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-10-44) (Claim) **Elizabeth Lane** (via quoted post): ["Just days after Charlie Kirk's death, Erika Kirk was laying out ambiti..."](/statements/statement-abcccb467cb0.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Zoom Communications](/entities/org-zoom-communications.md)
-
-</details>
-
-<details>
-<summary>Coming soon... (2)</summary>
-
-- [00:00:30](/episodes/ep-LKR94FQ5p3o.md#t-00-00-30) (Claim) **Anonymous Source #1 (Ep LKR94FQ5p3o)**: ["Erika Kirk has been named the new CEO of Turning Point USA."](/statements/statement-916bcba24c0f.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:00:46](/episodes/ep-LKR94FQ5p3o.md#t-00-00-46) (Claim) **Erika Kirk**: ["We have 50,000-plus hat orders."](/statements/statement-7f561a4b45f5.md)
 
 </details>
 

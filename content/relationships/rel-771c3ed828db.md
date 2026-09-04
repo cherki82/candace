@@ -11,7 +11,7 @@ object: "person-blake-lively"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Blake Lively](/entities/person-blake-lively)
 
-### Evidence (5 mentions)
+### Evidence (4 mentions)
 
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 
@@ -28,10 +28,6 @@ object: "person-blake-lively"
 **[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
 
 - [00:54:26](/episodes/ep-uC_GjKU8rs8#t-00-54-26): _just complete i mean there was nothing left there was nothing left and she was pompous and she was arrogant and she was connected but we're living a different time truth wins and trying to humiliate him saying he sexually assaulted her or sexually harassed her whatever it was doing that as a pr move to destroy his family destroying his family with those sorts of_
-
-**[I Met My Cousin In Iceland...](/episodes/ep-wntKnFzh9Gs)**
-
-- [00:01:24](/episodes/ep-wntKnFzh9Gs#t-00-01-24): _And truly, I told him I just remember that Blake Lively was awful and I wasn't buying this victim act._
 
 ### Related
 

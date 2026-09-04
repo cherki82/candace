@@ -1,6 +1,6 @@
 ---
 title: "Taylor Swift"
-description: "Taylor Swift (People) - 41 mentions"
+description: "Taylor Swift (People) - 40 mentions"
 id: "person-taylor-swift"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-03">2025-11-06 · 00:38:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-wntKnFzh9Gs.md#ent-person-taylor-swift-t-00-01-41">2026-09-01 · 00:01:41</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-taylor-swift-t-00-20-39">2026-08-31 · 00:20:39</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -50,7 +50,6 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-taylor-swift-t-00-31-08" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-taylor-swift-t-00-50-26" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-taylor-swift-t-00-15-40" style="--pulse-height:21%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 3 mentions" title="2026-08-31 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-wntKnFzh9Gs.md#ent-person-taylor-swift-t-00-01-41" style="--pulse-height:8%" aria-label="I Met My Cousin In Iceland...: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,7 +70,6 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-taylor-swift-t-00-31-08) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-taylor-swift-t-00-50-26) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-taylor-swift-t-00-15-40) | 3 |
-| 2026-09-01 | [I Met My Cousin In Iceland...](/episodes/ep-wntKnFzh9Gs.md#ent-person-taylor-swift-t-00-01-41) | 1 |
 
 </details>
 </section>
@@ -79,15 +77,7 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
-
-<details>
-<summary>I Met My Cousin In Iceland... (1 mentions)</summary>
-
-**[00:01:41](/episodes/ep-wntKnFzh9Gs.md#ent-person-taylor-swift-t-00-01-41)**
-> "And I've been following Taylor Swift and I know how she moves and I knew that. I knew that friendship was going to be over."
-
-</details>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3 mentions)</summary>
@@ -326,10 +316,9 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 <summary>Friend Of (1)</summary>
 
 - **[Blake Lively](/entities/person-blake-lively.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:53:50](/episodes/ep-uC_GjKU8rs8.md#t-00-53-45): “and it was evil and it was somebody using their power and their connections to try to destroy someone not based on principle but because you can because you have access because you have resources because you are WME because Taylor Swift is your best friend because you are your husband is a part of the Marvel universe so I am very happy for Justin Baldoni congratulations I know that settlement means”
-- [I Met My Cousin In Iceland... @ 00:01:41](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56): “And I've been following Taylor Swift and I know how she moves and I knew that. I knew that friendship was going to be over.”
 
 </details>
 
@@ -365,10 +354,9 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 </details>
 
 - **[Blake Lively](/entities/person-blake-lively.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:53:50](/episodes/ep-uC_GjKU8rs8.md#t-00-53-45): “and it was evil and it was somebody using their power and their connections to try to destroy someone not based on principle but because you can because you have access because you have resources because you are WME because Taylor Swift is your best friend because you are your husband is a part of the Marvel universe so I am very happy for Justin Baldoni congratulations I know that settlement means”
-- [I Met My Cousin In Iceland... @ 00:01:41](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56): “And I've been following Taylor Swift and I know how she moves and I knew that. I knew that friendship was going to be over.”
 
 </details>
 
@@ -397,15 +385,7 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Taylor Swift (4)</strong></summary>
-
-<details>
-<summary>I Met My Cousin In Iceland... (1)</summary>
-
-- [00:01:41](/episodes/ep-wntKnFzh9Gs.md#t-00-01-41) (Opinion) **Candace Owens**: ["Owens recalled believing that Blake Lively and Taylor Swift’s friendsh..."](/statements/statement-05dc0c45df84.md)
-  - Also about: [Blake Lively](/entities/person-blake-lively.md)
-
-</details>
+<summary><strong class="section-title">Statements about Taylor Swift (3)</strong></summary>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (3)</summary>

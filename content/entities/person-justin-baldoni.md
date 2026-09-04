@@ -1,6 +1,6 @@
 ---
 title: "Justin Baldoni"
-description: "Justin Baldoni (People) - 58 mentions"
+description: "Justin Baldoni (People) - 54 mentions"
 id: "person-justin-baldoni"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32">2025-10-28 · 00:45:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BTn1Z0t_kno.md#ent-person-justin-baldoni-t-00-00-00">2026-09-03 · 00:00:00</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>58</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-baldoni-t-01-01-49">2026-09-02 · 01:01:49</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,10 +41,8 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-justin-baldoni-t-00-46-01" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-justin-baldoni-t-00-21-00" style="--pulse-height:17%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-justin-baldoni-t-00-13-01" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 12 mentions" title="2026-08-31 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-wntKnFzh9Gs.md#ent-person-justin-baldoni-t-00-00-00" style="--pulse-height:25%" aria-label="I Met My Cousin In Iceland...: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-justin-baldoni-t-00-00-01" style="--pulse-height:42%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-baldoni-t-01-01-49" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BTn1Z0t_kno.md#ent-person-justin-baldoni-t-00-00-00" style="--pulse-height:8%" aria-label="I Was Heartbroken... 💔: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,10 +58,8 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-justin-baldoni-t-00-46-01) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-justin-baldoni-t-00-21-00) | 2 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-justin-baldoni-t-00-13-01) | 12 |
-| 2026-09-01 | [I Met My Cousin In Iceland...](/episodes/ep-wntKnFzh9Gs.md#ent-person-justin-baldoni-t-00-00-00) | 3 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-justin-baldoni-t-00-00-01) | 5 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-baldoni-t-01-01-49) | 1 |
-| 2026-09-03 | [I Was Heartbroken... 💔](/episodes/ep-BTn1Z0t_kno.md#ent-person-justin-baldoni-t-00-00-00) | 1 |
 
 </details>
 </section>
@@ -71,35 +67,13 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (58)</strong></summary>
-
-<details>
-<summary>I Was Heartbroken... 💔 (1 mentions)</summary>
-
-**[00:00:00](/episodes/ep-BTn1Z0t_kno.md#ent-person-justin-baldoni-t-00-00-00)**
-> "He (Justin Baldoni) did tell me one thing that was really disturbing, and I have to share it."
-
-</details>
+<summary><strong class="section-title">Raw mentions (54)</strong></summary>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
 
 **[01:01:49](/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-baldoni-t-01-01-49)**
 > "saying like let's bring our kids to court i mean i told you very early on i had issued my verdict before this ever went to trial um and i looked at this the prescription she was on i think a lot of people are talking about those prescriptions i'm just ignorant on it and so i have stayed out of it and i do want to keep my focus on this case because i don't do things halfway like it was just the Blake (Blake Lively) and Justin Baldoni case as it was with the Kamala Chronicles"
-
-</details>
-
-<details>
-<summary>I Met My Cousin In Iceland... (3 mentions)</summary>
-
-**[00:00:00](/episodes/ep-wntKnFzh9Gs.md#ent-person-justin-baldoni-t-00-00-00)**
-> "Ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni. My literal actual long lost cousin."
-
-**[00:00:27](/episodes/ep-wntKnFzh9Gs.md#ent-person-justin-baldoni-t-00-00-27)**
-> "...400,000 people. Okay. Justin (Justin Baldoni) himself was not visiting Iceland. Okay, turns ou..."
-
-**[00:02:24](/episodes/ep-wntKnFzh9Gs.md#ent-person-justin-baldoni-t-00-02-24)**
-> "... and all of us in the Justin (Justin Baldoni) case."
 
 </details>
 
@@ -348,23 +322,10 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 <summary>Defended By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:54:26](/episodes/ep-uC_GjKU8rs8.md#t-00-54-26): “just complete i mean there was nothing left there was nothing left and she was pompous and she was arrogant and she was connected but we're living a different time truth wins and trying to humiliate him saying he sexually assaulted her or sexually harassed her whatever it was doing that as a pr move to destroy his family destroying his family with those sorts of”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:20:39](/episodes/ep-JrhGEm8MGRY.md#t-00-20-39): “they didn't know what what had motivated good people to stand up and to do something and he was interested in that asking me what in motivated me and truly I told him I just remember that Blake Lively was awful and I wasn't buying this victim act and I've been following Taylor Swift and I know how she moves and I knew that friendship was going to be over and when I got into it I just couldn't look away and so I was just”
-- [I Met My Cousin In Iceland... @ 00:01:24](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56): “And he was interested in that, asking me what motivated me. And truly, I told him I just remember that Blake Lively was awful and I wasn't buying this victim act. ... And so I was just being motivated by wanting to see a wrong corrected.”
-
-</details>
-
-</details>
-
-<details>
-<summary>Married To (1)</summary>
-
-- **[Emily Baldoni](/entities/person-emily-baldoni.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [I Met My Cousin In Iceland... @ 00:00:27](/episodes/ep-wntKnFzh9Gs.md#t-00-00-27): “Justin (Justin Baldoni) himself was not visiting Iceland. Okay, turns out he was on a layover from Sweden. That's where his wife (Emily Baldoni) is from.”
 
 </details>
 
@@ -374,11 +335,9 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 <summary>Met With (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:13:28](/episodes/ep-JrhGEm8MGRY.md#t-00-13-01): “I kid you not, as soon as it clicks for me who she is and her jaw hits the floor and my jaw hits the floor and I look up, I see her husband, ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
-- [I Met My Cousin In Iceland... @ 00:00:00](/episodes/ep-wntKnFzh9Gs.md#t-00-00-00): “Ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
-- [I Was Heartbroken... 💔 @ 00:00:00](/episodes/ep-BTn1Z0t_kno.md#t-00-00-00): “He (Justin Baldoni) did tell me one thing that was really disturbing, and I have to share it.”
 
 </details>
 
@@ -440,20 +399,17 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** defended this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:54:26](/episodes/ep-uC_GjKU8rs8.md#t-00-54-26): “just complete i mean there was nothing left there was nothing left and she was pompous and she was arrogant and she was connected but we're living a different time truth wins and trying to humiliate him saying he sexually assaulted her or sexually harassed her whatever it was doing that as a pr move to destroy his family destroying his family with those sorts of”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:20:39](/episodes/ep-JrhGEm8MGRY.md#t-00-20-39): “they didn't know what what had motivated good people to stand up and to do something and he was interested in that asking me what in motivated me and truly I told him I just remember that Blake Lively was awful and I wasn't buying this victim act and I've been following Taylor Swift and I know how she moves and I knew that friendship was going to be over and when I got into it I just couldn't look away and so I was just”
-- [I Met My Cousin In Iceland... @ 00:01:24](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56): “And he was interested in that, asking me what motivated me. And truly, I told him I just remember that Blake Lively was awful and I wasn't buying this victim act. ... And so I was just being motivated by wanting to see a wrong corrected.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:13:28](/episodes/ep-JrhGEm8MGRY.md#t-00-13-01): “I kid you not, as soon as it clicks for me who she is and her jaw hits the floor and my jaw hits the floor and I look up, I see her husband, ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
-- [I Met My Cousin In Iceland... @ 00:00:00](/episodes/ep-wntKnFzh9Gs.md#t-00-00-00): “Ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.”
-- [I Was Heartbroken... 💔 @ 00:00:00](/episodes/ep-BTn1Z0t_kno.md#t-00-00-00): “He (Justin Baldoni) did tell me one thing that was really disturbing, and I have to share it.”
 
 </details>
 
@@ -490,18 +446,7 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Baldoni (17)</strong></summary>
-
-<details>
-<summary>I Met My Cousin In Iceland... (2)</summary>
-
-- [00:00:27](/episodes/ep-wntKnFzh9Gs.md#t-00-00-27) (Claim) **Candace Owens**: ["Owens said Justin Baldoni was on an Iceland layover from Sweden with h..."](/statements/statement-35bfb89c9c3d.md)
-  - Also about: [Emily Baldoni](/entities/person-emily-baldoni.md), [Iceland](/entities/gpe-iceland.md), [Sweden](/entities/gpe-sweden.md)
-
-- [00:02:37](/episodes/ep-wntKnFzh9Gs.md#t-00-02-24) (Opinion) **Candace Owens**: ["Owens said Justin Baldoni had faced established power, including The N..."](/statements/statement-b0fb402d518b.md)
-  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [WME](/entities/org-wme.md)
-
-</details>
+<summary><strong class="section-title">Statements about Justin Baldoni (15)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

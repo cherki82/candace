@@ -1,11 +1,11 @@
 ---
 title: "Claims & Statements"
-description: "Browse 3842 factual claims and 7172 attributed statements"
+description: "Browse 3837 factual claims and 7162 attributed statements"
 ---
 
 # Claims & Statements
 
-_3842 factual claims within 7172 attributed statements._
+_3837 factual claims within 7162 attributed statements._
 
 [Open the filterable Claims Explorer](/index/claims) to browse claims by date, speaker, entity, and verification outcome.
 
@@ -36,7 +36,7 @@ _3842 factual claims within 7172 attributed statements._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (164)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (162)</label>
 </div>
 
 <style>
@@ -53,7 +53,7 @@ _3842 factual claims within 7172 attributed statements._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Factual Claims (3842)</strong></summary>
+<summary><strong class="section-title">Factual Claims (3837)</strong></summary>
 
 <details>
 <summary>2026-09-02 · Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (33)</summary>
@@ -254,23 +254,6 @@ _3842 factual claims within 7172 attributed statements._
 
 - [01:04:37](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-15) [○] **Candace Owens**: ["Owens said she was withholding some material because of the Brian Harpole case."](/statements/statement-3dd1fd49a055.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md)
-
-</div>
-</details>
-
-<details>
-<summary>2026-09-01 · I Met My Cousin In Iceland... (2)</summary>
-
-<div class="filter-item" data-filter-key="statement-4109685826f8">
-
-- [00:00:27](/episodes/ep-wntKnFzh9Gs.md#t-00-00-27) [○] **Candace Owens**: ["Owens said Iceland had a population of only 400,000 people."](/statements/statement-4109685826f8.md)
-  - About: [Iceland](/entities/gpe-iceland.md)
-
-</div>
-<div class="filter-item" data-filter-key="statement-35bfb89c9c3d">
-
-- [00:00:27](/episodes/ep-wntKnFzh9Gs.md#t-00-00-27) [○] **Candace Owens**: ["Owens said Justin Baldoni was on an Iceland layover from Sweden with his wife an..."](/statements/statement-35bfb89c9c3d.md)
-  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Emily Baldoni](/entities/person-emily-baldoni.md), [Iceland](/entities/gpe-iceland.md)
 
 </div>
 </details>
@@ -10637,29 +10620,6 @@ _3842 factual claims within 7172 attributed statements._
 
 - [00:59:03](/episodes/ep-ZAsV0fHGBiM.md#t-00-59-01) [○] **Candace Owens**: ["Owens said she had not accused Erika Kirk of killing Charlie Kirk."](/statements/statement-5ea6fa4e7999.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
-
-</div>
-</details>
-
-<details>
-<summary>2026-02-23 · Coming soon... (3)</summary>
-
-<div class="filter-item" data-filter-key="statement-8b4427689f08">
-
-- [00:00:06](/episodes/ep-LKR94FQ5p3o.md#t-00-00-06) [✓] **Donald J. Trump**: ["The great and even legendary Charlie Kirk is dead."](/statements/statement-8b4427689f08.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item" data-filter-key="statement-916bcba24c0f">
-
-- [00:00:30](/episodes/ep-LKR94FQ5p3o.md#t-00-00-30) [✓] **Anonymous Source #1 (Ep LKR94FQ5p3o)**: ["Erika Kirk has been named the new CEO of Turning Point USA."](/statements/statement-916bcba24c0f.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</div>
-<div class="filter-item" data-filter-key="statement-7f561a4b45f5">
-
-- [00:00:46](/episodes/ep-LKR94FQ5p3o.md#t-00-00-46) [○] **Erika Kirk**: ["We have 50,000-plus hat orders."](/statements/statement-7f561a4b45f5.md)
-  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 </details>
@@ -23353,7 +23313,7 @@ _3842 factual claims within 7172 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Accusations (1704)</strong></summary>
+<summary><strong class="section-title">Accusations (1703)</strong></summary>
 
 <details>
 <summary>2026-09-02 · Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (7)</summary>
@@ -29548,17 +29508,6 @@ _3842 factual claims within 7172 attributed statements._
 
 - [00:32:02](/episodes/ep-ZAsV0fHGBiM.md#t-00-31-35) [○] **Candace Owens**: ["Lori Frantzve's family has a history of breaking the law and committing fraud."](/statements/statement-79d2a319b9ad.md)
   - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Loretta Abbas](/entities/person-loretta-abbas.md), [Mason Abbas](/entities/person-mason-abbas.md)
-
-</div>
-</details>
-
-<details>
-<summary>2026-02-23 · Coming soon... (1)</summary>
-
-<div class="filter-item" data-filter-key="statement-366f47c962a4">
-
-- [00:01:02](/episodes/ep-LKR94FQ5p3o.md#t-00-01-02) [○] **Anonymous Source #3 (Ep LKR94FQ5p3o)**: ["Zionists, the Prime Minister of Israel (Benjamin Netanyahu), all lied through th..."](/statements/statement-366f47c962a4.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 </details>
@@ -39129,7 +39078,7 @@ _3842 factual claims within 7172 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Opinions (1024)</strong></summary>
+<summary><strong class="section-title">Opinions (1020)</strong></summary>
 
 <details>
 <summary>2026-09-02 · Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (11)</summary>
@@ -39198,29 +39147,6 @@ _3842 factual claims within 7172 attributed statements._
 
 - [01:02:29](/episodes/ep-HIlPQ-_dcxM.md#t-01-02-29) [○] **Candace Owens**: ["Owens criticized commentators for equating suspicion about Erika Kirk with suppo..."](/statements/statement-c77dd45d084f.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lindsay Clancy](/entities/person-lindsay-clancy.md)
-
-</div>
-</details>
-
-<details>
-<summary>2026-09-01 · I Met My Cousin In Iceland... (3)</summary>
-
-<div class="filter-item" data-filter-key="statement-cc4d0a85bb6f">
-
-- [00:01:24](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56) [○] **Candace Owens**: ["Owens said she regarded Blake Lively as awful and did not believe her victim por..."](/statements/statement-cc4d0a85bb6f.md)
-  - About: [Blake Lively](/entities/person-blake-lively.md)
-
-</div>
-<div class="filter-item" data-filter-key="statement-05dc0c45df84">
-
-- [00:01:41](/episodes/ep-wntKnFzh9Gs.md#t-00-01-41) [○] **Candace Owens**: ["Owens recalled believing that Blake Lively and Taylor Swift’s friendship would e..."](/statements/statement-05dc0c45df84.md)
-  - About: [Blake Lively](/entities/person-blake-lively.md), [Taylor Swift](/entities/person-taylor-swift.md)
-
-</div>
-<div class="filter-item" data-filter-key="statement-b0fb402d518b">
-
-- [00:02:37](/episodes/ep-wntKnFzh9Gs.md#t-00-02-24) [○] **Candace Owens**: ["Owens said Justin Baldoni had faced established power, including The New York Ti..."](/statements/statement-b0fb402d518b.md)
-  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [The New York Times](/entities/org-the-new-york-times.md), [WME](/entities/org-wme.md)
 
 </div>
 </details>
@@ -43173,17 +43099,6 @@ _3842 factual claims within 7172 attributed statements._
 </details>
 
 <details>
-<summary>2026-02-23 · Coming soon... (1)</summary>
-
-<div class="filter-item" data-filter-key="statement-142bb554e60f">
-
-- [00:00:49](/episodes/ep-LKR94FQ5p3o.md#t-00-00-49) [◐] **Anonymous Source #2 (Ep LKR94FQ5p3o)**: ["Nobody knows why she's out there in a glittering pantsuit in a recreated tent th..."](/statements/statement-142bb554e60f.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-</details>
-
-<details>
 <summary>2026-02-13 · Okay…These Text Messages Are Crazy! | Candace Ep 307 (7)</summary>
 
 <div class="filter-item" data-filter-key="statement-2010bccd00d0">
@@ -46320,41 +46235,6 @@ _3842 factual claims within 7172 attributed statements._
 
 - [01:04:51](/episodes/ep-HIlPQ-_dcxM.md#t-01-04-51) [○] (Accusation) **Candace Owens**: ["Owens said Brian Harpole told Shawn Ryan there had been no threats the night bef..."](/statements/statement-71ee6a67771e.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Shawn Ryan](/entities/person-shawn-ryan.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-</details>
-
-<details>
-<summary><strong>2026-09-01 · I Met My Cousin In Iceland...</strong> (5)</summary>
-
-<div class="filter-item" data-filter-key="statement-4109685826f8">
-
-- [00:00:27](/episodes/ep-wntKnFzh9Gs.md#t-00-00-27) [○] (Claim) **Candace Owens**: ["Owens said Iceland had a population of only 400,000 people."](/statements/statement-4109685826f8.md)
-  - About: [Iceland](/entities/gpe-iceland.md)
-
-</div>
-<div class="filter-item" data-filter-key="statement-35bfb89c9c3d">
-
-- [00:00:27](/episodes/ep-wntKnFzh9Gs.md#t-00-00-27) [○] (Claim) **Candace Owens**: ["Owens said Justin Baldoni was on an Iceland layover from Sweden with his wife an..."](/statements/statement-35bfb89c9c3d.md)
-  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Emily Baldoni](/entities/person-emily-baldoni.md), [Iceland](/entities/gpe-iceland.md)
-
-</div>
-<div class="filter-item" data-filter-key="statement-cc4d0a85bb6f">
-
-- [00:01:24](/episodes/ep-wntKnFzh9Gs.md#t-00-00-56) [○] (Opinion) **Candace Owens**: ["Owens said she regarded Blake Lively as awful and did not believe her victim por..."](/statements/statement-cc4d0a85bb6f.md)
-  - About: [Blake Lively](/entities/person-blake-lively.md)
-
-</div>
-<div class="filter-item" data-filter-key="statement-05dc0c45df84">
-
-- [00:01:41](/episodes/ep-wntKnFzh9Gs.md#t-00-01-41) [○] (Opinion) **Candace Owens**: ["Owens recalled believing that Blake Lively and Taylor Swift’s friendship would e..."](/statements/statement-05dc0c45df84.md)
-  - About: [Blake Lively](/entities/person-blake-lively.md), [Taylor Swift](/entities/person-taylor-swift.md)
-
-</div>
-<div class="filter-item" data-filter-key="statement-b0fb402d518b">
-
-- [00:02:37](/episodes/ep-wntKnFzh9Gs.md#t-00-02-24) [○] (Opinion) **Candace Owens**: ["Owens said Justin Baldoni had faced established power, including The New York Ti..."](/statements/statement-b0fb402d518b.md)
-  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [The New York Times](/entities/org-the-new-york-times.md), [WME](/entities/org-wme.md)
 
 </div>
 </details>
@@ -68297,41 +68177,6 @@ _3842 factual claims within 7172 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-02-23 · Coming soon...</strong> (5)</summary>
-
-<div class="filter-item" data-filter-key="statement-8b4427689f08">
-
-- [00:00:06](/episodes/ep-LKR94FQ5p3o.md#t-00-00-06) [✓] (Claim) **Donald J. Trump**: ["The great and even legendary Charlie Kirk is dead."](/statements/statement-8b4427689f08.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item" data-filter-key="statement-916bcba24c0f">
-
-- [00:00:30](/episodes/ep-LKR94FQ5p3o.md#t-00-00-30) [✓] (Claim) **Anonymous Source #1 (Ep LKR94FQ5p3o)**: ["Erika Kirk has been named the new CEO of Turning Point USA."](/statements/statement-916bcba24c0f.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</div>
-<div class="filter-item" data-filter-key="statement-7f561a4b45f5">
-
-- [00:00:46](/episodes/ep-LKR94FQ5p3o.md#t-00-00-46) [○] (Claim) **Erika Kirk**: ["We have 50,000-plus hat orders."](/statements/statement-7f561a4b45f5.md)
-  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</div>
-<div class="filter-item" data-filter-key="statement-142bb554e60f">
-
-- [00:00:49](/episodes/ep-LKR94FQ5p3o.md#t-00-00-49) [◐] (Opinion) **Anonymous Source #2 (Ep LKR94FQ5p3o)**: ["Nobody knows why she's out there in a glittering pantsuit in a recreated tent th..."](/statements/statement-142bb554e60f.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item" data-filter-key="statement-366f47c962a4">
-
-- [00:01:02](/episodes/ep-LKR94FQ5p3o.md#t-00-01-02) [○] (Accusation) **Anonymous Source #3 (Ep LKR94FQ5p3o)**: ["Zionists, the Prime Minister of Israel (Benjamin Netanyahu), all lied through th..."](/statements/statement-366f47c962a4.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-</details>
-
-<details>
 <summary><strong>2026-02-13 · Okay…These Text Messages Are Crazy! | Candace Ep 307</strong> (48)</summary>
 
 <div class="filter-item" data-filter-key="statement-a658084d11f2">
@@ -89093,4 +88938,4 @@ _3842 factual claims within 7172 attributed statements._
 
 ---
 
-*Generated: 2026-09-03 17:57:47*
+*Generated: 2026-09-04 08:12:15*

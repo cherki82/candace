@@ -662,14 +662,13 @@ _Total events: 1801_
 <div class="timeline-date">2026-08</div>
 <div class="timeline-desc"><a href="/events/event-2026-08-candace-owens-encountered-justin-baldoni.md">Candace Owens encountered Justin Baldoni and his family at an Iceland airport</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-08: Candace Owens encountered Justin Baldoni and his family at an Iceland airport - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:13:28](/episodes/ep-JrhGEm8MGRY.md#t-00-13-01)
-- [I Met My Cousin In Iceland... @ 00:00:00](/episodes/ep-wntKnFzh9Gs.md#t-00-00-00)
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:00:09](/episodes/ep-ZkDO-MRLUco.md#t-00-00-01)
 
 </details>
@@ -9541,14 +9540,13 @@ _Total events: 1801_
 <div class="timeline-date">2025-09-17</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-17-turning-point-usa-publicly-announced-eri.md">Turning Point USA publicly announced Erika Kirk as CEO and chair in a letter.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">1× in 1 ep</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-17: Turning Point USA publicly announced Erika Kirk as CEO and chair in a letter. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:08:58](/episodes/ep-QdM9jLwjwLw.md#t-00-08-24)
-- [Coming soon... @ 00:00:30](/episodes/ep-LKR94FQ5p3o.md#t-00-00-30)
 
 </details>
 </div>
@@ -11713,7 +11711,7 @@ _Total events: 1801_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md">Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">157× in 108 eps</span>
+<span class="timeline-badge mentions">156× in 107 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -11767,7 +11765,6 @@ _Total events: 1801_
 - [Woah: It Was Erika Kirk Who Called For TPUSA To... @ 00:01:06](/episodes/ep-DqGNvi36ol8.md#t-00-00-41)
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:08:28](/episodes/ep-q7f8r-THr84.md#t-00-08-06)
 - [BREAKING NEWS! We Received Photos Of Charlie's ... @ 01:08:00](/episodes/ep-9k2xrAC0H88.md#t-01-02-29)
-- [Coming soon... @ 00:00:00](/episodes/ep-LKR94FQ5p3o.md#t-00-00-00)
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:11:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-49)
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:02:18](/episodes/ep-UYkXV9mYbT4.md#t-00-02-02)
 - [Trump Attacks The Pope. The Tyler Robinson Narr... @ 01:06:25](/episodes/ep-eLgD5yUVbko.md#t-01-06-15)

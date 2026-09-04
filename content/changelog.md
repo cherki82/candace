@@ -5,10 +5,28 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-09-04 — Full episodes only
+
+Removed three non-episode sources and their associated references: two short
+excerpts and one promotional trailer. Also removed four entities, ten statements,
+and one relationship supported exclusively by those sources. Shared records retain
+their full-episode evidence. No recovery archive was created.
+
+**Totals:**
+- Episodes: 162
+- Entities: 4610
+- Events: 1801
+- Statements: 7162
+- Relationships: 5104
+
+Historical source listings below omit the excluded uploads; historical totals
+describe the corpus at the time of each entry.
+
+---
+
 ## 2026-09-03 17:57:53
 
-**Added 2 episode(s):**
-  - `BTn1Z0t_kno`: I Was Heartbroken... 💔
+**Added 1 retained episode(s):**
   - `HIlPQ-_dcxM`: Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382
 **Added 27 new entity/entities**
 **Added 17 new event(s)**
@@ -26,9 +44,8 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ## 2026-09-02 09:59:59
 
-**Added 2 episode(s):**
+**Added 1 retained episode(s):**
   - `ZkDO-MRLUco`: BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381
-  - `wntKnFzh9Gs`: I Met My Cousin In Iceland...
 **Added 17 new entity/entities**
 **Removed 112 entity/entities**
 **Added 11 new event(s)**
@@ -566,11 +583,10 @@ No data changes detected (regeneration only)
 
 ## 2026-08-17 07:04:57
 
-**Added 11 episode(s):**
+**Added 10 retained episode(s):**
   - `1IY2oD-_xVA`: Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2
   - `2tFYJf1klgY`: Bride Of Charlie: The Lost Years... | Episode 5
   - `DdPjoy5W-wY`: Bride Of Charlie: Crazy In Love | Episode 7
-  - `LKR94FQ5p3o`: Coming soon...
   - `ZAsV0fHGBiM`: Bride Of Charlie: A Wrinkle In Time | Episode 1
   - `ZzAT2xijKGQ`: Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309
   - `all_threads`: 

@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 990 mentions"
+description: "Donald J. Trump (People) - 989 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -29,9 +29,9 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-donald-trump-t-00-43-09">2026-09-01 · 00:43:09</a></strong></div>
-<div><span>Episodes</span><strong>134</strong></div>
-<div><span>Mentions</span><strong>990</strong></div>
-<div><span>Statements by</span><strong>36</strong></div>
+<div><span>Episodes</span><strong>133</strong></div>
+<div><span>Mentions</span><strong>989</strong></div>
+<div><span>Statements by</span><strong>35</strong></div>
 <div><span>Statements about</span><strong>241</strong></div>
 <div><span>Relationships</span><strong>157</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
@@ -100,7 +100,6 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-donald-trump-t-00-47-36" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-donald-trump-t-00-26-58" style="--pulse-height:15%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 7 mentions" title="2026-02-11 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-donald-trump-t-00-40-58" style="--pulse-height:19%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 9 mentions" title="2026-02-13 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-LKR94FQ5p3o.md#ent-person-donald-trump-t-00-00-00" style="--pulse-height:8%" aria-label="Coming soon...: 1 mentions" title="2026-02-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-donald-trump-t-01-01-13" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-donald-trump-t-00-00-00" style="--pulse-height:15%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 7 mentions" title="2026-03-02 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-donald-trump-t-00-29-16" style="--pulse-height:10%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 5 mentions" title="2026-03-04 · 5 mentions"><span></span></a>
@@ -239,7 +238,6 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-donald-trump-t-00-47-36) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-donald-trump-t-00-26-58) | 7 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-donald-trump-t-00-40-58) | 9 |
-| 2026-02-23 | [Coming soon...](/episodes/ep-LKR94FQ5p3o.md#ent-person-donald-trump-t-00-00-00) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-donald-trump-t-01-01-13) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-donald-trump-t-00-00-00) | 7 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-donald-trump-t-00-29-16) | 5 |
@@ -325,7 +323,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (990)</strong></summary>
+<summary><strong class="section-title">Raw mentions (989)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>
@@ -2803,14 +2801,6 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 **[01:01:44](/episodes/ep-ZAsV0fHGBiM.md#ent-person-donald-trump-t-01-01-13)**
 > "...y involved without telling me Trump (Donald Trump) inviting Erica (Erika Kirk) to the..."
-
-</details>
-
-<details>
-<summary>Coming soon... (1 mentions)</summary>
-
-**[00:00:00](/episodes/ep-LKR94FQ5p3o.md#ent-person-donald-trump-t-00-00-00)**
-> "President Trump (Donald J. Trump) says that Kirk (Charlie Kirk) has died after he was shot from a nearby building."
 
 </details>
 
@@ -5390,7 +5380,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Donald J. Trump (36)</strong></summary>
+<summary><strong class="section-title">Statements by Donald J. Trump (35)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
@@ -5538,14 +5528,6 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 - [00:37:23](/episodes/ep-i8m_6D4QGmk.md#t-00-37-09) [○] (Opinion) ["Miriam Adelson refused to answer whether she loves the United States or Israel m..."](/statements/statement-76c927b7757c.md)
   - About: [Miriam Adelson](/entities/person-miriam-adelson.md), [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md)
-
-</details>
-
-<details>
-<summary>Coming soon... (1)</summary>
-
-- [00:00:06](/episodes/ep-LKR94FQ5p3o.md#t-00-00-06) [✓] (Claim) ["The great and even legendary Charlie Kirk is dead."](/statements/statement-8b4427689f08.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

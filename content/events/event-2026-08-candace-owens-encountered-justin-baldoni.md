@@ -16,7 +16,7 @@ date: "2026-08"
 
 > Candace Owens encountered Justin Baldoni and his family at an Iceland airport
 
-## Mentioned In (3 times)
+## Mentioned In (2 times)
 
 ### 1. We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland...
 
@@ -26,15 +26,7 @@ date: "2026-08"
 
 > ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.
 
-### 2. I Met My Cousin In Iceland...
-
-**Episode:** [I Met My Cousin In Iceland...](/episodes/ep-wntKnFzh9Gs.md)
-**Timestamp:** [00:00:00](/episodes/ep-wntKnFzh9Gs.md#event-event-2026-08-candace-owens-encountered-justin-baldoni-t-00-00-00) 
-<a href="https://www.youtube.com/watch?v=wntKnFzh9Gs&t=0s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
-
-> Ladies and gentlemen, in Iceland, I got in line behind Justin Baldoni.
-
-### 3. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
+### 2. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
 
 **Episode:** [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md)
 **Timestamp:** [00:00:09](/episodes/ep-ZkDO-MRLUco.md#event-event-2026-08-candace-owens-encountered-justin-baldoni-t-00-00-01) 

@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 412 mentions"
+description: "Benjamin Netanyahu (People) - 411 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -29,10 +29,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">2025-09-15 · 00:01:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-benjamin-netanyahu-t-00-51-43">2026-08-21 · 00:52:19</a></strong></div>
-<div><span>Episodes</span><strong>98</strong></div>
-<div><span>Mentions</span><strong>412</strong></div>
+<div><span>Episodes</span><strong>97</strong></div>
+<div><span>Mentions</span><strong>411</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>128</strong></div>
+<div><span>Statements about</span><strong>127</strong></div>
 <div><span>Relationships</span><strong>64</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -91,7 +91,6 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-benjamin-netanyahu-t-00-14-24" style="--pulse-height:23%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 6 mentions" title="2026-02-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-benjamin-netanyahu-t-00-26-58" style="--pulse-height:15%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-benjamin-netanyahu-t-00-45-46" style="--pulse-height:8%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LKR94FQ5p3o.md#ent-person-benjamin-netanyahu-t-00-01-02" style="--pulse-height:8%" aria-label="Coming soon...: 1 mentions" title="2026-02-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-benjamin-netanyahu-t-00-00-00" style="--pulse-height:23%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 6 mentions" title="2026-03-02 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-benjamin-netanyahu-t-00-44-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-benjamin-netanyahu-t-00-57-26" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
@@ -194,7 +193,6 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-benjamin-netanyahu-t-00-14-24) | 6 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-benjamin-netanyahu-t-00-26-58) | 4 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-benjamin-netanyahu-t-00-45-46) | 1 |
-| 2026-02-23 | [Coming soon...](/episodes/ep-LKR94FQ5p3o.md#ent-person-benjamin-netanyahu-t-00-01-02) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-benjamin-netanyahu-t-00-00-00) | 6 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-benjamin-netanyahu-t-00-44-48) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-benjamin-netanyahu-t-00-57-26) | 1 |
@@ -253,7 +251,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (412)</strong></summary>
+<summary><strong class="section-title">Raw mentions (411)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
@@ -982,14 +980,6 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 **[00:08:37](/episodes/ep-jTj9Ip46r4w.md#ent-person-benjamin-netanyahu-t-00-08-24)**
 > "And Bibi (Benjamin Netanyahu). And then maybe somebody was like, hey, this isn..."
-
-</details>
-
-<details>
-<summary>Coming soon... (1 mentions)</summary>
-
-**[00:01:02](/episodes/ep-LKR94FQ5p3o.md#ent-person-benjamin-netanyahu-t-00-01-02)**
-> "Zionists, the Prime Minister of Israel (Benjamin Netanyahu),"
 
 </details>
 
@@ -2627,7 +2617,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (128)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (127)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2864,14 +2854,6 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 - [00:08:13](/episodes/ep-jTj9Ip46r4w.md#t-00-07-43) (Claim) **Candace Owens**: ["Erika Kirk was slated to record something with Benjamin Netanyahu and ..."](/statements/statement-9d25ce5f57e9.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Mar-a-Lago](/entities/gpe-mar-a-lago.md)
-
-</details>
-
-<details>
-<summary>Coming soon... (1)</summary>
-
-- [00:01:02](/episodes/ep-LKR94FQ5p3o.md#t-00-01-02) (Accusation) **Anonymous Source #3 (Ep LKR94FQ5p3o)**: ["Zionists, the Prime Minister of Israel (Benjamin Netanyahu), all lied ..."](/statements/statement-366f47c962a4.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
