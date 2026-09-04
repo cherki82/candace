@@ -92,6 +92,9 @@ export type Manifest = {
   entities: Record<string, EntityMeta>
   episodes: Record<string, EpisodeMeta>
   catalogs: Record<string, number>
+  aliases?: Record<string, string>
+  topics?: { id: string; name: string; count: number; episodes: number; latest: string }[]
+  threads?: { id: string; title: string; summary: string }[]
 }
 export type WorkspaceRoute = {
   catalog: string
@@ -101,6 +104,8 @@ export type WorkspaceRoute = {
   item?: string
   kind?: string
   q?: string
+  home?: boolean
+  topics?: boolean
 }
 export type WorkspaceState = {
   view: "workspace" | "transcript"
@@ -116,6 +121,9 @@ export type WorkspaceState = {
   item: string
   group: boolean
   appearance: number
+  saved: boolean
+  compare: string
+  compareAt: string
 }
 export const defaults: WorkspaceState = {
   view: "workspace",
@@ -131,6 +139,9 @@ export const defaults: WorkspaceState = {
   item: "",
   group: false,
   appearance: 0,
+  saved: false,
+  compare: "",
+  compareAt: "",
 }
 
 export function workspaceRoute(slug: string): WorkspaceRoute | undefined {
@@ -138,6 +149,8 @@ export function workspaceRoute(slug: string): WorkspaceRoute | undefined {
   const catalogs: Record<string, [string, string]> = {
     index: ["all", "Search"],
     "index/explorer": ["all", "Search"],
+    "index/threads": ["development", "Topics"],
+    threads: ["development", "Topics"],
     "index/entities": ["entity", "Entities"],
     entities: ["entity", "Entities"],
     "index/episodes": ["episode", "Episodes"],
@@ -160,6 +173,8 @@ export function workspaceRoute(slug: string): WorkspaceRoute | undefined {
     return {
       catalog: catalogs[path][0],
       title: catalogs[path][1],
+      ...(path === "index" ? { home: true } : {}),
+      ...(["index/threads", "threads"].includes(path) ? { topics: true } : {}),
       ...(path.endsWith("claims") ? { kind: "factual_claim" } : {}),
     }
   const [section, id, anchor] = path.split("/")
@@ -367,6 +382,27 @@ export function matchesKind(r: RecordItem, kind: string, scopeEntity = "") {
 }
 export function filterRecords(records: IndexedRecord[], state: WorkspaceState, scopeEntity = "") {
   const tokens = tokensFor(state.q)
+  const query = normalize(state.q).trim()
+  const score = (r: IndexedRecord) => {
+    if (!query)
+      return r.kind === "statement"
+        ? 3
+        : r.kind === "development"
+          ? 2
+          : r.kind === "mention"
+            ? -1
+            : 0
+    if (
+      r.kind === "entity" &&
+      [r.text, ...(r.aliases || [])].some((v) => normalize(v).trim() === query)
+    )
+      return 100
+    return (
+      (r.fields[0].normalized.includes(query) ? 20 : 0) +
+      tokens.filter((t) => r.fields[0].normalized.includes(t)).length * 3 +
+      (r.kind === "development" ? 4 : r.kind === "statement" ? 2 : 0)
+    )
+  }
   const tag = state.kind === "mentions" ? "" : state.entity
   return records
     .filter(
@@ -381,15 +417,7 @@ export function filterRecords(records: IndexedRecord[], state: WorkspaceState, s
     )
     .sort(
       (a, b) =>
-        (state.sort === "relevance"
-          ? tokens.reduce(
-              (n, t) =>
-                n +
-                Number(b.fields[0].normalized.includes(t)) -
-                Number(a.fields[0].normalized.includes(t)),
-              0,
-            )
-          : 0) ||
+        (state.sort === "relevance" ? score(b) - score(a) : 0) ||
         (state.sort === "mentions"
           ? (b.counts?.mention || 0) - (a.counts?.mention || 0)
           : state.sort === "name"
@@ -450,9 +478,11 @@ export function readState(url: URL, route: WorkspaceRoute): WorkspaceState {
     ...defaults,
     sort: route.episode
       ? "oldest"
-      : route.entity || route.catalog === "episode"
+      : route.catalog === "episode"
         ? "newest"
-        : "relevance",
+        : route.topics
+          ? "oldest"
+          : "relevance",
     kind: route.kind || "all",
     q: route.q || "",
     item: route.item || "",
@@ -467,11 +497,21 @@ export function readState(url: URL, route: WorkspaceRoute): WorkspaceState {
     "outcome",
     "sort",
     "item",
+    "compare",
+    "compareAt",
   ] as const)
     if (p.has(key)) state[key] = p.get(key) || ""
   state.page = Math.max(1, Number.parseInt(p.get("page") || "1", 10) || 1)
   state.appearance = Math.max(0, Number.parseInt(p.get("appearance") || "0", 10) || 0)
   state.group = p.get("group") === "episode"
+  state.saved = p.get("saved") === "1"
+  state.compare = state.compare.split(",").filter(Boolean).slice(0, 2).join(",")
+  state.compareAt = state.compareAt
+    .split(",")
+    .slice(0, 2)
+    .map((n) => String(Math.max(0, parseInt(n, 10) || 0)))
+    .join(",")
+  if (!p.has("compareAt") || !state.compare) state.compareAt = ""
   state.view = route.episode && p.get("view") === "transcript" ? "transcript" : "workspace"
   if (state.kind === "mentions") state.entity = ""
   if (route.catalog === "entity" && !route.entity) {
@@ -500,9 +540,12 @@ export function stateUrl(url: URL, state: WorkspaceState, route?: WorkspaceRoute
     "item",
     "page",
     "appearance",
+    "compare",
+    "compareAt",
   ] as const)
     if (state[key] !== baseline[key]) next.searchParams.set(key, String(state[key]))
   if (state.group) next.searchParams.set("group", "episode")
+  if (state.saved) next.searchParams.set("saved", "1")
   return next
 }
 

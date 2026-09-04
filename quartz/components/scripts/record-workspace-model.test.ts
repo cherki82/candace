@@ -415,7 +415,7 @@ test("entity views default to all records but preserve legacy and explicit filte
   const route = workspaceRoute("entities/a")!
   const url = new URL("https://example.test/candace/entities/a")
   assert.equal(readState(url, route).kind, "all")
-  assert.equal(readState(url, route).sort, "newest")
+  assert.equal(readState(url, route).sort, "relevance")
   for (const kind of [...entityViews.map((v) => v.kind), "about", "event", "factual_claim"]) {
     const state = { ...defaults, kind, q: "Hamptons", item: "both", page: 2, appearance: 1 }
     assert.deepEqual(readState(stateUrl(url, state, route), route), state)
@@ -460,4 +460,34 @@ test("full transcript links retain their reading mode and timestamp across navig
     "workspace",
   )
   assert.equal(readState(url, workspaceRoute("entities/a")!).view, "workspace")
+})
+
+test("exact names and aliases rank above incidental evidence matches", () => {
+  const candidates = prepareRecords(
+    [
+      record("mention", { kind: "mention", text: "The Hamptons" }),
+      record("claim", { text: "The Hamptons", date: "2026-09-01" }),
+      record("place", { kind: "entity", text: "The Hamptons", aliases: ["East End"] }),
+    ],
+    manifest,
+  )
+  for (const q of ["The Hamptons", "east end"])
+    assert.equal(filterRecords(candidates, { ...defaults, q })[0].id, "place")
+})
+
+test("saved research and comparison source selections survive a share URL", () => {
+  const route = workspaceRoute("index/explorer")!
+  const url = new URL("https://example.test/candace/index/explorer")
+  const state = {
+    ...defaults,
+    saved: true,
+    q: "meeting",
+    compare: "s1,ep::passage-t-00-01-00-2",
+    compareAt: "2,0",
+  }
+  assert.deepEqual(readState(stateUrl(url, state, route), route), state)
+  assert.equal(readState(new URL(url + "?compare=a,b,c&compareAt=-2,3,4"), route).compare, "a,b")
+  assert.equal(readState(new URL(url + "?compare=a,b&compareAt=-2,3"), route).compareAt, "0,3")
+  assert.equal(workspaceRoute("index/threads")?.topics, true)
+  assert.equal(readState(url, workspaceRoute("index/threads")!).sort, "oldest")
 })

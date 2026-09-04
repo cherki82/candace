@@ -47,7 +47,7 @@ const shellMarkup = `
     <p class="dataset-note" data-te="dataset-note"></p>
   </aside>
   <section class="reader-shell" aria-label="Selected item">
-    <div class="toolbar"><div class="toolbar-left"><button data-te="back" type="button" disabled>← Back</button><button class="mobile-results" data-te="show-results" type="button">Results</button><span class="toolbar-label" data-te="toolbar-label"></span></div><div class="size-controls" role="group" aria-label="Reading text size"><button data-te="smaller" type="button" aria-label="Decrease reading text size">A−</button><span data-te="text-size">18px</span><button data-te="larger" type="button" aria-label="Increase reading text size">A+</button></div></div>
+    <div class="toolbar"><div class="toolbar-left"><button data-te="back" type="button" disabled>← Back</button><button class="mobile-results" data-te="show-results" type="button">Results</button><button data-te="locate" type="button">Show in chronology</button><span class="toolbar-label" data-te="toolbar-label"></span></div><div class="size-controls" role="group" aria-label="Reading text size"><button data-te="smaller" type="button" aria-label="Decrease reading text size">A−</button><span data-te="text-size">18px</span><button data-te="larger" type="button" aria-label="Increase reading text size">A+</button></div></div>
     <div class="reader" data-te="reader" tabindex="-1" role="region" aria-label="Selected item and direct connections"><div class="reader-inner" data-te="content"></div></div>
   </section>`
 
@@ -122,6 +122,10 @@ export async function initThreadExplorer(
     ...(saved?.path === path ? saved.state : {}),
   }
   if (!index.byId.has(state.item)) state.item = ""
+  if (state.item && saved?.path !== path && !new URL(location.href).searchParams.has("page")) {
+    const position = search(index, state.q).findIndex((item) => item.id === state.item)
+    if (position >= 0) state.page = Math.floor(position / PAGE_SIZE) + 1
+  }
   let matches: IndexedItem[] = [],
     editingSearch = false
   shell.innerHTML = shellMarkup
@@ -373,6 +377,20 @@ export async function initThreadExplorer(
     svg.innerHTML = `<defs><marker id="${escape(markerId)}" markerWidth="5" markerHeight="5" refX="4.5" refY="2.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L5,2.5 L0,5 Z" fill="context-stroke"/></marker></defs>${paths.join("")}`
   }
 
+  $("locate").addEventListener(
+    "click",
+    () => {
+      const position = index.items.findIndex((item) => item.id === state.item)
+      if (position < 0) return
+      navigate({ q: "", page: Math.floor(position / PAGE_SIZE) + 1 })
+      const selected = resultsPane.querySelector<HTMLElement>('[aria-current="true"]')
+      if (selected)
+        resultsPane.scrollTop +=
+          selected.getBoundingClientRect().top - resultsPane.getBoundingClientRect().top
+      remember()
+    },
+    { signal },
+  )
   $("search-form").addEventListener(
     "submit",
     (event) => {

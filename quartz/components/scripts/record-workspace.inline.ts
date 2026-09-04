@@ -1,4 +1,13 @@
 import {
+  readNotebook,
+  writeNotebook,
+  recordKey,
+  savedKey,
+  citation,
+  csvCell,
+  type SavedItem,
+} from "./research-notebook"
+import {
   defaults,
   dateLabel,
   datalistOptions,
@@ -83,6 +92,8 @@ const kindNames: Record<string, string> = {
   mention: "Mentions",
   mentions: "Mentions",
   passage: "Transcript",
+  transcript: "Transcripts",
+  development: "Reviewed developments",
   about: "Statements about",
   by: "Said by",
 }
@@ -129,16 +140,36 @@ async function initWorkspace(root: HTMLElement) {
     if (!live()) return
     if (manifest.schema !== 1)
       throw new Error("This view needs a newer site version. Refresh the page.")
+    let state = readState(new URL(location.href), route)
+    let notebook = readNotebook()
+    const discovering = Boolean(
+      route.home && !state.q && !state.item && !state.saved && !state.compare,
+    )
     const load = (name: string) => json<Payload>(asset(name, manifest.revision))
     const payloads = route.entity
       ? [await load(`entities/${route.entity}.json`)]
       : route.episode
         ? [await load(`episodes/${route.episode}.json`)]
         : await Promise.all(
-            (route.catalog === "all" ? Object.keys(manifest.catalogs) : [route.catalog]).map(
-              (kind) => load(`catalogs/${kind}.json`),
-            ),
+            (discovering
+              ? ["development", "episode"].filter((k) => k in manifest.catalogs)
+              : route.catalog === "all"
+                ? Object.keys(manifest.catalogs)
+                : [route.catalog]
+            ).map((kind) => load(`catalogs/${kind}.json`)),
           )
+    const extraKeys = new Set([state.item, ...notebook.map(savedKey), ...state.compare.split(",")])
+    if (state.saved || state.compare || state.item.includes("::")) {
+      const episodeIds = [
+        ...new Set([...extraKeys].filter((k) => k.includes("::")).map((k) => k.split("::")[0])),
+      ]
+      const extras = await Promise.allSettled(
+        episodeIds.filter((id) => manifest.episodes[id]).map((id) => load(`episodes/${id}.json`)),
+      )
+      for (const extra of extras)
+        if (extra.status === "fulfilled")
+          payloads.push({ records: extra.value.records.filter((r) => extraKeys.has(recordKey(r))) })
+    }
     if (!live()) return
     const records = prepareRecords(
       payloads
@@ -150,8 +181,27 @@ async function initWorkspace(root: HTMLElement) {
         ),
       manifest,
     )
-    const byId = new Map(records.map((r) => [r.id, r]))
-    let state = readState(new URL(location.href), route)
+    const byId = new Map(
+      records.flatMap(
+        (r) =>
+          [
+            [r.id, r],
+            [recordKey(r), r],
+          ] as [string, IndexedRecord][],
+      ),
+    )
+    for (const [alias, id] of Object.entries(manifest.aliases || {}))
+      if (byId.has(id)) byId.set(alias, byId.get(id)!)
+    if (manifest.aliases?.[state.item]) state.item = manifest.aliases[state.item]
+    const identity = (r: RecordItem) => (route.episode ? r.id : recordKey(r))
+    const savedRecord = (item: SavedItem) => byId.get(savedKey(item))
+    const filteredRecords = () =>
+      state.saved
+        ? records.filter((r) => notebook.some((item) => savedRecord(item) === r))
+        : route.episode && state.kind !== "mentions"
+          ? records.filter((r) => r.kind !== "mention")
+          : records
+
     const restoring = history.state?.workspace === path
     let saved: SavedView =
       history.state?.workspace === path
@@ -176,21 +226,31 @@ async function initWorkspace(root: HTMLElement) {
         : `<p>${records.length.toLocaleString()} ${entityCatalog ? "entities" : "searchable records"}</p>`
     const kinds = entity
       ? [
-          ...entityViews.map((v) => v.kind),
+          ...entityViews
+            .filter(
+              (v) =>
+                v.kind !== "by" ||
+                state.kind === "by" ||
+                records.some((r) => r.kind === "statement" && r.speakerId === entity.id),
+            )
+            .map((v) => v.kind),
           ...(["about", "factual_claim"].includes(state.kind) ? [state.kind] : []),
         ]
       : episode
         ? ["all", "passage", "statement", "relationship", "event"]
         : route.catalog === "all"
-          ? ["all", ...Object.keys(manifest.catalogs)]
+          ? [
+              "all",
+              "statement",
+              ...(state.saved ? ["passage", "mentions"] : ["transcript"]),
+              "entity",
+              "episode",
+              "event",
+              "source",
+              "development",
+              "relationship",
+            ]
           : ["all", ...new Set(records.map((r) => r.type))]
-    const primaryKinds = entity
-      ? []
-      : episode
-        ? kinds.slice(0, 3)
-        : route.catalog === "all"
-          ? ["all", "statement", "entity", "episode"]
-          : ["all"]
     const filterKindName = (kind: string) =>
       entity && entityViews.some((v) => v.kind === kind)
         ? entityViews.find((v) => v.kind === kind)!.label
@@ -228,49 +288,29 @@ async function initWorkspace(root: HTMLElement) {
       : entity || episode
         ? "Evidence type"
         : "Record type"
-    $(".rw-controls").innerHTML =
-      `<form class="rw-search" role="search"><label class="rw-search-label" for="rw-query">${searchLabel}</label><input id="rw-query" type="search" name="q" placeholder="${entityCatalog ? "Name, alias, type or tag…" : "Words, tags, names or source excerpts…"}" autocomplete="off"><button type="submit">Search ↵</button><span class="rw-scope">${esc(entity ? `Within ${entity.name}’s record` : episode ? "Within this episode" : route.catalog === "all" ? "Across statements, people, events & sources" : `Within ${kindName(route.catalog).toLowerCase()}`)}</span></form>
-      <button type="button" class="rw-mobile rw-filter-toggle" data-action="filters" aria-expanded="false" aria-controls="rw-filter-panel">Filters</button><div id="rw-filter-panel">
-      <div class="rw-filter-line">${primaryKinds.length > 1 ? `<div class="rw-kinds" role="group" aria-label="${kindLabel}s">${primaryKinds.map((kind) => `<button type="button" data-kind="${kind}">${esc(filterKindName(kind))} <span></span></button>`).join("")}</div>` : ""}<label class="rw-kind-select"><span>${kindLabel}</span><select name="kind">${options(kinds, state.kind)}</select></label><button type="button" data-action="reset" class="rw-text-button">Reset</button></div>
-      <div class="rw-filters"><label class="rw-tag-filter"><span>${entity ? "Also tagged with" : "Tagged entity"}</span><input type="search" name="entity" list="rw-entity-options" placeholder="Type a name or alias" autocomplete="off" aria-describedby="rw-filter-help"><datalist id="rw-entity-options">${datalistOptions(entities)}</datalist></label><label><span>Speaker</span><input type="search" name="speaker" list="rw-speaker-options" placeholder="Any speaker" autocomplete="off"><datalist id="rw-speaker-options">${datalistOptions(
-        [...new Set(records.map((r) => r.speaker).filter(Boolean))]
-          .sort()
-          .map((name) => ({ name })),
-      )}</datalist></label><details class="rw-more-filters"><summary>${entityCatalog ? "Review filters" : "Date & review filters"}</summary><div>${entityCatalog ? "" : '<label><span>From</span><input type="date" name="from"></label><label><span>To</span><input type="date" name="to"></label>'}<label><span>Recorded review</span><select name="outcome"><option value="">Any assessment</option>${[
+    $(".rw-controls").innerHTML = `
+      <form class="rw-search" role="search"><label class="sr-only" for="rw-query">${searchLabel}</label><input id="rw-query" type="search" name="q" placeholder="${entityCatalog ? "Find a name, alias, or organization…" : "Search this research…"}" autocomplete="off"><button type="submit">Search</button></form>
+      <div class="rw-filter-line"><label class="rw-kind-select"><span>${entity ? "Show" : "Search in"}</span><select name="kind">${options(kinds, state.kind)}</select></label>
+      <details class="rw-filter-details"><summary>Filters</summary><div id="rw-filter-panel"><div class="rw-filters">
+      <label class="rw-tag-filter"><span>${entity ? "Also about" : "About"}</span><input type="search" name="entity" list="rw-entity-options" placeholder="Person, place, organization" autocomplete="off"><datalist id="rw-entity-options">${datalistOptions(entities)}</datalist></label>
+      <label><span>Speaker</span><input type="search" name="speaker" list="rw-speaker-options" placeholder="Any speaker" autocomplete="off"><datalist id="rw-speaker-options">${datalistOptions([...new Set(records.map((r) => r.speaker).filter(Boolean))].sort().map((name) => ({ name })))}</datalist></label>
+      <label class="rw-date-filter"><span>${route.catalog === "event" ? "Event date from" : "From"}</span><input type="date" name="from"></label><label class="rw-date-filter"><span>To</span><input type="date" name="to"></label>
+      <label><span>Assessment</span><select name="outcome"><option value="">Any assessment</option>${[
         ...new Set(records.map(outcomeFor)),
       ]
         .sort()
-        .map((s) => `<option value="${esc(s)}">${esc(label(s))}</option>`)
-        .join("")}</select></label></div></details></div>
-      <p class="rw-help" id="rw-filter-help"></p></div><div class="rw-active-filters"></div>`
+        .map((value) => `<option value="${esc(value)}">${esc(assessmentLabel(value))}</option>`)
+        .join("")}</select></label>
+      </div><p class="rw-help" id="rw-filter-help">Filters apply to the records shown.</p></div></details><button type="button" data-action="reset" class="rw-text-button">Clear filters</button></div>
+      <p class="rw-view-help" id="rw-view-help" hidden></p><div class="rw-active-filters"></div>`
     $(".rw-result-options").innerHTML =
       `<label><span class="sr-only">Sort results</span><select name="sort"><option value="relevance">Most relevant</option>${entityCatalog ? '<option value="name">Name A–Z</option><option value="mentions">Most mentions</option>' : '<option value="newest">Newest first</option><option value="oldest">Oldest first</option>'}</select></label>${entity || episode ? '<button type="button" data-action="group" aria-pressed="false">Group by episode</button>' : ""}`
-    if (entity) {
-      // Keep the approved entity layout on the same controls and state as every other workspace.
-      const primary = document.createElement("div")
-      primary.className = "rw-entity-primary"
-      const review = $("[name=outcome]").closest("label")!
-      review.querySelector("span")!.textContent = "Recorded assessment"
-      const sort = $("[name=sort]").closest("label")!
-      sort.querySelector("span")!.className = ""
-      const kind = $("[name=kind]").closest("label")!
-      kind.querySelector("span")!.textContent = "Related records"
-      primary.append(kind, review, sort, $('[data-action="reset"]'))
-      $(".rw-search").after(primary)
-      const help = document.createElement("p")
-      help.className = "rw-view-help"
-      help.id = "rw-view-help"
-      $("[name=kind]").setAttribute("aria-describedby", help.id)
-      primary.after(help)
-      $(".rw-more-filters summary").textContent = "Date range"
-      const more = document.createElement("details")
-      more.className = "rw-entity-more-filters"
-      more.innerHTML = "<summary>More filters: speaker, tags & dates</summary>"
-      more.append($("#rw-filter-panel"))
-      more.append($('[data-action="group"]'))
-      help.after(more)
-      $(".rw-filter-toggle").remove()
-    }
+    if (kinds.length < 3 && !entity && !episode && route.catalog !== "all")
+      $(".rw-kind-select").hidden = true
+    if (!records.some((r) => r.date) || entityCatalog)
+      root.querySelectorAll<HTMLElement>(".rw-date-filter").forEach((el) => (el.hidden = true))
+    if (new Set(records.map(outcomeFor)).size <= 1)
+      $("[name=outcome]").closest<HTMLElement>("label")!.hidden = true
     function remember() {
       if (location.pathname !== path) return
       saved = {
@@ -317,16 +357,177 @@ async function initWorkspace(root: HTMLElement) {
     const chosenApp = (r: RecordItem) =>
       r.appearances[Math.min(state.appearance, r.appearances.length - 1)]
     const itemUrl = (record: RecordItem) =>
-      recordUrl(record, new URL(location.href), state, route, base).href
+      recordUrl({ ...record, id: identity(record) }, new URL(location.href), state, route, base)
+        .href
+    const topicUrl = (id: string) => local(`/index/threads?entity=${encodeURIComponent(id)}`)
+    function recordActions(r: RecordItem) {
+      const key = recordKey(r),
+        isSaved = notebook.some((item) => savedRecord(item) === r)
+      const comparing = state.compare.split(",").includes(key)
+      return `<div class="rw-record-actions"><button type="button" data-action="save" data-key="${esc(key)}" aria-pressed="${isSaved}">${isSaved ? "Saved ✓" : "Save evidence"}</button><button type="button" data-action="compare" data-key="${esc(key)}" aria-pressed="${comparing}">${comparing ? "In comparison ✓" : "Compare"}</button><button type="button" data-action="citation" data-key="${esc(key)}">Copy citation</button></div>`
+    }
+    function persistNotebook() {
+      const durable = writeNotebook(notebook)
+      feedback(
+        durable
+          ? "Saved on this device."
+          : "Available for this session. Device storage is unavailable; export your research to keep it.",
+      )
+    }
+    function topicCards() {
+      return (manifest.topics || [])
+        .map(
+          (topic) =>
+            `<a class="rw-topic-card" href="${esc(topicUrl(topic.id))}"><span class="rw-eyebrow">Topic</span><h2>${esc(topic.name)}</h2><p>Follow attributed statements, responses, and their original source passages.</p><small>${topic.count.toLocaleString()} reviewed developments · ${topic.episodes} episodes</small><span class="rw-card-action">Explore topic →</span></a>`,
+        )
+        .join("")
+    }
+    function renderDiscovery() {
+      const topicIndex = Boolean(route.topics && !state.entity && !state.q && !state.item)
+      const landing = discovering || topicIndex
+      root.dataset.discovery = String(landing)
+      const discovery = $(".rw-discovery")
+      discovery.hidden = !landing
+      if (landing) {
+        const latest = records
+          .filter((r) => r.kind === "development")
+          .sort((a, b) => b.date.localeCompare(a.date))
+          .slice(0, 3)
+        discovery.innerHTML = `<div class="rw-discover-heading"><p class="rw-eyebrow">${topicIndex ? "Ways into the research" : "Follow a question. Read the evidence."}</p><h1>${topicIndex ? "Explore the topics." : "Where do you want to begin?"}</h1><p>Follow a topic across episodes, inspect what was said, and return to the source.</p></div>
+          <form class="rw-discover-search" role="search" action="${safe("/index/explorer")}"><label for="discover-query" class="sr-only">Search all research</label><input id="discover-query" name="q" type="search" placeholder="Search a person, topic, or phrase…"><button type="submit">Search research →</button></form>
+          <div class="rw-section-heading"><h2>Start with a topic</h2><a href="${safe("/index/explorer")}">Browse all research →</a></div><div class="rw-topic-grid">${topicCards() || "<p>No topic views are available in this publication.</p>"}</div>
+          ${topicIndex ? `<details class="rw-thread-directory"><summary>About these topics and the reviewed thread</summary><p>Topics are views of existing reviewed developments linked through their statements. They are not separate investigations or findings.</p>${(manifest.threads || []).map((t) => `<p>${recordLink(`/threads/${t.id}`, t.title)}</p>`).join("")}</details>` : `<div class="rw-section-heading"><h2>Recent developments</h2><a href="${safe("/index/threads")}">All topics →</a></div><div class="rw-recent-grid">${latest.map((r) => `<a href="${safe(r.href)}"><time>${esc(dateLabel(r.date))}</time><h3>${esc(r.text)}</h3><p>${esc(r.notes || "")}</p></a>`).join("")}</div>`}
+          <p class="rw-coverage">${Object.keys(manifest.episodes).length} source episodes · ${manifest.catalogs.statement?.toLocaleString() || 0} attributed statements · Coverage through ${esc(
+            dateLabel(
+              Object.values(manifest.episodes)
+                .map((ep) => ep.date)
+                .sort()
+                .at(-1) || "",
+            ),
+          )}. Follow the evidence before drawing conclusions.</p>`
+      }
+      const topic = (manifest.topics || []).find(
+        (t) => t.id === state.entity || t.name === state.entity,
+      )
+      if (topic && route.topics) {
+        $(".rw-heading h1").textContent = topic.name
+        $(".rw-heading .rw-eyebrow").textContent = "Topic"
+        $(".rw-overview").textContent =
+          `${topic.count.toLocaleString()} reviewed developments · ${topic.episodes} episodes`
+        $(".rw-results-heading h2").textContent = "Chronology"
+      }
+      const overview = $(".rw-topic-intro")
+      overview.hidden = landing || Boolean(state.item) || state.saved || (!entity && !topic)
+      if (!overview.hidden) {
+        const name = entity?.name || topic!.name
+        const relevantTopics = entity
+          ? (manifest.topics || []).filter((t) =>
+              records.some((r) => r.kind === "development" && r.entityIds.includes(t.id)),
+            )
+          : []
+        overview.innerHTML = entity
+          ? `<p>Explore statements, documented connections, and source passages linked to <strong>${esc(name)}</strong>.</p><div class="rw-overview-links"><button data-kind="statement">Statements</button>${records.some((r) => r.kind === "statement" && r.speakerId === entity.id) ? `<button data-kind="by">Said by ${esc(name)}</button>` : ""}<button data-kind="relationship">Connections</button><button data-kind="event">Events</button><button data-kind="mentions">All mentions</button></div>${relevantTopics.length ? `<p class="rw-topic-links">Related topics: ${relevantTopics.map((t) => `<a href="${esc(topicUrl(t.id))}">${esc(t.name)}</a>`).join(" · ")}</p>` : ""}`
+          : `<p>Reviewed developments linked through statements about or attributed to <strong>${esc(name)}</strong>. Dates show when the account appeared.</p><div class="rw-overview-links"><a href="${safe(`/entities/${topic!.id}`)}">Entity record →</a><a href="${safe(`/index/explorer?entity=${encodeURIComponent(topic!.id)}&kind=statement`)}">All statements →</a></div><p class="rw-help">A reviewed narrative connection does not establish the underlying allegation.</p>`
+      }
+    }
+    function renderCollection() {
+      const collection = $(".rw-collection"),
+        comparison = state.compare.split(",").filter(Boolean)
+      collection.hidden = !state.saved && !comparison.length
+      if (collection.hidden) return
+      if (state.saved) {
+        $(".rw-heading h1").textContent = "Saved research"
+        $(".rw-heading .rw-eyebrow").textContent = "Notebook"
+        $(".rw-overview").textContent =
+          `${notebook.length} saved ${notebook.length === 1 ? "item" : "items"}`
+      }
+      collection.innerHTML = `${
+        state.saved
+          ? `<div class="rw-collection-heading"><div><h2>Your evidence, in one place.</h2><p>Saved on this device. Add notes and export citations to take your research with you.</p></div>${notebook.length ? '<div><button data-action="export-md">Export Markdown</button> <button data-action="export-csv">Export CSV</button></div>' : ""}</div>${
+              notebook.length
+                ? `<details class="rw-saved-notes"><summary>Research notes (${notebook.length})</summary>${notebook
+                    .map((item) => {
+                      const r = savedRecord(item)
+                      return `<div class="rw-saved-note"><label>${esc(r?.text || `Unavailable record: ${item.id}`)}<textarea data-note="${esc(savedKey(item))}" rows="2" placeholder="Your research note…">${esc(item.note)}</textarea></label><button data-remove="${esc(savedKey(item))}">Remove saved item</button>${r ? "" : "<p>This record is not available in the current publication. Your note is retained.</p>"}</div>`
+                    })
+                    .join("")}</details>`
+                : `<p class="rw-empty">Open a statement or transcript passage and choose <strong>Save evidence</strong>. ${recordLink("/", "Discover research")}</p>`
+            }`
+          : ""
+      }
+        ${
+          comparison.length
+            ? `<section class="rw-comparison" aria-label="Compare evidence"><div class="rw-section-heading"><h2>Compare evidence</h2><button data-action="clear-compare">Close comparison</button></div><p class="rw-help">Compare wording, attribution, and sources. Similarity alone does not establish agreement or contradiction.</p><div class="rw-compare-grid">${comparison
+                .map((key, index) => {
+                  const r = byId.get(key)
+                  if (!r) return `<article><p>Record unavailable: ${esc(key)}</p></article>`
+                  const appearance = Number(state.compareAt.split(",")[index]) || 0
+                  const app = r.appearances[Math.min(appearance, r.appearances.length - 1)]
+                  const ep = app && manifest.episodes[app.episode]
+                  return `<article><p class="rw-eyebrow">${esc(kindName(r.kind))}</p><h3>${esc(r.text)}</h3><dl><dt>Speaker</dt><dd>${esc(r.speaker || "Not recorded")}${r.reportedBy ? ` · reported by ${esc(r.reportedBy)}` : ""}</dd><dt>Source date</dt><dd>${esc(dateLabel(ep?.date || r.date))}</dd><dt>Source</dt><dd>${esc(ep?.title || r.domain || "Not recorded")}${app ? ` · ${esc(app.time)}` : ""}</dd><dt>Assessment</dt><dd>${esc(r.kind === "development" ? "Narrative link reviewed; allegation not assessed here" : assessmentLabel(outcomeFor(r)))}</dd></dl>${app?.snippet ? `<blockquote>${esc(app.snippet)}</blockquote>` : ""}${recordLink(r.href, "Open record")} <button data-action="compare" data-key="${esc(key)}" aria-label="Remove ${esc(r.text)} from comparison">Remove from comparison</button></article>`
+                })
+                .join(
+                  "",
+                )}${comparison.length === 1 ? '<article class="rw-compare-empty"><h3>Choose another statement</h3><p>Open a second record below and choose Compare. Your first selection stays here.</p></article>' : ""}</div></section>`
+            : ""
+        }`
+    }
+    let transcriptGeneration = 0
+    async function renderTranscriptSearch() {
+      const generation = ++transcriptGeneration
+      if (state.kind !== "transcript") return
+      $(".rw-count").textContent = state.q ? "Searching transcripts…" : "Search source passages"
+      $(".rw-list").innerHTML =
+        '<li class="rw-empty">Enter words or a phrase to search across episode transcripts.</li>'
+      $(".rw-pagination").innerHTML = ""
+      if (!state.q.trim()) return
+      try {
+        const pagefind = await import(local("/pagefind/pagefind.js"))
+        const result = await pagefind.search(state.q, { filters: { kind: "transcript" } })
+        if (!live() || generation !== transcriptGeneration) return
+        const pages = Math.max(1, Math.ceil(result.results.length / PAGE_SIZE))
+        state.page = Math.min(state.page, pages)
+        const hits = await Promise.all(
+          result.results
+            .slice((state.page - 1) * PAGE_SIZE, state.page * PAGE_SIZE)
+            .map(
+              (hit: {
+                data: () => Promise<{ url: string; excerpt: string; meta: { title: string } }>
+              }) => hit.data(),
+            ),
+        )
+        if (!live() || generation !== transcriptGeneration) return
+        $(".rw-count").textContent = `${result.results.length.toLocaleString()} transcript passages`
+        $(".rw-list").innerHTML =
+          hits
+            .map((hit) => {
+              let url = new URL(hit.url, base)
+              if (!url.pathname.startsWith(base.pathname))
+                url = new URL(hit.url.replace(/^\//, ""), base)
+              url.searchParams.set("q", state.q)
+              const excerpt = document.createElement("div")
+              excerpt.innerHTML = hit.excerpt
+              return `<li><a class="rw-result" href="${safe(url.href)}"><div class="rw-result-topline">Transcript passage</div><div class="rw-result-text">${esc(hit.meta.title)}</div><p class="rw-result-match">${highlight(excerpt.textContent || "", state.q)}</p><p class="rw-result-source">Open passage with surrounding context →</p></a></li>`
+            })
+            .join("") ||
+          '<li class="rw-empty">No transcript passages match. Try fewer words or check the spelling.</li>'
+        $(".rw-pagination").innerHTML =
+          `<button data-page="${state.page - 1}" aria-label="Previous results page" ${state.page <= 1 ? "disabled" : ""}>←</button><span>Page ${state.page} of ${pages}</span><button data-page="${state.page + 1}" aria-label="Next results page" ${state.page >= pages ? "disabled" : ""}>→</button>`
+      } catch {
+        if (live() && generation === transcriptGeneration)
+          $(".rw-list").innerHTML =
+            '<li class="rw-empty" role="alert">Transcript search could not load. <button data-action="retry-transcripts">Try again</button> or browse Episodes.</li>'
+      }
+    }
     function resultHtml(r: IndexedRecord) {
       const passage = matchPassage(r, state.q),
         app = r.appearances.find((a) => a.episode === route.episode) || r.appearances[0],
         ep = manifest.episodes[app?.episode],
         metadata = recordMetadata(r)
-      return `<li><a class="rw-result" ${r.kind === "entity" ? "" : `data-record="${esc(r.id)}"`} href="${esc(itemUrl(r))}" ${state.item === r.id ? 'aria-current="true"' : ""}><div class="rw-result-topline"><span>${entity && r.kind === "statement" && r.type === "factual_claim" ? `<span class="rw-review-badge" data-outcome="${esc(outcomeFor(r))}">${esc(assessmentLabel(outcomeFor(r)))}</span>` : entityCatalog ? esc(entityTypeLabel(r.type)) : `${esc(kindName(r.kind))}${r.type !== r.kind ? ` · ${esc(label(r.type))}` : ""}`}</span>${r.kind === "entity" ? "<span>Open entity →</span>" : state.item === r.id ? "<span>Reading ↗</span>" : ""}</div><div class="rw-result-text">${highlight(r.text.slice(0, 270) + (r.text.length > 270 ? "…" : ""), state.q)}</div>${state.q && passage.label !== "Record" ? `<p class="rw-result-match"><small>Matched in ${esc(passage.label.toLowerCase())}</small>${highlight(passage.text, state.q)}</p>` : ""}${metadata.label || metadata.date ? `<div class="rw-result-meta">${metadata.label ? `<span>${esc(metadata.label)}</span>` : ""}${metadata.date ? `<time>${esc(metadata.date)}</time>` : ""}</div>` : ""}${entity ? `<p class="rw-result-why">${esc(entityReasons(r, entity.id).join(" · "))}</p>` : ep ? `<p class="rw-result-source">${esc(ep.title)} · ${esc(app.time)}</p>` : ""}</a></li>`
+      return `<li><a class="rw-result" ${r.kind === "entity" ? "" : `data-record="${esc(identity(r))}"`} href="${esc(itemUrl(r))}" ${byId.get(state.item) === r ? 'aria-current="true"' : ""}><div class="rw-result-topline"><span>${entity && r.kind === "statement" && r.type === "factual_claim" ? `<span class="rw-review-badge" data-outcome="${esc(outcomeFor(r))}">${esc(assessmentLabel(outcomeFor(r)))}</span>` : entityCatalog ? esc(entityTypeLabel(r.type)) : `${esc(kindName(r.kind))}${r.type !== r.kind ? ` · ${esc(label(r.type))}` : ""}`}</span>${r.kind === "entity" ? "<span>Open entity →</span>" : byId.get(state.item) === r ? "<span>Reading ↗</span>" : ""}</div><div class="rw-result-text">${highlight(r.text.slice(0, 270) + (r.text.length > 270 ? "…" : ""), state.q)}</div>${state.q && passage.label !== "Record" ? `<p class="rw-result-match"><small>Matched in ${esc(passage.label.toLowerCase())}</small>${highlight(passage.text, state.q)}</p>` : ""}${metadata.label || metadata.date ? `<div class="rw-result-meta">${metadata.label ? `<span>${esc(metadata.label)}</span>` : ""}${metadata.date ? `<time>${esc(metadata.date)}</time>` : ""}</div>` : ""}${entity ? `<p class="rw-result-why">${esc(entityReasons(r, entity.id).join(" · "))}</p>` : ep ? `<p class="rw-result-source">${esc(ep.title)} · ${esc(app.time)}</p>` : ""}</a></li>`
     }
     function renderResults() {
-      matches = filterRecords(records, state, route.entity)
+      matches = filterRecords(filteredRecords(), state, route.entity)
       if (entity) {
         const view = entityViews.find((v) => v.kind === state.kind)
         $(".rw-view-help").textContent =
@@ -349,19 +550,7 @@ async function initWorkspace(root: HTMLElement) {
             .map((value) => `<option value="${esc(value)}">${esc(assessmentLabel(value))}</option>`)
             .join("")
       }
-      const untyped = filterRecords(
-        records,
-        { ...state, kind: "all", ...(state.kind === "mentions" ? { entity: "" } : {}) },
-        route.entity,
-      )
-      root.querySelectorAll<HTMLButtonElement>("[data-kind]").forEach((button) => {
-        button.setAttribute("aria-pressed", String(button.dataset.kind === state.kind))
-        button.querySelector("span")!.textContent = String(
-          (entity ? records : untyped)
-            .filter((r) => matchesKind(r, button.dataset.kind!, route.entity))
-            .length.toLocaleString(),
-        )
-      })
+
       for (const key of [
         "q",
         "kind",
@@ -375,6 +564,9 @@ async function initWorkspace(root: HTMLElement) {
         const control = $<HTMLInputElement>(`[name="${key}"]`)
         if (control && document.activeElement !== control) control.value = state[key]
       }
+      root.dataset.searchScope = state.kind
+      $(".rw-result-options").hidden = state.kind === "transcript"
+      $(".rw-filter-details").hidden = state.kind === "transcript"
       $(".rw-tag-filter").hidden = state.kind === "mentions" || !entities.length
       $("#rw-filter-help").hidden = state.kind === "mentions" || !entities.length
       const choosingEntity = entityCatalog || state.kind === "entity"
@@ -383,8 +575,9 @@ async function initWorkspace(root: HTMLElement) {
         : entity
           ? "Also tagged with"
           : "Tagged entity"
-      $("#rw-filter-help").textContent =
-        `${entities.length.toLocaleString()} entities available. Type a name or alias to narrow the choices. ${choosingEntity ? "Select an entity to find its record." : "For evidence, tags are attached to the individual record—not everything mentioned in the same episode. Raw mention records have no additional entity tags."}`
+      $("#rw-filter-help").textContent = choosingEntity
+        ? "Find canonical names and aliases."
+        : "About filters use explicit record tags. Shared mentions do not establish a connection."
       $("[name=speaker]").closest<HTMLElement>("label")!.hidden = !records.some((r) => r.speaker)
       const activeFilters = ["kind", "entity", "speaker", "from", "to", "outcome"].filter(
         (key) =>
@@ -398,24 +591,24 @@ async function initWorkspace(root: HTMLElement) {
         .filter((key) => state[key as keyof WorkspaceState])
         .map(
           (key) =>
-            `<button type="button" data-clear="${key}" aria-label="Clear ${key === "kind" ? kindLabel.toLowerCase() : key} filter">${esc(key === "q" ? "Search" : key === "kind" ? kindLabel : label(key))}: ${esc(key === "kind" ? filterKindName(state.kind) : state[key as keyof WorkspaceState])} ×</button>`,
+            `<button type="button" data-clear="${key}" aria-label="Clear ${key === "kind" ? kindLabel.toLowerCase() : key} filter">${esc(key === "q" ? "Search" : key === "kind" ? kindLabel : label(key))}: ${esc(key === "kind" ? filterKindName(state.kind) : key === "entity" ? manifest.entities[state.entity]?.name || state.entity : state[key as keyof WorkspaceState])} ×</button>`,
         )
         .join("")
       const pages = Math.max(1, Math.ceil(matches.length / PAGE_SIZE))
-      state.page = Math.min(state.page, pages)
+      if (state.kind !== "transcript") state.page = Math.min(state.page, pages)
       const visible = matches.slice((state.page - 1) * PAGE_SIZE, state.page * PAGE_SIZE)
       let html = visible.map(resultHtml).join("")
-      if (state.group) {
+      if (state.group || (state.q && state.kind === "all" && !entity && !episode)) {
         const groups = new Map<string, IndexedRecord[]>()
         for (const r of visible) {
-          const key = r.appearances[0]?.episode || ""
+          const key = state.group ? r.appearances[0]?.episode || "" : r.kind
           if (!groups.has(key)) groups.set(key, [])
           groups.get(key)!.push(r)
         }
         html = [...groups]
           .map(
             ([key, rows]) =>
-              `<li class="rw-source-group"><h3>${esc(manifest.episodes[key]?.title || "Other records")}</h3><ol>${rows.map(resultHtml).join("")}</ol></li>`,
+              `<li class="rw-source-group"><h3>${esc(state.group ? manifest.episodes[key]?.title || "Other records" : kindName(key))}</h3><ol>${rows.map(resultHtml).join("")}</ol></li>`,
           )
           .join("")
       }
@@ -505,7 +698,7 @@ async function initWorkspace(root: HTMLElement) {
       const r = byId.get(state.item),
         selected = state.item
       if (r) state.appearance = Math.min(state.appearance, Math.max(0, r.appearances.length - 1))
-      root.dataset.reading = String(Boolean(r) && saved.reading)
+      root.dataset.reading = String(Boolean(state.item) && saved.reading)
       const back = $<HTMLButtonElement>('[data-action="back"]')
       if (back) back.disabled = history.length <= 1
       if (entity) $<HTMLButtonElement>('[data-action="results"]').disabled = !r
@@ -575,19 +768,23 @@ async function initWorkspace(root: HTMLElement) {
                 ? "An event recorded in the research dataset. Dates may be approximate; inspect the source wording."
                 : r.kind === "passage"
                   ? "Automatically transcribed source material; speaker identification may be imperfect."
-                  : ""
+                  : r.kind === "development"
+                    ? "A reviewed change in the on-channel account. Review establishes the narrative link, not the underlying allegation."
+                    : ""
       $(".rw-content").innerHTML =
-        `${!matches.some((item) => item.id === r.id) ? '<p class="rw-outside">This selection is outside the current results. Back restores your previous view.</p>' : ""}<article class="rw-record" aria-label="Full selected record"><div class="rw-record-topline"><p class="rw-eyebrow">${esc(contextName)} / ${esc(label(r.type))}</p>${r.kind === "statement" ? `<span class="rw-review-badge" data-outcome="${esc(outcome)}">${esc(assessmentLabel(outcome))}</span>` : ""}</div><h2 class="rw-record-title">${highlight(r.text, state.q)}</h2>${metadata.date ? (r.speaker ? `<p class="rw-attribution"><strong>${esc(r.speaker)}</strong>${r.reportedBy ? ` · reported by ${esc(r.reportedBy)}` : ""}<small>${esc(metadata.date)}${app ? ` · ${esc(app.time)}` : ""}</small></p>` : `<p class="rw-source-meta">${esc(metadata.date)}${r.datePrecision ? ` · ${esc(r.datePrecision)} precision` : ""}</p>`) : ""}
-        ${entity ? `<div class="rw-why"><strong>Why this is here</strong><p>${esc(entityReasons(r, entity.id).join(" · "))} (${esc(entity.name)})</p></div>` : ""}
+        `${!matches.some((item) => item.id === r.id) ? '<p class="rw-outside">This selection is outside the current results. Back restores your previous view.</p>' : ""}<article class="rw-record" aria-label="Full selected record"><div class="rw-record-topline"><p class="rw-eyebrow">${esc(contextName)} / ${esc(label(r.type))}</p>${r.kind === "statement" ? `<span class="rw-review-badge" data-outcome="${esc(outcome)}">${esc(assessmentLabel(outcome))}</span>` : ""}</div>${["passage", "mention"].includes(r.kind) ? `<h2 class="rw-record-title">${r.kind === "passage" ? "Transcript passage" : "Transcript mention"}</h2><p class="rw-passage-text">${highlight(r.text, state.q)}</p>` : `<h2 class="rw-record-title">${highlight(r.text, state.q)}</h2>`}${metadata.date ? (r.speaker ? `<p class="rw-attribution"><strong>${esc(r.speaker)}</strong>${r.reportedBy ? ` · reported by ${esc(r.reportedBy)}` : ""}<small>${esc(metadata.date)}${app ? ` · ${esc(app.time)}` : ""}</small></p>` : `<p class="rw-source-meta">${esc(metadata.date)}${r.datePrecision ? ` · ${esc(r.datePrecision)} precision` : ""}</p>`) : ""}
+
         ${caveat ? `<p class="rw-caveat">${caveat}</p>` : ""}
         ${r.notes ? `<section><h3>${r.kind === "source" ? "Why this source was cited" : "Record notes"}</h3><p class="rw-notes">${highlight(r.notes, state.q)}</p></section>` : ""}
         ${r.dateAsStated ? `<p>Source date wording: ${esc(r.dateAsStated)}</p>` : ""}
         ${r.url ? `<p><a href="${safe(r.url)}" target="_blank" rel="noopener">${esc(r.domain || "Original source")} ↗</a></p>` : ""}
+        ${recordActions(r)}
         ${app ? sourceHtml(r, app) : ""}
+        ${r.links.length ? `<section class="rw-related"><h3>Follow this development</h3><ul>${r.links.map((link) => `<li>${recordLink(link.href, link.title)}</li>`).join("")}</ul><p class="rw-help">Reviewed record links. They do not establish the underlying claim.</p></section>` : ""}
         ${r.kind === "statement" || verification.note || sources.length ? `<details id="rw-review" class="rw-review" ${!entity && ["mixed", "false", "unverifiable"].includes(outcome) ? "open" : ""}><summary>Verification notes & sources (${sources.length})${r.kind === "statement" ? ` · ${esc(assessmentLabel(outcome))}` : ""}</summary><p class="rw-notes">${esc(verification.notes || verification.note || "No review explanation recorded. Do not assume this statement has been established.")}</p>${sources.length ? `<ul>${sources.map((s) => `<li><a href="${safe(s.url)}" target="_blank" rel="noopener">${esc(s.title || s.url)}</a>${s.relevance ? ` — ${esc(s.relevance)}` : ""}</li>`).join("")}</ul>` : ""}<p class="rw-help">Existing dataset assessment, not a new fact-check.${verification.confidence ? ` Recorded confidence: ${esc(verification.confidence)}.` : ""}</p></details>` : ""}
         ${r.entityIds.length ? `<section><h3>Tagged on this record</h3><p class="rw-help">These tags belong to this record. A shared tag does not establish a relationship.</p><div class="rw-tags">${r.entityIds.map((id) => `<a href="${safe(`/entities/${id}`)}">${esc(manifest.entities[id]?.name || id)}</a>`).join("")}</div></section>` : ""}
-        ${r.statementIds?.length ? `<section class="rw-cited-statements"><h3>Cited for ${r.statementIds.length} statements</h3><div>Loading linked statements…</div></section>` : ""}
-        ${r.links.length ? `<section><h3>Related theory-thread entries</h3><ul>${r.links.map((link) => `<li>${recordLink(link.href, link.title)}</li>`).join("")}</ul><p class="rw-help">Explicit record links—not inferred agreement or contradiction.</p></section>` : ""}
+        ${r.statementIds?.length ? `<section class="rw-cited-statements"><h3>${r.kind === "source" ? "Cited for" : "Evidence from"} ${r.statementIds.length} ${r.statementIds.length === 1 ? "statement" : "statements"}</h3><div>Loading linked statements…</div></section>` : ""}
+
         <p class="rw-record-id">${esc(r.id)}${!["mention", "passage", "source"].includes(r.kind) ? ` · ${recordLink(r.href, "Permanent record")}` : ""}</p></article>`
       if (saved.open)
         root.querySelectorAll<HTMLDetailsElement>(".rw-reader details[id]").forEach((detail) => {
@@ -647,6 +844,9 @@ async function initWorkspace(root: HTMLElement) {
     }
     function render(restoreWindow = false) {
       renderResults()
+      renderDiscovery()
+      renderCollection()
+      void renderTranscriptSearch()
       const pendingTranscript = renderTranscript(restoreWindow)
       const selected = state.item
       const top = saved.windowScroll || 0
@@ -669,6 +869,7 @@ async function initWorkspace(root: HTMLElement) {
     root.addEventListener(
       "submit",
       (event) => {
+        if (!(event.target as HTMLElement).matches(".rw-search")) return
         event.preventDefault()
         change({ q: $<HTMLInputElement>('[name="q"]').value, item: "", appearance: 0 })
       },
@@ -678,6 +879,15 @@ async function initWorkspace(root: HTMLElement) {
       "input",
       (event) => {
         const input = event.target as HTMLInputElement
+        if (input.dataset.note) {
+          const item = notebook.find((i) => savedKey(i) === input.dataset.note)
+          if (item) {
+            item.note = input.value
+            persistNotebook()
+          }
+          return
+        }
+        if (input.closest(".rw-discover-search")) return
         if (!["q", "entity", "speaker"].includes(input.name)) return
         clearTimeout(timer)
         timer = setTimeout(
@@ -716,7 +926,7 @@ async function initWorkspace(root: HTMLElement) {
       "click",
       (event) => {
         const target = (event.target as HTMLElement).closest<HTMLElement>(
-          "[data-record],[data-kind],[data-action],[data-page],[data-clear],[data-episode-view]",
+          "[data-record],[data-kind],[data-action],[data-page],[data-clear],[data-episode-view],[data-remove]",
         )
         if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey || event.button !== 0)
           return
@@ -741,14 +951,18 @@ async function initWorkspace(root: HTMLElement) {
         }
         event.preventDefault()
         event.stopPropagation()
-        if (target.dataset.episodeView) {
+        if (target.dataset.remove) {
+          notebook = notebook.filter((item) => savedKey(item) !== target.dataset.remove)
+          persistNotebook()
+          render()
+        } else if (target.dataset.episodeView) {
           change({ view: target.dataset.episodeView as WorkspaceState["view"] }, false)
           scrollToTranscriptSelection()
         } else if (target.dataset.record) {
           const r = byId.get(target.dataset.record)!
           change(
             {
-              item: r.id,
+              item: target.dataset.record,
               appearance: Math.max(
                 0,
                 r.appearances.findIndex((a) => a.episode === route.episode),
@@ -771,25 +985,130 @@ async function initWorkspace(root: HTMLElement) {
           change({ [target.dataset.clear]: target.dataset.clear === "kind" ? "all" : "", item: "" })
         else
           switch (target.dataset.action) {
+            case "save": {
+              const r = byId.get(target.dataset.key!)
+              if (!r) break
+              const existing = notebook.find((item) => savedRecord(item) === r)
+              notebook = existing
+                ? notebook.filter((item) => item !== existing)
+                : [
+                    ...notebook,
+                    {
+                      id: r.id,
+                      episode: ["passage", "mention"].includes(r.kind)
+                        ? r.appearances[0]?.episode || ""
+                        : "",
+                      appearance: state.appearance,
+                      note: "",
+                    },
+                  ]
+              persistNotebook()
+              render()
+              break
+            }
+            case "compare": {
+              const key = target.dataset.key!,
+                selected = state.compare.split(",").filter(Boolean),
+                appearances = state.compareAt.split(",")
+              if (!selected.includes(key) && selected.length === 2) {
+                feedback(
+                  "Two records are selected. Remove one from the comparison before adding another.",
+                )
+                break
+              }
+              const pairs = selected.map((id, i) => ({ id, appearance: appearances[i] || "0" }))
+              const next = selected.includes(key)
+                ? pairs.filter((p) => p.id !== key)
+                : [...pairs, { id: key, appearance: String(state.appearance) }]
+              change(
+                {
+                  compare: next.map((p) => p.id).join(","),
+                  compareAt: next.map((p) => p.appearance).join(","),
+                },
+                false,
+              )
+              $(".rw-collection").scrollIntoView({ block: "start" })
+              break
+            }
+            case "clear-compare":
+              change({ compare: "", compareAt: "" }, false)
+              break
+            case "citation": {
+              const r = byId.get(target.dataset.key!)
+              if (r) {
+                const text = citation(r, manifest, base, state.appearance)
+                void navigator.clipboard.writeText(text).then(
+                  () => feedback("Citation copied with record and source links."),
+                  () => {
+                    if (!live() || !target.isConnected) return
+                    const box =
+                      root.querySelector<HTMLTextAreaElement>(".rw-citation-copy") ||
+                      document.createElement("textarea")
+                    box.className = "rw-citation-copy"
+                    box.readOnly = true
+                    box.setAttribute("aria-label", "Citation to copy")
+                    box.value = text
+                    target.closest(".rw-record-actions")?.after(box)
+                    box.select()
+                    feedback("Citation selected. Press Ctrl+C or ⌘C to copy it.")
+                  },
+                )
+              }
+              break
+            }
+            case "export-md":
+            case "export-csv": {
+              const rows = notebook.map((item) => {
+                const r = savedRecord(item)
+                return {
+                  item,
+                  r,
+                  text: r
+                    ? citation(r, manifest, base, item.appearance)
+                    : `Unavailable record: ${item.id}`,
+                }
+              })
+              const csv = target.dataset.action === "export-csv"
+              const body = csv
+                ? [
+                    ["Record", "Citation", "Research note"],
+                    ...rows.map(({ item, text }) => [item.id, text, item.note]),
+                  ]
+                    .map((row) => row.map(csvCell).join(","))
+                    .join("\r\n")
+                : rows
+                    .map(
+                      ({ item, text }) =>
+                        `${text}${item.note ? `\n\nResearch note: ${item.note}` : ""}`,
+                    )
+                    .join("\n\n---\n\n")
+              const url = URL.createObjectURL(
+                new Blob([body], {
+                  type: csv ? "text/csv;charset=utf-8" : "text/markdown;charset=utf-8",
+                }),
+              )
+              const a = document.createElement("a")
+              a.href = url
+              a.download = `candace-research.${csv ? "csv" : "md"}`
+              a.click()
+              setTimeout(() => URL.revokeObjectURL(url), 1000)
+              feedback("Research exported with citations and notes.")
+              break
+            }
+            case "retry-transcripts":
+              void renderTranscriptSearch()
+              break
             case "back":
               if (history.length > 1) history.back()
               break
-            case "results":
-              if (entity) {
-                const top = saved.resultsWindowScroll || 0
-                change({ item: "", appearance: 0 }, false)
-                window.scrollTo({ top })
-                remember()
-                $(".rw-result-scroll").focus({ preventScroll: true })
-                break
-              }
-              remember()
-              saved.reading = false
-              root.dataset.reading = "false"
-              if (mobile()) window.scrollTo({ top: saved.resultsWindowScroll || 0 })
+            case "results": {
+              const top = saved.resultsWindowScroll || 0
+              change({ item: "", appearance: 0 }, false)
+              window.scrollTo({ top })
               remember()
               $(".rw-result-scroll").focus({ preventScroll: true })
               break
+            }
             case "filters":
               root.dataset.filtersOpen = String(root.dataset.filtersOpen !== "true")
               target.setAttribute("aria-expanded", root.dataset.filtersOpen)
@@ -797,6 +1116,9 @@ async function initWorkspace(root: HTMLElement) {
             case "reset":
               change({
                 ...defaults,
+                saved: state.saved,
+                compare: state.compare,
+                compareAt: state.compareAt,
                 kind: route.kind || "all",
                 sort: readState(new URL(location.pathname, location.origin), route).sort,
               })
@@ -869,10 +1191,6 @@ async function initWorkspace(root: HTMLElement) {
             `.rw-linked-transcript #${CSS.escape(state.item.replace(/^passage-/, ""))}`,
           )
           ?.scrollIntoView({ block: "start" })
-    }
-    if (entity && !restoring && !mobile() && !new URL(location.href).searchParams.has("item")) {
-      state.item = filterRecords(records, state, route.entity)[0]?.id || ""
-      saved.reading = Boolean(state.item)
     }
     // Upgrade old catalog ?item=entity links, retaining the search as the Back destination.
     const selectedEntity = byId.get(state.item)

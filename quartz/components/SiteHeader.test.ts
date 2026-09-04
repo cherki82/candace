@@ -25,20 +25,18 @@ test("shared header keeps all destinations reachable under the deployment prefix
   ]) {
     const html = markup(slug)
     assert.match(html, /aria-label="Candace Knowledge Graph home"/)
-    assert.match(html, /Candace<br\/><strong>Knowledge Graph<\/strong>/)
+    assert.match(html, /site-brand-name">Candace<\/span>/)
     assert.doesNotMatch(html, /Content Knowledge Graph|Content<br/)
     const page = new URL(`https://example.com/candace/${slug === "index" ? "" : slug}`)
     const hrefs = [...html.matchAll(/href="([^"]+)"/g)].map((m) => new URL(m[1], page))
-    assert.equal(new Set(hrefs.map((url) => url.href)).size, 12)
+    assert.equal(new Set(hrefs.map((url) => url.href)).size, 11)
     assert.ok(hrefs.every((url) => url.pathname.startsWith("/candace/")))
-    assert.ok(
-      hrefs.some((url) =>
-        url.pathname.endsWith("/threads/thread-charlie-kirk-assassination-alternative-theories"),
-      ),
-    )
-    assert.ok(hrefs.some((url) => url.hash === "#transcript-search"))
+    assert.ok(hrefs.some((url) => url.pathname.endsWith("/index/threads")))
+    assert.ok(hrefs.some((url) => url.searchParams.get("kind") === "transcript"))
+    assert.ok(hrefs.some((url) => url.searchParams.get("saved") === "1"))
+    assert.match(html, /role="search" aria-label="Search all research"/)
     assert.match(html, /<details class="site-more"/)
-    assert.match(html, /class="site-desktop-menu-label">More<\/span>/)
+    assert.match(html, /class="site-desktop-menu-label">Browse<\/span>/)
   }
 })
 
@@ -49,20 +47,20 @@ test("mobile menu starts collapsed and includes every primary destination at one
   const mobile = html.match(/<div class="site-mobile-links">([\s\S]*?)<\/div>/)![1]
   assert.deepEqual(
     [...mobile.matchAll(/<a[^>]*>([^<]+)<\/a>/g)].map((m) => m[1]),
-    ["Search site", "Theory threads", "Entities", "Episodes", "Events", "Sources"],
+    ["Discover", "Topics", "Saved"],
   )
-  assert.match(mobile, /aria-current="page">Episodes<\/a>/)
+  assert.match(html, /aria-current="page">Episodes<\/a>/)
   assert.doesNotMatch(mobile, /<details|<summary/)
 })
 
 test("active navigation is rendered for detail, index, and secondary pages", () => {
   for (const [slug, label] of [
-    ["entities/person-donald-trump", "Entities"],
-    ["index/entities", "Entities"],
+    ["entities/person-donald-trump", "People, places &amp; organizations"],
+    ["index/entities", "People, places &amp; organizations"],
     ["episodes/ep-test", "Episodes"],
-    ["events/event-test", "Events"],
-    ["index/threads", "Theory threads"],
-    ["statements/statement-test", "All statements"],
+    ["events/event-test", "Events &amp; timeline"],
+    ["index/threads", "Topics"],
+    ["statements/statement-test", "Statements"],
   ]) {
     const html = markup(slug)
     assert.match(html, new RegExp(`aria-current="page">${label}</a>`))
@@ -70,7 +68,7 @@ test("active navigation is rendered for detail, index, and secondary pages", () 
     assert.ok(active.length > 0 && active.every((match) => match[1] === label))
   }
   assert.match(markup("index/claims"), /data-active="true"/)
-  assert.doesNotMatch(markup("index"), /aria-current/)
+  assert.match(markup("index"), /aria-current="page">Discover/)
 })
 
 test("404 navigation works even when the missing URL is deeply nested", () => {

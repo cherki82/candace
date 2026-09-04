@@ -4,9 +4,8 @@ import * as Component from "./quartz/components"
 // One shared masthead and search entry point on content, folder, and tag pages.
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [Component.SiteHeader(), Component.Search(), Component.Darkmode()],
+  header: [Component.SiteHeader(), Component.Darkmode()],
   afterBody: [
-    Component.PagefindSearch(),
     Component.Share(),
     Component.PageFilter(),
     Component.AnchorHighlight(),

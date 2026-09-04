@@ -45,6 +45,9 @@ const RecordWorkspace: QuartzComponent = ({ fileData, ctx }) => {
           </a>
         </nav>
       )}
+      <section class="rw-discovery" aria-label="Discover research" hidden />
+      <section class="rw-topic-intro" aria-label="Topic overview" hidden />
+      <section class="rw-collection" aria-label="Saved evidence" hidden />
       <div class="rw-controls">
         <p role="status">Loading this view’s searchable records…</p>
       </div>
@@ -73,14 +76,9 @@ const RecordWorkspace: QuartzComponent = ({ fileData, ctx }) => {
                 ← Back to results
               </button>
             ) : (
-              <>
-                <button type="button" data-action="back" disabled>
-                  ← Back
-                </button>
-                <button type="button" data-action="results" class="rw-mobile">
-                  ← Results
-                </button>
-              </>
+              <button type="button" data-action="results">
+                ← Results
+              </button>
             )}
             <span class="rw-selection-label" />
             <button type="button" data-action="smaller" aria-label="Decrease reading text size">
