@@ -20,7 +20,7 @@ date: "2025-09-16"
 
 > Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk's assassination.
 
-## Mentioned In (9 times)
+## Mentioned In (10 times)
 
 ### 1. Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Cand...
 
@@ -96,3 +96,11 @@ date: "2025-09-16"
 
 > **Date stated in this source:** “five days after her husband died”
 > **Date review note:** The source uses elapsed-time wording that conflicts by one day with the canonical 2025-09-16 date, which is retained because it is directly stated in another source and externally corroborated.
+
+### 10. Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’...
+
+**Episode:** [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md)
+**Timestamp:** [00:46:43](/episodes/ep-FGoeoZxDN1c.md#event-event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning-t-00-46-34) 
+<a href="https://www.youtube.com/watch?v=FGoeoZxDN1c&t=2803s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Six days, laughing at emojis, laughing at emojis on a Zoom call. I thought you were in bed, that you couldn't sleep, that you couldn't eat, potentially had to drug yourself to sleep. You were just giggling at emojis. And then you told us that—told Jesse Watters interview—that you didn't even need a sleeping pill. You didn't even need to take melatonin. You just, like—

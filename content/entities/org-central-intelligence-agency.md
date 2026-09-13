@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 181 mentions"
+description: "Central Intelligence Agency (Organizations) - 182 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-10-39">2025-09-16 · 01:11:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-central-intelligence-agency-t-00-03-05">2026-09-03 · 00:03:05</a></strong></div>
-<div><span>Episodes</span><strong>75</strong></div>
-<div><span>Mentions</span><strong>181</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-central-intelligence-agency-t-00-51-37">2026-09-09 · 00:51:44</a></strong></div>
+<div><span>Episodes</span><strong>76</strong></div>
+<div><span>Mentions</span><strong>182</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>64</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
@@ -111,6 +111,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-central-intelligence-agency-t-00-10-35" style="--pulse-height:24%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-central-intelligence-agency-t-01-03-35" style="--pulse-height:12%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-central-intelligence-agency-t-00-03-05" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-central-intelligence-agency-t-00-51-37" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -191,6 +192,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-central-intelligence-agency-t-00-10-35) | 4 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-central-intelligence-agency-t-01-03-35) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-central-intelligence-agency-t-00-03-05) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-central-intelligence-agency-t-00-51-37) | 1 |
 
 </details>
 </section>
@@ -202,7 +204,15 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (181)</strong></summary>
+<summary><strong class="section-title">Raw mentions (182)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:51:44](/episodes/ep-bpXkPHpz9po.md#ent-org-central-intelligence-agency-t-00-51-37)**
+> "...ne of our best sellers is our CIA cap."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>

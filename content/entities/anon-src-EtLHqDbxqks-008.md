@@ -13,7 +13,7 @@ _Type: Anonymous Sources_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -60,7 +60,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ms. Noble (ring-camera witness; full identity unverified) (2)</strong></summary>
+<summary><strong class="section-title">Statements about Ms. Noble (ring-camera witness; full identity unverified) (3)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:36:59](/episodes/ep-bpXkPHpz9po.md#t-00-36-48) (Opinion) **Candace Owens**: ["Owens argued conditionally that the receipt would rule out Robinson as..."](/statements/statement-c4e51cb7de30.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Google Maps](/entities/work-google-maps.md)
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2)</summary>

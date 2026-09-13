@@ -20,7 +20,7 @@ date: "2024-03-22"
 
 > Candace Owens and The Daily Wire ended their relationship.
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -53,3 +53,11 @@ date: "2024-03-22"
 <a href="https://www.youtube.com/watch?v=sKuYLNx3iRo&t=2642s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > They weren't going to do Jordan Peterson. So they got rid of me in a rather glorious public firing
+
+### 5. Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’...
+
+**Episode:** [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md)
+**Timestamp:** [00:22:59](/episodes/ep-FGoeoZxDN1c.md#event-event-2024-03-22-candace-owens-and-the-daily-wire-ended-t-t-00-22-59) 
+<a href="https://www.youtube.com/watch?v=FGoeoZxDN1c&t=1379s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.

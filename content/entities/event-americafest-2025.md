@@ -1,11 +1,12 @@
 ---
 title: "AmericaFest 2025"
-description: "AmericaFest 2025 (Events) - 43 mentions"
+description: "AmericaFest 2025 (Events) - 44 mentions"
 id: "event-americafest-2025"
 type: "EVENT"
 aliases:
   - "AmFest"
   - "AmericaFest"
+  - "AMFest"
 categories:
   - "political conference"
   - "Turning Point USA"
@@ -13,7 +14,7 @@ categories:
 
 _Type: Events_
 
-**Also known as:** AmFest, AmericaFest
+**Also known as:** AmFest, AmericaFest, AMFest
 
 **Categories:** political conference, Turning Point USA
 
@@ -25,11 +26,11 @@ Source: [AmericaFest](https://www.amfest.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-02-04">2026-01-05 · 00:02:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-event-americafest-2025-t-00-55-37">2026-09-03 · 00:55:48</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-event-americafest-2025-t-00-45-27">2026-09-08 · 00:45:27</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -56,6 +57,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-event-americafest-2025-t-00-04-23" style="--pulse-height:10%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-05-48" style="--pulse-height:20%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-event-americafest-2025-t-00-55-37" style="--pulse-height:10%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-event-americafest-2025-t-00-45-27" style="--pulse-height:10%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -79,6 +81,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-event-americafest-2025-t-00-04-23) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-05-48) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-event-americafest-2025-t-00-55-37) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-event-americafest-2025-t-00-45-27) | 1 |
 
 </details>
 </section>
@@ -90,7 +93,15 @@ Source: [AmericaFest](https://www.amfest.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:45:27](/episodes/ep-FGoeoZxDN1c.md#ent-event-americafest-2025-t-00-45-27)**
+> "... Vance (JD Vance). You opened AMFest and said we got to get Vance (JD Vance) elected."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -387,7 +398,15 @@ Source: [AmericaFest](https://www.amfest.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about AmericaFest 2025 (15)</strong></summary>
+<summary><strong class="section-title">Statements about AmericaFest 2025 (16)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>
+
+- [00:45:27](/episodes/ep-FGoeoZxDN1c.md#t-00-45-27) (Claim) **Candace Owens**: ["Owens said Erika Kirk opened AmericaFest by calling for JD Vance to be..."](/statements/statement-44b18d4e304d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [JD Vance](/entities/person-jd-vance.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>

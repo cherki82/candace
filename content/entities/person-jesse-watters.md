@@ -1,6 +1,6 @@
 ---
 title: "Jesse Watters"
-description: "Jesse Watters (People) - 30 mentions"
+description: "Jesse Watters (People) - 32 mentions"
 id: "person-jesse-watters"
 type: "PERSON"
 aliases:
@@ -21,11 +21,11 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jesse-watters-t-00-12-38">2025-10-09 · 00:13:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-jesse-watters-t-00-16-07">2026-07-21 · 00:16:29</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-jesse-watters-t-00-46-34">2026-09-08 · 00:46:43</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -49,6 +49,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-jesse-watters-t-00-21-10" style="--pulse-height:11%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-jesse-watters-t-00-09-46" style="--pulse-height:22%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-jesse-watters-t-00-16-07" style="--pulse-height:11%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-jesse-watters-t-00-45-51" style="--pulse-height:22%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +70,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-jesse-watters-t-00-21-10) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-jesse-watters-t-00-09-46) | 2 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-jesse-watters-t-00-16-07) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-jesse-watters-t-00-45-51) | 2 |
 
 </details>
 </section>
@@ -80,7 +82,18 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2 mentions)</summary>
+
+**[00:45:51](/episodes/ep-FGoeoZxDN1c.md#ent-person-jesse-watters-t-00-45-51)**
+> "..., we got all of this from the Jesse Watters interview. She writes, grief is strange."
+
+**[00:46:43](/episodes/ep-FGoeoZxDN1c.md#ent-person-jesse-watters-t-00-46-34)**
+> "...nd then you told us that—told Jesse Watters interview—that you didn't even need a sleeping pi..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -311,7 +324,15 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jesse Watters (1)</strong></summary>
+<summary><strong class="section-title">Statements about Jesse Watters (2)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>
+
+- [00:46:43](/episodes/ep-FGoeoZxDN1c.md#t-00-46-34) (Claim) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk told Jesse Watters she did not need sleeping pil..."](/statements/statement-a8f574e25993.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>

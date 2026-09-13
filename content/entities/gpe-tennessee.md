@@ -1,6 +1,6 @@
 ---
 title: "Tennessee"
-description: "Tennessee (Places) - 33 mentions"
+description: "Tennessee (Places) - 35 mentions"
 id: "gpe-tennessee"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-tennessee-t-00-22-17">2025-11-04 · 00:22:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-tennessee-t-00-35-44">2026-09-02 · 00:36:16</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-tennessee-t-00-04-51">2026-09-09 · 00:04:59</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -58,6 +58,8 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 <a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-tennessee-t-00-23-05" style="--pulse-height:50%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-tennessee-t-00-05-39" style="--pulse-height:25%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-tennessee-t-00-35-44" style="--pulse-height:25%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-tennessee-t-00-37-40" style="--pulse-height:25%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-tennessee-t-00-04-51" style="--pulse-height:25%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -86,6 +88,8 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-tennessee-t-00-23-05) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-tennessee-t-00-05-39) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-tennessee-t-00-35-44) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-tennessee-t-00-37-40) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-tennessee-t-00-04-51) | 1 |
 
 </details>
 </section>
@@ -93,7 +97,23 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:04:59](/episodes/ep-bpXkPHpz9po.md#ent-gpe-tennessee-t-00-04-51)**
+> "...and she had to pay me here in Tennessee because we have anti-SLAPP laws gratefully."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:37:58](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-tennessee-t-00-37-40)**
+> "I'm in Tennessee."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>

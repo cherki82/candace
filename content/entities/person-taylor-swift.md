@@ -1,6 +1,6 @@
 ---
 title: "Taylor Swift"
-description: "Taylor Swift (People) - 40 mentions"
+description: "Taylor Swift (People) - 41 mentions"
 id: "person-taylor-swift"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-03">2025-11-06 · 00:38:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-taylor-swift-t-00-20-39">2026-08-31 · 00:20:39</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-taylor-swift-t-00-01-32">2026-09-08 · 00:01:51</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
@@ -50,6 +50,7 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-taylor-swift-t-00-31-08" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-taylor-swift-t-00-50-26" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-taylor-swift-t-00-15-40" style="--pulse-height:21%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 3 mentions" title="2026-08-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-taylor-swift-t-00-01-32" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +71,7 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-taylor-swift-t-00-31-08) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-taylor-swift-t-00-50-26) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-taylor-swift-t-00-15-40) | 3 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-taylor-swift-t-00-01-32) | 1 |
 
 </details>
 </section>
@@ -77,7 +79,15 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:01:51](/episodes/ep-FGoeoZxDN1c.md#ent-person-taylor-swift-t-00-01-32)**
+> "...a world tour that is equal to Taylor Swift's Eras Tour. And he's doing it amidst a total media..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3 mentions)</summary>

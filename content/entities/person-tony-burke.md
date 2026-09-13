@@ -1,6 +1,6 @@
 ---
 title: "Tony Burke"
-description: "Tony Burke (People) - 3 mentions"
+description: "Tony Burke (People) - 4 mentions"
 id: "person-tony-burke"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Conservative US influencer Candace Owens is barred from New Zealand wee
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-tony-burke-t-00-03-52">2025-11-06 · 00:04:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-tony-burke-t-00-39-37">2026-01-16 · 00:39:37</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-tony-burke-t-00-48-52">2026-09-09 · 00:49:28</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -33,6 +33,7 @@ Source: [Conservative US influencer Candace Owens is barred from New Zealand wee
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-tony-burke-t-00-03-52" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-tony-burke-t-00-39-37" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-tony-burke-t-00-48-52" style="--pulse-height:50%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Conservative US influencer Candace Owens is barred from New Zealand wee
 |---|---|---:|
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-tony-burke-t-00-03-52) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-tony-burke-t-00-39-37) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-tony-burke-t-00-48-52) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Conservative US influencer Candace Owens is barred from New Zealand wee
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:49:28](/episodes/ep-bpXkPHpz9po.md#ent-person-tony-burke-t-00-48-52)**
+> "...o in Australia. I guess they, Tony Burke banned me because the Zionist lobby lobbied."
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
@@ -78,7 +88,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tony Burke (2)</strong></summary>
+<summary><strong class="section-title">Statements about Tony Burke (3)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:49:28](/episodes/ep-bpXkPHpz9po.md#t-00-48-52) (Accusation) **Candace Owens**: ["Owens alleged that Tony Burke banned her from Australia because of lob..."](/statements/statement-61f99d321593.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Australia](/entities/gpe-australia.md)
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Dose"
-description: "Dose (Organizations) - 68 mentions"
+description: "Dose (Organizations) - 70 mentions"
 id: "org-dose"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-dose-t-00-25-21">2025-11-03 · 00:25:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-dose-t-00-23-39">2026-08-21 · 00:23:59</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>68</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-dose-t-00-27-52">2026-09-09 · 00:28:05</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -51,6 +51,7 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-dose-t-00-25-53" style="--pulse-height:38%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 3 mentions" title="2026-07-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-dose-t-00-27-41" style="--pulse-height:38%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 3 mentions" title="2026-08-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-dose-t-00-22-57" style="--pulse-height:38%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 3 mentions" title="2026-08-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-dose-t-00-27-11" style="--pulse-height:25%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +72,7 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-dose-t-00-25-53) | 3 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-dose-t-00-27-41) | 3 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-dose-t-00-22-57) | 3 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-dose-t-00-27-11) | 2 |
 
 </details>
 </section>
@@ -78,7 +80,18 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (68)</strong></summary>
+<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
+
+**[00:27:39](/episodes/ep-bpXkPHpz9po.md#ent-org-dose-t-00-27-11)**
+> "...o want to tell you guys about Dose because did you know that more than half of the a..."
+
+**[00:28:05](/episodes/ep-bpXkPHpz9po.md#ent-org-dose-t-00-27-52)**
+> "... you accept that's why i take dose for your liver dose is a highly absorbable liquid..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (3 mentions)</summary>

@@ -17,7 +17,7 @@ time: "20:00"
 
 > Frank Turek said he took a long walk with Charlie Kirk around 8 p.m.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -34,3 +34,11 @@ time: "20:00"
 <a href="https://www.youtube.com/watch?v=ZzAT2xijKGQ&t=2144s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the last walk we went on, Megyn, was Monday night, so the terrible day was Wednesday.
+
+### 3. EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back Fr...
+
+**Episode:** [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md)
+**Timestamp:** [00:07:11](/episodes/ep-bpXkPHpz9po.md#t-00-06-53) 
+<a href="https://www.youtube.com/watch?v=bpXkPHpz9po&t=431s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> We are to believe that he went on this walk with him on September 8th because Charlie just needed debate tips, right?

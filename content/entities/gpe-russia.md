@@ -1,6 +1,6 @@
 ---
 title: "Russia"
-description: "Russia (Places) - 210 mentions"
+description: "Russia (Places) - 211 mentions"
 id: "gpe-russia"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01">2025-09-16 · 00:00:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52">2026-08-14 · 03:39:52</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>210</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-russia-t-00-34-21">2026-09-08 · 00:34:41</a></strong></div>
+<div><span>Episodes</span><strong>45</strong></div>
+<div><span>Mentions</span><strong>211</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -78,6 +78,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-russia-t-00-30-59" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 5 mentions" title="2026-08-04 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-russia-t-02-49-39" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-russia-t-00-34-21" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -127,6 +128,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-russia-t-00-30-59) | 5 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45) | 2 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-russia-t-02-49-39) | 2 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-russia-t-00-34-21) | 1 |
 
 </details>
 </section>
@@ -138,7 +140,15 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (210)</strong></summary>
+<summary><strong class="section-title">Raw mentions (211)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:34:41](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-russia-t-00-34-21)**
+> "...in our partial family trip to Russia because we didn't take the youngest because the i..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>

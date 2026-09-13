@@ -1,6 +1,6 @@
 ---
 title: "Australia"
-description: "Australia (Places) - 51 mentions"
+description: "Australia (Places) - 55 mentions"
 id: "gpe-australia"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-australia-t-00-41-28">2025-09-18 · 00:41:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26">2026-06-26 · 00:48:26</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-australia-t-00-48-52">2026-09-09 · 00:49:28</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -57,6 +57,8 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-australia-t-00-32-35" style="--pulse-height:33%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-australia-t-00-53-29" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26" style="--pulse-height:17%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-australia-t-00-22-59" style="--pulse-height:33%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-australia-t-00-48-52" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -88,6 +90,8 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-australia-t-00-32-35) | 2 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-australia-t-00-53-29) | 3 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-australia-t-00-22-59) | 2 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-australia-t-00-48-52) | 2 |
 
 </details>
 </section>
@@ -95,7 +99,29 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
+
+**[00:49:17](/episodes/ep-bpXkPHpz9po.md#ent-gpe-australia-t-00-48-52)**
+> "...tely stunning. Greetings from Australia. I am so upset at our government for not letting ..."
+
+**[00:49:28](/episodes/ep-bpXkPHpz9po.md#ent-gpe-australia-t-00-48-52)**
+> "...ay. It's just what they do in Australia. I guess they, Tony Burke banned me because the Z..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2 mentions)</summary>
+
+**[00:23:19](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-australia-t-00-22-59)**
+> "... is always wrong. Ban me from Australia after that."
+
+**[00:23:25](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-australia-t-00-22-59)**
+> "Zionist lobby of Australia getting me banned like I'm some threat to society..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -390,7 +416,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Australia (7)</strong></summary>
+<summary><strong class="section-title">Statements about Australia (9)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2)</summary>
+
+- [00:49:28](/episodes/ep-bpXkPHpz9po.md#t-00-48-52) (Accusation) **Candace Owens**: ["Owens alleged that Tony Burke banned her from Australia because of lob..."](/statements/statement-61f99d321593.md)
+  - Also about: [Tony Burke](/entities/person-tony-burke.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:49:45](/episodes/ep-bpXkPHpz9po.md#t-00-49-38) (Claim) **Candace Owens**: ["Owens said Kanye West was also banned from Australia."](/statements/statement-268e9efc2eb0.md)
+  - Also about: [Kanye West](/entities/person-kanye-west.md)
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1)</summary>

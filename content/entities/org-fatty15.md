@@ -1,6 +1,6 @@
 ---
 title: "fatty15"
-description: "fatty15 (Organizations) - 44 mentions"
+description: "fatty15 (Organizations) - 49 mentions"
 id: "org-fatty15"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-org-fatty15-t-00-31-23">2025-10-07 · 00:31:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-org-fatty15-t-00-42-27">2026-08-03 · 00:42:27</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-fatty15-t-00-43-01">2026-09-09 · 00:43:10</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>49</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -45,6 +45,7 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-fatty15-t-00-41-12" style="--pulse-height:57%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-fatty15-t-00-40-50" style="--pulse-height:71%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 5 mentions" title="2026-07-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-org-fatty15-t-00-41-16" style="--pulse-height:43%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 3 mentions" title="2026-08-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-fatty15-t-00-41-34" style="--pulse-height:71%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 5 mentions" title="2026-09-09 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-fatty15-t-00-41-12) | 4 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-fatty15-t-00-40-50) | 5 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-fatty15-t-00-41-16) | 3 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-fatty15-t-00-41-34) | 5 |
 
 </details>
 </section>
@@ -66,7 +68,27 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5 mentions)</summary>
+
+**[00:42:07](/episodes/ep-bpXkPHpz9po.md#ent-org-fatty15-t-00-41-34)**
+> "...want to remind you guys about Fatty 15 because maybe you're doing all the right things f..."
+
+**[00:42:19](/episodes/ep-bpXkPHpz9po.md#ent-org-fatty15-t-00-42-19)**
+> "...excited to tell you that with Fatty 15, you can. Fatty 15 is a science-backed supplement..."
+
+**[00:42:48](/episodes/ep-bpXkPHpz9po.md#ent-org-fatty15-t-00-42-19)**
+> "... And that's why award-winning Fatty 15 is now available as pure capsules, delicious appl..."
+
+**[00:43:01](/episodes/ep-bpXkPHpz9po.md#ent-org-fatty15-t-00-43-01)**
+> "...ion starter kit by heading to fatty15.com slash Candace and using code Candace at check..."
+
+**[00:43:10](/episodes/ep-bpXkPHpz9po.md#ent-org-fatty15-t-00-43-01)**
+> "Again, that's fatty15.com slash Candace. And I always tell you guys abo..."
+
+</details>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (3 mentions)</summary>

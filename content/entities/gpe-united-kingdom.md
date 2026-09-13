@@ -1,6 +1,6 @@
 ---
 title: "United Kingdom"
-description: "United Kingdom (Places) - 52 mentions"
+description: "United Kingdom (Places) - 53 mentions"
 id: "gpe-united-kingdom"
 type: "GPE"
 aliases:
@@ -26,9 +26,9 @@ Source: [GOV.UK](https://www.gov.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-united-kingdom-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#t-00-09-30">2026-08-31 · 00:09:30</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#t-00-12-32">2026-09-10 · 00:13:01</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -63,6 +63,7 @@ Source: [GOV.UK](https://www.gov.uk/)
 <a href="/episodes/ep-IqHsl7d2dos.md#t-00-12-22" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#t-00-56-28" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#t-00-08-52" style="--pulse-height:14%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#t-00-12-32" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -92,6 +93,7 @@ Source: [GOV.UK](https://www.gov.uk/)
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-12-22) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#t-00-56-28) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#t-00-08-52) | 2 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#t-00-12-32) | 1 |
 
 </details>
 </section>
@@ -99,7 +101,15 @@ Source: [GOV.UK](https://www.gov.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:13:01](/episodes/ep-S07n8TnRT0Q.md#t-00-12-32)**
+> "During the same time, I get this overwhelming urge that I need to be in the UK. And I tell you, for no reason other than a spiritual pull that I know that we need to be in London, that you had to find a reason to get us there."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (2 mentions)</summary>

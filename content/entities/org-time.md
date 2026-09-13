@@ -1,6 +1,6 @@
 ---
 title: "TIME"
-description: "TIME (Organizations) - 6 mentions"
+description: "TIME (Organizations) - 7 mentions"
 id: "org-time"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [About TIME](https://time.com/about-time/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-time-t-00-45-53">2025-10-02 · 00:46:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-time-t-00-14-25">2026-07-22 · 00:14:56</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-org-time-t-00-16-22">2026-09-10 · 00:16:31</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [About TIME](https://time.com/about-time/)
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-time-t-00-00-00" style="--pulse-height:50%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-time-t-00-35-03" style="--pulse-height:50%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-time-t-00-14-25" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-org-time-t-00-16-22" style="--pulse-height:50%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [About TIME](https://time.com/about-time/)
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-time-t-00-00-00) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-time-t-00-35-03) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-time-t-00-14-25) | 2 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-org-time-t-00-16-22) | 1 |
 
 </details>
 </section>
@@ -61,7 +63,15 @@ Source: [About TIME](https://time.com/about-time/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:16:31](/episodes/ep-S07n8TnRT0Q.md#ent-org-time-t-00-16-22)**
+> "...to of me sick in a mock-up of Time magazine calling me the most vile person of the year."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>
@@ -129,7 +139,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about TIME (2)</strong></summary>
+<summary><strong class="section-title">Statements about TIME (3)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1)</summary>
+
+- [00:16:31](/episodes/ep-S07n8TnRT0Q.md#t-00-16-22) (Claim) **Candace Owens**: ["Owens said Donald Trump posted a mock TIME cover featuring her and cal..."](/statements/statement-eedb967b92ad.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 831 mentions"
+description: "Andrew Kolvet (People) - 837 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27">2025-09-11 · 00:14:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-54-21">2026-09-03 · 00:54:40</a></strong></div>
-<div><span>Episodes</span><strong>123</strong></div>
-<div><span>Mentions</span><strong>831</strong></div>
-<div><span>Statements by</span><strong>101</strong></div>
-<div><span>Statements about</span><strong>231</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-kolvet-t-00-08-49">2026-09-09 · 00:08:49</a></strong></div>
+<div><span>Episodes</span><strong>125</strong></div>
+<div><span>Mentions</span><strong>837</strong></div>
+<div><span>Statements by</span><strong>102</strong></div>
+<div><span>Statements about</span><strong>235</strong></div>
 <div><span>Relationships</span><strong>104</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -158,6 +158,8 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-28-28" style="--pulse-height:12%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 5 mentions" title="2026-08-31 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-kolvet-t-00-03-42" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-21-55" style="--pulse-height:49%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 21 mentions" title="2026-09-03 · 21 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-andrew-kolvet-t-00-21-36" style="--pulse-height:9%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 4 mentions" title="2026-09-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-kolvet-t-00-08-10" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -286,6 +288,8 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-andrew-kolvet-t-00-28-28) | 5 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-kolvet-t-00-03-42) | 3 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-kolvet-t-00-21-55) | 21 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-andrew-kolvet-t-00-21-36) | 4 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-kolvet-t-00-08-10) | 2 |
 
 </details>
 </section>
@@ -297,7 +301,35 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (831)</strong></summary>
+<summary><strong class="section-title">Raw mentions (837)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
+
+**[00:08:21](/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-kolvet-t-00-08-10)**
+> "And of course, Andrew Kolvet, because he's brilliant. All of these characters ..."
+
+**[00:08:49](/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-kolvet-t-00-08-49)**
+> "... to lie about, something that Andrew Kolvet felt the need to give Tulsi Gabbard's office foll..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (4 mentions)</summary>
+
+**[00:21:43](/episodes/ep-FGoeoZxDN1c.md#ent-person-andrew-kolvet-t-00-21-36)**
+> "I know what Andrew (Andrew Kolvet) told me. Bibi (Benjamin Netanyahu) offered to ta..."
+
+**[00:38:53](/episodes/ep-FGoeoZxDN1c.md#ent-person-andrew-kolvet-t-00-38-53)**
+> "...'t you say, oh, well, Andrew (Andrew Kolvet) says that—"
+
+**[00:53:48](/episodes/ep-FGoeoZxDN1c.md#ent-person-andrew-kolvet-t-00-53-31)**
+> "...asn't tongue in cheek because Andrew Kolvet gave that conversation to Tulsi Gabbard's office...."
+
+**[00:56:03](/episodes/ep-FGoeoZxDN1c.md#ent-person-andrew-kolvet-t-00-56-03)**
+> "... writes, Andrew Judas Kolvet (Andrew Kolvet) tried to make an excuse for the fireworks at the..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (21 mentions)</summary>
@@ -4463,7 +4495,15 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Andrew Kolvet (101)</strong></summary>
+<summary><strong class="section-title">Statements by Andrew Kolvet (102)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>
+
+- [00:56:03](/episodes/ep-FGoeoZxDN1c.md#t-00-56-03) [○] (Claim) ["According to a viewer comment by Ali read by Owens, Andrew Kolvet said the team ..."](/statements/statement-db62c4314984.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>
@@ -4978,7 +5018,29 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (231)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (235)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2)</summary>
+
+- [00:07:25](/episodes/ep-bpXkPHpz9po.md#t-00-06-53) (Claim) **Candace Owens**: ["Owens said the September 9 Zoom call included Frank Turek, two Israeli..."](/statements/statement-3eca509f3ada.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Pesach Wolicki](/entities/person-pesach-wolicki.md)
+
+- [00:08:49](/episodes/ep-bpXkPHpz9po.md#t-00-08-49) (Claim) **Candace Owens**: ["Owens said the Zoom call occurred two hours after Kirk said he was aba..."](/statements/statement-6fac067cc959.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2)</summary>
+
+- [00:53:48](/episodes/ep-FGoeoZxDN1c.md#t-00-53-31) (Claim) **Candace Owens**: ["Owens said Andrew Kolvet forwarded Kirk’s conversation about leaving t..."](/statements/statement-2c4b2e21dade.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md)
+
+- [00:56:03](/episodes/ep-FGoeoZxDN1c.md#t-00-56-03) (Claim) **Andrew Kolvet** (via quoted post): ["According to a viewer comment by Ali read by Owens, Andrew Kolvet said..."](/statements/statement-db62c4314984.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3)</summary>

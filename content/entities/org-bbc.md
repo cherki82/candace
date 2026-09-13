@@ -1,6 +1,6 @@
 ---
 title: "BBC"
-description: "BBC (Organizations) - 8 mentions"
+description: "BBC (Organizations) - 9 mentions"
 id: "org-bbc"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-bbc-t-00-16-13">2025-09-18 · 00:16:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-bbc-t-00-27-00">2026-08-21 · 00:27:00</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-bbc-t-00-10-37">2026-09-08 · 00:11:04</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +40,7 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-bbc-t-00-22-44" style="--pulse-height:33%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-bbc-t-00-08-46" style="--pulse-height:67%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-bbc-t-00-27-00" style="--pulse-height:33%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-bbc-t-00-10-37" style="--pulse-height:33%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-bbc-t-00-22-44) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-bbc-t-00-08-46) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-bbc-t-00-27-00) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-bbc-t-00-10-37) | 1 |
 
 </details>
 </section>
@@ -56,7 +58,15 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:11:04](/episodes/ep-FGoeoZxDN1c.md#ent-org-bbc-t-00-10-37)**
+> "...as giving an interview to the BBC regarding his quote-unquote fans and this is what..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -105,7 +115,7 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Interviewed (1)</summary>
+<summary>Interviewed (2)</summary>
 
 - **[Sherry Steele](/entities/person-sherry-steele.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -114,15 +124,29 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 
 </details>
 
+- **[Kanye West](/entities/person-kanye-west.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:11:04](/episodes/ep-FGoeoZxDN1c.md#t-00-10-37): “gave to, this is 2013, he was giving an interview to the BBC regarding his quote-unquote fans and this is what he said.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Sherry Steele](/entities/person-sherry-steele.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13): “Her name is Sherry Steele, and she spoke to the BBC about how she had witnessed the police swarm the townhouse of Tyler Robinson and Lance while she was walking her dog in the evening.”
+
+</details>
+
+- **[Kanye West](/entities/person-kanye-west.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:11:04](/episodes/ep-FGoeoZxDN1c.md#t-00-10-37): “gave to, this is 2013, he was giving an interview to the BBC regarding his quote-unquote fans and this is what he said.”
 
 </details>
 

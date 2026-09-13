@@ -8,7 +8,7 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Theory threads</a><a href="/index/claims">Factual claims</a><a href="/index/statements">Statements</a><a href="/index/event-explorer">Events</a></div>
 </div>
 
-<p class="kg-freshness"><strong>163 sources</strong> · processed through <time datetime="2026-09-03">2026-09-03</time> · generated <time datetime="2026-09-04">2026-09-04</time></p>
+<p class="kg-freshness"><strong>166 sources</strong> · processed through <time datetime="2026-09-10">2026-09-10</time> · generated <time datetime="2026-09-11">2026-09-11</time></p>
 
 <section class="kg-thread-observatory" aria-labelledby="theory-watch-title">
 <header>
@@ -18,13 +18,13 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-thread-grid">
 <article class="kg-thread-card featured">
 <div class="thread-card-meta">
-<span>160 sources</span>
-<span>3637 reviewed turns</span>
-<time datetime="2026-09-03">2026-09-03</time>
+<span>162 sources</span>
+<span>3645 reviewed turns</span>
+<time datetime="2026-09-09">2026-09-09</time>
 </div>
 <h3><a href="/threads/thread-charlie-kirk-assassination-alternative-theories">How alternative Charlie Kirk assassination theories evolved</a></h3>
 <p>A single reviewed branching timeline of on-channel alternatives to the lone-actor account, including proposed participants, operational evidence, motive claims, and alleged coverup indicators. It records how theories changed, not whether they are true.</p>
-<div class="thread-index-preview"><span><strong>351</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,183</strong> reviewed links</span></div>
+<div class="thread-index-preview"><span><strong>354</strong> live endpoints</span><span><strong>24</strong> closed</span><span><strong>6,190</strong> reviewed links</span></div>
 <a class="thread-card-open" href="/threads/thread-charlie-kirk-assassination-alternative-theories">Open thread <span aria-hidden="true">→</span></a>
 </article>
 </div>
@@ -34,15 +34,15 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-coverage-heading">
 <span class="research-kicker">Publication audit</span>
 <h2 id="coverage-title">Research coverage</h2>
-<p><strong>162 of 163</strong> published sources have completed every extraction stage.</p>
+<p><strong>165 of 166</strong> published sources have completed every extraction stage.</p>
 </div>
 <div class="kg-coverage-grid">
-<div><span>Transcript cleaned</span><strong>163 / 163</strong></div>
-<div><span>Entities extracted</span><strong>163 / 163</strong></div>
-<div><span>Statements extracted</span><strong>163 / 163</strong></div>
-<div><span>Events extracted</span><strong>162 / 163</strong></div>
-<div><span>Relationships extracted</span><strong>163 / 163</strong></div>
-<div><span>Theory threads reviewed</span><strong>163 / 163</strong></div>
+<div><span>Transcript cleaned</span><strong>166 / 166</strong></div>
+<div><span>Entities extracted</span><strong>166 / 166</strong></div>
+<div><span>Statements extracted</span><strong>166 / 166</strong></div>
+<div><span>Events extracted</span><strong>165 / 166</strong></div>
+<div><span>Relationships extracted</span><strong>166 / 166</strong></div>
+<div><span>Theory threads reviewed</span><strong>166 / 166</strong></div>
 </div>
 <details class="kg-coverage-gaps">
 <summary>Inspect 1 source-level pipeline gap</summary>
@@ -53,9 +53,9 @@ description: "An evidence-first research workbench for imported video, audio, an
 </section>
 
 <div class="kg-stat-grid">
-<div><strong>7,199</strong><span>Claims &amp; statements</span></div>
-<div><strong>4,630</strong><span>Tracked entities</span></div>
-<div><strong>1,810</strong><span>Timeline events</span></div>
+<div><strong>7,300</strong><span>Claims &amp; statements</span></div>
+<div><strong>4,671</strong><span>Tracked entities</span></div>
+<div><strong>1,826</strong><span>Timeline events</span></div>
 <div><strong>3,082</strong><span>Research sources</span></div>
 </div>
 
@@ -64,6 +64,21 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Ordered by source publication date, not editorial priority.</p>
 
 <div class="recent-source-list">
+<article>
+<time datetime="2026-09-10">2026-09-10</time>
+<a href="/episodes/ep-S07n8TnRT0Q">One Year On… To My Friend Charlie Kirk.</a>
+<span>Candace Owens</span>
+</article>
+<article>
+<time datetime="2026-09-09">2026-09-09</time>
+<a href="/episodes/ep-bpXkPHpz9po">EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385</a>
+<span>Candace Owens</span>
+</article>
+<article>
+<time datetime="2026-09-08">2026-09-08</time>
+<a href="/episodes/ep-FGoeoZxDN1c">Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384</a>
+<span>Candace Owens</span>
+</article>
 <article>
 <time datetime="2026-09-03">2026-09-03</time>
 <a href="/episodes/ep-1FhY-koMuWM">Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.</a>
@@ -74,21 +89,6 @@ description: "An evidence-first research workbench for imported video, audio, an
 <a href="/episodes/ep-HIlPQ-_dcxM">Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382</a>
 <span>Candace Owens</span>
 </article>
-<article>
-<time datetime="2026-09-01">2026-09-01</time>
-<a href="/episodes/ep-ZkDO-MRLUco">BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381</a>
-<span>Candace Owens</span>
-</article>
-<article>
-<time datetime="2026-08-31">2026-08-31</time>
-<a href="/episodes/ep-JrhGEm8MGRY">We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380</a>
-<span>Candace Owens</span>
-</article>
-<article>
-<time datetime="2026-08-21">2026-08-21</time>
-<a href="/episodes/ep-_cNtgris8Ik">Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379</a>
-<span>Candace Owens</span>
-</article>
 </div>
 
 ## What changed
@@ -96,12 +96,12 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
-<a href="/entities/person-michael-mccoy"><strong>Michael McCoy</strong><span>47 recent mentions · +47 vs prior window</span></a>
-<a href="/entities/person-jack-hibbs"><strong>Jack Hibbs</strong><span>27 recent mentions · +27 vs prior window</span></a>
-<a href="/entities/person-blake-neff"><strong>Blake Neff</strong><span>38 recent mentions · +26 vs prior window</span></a>
-<a href="/entities/person-burton-hibbs"><strong>Burton Hibbs</strong><span>24 recent mentions · +24 vs prior window</span></a>
-<a href="/entities/person-justin-davis"><strong>Justin Davis</strong><span>22 recent mentions · +22 vs prior window</span></a>
-<a href="/entities/person-frank-turek"><strong>Frank Turek</strong><span>22 recent mentions · +22 vs prior window</span></a>
+<a href="/entities/person-charlie-kirk"><strong>Charlie Kirk</strong><span>270 recent mentions · +115 vs prior window</span></a>
+<a href="/entities/person-kanye-west"><strong>Kanye West</strong><span>52 recent mentions · +44 vs prior window</span></a>
+<a href="/entities/person-frank-turek"><strong>Frank Turek</strong><span>50 recent mentions · +42 vs prior window</span></a>
+<a href="/entities/person-blake-neff"><strong>Blake Neff</strong><span>46 recent mentions · +27 vs prior window</span></a>
+<a href="/entities/person-justin-davis"><strong>Justin Davis</strong><span>27 recent mentions · +27 vs prior window</span></a>
+<a href="/entities/person-michael-mccoy"><strong>Michael McCoy</strong><span>38 recent mentions · +24 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes

@@ -1,6 +1,6 @@
 ---
 title: "Andrew Wilson"
-description: "Andrew Wilson (People) - 129 mentions"
+description: "Andrew Wilson (People) - 133 mentions"
 id: "person-andrew-wilson"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-andrew-wilson-t-00-02-36">2026-08-07 · 00:02:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-wilson-t-00-50-33">2026-09-03 · 00:50:33</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>129</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-wilson-t-00-47-44">2026-09-09 · 00:47:44</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>133</strong></div>
 <div><span>Statements by</span><strong>26</strong></div>
-<div><span>Statements about</span><strong>35</strong></div>
+<div><span>Statements about</span><strong>37</strong></div>
 <div><span>Relationships</span><strong>31</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -44,6 +44,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-wilson-t-00-32-54" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-andrew-wilson-t-00-51-27" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-wilson-t-00-00-37" style="--pulse-height:15%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 6 mentions" title="2026-09-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-wilson-t-00-04-06" style="--pulse-height:10%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 4 mentions" title="2026-09-09 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-andrew-wilson-t-00-32-54) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-andrew-wilson-t-00-51-27) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-andrew-wilson-t-00-00-37) | 6 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-wilson-t-00-04-06) | 4 |
 
 </details>
 </section>
@@ -73,7 +75,24 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (129)</strong></summary>
+<summary><strong class="section-title">Raw mentions (133)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (4 mentions)</summary>
+
+**[00:04:06](/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-wilson-t-00-04-06)**
+> "...ecent example of that, truly, Andrew Wilson, I don't think he ever considered the plausibilit..."
+
+**[00:30:46](/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-wilson-t-00-30-12)**
+> "...ut this Panguitch receipt. So Andrew Wilson, when he came here, obviously was not sent to bai..."
+
+**[00:34:13](/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-wilson-t-00-34-06)**
+> "Andrew Wilson drops this signature as a debunking. This is a si..."
+
+**[00:47:44](/episodes/ep-bpXkPHpz9po.md#ent-person-andrew-wilson-t-00-47-44)**
+> "...vers Rock Productions writes, Andrew Wilson wants to call himself the master debater, but I'm..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (6 mentions)</summary>
@@ -583,13 +602,14 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:47:47](/episodes/ep-4JxgOclKzqg.md#t-00-47-47): “He can't just, he's had days and he still cannot comprehend this. So we are really hoping that Andrew Wilson will be able to understand it. We are done explaining it. It is now on him and coming upon Andrew Wilson to do his best to sit down and understand.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27): “I was hoping to have an opportunity to do that with Andrew Wilson. Obviously, he just is another fed slobber, got a call from Turning Point USA, changed all of his opinions and didn't know what was going on in the case at all.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:23:47](/episodes/ep-1FhY-koMuWM.md#t-00-23-47): “odd that Turning Point USA hands it to a third party who we know is happy to lie. He'll lie about what he said two seconds ago. He'll lie about what he knows. He'll lie. This was really, our debate was three hours of him trying to gaslight me about things that were said moments earlier, pretending that he knew the charges, all sorts of things. Why would they hand this to a chain-smoking liar”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:34:13](/episodes/ep-bpXkPHpz9po.md#t-00-34-06): “Andrew Wilson drops this signature as a debunking. This is a signature that was pulled and says, well, this is not Tyler Robinson's signature, so we can all move on from the idea that Tyler Robinson was at the steakhouse. That is completely and utterly wrong.”
 
 </details>
 
@@ -751,13 +771,14 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:47:47](/episodes/ep-4JxgOclKzqg.md#t-00-47-47): “He can't just, he's had days and he still cannot comprehend this. So we are really hoping that Andrew Wilson will be able to understand it. We are done explaining it. It is now on him and coming upon Andrew Wilson to do his best to sit down and understand.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27): “I was hoping to have an opportunity to do that with Andrew Wilson. Obviously, he just is another fed slobber, got a call from Turning Point USA, changed all of his opinions and didn't know what was going on in the case at all.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:23:47](/episodes/ep-1FhY-koMuWM.md#t-00-23-47): “odd that Turning Point USA hands it to a third party who we know is happy to lie. He'll lie about what he said two seconds ago. He'll lie about what he knows. He'll lie. This was really, our debate was three hours of him trying to gaslight me about things that were said moments earlier, pretending that he knew the charges, all sorts of things. Why would they hand this to a chain-smoking liar”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:34:13](/episodes/ep-bpXkPHpz9po.md#t-00-34-06): “Andrew Wilson drops this signature as a debunking. This is a signature that was pulled and says, well, this is not Tyler Robinson's signature, so we can all move on from the idea that Tyler Robinson was at the steakhouse. That is completely and utterly wrong.”
 
 </details>
 
@@ -963,7 +984,18 @@ Source: [The Crucible: with Andrew Wilson](https://thecrucible.video/all-videos/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Wilson (35)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Wilson (37)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2)</summary>
+
+- [00:30:46](/episodes/ep-bpXkPHpz9po.md#t-00-30-12) (Accusation) **Candace Owens**: ["Owens alleged that Andrew Wilson had been sent to elicit defamatory cl..."](/statements/statement-f4e7d5e32809.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+- [00:34:13](/episodes/ep-bpXkPHpz9po.md#t-00-34-06) (Opinion) **Candace Owens**: ["Owens rejected Andrew Wilson’s argument that the electronic signature ..."](/statements/statement-f0a1cf630fd0.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2)</summary>

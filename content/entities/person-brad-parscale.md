@@ -1,6 +1,6 @@
 ---
 title: "Brad Parscale"
-description: "Brad Parscale (People) - 13 mentions"
+description: "Brad Parscale (People) - 14 mentions"
 id: "person-brad-parscale"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Inside Israel’s Esther Project | The Times of Israel](https://www.tim
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-brad-parscale-t-00-38-44">2026-05-04 · 00:38:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-brad-parscale-t-00-50-25">2026-07-29 · 00:50:33</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-brad-parscale-t-00-57-24">2026-09-08 · 00:57:24</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -36,6 +36,7 @@ Source: [Inside Israel’s Esther Project | The Times of Israel](https://www.tim
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-brad-parscale-t-01-12-54" style="--pulse-height:20%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-brad-parscale-t-00-34-49" style="--pulse-height:60%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-brad-parscale-t-00-49-41" style="--pulse-height:60%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 3 mentions" title="2026-07-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-brad-parscale-t-00-57-24" style="--pulse-height:20%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Inside Israel’s Esther Project | The Times of Israel](https://www.tim
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-brad-parscale-t-01-12-54) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-brad-parscale-t-00-34-49) | 3 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-person-brad-parscale-t-00-49-41) | 3 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-brad-parscale-t-00-57-24) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Inside Israel’s Esther Project | The Times of Israel](https://www.tim
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:57:24](/episodes/ep-FGoeoZxDN1c.md#ent-person-brad-parscale-t-00-57-24)**
+> "...e they wanted to see results. Brad Parscale, I believe, was on."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (3 mentions)</summary>
@@ -301,7 +311,15 @@ Source: [Inside Israel’s Esther Project | The Times of Israel](https://www.tim
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brad Parscale (6)</strong></summary>
+<summary><strong class="section-title">Statements about Brad Parscale (7)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>
+
+- [00:57:24](/episodes/ep-FGoeoZxDN1c.md#t-00-57-24) (Claim) **Candace Owens** (via paraphrase): ["Owens said she believed Brad Parscale had been on Salem Media’s board,..."](/statements/statement-8d7a5efa3123.md)
+  - Also about: [Salem Media Group](/entities/org-salem-media-group.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (3)</summary>

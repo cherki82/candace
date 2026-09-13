@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 606 mentions"
+description: "American Financing (Organizations) - 615 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-american-financing-t-00-44-02">2026-09-03 · 00:44:19</a></strong></div>
-<div><span>Episodes</span><strong>137</strong></div>
-<div><span>Mentions</span><strong>606</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-american-financing-t-00-43-41">2026-09-09 · 00:44:03</a></strong></div>
+<div><span>Episodes</span><strong>139</strong></div>
+<div><span>Mentions</span><strong>615</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -173,6 +173,8 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-40-30" style="--pulse-height:62%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-american-financing-t-00-52-54" style="--pulse-height:50%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 4 mentions" title="2026-09-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-american-financing-t-00-43-21" style="--pulse-height:50%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 4 mentions" title="2026-09-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-american-financing-t-00-51-34" style="--pulse-height:50%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 4 mentions" title="2026-09-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-american-financing-t-00-43-01" style="--pulse-height:62%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 5 mentions" title="2026-09-09 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -315,6 +317,8 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-american-financing-t-00-40-30) | 5 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-american-financing-t-00-52-54) | 4 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-american-financing-t-00-43-21) | 4 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-american-financing-t-00-51-34) | 4 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-american-financing-t-00-43-01) | 5 |
 
 </details>
 </section>
@@ -322,7 +326,44 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (606)</strong></summary>
+<summary><strong class="section-title">Raw mentions (615)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5 mentions)</summary>
+
+**[00:43:10](/episodes/ep-bpXkPHpz9po.md#ent-org-american-financing-t-00-43-01)**
+> "... I always tell you guys about American Financing because it is no secret that everything is starti..."
+
+**[00:43:32](/episodes/ep-bpXkPHpz9po.md#ent-org-american-financing-t-00-43-01)**
+> "But American Financing offers a smart equity loan so that you don't have..."
+
+**[00:43:49](/episodes/ep-bpXkPHpz9po.md#ent-org-american-financing-t-00-43-41)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:44:03](/episodes/ep-bpXkPHpz9po.md#ent-org-american-financing-t-00-43-41)**
+> "Or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+**[00:43:49](/episodes/ep-bpXkPHpz9po.md#ent-org-american-financing-t-00-43-41)**
+> "At American Financing, there are never any upfront fees to find out what you qualify for, so talk to a salary-based consultant today."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (4 mentions)</summary>
+
+**[00:51:43](/episodes/ep-FGoeoZxDN1c.md#ent-org-american-financing-t-00-51-34)**
+> "... always remind you guys about American financing because it is no secret that everything is starti..."
+
+**[00:51:59](/episodes/ep-FGoeoZxDN1c.md#ent-org-american-financing-t-00-51-34)**
+> "...ught, I can't touch that. But American Financing offers a smart equity loan so that you don't have..."
+
+**[00:52:18](/episodes/ep-FGoeoZxDN1c.md#ent-org-american-financing-t-00-52-18)**
+> "In American Financing, there are never any upfront fees to find out wha..."
+
+**[00:52:28](/episodes/ep-FGoeoZxDN1c.md#ent-org-american-financing-t-00-52-18)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net sla..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (4 mentions)</summary>

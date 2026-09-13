@@ -1,6 +1,6 @@
 ---
 title: "SMART Equity Loan"
-description: "SMART Equity Loan (Works & Media) - 107 mentions"
+description: "SMART Equity Loan (Works & Media) - 109 mentions"
 id: "work-smart-equity-loan"
 type: "WORK"
 aliases:
@@ -23,9 +23,9 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-work-smart-equity-loan-t-00-56-30">2025-09-15 · 00:56:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-work-smart-equity-loan-t-00-44-02">2026-09-03 · 00:44:02</a></strong></div>
-<div><span>Episodes</span><strong>56</strong></div>
-<div><span>Mentions</span><strong>107</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-work-smart-equity-loan-t-00-43-41">2026-09-09 · 00:43:41</a></strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>109</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -92,6 +92,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-work-smart-equity-loan-t-00-40-30" style="--pulse-height:67%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-work-smart-equity-loan-t-00-53-35" style="--pulse-height:67%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-work-smart-equity-loan-t-00-44-02" style="--pulse-height:67%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-work-smart-equity-loan-t-00-43-01" style="--pulse-height:67%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -153,6 +154,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-work-smart-equity-loan-t-00-40-30) | 2 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-work-smart-equity-loan-t-00-53-35) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-work-smart-equity-loan-t-00-44-02) | 2 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-work-smart-equity-loan-t-00-43-01) | 2 |
 
 </details>
 </section>
@@ -160,7 +162,18 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+<summary><strong class="section-title">Raw mentions (109)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
+
+**[00:43:32](/episodes/ep-bpXkPHpz9po.md#ent-work-smart-equity-loan-t-00-43-01)**
+> "...t American Financing offers a smart equity loan so that you don't have to. It allows you to wipe ..."
+
+**[00:43:41](/episodes/ep-bpXkPHpz9po.md#ent-work-smart-equity-loan-t-00-43-41)**
+> "...like a fluctuating HELOC, the Smart Equity Loan is a fixed rate loan, giving you a predictable mo..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>

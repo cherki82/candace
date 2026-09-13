@@ -11,7 +11,7 @@ object: "person-kanye-west"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Kanye West](/entities/person-kanye-west)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
@@ -20,6 +20,10 @@ object: "person-kanye-west"
 **[The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs)**
 
 - [00:43:54](/episodes/ep-BxN2-aeMYIs#t-00-43-54): _Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend._
+
+**[Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c)**
+
+- [00:19:52](/episodes/ep-FGoeoZxDN1c#t-00-19-52): _And despite everyone in the world condemning him, they needed me to make that statement because they knew I was friends with him._
 
 **[Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik)**
 

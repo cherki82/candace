@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 182 mentions"
+description: "Kanye West (People) - 234 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -24,20 +24,20 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-kanye-west-t-00-46-33">2026-08-21 · 00:46:57</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>182</strong></div>
-<div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>33</strong></div>
-<div><span>Relationships</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-25-41">2026-09-10 · 00:25:58</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>234</strong></div>
+<div><span>Statements by</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>44</strong></div>
+<div><span>Relationships</span><strong>41</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-02-10">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (35 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-00-01">Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384</a> (37 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13" style="--pulse-height:26%" aria-label="To My Friend, Charlie Kirk.: 9 mentions" title="2025-09-11 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13" style="--pulse-height:24%" aria-label="To My Friend, Charlie Kirk.: 9 mentions" title="2025-09-11 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-czVBmqZP6Ss.md#t-00-03-27" style="--pulse-height:8%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-kanye-west-t-00-27-13" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-kanye-west-t-00-26-14" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
@@ -45,41 +45,44 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-12" style="--pulse-height:11%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 4 mentions" title="2025-10-08 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-53-16" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-01-39" style="--pulse-height:14%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 5 mentions" title="2025-10-27 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-02-10" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 35 mentions" title="2025-10-28 · 35 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-02-10" style="--pulse-height:95%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 35 mentions" title="2025-10-28 · 35 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-kanye-west-t-00-18-22" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-37" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-48" style="--pulse-height:14%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 5 mentions" title="2025-11-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11" style="--pulse-height:11%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 4 mentions" title="2025-11-13 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-00-00" style="--pulse-height:23%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 8 mentions" title="2025-11-15 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-00-00" style="--pulse-height:22%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 8 mentions" title="2025-11-15 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-person-kanye-west-t-00-15-24" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-kanye-west-t-00-45-28" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05" style="--pulse-height:17%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05" style="--pulse-height:16%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-kanye-west-t-00-45-31" style="--pulse-height:8%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-01-20" style="--pulse-height:9%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-01-20" style="--pulse-height:8%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-kanye-west-t-00-15-40" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#t-01-07-28" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-00-00" style="--pulse-height:43%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 15 mentions" title="2026-01-07 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-00-00" style="--pulse-height:41%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 15 mentions" title="2026-01-07 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-kanye-west-t-00-38-18" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-kanye-west-t-00-50-02" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-33-58" style="--pulse-height:14%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-25-23" style="--pulse-height:11%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 4 mentions" title="2026-01-21 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-kanye-west-t-00-43-34" style="--pulse-height:26%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 9 mentions" title="2026-01-27 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-kanye-west-t-00-43-34" style="--pulse-height:24%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 9 mentions" title="2026-01-27 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-kanye-west-t-01-32-52" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#t-00-52-38" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-kanye-west-t-00-00-00" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-kanye-west-t-00-04-02" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-kanye-west-t-00-04-02" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-20-15" style="--pulse-height:46%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 16 mentions" title="2026-03-18 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-20-15" style="--pulse-height:43%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 16 mentions" title="2026-03-18 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-kanye-west-t-01-02-08" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-kanye-west-t-00-43-38" style="--pulse-height:9%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-kanye-west-t-00-50-51" style="--pulse-height:9%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-kanye-west-t-00-43-38" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-kanye-west-t-00-50-51" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-kanye-west-t-00-56-39" style="--pulse-height:11%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-kanye-west-t-00-02-47" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-kanye-west-t-00-04-15" style="--pulse-height:9%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 3 mentions" title="2026-07-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-kanye-west-t-00-04-15" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 3 mentions" title="2026-07-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-kanye-west-t-00-43-39" style="--pulse-height:8%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-kanye-west-t-00-39-20" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-kanye-west-t-00-53-16" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-kanye-west-t-00-44-44" style="--pulse-height:17%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 6 mentions" title="2026-08-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-kanye-west-t-00-44-44" style="--pulse-height:16%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 6 mentions" title="2026-08-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-00-01" style="--pulse-height:100%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 37 mentions" title="2026-09-08 · 37 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-kanye-west-t-00-46-17" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-11-48" style="--pulse-height:32%" aria-label="One Year On… To My Friend Charlie Kirk.: 12 mentions" title="2026-09-10 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -128,6 +131,9 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-kanye-west-t-00-39-20) | 1 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-kanye-west-t-00-53-16) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-kanye-west-t-00-44-44) | 6 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-00-01) | 37 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-kanye-west-t-00-46-17) | 3 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-11-48) | 12 |
 
 </details>
 </section>
@@ -139,7 +145,178 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (182)</strong></summary>
+<summary><strong class="section-title">Raw mentions (234)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (12 mentions)</summary>
+
+**[00:11:57](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-11-48)**
+> "...nd I were listening to Kanye (Kanye West)'s song Power day in and day out. You start telli..."
+
+**[00:12:43](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-12-32)**
+> "Weeks later, Kanye (Kanye West) tweets, I love the way Candace Owens thinks and ..."
+
+**[00:13:25](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-13-14)**
+> "...passed. In fact, I texted Ye (Kanye West) in the immediate days following your assassinati..."
+
+**[00:14:02](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-13-58)**
+> "For Kanye (Kanye West), it's his younger years in Chicago struggling to..."
+
+**[00:14:37](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-13-58)**
+> "Kanye (Kanye West) was the first to tell us that Hollywood was fake..."
+
+**[00:16:14](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-15-37)**
+> "...he media realizes that Kanye (Kanye West) has become too influential. He's stepping on the..."
+
+**[00:16:39](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-16-22)**
+> "...too. Anyway, what does Kanye (Kanye West) do about it? Well, he Kanye (Kanye West)'s harde..."
+
+**[00:16:52](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-16-22)**
+> "He says, how's Ye (Kanye West) doing? I'm surviving. I was drinking earlier and..."
+
+**[00:18:50](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-18-50)**
+> "...remember when we met with Ye (Kanye West)'s team and they told us that the inspiration beh..."
+
+**[00:23:02](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-22-35)**
+> "... mountainside drives with Ye (Kanye West)."
+
+**[00:25:25](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-24-56)**
+> "I went to Ye (Kanye West)'s concert last week. You're not going to believe..."
+
+**[00:25:58](/episodes/ep-S07n8TnRT0Q.md#ent-person-kanye-west-t-00-25-41)**
+> "Ye (Kanye West) and Kid Cudi then had a massive public falling o..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3 mentions)</summary>
+
+**[00:46:32](/episodes/ep-bpXkPHpz9po.md#ent-person-kanye-west-t-00-46-17)**
+> "...had a, I just went to the Ye (Kanye West) concert. uh amara musa writes mountains of evide..."
+
+**[00:47:04](/episodes/ep-bpXkPHpz9po.md#ent-person-kanye-west-t-00-47-04)**
+> "... happy to hear you and Kanye (Kanye West) got to catch up over the weekend when you spoke ..."
+
+**[00:49:45](/episodes/ep-bpXkPHpz9po.md#ent-person-kanye-west-t-00-49-38)**
+> "Kanye (Kanye West) also was the other person who's banned there. Ma..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (37 mentions)</summary>
+
+**[00:00:01](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-00-01)**
+> "...I did because I went to a Ye (Kanye West) concert."
+
+**[00:00:27](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-00-01)**
+> "...nd I've been listening to the Kanye West classics, so the forecast is not looking good thi..."
+
+**[00:01:32](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-01-32)**
+> "... the artist formerly known as Kanye West, Ye (Kanye West), he has been touring and he has ..."
+
+**[00:02:56](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-02-56)**
+> "... that were displayed at a Ye (Kanye West) concert one year later was completely unacceptab..."
+
+**[00:03:42](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-03-28)**
+> "... you guys some clips from Ye (Kanye West)'s return to the stage. Here is the crowd singing..."
+
+**[00:05:47](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-05-38)**
+> "...express to audiences what Ye (Kanye West) returning to Chicago during the week of Charlie ..."
+
+**[00:05:57](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-05-38)**
+> "...roud of that. He loved Kanye (Kanye West), thanks to me."
+
+**[00:06:03](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-05-38)**
+> "...n particular, which is Kanye (Kanye West)'s—it was his ode to Chicago, effectively—and it ..."
+
+**[00:06:27](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-06-21)**
+> "... pay ourselves to go, but Ye (Kanye West)'s team was like, absolutely not. They went above..."
+
+**[00:06:47](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-06-21)**
+> "...gs before heading over to Ye (Kanye West)'s hotel."
+
+**[00:07:51](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-07-51)**
+> "... night because, you know, Ye (Kanye West) makes up with people at random times. And I was ..."
+
+**[00:09:39](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-09-20)**
+> "...you don't understand what Ye (Kanye West) means to the world and what he means to culture ..."
+
+**[00:10:28](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-10-01)**
+> "... realized that he didn't know Kanye West music at all. And I mean like he didn't know diff..."
+
+**[00:10:37](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-10-37)**
+> "...(Charlie Kirk) into a big Ye (Kanye West) fan. He would then run 10 miles a day to his mus..."
+
+**[00:11:21](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-11-16)**
+> "If you're a Kanye West fan, you're not a fan of me. You're a fan of your..."
+
+**[00:11:39](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-11-39)**
+> "...o if you grew up listening to Kanye West's music, you understand that he really is sort of a..."
+
+**[00:12:03](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-12-03)**
+> "...mediate threat, right? Kanye (Kanye West)'s music represented a hacking to that code. He i..."
+
+**[00:12:38](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-12-38)**
+> "...ble in a way. And then Kanye (Kanye West) drops."
+
+**[00:14:21](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-14-21)**
+> "...should know that young Kanye (Kanye West) had aspirations to be in fashion we'd see that l..."
+
+**[00:16:08](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-16-08)**
+> "It has been Kanye (Kanye West)'s consistent messaging. The current design of th..."
+
+**[00:17:11](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-17-11)**
+> "... and that really is until Ye (Kanye West). No one faced that enemy harder than Ye (Kanye W..."
+
+**[00:18:11](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-17-56)**
+> "...ot to say yes to that. Kanye (Kanye West) started as a Grammy award winning producer."
+
+**[00:18:32](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-18-32)**
+> "...e worth billions. And all Ye (Kanye West) had to do to maintain that—"
+
+**[00:19:30](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-19-11)**
+> "...hat story. It was when Kanye (Kanye West) tweeted that he was about to go DEFCON 3 on some..."
+
+**[00:19:44](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-19-11)**
+> "Make a statement about Kanye (Kanye West), call him crazy, say something is wrong. I remem..."
+
+**[00:19:58](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-19-52)**
+> "... of its forms and what Kanye (Kanye West) is doing is wrong."
+
+**[00:20:10](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-20-10)**
+> "... imagine if I had sold Kanye (Kanye West) out for Ben Shapiro? It's funny to reflect on, b..."
+
+**[00:20:47](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-20-10)**
+> "...clause because of what Kanye (Kanye West) said."
+
+**[00:20:53](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-20-53)**
+> "... yourself and if you were Ye (Kanye West) and you were offered billions and all you had to..."
+
+**[00:22:02](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-21-36)**
+> "He said no, like Ye (Kanye West) said no. Ye (Kanye West) let it all burn to the ..."
+
+**[00:23:36](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-23-36)**
+> "...lf and to rebuild because Ye (Kanye West) had the courage before me and that's what he mea..."
+
+**[00:24:01](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-24-01)**
+> "Ye (Kanye West) actually shared this meme, which was created by ..."
+
+**[00:26:42](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-26-22)**
+> "... because every time a new Ye (Kanye West) song dropped, I would just be singing it in the ..."
+
+**[00:27:12](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-27-12)**
+> "...mber 10th and just seeing Ye (Kanye West) back on stage is just so much that has just come..."
+
+**[00:27:32](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-27-12)**
+> "He was with me when I met Ye (Kanye West). He was by my side. He made it into the Ye (Kany..."
+
+**[00:27:37](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-27-37)**
+> "...s released last year when Ye (Kanye West) introduced me on TMZ, Charlie (Charlie Kirk) was..."
+
+**[00:29:33](/episodes/ep-FGoeoZxDN1c.md#ent-person-kanye-west-t-00-29-33)**
+> "It was because of Ye (Kanye West). Anyway."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (6 mentions)</summary>
@@ -905,6 +1082,72 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Kid Cudi](/entities/person-kid-cudi.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:25:58](/episodes/ep-S07n8TnRT0Q.md#t-00-25-41): “Ye (Kanye West) and Kid Cudi then had a massive public falling out in 2022. So you have to imagine my shock and surprise when he brought him out on stage to close the show.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Authored (7)</summary>
+
+- **[Homecoming (Kanye West song)](/entities/work-homecoming-kanye-west.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:06:03](/episodes/ep-FGoeoZxDN1c.md#t-00-05-38): “He loved the song Homecoming in particular, which is Kanye (Kanye West)'s—it was his ode to Chicago, effectively—and it all just felt to me extremely providential, the timing of it all. And I should also mention that Ye (Kanye West) had not been back on stage in his hometown in over six years.”
+
+</details>
+
+- **[Runaway (Kanye West song)](/entities/work-runaway-kanye-west.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:04:30](/episodes/ep-FGoeoZxDN1c.md#t-00-04-30): “And both nights he closed out the show with his song Runaway. I'm just mentioning here, by the way, I'm borrowing this footage of people on Instagram. I did not record one second of I was just way too excited.”
+
+</details>
+
+- **[All Falls Down](/entities/work-all-falls-down.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:12:03](/episodes/ep-FGoeoZxDN1c.md#t-00-12-03): “Mindlessly within it, and any person that notices that there is this code is perceived as an immediate threat, right? Kanye (Kanye West)'s music represented a hacking to that code. He is correct. Like, you listen to what he's saying and suddenly you start recognizing that: why do I think this? Why am I not allowed to think this? And I'm going to give you an example. One of his first mainstream songs was entitled All Falls Down.”
+
+</details>
+
+- **[Power (Kanye West song)](/entities/work-power-kanye-west-song.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:11:57](/episodes/ep-S07n8TnRT0Q.md#t-00-11-48): “You and I were listening to Kanye (Kanye West)'s song Power day in and day out.”
+
+</details>
+
+- **[Ghost Town (Kanye West song)](/entities/work-ghost-town-kanye-west.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:25:25](/episodes/ep-S07n8TnRT0Q.md#t-00-24-56): “I went to Ye (Kanye West)'s concert last week. ... I had been trying for over a year to get his song Ghost Town for my podcast intro, best song on the Ye album.”
+
+</details>
+
+- **[ye (Kanye West album)](/entities/work-ye-kanye-west-album.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:25:34](/episodes/ep-S07n8TnRT0Q.md#t-00-24-56): “I had been trying for over a year to get his song Ghost Town for my podcast intro, best song on the Ye album. ... I arrived at his album release party and I just kept replaying that track for you over and over and over again.”
+
+</details>
+
+- **[My Beautiful Dark Twisted Fantasy](/entities/work-my-beautiful-dark-twisted-fantasy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:15:43](/episodes/ep-S07n8TnRT0Q.md#t-00-15-37): “The album that he dropped, despite his first cancellation, surged number one. He took home a Grammy for best rap album for My Beautiful Dark Twisted Fantasy.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Scott Adams](/entities/person-scott-adams.md)**
@@ -920,10 +1163,23 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Formerly Married To (1)</summary>
 
 - **[Kim Kardashian](/entities/person-kim-kardashian.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:13:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-53): “This is in the time of Kim Kardashian and Kanye (Kanye West). ... And basically they told him that he would lose everything—his marriage, this, that—if he didn't abstain from politics after he notoriously went to the White House in the MAGA hat.”
 - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:23:01](/episodes/ep-7RLtGgkTh9o.md#t-00-22-52): “Ye (Kanye West), he said he was just reading a Bible ... And somehow his wife—I guess—was cool with that at the time—being Kim Kardashian.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:07:39](/episodes/ep-FGoeoZxDN1c.md#t-00-07-06): “I look behind them and Kim Kardashian's in the lobby. I hadn't seen her since like pre-divorce. I was so confused. I'm thinking, oh no, oh my, she's going to this concert.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Founded (1)</summary>
+
+- **[Yeezy](/entities/org-yeezy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:18:32](/episodes/ep-FGoeoZxDN1c.md#t-00-18-32): “And he went on to become a Grammy-winning rapper. And he was a rapper and he decided that he wanted to get into fashion, and he was told, no, you're an artist, you're at the top of your game, you have everything, you don't belong in fashion. But he didn't accept that no, and he did it anyways. And then he created a billion-dollar brand of sneakers, Yeezy, and then came even bigger offers: the Adidas and the Gap deals, and they were worth billions. And all Ye (Kanye West) had to do to maintain that—”
 
 </details>
 
@@ -933,12 +1189,13 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Friend Of (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35): “because he's my friend.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:43:54](/episodes/ep-BxN2-aeMYIs.md#t-00-43-38): “Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:46:17](/episodes/ep-_cNtgris8Ik.md#t-00-45-56): “I had no idea that Kanye was going to call me and he was going to invite me. And because of our friendship.”
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). I love Ye (Kanye West). He's like a brother to me. I am never going to turn my back on Ye (Kanye West). I'm here for the Ye (Kanye West) of all seasons. He and I agree on many things, disagree on many things at all times. If he wants to apologize to people that he specifically has hurt, he is welcome to do that.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:19:52](/episodes/ep-FGoeoZxDN1c.md#t-00-19-52): “And despite everyone in the world condemning him, they needed me to make that statement because they knew I was friends with him.”
 
 </details>
 
@@ -957,12 +1214,19 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
-<summary>Interviewed By (1)</summary>
+<summary>Interviewed By (2)</summary>
 
 - **[Vanity Fair](/entities/org-vanity-fair.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:06](/episodes/ep-A39g5oqB_eM.md#t-00-43-34): “Kanye (Kanye West)'s apology also sat down with Vanity Fair or answered questions for Vanity Fair about this apology,”
+
+</details>
+
+- **[BBC](/entities/org-bbc.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:11:04](/episodes/ep-FGoeoZxDN1c.md#t-00-10-37): “gave to, this is 2013, he was giving an interview to the BBC regarding his quote-unquote fans and this is what he said.”
 
 </details>
 
@@ -981,12 +1245,19 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
-<summary>Spoke With (1)</summary>
+<summary>Spoke With (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27): “it felt appropriate to reach out to Ye, speaking about things, talking about his mood when he wrote the song.”
+
+</details>
+
+- **[Ebro Darden](/entities/person-ebro-darden.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:28:08](/episodes/ep-FGoeoZxDN1c.md#t-00-28-08): “Okay, so Ebro (Ebro Darden), I FaceTime him, and I'm there with Candace, right? And Ebro (Ebro Darden) starts bringing up his version of facts, right?”
 
 </details>
 
@@ -1030,7 +1301,63 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (20)</summary>
+
+- **[Kid Cudi](/entities/person-kid-cudi.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:25:58](/episodes/ep-S07n8TnRT0Q.md#t-00-25-41): “Ye (Kanye West) and Kid Cudi then had a massive public falling out in 2022. So you have to imagine my shock and surprise when he brought him out on stage to close the show.”
+
+</details>
+
+- **[Homecoming (Kanye West song)](/entities/work-homecoming-kanye-west.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:06:03](/episodes/ep-FGoeoZxDN1c.md#t-00-05-38): “He loved the song Homecoming in particular, which is Kanye (Kanye West)'s—it was his ode to Chicago, effectively—and it all just felt to me extremely providential, the timing of it all. And I should also mention that Ye (Kanye West) had not been back on stage in his hometown in over six years.”
+
+</details>
+
+- **[Runaway (Kanye West song)](/entities/work-runaway-kanye-west.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:04:30](/episodes/ep-FGoeoZxDN1c.md#t-00-04-30): “And both nights he closed out the show with his song Runaway. I'm just mentioning here, by the way, I'm borrowing this footage of people on Instagram. I did not record one second of I was just way too excited.”
+
+</details>
+
+- **[All Falls Down](/entities/work-all-falls-down.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:12:03](/episodes/ep-FGoeoZxDN1c.md#t-00-12-03): “Mindlessly within it, and any person that notices that there is this code is perceived as an immediate threat, right? Kanye (Kanye West)'s music represented a hacking to that code. He is correct. Like, you listen to what he's saying and suddenly you start recognizing that: why do I think this? Why am I not allowed to think this? And I'm going to give you an example. One of his first mainstream songs was entitled All Falls Down.”
+
+</details>
+
+- **[Power (Kanye West song)](/entities/work-power-kanye-west-song.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:11:57](/episodes/ep-S07n8TnRT0Q.md#t-00-11-48): “You and I were listening to Kanye (Kanye West)'s song Power day in and day out.”
+
+</details>
+
+- **[Ghost Town (Kanye West song)](/entities/work-ghost-town-kanye-west.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:25:25](/episodes/ep-S07n8TnRT0Q.md#t-00-24-56): “I went to Ye (Kanye West)'s concert last week. ... I had been trying for over a year to get his song Ghost Town for my podcast intro, best song on the Ye album.”
+
+</details>
+
+- **[ye (Kanye West album)](/entities/work-ye-kanye-west-album.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:25:34](/episodes/ep-S07n8TnRT0Q.md#t-00-24-56): “I had been trying for over a year to get his song Ghost Town for my podcast intro, best song on the Ye album. ... I arrived at his album release party and I just kept replaying that track for you over and over and over again.”
+
+</details>
+
+- **[My Beautiful Dark Twisted Fantasy](/entities/work-my-beautiful-dark-twisted-fantasy.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:15:43](/episodes/ep-S07n8TnRT0Q.md#t-00-15-37): “The album that he dropped, despite his first cancellation, surged number one. He took home a Grammy for best rap album for My Beautiful Dark Twisted Fantasy.”
+
+</details>
 
 - **[Scott Adams](/entities/person-scott-adams.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1040,20 +1367,29 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 - **[Kim Kardashian](/entities/person-kim-kardashian.md)** formerly married to this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:13:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-53): “This is in the time of Kim Kardashian and Kanye (Kanye West). ... And basically they told him that he would lose everything—his marriage, this, that—if he didn't abstain from politics after he notoriously went to the White House in the MAGA hat.”
 - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:23:01](/episodes/ep-7RLtGgkTh9o.md#t-00-22-52): “Ye (Kanye West), he said he was just reading a Bible ... And somehow his wife—I guess—was cool with that at the time—being Kim Kardashian.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:07:39](/episodes/ep-FGoeoZxDN1c.md#t-00-07-06): “I look behind them and Kim Kardashian's in the lobby. I hadn't seen her since like pre-divorce. I was so confused. I'm thinking, oh no, oh my, she's going to this concert.”
+
+</details>
+
+- **[Yeezy](/entities/org-yeezy.md)** founded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:18:32](/episodes/ep-FGoeoZxDN1c.md#t-00-18-32): “And he went on to become a Grammy-winning rapper. And he was a rapper and he decided that he wanted to get into fashion, and he was told, no, you're an artist, you're at the top of your game, you have everything, you don't belong in fashion. But he didn't accept that no, and he did it anyways. And then he created a billion-dollar brand of sneakers, Yeezy, and then came even bigger offers: the Adidas and the Gap deals, and they were worth billions. And all Ye (Kanye West) had to do to maintain that—”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35): “because he's my friend.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:43:54](/episodes/ep-BxN2-aeMYIs.md#t-00-43-38): “Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:46:17](/episodes/ep-_cNtgris8Ik.md#t-00-45-56): “I had no idea that Kanye was going to call me and he was going to invite me. And because of our friendship.”
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). I love Ye (Kanye West). He's like a brother to me. I am never going to turn my back on Ye (Kanye West). I'm here for the Ye (Kanye West) of all seasons. He and I agree on many things, disagree on many things at all times. If he wants to apologize to people that he specifically has hurt, he is welcome to do that.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:19:52](/episodes/ep-FGoeoZxDN1c.md#t-00-19-52): “And despite everyone in the world condemning him, they needed me to make that statement because they knew I was friends with him.”
 
 </details>
 
@@ -1061,6 +1397,13 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:06](/episodes/ep-A39g5oqB_eM.md#t-00-43-34): “Kanye (Kanye West)'s apology also sat down with Vanity Fair or answered questions for Vanity Fair about this apology,”
+
+</details>
+
+- **[BBC](/entities/org-bbc.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:11:04](/episodes/ep-FGoeoZxDN1c.md#t-00-10-37): “gave to, this is 2013, he was giving an interview to the BBC regarding his quote-unquote fans and this is what he said.”
 
 </details>
 
@@ -1085,6 +1428,13 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 
 </details>
 
+- **[Ebro Darden](/entities/person-ebro-darden.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:28:08](/episodes/ep-FGoeoZxDN1c.md#t-00-28-08): “Okay, so Ebro (Ebro Darden), I FaceTime him, and I'm there with Candace, right? And Ebro (Ebro Darden) starts bringing up his version of facts, right?”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** supporter of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1104,7 +1454,18 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Kanye West (6)</strong></summary>
+<summary><strong class="section-title">Statements by Kanye West (8)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2)</summary>
+
+- [00:22:33](/episodes/ep-FGoeoZxDN1c.md#t-00-22-14) [○] (Claim) ["According to Owens, Kanye West told her he was finally free in a phone call with..."](/statements/statement-a9e96de302ec.md)
+  - About: [Kanye West](/entities/person-kanye-west.md), [Adidas](/entities/org-adidas.md)
+
+- [00:28:08](/episodes/ep-FGoeoZxDN1c.md#t-00-28-08) [○] (Claim) ["In an archival TMZ clip, Kanye West described a FaceTime conversation involving ..."](/statements/statement-f77f9dea8d0c.md)
+  - About: [Kanye West](/entities/person-kanye-west.md), [Ebro Darden](/entities/person-ebro-darden.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (3)</summary>
@@ -1147,7 +1508,54 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kanye West (33)</strong></summary>
+<summary><strong class="section-title">Statements about Kanye West (44)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (5)</summary>
+
+- [00:15:43](/episodes/ep-S07n8TnRT0Q.md#t-00-15-37) (Claim) **Candace Owens**: ["Owens said Kanye West won the Grammy for Best Rap Album for My Beautif..."](/statements/statement-4c3224b3d49b.md)
+  - Also about: [My Beautiful Dark Twisted Fantasy](/entities/work-my-beautiful-dark-twisted-fantasy.md), [Grammy Awards](/entities/event-grammy-awards.md)
+
+- [00:25:25](/episodes/ep-S07n8TnRT0Q.md#t-00-24-56) (Claim) **Candace Owens**: ["Owens said she attended Ye’s Chicago concert the previous week and saw..."](/statements/statement-86fadd2a8b62.md)
+  - Also about: [Kid Cudi](/entities/person-kid-cudi.md), [Ghost Town (Kanye West song)](/entities/work-ghost-town-kanye-west.md)
+
+- [00:25:34](/episodes/ep-S07n8TnRT0Q.md#t-00-24-56) (Claim) **Candace Owens**: ["Owens said she had spent more than a year trying to obtain Ghost Town ..."](/statements/statement-28a16ac5afcb.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Ghost Town (Kanye West song)](/entities/work-ghost-town-kanye-west.md)
+
+- [00:25:41](/episodes/ep-S07n8TnRT0Q.md#t-00-25-41) (Claim) **Candace Owens**: ["Owens recalled that Kirk flew her to Wyoming, where she attended the r..."](/statements/statement-d9c8a1c0e167.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [ye (Kanye West album)](/entities/work-ye-kanye-west-album.md)
+
+- [00:25:58](/episodes/ep-S07n8TnRT0Q.md#t-00-25-41) (Claim) **Candace Owens**: ["Owens said Kanye West and Kid Cudi had a major public falling-out in 2..."](/statements/statement-a4a07477e4e2.md)
+  - Also about: [Kid Cudi](/entities/person-kid-cudi.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:49:45](/episodes/ep-bpXkPHpz9po.md#t-00-49-38) (Claim) **Candace Owens**: ["Owens said Kanye West was also banned from Australia."](/statements/statement-268e9efc2eb0.md)
+  - Also about: [Australia](/entities/gpe-australia.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (5)</summary>
+
+- [00:01:32](/episodes/ep-FGoeoZxDN1c.md#t-00-01-32) (Accusation) **Candace Owens**: ["Owens said Ye was selling out stadiums holding roughly 70,000–100,000 ..."](/statements/statement-9ecac39af6d7.md)
+
+- [00:06:03](/episodes/ep-FGoeoZxDN1c.md#t-00-05-38) (Claim) **Candace Owens**: ["Owens said Ye had not performed on stage in his hometown of Chicago fo..."](/statements/statement-b9be35038bf3.md)
+  - Also about: [Chicago, Illinois](/entities/gpe-chicago-illinois.md)
+
+- [00:20:10](/episodes/ep-FGoeoZxDN1c.md#t-00-20-10) (Claim) **Anonymous Source #1 (Ep FGoeoZxDN1c)** (via quoted speech): ["Owens recalled an unnamed Daily Wire co-CEO demanding that she condemn..."](/statements/statement-b8406ea8a6e3.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:22:33](/episodes/ep-FGoeoZxDN1c.md#t-00-22-14) (Claim) **Kanye West** (via quoted speech): ["According to Owens, Kanye West told her he was finally free in a phone..."](/statements/statement-a9e96de302ec.md)
+  - Also about: [Adidas](/entities/org-adidas.md)
+
+- [00:28:08](/episodes/ep-FGoeoZxDN1c.md#t-00-28-08) (Claim) **Kanye West** (via quoted speech): ["In an archival TMZ clip, Kanye West described a FaceTime conversation ..."](/statements/statement-f77f9dea8d0c.md)
+  - Also about: [Ebro Darden](/entities/person-ebro-darden.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2)</summary>

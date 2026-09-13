@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1810_
+_Total events: 1826_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -340,21 +340,21 @@ _Total events: 1810_
 <input type="radio" id="tab-year-1692" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (299)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (833)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (304)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (839)</label>
   <label for="tab-year-2024" class="tab-btn">2024 (101)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (40)</label>
-  <label for="tab-year-2022" class="tab-btn">2022 (23)</label>
+  <label for="tab-year-2022" class="tab-btn">2022 (25)</label>
   <label for="tab-year-2021" class="tab-btn">2021 (21)</label>
   <label for="tab-year-2020" class="tab-btn">2020 (15)</label>
   <label for="tab-year-2019" class="tab-btn">2019 (30)</label>
-  <label for="tab-year-2018" class="tab-btn">2018 (51)</label>
+  <label for="tab-year-2018" class="tab-btn">2018 (52)</label>
   <label for="tab-year-2017" class="tab-btn">2017 (19)</label>
   <label for="tab-year-2016" class="tab-btn">2016 (16)</label>
   <label for="tab-year-2015" class="tab-btn">2015 (14)</label>
   <label for="tab-year-2014" class="tab-btn">2014 (20)</label>
-  <label for="tab-year-2013" class="tab-btn">2013 (17)</label>
-  <label for="tab-year-2012" class="tab-btn">2012 (24)</label>
+  <label for="tab-year-2013" class="tab-btn">2013 (18)</label>
+  <label for="tab-year-2012" class="tab-btn">2012 (25)</label>
   <label for="tab-year-2011" class="tab-btn">2011 (15)</label>
   <label for="tab-year-2010" class="tab-btn">2010 (20)</label>
   <label for="tab-year-2009" class="tab-btn">2009 (14)</label>
@@ -439,6 +439,52 @@ _Total events: 1810_
 <h2 id="year-2026">2026</h2>
 
 **September**
+
+<div class="timeline-event filter-item" id="event-2026-09-owens-reported-attending-yes-chicago-hom" data-filter-key="event-2026-09-owens-reported-attending-yes-chicago-hom">
+<div class="timeline-date">2026-09</div>
+<div class="timeline-desc"><a href="/events/event-2026-09-owens-reported-attending-yes-chicago-hom.md">Owens reported attending Ye’s Chicago homecoming concert during the weekend before this episode.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-09: Owens reported attending Ye’s Chicago homecoming concert during the weekend before this episode. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:00:01](/episodes/ep-FGoeoZxDN1c.md#t-00-00-01)
+- [One Year On… To My Friend Charlie Kirk. @ 00:25:25](/episodes/ep-S07n8TnRT0Q.md#t-00-24-56)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-09-erika-kirk-published-a-new-york-times-op" data-filter-key="event-2026-09-erika-kirk-published-a-new-york-times-op">
+<div class="timeline-date">2026-09</div>
+<div class="timeline-desc"><a href="/events/event-2026-09-erika-kirk-published-a-new-york-times-op.md">Erika Kirk published a New York Times op-ed about grief ahead of the first anniversary of Charlie Kirk’s death.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-09: Erika Kirk published a New York Times op-ed about grief ahead of the first anniversary of Charlie Kirk’s death. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:40:40](/episodes/ep-FGoeoZxDN1c.md#t-00-40-40)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-09-09-owens-publicly-corrected-the-man-she-had" data-filter-key="event-2026-09-09-owens-publicly-corrected-the-man-she-had">
+<div class="timeline-date">2026-09-09</div>
+<div class="timeline-desc"><a href="/events/event-2026-09-09-owens-publicly-corrected-the-man-she-had.md">Owens publicly corrected the man she had called Chester Barnes to Derek "Pepper" Williams in the hat-and-plaid-shirt photograph.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-09-09: Owens publicly corrected the man she had called Chester Barnes to Derek \"Pepper\" Williams in the hat-and-plaid-shirt photograph. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On Th... @ 00:01:39](/episodes/ep-bpXkPHpz9po.md#t-00-01-19)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2026-09-01-owens-reported-attendees-at-the-tyler-ro" data-filter-key="event-2026-09-01-owens-reported-attendees-at-the-tyler-ro">
 <div class="timeline-date">2026-09-01</div>
@@ -760,6 +806,21 @@ _Total events: 1810_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPU... @ 00:16:29](/episodes/ep-_cNtgris8Ik.md#t-00-16-29)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-08-20-waterstone-acquired-salem-media-a-transa" data-filter-key="event-2026-08-20-waterstone-acquired-salem-media-a-transa">
+<div class="timeline-date">2026-08-20</div>
+<div class="timeline-desc"><a href="/events/event-2026-08-20-waterstone-acquired-salem-media-a-transa.md">WaterStone acquired Salem Media, a transaction Owens discussed in the episode.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-08-20: WaterStone acquired Salem Media, a transaction Owens discussed in the episode. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:57:00](/episodes/ep-FGoeoZxDN1c.md#t-00-56-45)
 
 </details>
 </div>
@@ -2998,7 +3059,7 @@ _Total events: 1810_
 <div class="timeline-date">2026-04-24</div>
 <div class="timeline-desc"><a href="/events/event-2026-04-24-donald-trump-posted-a-mock-time-cover-at.md">Donald Trump posted a mock Time cover attacking Candace Owens on Truth Social.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-24: Donald Trump posted a mock Time cover attacking Candace Owens on Truth Social. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -3006,6 +3067,7 @@ _Total events: 1810_
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 00:02:41](/episodes/ep-qZ8RWfyuewQ.md#t-00-02-41)
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:00:31](/episodes/ep-uC_GjKU8rs8.md#t-00-00-00)
+- [One Year On… To My Friend Charlie Kirk. @ 00:16:31](/episodes/ep-S07n8TnRT0Q.md#t-00-16-22)
 
 </details>
 </div>
@@ -4846,6 +4908,21 @@ _Total events: 1810_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:02:11](/episodes/ep-zSKrxIUMNqw.md#t-00-01-21)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-01-06-owens-said-her-show-covered-the-alleged-" data-filter-key="event-2026-01-06-owens-said-her-show-covered-the-alleged-">
+<div class="timeline-date">2026-01-06</div>
+<div class="timeline-desc"><a href="/events/event-2026-01-06-owens-said-her-show-covered-the-alleged-.md">Owens said her show covered the alleged Cowboy Smokehouse visit and spoke with the owner on January 6.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-06: Owens said her show covered the alleged Cowboy Smokehouse visit and spoke with the owner on January 6. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On Th... @ 00:31:32](/episodes/ep-bpXkPHpz9po.md#t-00-30-54)
 
 </details>
 </div>
@@ -7585,6 +7662,21 @@ _Total events: 1810_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-10-owens-said-she-wrote-the-first-journal-e" data-filter-key="event-2025-10-owens-said-she-wrote-the-first-journal-e">
+<div class="timeline-date">2025-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-10-owens-said-she-wrote-the-first-journal-e.md">Owens said she wrote the first journal entry read in her memorial episode while in Wyoming in mid-October after Kirk’s death.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-10: Owens said she wrote the first journal entry read in her memorial episode while in Wyoming in mid-October after Kirk’s death. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:00:40](/episodes/ep-S07n8TnRT0Q.md#t-00-00-40)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-10-29-daily-mail-publishes-kash-patel-shutting-down-kirk" data-filter-key="event-2025-10-29-daily-mail-publishes-kash-patel-shutting-down-kirk">
 <div class="timeline-date">2025-10-29</div>
 <div class="timeline-desc"><a href="/events/event-2025-10-29-daily-mail-publishes-kash-patel-shutting-down-kirk.md">Daily Mail publishes Kash Patel shutting down Kirk foreign intelligence probe</a></div>
@@ -7953,7 +8045,7 @@ _Total events: 1810_
 <div class="timeline-date">2025-10-07</div>
 <div class="timeline-desc"><a href="/events/event-2025-10-07-tpusa-donors-john-and-irina-mappin-publish-letter.md">TPUSA donors John and Irina Mappin publish letter supporting Candace Owens</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 4 eps</span>
+<span class="timeline-badge mentions">5× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-10-07: TPUSA donors John and Irina Mappin publish letter supporting Candace Owens - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -7963,6 +8055,7 @@ _Total events: 1810_
 - [Charlie's Angels Or Demons? Disturbing Footage ... @ 00:38:26](/episodes/ep-c5BcKF91iec.md#t-00-38-11)
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 01:07:16](/episodes/ep-2Riv3I7D0Yk.md#t-01-07-03)
 - [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:07:38](/episodes/ep-JrhGEm8MGRY.md#t-00-07-38)
+- [One Year On… To My Friend Charlie Kirk. @ 00:06:08](/episodes/ep-S07n8TnRT0Q.md#t-00-05-59)
 
 </details>
 </div>
@@ -9172,7 +9265,7 @@ _Total events: 1810_
 <div class="timeline-date">2025-09-21</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-21-charlie-kirks-public-memorial-was-held-a.md">Charlie Kirk's public memorial was held at State Farm Stadium.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">5× in 5 eps</span>
+<span class="timeline-badge mentions">6× in 6 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-21: Charlie Kirk\'s public memorial was held at State Farm Stadium. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -9183,6 +9276,7 @@ _Total events: 1810_
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:25:49](/episodes/ep-mFuno0TuuQQ.md#t-00-25-18)
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:40:13](/episodes/ep-uC_GjKU8rs8.md#t-00-40-13)
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep... @ 00:35:28](/episodes/ep-a2bZf4fic10.md#t-00-35-28)
+- [One Year On… To My Friend Charlie Kirk. @ 00:05:45](/episodes/ep-S07n8TnRT0Q.md#t-00-05-21)
 
 </details>
 </div>
@@ -9494,7 +9588,7 @@ _Total events: 1810_
 <div class="timeline-date">2025-09-18</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-18-erika-kirk-gave-an-in-person-interview-t.md">Erika Kirk gave an in-person interview to The New York Times.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-18: Erika Kirk gave an in-person interview to The New York Times. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -9503,6 +9597,7 @@ _Total events: 1810_
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46)
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24)
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:13:18](/episodes/ep-OgRyiOAVtWU.md#t-00-13-18)
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:41:07](/episodes/ep-FGoeoZxDN1c.md#t-00-41-07)
 
 </details>
 </div>
@@ -9795,7 +9890,7 @@ _Total events: 1810_
 <div class="timeline-date">2025-09-16</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning.md">Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk's assassination.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">9× in 9 eps</span>
+<span class="timeline-badge mentions">10× in 10 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-16: Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk\'s assassination. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -9810,6 +9905,7 @@ _Total events: 1810_
 - [The FBI Crashes Out. We Examine The Exploding M... @ 00:21:33](/episodes/ep-h76ZN-xXC6c.md#t-00-21-21)
 - [I Survive My First Death Hoax, Erika Kirk Makes... @ 00:09:06](/episodes/ep-VMNWMXX1vO8.md#t-00-08-56)
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:31:37](/episodes/ep-xjzb_t5Tk9o.md#t-00-31-37)
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:46:43](/episodes/ep-FGoeoZxDN1c.md#t-00-46-34)
 
 </details>
 </div>
@@ -10960,11 +11056,26 @@ _Total events: 1810_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-11-in-her-op-ed-erika-kirk-described-return" data-filter-key="event-2025-09-11-in-her-op-ed-erika-kirk-described-return">
+<div class="timeline-date">2025-09-11</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-11-in-her-op-ed-erika-kirk-described-return.md">In her op-ed, Erika Kirk described returning home to Phoenix from Utah the day after her husband’s death.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-11: In her op-ed, Erika Kirk described returning home to Phoenix from Utah the day after her husband’s death. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:43:47](/episodes/ep-FGoeoZxDN1c.md#t-00-43-18)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-10-tyler-robinson-arrived-at-cowboy-smokeho" data-filter-key="event-2025-09-10-tyler-robinson-arrived-at-cowboy-smokeho">
 <div class="timeline-date">2025-09-10 <span class='time'>20:45</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-tyler-robinson-arrived-at-cowboy-smokeho.md">Tyler Robinson arrived at Cowboy Smokehouse in Panguitch, Utah, ate at the bar, and left at approximately 9:30 p.m.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 20:45: Tyler Robinson arrived at Cowboy Smokehouse in Panguitch, Utah, ate at the bar, and left at approximately 9:30 p.m. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -10973,6 +11084,7 @@ _Total events: 1810_
 - [I’M BACK! And The Tyler Robinson Show Trial Beg... @ 00:22:21](/episodes/ep-EtLHqDbxqks.md#t-00-22-21)
 - [EXCLUSIVE: Never Before Seen Photos Of “Tyler R... @ 00:17:09](/episodes/ep-5zgkrOaCCj4.md#t-00-17-09)
 - [BREAKING NEWS: Where Tyler Robinson Went On The... @ 00:10:00](/episodes/ep-HYn0P-P1wUw.md#t-00-09-43)
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On Th... @ 00:35:59](/episodes/ep-bpXkPHpz9po.md#t-00-35-24)
 
 </details>
 </div>
@@ -11744,7 +11856,7 @@ _Total events: 1810_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md">Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">156× in 107 eps</span>
+<span class="timeline-badge mentions">157× in 108 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -11906,6 +12018,7 @@ _Total events: 1810_
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:19:27](/episodes/ep-vwG1juDCQZQ.md#t-00-19-04)
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:04:40](/episodes/ep-ZkDO-MRLUco.md#t-00-04-27)
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:28:38](/episodes/ep-HIlPQ-_dcxM.md#t-00-28-38)
+- [One Year On… To My Friend Charlie Kirk. @ 00:00:02](/episodes/ep-S07n8TnRT0Q.md#t-00-00-02)
 
 </details>
 </div>
@@ -12842,7 +12955,7 @@ _Total events: 1810_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-gave-an-interview-at-the-re.md">Charlie Kirk gave an interview at the Restaurantology Summit in Salt Lake City before traveling to Provo.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">5× in 5 eps</span>
+<span class="timeline-badge mentions">6× in 6 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk gave an interview at the Restaurantology Summit in Salt Lake City before traveling to Provo. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -12853,6 +12966,7 @@ _Total events: 1810_
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:12:07](/episodes/ep-OgRyiOAVtWU.md#t-00-12-03)
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:13:22](/episodes/ep-HIlPQ-_dcxM.md#t-00-12-56)
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:35:34](/episodes/ep-1FhY-koMuWM.md#t-00-35-30)
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:33:26](/episodes/ep-FGoeoZxDN1c.md#t-00-32-57)
 
 </details>
 </div>
@@ -13032,7 +13146,7 @@ _Total events: 1810_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-was-transported-to-a-hospit.md">Charlie Kirk was transported to a hospital in an SUV after he was shot.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">5× in 5 eps</span>
+<span class="timeline-badge mentions">6× in 6 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk was transported to a hospital in an SUV after he was shot. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -13043,6 +13157,7 @@ _Total events: 1810_
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:11:05](/episodes/ep-UBkFkg4UNY8.md#t-00-10-32)
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:21:24](/episodes/ep-ZkDO-MRLUco.md#t-00-21-14)
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exc... @ 00:15:46](/episodes/ep-HIlPQ-_dcxM.md#t-00-15-34)
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On Th... @ 00:10:56](/episodes/ep-bpXkPHpz9po.md#t-00-10-45)
 
 </details>
 </div>
@@ -13433,13 +13548,14 @@ _Total events: 1810_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-frank-turek-recalled-a-facetime-call-to-.md">Frank Turek recalled a FaceTime call to Jack Hibbs after reaching the emergency room with Charlie Kirk.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Frank Turek recalled a FaceTime call to Jack Hibbs after reaching the emergency room with Charlie Kirk. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:16:08](/episodes/ep-ZkDO-MRLUco.md#t-00-16-08)
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On Th... @ 00:15:49](/episodes/ep-bpXkPHpz9po.md#t-00-15-49)
 
 </details>
 </div>
@@ -13680,6 +13796,68 @@ _Total events: 1810_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-said-blake-neff-traveled-in-the-se" data-filter-key="event-2025-09-10-owens-said-blake-neff-traveled-in-the-se">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-owens-said-blake-neff-traveled-in-the-se.md">Owens said Blake Neff traveled in the second rental Denali with Danny Philip before the Utah Valley event.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens said Blake Neff traveled in the second rental Denali with Danny Philip before the Utah Valley event. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:33:11](/episodes/ep-FGoeoZxDN1c.md#t-00-32-57)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-blake-neff-recalled-a-hospital-waiting-r" data-filter-key="event-2025-09-10-blake-neff-recalled-a-hospital-waiting-r">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-blake-neff-recalled-a-hospital-waiting-r.md">Blake Neff recalled a hospital waiting-room discussion about how Candace Owens would react to Charlie Kirk’s death.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Blake Neff recalled a hospital waiting-room discussion about how Candace Owens would react to Charlie Kirk’s death. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:36:54](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-presented-footage-she-said-showed-" data-filter-key="event-2025-09-10-owens-presented-footage-she-said-showed-">
+<div class="timeline-date">2025-09-10</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-10-owens-presented-footage-she-said-showed-.md">Owens presented footage she said showed Kirk’s security group returning to UVU after 8:30 p.m.; subsequent commentary identified several people wea...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-10-owens-presented-footage-she-said-showed-.md">Owens presented footage she said showed Kirk’s security group returning to UVU after 8:30 p.m.; subsequent commentary identified several people wearing hospital scrubs.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens presented footage she said showed Kirk’s security group returning to UVU after 8:30 p.m.; subsequent commentary identified several people wearing hospital scrubs. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On Th... @ 00:21:14](/episodes/ep-bpXkPHpz9po.md#t-00-20-54)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-owens-alleged-that-an-unnamed-timpanogos" data-filter-key="event-2025-09-10-owens-alleged-that-an-unnamed-timpanogos">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-owens-alleged-that-an-unnamed-timpanogos.md">Owens alleged that an unnamed Timpanogos doctor recused himself during or immediately after Kirk’s surgery following a disagreement.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Owens alleged that an unnamed Timpanogos doctor recused himself during or immediately after Kirk’s surgery following a disagreement. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On Th... @ 00:29:47](/episodes/ep-bpXkPHpz9po.md#t-00-29-47)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution" data-filter-key="event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution">
 <div class="timeline-date">2025-09-09 <span class='time'>21:09</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution.md">Josh Hammer retweets Trump's 2013 public execution tweet.</a></div>
@@ -13701,7 +13879,7 @@ _Total events: 1810_
 <div class="timeline-date">2025-09-09 <span class='time'>18:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-josh-hammer-said-charlie-kirk-held-a-zoo.md">Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">8× in 8 eps</span>
+<span class="timeline-badge mentions">10× in 10 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09 18:00: Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -13715,6 +13893,8 @@ _Total events: 1810_
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:21:29](/episodes/ep-2Riv3I7D0Yk.md#t-00-21-29)
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:13:07](/episodes/ep-ZkDO-MRLUco.md#t-00-12-57)
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:34:47](/episodes/ep-1FhY-koMuWM.md#t-00-34-47)
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:53:21](/episodes/ep-FGoeoZxDN1c.md#t-00-52-52)
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On Th... @ 00:07:25](/episodes/ep-bpXkPHpz9po.md#t-00-06-53)
 
 </details>
 </div>
@@ -13852,7 +14032,7 @@ _Total events: 1810_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death.md">Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">12× in 11 eps</span>
+<span class="timeline-badge mentions">14× in 13 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Text messages the day before Charlie Kirk\'s death in which he warned he thought he would be killed. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -13870,6 +14050,8 @@ _Total events: 1810_
 - [Erika And I Sat Down. Here’s What Happened. | C... @ 00:07:15](/episodes/ep-es7PWdFGoFI.md#t-00-06-43)
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:12:50](/episodes/ep-ZkDO-MRLUco.md#t-00-12-14)
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HU... @ 00:25:16](/episodes/ep-1FhY-koMuWM.md#t-00-25-16)
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:52:52](/episodes/ep-FGoeoZxDN1c.md#t-00-52-52)
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On Th... @ 00:09:11](/episodes/ep-bpXkPHpz9po.md#t-00-08-49)
 
 </details>
 </div>
@@ -14253,7 +14435,7 @@ _Total events: 1810_
 <div class="timeline-date">2025-09-08 <span class='time'>20:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-frank-turek-said-he-took-a-long-walk-wit.md">Frank Turek said he took a long walk with Charlie Kirk around 8 p.m.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 20:00: Frank Turek said he took a long walk with Charlie Kirk around 8 p.m. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -14261,6 +14443,7 @@ _Total events: 1810_
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:46:29](/episodes/ep-CEF7gQRWYCE.md#t-00-46-11)
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:35:44](/episodes/ep-ZzAT2xijKGQ.md#t-00-35-44)
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On Th... @ 00:07:11](/episodes/ep-bpXkPHpz9po.md#t-00-06-53)
 
 </details>
 </div>
@@ -19111,7 +19294,7 @@ _Total events: 1810_
 <div class="timeline-date">2024-03-22</div>
 <div class="timeline-desc"><a href="/events/event-2024-03-22-candace-owens-and-the-daily-wire-ended-t.md">Candace Owens and The Daily Wire ended their relationship.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 4 eps</span>
+<span class="timeline-badge mentions">5× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024-03-22: Candace Owens and The Daily Wire ended their relationship. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -19121,6 +19304,7 @@ _Total events: 1810_
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:43:16](/episodes/ep-QdM9jLwjwLw.md#t-00-43-16)
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:11:07](/episodes/ep-uC_GjKU8rs8.md#t-00-10-44)
 - [Charlie’s Final Ride To The Hospital Isn’t Addi... @ 00:44:02](/episodes/ep-sKuYLNx3iRo.md#t-00-43-58)
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59)
 
 </details>
 </div>
@@ -19679,13 +19863,14 @@ _Total events: 1810_
 <div class="timeline-date">2024</div>
 <div class="timeline-desc"><a href="/events/event-2024-owens-said-blake-neff-began-working-with.md">Owens said Blake Neff began working with Charlie Kirk around the beginning of 2024.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024: Owens said Blake Neff began working with Charlie Kirk around the beginning of 2024. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyle... @ 00:53:49](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22)
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:37:47](/episodes/ep-FGoeoZxDN1c.md#t-00-37-40)
 
 </details>
 </div>
@@ -20446,13 +20631,29 @@ _Total events: 1810_
 <div class="timeline-date">2022-10</div>
 <div class="timeline-desc"><a href="/events/event-2022-10-the-daily-wire-changed-candace-owenss-co.md">The Daily Wire changed Candace Owens's contract after she refused to issue a public statement condemning Kanye West.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2022-10: The Daily Wire changed Candace Owens\'s contract after she refused to issue a public statement condemning Kanye West. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:39:34](/episodes/ep-zSKrxIUMNqw.md#t-00-39-19)
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:20:47](/episodes/ep-FGoeoZxDN1c.md#t-00-20-10)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2022-10-25-adidas-publicly-announced-the-end-of-its" data-filter-key="event-2022-10-25-adidas-publicly-announced-the-end-of-its">
+<div class="timeline-date">2022-10-25</div>
+<div class="timeline-desc"><a href="/events/event-2022-10-25-adidas-publicly-announced-the-end-of-its.md">Adidas publicly announced the end of its partnership with Kanye West.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2022-10-25: Adidas publicly announced the end of its partnership with Kanye West. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:22:33](/episodes/ep-FGoeoZxDN1c.md#t-00-22-14)
 
 </details>
 </div>
@@ -20633,6 +20834,21 @@ _Total events: 1810_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2022-02-12-kanye-west-and-kid-cudi-publicly-fell-ou" data-filter-key="event-2022-02-12-kanye-west-and-kid-cudi-publicly-fell-ou">
+<div class="timeline-date">2022-02-12</div>
+<div class="timeline-desc"><a href="/events/event-2022-02-12-kanye-west-and-kid-cudi-publicly-fell-ou.md">Kanye West and Kid Cudi publicly fell out in an online exchange.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2022-02-12: Kanye West and Kid Cudi publicly fell out in an online exchange. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:25:58](/episodes/ep-S07n8TnRT0Q.md#t-00-25-41)
+
+</details>
+</div>
+
 ****
 
 <div class="timeline-event filter-item" id="event-2022-eddie-farnsworth-left-public-office" data-filter-key="event-2022-eddie-farnsworth-left-public-office">
@@ -20654,13 +20870,14 @@ _Total events: 1810_
 <div class="timeline-date">2022</div>
 <div class="timeline-desc"><a href="/events/event-2022-kanye-west-posted-the-death-con-3-messag.md">Kanye West posted the “Death Con 3” message that Candace Owens said later cost her millions of dollars.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2022: Kanye West posted the “Death Con 3” message that Candace Owens said later cost her millions of dollars. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:00:07](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00)
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:19:30](/episodes/ep-FGoeoZxDN1c.md#t-00-19-11)
 
 </details>
 </div>
@@ -22169,13 +22386,14 @@ _Total events: 1810_
 <div class="timeline-date">2018-05</div>
 <div class="timeline-desc"><a href="/events/event-2018-05-candace-owens-met-george-farmer-at-a-lon.md">Candace Owens met George Farmer at a London event hosted by John and Irina Mappin</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2018-05: Candace Owens met George Farmer at a London event hosted by John and Irina Mappin - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran In... @ 00:04:22](/episodes/ep-JrhGEm8MGRY.md#t-00-04-22)
+- [One Year On… To My Friend Charlie Kirk. @ 00:13:20](/episodes/ep-S07n8TnRT0Q.md#t-00-13-14)
 
 </details>
 </div>
@@ -22195,13 +22413,28 @@ _Total events: 1810_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2018-05-31-owens-recalled-attending-the-wyoming-rel" data-filter-key="event-2018-05-31-owens-recalled-attending-the-wyoming-rel">
+<div class="timeline-date">2018-05-31</div>
+<div class="timeline-desc"><a href="/events/event-2018-05-31-owens-recalled-attending-the-wyoming-rel.md">Owens recalled attending the Wyoming release listening party for Kanye West’s ye album.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018-05-31: Owens recalled attending the Wyoming release listening party for Kanye West’s ye album. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:25:49](/episodes/ep-S07n8TnRT0Q.md#t-00-25-41)
+
+</details>
+</div>
+
 **April**
 
 <div class="timeline-event filter-item" id="event-2018-04-21-kanye-west-tweets-i-love-the-way-candace" data-filter-key="event-2018-04-21-kanye-west-tweets-i-love-the-way-candace">
 <div class="timeline-date">2018-04-21</div>
 <div class="timeline-desc"><a href="/events/event-2018-04-21-kanye-west-tweets-i-love-the-way-candace.md">Kanye West tweets 'I love the way Candace Owens thinks'</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2018-04-21: Kanye West tweets \'I love the way Candace Owens thinks\' - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -22210,6 +22443,7 @@ _Total events: 1810_
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:20:32](/episodes/ep-_vg7ucP1E0g.md#t-00-20-15)
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:07:38](/episodes/ep-Cq7nj9rxPdo.md#t-00-07-05)
 - [To My Friend, Charlie Kirk. @ 00:10:09](/episodes/ep-_dRaEO47-co.md#t-00-09-57)
+- [One Year On… To My Friend Charlie Kirk. @ 00:12:43](/episodes/ep-S07n8TnRT0Q.md#t-00-12-32)
 
 </details>
 </div>
@@ -22392,13 +22626,14 @@ _Total events: 1810_
 <div class="timeline-date">2018</div>
 <div class="timeline-desc"><a href="/events/event-2018-candace-owens-and-charlie-kirk-traveled-.md">Candace Owens and Charlie Kirk traveled to Israel together.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2018: Candace Owens and Charlie Kirk traveled to Israel together. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining”... @ 00:04:49](/episodes/ep-CMcktj3Egfo.md#t-00-04-12)
+- [One Year On… To My Friend Charlie Kirk. @ 00:12:43](/episodes/ep-S07n8TnRT0Q.md#t-00-12-32)
 
 </details>
 </div>
@@ -23770,6 +24005,21 @@ _Total events: 1810_
 
 **September**
 
+<div class="timeline-event filter-item" id="event-2013-09-23-kanye-west-gave-the-bbc-interview-about-" data-filter-key="event-2013-09-23-kanye-west-gave-the-bbc-interview-about-">
+<div class="timeline-date">2013-09-23</div>
+<div class="timeline-desc"><a href="/events/event-2013-09-23-kanye-west-gave-the-bbc-interview-about-.md">Kanye West gave the BBC interview about his music and self-esteem that Owens replayed.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2013-09-23: Kanye West gave the BBC interview about his music and self-esteem that Owens replayed. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. ... @ 00:11:04](/episodes/ep-FGoeoZxDN1c.md#t-00-10-37)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2013-09-15-erika-kirk-and-joshua-harrelson-met-15-y" data-filter-key="event-2013-09-15-erika-kirk-and-joshua-harrelson-met-15-y">
 <div class="timeline-date">2013-09-15</div>
 <div class="timeline-desc"><a href="/events/event-2013-09-15-erika-kirk-and-joshua-harrelson-met-15-y.md">Erika Kirk and Joshua Harrelson met 15-year-old Jillian Falcon.</a></div>
@@ -24266,6 +24516,21 @@ _Total events: 1810_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: What Happened In Romania? | E... @ 00:25:52](/episodes/ep-y8lak3CRwDw.md#t-00-25-52)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2012-02-12-kanye-west-won-best-rap-album-for-my-bea" data-filter-key="event-2012-02-12-kanye-west-won-best-rap-album-for-my-bea">
+<div class="timeline-date">2012-02-12</div>
+<div class="timeline-desc"><a href="/events/event-2012-02-12-kanye-west-won-best-rap-album-for-my-bea.md">Kanye West won Best Rap Album for My Beautiful Dark Twisted Fantasy.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012-02-12: Kanye West won Best Rap Album for My Beautiful Dark Twisted Fantasy. - Candace Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:15:43](/episodes/ep-S07n8TnRT0Q.md#t-00-15-37)
 
 </details>
 </div>

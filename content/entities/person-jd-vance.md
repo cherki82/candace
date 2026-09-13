@@ -1,6 +1,6 @@
 ---
 title: "JD Vance"
-description: "JD Vance (People) - 77 mentions"
+description: "JD Vance (People) - 78 mentions"
 id: "person-jd-vance"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-jd-vance-t-00-45-07">2025-09-18 · 00:45:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jd-vance-t-00-48-48">2026-08-21 · 00:48:55</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>77</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-jd-vance-t-00-45-27">2026-09-08 · 00:45:27</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>78</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>24</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>26</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -67,6 +67,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-jd-vance-t-00-41-51" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-jd-vance-t-00-37-05" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jd-vance-t-00-48-48" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-jd-vance-t-00-45-27" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -103,6 +104,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-jd-vance-t-00-41-51) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-jd-vance-t-00-37-05) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-jd-vance-t-00-48-48) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-jd-vance-t-00-45-27) | 1 |
 
 </details>
 </section>
@@ -114,7 +116,15 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (77)</strong></summary>
+<summary><strong class="section-title">Raw mentions (78)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:45:27](/episodes/ep-FGoeoZxDN1c.md#ent-person-jd-vance-t-00-45-27)**
+> "... you. We know you love Vance (JD Vance). You opened AMFest and said we got to get Vance ..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -540,6 +550,18 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details>
+<summary>Endorsed By (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:45:27](/episodes/ep-FGoeoZxDN1c.md#t-00-45-27): “Um, they have seen this surface level of you. We know you love Vance (JD Vance). You opened AMFest and said we got to get Vance (JD Vance) elected.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Friend Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
@@ -588,7 +610,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -615,6 +637,13 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:22](/episodes/ep-k8ueJdPFel4.md#t-00-13-51): “J.D. Vance was one of Charlie (Charlie Kirk)'s favorite politicians while Ben (Ben Shapiro) had been critical of him. Charlie (Charlie Kirk) saw Ben (Ben Shapiro) as a rival.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:45:27](/episodes/ep-FGoeoZxDN1c.md#t-00-45-27): “Um, they have seen this surface level of you. We know you love Vance (JD Vance). You opened AMFest and said we got to get Vance (JD Vance) elected.”
 
 </details>
 
@@ -678,7 +707,18 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about JD Vance (24)</strong></summary>
+<summary><strong class="section-title">Statements about JD Vance (26)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2)</summary>
+
+- [00:43:31](/episodes/ep-FGoeoZxDN1c.md#t-00-43-18) (Opinion) **Candace Owens**: ["Owens said Erika Kirk’s public grief narrative felt like an extended p..."](/statements/statement-56519a819553.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Usha Vance](/entities/person-usha-vance.md)
+
+- [00:45:27](/episodes/ep-FGoeoZxDN1c.md#t-00-45-27) (Claim) **Candace Owens**: ["Owens said Erika Kirk opened AmericaFest by calling for JD Vance to be..."](/statements/statement-44b18d4e304d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [AmericaFest 2025](/entities/event-americafest-2025.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>

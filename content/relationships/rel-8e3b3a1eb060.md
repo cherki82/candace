@@ -11,7 +11,7 @@ object: "person-blake-neff"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Blake Neff](/entities/person-blake-neff)
 
-### Evidence (32 mentions)
+### Evidence (33 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -48,6 +48,10 @@ object: "person-blake-neff"
 **[Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA)**
 
 - [00:00:21](/episodes/ep-E7P2ShoYDUA#t-00-00-21): _Just terrible, terrible. I mean, without question, the biggest loser was Erika Kirk, Andrew Kolvet. Blake Neff, the Turning Point USA organization, more broadly speaking, because we seem to be reaching a new depth of their PR disaster._
+
+**[Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c)**
+
+- [00:36:15](/episodes/ep-FGoeoZxDN1c#t-00-36-15): _And so, Blake (Blake Neff), you're just sort of off the mark with trying to tell people that somehow they should be wanting to dedicate their lives more in the way that Charlie (Charlie Kirk) did. And clearly, clearly, judging by your actions, the things that you have said, you were not worth that investment._
 
 **[Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk)**
 

@@ -1,6 +1,6 @@
 ---
 title: "New York Post"
-description: "New York Post (Organizations) - 27 mentions"
+description: "New York Post (Organizations) - 28 mentions"
 id: "org-new-york-post"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [New York Post](https://nypost.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-new-york-post-t-00-18-10">2025-09-17 · 00:18:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-new-york-post-t-00-36-39">2026-09-03 · 00:36:39</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-new-york-post-t-00-31-37">2026-09-09 · 00:31:37</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -45,6 +45,7 @@ Source: [New York Post](https://nypost.com/)
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-new-york-post-t-00-38-59" style="--pulse-height:33%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-new-york-post-t-00-11-51" style="--pulse-height:100%" aria-label="Candace x Hunter Biden: The Interview: 6 mentions" title="2026-05-21 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-new-york-post-t-00-22-39" style="--pulse-height:33%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-new-york-post-t-00-31-37" style="--pulse-height:17%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +65,7 @@ Source: [New York Post](https://nypost.com/)
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-new-york-post-t-00-38-59) | 2 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-new-york-post-t-00-11-51) | 6 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-new-york-post-t-00-22-39) | 2 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-new-york-post-t-00-31-37) | 1 |
 
 </details>
 </section>
@@ -71,7 +73,15 @@ Source: [New York Post](https://nypost.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:31:37](/episodes/ep-bpXkPHpz9po.md#ent-org-new-york-post-t-00-31-37)**
+> "...mainstreamed at the time. The New York Post covered it. You can take a look here."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>

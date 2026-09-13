@@ -1,6 +1,6 @@
 ---
 title: "Mitch Snow"
-description: "Mitch Snow (People) - 131 mentions"
+description: "Mitch Snow (People) - 132 mentions"
 id: "person-mitch-snow"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-snow-t-00-00-00">2025-12-18 · 00:00:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-mitch-snow-t-00-31-13">2026-08-21 · 00:31:41</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>131</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-mitch-snow-t-00-39-26">2026-09-09 · 00:39:26</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>132</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
 <div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>24</strong></div>
@@ -61,6 +61,7 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-mitch-snow-t-00-42-01" style="--pulse-height:16%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-mitch-snow-t-00-08-50" style="--pulse-height:21%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-mitch-snow-t-00-31-13" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-mitch-snow-t-00-39-26" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -92,6 +93,7 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-mitch-snow-t-00-42-01) | 3 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-mitch-snow-t-00-08-50) | 4 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-mitch-snow-t-00-31-13) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-mitch-snow-t-00-39-26) | 1 |
 
 </details>
 </section>
@@ -103,7 +105,15 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (131)</strong></summary>
+<summary><strong class="section-title">Raw mentions (132)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:39:26](/episodes/ep-bpXkPHpz9po.md#ent-person-mitch-snow-t-00-39-26)**
+> "Same thing we've said about Mitch Snow and Fort Huachuca. We did our diligence. We confi..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>

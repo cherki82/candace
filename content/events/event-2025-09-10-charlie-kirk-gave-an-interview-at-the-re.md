@@ -20,7 +20,7 @@ date: "2025-09-10"
 
 > Charlie Kirk gave an interview at the Restaurantology Summit in Salt Lake City before traveling to Provo.
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357
 
@@ -61,3 +61,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=1FhY-koMuWM&t=2134s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So the next day we get up, we fly up to Utah and he actually, we had to stop to do a. ... He was going to do a presentation to a group of restaurateurs because his cousin was a restaurateur and said, ... come speak to my group of restaurant owners? We stop at this.
+
+### 6. Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’...
+
+**Episode:** [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md)
+**Timestamp:** [00:33:26](/episodes/ep-FGoeoZxDN1c.md#t-00-32-57) 
+<a href="https://www.youtube.com/watch?v=FGoeoZxDN1c&t=2006s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> We know that neither Danny or Blake attend the Restaurantology event that morning where Charlie gave an interview.

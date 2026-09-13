@@ -1,12 +1,13 @@
 ---
 title: "Salem Media Group"
-description: "Salem Media Group (Organizations) - 30 mentions"
+description: "Salem Media Group (Organizations) - 34 mentions"
 id: "org-salem-media-group"
 type: "ORG"
 aliases:
   - "Salem network"
   - "Salem"
   - "Salem Media Network"
+  - "Salem Media"
 categories:
   - "media company"
   - "radio network"
@@ -14,7 +15,7 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** Salem network, Salem, Salem Media Network
+**Also known as:** Salem network, Salem, Salem Media Network, Salem Media
 
 **Categories:** media company, radio network
 
@@ -24,11 +25,11 @@ Source: [Salem Media Group: About Us](https://salemmedia.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-salem-media-group-t-00-45-32">2026-02-02 · 00:45:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-org-salem-media-group-t-00-36-57">2026-07-16 · 00:36:57</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-salem-media-group-t-00-57-24">2026-09-08 · 00:57:32</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -43,6 +44,7 @@ Source: [Salem Media Group: About Us](https://salemmedia.com/about-us/)
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-salem-media-group-t-00-25-00" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-salem-media-group-t-00-38-00" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-salem-media-group-t-00-36-57" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-salem-media-group-t-00-56-45" style="--pulse-height:17%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 4 mentions" title="2026-09-08 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +56,7 @@ Source: [Salem Media Group: About Us](https://salemmedia.com/about-us/)
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-salem-media-group-t-00-25-00) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-salem-media-group-t-00-38-00) | 2 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-salem-media-group-t-00-36-57) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-salem-media-group-t-00-56-45) | 4 |
 
 </details>
 </section>
@@ -65,7 +68,24 @@ Source: [Salem Media Group: About Us](https://salemmedia.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (4 mentions)</summary>
+
+**[00:56:45](/episodes/ep-FGoeoZxDN1c.md#ent-org-salem-media-group-t-00-56-45)**
+> "... read that. This user writes, Salem Media Waterstone is releasing a Charlie Kirk docu..."
+
+**[00:57:00](/episodes/ep-FGoeoZxDN1c.md#ent-org-salem-media-group-t-00-56-45)**
+> "This year, yeah, Salem Media and Waterstone, they are acquiring Salem Me..."
+
+**[00:57:24](/episodes/ep-FGoeoZxDN1c.md#ent-org-salem-media-group-t-00-57-24)**
+> "Their apparatus has been Salem Media and they gave that money because they wante..."
+
+**[00:57:32](/episodes/ep-FGoeoZxDN1c.md#ent-org-salem-media-group-t-00-57-24)**
+> "on the board of Salem Media, or he was at least an executive at Salem M..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
@@ -302,7 +322,27 @@ Source: [Salem Media Group: About Us](https://salemmedia.com/about-us/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Salem Media Group (7)</strong></summary>
+<summary><strong class="section-title">Statements about Salem Media Group (12)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (5)</summary>
+
+- [00:56:45](/episodes/ep-FGoeoZxDN1c.md#t-00-56-45) (Citation) **Anonymous Source #4 (Ep FGoeoZxDN1c)** (via quoted post): ["An unnamed viewer comment read by Owens said Salem Media and WaterSton..."](/statements/statement-bd293df5e4cb.md)
+  - Also about: [WaterStone](/entities/org-waterstone.md), [Can You Hear Me Now? (2026 documentary)](/entities/work-can-you-hear-me-now-2026.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:57:00](/episodes/ep-FGoeoZxDN1c.md#t-00-56-45) (Claim) **Candace Owens**: ["Owens said WaterStone was acquiring Salem Media."](/statements/statement-43487c4935bc.md)
+  - Also about: [WaterStone](/entities/org-waterstone.md)
+
+- [00:57:00](/episodes/ep-FGoeoZxDN1c.md#t-00-56-45) (Accusation) **Candace Owens**: ["Citing FARA filings, Owens alleged that Israeli foreign-ministry spend..."](/statements/statement-cb1e92132f71.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+- [00:57:24](/episodes/ep-FGoeoZxDN1c.md#t-00-57-24) (Claim) **Candace Owens** (via paraphrase): ["Owens said she believed Brad Parscale had been on Salem Media’s board,..."](/statements/statement-8d7a5efa3123.md)
+  - Also about: [Brad Parscale](/entities/person-brad-parscale.md)
+
+- [00:57:37](/episodes/ep-FGoeoZxDN1c.md#t-00-57-24) (Prediction) **Candace Owens**: ["Owens predicted that the forthcoming Can You Hear Me Now documentary w..."](/statements/statement-7dee6120e217.md)
+  - Also about: [Can You Hear Me Now? (2026 documentary)](/entities/work-can-you-hear-me-now-2026.md), [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Pesach Wolicki"
-description: "Pesach Wolicki (People) - 17 mentions"
+description: "Pesach Wolicki (People) - 19 mentions"
 id: "person-pesach-wolicki"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-pesach-wolicki-t-00-19-41">2025-10-08 · 00:19:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-pesach-wolicki-t-00-36-39">2026-09-03 · 00:36:39</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-pesach-wolicki-t-00-07-33">2026-09-09 · 00:07:33</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -42,6 +42,8 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-pesach-wolicki-t-00-14-25" style="--pulse-height:11%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-pesach-wolicki-t-00-42-22" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-pesach-wolicki-t-00-32-15" style="--pulse-height:44%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 4 mentions" title="2026-09-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-pesach-wolicki-t-00-52-52" style="--pulse-height:11%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-pesach-wolicki-t-00-07-33" style="--pulse-height:11%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +54,8 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-pesach-wolicki-t-00-14-25) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-pesach-wolicki-t-00-42-22) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-pesach-wolicki-t-00-32-15) | 4 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-pesach-wolicki-t-00-52-52) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-pesach-wolicki-t-00-07-33) | 1 |
 
 </details>
 </section>
@@ -63,7 +67,23 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:07:33](/episodes/ep-bpXkPHpz9po.md#ent-person-pesach-wolicki-t-00-07-33)**
+> "... their time, a rabbi Wolicki (Pesach Wolicki) who was stateside, a Josh Hammer, a Jewish man w..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:53:06](/episodes/ep-FGoeoZxDN1c.md#ent-person-pesach-wolicki-t-00-52-52)**
+> "...n we know that Rabbi Wolicki (Pesach Wolicki) was on the FaceTime call."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (4 mentions)</summary>
@@ -239,7 +259,26 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pesach Wolicki (6)</strong></summary>
+<summary><strong class="section-title">Statements about Pesach Wolicki (9)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:07:25](/episodes/ep-bpXkPHpz9po.md#t-00-06-53) (Claim) **Candace Owens**: ["Owens said the September 9 Zoom call included Frank Turek, two Israeli..."](/statements/statement-3eca509f3ada.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Josh Hammer](/entities/person-josh-hammer.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2)</summary>
+
+- [00:53:06](/episodes/ep-FGoeoZxDN1c.md#t-00-52-52) (Claim) **Candace Owens** (via paraphrase): ["Owens said the Zoom call included two Israeli officials, Pesach Wolick..."](/statements/statement-1b92c62c5a63.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:55:25](/episodes/ep-FGoeoZxDN1c.md#t-00-55-25) (Opinion) **Candace Owens**: ["Owens said she did not believe the explanation that Kirk needed the la..."](/statements/statement-93bcdc85b7c9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Josh Hammer](/entities/person-josh-hammer.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>

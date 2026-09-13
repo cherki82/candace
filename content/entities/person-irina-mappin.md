@@ -1,6 +1,6 @@
 ---
 title: "Irina Mappin"
-description: "Irina Mappin (People) - 18 mentions"
+description: "Irina Mappin (People) - 19 mentions"
 id: "person-irina-mappin"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-irina-mappin-t-00-44-22">2025-10-07 · 00:44:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-irina-mappin-t-00-24-19">2026-08-31 · 00:24:38</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-irina-mappin-t-00-05-21">2026-09-10 · 00:05:45</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -42,6 +42,7 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <a href="/episodes/ep-K1tFD7FfoCU.md#t-00-33-12" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-irina-mappin-t-00-22-42" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-irina-mappin-t-00-03-40" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 13 mentions" title="2026-08-31 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-irina-mappin-t-00-05-21" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#t-00-33-12) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-irina-mappin-t-00-22-42) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-irina-mappin-t-00-03-40) | 13 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-irina-mappin-t-00-05-21) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:05:45](/episodes/ep-S07n8TnRT0Q.md#ent-person-irina-mappin-t-00-05-21)**
+> "Irina (Irina Mappin) and John Mappin attended that memorial, and Irin..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (13 mentions)</summary>
@@ -150,9 +160,10 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <summary>Authored (1)</summary>
 
 - **[Candace Owens, Charlie Kirk and the Pursuit of Truth](/entities/work-candace-owens-charlie-kirk-pursuit-of-truth.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:07:47](/episodes/ep-JrhGEm8MGRY.md#t-00-07-38): “But with emails, the piece was entitled Candace Owens, Charlie Kirk and the Pursuit of Truth. And in part, they wrote this. I'm going to just reread this little part.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:05:45](/episodes/ep-S07n8TnRT0Q.md#t-00-05-21): “Irina (Irina Mappin) and John Mappin attended that memorial ... And they wrote me the most beautiful open letter in your honor, a letter to the world, and it gave me the strength to fight another day.”
 
 </details>
 
@@ -186,10 +197,11 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <summary>Friend Of (5)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:16:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43): “John and Marina Mappin, the lone donors who wrote that beautiful letter that has impacted the world—like true friends of Charlie (Charlie Kirk) who stood up and said that what Turning Point USA is doing is wrong.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:05:45](/episodes/ep-S07n8TnRT0Q.md#t-00-05-21): “Irina (Irina Mappin) and John Mappin attended that memorial ... she and John (John Mappin) tossed me a lifesaver. They were your real friends.”
 
 </details>
 
@@ -227,9 +239,10 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <summary>Supporter Of (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:54](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And the rest is future. Now, to jog your memory beyond that, John (John Mappin) and Irina (Irina Mappin) have been among the most vociferous, I should say, supporters from the very beginning of the Charlie Kirk investigation—my investigation.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:07:09](/episodes/ep-S07n8TnRT0Q.md#t-00-06-37): “We are growing rather sick and ashamed of seeing people criticize Candace for doing her level best to get to the bottom of and to the truth of what happened to Charlie (Charlie Kirk) on that day.”
 
 </details>
 
@@ -239,9 +252,10 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 <summary>Referenced By (10)</summary>
 
 - **[Candace Owens, Charlie Kirk and the Pursuit of Truth](/entities/work-candace-owens-charlie-kirk-pursuit-of-truth.md)** authored by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:07:47](/episodes/ep-JrhGEm8MGRY.md#t-00-07-38): “But with emails, the piece was entitled Candace Owens, Charlie Kirk and the Pursuit of Truth. And in part, they wrote this. I'm going to just reread this little part.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:05:45](/episodes/ep-S07n8TnRT0Q.md#t-00-05-21): “Irina (Irina Mappin) and John Mappin attended that memorial ... And they wrote me the most beautiful open letter in your honor, a letter to the world, and it gave me the strength to fight another day.”
 
 </details>
 
@@ -260,10 +274,11 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:16:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43): “John and Marina Mappin, the lone donors who wrote that beautiful letter that has impacted the world—like true friends of Charlie (Charlie Kirk) who stood up and said that what Turning Point USA is doing is wrong.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:05:45](/episodes/ep-S07n8TnRT0Q.md#t-00-05-21): “Irina (Irina Mappin) and John Mappin attended that memorial ... she and John (John Mappin) tossed me a lifesaver. They were your real friends.”
 
 </details>
 
@@ -303,9 +318,10 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** supported by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:54](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And the rest is future. Now, to jog your memory beyond that, John (John Mappin) and Irina (Irina Mappin) have been among the most vociferous, I should say, supporters from the very beginning of the Charlie Kirk investigation—my investigation.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:07:09](/episodes/ep-S07n8TnRT0Q.md#t-00-06-37): “We are growing rather sick and ashamed of seeing people criticize Candace for doing her level best to get to the bottom of and to the truth of what happened to Charlie (Charlie Kirk) on that day.”
 
 </details>
 
@@ -314,7 +330,21 @@ Source: [John Mappin official biography](https://johnmappin.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Irina Mappin (7)</strong></summary>
+<summary><strong class="section-title">Statements about Irina Mappin (10)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (3)</summary>
+
+- [00:05:45](/episodes/ep-S07n8TnRT0Q.md#t-00-05-21) (Claim) **Candace Owens** (via paraphrase): ["Owens said Irina and John Mappin attended Kirk’s memorial and that Iri..."](/statements/statement-97446e05ebb4.md)
+  - Also about: [John Mappin](/entities/person-john-mappin.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:09](/episodes/ep-S07n8TnRT0Q.md#t-00-06-37) (Opinion) **John Mappin** (via quoted document): ["In their joint open letter, John and Irina Mappin defended Owens’s inv..."](/statements/statement-fbfad4c8908b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:52](/episodes/ep-S07n8TnRT0Q.md#t-00-07-20) (Opinion) **John Mappin** (via quoted document): ["John and Irina Mappin’s joint letter urged an appropriate legal author..."](/statements/statement-67f98c450433.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (5)</summary>

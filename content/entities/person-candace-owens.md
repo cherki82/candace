@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 2640 mentions"
+description: "Candace Owens (People) - 2690 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24">2025-09-11 · 00:07:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-candace-owens-t-00-55-37">2026-09-03 · 00:55:37</a></strong></div>
-<div><span>Episodes</span><strong>163</strong></div>
-<div><span>Mentions</span><strong>2,640</strong></div>
-<div><span>Statements by</span><strong>4,881</strong></div>
-<div><span>Statements about</span><strong>644</strong></div>
-<div><span>Relationships</span><strong>935</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-candace-owens-t-00-28-35">2026-09-10 · 00:28:35</a></strong></div>
+<div><span>Episodes</span><strong>166</strong></div>
+<div><span>Mentions</span><strong>2,690</strong></div>
+<div><span>Statements by</span><strong>4,963</strong></div>
+<div><span>Statements about</span><strong>669</strong></div>
+<div><span>Relationships</span><strong>937</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -199,6 +199,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-candace-owens-t-00-45-23" style="--pulse-height:12%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 7 mentions" title="2026-09-01 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-01-40" style="--pulse-height:17%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 10 mentions" title="2026-09-02 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-candace-owens-t-00-35-59" style="--pulse-height:12%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 7 mentions" title="2026-09-03 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-00-42" style="--pulse-height:42%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 25 mentions" title="2026-09-08 · 25 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-00-27" style="--pulse-height:27%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 16 mentions" title="2026-09-09 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-candace-owens-t-00-06-37" style="--pulse-height:15%" aria-label="One Year On… To My Friend Charlie Kirk.: 9 mentions" title="2026-09-10 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -367,6 +370,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-candace-owens-t-00-45-23) | 7 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-candace-owens-t-00-01-40) | 10 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-candace-owens-t-00-35-59) | 7 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-00-42) | 25 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-00-27) | 16 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-candace-owens-t-00-06-37) | 9 |
 
 </details>
 </section>
@@ -378,7 +384,172 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2640)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2690)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (9 mentions)</summary>
+
+**[00:07:09](/episodes/ep-S07n8TnRT0Q.md#ent-person-candace-owens-t-00-06-37)**
+> "...ed of seeing people criticize Candace for doing her level best to get to the bottom of ..."
+
+**[00:07:20](/episodes/ep-S07n8TnRT0Q.md#ent-person-candace-owens-t-00-07-20)**
+> "You don't have to agree with Candace on every subject that she addresses on her shows ..."
+
+**[00:07:43](/episodes/ep-S07n8TnRT0Q.md#ent-person-candace-owens-t-00-07-20)**
+> "...one would question how bright Candace is or that she may indeed be able to help her cou..."
+
+**[00:07:52](/episodes/ep-S07n8TnRT0Q.md#ent-person-candace-owens-t-00-07-20)**
+> "...are everything they know with Candace and her selected team."
+
+**[00:08:18](/episodes/ep-S07n8TnRT0Q.md#ent-person-candace-owens-t-00-08-02)**
+> "... highest order of patriotism. Candace's actions are a service to the whole country and to..."
+
+**[00:12:43](/episodes/ep-S07n8TnRT0Q.md#ent-person-candace-owens-t-00-12-32)**
+> "... West) tweets, I love the way Candace Owens thinks and it rips a hole in the universe. We fly..."
+
+**[00:27:30](/episodes/ep-S07n8TnRT0Q.md#ent-person-candace-owens-t-00-27-05)**
+> "... you again. Until then, love, Candace."
+
+**[00:28:03](/episodes/ep-S07n8TnRT0Q.md#ent-person-candace-owens-t-00-27-44)**
+> "...bviously, because there is no Candace without Charlie (Charlie Kirk)."
+
+**[00:28:35](/episodes/ep-S07n8TnRT0Q.md#ent-person-candace-owens-t-00-28-35)**
+> "...ou think you're gonna outwork Candace Owens and Charlie Kirk, you're wrong,"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (16 mentions)</summary>
+
+**[00:00:27](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-00-27)**
+> "Don't mess with pregnant Candace Owens."
+
+**[00:00:40](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-00-31)**
+> "...ptember 10th. Welcome back to Candace."
+
+**[00:06:05](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-06-05)**
+> "...vidence for any of the things Candace Owens has been saying, particularly about our mutual fr..."
+
+**[00:06:18](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-06-05)**
+> "...ce. Yeah, I'm talking to you, Candace Owens."
+
+**[00:06:28](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-06-05)**
+> "...omething is true just because Candace Owens asked a question that suggested is true."
+
+**[00:06:39](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-06-05)**
+> "Yeah, I'm talking about Candace Owens. This poor woman has to wait for justice while Ca..."
+
+**[00:26:06](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-25-42)**
+> "...iblically based sermons about Candace who just wants to find out what happened on Septe..."
+
+**[00:27:28](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-27-11)**
+> "...u can visit preborn.com slash Candace. Again, that's preborn.com slash Candace."
+
+**[00:28:31](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-28-31)**
+> "...heading to dosedaily.co slash Candace and entering code Candace at checkout."
+
+**[00:28:41](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-28-31)**
+> "...in, that's dosedaily.co slash Candace for 35% off your first month's subscription."
+
+**[00:42:00](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-41-34)**
+> "... paleovalley.com and use code Candace at checkout."
+
+**[00:42:07](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-41-34)**
+> "...leovalley.com with promo code Candace at checkout. And I want to remind you guys about ..."
+
+**[00:43:01](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-43-01)**
+> "... heading to fatty15.com slash Candace and using code Candace at checkout."
+
+**[00:43:10](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-43-01)**
+> "...ain, that's fatty15.com slash Candace. And I always tell you guys about American Financ..."
+
+**[00:44:21](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-44-21)**
+> "...he hospital lobby was, quote, Candace is going to figure this out."
+
+**[00:47:04](/episodes/ep-bpXkPHpz9po.md#ent-person-candace-owens-t-00-47-04)**
+> "...ending it Tony Hill writes hi Candace I'm so happy to hear you and Kanye (Kanye West) g..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (25 mentions)</summary>
+
+**[00:00:52](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-00-42)**
+> "... all of this. Welcome back to Candace."
+
+**[00:26:42](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-26-22)**
+> "...very quick installment in the Candace culturing Charlie (Charlie Kirk) chapters, never ..."
+
+**[00:28:08](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-28-08)**
+> "...eTime him, and I'm there with Candace, right? And Ebro (Ebro Darden) starts bringing up..."
+
+**[00:28:16](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-28-08)**
+> "And Candace has facts. She's researched,"
+
+**[00:28:18](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-28-18)**
+> "Candace right? Owens, Candace right?"
+
+**[00:28:19](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-28-19)**
+> "...s. She's researched. And then Candace just pulls out her Jedi lightsaber and just, you ..."
+
+**[00:28:30](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-28-19)**
+> "...aid, yo, you're going to have Candace on your show?"
+
+**[00:28:48](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-28-48)**
+> "...t of backhanded way I created Candace Owens. I helped to create the monster, like deranged fo..."
+
+**[00:29:14](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-28-48)**
+> "... I said that there there's no Candace without Charlie (Charlie Kirk). And in many ways,..."
+
+**[00:30:39](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-30-12)**
+> "...by or visit preborn.com slash Candace. Again, that's preborn.com slash Candace. Yes. I ..."
+
+**[00:31:35](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-31-35)**
+> "Visit twc.health slash Candace and use code Candace at checkout to save up to 50..."
+
+**[00:32:40](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-32-19)**
+> "... beekeepersnaturals.com slash candace and enter code candace at checkout to get 20% off..."
+
+**[00:32:46](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-32-19)**
+> "... beekeepersnaturals.com slash candace and enter code candace at checkout to get 20% off..."
+
+**[00:33:59](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-33-36)**
+> "...over the last couple of days. Candace finds it implausible and ridiculous that Charlie ..."
+
+**[00:37:00](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-37-00)**
+> "...d talking about how podcaster Candace Owens would react to Charlie (Charlie Kirk)'s death. He..."
+
+**[00:37:23](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-37-00)**
+> "...re quoting him. Someone said, Candace is going to have an extreme reaction to this. And..."
+
+**[00:38:01](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-37-40)**
+> "...ving a conversation about how Candace will react and conspiracy theories while you're s..."
+
+**[00:38:41](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-38-16)**
+> "...hat's their conversation. Oh, Candace is going to have a reaction to Charlie (Charlie K..."
+
+**[00:38:53](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-38-53)**
+> "Candace is going to have a very strong reaction to Charli..."
+
+**[00:40:22](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-40-05)**
+> "...at I get from that admission. Candace is not going to just trust the narrative and the ..."
+
+**[00:50:33](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-50-20)**
+> "At ethos.com slash Candace, that's E-T-H-O-S dot com slash Candace, applicat..."
+
+**[00:51:25](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-50-58)**
+> "...o KEET or visit KEET.io slash Candace Owens."
+
+**[00:51:34](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-51-34)**
+> "...s Keet, K-E-E-T dot I-O slash Candace Owens. Download Keet for free and invite the one person..."
+
+**[00:58:15](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-58-10)**
+> "...ready. I see keep going, Max, Candace. We know now, well, we will definitely be able to..."
+
+**[00:59:09](/episodes/ep-FGoeoZxDN1c.md#ent-person-candace-owens-t-00-59-09)**
+> "...he Charlie (Charlie Kirk) and Candace archives."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (7 mentions)</summary>
@@ -9769,7 +9940,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (64)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (65)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -9835,6 +10006,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:01](/episodes/ep-Wjul6YV6izo.md#t-00-53-24): “Mrs. Kirk is not just behaving inappropriately. She's behaving suspiciously. ... it is always suspicious to tell a lie.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35): “in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:02:29](/episodes/ep-HIlPQ-_dcxM.md#t-01-02-29): “The reason why so many conservabros love it is because they're basically trying to draw this line between people that think Erika Kirk is suspicious to people that want Lindsay Clancy freed or something, some disingenuous line that they're trying to draw, which is completely crazy because they were the ones that were going on vibes of Erika and just saying that we should all ignore the lies that she's told us.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:11:02](/episodes/ep-S07n8TnRT0Q.md#t-00-10-33): “I don't think I really know what Erika (Erika Kirk) is. I know that a wife would not partner with your enemies.”
 
 </details>
 
@@ -9999,7 +10171,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -10017,6 +10189,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:48:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-48-17): “Then we have Frank Turek (Frank Turek speaking), who engages in this same sort of act of psychological manipulation, in my viewpoint, and he defends Mikey McCoy.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:18:53](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21): “That is just amazing to me that Frank Turek was fine to start a FaceTime call from the emergency room amidst all of that chaos while Charlie (Charlie Kirk) was dying, Amidst all of that chaos, while Charlie (Charlie Kirk) was dying, Brian Harpole was jumping on top of him, presumably. ... He's making probably accurate time estimates there for a military man, Frank Turek. It just seems to me to be like an extraordinarily inappropriate thing to do. ... Starting a FaceTime call with Jack Hibbs. What do I know? That's just my opinion, not a fact.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01): “Now, I do want to say regarding Alex Faria falling out of that car, it's a bit of a wonder that a pastor would think it's wise for him to be in the car above security on the way to the hospital. You would think that he would yield to security and say, OK, I'll find my own way. ... I think that feels mildly inappropriate, given the circumstances. And speaking of Frank Turek, there are a lot of things that he has said about that day that are questionable. I mean, definitely the CPR, the CPR story to me is the most senseless. ... His excuse that Brian Harpole was distracted and forgot that he conducted CPR on a dying person in the veh— ... In the very small vehicle, I don't think Harpole (Brian Harpole) just forgot that. I actually think Harpole (Brian Harpole) told the truth between the two of them, if I'm being honest, when he said that no CPR was conducted in the car. I don't think he was distracted.”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:12:43](/episodes/ep-bpXkPHpz9po.md#t-00-12-25): “If I believe Frank (Frank Turek) is lying and that Brian (Brian Harpole) is telling the truth, which is what I believe.”
 
 </details>
 
@@ -10116,7 +10289,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -10150,6 +10323,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:49](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson). ... That's that's really what happened. You don't know him at all. The fact that you said I saw the donors, his friends, you just you had no idea what sort of a human being Charlie (Charlie Kirk) was. ... And you just had you are so short sighted to think that you could continue his legacy. You just don't have it.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:33:00](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49): “And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:02](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “And like I said, it reflects where they are at. They are not behaving honestly. They are lying repeatedly, especially Blake Neff. There's nobody that gets community noted faster for trying to lie to the public about various aspects of this case, lying about who Charlie (Charlie Kirk) was friendships and like who is who is friends with. And like I said, you sense a desperation.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:36:15](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15): “And so, Blake (Blake Neff), you're just sort of off the mark with trying to tell people that somehow they should be wanting to dedicate their lives more in the way that Charlie (Charlie Kirk) did. And clearly, clearly, judging by your actions, the things that you have said, you were not worth that investment.”
 
 </details>
 
@@ -10671,13 +10845,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Wilson](/entities/person-andrew-wilson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:47:47](/episodes/ep-4JxgOclKzqg.md#t-00-47-47): “He can't just, he's had days and he still cannot comprehend this. So we are really hoping that Andrew Wilson will be able to understand it. We are done explaining it. It is now on him and coming upon Andrew Wilson to do his best to sit down and understand.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27): “I was hoping to have an opportunity to do that with Andrew Wilson. Obviously, he just is another fed slobber, got a call from Turning Point USA, changed all of his opinions and didn't know what was going on in the case at all.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:23:47](/episodes/ep-1FhY-koMuWM.md#t-00-23-47): “odd that Turning Point USA hands it to a third party who we know is happy to lie. He'll lie about what he said two seconds ago. He'll lie about what he knows. He'll lie. This was really, our debate was three hours of him trying to gaslight me about things that were said moments earlier, pretending that he knew the charges, all sorts of things. Why would they hand this to a chain-smoking liar”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:34:13](/episodes/ep-bpXkPHpz9po.md#t-00-34-06): “Andrew Wilson drops this signature as a debunking. This is a signature that was pulled and says, well, this is not Tyler Robinson's signature, so we can all move on from the idea that Tyler Robinson was at the steakhouse. That is completely and utterly wrong.”
 
 </details>
 
@@ -10946,7 +11121,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23): “Well, I just learned that Frank Turek was reacting to me.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-39-02): “I think Candace Owens is completely lost any credibility when she's saying that certain dreams. ... are where she's getting her information from,”
@@ -10955,6 +11130,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:47:58](/episodes/ep-ChuWo-n49B8.md#t-00-47-58): “These are, you're looking at turning point USA faith and they want access to children. They're all wacky. They're all crazy pastors. You got Frank Turek open saying, signaling that I should be struck down using the Bible, the good Bible, of course, to do it.”
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:01:45](/episodes/ep-JQjCAsfoXEE.md#t-00-01-24): “But Candace (Candace Owens) is well within her rights to suggest certain things and all this, and she has the right to free speech and all that. That's fine. She's right to ask questions. I just think it is hurtful and not helpful when you cross a line to strongly suggest somebody's guilty of something for which you have no evidence. Challenge accepted, Frank Turek.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:49:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-03): “I heard today—I guess I hadn't seen it myself—but I heard today she was judging people who didn't act the right way. ... Candace Owens: 'These people did not act the right way after Charlie (Charlie Kirk)'s death. ... He apparently didn't act the right way according to Candace Owens.”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:06:18](/episodes/ep-bpXkPHpz9po.md#t-00-06-05): “We've seen lies. We've seen accusations and we've seen slander with no evidence. Yeah, I'm talking to you, Candace Owens.”
 
 </details>
 
@@ -12003,7 +12179,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>Fired By (3)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:15](/episodes/ep-zSKrxIUMNqw.md#t-00-14-12): “publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired.”
@@ -12022,6 +12198,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:02:59](/episodes/ep-ds6umq1rHAw.md#t-00-02-47): “one of the reasons among many that I was fired from the Daily Wire”
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16): “three months earlier I had gotten fired from the Daily Wire”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:07:47](/episodes/ep-sImMM04XdWY.md#t-00-07-29): “So we are in 2024, right? March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
 
 </details>
 
@@ -12126,7 +12303,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (30)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:47:51](/episodes/ep-adJ4LNGp84I.md#t-00-47-23): “I used to read ads for them, ExpressVPN, when I was working for Daily Wire.”
@@ -12158,6 +12335,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:40:22](/episodes/ep-Qt0VHV-POCg.md#t-00-40-15): “And Norm Finkelstein—whose parents survived; one of his parents survived Auschwitz—was the reason I had him on my show right after October 7th—sometimes shortly thereafter—when I was at the Daily Wire.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:25:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-05): “I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire was also a naval intelligence officer who decided to become a pastor. That was Jon Lewis.”
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:57](/episodes/ep-vwG1juDCQZQ.md#t-00-01-24): “following her 2024 departure from the Daily Wire.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
 
 </details>
 
@@ -12208,7 +12386,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>Friend Of (10)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (53)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (54)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00): “Charlie, my friend, is dead.”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:00:10](/episodes/ep-YFmRH8p5lt0.md#t-00-00-00): “This is real life: the assassination of my friend, Charlie (Charlie Kirk).”
@@ -12263,6 +12441,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:58:39](/episodes/ep-pc3pxRyNFZk.md#t-00-58-03): “The special bond that you shared with Charlie (Charlie Kirk) is evident for all to see in many videos of you both.”
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:00:30](/episodes/ep-q7f8r-THr84.md#t-00-00-01): “What is happening right now in the world, and what just happened to my friend Charlie (Charlie Kirk), is a battle of sheer evil versus goodness.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:24](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “in Blake (Blake Neff)'s and Andrew (Andrew Kolvet)'s lies now. It's a desperation. I mean, it's insane to say Candace Owens and Charlie Kirk were not friends. That is like an insane thing to say, and it can only be uttered out of sheer desperation to try to get a handle on the narrative.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:27:44](/episodes/ep-S07n8TnRT0Q.md#t-00-27-44): “We were really close, and he was my best friend and my brother, and I will never unsee the footage of what I saw.”
 
 </details>
 
@@ -12289,12 +12468,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Kanye West](/entities/person-kanye-west.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35): “because he's my friend.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:43:54](/episodes/ep-BxN2-aeMYIs.md#t-00-43-38): “Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:46:17](/episodes/ep-_cNtgris8Ik.md#t-00-45-56): “I had no idea that Kanye was going to call me and he was going to invite me. And because of our friendship.”
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). I love Ye (Kanye West). He's like a brother to me. I am never going to turn my back on Ye (Kanye West). I'm here for the Ye (Kanye West) of all seasons. He and I agree on many things, disagree on many things at all times. If he wants to apologize to people that he specifically has hurt, he is welcome to do that.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:19:52](/episodes/ep-FGoeoZxDN1c.md#t-00-19-52): “And despite everyone in the world condemning him, they needed me to make that statement because they knew I was friends with him.”
 
 </details>
 
@@ -12933,7 +13113,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Spoke With (6)</summary>
+<summary>Spoke With (7)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -12974,6 +13154,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:17:31](/episodes/ep-HIlPQ-_dcxM.md#t-00-17-31): “I'm going to show you, by the way, that clip, which was captured, actually somebody on TikTok, I think, sent it to Baron Coleman and then Baron showed it to me and he's like, why is Nate Walker upstairs?”
+
+</details>
+
+- **[Ebro Darden](/entities/person-ebro-darden.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:28:08](/episodes/ep-FGoeoZxDN1c.md#t-00-28-08): “Okay, so Ebro (Ebro Darden), I FaceTime him, and I'm there with Candace, right? And Ebro (Ebro Darden) starts bringing up his version of facts, right?”
 
 </details>
 
@@ -13062,9 +13249,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Kimberly Klacik](/entities/person-kimberly-klacik.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:32:14](/episodes/ep-69A8TzAGHlU.md#t-00-31-49): “And I have seen over and over again examples of people filing lawsuits as PR strategies. I lived that with the Kim Classic lawsuit. I said. uh she was a former stripper blah blah she said i have not so she files this lawsuit and then says this is proof that it's not true because i'm filing a lawsuit and people then started oh well it must be true she's filing a lawsuit so and then what ended up happening was she took it to discovery and then she folded right?”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:04:59](/episodes/ep-bpXkPHpz9po.md#t-00-04-51): “She then sued me for telling the public sued me for defamation and she subsequently lost that defamation lawsuit and she had to pay me here in Tennessee because we have anti-SLAPP laws gratefully.”
 
 </details>
 
@@ -13103,16 +13291,18 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[John Mappin](/entities/person-john-mappin.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:54](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And the rest is future. Now, to jog your memory beyond that, John (John Mappin) and Irina (Irina Mappin) have been among the most vociferous, I should say, supporters from the very beginning of the Charlie Kirk investigation—my investigation.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:07:09](/episodes/ep-S07n8TnRT0Q.md#t-00-06-37): “We are growing rather sick and ashamed of seeing people criticize Candace for doing her level best to get to the bottom of and to the truth of what happened to Charlie (Charlie Kirk) on that day.”
 
 </details>
 
 - **[Irina Mappin](/entities/person-irina-mappin.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:54](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And the rest is future. Now, to jog your memory beyond that, John (John Mappin) and Irina (Irina Mappin) have been among the most vociferous, I should say, supporters from the very beginning of the Charlie Kirk investigation—my investigation.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:07:09](/episodes/ep-S07n8TnRT0Q.md#t-00-06-37): “We are growing rather sick and ashamed of seeing people criticize Candace for doing her level best to get to the bottom of and to the truth of what happened to Charlie (Charlie Kirk) on that day.”
 
 </details>
 
@@ -13484,7 +13674,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Referenced By (457)</summary>
+<summary>Referenced By (458)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -14265,7 +14455,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23): “Well, I just learned that Frank Turek was reacting to me.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-39-02): “I think Candace Owens is completely lost any credibility when she's saying that certain dreams. ... are where she's getting her information from,”
@@ -14274,6 +14464,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:47:58](/episodes/ep-ChuWo-n49B8.md#t-00-47-58): “These are, you're looking at turning point USA faith and they want access to children. They're all wacky. They're all crazy pastors. You got Frank Turek open saying, signaling that I should be struck down using the Bible, the good Bible, of course, to do it.”
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:01:45](/episodes/ep-JQjCAsfoXEE.md#t-00-01-24): “But Candace (Candace Owens) is well within her rights to suggest certain things and all this, and she has the right to free speech and all that. That's fine. She's right to ask questions. I just think it is hurtful and not helpful when you cross a line to strongly suggest somebody's guilty of something for which you have no evidence. Challenge accepted, Frank Turek.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:49:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-03): “I heard today—I guess I hadn't seen it myself—but I heard today she was judging people who didn't act the right way. ... Candace Owens: 'These people did not act the right way after Charlie (Charlie Kirk)'s death. ... He apparently didn't act the right way according to Candace Owens.”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:06:18](/episodes/ep-bpXkPHpz9po.md#t-00-06-05): “We've seen lies. We've seen accusations and we've seen slander with no evidence. Yeah, I'm talking to you, Candace Owens.”
 
 </details>
 
@@ -14683,7 +14874,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (64)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (65)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -14749,6 +14940,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:01](/episodes/ep-Wjul6YV6izo.md#t-00-53-24): “Mrs. Kirk is not just behaving inappropriately. She's behaving suspiciously. ... it is always suspicious to tell a lie.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35): “in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:02:29](/episodes/ep-HIlPQ-_dcxM.md#t-01-02-29): “The reason why so many conservabros love it is because they're basically trying to draw this line between people that think Erika Kirk is suspicious to people that want Lindsay Clancy freed or something, some disingenuous line that they're trying to draw, which is completely crazy because they were the ones that were going on vibes of Erika and just saying that we should all ignore the lies that she's told us.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:11:02](/episodes/ep-S07n8TnRT0Q.md#t-00-10-33): “I don't think I really know what Erika (Erika Kirk) is. I know that a wife would not partner with your enemies.”
 
 </details>
 
@@ -14912,7 +15104,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -14930,6 +15122,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:48:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-48-17): “Then we have Frank Turek (Frank Turek speaking), who engages in this same sort of act of psychological manipulation, in my viewpoint, and he defends Mikey McCoy.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:18:53](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21): “That is just amazing to me that Frank Turek was fine to start a FaceTime call from the emergency room amidst all of that chaos while Charlie (Charlie Kirk) was dying, Amidst all of that chaos, while Charlie (Charlie Kirk) was dying, Brian Harpole was jumping on top of him, presumably. ... He's making probably accurate time estimates there for a military man, Frank Turek. It just seems to me to be like an extraordinarily inappropriate thing to do. ... Starting a FaceTime call with Jack Hibbs. What do I know? That's just my opinion, not a fact.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01): “Now, I do want to say regarding Alex Faria falling out of that car, it's a bit of a wonder that a pastor would think it's wise for him to be in the car above security on the way to the hospital. You would think that he would yield to security and say, OK, I'll find my own way. ... I think that feels mildly inappropriate, given the circumstances. And speaking of Frank Turek, there are a lot of things that he has said about that day that are questionable. I mean, definitely the CPR, the CPR story to me is the most senseless. ... His excuse that Brian Harpole was distracted and forgot that he conducted CPR on a dying person in the veh— ... In the very small vehicle, I don't think Harpole (Brian Harpole) just forgot that. I actually think Harpole (Brian Harpole) told the truth between the two of them, if I'm being honest, when he said that no CPR was conducted in the car. I don't think he was distracted.”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:12:43](/episodes/ep-bpXkPHpz9po.md#t-00-12-25): “If I believe Frank (Frank Turek) is lying and that Brian (Brian Harpole) is telling the truth, which is what I believe.”
 
 </details>
 
@@ -15029,7 +15222,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -15063,6 +15256,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:49](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson). ... That's that's really what happened. You don't know him at all. The fact that you said I saw the donors, his friends, you just you had no idea what sort of a human being Charlie (Charlie Kirk) was. ... And you just had you are so short sighted to think that you could continue his legacy. You just don't have it.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:33:00](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49): “And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:02](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “And like I said, it reflects where they are at. They are not behaving honestly. They are lying repeatedly, especially Blake Neff. There's nobody that gets community noted faster for trying to lie to the public about various aspects of this case, lying about who Charlie (Charlie Kirk) was friendships and like who is who is friends with. And like I said, you sense a desperation.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:36:15](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15): “And so, Blake (Blake Neff), you're just sort of off the mark with trying to tell people that somehow they should be wanting to dedicate their lives more in the way that Charlie (Charlie Kirk) did. And clearly, clearly, judging by your actions, the things that you have said, you were not worth that investment.”
 
 </details>
 
@@ -15584,13 +15778,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Wilson](/entities/person-andrew-wilson.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 @ 00:08:00](/episodes/ep-d7VsbEIWkP8.md#t-00-08-00): “Andrew Wilson currently trending on X, by the way, for having lied to Joe Rogan throughout this entire interview.”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:17:24](/episodes/ep-E7P2ShoYDUA.md#t-00-17-08): “Now, regarding the debates, I do want to say this. By the time Andrew Wilson whipped out his phone and read that opening statement, it was clear to me that he was going to lose.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:47:47](/episodes/ep-4JxgOclKzqg.md#t-00-47-47): “He can't just, he's had days and he still cannot comprehend this. So we are really hoping that Andrew Wilson will be able to understand it. We are done explaining it. It is now on him and coming upon Andrew Wilson to do his best to sit down and understand.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:51:36](/episodes/ep-HIlPQ-_dcxM.md#t-00-51-27): “I was hoping to have an opportunity to do that with Andrew Wilson. Obviously, he just is another fed slobber, got a call from Turning Point USA, changed all of his opinions and didn't know what was going on in the case at all.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:23:47](/episodes/ep-1FhY-koMuWM.md#t-00-23-47): “odd that Turning Point USA hands it to a third party who we know is happy to lie. He'll lie about what he said two seconds ago. He'll lie about what he knows. He'll lie. This was really, our debate was three hours of him trying to gaslight me about things that were said moments earlier, pretending that he knew the charges, all sorts of things. Why would they hand this to a chain-smoking liar”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:34:13](/episodes/ep-bpXkPHpz9po.md#t-00-34-06): “Andrew Wilson drops this signature as a debunking. This is a signature that was pulled and says, well, this is not Tyler Robinson's signature, so we can all move on from the idea that Tyler Robinson was at the steakhouse. That is completely and utterly wrong.”
 
 </details>
 
@@ -16476,7 +16671,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** fired this
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:49:43](/episodes/ep-ja26iltROkM.md#t-00-49-28): “post me being fired from The Daily Wire.”
@@ -16496,6 +16691,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:02:59](/episodes/ep-ds6umq1rHAw.md#t-00-02-47): “one of the reasons among many that I was fired from the Daily Wire”
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16): “three months earlier I had gotten fired from the Daily Wire”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:07:47](/episodes/ep-sImMM04XdWY.md#t-00-07-29): “So we are in 2024, right? March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
 
 </details>
 
@@ -16587,7 +16783,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50): “I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.”
@@ -16613,6 +16809,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:40:22](/episodes/ep-Qt0VHV-POCg.md#t-00-40-15): “And Norm Finkelstein—whose parents survived; one of his parents survived Auschwitz—was the reason I had him on my show right after October 7th—sometimes shortly thereafter—when I was at the Daily Wire.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:25:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-05): “I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire was also a naval intelligence officer who decided to become a pastor. That was Jon Lewis.”
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:57](/episodes/ep-vwG1juDCQZQ.md#t-00-01-24): “following her 2024 departure from the Daily Wire.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
 
 </details>
 
@@ -16653,7 +16850,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (49)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (50)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00): “Charlie, my friend, is dead.”
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:13:46](/episodes/ep-ozWJz2spBcI.md#t-00-13-44): “Charlie Kirk was a friend to Candace (Candace Owens) and never publicly spoke poorly of her, although he disagreed with her.”
@@ -16704,6 +16901,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:58:39](/episodes/ep-pc3pxRyNFZk.md#t-00-58-03): “The special bond that you shared with Charlie (Charlie Kirk) is evident for all to see in many videos of you both.”
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:00:30](/episodes/ep-q7f8r-THr84.md#t-00-00-01): “What is happening right now in the world, and what just happened to my friend Charlie (Charlie Kirk), is a battle of sheer evil versus goodness.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:24](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “in Blake (Blake Neff)'s and Andrew (Andrew Kolvet)'s lies now. It's a desperation. I mean, it's insane to say Candace Owens and Charlie Kirk were not friends. That is like an insane thing to say, and it can only be uttered out of sheer desperation to try to get a handle on the narrative.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:27:44](/episodes/ep-S07n8TnRT0Q.md#t-00-27-44): “We were really close, and he was my best friend and my brother, and I will never unsee the footage of what I saw.”
 
 </details>
 
@@ -16730,12 +16928,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Kanye West](/entities/person-kanye-west.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35): “because he's my friend.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:43:54](/episodes/ep-BxN2-aeMYIs.md#t-00-43-38): “Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:46:17](/episodes/ep-_cNtgris8Ik.md#t-00-45-56): “I had no idea that Kanye was going to call me and he was going to invite me. And because of our friendship.”
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). I love Ye (Kanye West). He's like a brother to me. I am never going to turn my back on Ye (Kanye West). I'm here for the Ye (Kanye West) of all seasons. He and I agree on many things, disagree on many things at all times. If he wants to apologize to people that he specifically has hurt, he is welcome to do that.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:19:52](/episodes/ep-FGoeoZxDN1c.md#t-00-19-52): “And despite everyone in the world condemning him, they needed me to make that statement because they knew I was friends with him.”
 
 </details>
 
@@ -17314,6 +17513,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Ebro Darden](/entities/person-ebro-darden.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:28:08](/episodes/ep-FGoeoZxDN1c.md#t-00-28-08): “Okay, so Ebro (Ebro Darden), I FaceTime him, and I'm there with Candace, right? And Ebro (Ebro Darden) starts bringing up his version of facts, right?”
+
+</details>
+
 - **[Brigitte Macron](/entities/person-brigitte-macron.md)** sued this
 <details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
@@ -17394,9 +17600,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Kimberly Klacik](/entities/person-kimberly-klacik.md)** sued this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:32:14](/episodes/ep-69A8TzAGHlU.md#t-00-31-49): “And I have seen over and over again examples of people filing lawsuits as PR strategies. I lived that with the Kim Classic lawsuit. I said. uh she was a former stripper blah blah she said i have not so she files this lawsuit and then says this is proof that it's not true because i'm filing a lawsuit and people then started oh well it must be true she's filing a lawsuit so and then what ended up happening was she took it to discovery and then she folded right?”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:04:59](/episodes/ep-bpXkPHpz9po.md#t-00-04-51): “She then sued me for telling the public sued me for defamation and she subsequently lost that defamation lawsuit and she had to pay me here in Tennessee because we have anti-SLAPP laws gratefully.”
 
 </details>
 
@@ -17473,16 +17680,18 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[John Mappin](/entities/person-john-mappin.md)** supporter of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:54](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And the rest is future. Now, to jog your memory beyond that, John (John Mappin) and Irina (Irina Mappin) have been among the most vociferous, I should say, supporters from the very beginning of the Charlie Kirk investigation—my investigation.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:07:09](/episodes/ep-S07n8TnRT0Q.md#t-00-06-37): “We are growing rather sick and ashamed of seeing people criticize Candace for doing her level best to get to the bottom of and to the truth of what happened to Charlie (Charlie Kirk) on that day.”
 
 </details>
 
 - **[Irina Mappin](/entities/person-irina-mappin.md)** supporter of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:04:54](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And the rest is future. Now, to jog your memory beyond that, John (John Mappin) and Irina (Irina Mappin) have been among the most vociferous, I should say, supporters from the very beginning of the Charlie Kirk investigation—my investigation.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:07:09](/episodes/ep-S07n8TnRT0Q.md#t-00-06-37): “We are growing rather sick and ashamed of seeing people criticize Candace for doing her level best to get to the bottom of and to the truth of what happened to Charlie (Charlie Kirk) on that day.”
 
 </details>
 
@@ -17730,7 +17939,268 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (4881)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (4963)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (18)</summary>
+
+- [00:02:42](/episodes/ep-S07n8TnRT0Q.md#t-00-02-42) [○] (Opinion) ["Reading her mid-October 2025 journal, Owens recalled telling George Farmer befor..."](/statements/statement-053d1ffe06ed.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [George Farmer](/entities/person-george-farmer.md)
+
+- [00:03:08](/episodes/ep-S07n8TnRT0Q.md#t-00-02-42) [○] (Accusation) ["In her journal, Owens alleged that Facebook, TikTok and X’s safeguards against v..."](/statements/statement-23ebd5e8103b.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Facebook](/entities/org-facebook.md), [TikTok](/entities/org-tiktok.md)
+
+- [00:04:45](/episodes/ep-S07n8TnRT0Q.md#t-00-04-39) [○] (Claim) ["Reading her journal, Owens said Ben Shapiro appeared in Kirk’s studio within day..."](/statements/statement-0da345143f83.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:30](/episodes/ep-S07n8TnRT0Q.md#t-00-05-21) [○] (Claim) ["Owens said Susie Wiles spoke at Charlie Kirk’s memorial."](/statements/statement-1fc326f77021.md)
+  - About: [Susie Wiles](/entities/person-susie-wiles.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:45](/episodes/ep-S07n8TnRT0Q.md#t-00-05-21) [○] (Claim) ["Owens said Irina and John Mappin attended Kirk’s memorial and that Irina told he..."](/statements/statement-97446e05ebb4.md)
+  - About: [Irina Mappin](/entities/person-irina-mappin.md), [John Mappin](/entities/person-john-mappin.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:08:39](/episodes/ep-S07n8TnRT0Q.md#t-00-08-39) [○] (Promise) ["In the journal entry she read, Owens pledged to investigate why Kirk was killed."](/statements/statement-3baa9da055d7.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:11:02](/episodes/ep-S07n8TnRT0Q.md#t-00-10-33) [○] (Opinion) ["Reading an undated journal entry, Owens accused Erika Kirk of partnering with he..."](/statements/statement-ea6c7457955c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:11:10](/episodes/ep-S07n8TnRT0Q.md#t-00-11-10) [○] (Accusation) ["Owens said she knew of a scheduled change to Kirk’s will and of a suburban house..."](/statements/statement-53f09d780cf4.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:12:53](/episodes/ep-S07n8TnRT0Q.md#t-00-12-32) [○] (Claim) ["Owens said Erika Kirk claimed she first saw Charlie at an airport during the 201..."](/statements/statement-727f78f68eea.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:15:43](/episodes/ep-S07n8TnRT0Q.md#t-00-15-37) [○] (Claim) ["Owens said Kanye West won the Grammy for Best Rap Album for My Beautiful Dark Tw..."](/statements/statement-4c3224b3d49b.md)
+  - About: [Kanye West](/entities/person-kanye-west.md), [My Beautiful Dark Twisted Fantasy](/entities/work-my-beautiful-dark-twisted-fantasy.md), [Grammy Awards](/entities/event-grammy-awards.md)
+
+- [00:16:31](/episodes/ep-S07n8TnRT0Q.md#t-00-16-22) [○] (Claim) ["Owens said Donald Trump posted a mock TIME cover featuring her and calling her t..."](/statements/statement-eedb967b92ad.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Candace Owens](/entities/person-candace-owens.md), [TIME](/entities/org-time.md)
+
+- [00:24:56](/episodes/ep-S07n8TnRT0Q.md#t-00-24-56) [○] (Accusation) ["Owens alleged that unnamed people commercialized Kirk’s memory, including his pe..."](/statements/statement-6719ce1169ab.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:25:25](/episodes/ep-S07n8TnRT0Q.md#t-00-24-56) [○] (Claim) ["Owens said she attended Ye’s Chicago concert the previous week and saw him bring..."](/statements/statement-86fadd2a8b62.md)
+  - About: [Kanye West](/entities/person-kanye-west.md), [Kid Cudi](/entities/person-kid-cudi.md), [Ghost Town (Kanye West song)](/entities/work-ghost-town-kanye-west.md)
+
+- [00:25:34](/episodes/ep-S07n8TnRT0Q.md#t-00-24-56) [○] (Claim) ["Owens said she had spent more than a year trying to obtain Ghost Town for her po..."](/statements/statement-28a16ac5afcb.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md), [Ghost Town (Kanye West song)](/entities/work-ghost-town-kanye-west.md)
+
+- [00:25:41](/episodes/ep-S07n8TnRT0Q.md#t-00-25-41) [○] (Claim) ["Owens recalled that Kirk flew her to Wyoming, where she attended the release par..."](/statements/statement-d9c8a1c0e167.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Kanye West](/entities/person-kanye-west.md)
+
+- [00:25:56](/episodes/ep-S07n8TnRT0Q.md#t-00-25-41) [○] (Claim) ["Owens said Kid Cudi contributed vocals to Ghost Town."](/statements/statement-334b2461526f.md)
+  - About: [Kid Cudi](/entities/person-kid-cudi.md), [Ghost Town (Kanye West song)](/entities/work-ghost-town-kanye-west.md)
+
+- [00:25:58](/episodes/ep-S07n8TnRT0Q.md#t-00-25-41) [○] (Claim) ["Owens said Kanye West and Kid Cudi had a major public falling-out in 2022."](/statements/statement-a4a07477e4e2.md)
+  - About: [Kanye West](/entities/person-kanye-west.md), [Kid Cudi](/entities/person-kid-cudi.md)
+
+- [00:26:22](/episodes/ep-S07n8TnRT0Q.md#t-00-26-22) [○] (Accusation) ["Owens alleged that Kirk was betrayed and that his killing was ordered by the wor..."](/statements/statement-477f6bf7a958.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (31)</summary>
+
+- [00:01:39](/episodes/ep-bpXkPHpz9po.md#t-00-01-19) [○] (Claim) ["Owens corrected her earlier identification of the man in the hat and plaid shirt..."](/statements/statement-5058c52225e3.md)
+  - About: [Derek "Pepper" Williams](/entities/person-derek-pepper-williams.md), [Claude Barnes (Integrity Security Solutions)](/entities/person-claude-barnes-security.md)
+
+- [00:01:51](/episodes/ep-bpXkPHpz9po.md#t-00-01-19) [○] (Claim) ["Owens said Derek "Pepper" Williams was a former Navy SEAL who joined Perimeter G..."](/statements/statement-0522d8ea902f.md)
+  - About: [Derek "Pepper" Williams](/entities/person-derek-pepper-williams.md), [Perimeter Global Logistics](/entities/org-perimeter-global-logistics.md), [United States Navy](/entities/org-united-states-navy.md)
+
+- [00:02:10](/episodes/ep-bpXkPHpz9po.md#t-00-02-03) [○] (Claim) ["Owens said Perimeter Global Logistics specializes in global freight and cross-bo..."](/statements/statement-947d11cf4c88.md)
+  - About: [Perimeter Global Logistics](/entities/org-perimeter-global-logistics.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+- [00:02:56](/episodes/ep-bpXkPHpz9po.md#t-00-02-49) [○] (Claim) ["Owens said Williams was one of four people on the TPUSA team present September 1..."](/statements/statement-8d8bd708cdb0.md)
+  - About: [Derek "Pepper" Williams](/entities/person-derek-pepper-williams.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:04:30](/episodes/ep-bpXkPHpz9po.md#t-00-04-06) [○] (Accusation) ["Owens alleged that Kim Klacik had concealed prior work as a stripper while campa..."](/statements/statement-054c3e35e47c.md)
+  - About: [Kimberly Klacik](/entities/person-kimberly-klacik.md)
+
+- [00:04:59](/episodes/ep-bpXkPHpz9po.md#t-00-04-51) [○] (Claim) ["Owens said Kim Klacik lost her defamation lawsuit against her and was ordered to..."](/statements/statement-b07849ae5681.md)
+  - About: [Kimberly Klacik](/entities/person-kimberly-klacik.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:07:25](/episodes/ep-bpXkPHpz9po.md#t-00-06-53) [○] (Claim) ["Owens said the September 9 Zoom call included Frank Turek, two Israeli officials..."](/statements/statement-3eca509f3ada.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Pesach Wolicki](/entities/person-pesach-wolicki.md)
+
+- [00:08:49](/episodes/ep-bpXkPHpz9po.md#t-00-08-49) [○] (Claim) ["Owens said the Zoom call occurred two hours after Kirk said he was abandoning th..."](/statements/statement-6fac067cc959.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md)
+
+- [00:09:11](/episodes/ep-bpXkPHpz9po.md#t-00-08-49) [○] (Claim) ["Owens said Kirk texted people during the Zoom call that he feared being killed t..."](/statements/statement-7bda6695eaa4.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:38](/episodes/ep-bpXkPHpz9po.md#t-00-17-31) [○] (Opinion) ["Owens said that if the hospital witness’s account was accurate, it would suggest..."](/statements/statement-d77c25fd3da8.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:52](/episodes/ep-bpXkPHpz9po.md#t-00-17-31) [○] (Claim) ["Owens said Michael McCoy provided hospital scrubs to the group after arriving la..."](/statements/statement-0ca6e225c1a8.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:18:22](/episodes/ep-bpXkPHpz9po.md#t-00-18-13) [○] (Claim) ["Owens identified the security worker she called Blake Hariff, whose surname rema..."](/statements/statement-5b77c51a0b93.md)
+  - About: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:20:22](/episodes/ep-bpXkPHpz9po.md#t-00-20-10) [○] (Claim) ["Owens said the security worker she called Blake Hariff had no visible blood on h..."](/statements/statement-cea30d106fd4.md)
+  - About: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:21:14](/episodes/ep-bpXkPHpz9po.md#t-00-20-54) [○] (Claim) ["Owens said footage of the group returning to UVU after 8:30 p.m. September 10 sh..."](/statements/statement-7c9ba0235666.md)
+  - About: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md), [Rick Cutler](/entities/person-rick-cutler.md), [Justin Davis](/entities/person-justin-davis.md)
+
+- [00:23:05](/episodes/ep-bpXkPHpz9po.md#t-00-22-54) [○] (Opinion) ["Owens said she thought Timpanogos should be investigated because its apparent di..."](/statements/statement-82683dd633b9.md)
+  - About: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:24:28](/episodes/ep-bpXkPHpz9po.md#t-00-24-18) [○] (Opinion) ["Owens said she could not tell whether a jacket Brian Harpole held was Kirk’s and..."](/statements/statement-8163a29c6574.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:29:37](/episodes/ep-bpXkPHpz9po.md#t-00-29-14) [○] (Accusation) ["Citing unnamed sources, Owens alleged that an unnamed doctor who treated Kirk at..."](/statements/statement-2d04ca6415a5.md)
+  - About: [Unnamed Timpanogos doctor in episode 385 (identity unverified)](/entities/anon-src-bpXkPHpz9po-002.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:30:46](/episodes/ep-bpXkPHpz9po.md#t-00-30-12) [○] (Accusation) ["Owens alleged that Andrew Wilson had been sent to elicit defamatory clips for a ..."](/statements/statement-f4e7d5e32809.md)
+  - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:32:31](/episodes/ep-bpXkPHpz9po.md#t-00-32-23) [○] (Claim) ["Owens said citizen journalist Diligent Denizen interviewed a Cowboy Smokehouse w..."](/statements/statement-4db2abe7f792.md)
+  - About: [Diligent Denizen (online-investigator handle; identity unverified)](/entities/anon-src-HGtMfbePDKk-019.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+- [00:32:47](/episodes/ep-bpXkPHpz9po.md#t-00-32-23) [○] (Claim) ["Owens said the restaurant receipt was real and had been verified, while acknowle..."](/statements/statement-2f94f87edb36.md)
+  - About: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md), [Diligent Denizen (online-investigator handle; identity unverified)](/entities/anon-src-HGtMfbePDKk-019.md)
+
+- [00:33:27](/episodes/ep-bpXkPHpz9po.md#t-00-33-27) [○] (Claim) ["Owens said the Cowboy Smokehouse owner had not been present that night; servers ..."](/statements/statement-6ad7db997786.md)
+  - About: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+- [00:33:48](/episodes/ep-bpXkPHpz9po.md#t-00-33-27) [○] (Accusation) ["Owens said the restaurant had apparently received harassment and negative review..."](/statements/statement-74c8df158dfa.md)
+  - About: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+- [00:34:13](/episodes/ep-bpXkPHpz9po.md#t-00-34-06) [○] (Opinion) ["Owens rejected Andrew Wilson’s argument that the electronic signature on the res..."](/statements/statement-f0a1cf630fd0.md)
+  - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+- [00:35:32](/episodes/ep-bpXkPHpz9po.md#t-00-35-24) [○] (Opinion) ["Owens argued conditionally that a confirmed 9:47 p.m. Panguitch departure would ..."](/statements/statement-c3978c02ef75.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+- [00:36:48](/episodes/ep-bpXkPHpz9po.md#t-00-36-48) [○] (Opinion) ["Owens argued that if the steakhouse receipt established Robinson’s presence ther..."](/statements/statement-6b27591504e8.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Officer Goforth (security officer; first name unverified)](/entities/person-officer-goforth-security-officer.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+- [00:36:59](/episodes/ep-bpXkPHpz9po.md#t-00-36-48) [○] (Opinion) ["Owens argued conditionally that the receipt would rule out Robinson as the drive..."](/statements/statement-c4e51cb7de30.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Ms. Noble (ring-camera witness; full identity unverified)](/entities/anon-src-EtLHqDbxqks-008.md), [Google Maps](/entities/work-google-maps.md)
+
+- [00:38:33](/episodes/ep-bpXkPHpz9po.md#t-00-38-10) [○] (Opinion) ["Owens said her initial confidence that the receipt belonged to Robinson was abou..."](/statements/statement-efea4b322fd0.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+- [00:39:48](/episodes/ep-bpXkPHpz9po.md#t-00-39-26) [○] (Opinion) ["Owens raised her stated confidence from 60 to 95 percent that the card used at C..."](/statements/statement-8a4f6cc2546c.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+- [00:44:40](/episodes/ep-bpXkPHpz9po.md#t-00-44-21) [○] (Opinion) ["Owens inferred that Neff’s reported concern about her reaction meant he was alre..."](/statements/statement-a9321a78fc81.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:49:28](/episodes/ep-bpXkPHpz9po.md#t-00-48-52) [○] (Accusation) ["Owens alleged that Tony Burke banned her from Australia because of lobbying by t..."](/statements/statement-61f99d321593.md)
+  - About: [Tony Burke](/entities/person-tony-burke.md), [Candace Owens](/entities/person-candace-owens.md), [Australia](/entities/gpe-australia.md)
+
+- [00:49:45](/episodes/ep-bpXkPHpz9po.md#t-00-49-38) [○] (Claim) ["Owens said Kanye West was also banned from Australia."](/statements/statement-268e9efc2eb0.md)
+  - About: [Kanye West](/entities/person-kanye-west.md), [Australia](/entities/gpe-australia.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (33)</summary>
+
+- [00:01:32](/episodes/ep-FGoeoZxDN1c.md#t-00-01-32) [○] (Accusation) ["Owens said Ye was selling out stadiums holding roughly 70,000–100,000 people wor..."](/statements/statement-9ecac39af6d7.md)
+  - About: [Kanye West](/entities/person-kanye-west.md)
+
+- [00:06:03](/episodes/ep-FGoeoZxDN1c.md#t-00-05-38) [○] (Claim) ["Owens said Ye had not performed on stage in his hometown of Chicago for more tha..."](/statements/statement-b9be35038bf3.md)
+  - About: [Kanye West](/entities/person-kanye-west.md), [Chicago, Illinois](/entities/gpe-chicago-illinois.md)
+
+- [00:13:24](/episodes/ep-FGoeoZxDN1c.md#t-00-12-57) [○] (Claim) ["Owens said her decision to attend college, where she studied journalism and Engl..."](/statements/statement-b7c6db7bb16d.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:16:51](/episodes/ep-FGoeoZxDN1c.md#t-00-16-51) [○] (Opinion) ["Owens said she no longer liked Donald Trump and defended changing her political ..."](/statements/statement-dedf710d4d88.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:21:56](/episodes/ep-FGoeoZxDN1c.md#t-00-21-36) [○] (Opinion) ["Owens said she thought Charlie Kirk had refused offers made to him in his final ..."](/statements/statement-e5a61e2ff2c0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59) [○] (Claim) ["Owens said she tweeted that the rumors were true and she was finally free when h..."](/statements/statement-dd82944a6e0e.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:25:44](/episodes/ep-FGoeoZxDN1c.md#t-00-25-44) [○] (Accusation) ["Owens accused the Department of War of seeking revenge against people pursuing h..."](/statements/statement-73772ae17b83.md)
+  - About: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:33:26](/episodes/ep-FGoeoZxDN1c.md#t-00-32-57) [○] (Claim) ["Owens said neither Danny Philip nor Blake Neff attended the Restaurantology even..."](/statements/statement-cd4dd34a56a7.md)
+  - About: [Danny Philip](/entities/person-danny-philip.md), [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:34:41](/episodes/ep-FGoeoZxDN1c.md#t-00-34-21) [○] (Claim) ["Responding to Blake Neff, Owens said her family had taken three vacations in 202..."](/statements/statement-72a1343921be.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:35:08](/episodes/ep-FGoeoZxDN1c.md#t-00-34-56) [○] (Accusation) ["Owens accused Turning Point USA of misrepresenting Charlie Kirk’s struggles, adv..."](/statements/statement-3f6835c479f6.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:40](/episodes/ep-FGoeoZxDN1c.md#t-00-37-40) [○] (Claim) ["Owens said she had never met Blake Neff."](/statements/statement-821747d5823d.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:37:47](/episodes/ep-FGoeoZxDN1c.md#t-00-37-40) [○] (Claim) ["Owens recalled Blake Neff saying he joined Charlie Kirk’s team around mid-2023, ..."](/statements/statement-49bd6c79df90.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:27](/episodes/ep-FGoeoZxDN1c.md#t-00-38-16) [○] (Opinion) ["Owens speculated that the unnamed hospital interlocutor might have been Danny Ph..."](/statements/statement-f674ad37d48b.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md)
+
+- [00:39:25](/episodes/ep-FGoeoZxDN1c.md#t-00-38-53) [○] (Opinion) ["Owens questioned why Neff appeared already confident that Kirk’s death was not a..."](/statements/statement-219d5e76ecf5.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:40:40](/episodes/ep-FGoeoZxDN1c.md#t-00-40-40) [○] (Claim) ["Owens said Erika Kirk published a New York Times op-ed reflecting on her grief a..."](/statements/statement-6f59a0d37cad.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [The New York Times](/entities/org-the-new-york-times.md)
+
+- [00:41:07](/episodes/ep-FGoeoZxDN1c.md#t-00-41-07) [○] (Claim) ["Owens said Erika Kirk admitted a New York Times interviewer to her apartment soo..."](/statements/statement-8ba682012644.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [The New York Times](/entities/org-the-new-york-times.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:42:46](/episodes/ep-FGoeoZxDN1c.md#t-00-42-46) [○] (Accusation) ["Owens accused the post-assassination Turning Point USA organization of working w..."](/statements/statement-f732a81dac13.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+- [00:43:31](/episodes/ep-FGoeoZxDN1c.md#t-00-43-18) [○] (Opinion) ["Owens said Erika Kirk’s public grief narrative felt like an extended promotional..."](/statements/statement-56519a819553.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [JD Vance](/entities/person-jd-vance.md), [Usha Vance](/entities/person-usha-vance.md)
+
+- [00:45:27](/episodes/ep-FGoeoZxDN1c.md#t-00-45-27) [○] (Claim) ["Owens said Erika Kirk opened AmericaFest by calling for JD Vance to be elected."](/statements/statement-44b18d4e304d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [JD Vance](/entities/person-jd-vance.md), [AmericaFest 2025](/entities/event-americafest-2025.md)
+
+- [00:46:43](/episodes/ep-FGoeoZxDN1c.md#t-00-46-34) [○] (Claim) ["Owens said Erika Kirk laughed at emojis during a Zoom staff call six days after ..."](/statements/statement-cc86a521751d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:46:43](/episodes/ep-FGoeoZxDN1c.md#t-00-46-34) [○] (Claim) ["Owens said Erika Kirk told Jesse Watters she did not need sleeping pills or mela..."](/statements/statement-a8f574e25993.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Jesse Watters](/entities/person-jesse-watters.md)
+
+- [00:47:35](/episodes/ep-FGoeoZxDN1c.md#t-00-47-07) [○] (Accusation) ["Owens alleged The New York Times participated in Operation Mockingbird following..."](/statements/statement-46b3f13693f4.md)
+  - About: [The New York Times](/entities/org-the-new-york-times.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+- [00:52:52](/episodes/ep-FGoeoZxDN1c.md#t-00-52-52) [○] (Citation) ["Owens said released messages showed Charlie Kirk expressing fear that he would b..."](/statements/statement-5dd39f3e3a0b.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:53:06](/episodes/ep-FGoeoZxDN1c.md#t-00-52-52) [○] (Claim) ["Owens said the Zoom call included two Israeli officials, Pesach Wolicki, Josh Ha..."](/statements/statement-1b92c62c5a63.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pesach Wolicki](/entities/person-pesach-wolicki.md), [Josh Hammer](/entities/person-josh-hammer.md)
+
+- [00:53:31](/episodes/ep-FGoeoZxDN1c.md#t-00-53-31) [○] (Claim) ["Owens said the Zoom call came about two hours after Kirk said he was abandoning ..."](/statements/statement-7ed5d0131a3f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:53:48](/episodes/ep-FGoeoZxDN1c.md#t-00-53-31) [○] (Claim) ["Owens said Andrew Kolvet forwarded Kirk’s conversation about leaving the pro-Isr..."](/statements/statement-2c4b2e21dade.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md)
+
+- [00:55:25](/episodes/ep-FGoeoZxDN1c.md#t-00-55-25) [○] (Opinion) ["Owens said she did not believe the explanation that Kirk needed the late-night c..."](/statements/statement-93bcdc85b7c9.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Josh Hammer](/entities/person-josh-hammer.md)
+
+- [00:56:14](/episodes/ep-FGoeoZxDN1c.md#t-00-56-03) [○] (Opinion) ["Owens inferred from Erika Kirk’s sparkling pantsuit that she probably knew the m..."](/statements/statement-da1c702c0d10.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:56:29](/episodes/ep-FGoeoZxDN1c.md#t-00-56-03) [○] (Promise) ["Owens said she would announce the following week who would host her show three d..."](/statements/statement-c73f1b8c7d6e.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:57:00](/episodes/ep-FGoeoZxDN1c.md#t-00-56-45) [○] (Claim) ["Owens said WaterStone was acquiring Salem Media."](/statements/statement-43487c4935bc.md)
+  - About: [Salem Media Group](/entities/org-salem-media-group.md), [WaterStone](/entities/org-waterstone.md)
+
+- [00:57:00](/episodes/ep-FGoeoZxDN1c.md#t-00-56-45) [○] (Accusation) ["Citing FARA filings, Owens alleged that Israeli foreign-ministry spending used S..."](/statements/statement-cb1e92132f71.md)
+  - About: [Salem Media Group](/entities/org-salem-media-group.md), [Israel](/entities/gpe-israel.md)
+
+- [00:57:24](/episodes/ep-FGoeoZxDN1c.md#t-00-57-24) [○] (Claim) ["Owens said she believed Brad Parscale had been on Salem Media’s board, or at lea..."](/statements/statement-8d7a5efa3123.md)
+  - About: [Salem Media Group](/entities/org-salem-media-group.md), [Brad Parscale](/entities/person-brad-parscale.md)
+
+- [00:57:37](/episodes/ep-FGoeoZxDN1c.md#t-00-57-24) [○] (Prediction) ["Owens predicted that the forthcoming Can You Hear Me Now documentary would be Is..."](/statements/statement-7dee6120e217.md)
+  - About: [Can You Hear Me Now? (2026 documentary)](/entities/work-can-you-hear-me-now-2026.md), [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Salem Media Group](/entities/org-salem-media-group.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (29)</summary>
@@ -32607,7 +33077,95 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Candace Owens (644)</strong></summary>
+<summary><strong class="section-title">Statements about Candace Owens (669)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (6)</summary>
+
+- [00:07:09](/episodes/ep-S07n8TnRT0Q.md#t-00-06-37) (Opinion) **John Mappin** (via quoted document): ["In their joint open letter, John and Irina Mappin defended Owens’s inv..."](/statements/statement-fbfad4c8908b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Irina Mappin](/entities/person-irina-mappin.md)
+
+- [00:07:52](/episodes/ep-S07n8TnRT0Q.md#t-00-07-20) (Opinion) **John Mappin** (via quoted document): ["John and Irina Mappin’s joint letter urged an appropriate legal author..."](/statements/statement-67f98c450433.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Irina Mappin](/entities/person-irina-mappin.md)
+
+- [00:12:53](/episodes/ep-S07n8TnRT0Q.md#t-00-12-32) (Claim) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk claimed she first saw Charlie at an airport duri..."](/statements/statement-727f78f68eea.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:31](/episodes/ep-S07n8TnRT0Q.md#t-00-16-22) (Claim) **Candace Owens**: ["Owens said Donald Trump posted a mock TIME cover featuring her and cal..."](/statements/statement-eedb967b92ad.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [TIME](/entities/org-time.md)
+
+- [00:25:34](/episodes/ep-S07n8TnRT0Q.md#t-00-24-56) (Claim) **Candace Owens**: ["Owens said she had spent more than a year trying to obtain Ghost Town ..."](/statements/statement-28a16ac5afcb.md)
+  - Also about: [Kanye West](/entities/person-kanye-west.md), [Ghost Town (Kanye West song)](/entities/work-ghost-town-kanye-west.md)
+
+- [00:25:41](/episodes/ep-S07n8TnRT0Q.md#t-00-25-41) (Claim) **Candace Owens**: ["Owens recalled that Kirk flew her to Wyoming, where she attended the r..."](/statements/statement-d9c8a1c0e167.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Kanye West](/entities/person-kanye-west.md), [ye (Kanye West album)](/entities/work-ye-kanye-west-album.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5)</summary>
+
+- [00:04:59](/episodes/ep-bpXkPHpz9po.md#t-00-04-51) (Claim) **Candace Owens**: ["Owens said Kim Klacik lost her defamation lawsuit against her and was ..."](/statements/statement-b07849ae5681.md)
+  - Also about: [Kimberly Klacik](/entities/person-kimberly-klacik.md)
+
+- [00:06:05](/episodes/ep-bpXkPHpz9po.md#t-00-06-05) (Accusation) **Frank Turek** (via quoted speech): ["In clips played by Owens, Frank Turek accused her of making unsupporte..."](/statements/statement-39d2dced0e59.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:30:46](/episodes/ep-bpXkPHpz9po.md#t-00-30-12) (Accusation) **Candace Owens**: ["Owens alleged that Andrew Wilson had been sent to elicit defamatory cl..."](/statements/statement-f4e7d5e32809.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Erika Kirk](/entities/person-erika-kirk.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+- [00:44:21](/episodes/ep-bpXkPHpz9po.md#t-00-44-21) (Opinion) **Commenter Matt Callaway (identity unverified)** (via quoted post): ["In a viewer comment read by Owens, Matt Callaway interpreted Blake Nef..."](/statements/statement-37cbdc98c84b.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:49:28](/episodes/ep-bpXkPHpz9po.md#t-00-48-52) (Accusation) **Candace Owens**: ["Owens alleged that Tony Burke banned her from Australia because of lob..."](/statements/statement-61f99d321593.md)
+  - Also about: [Tony Burke](/entities/person-tony-burke.md), [Australia](/entities/gpe-australia.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (14)</summary>
+
+- [00:13:24](/episodes/ep-FGoeoZxDN1c.md#t-00-12-57) (Claim) **Candace Owens**: ["Owens said her decision to attend college, where she studied journalis..."](/statements/statement-b7c6db7bb16d.md)
+
+- [00:16:51](/episodes/ep-FGoeoZxDN1c.md#t-00-16-51) (Opinion) **Candace Owens**: ["Owens said she no longer liked Donald Trump and defended changing her ..."](/statements/statement-dedf710d4d88.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:20:10](/episodes/ep-FGoeoZxDN1c.md#t-00-20-10) (Claim) **Anonymous Source #1 (Ep FGoeoZxDN1c)** (via quoted speech): ["Owens recalled an unnamed Daily Wire co-CEO demanding that she condemn..."](/statements/statement-b8406ea8a6e3.md)
+  - Also about: [Kanye West](/entities/person-kanye-west.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59) (Claim) **Candace Owens**: ["Owens said she tweeted that the rumors were true and she was finally f..."](/statements/statement-dd82944a6e0e.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:25:44](/episodes/ep-FGoeoZxDN1c.md#t-00-25-44) (Accusation) **Candace Owens**: ["Owens accused the Department of War of seeking revenge against people ..."](/statements/statement-73772ae17b83.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:28:08](/episodes/ep-FGoeoZxDN1c.md#t-00-28-08) (Claim) **Kanye West** (via quoted speech): ["In an archival TMZ clip, Kanye West described a FaceTime conversation ..."](/statements/statement-f77f9dea8d0c.md)
+  - Also about: [Kanye West](/entities/person-kanye-west.md), [Ebro Darden](/entities/person-ebro-darden.md)
+
+- [00:28:35](/episodes/ep-FGoeoZxDN1c.md#t-00-28-19) (Claim) **Ebro Darden** (via quoted speech): ["In Kanye West’s account played in an archival TMZ clip, Ebro Darden de..."](/statements/statement-b3e6e002c9f6.md)
+  - Also about: [Ebro Darden](/entities/person-ebro-darden.md)
+
+- [00:33:59](/episodes/ep-FGoeoZxDN1c.md#t-00-33-36) (Opinion) **Blake Neff** (via quoted tweet): ["Blake Neff wrote that Owens found Kirk’s excitement about his campus t..."](/statements/statement-fee51b401c1c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:34:41](/episodes/ep-FGoeoZxDN1c.md#t-00-34-21) (Claim) **Candace Owens**: ["Responding to Blake Neff, Owens said her family had taken three vacati..."](/statements/statement-72a1343921be.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:36:54](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15) (Claim) **Blake Neff** (via quoted article): ["Blake Neff recalled discussing how Candace Owens would react to Kirk’s..."](/statements/statement-b30c5d0187e7.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:00](/episodes/ep-FGoeoZxDN1c.md#t-00-37-00) (Claim) **Blake Neff** (via quoted article): ["According to the Deseret News passage Owens read, Blake Neff said some..."](/statements/statement-b09fe89b092d.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:37:23](/episodes/ep-FGoeoZxDN1c.md#t-00-37-00) (Prediction) **Anonymous Source #2 (Ep FGoeoZxDN1c)** (via quoted article): ["An unnamed hospital waiting-room interlocutor reportedly predicted tha..."](/statements/statement-2172ebc227d5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:40](/episodes/ep-FGoeoZxDN1c.md#t-00-37-40) (Claim) **Candace Owens**: ["Owens said she had never met Blake Neff."](/statements/statement-821747d5823d.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:56:29](/episodes/ep-FGoeoZxDN1c.md#t-00-56-03) (Promise) **Candace Owens**: ["Owens said she would announce the following week who would host her sh..."](/statements/statement-c73f1b8c7d6e.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (3)</summary>

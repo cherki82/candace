@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 569 mentions"
+description: "God (Concepts) - 574 mentions"
 id: "concept-god"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#t-00-49-36">2026-09-01 · 00:49:36</a></strong></div>
-<div><span>Episodes</span><strong>110</strong></div>
-<div><span>Mentions</span><strong>569</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#t-00-08-02">2026-09-10 · 00:08:30</a></strong></div>
+<div><span>Episodes</span><strong>113</strong></div>
+<div><span>Mentions</span><strong>574</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -144,6 +144,9 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-48-48" style="--pulse-height:13%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 4 mentions" title="2026-08-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#t-00-47-14" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#t-00-11-03" style="--pulse-height:13%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#t-00-29-33" style="--pulse-height:10%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 3 mentions" title="2026-09-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#t-00-26-27" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#t-00-08-02" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -259,6 +262,9 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-48-48) | 4 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#t-00-47-14) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#t-00-11-03) | 4 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#t-00-29-33) | 3 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#t-00-26-27) | 1 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#t-00-08-02) | 1 |
 
 </details>
 </section>
@@ -266,7 +272,37 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (569)</strong></summary>
+<summary><strong class="section-title">Raw mentions (574)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:08:30](/episodes/ep-S07n8TnRT0Q.md#t-00-08-02)**
+> "...elationship between truth and God."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:26:45](/episodes/ep-bpXkPHpz9po.md#t-00-26-27)**
+> "And this year alone, God has used pre-born to save nearly 60,000 babies fr..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (3 mentions)</summary>
+
+**[00:29:48](/episodes/ep-FGoeoZxDN1c.md#t-00-29-33)**
+> "...nd hope. And this year alone, God has used Preborn to save nearly 60,000 babies fro..."
+
+**[00:45:51](/episodes/ep-FGoeoZxDN1c.md#t-00-45-51)**
+> "... you know, she's not angry at God. Yes, we got all of this from the Jesse Watters i..."
+
+**[00:47:07](/episodes/ep-FGoeoZxDN1c.md#t-00-47-07)**
+> "Fell asleep because you knew God had you. And she stresses that, over time I've re..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>

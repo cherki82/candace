@@ -1,6 +1,6 @@
 ---
 title: "Chicago, Illinois"
-description: "Chicago, Illinois (Places) - 42 mentions"
+description: "Chicago, Illinois (Places) - 53 mentions"
 id: "gpe-chicago-illinois"
 type: "GPE"
 aliases:
@@ -23,12 +23,12 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-chicago-illinois-t-00-02-03">2025-09-11 · 00:02:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-chicago-illinois-t-00-20-42">2026-08-10 · 00:20:42</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>42</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-chicago-illinois-t-00-24-56">2026-09-10 · 00:25:25</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -57,6 +57,9 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-chicago-illinois-t-00-58-23" style="--pulse-height:12%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-chicago-illinois-t-00-06-56" style="--pulse-height:25%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-chicago-illinois-t-00-20-42" style="--pulse-height:12%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-chicago-illinois-t-00-05-38" style="--pulse-height:75%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 6 mentions" title="2026-09-08 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-chicago-illinois-t-00-45-37" style="--pulse-height:25%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-chicago-illinois-t-00-09-00" style="--pulse-height:38%" aria-label="One Year On… To My Friend Charlie Kirk.: 3 mentions" title="2026-09-10 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -83,6 +86,9 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-chicago-illinois-t-00-58-23) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-chicago-illinois-t-00-06-56) | 2 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-chicago-illinois-t-00-20-42) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-chicago-illinois-t-00-05-38) | 6 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-chicago-illinois-t-00-45-37) | 2 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-chicago-illinois-t-00-09-00) | 3 |
 
 </details>
 </section>
@@ -94,7 +100,55 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (3 mentions)</summary>
+
+**[00:09:00](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-chicago-illinois-t-00-09-00)**
+> "...years old, born and raised in Chicago, Illinois."
+
+**[00:14:02](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-chicago-illinois-t-00-13-58)**
+> "...t), it's his younger years in Chicago struggling to make it. His perception, people tel..."
+
+**[00:25:25](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-chicago-illinois-t-00-24-56)**
+> "...ter six years, he returned to Chicago and he did it during the week of your anniversary..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
+
+**[00:45:52](/episodes/ep-bpXkPHpz9po.md#ent-gpe-chicago-illinois-t-00-45-37)**
+> "...ie (Charlie Kirk)'s family in Chicago?"
+
+**[00:46:23](/episodes/ep-bpXkPHpz9po.md#ent-gpe-chicago-illinois-t-00-46-17)**
+> "...ie (Charlie Kirk)'s family in Chicago. If you're speaking about me going to the A conce..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (6 mentions)</summary>
+
+**[00:05:47](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-chicago-illinois-t-00-05-38)**
+> "... Ye (Kanye West) returning to Chicago during the week of Charlie (Charlie Kirk)'s death..."
+
+**[00:05:57](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-chicago-illinois-t-00-05-38)**
+> "...arlie (Charlie Kirk) was from Chicago. He's very proud of that. He loved Kanye (Kanye W..."
+
+**[00:06:03](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-chicago-illinois-t-00-05-38)**
+> "...nye West)'s—it was his ode to Chicago, effectively—and it all just felt to me extremely..."
+
+**[00:06:33](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-chicago-illinois-t-00-06-21)**
+> "...antastic time. We landed into Chicago thinking that we'd have plenty of time to go to d..."
+
+**[00:10:37](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-chicago-illinois-t-00-10-37)**
+> "... is not a thing. You are from Chicago. And I just sort of took him through the story an..."
+
+**[00:24:01](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-chicago-illinois-t-00-24-01)**
+> "...nd then watched his return to Chicago with so many other artists by his side brought on..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
@@ -333,6 +387,18 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Birthplace Of (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:09:00](/episodes/ep-S07n8TnRT0Q.md#t-00-09-00): “So I started this organisation when I was eighteen years old, born and raised in Chicago, Illinois.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Former Base Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
@@ -345,7 +411,14 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** born in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:09:00](/episodes/ep-S07n8TnRT0Q.md#t-00-09-00): “So I started this organisation when I was eighteen years old, born and raised in Chicago, Illinois.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** formerly based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -359,7 +432,15 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Chicago, Illinois (7)</strong></summary>
+<summary><strong class="section-title">Statements about Chicago, Illinois (8)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>
+
+- [00:06:03](/episodes/ep-FGoeoZxDN1c.md#t-00-05-38) (Claim) **Candace Owens**: ["Owens said Ye had not performed on stage in his hometown of Chicago fo..."](/statements/statement-b9be35038bf3.md)
+  - Also about: [Kanye West](/entities/person-kanye-west.md)
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 233 mentions"
+description: "PreBorn! (Organizations) - 238 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-preborn-t-00-29-18">2026-09-01 · 00:29:29</a></strong></div>
-<div><span>Episodes</span><strong>75</strong></div>
-<div><span>Mentions</span><strong>233</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-preborn-t-00-27-11">2026-09-09 · 00:27:28</a></strong></div>
+<div><span>Episodes</span><strong>77</strong></div>
+<div><span>Mentions</span><strong>238</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -112,6 +112,8 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-preborn-t-00-27-47" style="--pulse-height:29%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-preborn-t-00-25-03" style="--pulse-height:29%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-preborn-t-00-28-34" style="--pulse-height:71%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-preborn-t-00-29-33" style="--pulse-height:43%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 3 mentions" title="2026-09-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-preborn-t-00-27-11" style="--pulse-height:29%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -192,6 +194,8 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-preborn-t-00-27-47) | 2 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-preborn-t-00-25-03) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-preborn-t-00-28-34) | 5 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-preborn-t-00-29-33) | 3 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-preborn-t-00-27-11) | 2 |
 
 </details>
 </section>
@@ -199,7 +203,32 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (233)</strong></summary>
+<summary><strong class="section-title">Raw mentions (238)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
+
+**[00:27:11](/episodes/ep-bpXkPHpz9po.md#ent-org-preborn-t-00-27-11)**
+> "Proof that preborn isn't just saving babies, it's saving souls as we..."
+
+**[00:27:28](/episodes/ep-bpXkPHpz9po.md#ent-org-preborn-t-00-27-11)**
+> "...nd 250 baby, or you can visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (3 mentions)</summary>
+
+**[00:29:48](/episodes/ep-FGoeoZxDN1c.md#ent-org-preborn-t-00-29-33)**
+> "...ight, you guys, for 20 years, Preborn has stood in the gap between fear and hope. And t..."
+
+**[00:30:05](/episodes/ep-FGoeoZxDN1c.md#ent-org-preborn-t-00-29-33)**
+> "But every day inside a Preborn network clinic, a woman sees her baby on an ultra..."
+
+**[00:30:39](/episodes/ep-FGoeoZxDN1c.md#ent-org-preborn-t-00-30-12)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (5 mentions)</summary>

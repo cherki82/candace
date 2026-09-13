@@ -1,6 +1,6 @@
 ---
 title: "British Columbia"
-description: "British Columbia (Places) - 3 mentions"
+description: "British Columbia (Places) - 4 mentions"
 id: "gpe-british-columbia"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [BC Geographical Names — British Columbia](https://apps.gov.bc.ca/pub/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-british-columbia-t-00-03-03">2025-10-27 · 00:03:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-british-columbia-t-00-49-38">2026-08-31 · 00:49:47</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-british-columbia-t-00-01-22">2026-09-10 · 00:01:27</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +34,7 @@ Source: [BC Geographical Names — British Columbia](https://apps.gov.bc.ca/pub/
 <a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-british-columbia-t-00-03-03" style="--pulse-height:100%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-gpe-british-columbia-t-00-36-55" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-gpe-british-columbia-t-00-49-38" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 1 mentions" title="2026-08-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-british-columbia-t-00-01-22" style="--pulse-height:100%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [BC Geographical Names — British Columbia](https://apps.gov.bc.ca/pub/
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-gpe-british-columbia-t-00-03-03) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-british-columbia-t-00-36-55) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-gpe-british-columbia-t-00-49-38) | 1 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-british-columbia-t-00-01-22) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [BC Geographical Names — British Columbia](https://apps.gov.bc.ca/pub/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:01:27](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-british-columbia-t-00-01-22)**
+> "...ly love that picture of us in British Columbia holding the big salmon because I can hear you and..."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1 mentions)</summary>

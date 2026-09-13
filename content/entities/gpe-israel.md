@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1602 mentions"
+description: "Israel (Places) - 1612 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -25,11 +25,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-41-59">2026-09-03 · 00:41:59</a></strong></div>
-<div><span>Episodes</span><strong>146</strong></div>
-<div><span>Mentions</span><strong>1,602</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-israel-t-00-20-24">2026-09-10 · 00:20:24</a></strong></div>
+<div><span>Episodes</span><strong>149</strong></div>
+<div><span>Mentions</span><strong>1,612</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>346</strong></div>
+<div><span>Statements about</span><strong>347</strong></div>
 <div><span>Relationships</span><strong>74</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -184,6 +184,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-06-17" style="--pulse-height:13%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 10 mentions" title="2026-09-01 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-israel-t-00-59-10" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-31-35" style="--pulse-height:12%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 9 mentions" title="2026-09-03 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-israel-t-00-52-52" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 5 mentions" title="2026-09-08 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-israel-t-00-07-33" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-israel-t-00-12-32" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 2 mentions" title="2026-09-10 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -335,6 +338,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-israel-t-00-06-17) | 10 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-israel-t-00-59-10) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-israel-t-00-31-35) | 9 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-israel-t-00-52-52) | 5 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-israel-t-00-07-33) | 3 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-israel-t-00-12-32) | 2 |
 
 </details>
 </section>
@@ -346,7 +352,52 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1602)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1612)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (2 mentions)</summary>
+
+**[00:12:43](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-israel-t-00-12-32)**
+> "...at, you and I are standing in Israel."
+
+**[00:20:24](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-israel-t-00-20-24)**
+> "...mense political pressure with Israel and that they had you surrounded and that your li..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3 mentions)</summary>
+
+**[00:07:33](/episodes/ep-bpXkPHpz9po.md#ent-gpe-israel-t-00-07-33)**
+> "From namely two Israeli officials at 4 a.m. in the morning their time, a ..."
+
+**[00:07:50](/episodes/ep-bpXkPHpz9po.md#ent-gpe-israel-t-00-07-33)**
+> "...e Kirk)'s views shifting over Israel day in and day out he kept saying oh no he never ..."
+
+**[00:31:01](/episodes/ep-bpXkPHpz9po.md#ent-gpe-israel-t-00-30-54)**
+> "He was also sent to defend Israel and Erika (Erika Kirk) because that seems to go h..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (5 mentions)</summary>
+
+**[00:53:06](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-israel-t-00-52-52)**
+> "this Zoom call with Israel, with Israeli officials, as Frank Turek termed th..."
+
+**[00:55:06](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-israel-t-00-54-47)**
+> "...e messages while on Zoom with Israel was absolutely bone chilling."
+
+**[00:55:25](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-israel-t-00-55-25)**
+> "...Charlie Kirk) had to speak to Israeli officials at 4 a.m. in the morning their time to ..."
+
+**[00:57:16](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-israel-t-00-56-45)**
+> "The Israeli foreign minister getting involved in spending mon..."
+
+**[00:57:37](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-israel-t-00-57-24)**
+> "...sume that that is going to be Israeli propaganda, just judging by the FARA docs, Faith ..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (9 mentions)</summary>
@@ -6501,7 +6552,15 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (346)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (347)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>
+
+- [00:57:00](/episodes/ep-FGoeoZxDN1c.md#t-00-56-45) (Accusation) **Candace Owens**: ["Citing FARA filings, Owens alleged that Israeli foreign-ministry spend..."](/statements/statement-cb1e92132f71.md)
+  - Also about: [Salem Media Group](/entities/org-salem-media-group.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>

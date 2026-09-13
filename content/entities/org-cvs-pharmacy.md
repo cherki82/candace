@@ -1,6 +1,6 @@
 ---
 title: "CVS Pharmacy"
-description: "CVS Pharmacy (Organizations) - 20 mentions"
+description: "CVS Pharmacy (Organizations) - 22 mentions"
 id: "org-cvs-pharmacy"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-cvs-pharmacy-t-00-44-46">2025-09-16 · 00:44:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-cvs-pharmacy-t-00-42-56">2026-08-11 · 00:43:18</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-cvs-pharmacy-t-00-34-06">2026-09-09 · 00:34:32</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -54,6 +54,8 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-cvs-pharmacy-t-01-06-46" style="--pulse-height:100%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-cvs-pharmacy-t-00-28-48" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-org-cvs-pharmacy-t-00-42-56" style="--pulse-height:100%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-cvs-pharmacy-t-00-32-19" style="--pulse-height:100%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-cvs-pharmacy-t-00-34-06" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +80,8 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-cvs-pharmacy-t-01-06-46) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-cvs-pharmacy-t-00-28-48) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-cvs-pharmacy-t-00-42-56) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-cvs-pharmacy-t-00-32-19) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-cvs-pharmacy-t-00-34-06) | 1 |
 
 </details>
 </section>
@@ -85,7 +89,23 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:34:32](/episodes/ep-bpXkPHpz9po.md#ent-org-cvs-pharmacy-t-00-34-06)**
+> "...ndard when you get those like CVS electronic signature things."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:32:46](/episodes/ep-FGoeoZxDN1c.md#ent-org-cvs-pharmacy-t-00-32-19)**
+> "...Whole Foods, Walmart, Amazon, CVS."
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>

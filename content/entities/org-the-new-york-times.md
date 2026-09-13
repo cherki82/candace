@@ -1,6 +1,6 @@
 ---
 title: "The New York Times"
-description: "The New York Times (Organizations) - 74 mentions"
+description: "The New York Times (Organizations) - 90 mentions"
 id: "org-the-new-york-times"
 type: "ORG"
 aliases:
@@ -21,54 +21,55 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-23-52">2026-08-31 · 00:23:52</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>74</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-48-55">2026-09-08 · 00:49:02</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>90</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-16-14">VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317</a> (9 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-00-42">Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384</a> (16 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22" style="--pulse-height:11%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-the-new-york-times-t-00-20-29" style="--pulse-height:11%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-the-new-york-times-t-00-20-35" style="--pulse-height:11%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-the-new-york-times-t-00-28-48" style="--pulse-height:11%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-the-new-york-times-t-00-17-32" style="--pulse-height:22%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-the-new-york-times-t-00-09-46" style="--pulse-height:22%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-the-new-york-times-t-00-13-45" style="--pulse-height:11%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-the-new-york-times-t-00-28-53" style="--pulse-height:11%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-org-the-new-york-times-t-00-05-46" style="--pulse-height:56%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 5 mentions" title="2026-01-27 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-new-york-times-t-01-22-26" style="--pulse-height:44%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-the-new-york-times-t-00-07-37" style="--pulse-height:11%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-the-new-york-times-t-00-24-42" style="--pulse-height:33%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 3 mentions" title="2026-02-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-the-new-york-times-t-00-09-43" style="--pulse-height:11%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-the-new-york-times-t-00-15-04" style="--pulse-height:11%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-the-new-york-times-t-00-03-34" style="--pulse-height:11%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-the-new-york-times-t-00-16-24" style="--pulse-height:11%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-the-new-york-times-t-00-59-26" style="--pulse-height:11%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-the-new-york-times-t-00-14-38" style="--pulse-height:11%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-the-new-york-times-t-00-23-14" style="--pulse-height:33%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-the-new-york-times-t-00-09-17" style="--pulse-height:22%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-the-new-york-times-t-00-30-50" style="--pulse-height:11%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-16-14" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 9 mentions" title="2026-03-26 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-the-new-york-times-t-00-47-08" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-org-the-new-york-times-t-00-04-03" style="--pulse-height:11%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-the-new-york-times-t-00-24-07" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-the-new-york-times-t-00-11-33" style="--pulse-height:11%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-the-new-york-times-t-00-19-00" style="--pulse-height:11%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7FS1tUeSfdE.md#t-00-34-52" style="--pulse-height:11%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-the-new-york-times-t-00-37-11" style="--pulse-height:11%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-the-new-york-times-t-00-25-09" style="--pulse-height:22%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-the-new-york-times-t-00-13-56" style="--pulse-height:56%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 5 mentions" title="2026-06-13 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-the-new-york-times-t-00-00-01" style="--pulse-height:44%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-the-new-york-times-t-00-13-18" style="--pulse-height:33%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 3 mentions" title="2026-07-21 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-the-new-york-times-t-00-04-10" style="--pulse-height:22%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-16-24" style="--pulse-height:33%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 3 mentions" title="2026-08-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22" style="--pulse-height:8%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-the-new-york-times-t-00-20-29" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-the-new-york-times-t-00-20-35" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-the-new-york-times-t-00-28-48" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-the-new-york-times-t-00-17-32" style="--pulse-height:12%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-the-new-york-times-t-00-09-46" style="--pulse-height:12%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-the-new-york-times-t-00-13-45" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-the-new-york-times-t-00-28-53" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-org-the-new-york-times-t-00-05-46" style="--pulse-height:31%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 5 mentions" title="2026-01-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-new-york-times-t-01-22-26" style="--pulse-height:25%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-the-new-york-times-t-00-07-37" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-the-new-york-times-t-00-24-42" style="--pulse-height:19%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 3 mentions" title="2026-02-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-the-new-york-times-t-00-09-43" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-the-new-york-times-t-00-15-04" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-the-new-york-times-t-00-03-34" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-the-new-york-times-t-00-16-24" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-the-new-york-times-t-00-59-26" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-the-new-york-times-t-00-14-38" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-the-new-york-times-t-00-23-14" style="--pulse-height:19%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-the-new-york-times-t-00-09-17" style="--pulse-height:12%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-the-new-york-times-t-00-30-50" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-16-14" style="--pulse-height:56%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 9 mentions" title="2026-03-26 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-the-new-york-times-t-00-47-08" style="--pulse-height:19%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-the-new-york-times-t-00-04-03" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-the-new-york-times-t-00-24-07" style="--pulse-height:19%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-the-new-york-times-t-00-11-33" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-the-new-york-times-t-00-19-00" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#t-00-34-52" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-the-new-york-times-t-00-37-11" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-the-new-york-times-t-00-25-09" style="--pulse-height:12%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-the-new-york-times-t-00-13-56" style="--pulse-height:31%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 5 mentions" title="2026-06-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-the-new-york-times-t-00-00-01" style="--pulse-height:25%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-the-new-york-times-t-00-13-18" style="--pulse-height:19%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 3 mentions" title="2026-07-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-the-new-york-times-t-00-04-10" style="--pulse-height:12%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-16-24" style="--pulse-height:19%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 3 mentions" title="2026-08-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-00-42" style="--pulse-height:100%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 16 mentions" title="2026-09-08 · 16 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -109,6 +110,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-the-new-york-times-t-00-13-18) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-the-new-york-times-t-00-04-10) | 2 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-the-new-york-times-t-00-16-24) | 3 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-00-42) | 16 |
 
 </details>
 </section>
@@ -120,7 +122,60 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+<summary><strong class="section-title">Raw mentions (90)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (16 mentions)</summary>
+
+**[00:00:52](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-00-42)**
+> "For the New York Times, and it's not exactly a tearjerker. I've read it,..."
+
+**[00:40:40](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-40-40)**
+> "...seen it, released an op-ed in the New York Times, a one-year look back on her grief, which we kind..."
+
+**[00:40:59](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-40-40)**
+> "...that she's even doing this in the New York Times."
+
+**[00:41:07](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-41-07)**
+> "...irk) never wrote an op-ed for the New York Times."
+
+**[00:41:43](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-41-07)**
+> "...rspectives. And he would read the New York Times so that he knew what their perspectives were."
+
+**[00:41:52](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-41-52)**
+> "...about how and why he consumed the New York Times and how he consumed the New York Times."
+
+**[00:42:05](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-42-05)**
+> "...o there's a news story out of the New York Times, and I'm not really sure what to make of this. It..."
+
+**[00:42:12](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-42-05)**
+> "I have the New York Times right here. I read it so you don't have to. Every..."
+
+**[00:42:21](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-42-05)**
+> "... always get a kick out of it, the New York Times."
+
+**[00:42:26](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-42-05)**
+> "... print, that's right there on the New York Times. I get some really nasty emails."
+
+**[00:42:32](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-42-05)**
+> "...harlie Kirk), why do you read the New York Times? Because I want to know what the intelligentsia i..."
+
+**[00:42:46](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-42-46)**
+> "...re just going, why is this in the New York Times? Why is it behind a paywall? And why can't you ju..."
+
+**[00:47:07](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-47-07)**
+> "... other than to make money for the New York Times, which is a part of the deep state apparatus, fac..."
+
+**[00:47:30](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-47-07)**
+> "for them to make money for the New York Times, which is a part of the deep state apparatus, fac..."
+
+**[00:47:35](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-47-07)**
+> "Operation Mockingbird, the New York Times was involved in that after they committed another..."
+
+**[00:49:02](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-new-york-times-t-00-48-55)**
+> "...et through the fact that it's the New York Times and it's behind the paywall and they missed it."
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (3 mentions)</summary>
@@ -571,7 +626,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <summary>Interviewed (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46): “On the 18th, this, by the way, strikes me as odd in the retrospect as I was working on these couple of episodes about Erika (Erika Kirk). ... On the 18th, there's eight days after the assassination, she gave an in-person interview with the New York Times at her and Charlie (Charlie Kirk)'s condo.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated”
@@ -580,6 +635,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48): “Erica (Erika Kirk) sat down with the New York Times, as we have many times covered over, just days following the assassination, welcomed them into her and Charlie (Charlie Kirk)'s apartment, and here is what they published verbatim. They wrote, it had been miss...”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:13:18](/episodes/ep-OgRyiOAVtWU.md#t-00-13-18): “Everyone, he was trained to exactly what he was supposed to do, immediately called Erika (Erika Kirk). Erika (Erika Kirk), even in the New York Times interview that she gave eight days later, said that at 11.23, obviously adjusting for time, 12.23, I guess, in local time, Utah, 11.23, her time.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:28:56](/episodes/ep-ds6umq1rHAw.md#t-00-28-41): “Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:41:07](/episodes/ep-FGoeoZxDN1c.md#t-00-41-07): “like and it's behind a paywall okay she just continues to partner with a publication that her deceased husband hated this was the first publication she partnered with she opened their apartment to an in-person interview and sat down with them what was it two days after Charlie (Charlie Kirk)'s assassination Charlie (Charlie Kirk) never wrote an op-ed for the New York Times.”
 
 </details>
 
@@ -617,7 +673,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46): “On the 18th, this, by the way, strikes me as odd in the retrospect as I was working on these couple of episodes about Erika (Erika Kirk). ... On the 18th, there's eight days after the assassination, she gave an in-person interview with the New York Times at her and Charlie (Charlie Kirk)'s condo.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated”
@@ -626,6 +682,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48): “Erica (Erika Kirk) sat down with the New York Times, as we have many times covered over, just days following the assassination, welcomed them into her and Charlie (Charlie Kirk)'s apartment, and here is what they published verbatim. They wrote, it had been miss...”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:13:18](/episodes/ep-OgRyiOAVtWU.md#t-00-13-18): “Everyone, he was trained to exactly what he was supposed to do, immediately called Erika (Erika Kirk). Erika (Erika Kirk), even in the New York Times interview that she gave eight days later, said that at 11.23, obviously adjusting for time, 12.23, I guess, in local time, Utah, 11.23, her time.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:28:56](/episodes/ep-ds6umq1rHAw.md#t-00-28-41): “Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:41:07](/episodes/ep-FGoeoZxDN1c.md#t-00-41-07): “like and it's behind a paywall okay she just continues to partner with a publication that her deceased husband hated this was the first publication she partnered with she opened their apartment to an in-person interview and sat down with them what was it two days after Charlie (Charlie Kirk)'s assassination Charlie (Charlie Kirk) never wrote an op-ed for the New York Times.”
 
 </details>
 
@@ -701,7 +758,24 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The New York Times (14)</strong></summary>
+<summary><strong class="section-title">Statements about The New York Times (18)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (4)</summary>
+
+- [00:40:40](/episodes/ep-FGoeoZxDN1c.md#t-00-40-40) (Claim) **Candace Owens**: ["Owens said Erika Kirk published a New York Times op-ed reflecting on h..."](/statements/statement-6f59a0d37cad.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:41:07](/episodes/ep-FGoeoZxDN1c.md#t-00-41-07) (Claim) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk admitted a New York Times interviewer to her apa..."](/statements/statement-8ba682012644.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:42:12](/episodes/ep-FGoeoZxDN1c.md#t-00-42-05) (Opinion) **Charlie Kirk** (via quoted speech): ["In an archival clip, Charlie Kirk said he read The New York Times ever..."](/statements/statement-60da9d63f596.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:47:35](/episodes/ep-FGoeoZxDN1c.md#t-00-47-07) (Accusation) **Candace Owens**: ["Owens alleged The New York Times participated in Operation Mockingbird..."](/statements/statement-46b3f13693f4.md)
+  - Also about: [Operation Mockingbird](/entities/concept-operation-mockingbird.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>

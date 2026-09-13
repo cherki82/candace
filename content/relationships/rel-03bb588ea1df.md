@@ -11,7 +11,11 @@ object: "person-michael-mccoy"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) formerly employed [Michael McCoy](/entities/person-michael-mccoy)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po)**
+
+- [00:17:52](/episodes/ep-bpXkPHpz9po#t-00-17-52): _Which we then learned were provided by Mikey (Michael McCoy), another strange development that the hospital staff would just give them out that wouldn't just give them out themselves, like here you guys go, but they would instead give them to Charlie (Charlie Kirk)'s young assistant who arrived later._
 
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 

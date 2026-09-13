@@ -1,6 +1,6 @@
 ---
 title: "Justin Davis"
-description: "Justin Davis (People) - 30 mentions"
+description: "Justin Davis (People) - 35 mentions"
 id: "person-justin-davis"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14">2026-06-24 · 00:09:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-12-36">2026-09-03 · 00:12:36</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-justin-davis-t-00-22-13">2026-09-09 · 00:22:13</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-person-justin-davis-t-00-19-43" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-davis-t-00-12-19" style="--pulse-height:83%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 10 mentions" title="2026-09-02 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-06-53" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 12 mentions" title="2026-09-03 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-justin-davis-t-00-18-13" style="--pulse-height:42%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 5 mentions" title="2026-09-09 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-justin-davis-t-00-19-43) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-justin-davis-t-00-12-19) | 10 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-justin-davis-t-00-06-53) | 12 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-justin-davis-t-00-18-13) | 5 |
 
 </details>
 </section>
@@ -59,7 +61,27 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5 mentions)</summary>
+
+**[00:18:35](/episodes/ep-bpXkPHpz9po.md#ent-person-justin-davis-t-00-18-13)**
+> "...irk) to the car. He went with Justin Davis, sprinted ahead to open the car."
+
+**[00:18:49](/episodes/ep-bpXkPHpz9po.md#ent-person-justin-davis-t-00-18-49)**
+> "So him and Justin (Justin Davis) sprint ahead. Justin (Justin Davis) drives to th..."
+
+**[00:19:19](/episodes/ep-bpXkPHpz9po.md#ent-person-justin-davis-t-00-18-49)**
+> "...'s next. He's next to Justin (Justin Davis). They get the car front door open and then he so..."
+
+**[00:21:51](/episodes/ep-bpXkPHpz9po.md#ent-person-justin-davis-t-00-21-35)**
+> "What's going on you guys? Justin Davis is also wearing surgical scrubs up on the top, th..."
+
+**[00:22:13](/episodes/ep-bpXkPHpz9po.md#ent-person-justin-davis-t-00-22-13)**
+> "...ting into the vehicle you and justin davis by the way we can give justin davis the benefit o..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (12 mentions)</summary>
@@ -238,7 +260,15 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Davis (8)</strong></summary>
+<summary><strong class="section-title">Statements about Justin Davis (9)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:21:14](/episodes/ep-bpXkPHpz9po.md#t-00-20-54) (Claim) **Candace Owens**: ["Owens said footage of the group returning to UVU after 8:30 p.m. Septe..."](/statements/statement-7c9ba0235666.md)
+  - Also about: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md), [Rick Cutler](/entities/person-rick-cutler.md), [Dan Flood](/entities/person-dan-flood.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2)</summary>

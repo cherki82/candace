@@ -1,6 +1,6 @@
 ---
 title: "Colorado"
-description: "Colorado (Places) - 71 mentions"
+description: "Colorado (Places) - 72 mentions"
 id: "gpe-colorado"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-colorado-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-gpe-colorado-t-00-54-22">2026-05-20 · 00:54:34</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>71</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-colorado-t-00-13-14">2026-09-10 · 00:13:50</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>72</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,7 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-00-00" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 19 mentions" title="2026-05-13 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-00-00-39" style="--pulse-height:58%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 11 mentions" title="2026-05-19 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-gpe-colorado-t-00-01-35" style="--pulse-height:16%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 3 mentions" title="2026-05-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-colorado-t-00-13-14" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-00-00) | 19 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-00-00-39) | 11 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-gpe-colorado-t-00-01-35) | 3 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-colorado-t-00-13-14) | 1 |
 
 </details>
 </section>
@@ -76,7 +78,15 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+<summary><strong class="section-title">Raw mentions (72)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:13:50](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-colorado-t-00-13-14)**
+> "...emember we were driving up in Colorado when I took you through the lyrics for the first ..."
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (3 mentions)</summary>

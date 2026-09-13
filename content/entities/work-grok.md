@@ -1,6 +1,6 @@
 ---
 title: "Grok"
-description: "Grok (Works & Media) - 13 mentions"
+description: "Grok (Works & Media) - 15 mentions"
 id: "work-grok"
 type: "WORK"
 categories:
@@ -18,9 +18,9 @@ Source: [Welcome to Grok | xAI Docs](https://docs.x.ai/grok/overview)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-work-grok-t-00-46-37">2025-11-04 · 00:46:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-work-grok-t-02-24-32">2026-08-14 · 02:24:32</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-work-grok-t-00-02-12">2026-09-08 · 00:02:40</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Welcome to Grok | xAI Docs](https://docs.x.ai/grok/overview)
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-work-grok-t-00-30-04" style="--pulse-height:33%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-work-grok-t-00-40-32" style="--pulse-height:33%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-work-grok-t-02-24-32" style="--pulse-height:17%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-work-grok-t-00-02-12" style="--pulse-height:33%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Welcome to Grok | xAI Docs](https://docs.x.ai/grok/overview)
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-work-grok-t-00-30-04) | 2 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-work-grok-t-00-40-32) | 2 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-work-grok-t-02-24-32) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-work-grok-t-00-02-12) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Welcome to Grok | xAI Docs](https://docs.x.ai/grok/overview)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2 mentions)</summary>
+
+**[00:02:27](/episodes/ep-FGoeoZxDN1c.md#ent-work-grok-t-00-02-12)**
+> "...osted their conversation with Grok about whether it's safe for me to go to a concert..."
+
+**[00:02:40](/episodes/ep-FGoeoZxDN1c.md#ent-work-grok-t-00-02-12)**
+> "And Grok said, no, the baby could be startled by the music..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>

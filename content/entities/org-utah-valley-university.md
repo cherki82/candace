@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 264 mentions"
+description: "Utah Valley University (Organizations) - 270 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -27,11 +27,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-utah-valley-university-t-00-52-56">2026-09-03 · 00:53:34</a></strong></div>
-<div><span>Episodes</span><strong>79</strong></div>
-<div><span>Mentions</span><strong>264</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-utah-valley-university-t-00-35-24">2026-09-09 · 00:35:50</a></strong></div>
+<div><span>Episodes</span><strong>81</strong></div>
+<div><span>Mentions</span><strong>270</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>89</strong></div>
+<div><span>Statements about</span><strong>90</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -119,6 +119,8 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-01-03" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 9 mentions" title="2026-09-01 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-utah-valley-university-t-00-10-37" style="--pulse-height:22%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-utah-valley-university-t-00-03-44" style="--pulse-height:33%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-utah-valley-university-t-00-48-55" style="--pulse-height:33%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 3 mentions" title="2026-09-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-utah-valley-university-t-00-20-54" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -203,6 +205,8 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-utah-valley-university-t-00-01-03) | 9 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-utah-valley-university-t-00-10-37) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-utah-valley-university-t-00-03-44) | 3 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-utah-valley-university-t-00-48-55) | 3 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-utah-valley-university-t-00-20-54) | 3 |
 
 </details>
 </section>
@@ -214,7 +218,35 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (264)</strong></summary>
+<summary><strong class="section-title">Raw mentions (270)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3 mentions)</summary>
+
+**[00:21:14](/episodes/ep-bpXkPHpz9po.md#ent-org-utah-valley-university-t-00-20-54)**
+> "... at our guys arriving back to UVU sometime after 8.30 p.m. that evening."
+
+**[00:35:32](/episodes/ep-bpXkPHpz9po.md#ent-org-utah-valley-university-t-00-35-24)**
+> "... a three-hour drive away from UVU campus, okay? I mean, we're talking, it's just a ..."
+
+**[00:35:50](/episodes/ep-bpXkPHpz9po.md#ent-org-utah-valley-university-t-00-35-24)**
+> "...(Lance Twiggs) that he was at UVU around 9 p.m. when he saw the canines, but the st..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (3 mentions)</summary>
+
+**[00:49:08](/episodes/ep-FGoeoZxDN1c.md#ent-org-utah-valley-university-t-00-48-55)**
+> "...ay at Thursday, pardon me, at UVU."
+
+**[00:54:31](/episodes/ep-FGoeoZxDN1c.md#ent-org-utah-valley-university-t-00-54-06)**
+> "...rk) was excited about doing a UVU event."
+
+**[00:54:47](/episodes/ep-FGoeoZxDN1c.md#ent-org-utah-valley-university-t-00-54-47)**
+> "... it at. He already had done a UVU stop multiple times throughout his career. This w..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3 mentions)</summary>
@@ -1608,7 +1640,15 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (89)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (90)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:18:22](/episodes/ep-bpXkPHpz9po.md#t-00-18-13) (Claim) **Candace Owens**: ["Owens identified the security worker she called Blake Hariff, whose su..."](/statements/statement-5b77c51a0b93.md)
+  - Also about: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3)</summary>

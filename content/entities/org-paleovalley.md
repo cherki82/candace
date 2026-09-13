@@ -1,6 +1,6 @@
 ---
 title: "Paleovalley"
-description: "Paleovalley (Organizations) - 111 mentions"
+description: "Paleovalley (Organizations) - 114 mentions"
 id: "org-paleovalley"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Paleovalley](https://paleovalley.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02">2025-09-16 · 00:39:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-paleovalley-t-00-40-30">2026-09-01 · 00:40:30</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>111</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-paleovalley-t-00-41-34">2026-09-09 · 00:42:07</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>114</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -59,6 +59,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-paleovalley-t-00-23-54" style="--pulse-height:44%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 4 mentions" title="2026-08-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-paleovalley-t-00-43-17" style="--pulse-height:33%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 3 mentions" title="2026-08-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-paleovalley-t-00-39-12" style="--pulse-height:44%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-paleovalley-t-00-40-53" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +88,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-paleovalley-t-00-23-54) | 4 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-paleovalley-t-00-43-17) | 3 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-paleovalley-t-00-39-12) | 4 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-paleovalley-t-00-40-53) | 3 |
 
 </details>
 </section>
@@ -94,7 +96,21 @@ Source: [Paleovalley](https://paleovalley.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (111)</strong></summary>
+<summary><strong class="section-title">Raw mentions (114)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3 mentions)</summary>
+
+**[00:41:26](/episodes/ep-bpXkPHpz9po.md#ent-org-paleovalley-t-00-40-53)**
+> "Paleo Valley uses 100% grass-fed and grass-finished beef sourc..."
+
+**[00:42:00](/episodes/ep-bpXkPHpz9po.md#ent-org-paleovalley-t-00-41-34)**
+> "...t 20% off your first order at paleovalley.com and use code Candace at checkout."
+
+**[00:42:07](/episodes/ep-bpXkPHpz9po.md#ent-org-paleovalley-t-00-41-34)**
+> "Again, that's paleovalley.com with promo code Candace at checkout. And I wa..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>

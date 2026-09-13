@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 413 mentions"
+description: "Benjamin Netanyahu (People) - 415 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -28,9 +28,9 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">2025-09-15 · 00:01:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-benjamin-netanyahu-t-00-40-31">2026-09-03 · 00:40:57</a></strong></div>
-<div><span>Episodes</span><strong>98</strong></div>
-<div><span>Mentions</span><strong>413</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-benjamin-netanyahu-t-00-00-31">2026-09-09 · 00:00:40</a></strong></div>
+<div><span>Episodes</span><strong>100</strong></div>
+<div><span>Mentions</span><strong>415</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
 <div><span>Statements about</span><strong>128</strong></div>
 <div><span>Relationships</span><strong>64</strong></div>
@@ -139,6 +139,8 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-benjamin-netanyahu-t-00-49-45" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-benjamin-netanyahu-t-00-50-37" style="--pulse-height:19%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 5 mentions" title="2026-08-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-benjamin-netanyahu-t-00-05-25" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-benjamin-netanyahu-t-00-21-36" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-benjamin-netanyahu-t-00-00-31" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -242,6 +244,8 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-benjamin-netanyahu-t-00-49-45) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-benjamin-netanyahu-t-00-50-37) | 5 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-benjamin-netanyahu-t-00-05-25) | 2 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-benjamin-netanyahu-t-00-21-36) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-benjamin-netanyahu-t-00-00-31) | 1 |
 
 </details>
 </section>
@@ -253,7 +257,23 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (413)</strong></summary>
+<summary><strong class="section-title">Raw mentions (415)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:00:40](/episodes/ep-bpXkPHpz9po.md#ent-person-benjamin-netanyahu-t-00-00-31)**
+> "...ally recreate in the image of Bibi Netanyahu or someone, we prevented that from happ..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:21:43](/episodes/ep-FGoeoZxDN1c.md#ent-person-benjamin-netanyahu-t-00-21-36)**
+> "...Andrew Kolvet) told me. Bibi (Benjamin Netanyahu) offered to take Turning Point to the next level...."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>

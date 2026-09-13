@@ -16,10 +16,20 @@ date: "2025-09-10"
 
 > Frank Turek recalled a FaceTime call to Jack Hibbs after reaching the emergency room with Charlie Kirk.
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. BREAKING NEWS! More Unseen Footage And The Tyler Robinson De...
 
 **Episode:** [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md)
 **Timestamp:** [00:16:08](/episodes/ep-ZkDO-MRLUco.md#t-00-16-08) 
 <a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=968s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Then I FaceTimed you. I faced, we were talking, you ... Saw I had blood on me.
+
+### 2. EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back Fr...
+
+**Episode:** [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md)
+**Timestamp:** [00:15:49](/episodes/ep-bpXkPHpz9po.md#event-event-2025-09-10-frank-turek-recalled-a-facetime-call-to--t-00-15-49) 
+<a href="https://www.youtube.com/watch?v=bpXkPHpz9po&t=949s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Then I FaceTimed you. I faced, we were talking.

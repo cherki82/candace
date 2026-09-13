@@ -1,6 +1,6 @@
 ---
 title: "Laura Loomer"
-description: "Laura Loomer (People) - 140 mentions"
+description: "Laura Loomer (People) - 141 mentions"
 id: "person-laura-loomer"
 type: "PERSON"
 categories:
@@ -17,9 +17,9 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-04-24">2025-09-16 · 01:04:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-laura-loomer-t-00-32-40">2026-08-10 · 00:33:10</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>140</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-laura-loomer-t-00-24-20">2026-09-10 · 00:24:48</a></strong></div>
+<div><span>Episodes</span><strong>38</strong></div>
+<div><span>Mentions</span><strong>141</strong></div>
 <div><span>Statements by</span><strong>22</strong></div>
 <div><span>Statements about</span><strong>35</strong></div>
 <div><span>Relationships</span><strong>44</strong></div>
@@ -67,6 +67,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-laura-loomer-t-00-59-49" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-person-laura-loomer-t-00-43-51" style="--pulse-height:8%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-laura-loomer-t-00-29-17" style="--pulse-height:14%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 3 mentions" title="2026-08-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-laura-loomer-t-00-24-20" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -109,6 +110,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-laura-loomer-t-00-59-49) | 1 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-person-laura-loomer-t-00-43-51) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-laura-loomer-t-00-29-17) | 3 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-laura-loomer-t-00-24-20) | 1 |
 
 </details>
 </section>
@@ -120,7 +122,15 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (140)</strong></summary>
+<summary><strong class="section-title">Raw mentions (141)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:24:48](/episodes/ep-S07n8TnRT0Q.md#ent-person-laura-loomer-t-00-24-20)**
+> "...think you're now friends with Laura Loomer, Charlie (Charlie Kirk), me and you, though."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (3 mentions)</summary>

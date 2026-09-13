@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 272 mentions"
+description: "The Daily Wire (Organizations) - 274 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -25,11 +25,11 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-the-daily-wire-t-00-40-44">2025-09-18 · 00:41:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-the-daily-wire-t-00-07-33">2026-09-01 · 00:07:42</a></strong></div>
-<div><span>Episodes</span><strong>67</strong></div>
-<div><span>Mentions</span><strong>272</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-the-daily-wire-t-00-22-59">2026-09-08 · 00:22:59</a></strong></div>
+<div><span>Episodes</span><strong>68</strong></div>
+<div><span>Mentions</span><strong>274</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>103</strong></div>
+<div><span>Statements about</span><strong>105</strong></div>
 <div><span>Relationships</span><strong>62</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -105,6 +105,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-the-daily-wire-t-00-43-23" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-the-daily-wire-t-00-37-46" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 2 mentions" title="2026-08-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-the-daily-wire-t-00-07-33" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-the-daily-wire-t-00-20-10" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -177,6 +178,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-the-daily-wire-t-00-43-23) | 1 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-the-daily-wire-t-00-37-46) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-the-daily-wire-t-00-07-33) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-daily-wire-t-00-20-10) | 2 |
 
 </details>
 </section>
@@ -188,7 +190,18 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (272)</strong></summary>
+<summary><strong class="section-title">Raw mentions (274)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2 mentions)</summary>
+
+**[00:20:10](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-daily-wire-t-00-20-10)**
+> "...e consequence that I faced at the Daily Wire, after a very heated conference—literally the co-..."
+
+**[00:22:59](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-daily-wire-t-00-22-59)**
+> "...unced that I was parting from the Daily Wire, aka fired."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
@@ -1426,7 +1439,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Fired (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:49:43](/episodes/ep-ja26iltROkM.md#t-00-49-28): “post me being fired from The Daily Wire.”
@@ -1446,6 +1459,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:02:59](/episodes/ep-ds6umq1rHAw.md#t-00-02-47): “one of the reasons among many that I was fired from the Daily Wire”
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16): “three months earlier I had gotten fired from the Daily Wire”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:07:47](/episodes/ep-sImMM04XdWY.md#t-00-07-29): “So we are in 2024, right? March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
 
 </details>
 
@@ -1455,7 +1469,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Formerly Employed (8)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50): “I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.”
@@ -1481,6 +1495,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:40:22](/episodes/ep-Qt0VHV-POCg.md#t-00-40-15): “And Norm Finkelstein—whose parents survived; one of his parents survived Auschwitz—was the reason I had him on my show right after October 7th—sometimes shortly thereafter—when I was at the Daily Wire.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:25:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-05): “I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire was also a naval intelligence officer who decided to become a pastor. That was Jon Lewis.”
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:57](/episodes/ep-vwG1juDCQZQ.md#t-00-01-24): “following her 2024 departure from the Daily Wire.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
 
 </details>
 
@@ -1733,7 +1748,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** fired by this
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:15](/episodes/ep-zSKrxIUMNqw.md#t-00-14-12): “publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired.”
@@ -1752,6 +1767,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:02:59](/episodes/ep-ds6umq1rHAw.md#t-00-02-47): “one of the reasons among many that I was fired from the Daily Wire”
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16): “three months earlier I had gotten fired from the Daily Wire”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:07:47](/episodes/ep-sImMM04XdWY.md#t-00-07-29): “So we are in 2024, right? March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
 
 </details>
 
@@ -1767,7 +1783,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (30)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (31)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:47:51](/episodes/ep-adJ4LNGp84I.md#t-00-47-23): “I used to read ads for them, ExpressVPN, when I was working for Daily Wire.”
@@ -1799,6 +1815,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:40:22](/episodes/ep-Qt0VHV-POCg.md#t-00-40-15): “And Norm Finkelstein—whose parents survived; one of his parents survived Auschwitz—was the reason I had him on my show right after October 7th—sometimes shortly thereafter—when I was at the Daily Wire.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:25:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-05): “I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire was also a naval intelligence officer who decided to become a pastor. That was Jon Lewis.”
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:57](/episodes/ep-vwG1juDCQZQ.md#t-00-01-24): “following her 2024 departure from the Daily Wire.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59): “Of course, a year and a half later, it is exactly what I would refer to in my own mind and what I would tweet when it was announced that I was parting from the Daily Wire, aka fired.”
 
 </details>
 
@@ -2001,7 +2018,18 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Daily Wire (103)</strong></summary>
+<summary><strong class="section-title">Statements about The Daily Wire (105)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2)</summary>
+
+- [00:20:10](/episodes/ep-FGoeoZxDN1c.md#t-00-20-10) (Claim) **Anonymous Source #1 (Ep FGoeoZxDN1c)** (via quoted speech): ["Owens recalled an unnamed Daily Wire co-CEO demanding that she condemn..."](/statements/statement-b8406ea8a6e3.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:22:59](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59) (Claim) **Candace Owens**: ["Owens said she tweeted that the rumors were true and she was finally f..."](/statements/statement-dd82944a6e0e.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>

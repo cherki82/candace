@@ -24,7 +24,7 @@ veracity: "true"
 - [Blake Neff](/entities/person-blake-neff.md) (person)
 - [Danny Philip](/entities/person-danny-philip.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. A Strange Thing Happened At Charlie’s Funeral... Plus, A Sho...
 
@@ -41,6 +41,14 @@ veracity: "true"
 <a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=1420s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > But again, this is all just luck that Danny (Danny Philip) and Mikey (Michael McCoy) fortunately met for some reason Blake (Blake Neff) is really weird about mentioning Danny (Danny Philip) as a part of the story when he tells the story and he says which we're going to hear in a little bit everything that happened he just mysteriously keeps leaving Danny Philip out of everything he always develops Danny Philip amnesia in particular every time he's just like well nope this is what happened Danny (Danny Philip) but Danny (Danny Philip)'s there Danny (Danny Philip)'s running with Mikey (Michael McCoy) Blake (Blake Neff) is already up ahead
+
+### 3. Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’...
+
+**Episode:** [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md)
+**Timestamp:** [00:33:36](/episodes/ep-FGoeoZxDN1c.md#t-00-33-36) 
+<a href="https://www.youtube.com/watch?v=FGoeoZxDN1c&t=2016s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> He had to be reminded that he was with Danny (Danny Philip), who was driving the vehicle
 
 ## Verification
 

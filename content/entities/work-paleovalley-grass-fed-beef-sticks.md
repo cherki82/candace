@@ -1,6 +1,6 @@
 ---
 title: "Paleovalley Grass Fed Beef Sticks"
-description: "Paleovalley Grass Fed Beef Sticks (Works & Media) - 5 mentions"
+description: "Paleovalley Grass Fed Beef Sticks (Works & Media) - 7 mentions"
 id: "work-paleovalley-grass-fed-beef-sticks"
 type: "WORK"
 aliases:
@@ -23,9 +23,9 @@ Source: [Paleovalley — 100% Grass Fed Beef Sticks](https://paleovalley.com/sto
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-work-paleovalley-grass-fed-beef-sticks-t-00-23-54">2026-08-10 · 00:24:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-work-paleovalley-grass-fed-beef-sticks-t-00-39-54">2026-09-01 · 00:40:18</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-work-paleovalley-grass-fed-beef-sticks-t-00-41-34">2026-09-09 · 00:41:48</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [Paleovalley — 100% Grass Fed Beef Sticks](https://paleovalley.com/sto
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-work-paleovalley-grass-fed-beef-sticks-t-00-23-54" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-work-paleovalley-grass-fed-beef-sticks-t-00-42-32" style="--pulse-height:100%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-work-paleovalley-grass-fed-beef-sticks-t-00-39-54" style="--pulse-height:50%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-work-paleovalley-grass-fed-beef-sticks-t-00-40-53" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Paleovalley — 100% Grass Fed Beef Sticks](https://paleovalley.com/sto
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-work-paleovalley-grass-fed-beef-sticks-t-00-23-54) | 2 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-work-paleovalley-grass-fed-beef-sticks-t-00-42-32) | 2 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-work-paleovalley-grass-fed-beef-sticks-t-00-39-54) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-work-paleovalley-grass-fed-beef-sticks-t-00-40-53) | 2 |
 
 </details>
 </section>
@@ -54,7 +56,18 @@ Source: [Paleovalley — 100% Grass Fed Beef Sticks](https://paleovalley.com/sto
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
+
+**[00:41:18](/episodes/ep-bpXkPHpz9po.md#ent-work-paleovalley-grass-fed-beef-sticks-t-00-40-53)**
+> "...a break. All right, you guys, Paleo Valley beef sticks are one of those snacks that don't make you choos..."
+
+**[00:41:48](/episodes/ep-bpXkPHpz9po.md#ent-work-paleovalley-grass-fed-beef-sticks-t-00-41-34)**
+> "... sounds, you should check out Paleo Valley Beef Sticks because once you try them, you'll probably start ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>

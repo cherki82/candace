@@ -1,6 +1,6 @@
 ---
 title: "Illinois"
-description: "Illinois (Places) - 15 mentions"
+description: "Illinois (Places) - 16 mentions"
 id: "gpe-illinois"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Illinois.gov](https://www.illinois.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-illinois-t-00-06-46">2026-01-19 · 00:06:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-gpe-illinois-t-00-26-05">2026-07-31 · 00:26:30</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#t-00-09-00">2026-09-10 · 00:09:00</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [Illinois.gov](https://www.illinois.gov/)
 <a href="/episodes/ep-4DvYXBn_5JI.md#t-00-11-29" style="--pulse-height:17%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-illinois-t-00-21-01" style="--pulse-height:17%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-gpe-illinois-t-00-26-05" style="--pulse-height:17%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#t-00-09-00" style="--pulse-height:17%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Illinois.gov](https://www.illinois.gov/)
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#t-00-11-29) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-illinois-t-00-21-01) | 1 |
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-illinois-t-00-26-05) | 1 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#t-00-09-00) | 1 |
 
 </details>
 </section>
@@ -62,7 +64,15 @@ Source: [Illinois.gov](https://www.illinois.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:09:00](/episodes/ep-S07n8TnRT0Q.md#t-00-09-00)**
+> "Basically the very beginning of [names unclear in archival clip], and it’s been amazing. So I started this organisation when I was eighteen years old, born and raised in Chicago, Illinois."
+
+</details>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>

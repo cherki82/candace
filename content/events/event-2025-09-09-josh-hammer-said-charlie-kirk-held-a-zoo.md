@@ -17,7 +17,7 @@ time: "18:00"
 
 > Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi.
 
-## Mentioned In (8 times)
+## Mentioned In (10 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -82,3 +82,19 @@ time: "18:00"
 <a href="https://www.youtube.com/watch?v=1FhY-koMuWM&t=2087s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So, the next day we had a meeting. ... a Zoom meeting with a couple of people in Israel and a couple of people in the room. ... and another person, an expert on Israel in the United States, and we were asking them, and Charlie was asking them, tell me your perspective on what's going on with Hamas now and the Israeli situation. ... Tell me, I want to be better able to answer questions when I get questions on this. So contrary to popular opinion, some popular opinion that Charlie was giving up on Israel, that's not true. ... He was trying to prepare himself to know the facts and be better able to answer those questions. ... This is the day before he was murdered. ... We're in this meeting. I'm in the meeting with him.
+
+### 9. Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’...
+
+**Episode:** [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md)
+**Timestamp:** [00:53:21](/episodes/ep-FGoeoZxDN1c.md#event-event-2025-09-09-josh-hammer-said-charlie-kirk-held-a-zoo-t-00-52-52) 
+<a href="https://www.youtube.com/watch?v=FGoeoZxDN1c&t=3201s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Sorry, I'm saying FaceTime. I meant Zoom call because he was in Arizona at the time. We've got Josh Hammer and we're supposed to believe this massive call which came on the heels.
+
+### 10. EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back Fr...
+
+**Episode:** [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md)
+**Timestamp:** [00:07:25](/episodes/ep-bpXkPHpz9po.md#t-00-06-53) 
+<a href="https://www.youtube.com/watch?v=bpXkPHpz9po&t=445s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Frank would then join Charlie the next day for that now infamous Zoom call because Charlie desperately needed help with debating.

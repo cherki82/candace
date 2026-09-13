@@ -25,13 +25,23 @@ veracity: "mixed"
 - [Australia](/entities/gpe-australia.md) (gpe)
 - [Zionism](/entities/concept-zionism.md) (concept)
 
-## Source
+## Appearances (2)
+
+### 1. CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:34:39](/episodes/ep-QRS_hR7NXaQ.md#t-00-34-29) 
 <a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=2079s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I was supposed to go on that tour in Australia, but I got blocked by the Zionist lobby of Australia.
+
+### 2. Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’...
+
+**Episode:** [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md)
+**Timestamp:** [00:23:25](/episodes/ep-FGoeoZxDN1c.md#t-00-22-59) 
+<a href="https://www.youtube.com/watch?v=FGoeoZxDN1c&t=1405s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Zionist lobby of Australia getting me banned like I'm some threat to society because in politics you have to be pro-Israel or get destroyed and have your character destroyed.
 
 ## Verification
 

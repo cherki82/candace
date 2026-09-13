@@ -1,6 +1,6 @@
 ---
 title: "Google Play"
-description: "Google Play (Organizations) - 2 mentions"
+description: "Google Play (Organizations) - 3 mentions"
 id: "org-google-play"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Helping Developers Succeed — Google Play](https://support.google.com/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-org-google-play-t-00-38-23">2025-12-16 · 00:38:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-org-google-play-t-00-24-05">2025-12-17 · 00:24:10</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-google-play-t-00-50-58">2026-09-08 · 00:51:18</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Helping Developers Succeed — Google Play](https://support.google.com/
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-org-google-play-t-00-38-23" style="--pulse-height:100%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-google-play-t-00-24-05" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-google-play-t-00-50-58" style="--pulse-height:100%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Helping Developers Succeed — Google Play](https://support.google.com/
 |---|---|---:|
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-google-play-t-00-38-23) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-google-play-t-00-24-05) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-google-play-t-00-50-58) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Helping Developers Succeed — Google Play](https://support.google.com/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:51:18](/episodes/ep-FGoeoZxDN1c.md#ent-org-google-play-t-00-50-58)**
+> "... K-E-E-T, in the App Store or Google Play."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>

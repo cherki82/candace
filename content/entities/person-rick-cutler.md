@@ -1,6 +1,6 @@
 ---
 title: "Rick Cutler"
-description: "Rick Cutler (People) - 33 mentions"
+description: "Rick Cutler (People) - 38 mentions"
 id: "person-rick-cutler"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-rick-cutler-t-01-17-26">2026-01-09 · 01:17:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#t-00-08-04">2026-08-04 · 00:08:31</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-rick-cutler-t-00-52-19">2026-09-09 · 00:52:40</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-person-rick-cutler-t-00-15-12" style="--pulse-height:15%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 2 mentions" title="2026-07-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-person-rick-cutler-t-00-05-03" style="--pulse-height:46%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 6 mentions" title="2026-08-03 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#t-00-08-04" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-rick-cutler-t-00-13-45" style="--pulse-height:38%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 5 mentions" title="2026-09-09 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-person-rick-cutler-t-00-15-12) | 2 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-person-rick-cutler-t-00-05-03) | 6 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#t-00-08-04) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-rick-cutler-t-00-13-45) | 5 |
 
 </details>
 </section>
@@ -67,7 +69,27 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5 mentions)</summary>
+
+**[00:13:52](/episodes/ep-bpXkPHpz9po.md#ent-person-rick-cutler-t-00-13-45)**
+> "...ike I said, even suggest that Rick Cutler got involved where Cutler was just holding him be..."
+
+**[00:21:35](/episodes/ep-bpXkPHpz9po.md#ent-person-rick-cutler-t-00-21-35)**
+> "...Frank Turek. That is actually Rick Cutler, and he's in head-to-toe surgical scrubs."
+
+**[00:22:27](/episodes/ep-bpXkPHpz9po.md#ent-person-rick-cutler-t-00-22-13)**
+> "...rried Charlie (Charlie Kirk). Rick Cutler certainly carried Charlie (Charlie Kirk) and was ..."
+
+**[00:25:20](/episodes/ep-bpXkPHpz9po.md#ent-person-rick-cutler-t-00-25-01)**
+> "...he corner in the white hat is Rick Cutler."
+
+**[00:52:40](/episodes/ep-bpXkPHpz9po.md#ent-person-rick-cutler-t-00-52-19)**
+> "...st want to talk. Maybe you're Rick Cutler and you want to talk."
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
@@ -228,7 +250,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rick Cutler (8)</strong></summary>
+<summary><strong class="section-title">Statements about Rick Cutler (9)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:21:14](/episodes/ep-bpXkPHpz9po.md#t-00-20-54) (Claim) **Candace Owens**: ["Owens said footage of the group returning to UVU after 8:30 p.m. Septe..."](/statements/statement-7c9ba0235666.md)
+  - Also about: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md), [Justin Davis](/entities/person-justin-davis.md), [Dan Flood](/entities/person-dan-flood.md)
+
+</details>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>

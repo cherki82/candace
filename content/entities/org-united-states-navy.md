@@ -1,6 +1,6 @@
 ---
 title: "United States Navy"
-description: "United States Navy (Organizations) - 33 mentions"
+description: "United States Navy (Organizations) - 35 mentions"
 id: "org-united-states-navy"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-48-05">2025-09-22 · 00:48:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-navy-t-00-22-30">2026-07-29 · 00:28:15</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#t-00-02-03">2026-09-09 · 00:02:03</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>27</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>29</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -59,6 +59,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-navy-t-00-07-45" style="--pulse-height:25%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#t-00-02-41" style="--pulse-height:25%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-navy-t-00-22-30" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 4 mentions" title="2026-07-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#t-00-01-19" style="--pulse-height:50%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +88,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-navy-t-00-07-45) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#t-00-02-41) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-navy-t-00-22-30) | 4 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#t-00-01-19) | 2 |
 
 </details>
 </section>
@@ -98,7 +100,18 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
+
+**[00:01:51](/episodes/ep-bpXkPHpz9po.md#t-00-01-19)**
+> "...rek Pepper Williams, a former Navy SEAL who worked in naval special warfare operatio..."
+
+**[00:02:03](/episodes/ep-bpXkPHpz9po.md#t-00-02-03)**
+> "Once he retired from the Navy, he went on to work for PGL as a government defen..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (4 mentions)</summary>
@@ -339,7 +352,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details>
-<summary>Formerly Employed (9)</summary>
+<summary>Formerly Employed (10)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -406,6 +419,13 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 </details>
 
+- **[Derek "Pepper" Williams](/entities/person-derek-pepper-williams.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:01:51](/episodes/ep-bpXkPHpz9po.md#t-00-01-19): “Derek Pepper Williams, a former Navy SEAL who worked in naval special warfare operations.”
+
+</details>
+
 </details>
 
 <details>
@@ -433,7 +453,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details>
-<summary>Referenced By (14)</summary>
+<summary>Referenced By (15)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -500,6 +520,13 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 </details>
 
+- **[Derek "Pepper" Williams](/entities/person-derek-pepper-williams.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:01:51](/episodes/ep-bpXkPHpz9po.md#t-00-01-19): “Derek Pepper Williams, a former Navy SEAL who worked in naval special warfare operations.”
+
+</details>
+
 - **[BILT Incorporated](/entities/org-bilt-incorporated.md)** funded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -541,7 +568,15 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Navy (7)</strong></summary>
+<summary><strong class="section-title">Statements about United States Navy (8)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:01:51](/episodes/ep-bpXkPHpz9po.md#t-00-01-19) (Claim) **Candace Owens**: ["Owens said Derek "Pepper" Williams was a former Navy SEAL who joined P..."](/statements/statement-0522d8ea902f.md)
+  - Also about: [Derek "Pepper" Williams](/entities/person-derek-pepper-williams.md), [Perimeter Global Logistics](/entities/org-perimeter-global-logistics.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2)</summary>

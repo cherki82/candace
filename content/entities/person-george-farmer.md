@@ -1,6 +1,6 @@
 ---
 title: "George Farmer"
-description: "George Farmer (People) - 108 mentions"
+description: "George Farmer (People) - 112 mentions"
 id: "person-george-farmer"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37">2025-09-11 · 00:00:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-george-farmer-t-00-52-54">2026-09-02 · 00:52:54</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>108</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-george-farmer-t-00-13-14">2026-09-10 · 00:13:20</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>112</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -63,6 +63,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-42-33" style="--pulse-height:9%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-00-01" style="--pulse-height:32%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 7 mentions" title="2026-08-31 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-george-farmer-t-00-52-54" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-george-farmer-t-00-02-42" style="--pulse-height:18%" aria-label="One Year On… To My Friend Charlie Kirk.: 4 mentions" title="2026-09-10 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -100,6 +101,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-42-33) | 2 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-george-farmer-t-00-00-01) | 7 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-george-farmer-t-00-52-54) | 1 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-george-farmer-t-00-02-42) | 4 |
 
 </details>
 </section>
@@ -107,7 +109,24 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+<summary><strong class="section-title">Raw mentions (112)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (4 mentions)</summary>
+
+**[00:02:42](/episodes/ep-S07n8TnRT0Q.md#ent-person-george-farmer-t-00-02-42)**
+> "...were betrayed. I told George (George Farmer) that as we prayed in his office, I said, they be..."
+
+**[00:03:58](/episodes/ep-S07n8TnRT0Q.md#ent-person-george-farmer-t-00-03-58)**
+> "...ment and the way that George (George Farmer) looked at me across the table as I sat there mov..."
+
+**[00:04:20](/episodes/ep-S07n8TnRT0Q.md#ent-person-george-farmer-t-00-03-58)**
+> "And George (George Farmer) looked at me with all of the strength and the pa..."
+
+**[00:13:20](/episodes/ep-S07n8TnRT0Q.md#ent-person-george-farmer-t-00-13-14)**
+> "Meeting George (George Farmer), an unplanned trip. Saved my life."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
@@ -814,7 +833,15 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Farmer (21)</strong></summary>
+<summary><strong class="section-title">Statements about George Farmer (22)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1)</summary>
+
+- [00:02:42](/episodes/ep-S07n8TnRT0Q.md#t-00-02-42) (Opinion) **Candace Owens** (via quoted document): ["Reading her mid-October 2025 journal, Owens recalled telling George Fa..."](/statements/statement-053d1ffe06ed.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 (1)</summary>

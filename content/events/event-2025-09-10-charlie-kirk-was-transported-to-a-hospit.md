@@ -16,7 +16,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was transported to a hospital in an SUV after he was shot.
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
 
@@ -57,3 +57,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=946s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > If suddenly Justin Davis, who is driving the car on the left-hand side, now has to drive Christopher's vehicle to the hospital. ... At the very least, if that's the circumstance and they decide this is the vehicle that we want to take and we're going to take this in a hurry because they get Charlie in that car within 45 seconds, right?
+
+### 6. EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back Fr...
+
+**Episode:** [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md)
+**Timestamp:** [00:10:56](/episodes/ep-bpXkPHpz9po.md#event-event-2025-09-10-charlie-kirk-was-transported-to-a-hospit-t-00-10-45) 
+<a href="https://www.youtube.com/watch?v=bpXkPHpz9po&t=656s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> It's got to stop the bleeding and so that was primary, you know, that's the chief complaint from the patient that I have right here and so I'm going after that bleed control trying to stop that and so we go to the hospital I'm just working in the whole time out of that out of the kit and just putting them on.

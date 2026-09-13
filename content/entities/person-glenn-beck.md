@@ -1,6 +1,6 @@
 ---
 title: "Glenn Beck"
-description: "Glenn Beck (People) - 43 mentions"
+description: "Glenn Beck (People) - 44 mentions"
 id: "person-glenn-beck"
 type: "PERSON"
 categories:
@@ -17,9 +17,9 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-glenn-beck-t-00-07-38">2025-09-23 · 00:07:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-glenn-beck-t-00-40-31">2026-09-03 · 00:40:31</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-glenn-beck-t-00-48-55">2026-09-08 · 00:49:22</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -53,6 +53,7 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-glenn-beck-t-00-51-31" style="--pulse-height:12%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-glenn-beck-t-00-16-58" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-glenn-beck-t-00-27-41" style="--pulse-height:25%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-glenn-beck-t-00-48-55" style="--pulse-height:12%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -81,6 +82,7 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-glenn-beck-t-00-51-31) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-glenn-beck-t-00-16-58) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-glenn-beck-t-00-27-41) | 2 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-glenn-beck-t-00-48-55) | 1 |
 
 </details>
 </section>
@@ -92,7 +94,15 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:49:22](/episodes/ep-FGoeoZxDN1c.md#ent-person-glenn-beck-t-00-48-55)**
+> "...eaking at that event. I think Glenn Beck. Is Erika (Erika Kirk) speaking there?"
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>

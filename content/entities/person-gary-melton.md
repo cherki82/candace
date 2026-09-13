@@ -1,6 +1,6 @@
 ---
 title: "Gary Melton"
-description: "Gary Melton (People) - 21 mentions"
+description: "Gary Melton (People) - 22 mentions"
 id: "person-gary-melton"
 type: "PERSON"
 aliases:
@@ -27,10 +27,10 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#t-00-21-10">2026-05-06 · 00:21:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-gary-melton-t-00-34-22">2026-07-23 · 00:34:24</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -64,7 +64,7 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
@@ -177,6 +177,18 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 </details>
 
 <details>
+<summary>Interviewed (1)</summary>
+
+- **[Brian Harpole](/entities/person-brian-harpole.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:10:23](/episodes/ep-bpXkPHpz9po.md#t-00-10-23): “Was CPR being conducted during this time? ... You know, no, because right now I got to stop that bleeding.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Operates (1)</summary>
 
 - **[Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)**
@@ -189,7 +201,7 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -204,6 +216,13 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:39:55](/episodes/ep-Pb7UlpRdW6U.md#t-00-39-55): “served as a green beret i'm terrified that china represents a threat not because of their data centers that are expanding but because they might have smarter people than gary melton like this this is a military operative turning point is turning to him for public relations and he doesn't even understand the functionality of an alibi he just he doesn't understand why people are obviously concerned about the fact That his alibi has now been completely debunked. Now he just says it doesn't matter whose kid it is.”
+
+</details>
+
+- **[Brian Harpole](/entities/person-brian-harpole.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:10:23](/episodes/ep-bpXkPHpz9po.md#t-00-10-23): “Was CPR being conducted during this time? ... You know, no, because right now I got to stop that bleeding.”
 
 </details>
 

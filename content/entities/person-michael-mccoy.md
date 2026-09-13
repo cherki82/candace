@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 402 mentions"
+description: "Michael McCoy (People) - 407 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-18">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-52-14">2026-09-03 · 00:52:42</a></strong></div>
-<div><span>Episodes</span><strong>78</strong></div>
-<div><span>Mentions</span><strong>402</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-michael-mccoy-t-00-25-42">2026-09-09 · 00:25:42</a></strong></div>
+<div><span>Episodes</span><strong>79</strong></div>
+<div><span>Mentions</span><strong>407</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>109</strong></div>
+<div><span>Statements about</span><strong>110</strong></div>
 <div><span>Relationships</span><strong>53</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -115,6 +115,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-20-31" style="--pulse-height:33%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 11 mentions" title="2026-09-01 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-13-39" style="--pulse-height:73%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 24 mentions" title="2026-09-02 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-03-44" style="--pulse-height:27%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 9 mentions" title="2026-09-03 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-michael-mccoy-t-00-14-54" style="--pulse-height:15%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 5 mentions" title="2026-09-09 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -198,6 +199,7 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-michael-mccoy-t-00-20-31) | 11 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-michael-mccoy-t-00-13-39) | 24 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-michael-mccoy-t-00-03-44) | 9 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-michael-mccoy-t-00-14-54) | 5 |
 
 </details>
 </section>
@@ -209,7 +211,27 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (402)</strong></summary>
+<summary><strong class="section-title">Raw mentions (407)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5 mentions)</summary>
+
+**[00:14:54](/episodes/ep-bpXkPHpz9po.md#ent-person-michael-mccoy-t-00-14-54)**
+> "... call from you or from Mikey (Michael McCoy)."
+
+**[00:15:08](/episodes/ep-bpXkPHpz9po.md#ent-person-michael-mccoy-t-00-15-08)**
+> "...got the first call from Mike (Michael McCoy). I was in the emergency room after we got Charli..."
+
+**[00:15:19](/episodes/ep-bpXkPHpz9po.md#ent-person-michael-mccoy-t-00-15-19)**
+> "Okay, so Mikey (Michael McCoy) called, and he said..."
+
+**[00:17:52](/episodes/ep-bpXkPHpz9po.md#ent-person-michael-mccoy-t-00-17-31)**
+> "...arned were provided by Mikey (Michael McCoy), another strange development that the hospital s..."
+
+**[00:25:42](/episodes/ep-bpXkPHpz9po.md#ent-person-michael-mccoy-t-00-25-42)**
+> "...about this story about Mikey (Michael McCoy) handing out surgical scrubs. Did more security g..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (9 mentions)</summary>
@@ -1957,10 +1979,11 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 <summary>Formerly Worked For (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:23:37](/episodes/ep-mFuno0TuuQQ.md#t-00-23-00): “So weird, Mikey (former Charlie Kirk intern/assistant; surname unverified) didn't. Went straight from high school, was just Charlie (Charlie Kirk)'s intern assistant and now he's sitting down with board members and discussing how they should invest into restaurants.”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:17:52](/episodes/ep-bpXkPHpz9po.md#t-00-17-31): “Which we then learned were provided by Mikey (Michael McCoy), another strange development that the hospital staff would just give them out that wouldn't just give them out themselves, like here you guys go, but they would instead give them to Charlie (Charlie Kirk)'s young assistant who arrived later.”
 
 </details>
 
@@ -2197,10 +2220,11 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:23:37](/episodes/ep-mFuno0TuuQQ.md#t-00-23-00): “So weird, Mikey (former Charlie Kirk intern/assistant; surname unverified) didn't. Went straight from high school, was just Charlie (Charlie Kirk)'s intern assistant and now he's sitting down with board members and discussing how they should invest into restaurants.”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:17:52](/episodes/ep-bpXkPHpz9po.md#t-00-17-31): “Which we then learned were provided by Mikey (Michael McCoy), another strange development that the hospital staff would just give them out that wouldn't just give them out themselves, like here you guys go, but they would instead give them to Charlie (Charlie Kirk)'s young assistant who arrived later.”
 
 </details>
 
@@ -2385,7 +2409,15 @@ Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a F
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (109)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (110)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:17:52](/episodes/ep-bpXkPHpz9po.md#t-00-17-31) (Claim) **Candace Owens**: ["Owens said Michael McCoy provided hospital scrubs to the group after a..."](/statements/statement-0ca6e225c1a8.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2)</summary>

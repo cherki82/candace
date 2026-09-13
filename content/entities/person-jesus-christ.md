@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 387 mentions"
+description: "Jesus Christ (People) - 391 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-58-33">2026-09-02 · 00:58:54</a></strong></div>
-<div><span>Episodes</span><strong>127</strong></div>
-<div><span>Mentions</span><strong>387</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-jesus-christ-t-00-06-37">2026-09-10 · 00:06:49</a></strong></div>
+<div><span>Episodes</span><strong>130</strong></div>
+<div><span>Mentions</span><strong>391</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -163,6 +163,9 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-jesus-christ-t-00-08-13" style="--pulse-height:18%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jesus-christ-t-00-28-34" style="--pulse-height:18%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-58-33" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-jesus-christ-t-00-30-12" style="--pulse-height:9%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-jesus-christ-t-00-26-27" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-jesus-christ-t-00-06-37" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -295,6 +298,9 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-jesus-christ-t-00-08-13) | 4 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-jesus-christ-t-00-28-34) | 4 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#t-00-58-33) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-jesus-christ-t-00-30-12) | 2 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-jesus-christ-t-00-26-27) | 1 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-jesus-christ-t-00-06-37) | 1 |
 
 </details>
 </section>
@@ -302,7 +308,34 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (387)</strong></summary>
+<summary><strong class="section-title">Raw mentions (391)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:06:49](/episodes/ep-S07n8TnRT0Q.md#ent-person-jesus-christ-t-00-06-37)**
+> "... anathema to all teachings of Christ."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:27:06](/episodes/ep-bpXkPHpz9po.md#ent-person-jesus-christ-t-00-26-27)**
+> "...o thousands of commitments to Christ."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2 mentions)</summary>
+
+**[00:30:12](/episodes/ep-FGoeoZxDN1c.md#ent-person-jesus-christ-t-00-30-12)**
+> "...o thousands of commitments to Christ."
+
+**[00:56:29](/episodes/ep-FGoeoZxDN1c.md#ent-person-jesus-christ-t-00-56-03)**
+> "Christ is king. I will be announcing soon who is going t..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>

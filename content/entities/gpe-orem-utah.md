@@ -1,6 +1,6 @@
 ---
 title: "Orem, Utah"
-description: "Orem, Utah (Places) - 36 mentions"
+description: "Orem, Utah (Places) - 39 mentions"
 id: "gpe-orem-utah"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [City of Orem official website](https://orem.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-20-31">2025-09-16 · 00:20:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#t-00-22-30">2026-08-10 · 00:22:40</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#t-00-36-09">2026-09-09 · 00:36:09</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -50,6 +50,8 @@ Source: [City of Orem official website](https://orem.gov/)
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-orem-utah-t-00-39-28" style="--pulse-height:33%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1CFDtD0IgEg.md#t-00-32-41" style="--pulse-height:17%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#t-00-17-09" style="--pulse-height:67%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 4 mentions" title="2026-08-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-orem-utah-t-00-36-15" style="--pulse-height:17%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#t-00-35-24" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +72,8 @@ Source: [City of Orem official website](https://orem.gov/)
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-orem-utah-t-00-39-28) | 2 |
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#t-00-32-41) | 1 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#t-00-17-09) | 4 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-orem-utah-t-00-36-15) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#t-00-35-24) | 2 |
 
 </details>
 </section>
@@ -81,7 +85,26 @@ Source: [City of Orem official website](https://orem.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
+
+**[00:35:41](/episodes/ep-bpXkPHpz9po.md#t-00-35-24)**
+> "...iggs) that evening put him in Orem by 11, 11.45 p.m., okay?"
+
+**[00:36:09](/episodes/ep-bpXkPHpz9po.md#t-00-36-09)**
+> "...en able to make it back up to Orem."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:36:54](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-orem-utah-t-00-36-15)**
+> "...ng in the waiting room at the Orem, Utah hospital where Kirk was taken on September 10th."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (4 mentions)</summary>

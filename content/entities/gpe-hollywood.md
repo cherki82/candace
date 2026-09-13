@@ -1,6 +1,6 @@
 ---
 title: "Hollywood"
-description: "Hollywood (Places) - 116 mentions"
+description: "Hollywood (Places) - 117 mentions"
 id: "gpe-hollywood"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-hollywood-t-00-12-30">2025-09-18 · 00:12:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-hollywood-t-00-44-42">2026-08-07 · 00:44:51</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>116</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-hollywood-t-00-19-11">2026-09-08 · 00:19:11</a></strong></div>
+<div><span>Episodes</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>117</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -77,6 +77,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-hollywood-t-00-00-35" style="--pulse-height:13%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-31-41" style="--pulse-height:100%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 15 mentions" title="2026-08-06 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-hollywood-t-00-44-42" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-hollywood-t-00-19-11" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -123,6 +124,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-hollywood-t-00-00-35) | 2 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-31-41) | 15 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-hollywood-t-00-44-42) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-hollywood-t-00-19-11) | 1 |
 
 </details>
 </section>
@@ -134,7 +136,15 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (116)</strong></summary>
+<summary><strong class="section-title">Raw mentions (117)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:19:11](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-hollywood-t-00-19-11)**
+> "...'t talk about Jewish power in Hollywood or the messages that certain Jewish people in you..."
+
+</details>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>

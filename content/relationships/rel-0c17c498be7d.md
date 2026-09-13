@@ -11,7 +11,7 @@ object: "person-frank-turek"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized by [Frank Turek](/entities/person-frank-turek)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -36,6 +36,10 @@ object: "person-frank-turek"
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 
 - [00:39:02](/episodes/ep-Wjul6YV6izo#t-00-39-02): _I think Candace Owens is completely lost any credibility when she's saying that certain dreams. ... are where she's getting her information from,_
+
+**[EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po)**
+
+- [00:06:18](/episodes/ep-bpXkPHpz9po#t-00-06-18): _We've seen lies. We've seen accusations and we've seen slander with no evidence. Yeah, I'm talking to you, Candace Owens._
 
 **[What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Deep state"
-description: "Deep state (Concepts) - 11 mentions"
+description: "Deep state (Concepts) - 15 mentions"
 id: "concept-deep-state"
 type: "CONCEPT"
 categories:
@@ -14,9 +14,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-concept-deep-state-t-00-16-48">2025-12-05 · 00:17:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-deep-state-t-00-22-32">2026-06-26 · 00:22:59</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-deep-state-t-00-47-07">2026-09-08 · 00:47:30</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -25,13 +25,14 @@ _Type: Concepts_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-deep-state-t-00-00-00">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-deep-state-t-00-41-07">Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-concept-deep-state-t-00-16-48" style="--pulse-height:67%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-deep-state-t-00-00-00" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-deep-state-t-00-28-44" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-deep-state-t-00-24-00" style="--pulse-height:33%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-deep-state-t-00-00-45" style="--pulse-height:67%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-concept-deep-state-t-00-16-48" style="--pulse-height:50%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-deep-state-t-00-00-00" style="--pulse-height:75%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-deep-state-t-00-28-44" style="--pulse-height:75%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-deep-state-t-00-24-00" style="--pulse-height:25%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-deep-state-t-00-00-45" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-deep-state-t-00-41-07" style="--pulse-height:100%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 4 mentions" title="2026-09-08 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ _Type: Concepts_
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-deep-state-t-00-28-44) | 3 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-deep-state-t-00-24-00) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-deep-state-t-00-00-45) | 2 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-concept-deep-state-t-00-41-07) | 4 |
 
 </details>
 </section>
@@ -53,7 +55,24 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (4 mentions)</summary>
+
+**[00:41:32](/episodes/ep-FGoeoZxDN1c.md#ent-concept-deep-state-t-00-41-07)**
+> "...at they are, a fixture of the deep state apparatus."
+
+**[00:42:46](/episodes/ep-FGoeoZxDN1c.md#ent-concept-deep-state-t-00-42-46)**
+> "...ent of War. You work with the deep state apparatus."
+
+**[00:47:07](/episodes/ep-FGoeoZxDN1c.md#ent-concept-deep-state-t-00-47-07)**
+> "...Times, which is a part of the deep state apparatus, factually speaking?"
+
+**[00:47:30](/episodes/ep-FGoeoZxDN1c.md#ent-concept-deep-state-t-00-47-07)**
+> "...Times, which is a part of the deep state apparatus, factually speaking."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>

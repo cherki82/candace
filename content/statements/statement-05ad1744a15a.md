@@ -25,13 +25,23 @@ veracity: "true"
 
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:10:09](/episodes/ep-_dRaEO47-co.md#t-00-09-57) 
 <a href="https://www.youtube.com/watch?v=_dRaEO47-co&t=609s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > So you can only imagine when just a couple of months later, we've been listening to Kanye's old albums on repeat, suddenly Kanye West tweets, “I love the way Candace (Candace Owens) thinks.”
+
+### 2. One Year On… To My Friend Charlie Kirk.
+
+**Episode:** [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md)
+**Timestamp:** [00:12:43](/episodes/ep-S07n8TnRT0Q.md#t-00-12-32) 
+<a href="https://www.youtube.com/watch?v=S07n8TnRT0Q&t=763s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Weeks later, Kanye (Kanye West) tweets, I love the way Candace Owens thinks and it rips a hole in the universe. We fly out to see him and just two weeks after that, you and I are standing in Israel.
 
 ## Verification
 

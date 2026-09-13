@@ -1,6 +1,6 @@
 ---
 title: "The Wellness Company"
-description: "The Wellness Company (Organizations) - 101 mentions"
+description: "The Wellness Company (Organizations) - 104 mentions"
 id: "org-the-wellness-company"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29">2025-09-17 · 00:59:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-the-wellness-company-t-00-29-09">2026-08-18 · 00:29:20</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>101</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-the-wellness-company-t-00-30-56">2026-09-08 · 00:31:11</a></strong></div>
+<div><span>Episodes</span><strong>38</strong></div>
+<div><span>Mentions</span><strong>104</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -74,6 +74,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41" style="--pulse-height:20%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-the-wellness-company-t-00-53-21" style="--pulse-height:40%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-the-wellness-company-t-00-28-26" style="--pulse-height:40%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-the-wellness-company-t-00-30-12" style="--pulse-height:60%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 3 mentions" title="2026-09-08 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -116,6 +117,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-the-wellness-company-t-00-53-21) | 2 |
 | 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-the-wellness-company-t-00-28-26) | 2 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-wellness-company-t-00-30-12) | 3 |
 
 </details>
 </section>
@@ -123,7 +125,21 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (101)</strong></summary>
+<summary><strong class="section-title">Raw mentions (104)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (3 mentions)</summary>
+
+**[00:30:39](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-wellness-company-t-00-30-12)**
+> "...want to remind you guys about the Wellness Company because if it's 2 a.m. and you have a sore throat..."
+
+**[00:30:56](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-wellness-company-t-00-30-56)**
+> "The Wellness Company created the medical emergency kit for this exact ..."
+
+**[00:31:11](/episodes/ep-FGoeoZxDN1c.md#ent-org-the-wellness-company-t-00-30-56)**
+> "Wellness Company published a study of over 500. 500 medical kit ow..."
+
+</details>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>

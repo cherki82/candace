@@ -1,6 +1,6 @@
 ---
 title: "Danny Philip"
-description: "Danny Philip (People) - 38 mentions"
+description: "Danny Philip (People) - 42 mentions"
 id: "person-danny-philip"
 type: "PERSON"
 categories:
@@ -19,11 +19,11 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-15-14">2026-07-14 · 00:15:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-danny-philip-t-00-12-36">2026-09-03 · 00:13:02</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-danny-philip-t-00-38-16">2026-09-08 · 00:38:27</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-danny-philip-t-00-19-47" style="--pulse-height:20%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-14-18" style="--pulse-height:87%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 13 mentions" title="2026-09-02 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-danny-philip-t-00-12-36" style="--pulse-height:13%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 2 mentions" title="2026-09-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-danny-philip-t-00-32-57" style="--pulse-height:27%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 4 mentions" title="2026-09-08 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-danny-philip-t-00-19-47) | 3 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-danny-philip-t-00-14-18) | 13 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-danny-philip-t-00-12-36) | 2 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-danny-philip-t-00-32-57) | 4 |
 
 </details>
 </section>
@@ -66,7 +68,24 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (4 mentions)</summary>
+
+**[00:33:11](/episodes/ep-FGoeoZxDN1c.md#ent-person-danny-philip-t-00-32-57)**
+> "...e second rental, Denali, with Danny Philip and perhaps some other people because Blake (Blak..."
+
+**[00:33:26](/episodes/ep-FGoeoZxDN1c.md#ent-person-danny-philip-t-00-32-57)**
+> "We know that neither Danny (Danny Philip) or Blake (Blake Neff) attend the Restaurantology..."
+
+**[00:33:36](/episodes/ep-FGoeoZxDN1c.md#ent-person-danny-philip-t-00-33-36)**
+> "...inded that he was with Danny (Danny Philip), who was driving the vehicle, which is strange b..."
+
+**[00:38:27](/episodes/ep-FGoeoZxDN1c.md#ent-person-danny-philip-t-00-38-16)**
+> "...s amnesia, it's usually about Danny Philip for some reason."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2 mentions)</summary>
@@ -407,7 +426,18 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Danny Philip (19)</strong></summary>
+<summary><strong class="section-title">Statements about Danny Philip (21)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2)</summary>
+
+- [00:33:26](/episodes/ep-FGoeoZxDN1c.md#t-00-32-57) (Claim) **Candace Owens**: ["Owens said neither Danny Philip nor Blake Neff attended the Restaurant..."](/statements/statement-cd4dd34a56a7.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Restaurantology](/entities/work-restaurantology.md)
+
+- [00:38:27](/episodes/ep-FGoeoZxDN1c.md#t-00-38-16) (Opinion) **Candace Owens**: ["Owens speculated that the unnamed hospital interlocutor might have bee..."](/statements/statement-f674ad37d48b.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3)</summary>

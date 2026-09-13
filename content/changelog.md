@@ -5,6 +5,43 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-09-11 20:54:30
+
+**Added 2 episode(s):**
+  - `S07n8TnRT0Q`: One Year On… To My Friend Charlie Kirk.
+  - `bpXkPHpz9po`: EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385
+**Added 16 new entity/entities**
+**Added 8 new event(s)**
+**Added 55 new statement(s)**
+**Added 24 new relationship(s)**
+
+**Totals:**
+- Episodes: 166
+- Entities: 4671
+- Events: 1826
+- Statements: 7301
+- Relationships: 5153
+
+---
+
+## 2026-09-09 09:41:52
+
+**Added 1 episode(s):**
+  - `FGoeoZxDN1c`: Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384
+**Added 25 new entity/entities**
+**Added 8 new event(s)**
+**Added 46 new statement(s)**
+**Added 20 new relationship(s)**
+
+**Totals:**
+- Episodes: 164
+- Entities: 4655
+- Events: 1818
+- Statements: 7246
+- Relationships: 5129
+
+---
+
 ## 2026-09-04 09:52:17
 
 **Added 1 episode(s):**

@@ -23,13 +23,23 @@ type: "opinion"
 - [Frank Turek](/entities/person-frank-turek.md) (person)
 - [Brian Harpole](/entities/person-brian-harpole.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Re...
 
 **Episode:** [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md)
 **Timestamp:** [00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01) 
 <a href="https://www.youtube.com/watch?v=1FhY-koMuWM&t=841s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Now, I do want to say regarding Alex Faria falling out of that car, it's a bit of a wonder that a pastor would think it's wise for him to be in the car above security on the way to the hospital. You would think that he would yield to security and say, OK, I'll find my own way. ... I think that feels mildly inappropriate, given the circumstances. And speaking of Frank Turek, there are a lot of things that he has said about that day that are questionable. I mean, definitely the CPR, the CPR story to me is the most senseless. ... His excuse that Brian Harpole was distracted and forgot that he conducted CPR on a dying person in the veh— ... In the very small vehicle, I don't think Harpole (Brian Harpole) just forgot that. I actually think Harpole (Brian Harpole) told the truth between the two of them, if I'm being honest, when he said that no CPR was conducted in the car. I don't think he was distracted.
+
+### 2. EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back Fr...
+
+**Episode:** [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md)
+**Timestamp:** [00:12:43](/episodes/ep-bpXkPHpz9po.md#t-00-12-25) 
+<a href="https://www.youtube.com/watch?v=bpXkPHpz9po&t=763s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> So I had to ask myself the obvious. If I believe Frank (Frank Turek) is lying and that Brian (Brian Harpole) is telling the truth, which is what I believe. ... And I don't believe it's just a discrepancy because Brian (Brian Harpole) said it across multiple interviews. Then I have to ask myself, why would Frank (Frank Turek) be lying just to be to write himself in as a hero?
 
 ## Verification
 

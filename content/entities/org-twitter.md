@@ -1,6 +1,6 @@
 ---
 title: "Twitter"
-description: "Twitter (Organizations) - 107 mentions"
+description: "Twitter (Organizations) - 108 mentions"
 id: "org-twitter"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-twitter-t-00-12-01">2025-09-15 · 00:12:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#t-00-02-10">2026-09-03 · 00:02:24</a></strong></div>
-<div><span>Episodes</span><strong>69</strong></div>
-<div><span>Mentions</span><strong>107</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#t-00-03-17">2026-09-10 · 00:03:17</a></strong></div>
+<div><span>Episodes</span><strong>70</strong></div>
+<div><span>Mentions</span><strong>108</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -105,6 +105,7 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 <a href="/episodes/ep-_cNtgris8Ik.md#t-00-08-51" style="--pulse-height:20%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40" style="--pulse-height:20%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#t-00-02-10" style="--pulse-height:20%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#t-00-03-17" style="--pulse-height:20%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -179,6 +180,7 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-08-51) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#t-00-00-40) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#t-00-02-10) | 1 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#t-00-03-17) | 1 |
 
 </details>
 </section>
@@ -190,7 +192,15 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:03:17](/episodes/ep-S07n8TnRT0Q.md#t-00-03-17)**
+> "It defied algorithmic norms, Facebook, TikTok, X. Suddenly all of their preventative measures that are designed to catch and remove violence from their platforms immediately malfunctioned that day."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -862,7 +872,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Twitter (14)</strong></summary>
+<summary><strong class="section-title">Statements about Twitter (15)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1)</summary>
+
+- [00:03:08](/episodes/ep-S07n8TnRT0Q.md#t-00-02-42) (Accusation) **Candace Owens** (via quoted document): ["In her journal, Owens alleged that Facebook, TikTok and X’s safeguards..."](/statements/statement-23ebd5e8103b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Facebook](/entities/org-facebook.md), [TikTok](/entities/org-tiktok.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>

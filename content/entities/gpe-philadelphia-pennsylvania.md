@@ -1,6 +1,6 @@
 ---
 title: "Philadelphia, Pennsylvania"
-description: "Philadelphia, Pennsylvania (Places) - 6 mentions"
+description: "Philadelphia, Pennsylvania (Places) - 7 mentions"
 id: "gpe-philadelphia-pennsylvania"
 type: "GPE"
 aliases:
@@ -24,9 +24,9 @@ Source: [City of Philadelphia](https://www.phila.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-philadelphia-pennsylvania-t-00-14-52">2025-09-11 · 00:15:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-philadelphia-pennsylvania-t-00-06-15">2026-06-10 · 00:06:38</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-philadelphia-pennsylvania-t-00-22-19">2026-09-10 · 00:22:19</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [City of Philadelphia](https://www.phila.gov/)
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-philadelphia-pennsylvania-t-01-46-57" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-philadelphia-pennsylvania-t-00-59-35" style="--pulse-height:50%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-philadelphia-pennsylvania-t-00-06-15" style="--pulse-height:50%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-philadelphia-pennsylvania-t-00-22-19" style="--pulse-height:50%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [City of Philadelphia](https://www.phila.gov/)
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-philadelphia-pennsylvania-t-01-46-57) | 2 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-philadelphia-pennsylvania-t-00-59-35) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-philadelphia-pennsylvania-t-00-06-15) | 1 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-philadelphia-pennsylvania-t-00-22-19) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [City of Philadelphia](https://www.phila.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:22:19](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-philadelphia-pennsylvania-t-00-22-19)**
+> "It was Philadelphia, born and raised, on the playground is where I spent most of my days, chillin' out, maxin' and relaxin' all cool and all shootin' some b-ball outside of the school when a couple of guys, they were up to no good."
+
+</details>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Defense"
-description: "United States Department of Defense (Organizations) - 87 mentions"
+description: "United States Department of Defense (Organizations) - 94 mentions"
 id: "org-us-department-of-defense"
 type: "ORG"
 aliases:
@@ -28,11 +28,11 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29">2025-10-28 · 00:31:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-us-department-of-defense-t-00-01-06">2026-09-02 · 00:01:06</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-org-us-department-of-defense-t-00-24-56">2026-09-10 · 00:25:15</a></strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>94</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>54</strong></div>
+<div><span>Statements about</span><strong>57</strong></div>
 <div><span>Relationships</span><strong>26</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -75,6 +75,9 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-00-45" style="--pulse-height:100%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 13 mentions" title="2026-08-31 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-us-department-of-defense-t-00-00-39" style="--pulse-height:31%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-us-department-of-defense-t-00-01-06" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-us-department-of-defense-t-00-26-22" style="--pulse-height:23%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 3 mentions" title="2026-09-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-us-department-of-defense-t-00-02-03" style="--pulse-height:23%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-org-us-department-of-defense-t-00-24-56" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -114,6 +117,9 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-org-us-department-of-defense-t-00-00-45) | 13 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-us-department-of-defense-t-00-00-39) | 4 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-us-department-of-defense-t-00-01-06) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-us-department-of-defense-t-00-26-22) | 3 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-us-department-of-defense-t-00-02-03) | 3 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-org-us-department-of-defense-t-00-24-56) | 1 |
 
 </details>
 </section>
@@ -125,7 +131,43 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+<summary><strong class="section-title">Raw mentions (94)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:25:15](/episodes/ep-S07n8TnRT0Q.md#ent-org-us-department-of-defense-t-00-24-56)**
+> "...t laugh at it all because the Department of War is sending out the real crazies now."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3 mentions)</summary>
+
+**[00:02:10](/episodes/ep-bpXkPHpz9po.md#ent-org-us-department-of-defense-t-00-02-03)**
+> "...ernment specifically with the Department of Defense."
+
+**[00:32:14](/episodes/ep-bpXkPHpz9po.md#ent-org-us-department-of-defense-t-00-31-37)**
+> "Now we learned the Department of Defense was somehow involved in getting all of these infl..."
+
+**[00:35:07](/episodes/ep-bpXkPHpz9po.md#ent-org-us-department-of-defense-t-00-34-39)**
+> "...ame of the most import to our DOD influencers, why they started focusing on this du..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (3 mentions)</summary>
+
+**[00:26:22](/episodes/ep-FGoeoZxDN1c.md#ent-org-us-department-of-defense-t-00-26-22)**
+> "...se that and know now that the Department of War is seeking revenge on us for doing so."
+
+**[00:42:46](/episodes/ep-FGoeoZxDN1c.md#ent-org-us-department-of-defense-t-00-42-46)**
+> "...'s unattainable. You work the Department of War. You work with the deep state apparatus."
+
+**[00:48:39](/episodes/ep-FGoeoZxDN1c.md#ent-org-us-department-of-defense-t-00-48-13)**
+> "...f money. I don't know why the Department of War isn't using Nicholas Sparks to write this. And th..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (1 mentions)</summary>
@@ -826,7 +868,26 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Defense (54)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Defense (57)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:02:10](/episodes/ep-bpXkPHpz9po.md#t-00-02-03) (Claim) **Candace Owens**: ["Owens said Perimeter Global Logistics specializes in global freight an..."](/statements/statement-947d11cf4c88.md)
+  - Also about: [Perimeter Global Logistics](/entities/org-perimeter-global-logistics.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2)</summary>
+
+- [00:25:44](/episodes/ep-FGoeoZxDN1c.md#t-00-25-44) (Accusation) **Candace Owens**: ["Owens accused the Department of War of seeking revenge against people ..."](/statements/statement-73772ae17b83.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:42:46](/episodes/ep-FGoeoZxDN1c.md#t-00-42-46) (Accusation) **Candace Owens**: ["Owens accused the post-assassination Turning Point USA organization of..."](/statements/statement-f732a81dac13.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2)</summary>

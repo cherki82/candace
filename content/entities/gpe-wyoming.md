@@ -1,6 +1,6 @@
 ---
 title: "Wyoming"
-description: "Wyoming (Places) - 25 mentions"
+description: "Wyoming (Places) - 31 mentions"
 id: "gpe-wyoming"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-wyoming-t-00-01-39">2025-10-27 · 00:01:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-wyoming-t-00-57-44">2026-06-26 · 00:58:01</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-wyoming-t-00-25-41">2026-09-10 · 00:26:09</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -48,6 +48,7 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-wyoming-t-00-29-14" style="--pulse-height:10%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-wyoming-t-01-07-30" style="--pulse-height:10%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-wyoming-t-00-57-44" style="--pulse-height:10%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-gpe-wyoming-t-00-00-40" style="--pulse-height:60%" aria-label="One Year On… To My Friend Charlie Kirk.: 6 mentions" title="2026-09-10 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-wyoming-t-00-29-14) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-wyoming-t-01-07-30) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-wyoming-t-00-57-44) | 1 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-wyoming-t-00-00-40) | 6 |
 
 </details>
 </section>
@@ -73,7 +75,30 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (6 mentions)</summary>
+
+**[00:00:40](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-wyoming-t-00-00-40)**
+> "...d-October when we were out in Wyoming. Okay, it reads, Dear Charlie (Charlie Kirk), I'm..."
+
+**[00:01:05](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-wyoming-t-00-00-40)**
+> "...really listened to me. I'm in Wyoming right now, which is one of our favorite states."
+
+**[00:03:54](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-wyoming-t-00-03-17)**
+> "It was for me, Wyoming or a sanitarium."
+
+**[00:09:49](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-wyoming-t-00-09-49)**
+> "... lot has been happening since Wyoming."
+
+**[00:25:41](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-wyoming-t-00-25-41)**
+> "...ember when you flew me out to Wyoming where he recorded that."
+
+**[00:26:09](/episodes/ep-S07n8TnRT0Q.md#ent-gpe-wyoming-t-00-25-41)**
+> "...it. It all came together. The Wyoming album, one year on ghost town."
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>

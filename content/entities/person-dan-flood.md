@@ -1,6 +1,6 @@
 ---
 title: "Dan Flood"
-description: "Dan Flood (People) - 123 mentions"
+description: "Dan Flood (People) - 124 mentions"
 id: "person-dan-flood"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-17">2025-11-20 · 00:33:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-dan-flood-t-00-53-41">2026-09-03 · 00:54:15</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>123</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-dan-flood-t-00-22-13">2026-09-09 · 00:22:27</a></strong></div>
+<div><span>Episodes</span><strong>41</strong></div>
+<div><span>Mentions</span><strong>124</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>53</strong></div>
+<div><span>Statements about</span><strong>54</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -75,6 +75,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-dan-flood-t-00-51-04" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-dan-flood-t-00-12-19" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-dan-flood-t-00-23-24" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 17 mentions" title="2026-09-03 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-dan-flood-t-00-22-13" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -120,6 +121,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-dan-flood-t-00-51-04) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-dan-flood-t-00-12-19) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-dan-flood-t-00-23-24) | 17 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-dan-flood-t-00-22-13) | 1 |
 
 </details>
 </section>
@@ -131,7 +133,15 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (123)</strong></summary>
+<summary><strong class="section-title">Raw mentions (124)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:22:27](/episodes/ep-bpXkPHpz9po.md#ent-person-dan-flood-t-00-22-13)**
+> "Dan Flood is also wearing surgical scrubs, but we know he c..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (17 mentions)</summary>
@@ -904,7 +914,15 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Flood (53)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Flood (54)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:21:14](/episodes/ep-bpXkPHpz9po.md#t-00-20-54) (Claim) **Candace Owens**: ["Owens said footage of the group returning to UVU after 8:30 p.m. Septe..."](/statements/statement-7c9ba0235666.md)
+  - Also about: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md), [Rick Cutler](/entities/person-rick-cutler.md), [Justin Davis](/entities/person-justin-davis.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>

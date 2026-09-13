@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 221 mentions"
+description: "Pure Talk (Organizations) - 226 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PureTalk](https://www.puretalk.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-pure-talk-t-00-55-04">2025-09-15 · 00:55:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-pure-talk-t-00-29-55">2026-09-01 · 00:30:22</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>221</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-pure-talk-t-00-29-14">2026-09-09 · 00:29:29</a></strong></div>
+<div><span>Episodes</span><strong>45</strong></div>
+<div><span>Mentions</span><strong>226</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -81,6 +81,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-pure-talk-t-00-57-37" style="--pulse-height:75%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 6 mentions" title="2026-08-17 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-56-19" style="--pulse-height:50%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 4 mentions" title="2026-08-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-pure-talk-t-00-29-18" style="--pulse-height:62%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 5 mentions" title="2026-09-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-pure-talk-t-00-28-31" style="--pulse-height:62%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 5 mentions" title="2026-09-09 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -130,6 +131,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-pure-talk-t-00-57-37) | 6 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-56-19) | 4 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-pure-talk-t-00-29-18) | 5 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-pure-talk-t-00-28-31) | 5 |
 
 </details>
 </section>
@@ -137,7 +139,27 @@ Source: [PureTalk](https://www.puretalk.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (221)</strong></summary>
+<summary><strong class="section-title">Raw mentions (226)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5 mentions)</summary>
+
+**[00:28:48](/episodes/ep-bpXkPHpz9po.md#ent-org-pure-talk-t-00-28-31)**
+> "...e been telling you guys about Pure Talk and I have to tell you that I recently switched m..."
+
+**[00:29:02](/episodes/ep-bpXkPHpz9po.md#ent-org-pure-talk-t-00-28-31)**
+> "And I love that Pure Talk gives me the coverage and unlimited data that I n..."
+
+**[00:29:07](/episodes/ep-bpXkPHpz9po.md#ent-org-pure-talk-t-00-28-31)**
+> "... in a recent industry survey, Pure Talk was the only wireless company to receive five sta..."
+
+**[00:29:14](/episodes/ep-bpXkPHpz9po.md#ent-org-pure-talk-t-00-29-14)**
+> "...w until the end of this week, PureTalk is offering unlimited data for just 15 bucks a mo..."
+
+**[00:29:29](/episodes/ep-bpXkPHpz9po.md#ent-org-pure-talk-t-00-29-14)**
+> "Head to puretalk.com slash Owens to make the switch. Again, that's..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (5 mentions)</summary>

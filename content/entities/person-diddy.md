@@ -1,6 +1,6 @@
 ---
 title: "Diddy"
-description: "Diddy (People) - 16 mentions"
+description: "Diddy (People) - 17 mentions"
 id: "person-diddy"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Defense concedes Sean 'Diddy' Combs had violent outbursts, but say no f
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28">2025-11-13 · 00:22:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-03-28">2026-06-10 · 00:03:55</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-diddy-t-00-07-51">2026-09-08 · 00:08:07</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [Defense concedes Sean 'Diddy' Combs had violent outbursts, but say no f
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-diddy-t-00-15-24" style="--pulse-height:29%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-diddy-t-00-21-38" style="--pulse-height:14%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-09" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 7 mentions" title="2026-06-10 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-diddy-t-00-07-51" style="--pulse-height:14%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Defense concedes Sean 'Diddy' Combs had violent outbursts, but say no f
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-diddy-t-00-15-24) | 2 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-diddy-t-00-21-38) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-09) | 7 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-diddy-t-00-07-51) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Defense concedes Sean 'Diddy' Combs had violent outbursts, but say no f
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:08:07](/episodes/ep-FGoeoZxDN1c.md#ent-person-diddy-t-00-07-51)**
+> "...ve likely seen the meme. It's Diddy (Sean Combs) and that gay guy looking back and fo..."
+
+</details>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (7 mentions)</summary>

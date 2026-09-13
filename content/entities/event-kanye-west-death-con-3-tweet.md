@@ -1,6 +1,6 @@
 ---
 title: "Kanye West’s “Death Con 3” tweet"
-description: "Kanye West’s “Death Con 3” tweet (Events) - 5 mentions"
+description: "Kanye West’s “Death Con 3” tweet (Events) - 6 mentions"
 id: "event-kanye-west-death-con-3-tweet"
 type: "EVENT"
 aliases:
@@ -25,9 +25,9 @@ Source: [Kanye West’s Twitter, Instagram locked over offensive posts](https://
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-event-kanye-west-death-con-3-tweet-t-00-48-48">2025-11-12 · 00:49:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-event-kanye-west-death-con-3-tweet-t-00-37-16">2026-01-07 · 00:37:45</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-event-kanye-west-death-con-3-tweet-t-00-19-11">2026-09-08 · 00:19:30</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [Kanye West’s Twitter, Instagram locked over offensive posts](https://
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-event-kanye-west-death-con-3-tweet-t-00-48-48" style="--pulse-height:100%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-event-kanye-west-death-con-3-tweet-t-00-00-00" style="--pulse-height:67%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-event-kanye-west-death-con-3-tweet-t-00-19-11" style="--pulse-height:33%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Kanye West’s Twitter, Instagram locked over offensive posts](https://
 |---|---|---:|
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-event-kanye-west-death-con-3-tweet-t-00-48-48) | 3 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-event-kanye-west-death-con-3-tweet-t-00-00-00) | 2 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-event-kanye-west-death-con-3-tweet-t-00-19-11) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [Kanye West’s Twitter, Instagram locked over offensive posts](https://
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:19:30](/episodes/ep-FGoeoZxDN1c.md#ent-event-kanye-west-death-con-3-tweet-t-00-19-11)**
+> "...eeted that he was about to go DEFCON 3 on some Jewish people in his life and the amount ..."
+
+</details>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2 mentions)</summary>

@@ -28,13 +28,23 @@ veracity: "true"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md) (concept)
 
-## Source
+## Appearances (2)
+
+### 1. UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witne...
 
 **Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
 **Timestamp:** [00:31:32](/episodes/ep-N4uM8Jdr410.md#t-00-31-32) 
 <a href="https://www.youtube.com/watch?v=N4uM8Jdr410&t=1892s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Brian (Brian Harpole) is correct that most of the ride, we weren't doing any CPR. We couldn't do CPR. We're trying to stop the bleeding. ... So I tried that for like 20 or 30 seconds at the very end of the ride when we're pulling into the hospital parking lot and we're yanking and banking our way there.
+
+### 2. EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back Fr...
+
+**Episode:** [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md)
+**Timestamp:** [00:11:41](/episodes/ep-bpXkPHpz9po.md#t-00-11-41) 
+<a href="https://www.youtube.com/watch?v=bpXkPHpz9po&t=701s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Brian (Brian Harpole) is correct that most of the ride we weren't doing any CPR. We couldn't do CPR. We're trying to stop the bleeding. ... So no CPR was done. It wasn't until the last, say, 30 seconds of the ride that I thought to myself. ... We got to be near in like eight or nine minutes and he's not breathing and there's no heartbeat. ... I've got to at least try. It's probably going to be futile, but I got to at least try to start his heart and get some air in him. ... So I tried that for like 20 or 30 seconds at the very end of the ride when we're pulling into the hospital parking lot and we're yanking and banking our way there.
 
 ## Verification
 

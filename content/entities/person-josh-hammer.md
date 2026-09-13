@@ -1,6 +1,6 @@
 ---
 title: "Josh Hammer"
-description: "Josh Hammer (People) - 188 mentions"
+description: "Josh Hammer (People) - 192 mentions"
 id: "person-josh-hammer"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-josh-hammer-t-00-40-54">2025-09-16 · 00:41:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-josh-hammer-t-00-32-15">2026-09-03 · 00:32:46</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>188</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-josh-hammer-t-00-07-33">2026-09-09 · 00:07:50</a></strong></div>
+<div><span>Episodes</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>192</strong></div>
 <div><span>Statements by</span><strong>19</strong></div>
-<div><span>Statements about</span><strong>40</strong></div>
+<div><span>Statements about</span><strong>43</strong></div>
 <div><span>Relationships</span><strong>34</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -76,6 +76,8 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-josh-hammer-t-00-05-23" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-josh-hammer-t-00-12-57" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-josh-hammer-t-00-32-15" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-josh-hammer-t-00-52-52" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-josh-hammer-t-00-07-33" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -121,6 +123,8 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-josh-hammer-t-00-05-23) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-josh-hammer-t-00-12-57) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-josh-hammer-t-00-32-15) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-josh-hammer-t-00-52-52) | 2 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-josh-hammer-t-00-07-33) | 2 |
 
 </details>
 </section>
@@ -132,7 +136,29 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (188)</strong></summary>
+<summary><strong class="section-title">Raw mentions (192)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
+
+**[00:07:33](/episodes/ep-bpXkPHpz9po.md#ent-person-josh-hammer-t-00-07-33)**
+> "...Wolicki) who was stateside, a Josh Hammer, a Jewish man who's thus far really accomplished ..."
+
+**[00:07:50](/episodes/ep-bpXkPHpz9po.md#ent-person-josh-hammer-t-00-07-33)**
+> "...Kirk)'s death rather the same Josh Hammer who was caught lying profusely I've never seen so..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2 mentions)</summary>
+
+**[00:53:21](/episodes/ep-FGoeoZxDN1c.md#ent-person-josh-hammer-t-00-52-52)**
+> "...rizona at the time. We've got Josh Hammer and we're supposed to believe this massive call w..."
+
+**[00:55:44](/episodes/ep-FGoeoZxDN1c.md#ent-person-josh-hammer-t-00-55-25)**
+> "...e and also, you know, he like Josh Hammer said he just was really interested in Josh Hammer..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -1337,7 +1363,26 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Josh Hammer (40)</strong></summary>
+<summary><strong class="section-title">Statements about Josh Hammer (43)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:07:25](/episodes/ep-bpXkPHpz9po.md#t-00-06-53) (Claim) **Candace Owens**: ["Owens said the September 9 Zoom call included Frank Turek, two Israeli..."](/statements/statement-3eca509f3ada.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Pesach Wolicki](/entities/person-pesach-wolicki.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2)</summary>
+
+- [00:53:06](/episodes/ep-FGoeoZxDN1c.md#t-00-52-52) (Claim) **Candace Owens** (via paraphrase): ["Owens said the Zoom call included two Israeli officials, Pesach Wolick..."](/statements/statement-1b92c62c5a63.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pesach Wolicki](/entities/person-pesach-wolicki.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:55:25](/episodes/ep-FGoeoZxDN1c.md#t-00-55-25) (Opinion) **Candace Owens**: ["Owens said she did not believe the explanation that Kirk needed the la..."](/statements/statement-93bcdc85b7c9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Pesach Wolicki](/entities/person-pesach-wolicki.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2)</summary>

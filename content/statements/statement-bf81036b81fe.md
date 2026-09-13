@@ -25,13 +25,23 @@ veracity: "true"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. ...
 
 **Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
 **Timestamp:** [00:40:19](/episodes/ep-G3zdOeHpvS0.md#t-00-40-19) 
 <a href="https://www.youtube.com/watch?v=G3zdOeHpvS0&t=2419s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > You know, no, because right now I've got to stop that bleeding.
+
+### 2. EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back Fr...
+
+**Episode:** [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md)
+**Timestamp:** [00:10:23](/episodes/ep-bpXkPHpz9po.md#t-00-10-23) 
+<a href="https://www.youtube.com/watch?v=bpXkPHpz9po&t=623s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Was CPR being conducted during this time? ... You know, no, because right now I got to stop that bleeding. ... And so it's like, I've got to get that bleeding stopped before. And then I knew that we were not that far from the hospital and the human body can, I got to stop that bleeding, you know. ... It's got to stop the bleeding and so that was primary, you know, that's the chief complaint from the patient that I have right here and so I'm going after that bleed control trying to stop that and so we go to the hospital I'm just working in the whole time out of that out of the kit and just putting them on.
 
 ## Verification
 

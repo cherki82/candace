@@ -20,7 +20,7 @@ date: "2025-09-21"
 
 > Charlie Kirk's public memorial was held at State Farm Stadium.
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296
 
@@ -61,3 +61,11 @@ date: "2025-09-21"
 <a href="https://www.youtube.com/watch?v=a2bZf4fic10&t=2128s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > the happiest we ever saw Erika Kirk was when she walked out to that stadium on September 21st
+
+### 6. One Year On… To My Friend Charlie Kirk.
+
+**Episode:** [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md)
+**Timestamp:** [00:05:45](/episodes/ep-S07n8TnRT0Q.md#t-00-05-21) 
+<a href="https://www.youtube.com/watch?v=S07n8TnRT0Q&t=345s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Irina and John Mappin attended that memorial, and Irina felt that there was something off immediately. For one, she told me that she had never seen so many people speaking her native language, Russian, in Arizona.

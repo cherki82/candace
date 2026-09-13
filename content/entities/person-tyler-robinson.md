@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 1031 mentions"
+description: "Tyler Robinson (People) - 1043 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-tyler-robinson-t-00-51-39">2026-09-03 · 00:51:39</a></strong></div>
-<div><span>Episodes</span><strong>107</strong></div>
-<div><span>Mentions</span><strong>1,031</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-40-53">2026-09-09 · 00:40:58</a></strong></div>
+<div><span>Episodes</span><strong>108</strong></div>
+<div><span>Mentions</span><strong>1,043</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
-<div><span>Statements about</span><strong>455</strong></div>
+<div><span>Statements about</span><strong>462</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -143,6 +143,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-01-03" style="--pulse-height:10%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 10 mentions" title="2026-09-01 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-00-01" style="--pulse-height:30%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 31 mentions" title="2026-09-02 · 31 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-tyler-robinson-t-00-51-39" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-30-54" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 12 mentions" title="2026-09-09 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -255,6 +256,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-tyler-robinson-t-00-01-03) | 10 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-tyler-robinson-t-00-00-01) | 31 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-tyler-robinson-t-00-51-39) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-30-54) | 12 |
 
 </details>
 </section>
@@ -266,7 +268,48 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1031)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1043)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (12 mentions)</summary>
+
+**[00:31:21](/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-30-54)**
+> "..., we had covered the story of Tyler Robinson's alleged visit to the Cowboy Smokehouse back in Ja..."
+
+**[00:31:44](/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-31-37)**
+> "Utah restaurateur claims that Tyler Robinson stopped in after Charlie Kirk killing reveals wha..."
+
+**[00:31:51](/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-31-37)**
+> "...lso covered the story. One of Tyler Robinson's last meals, it reads, as a free man may have been..."
+
+**[00:34:13](/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-34-06)**
+> "...d and says, well, this is not Tyler Robinson's signature, so we can all move on from the idea th..."
+
+**[00:36:09](/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-36-09)**
+> "...t the Cowboy Smokehouse, then Tyler Robinson would not have been able to make it back up to Or..."
+
+**[00:36:20](/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-36-09)**
+> "... text messages were sent from tyler robinson okay unless i guess you could say he was just lyi..."
+
+**[00:37:10](/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-36-48)**
+> "...people because it wouldn't be Tyler Robinson that was driving."
+
+**[00:38:33](/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-38-10)**
+> "...eceipt might have belonged to Tyler Robinson. We obviously did our best to verify it."
+
+**[00:39:48](/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-39-26)**
+> "...o a 95% certainty that it was Tyler Robinson's debit card that was swiped at the Cowboy Smokehou..."
+
+**[00:40:15](/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-40-10)**
+> "...uring this trial, that it was Tyler Robinson's card that was swiped at the Cowboy Smokehouse on ..."
+
+**[00:40:44](/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-40-10)**
+> "...ard that was used belonged to Tyler Robinson."
+
+**[00:40:58](/episodes/ep-bpXkPHpz9po.md#ent-person-tyler-robinson-t-00-40-53)**
+> "It is now the job of Tyler Robinson's defense team to confirm or deny what I am saying."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>
@@ -4255,7 +4298,33 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (455)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (462)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (7)</summary>
+
+- [00:33:27](/episodes/ep-bpXkPHpz9po.md#t-00-33-27) (Claim) **Candace Owens**: ["Owens said the Cowboy Smokehouse owner had not been present that night..."](/statements/statement-6ad7db997786.md)
+  - Also about: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md), [FBI](/entities/org-fbi.md), [Cowboys Smokehouse owner (identity unverified)](/entities/anon-src-_cNtgris8Ik-007.md)
+
+- [00:34:13](/episodes/ep-bpXkPHpz9po.md#t-00-34-06) (Opinion) **Candace Owens**: ["Owens rejected Andrew Wilson’s argument that the electronic signature ..."](/statements/statement-f0a1cf630fd0.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+- [00:35:32](/episodes/ep-bpXkPHpz9po.md#t-00-35-24) (Opinion) **Candace Owens**: ["Owens argued conditionally that a confirmed 9:47 p.m. Panguitch depart..."](/statements/statement-c3978c02ef75.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+- [00:36:48](/episodes/ep-bpXkPHpz9po.md#t-00-36-48) (Opinion) **Candace Owens**: ["Owens argued that if the steakhouse receipt established Robinson’s pre..."](/statements/statement-6b27591504e8.md)
+  - Also about: [Officer Goforth (security officer; first name unverified)](/entities/person-officer-goforth-security-officer.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+- [00:36:59](/episodes/ep-bpXkPHpz9po.md#t-00-36-48) (Opinion) **Candace Owens**: ["Owens argued conditionally that the receipt would rule out Robinson as..."](/statements/statement-c4e51cb7de30.md)
+  - Also about: [Ms. Noble (ring-camera witness; full identity unverified)](/entities/anon-src-EtLHqDbxqks-008.md), [Google Maps](/entities/work-google-maps.md)
+
+- [00:38:33](/episodes/ep-bpXkPHpz9po.md#t-00-38-10) (Opinion) **Candace Owens**: ["Owens said her initial confidence that the receipt belonged to Robinso..."](/statements/statement-efea4b322fd0.md)
+  - Also about: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+- [00:39:48](/episodes/ep-bpXkPHpz9po.md#t-00-39-26) (Opinion) **Candace Owens**: ["Owens raised her stated confidence from 60 to 95 percent that the card..."](/statements/statement-8a4f6cc2546c.md)
+  - Also about: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (16)</summary>

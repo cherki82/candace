@@ -1,6 +1,6 @@
 ---
 title: "Cardiopulmonary resuscitation"
-description: "Cardiopulmonary resuscitation (Concepts) - 55 mentions"
+description: "Cardiopulmonary resuscitation (Concepts) - 67 mentions"
 id: "concept-cardiopulmonary-resuscitation"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-cardiopulmonary-resuscitation-t-00-38-48">2026-06-17 · 00:38:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-concept-cardiopulmonary-resuscitation-t-00-14-37">2026-09-03 · 00:14:48</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-22-13">2026-09-09 · 00:22:35</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>67</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,7 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-concept-cardiopulmonary-resuscitation-t-00-15-12" style="--pulse-height:17%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 2 mentions" title="2026-07-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-concept-cardiopulmonary-resuscitation-t-00-02-28" style="--pulse-height:8%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-concept-cardiopulmonary-resuscitation-t-00-14-01" style="--pulse-height:25%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-08-49" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 12 mentions" title="2026-09-09 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-concept-cardiopulmonary-resuscitation-t-00-15-12) | 2 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-concept-cardiopulmonary-resuscitation-t-00-02-28) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-concept-cardiopulmonary-resuscitation-t-00-14-01) | 3 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-08-49) | 12 |
 
 </details>
 </section>
@@ -71,7 +73,48 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (12 mentions)</summary>
+
+**[00:09:21](/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-08-49)**
+> "..., Frank (Frank Turek), is the CPR story. CPR started from the next from the next da..."
+
+**[00:09:30](/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-09-30)**
+> "...le times they did not perform CPR during that extremely short ride over to the hosp..."
+
+**[00:09:45](/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-09-30)**
+> "...d on top of him and performed CPR, but Brian (Brian Harpole) was busy."
+
+**[00:10:05](/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-10-05)**
+> "...w he not only did not perform CPR, but that CPR would have been against emergency p..."
+
+**[00:10:23](/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-10-23)**
+> "Was CPR being conducted during this time?"
+
+**[00:11:37](/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-11-18)**
+> "...ank Turek) said regarding the CPR."
+
+**[00:11:41](/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-11-41)**
+> "...the ride we weren't doing any CPR. We couldn't do CPR. We're trying to stop the ble..."
+
+**[00:11:50](/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-11-41)**
+> "So no CPR was done. It wasn't until the last, say, 30 secon..."
+
+**[00:12:25](/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-12-25)**
+> "...istracted. 30 seconds, he did CPR."
+
+**[00:12:31](/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-12-25)**
+> "...laid down to begin performing CPR."
+
+**[00:13:52](/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-13-45)**
+> "...ke he didn't say he didn't do CPR. He didn't say the way that Frank (Frank Turek) i..."
+
+**[00:22:35](/episodes/ep-bpXkPHpz9po.md#ent-concept-cardiopulmonary-resuscitation-t-00-22-13)**
+> "...e gave Charlie (Charlie Kirk) CPR."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3 mentions)</summary>

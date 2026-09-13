@@ -25,7 +25,7 @@ type: "factual_claim"
 - [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 - [Jack Hibbs](/entities/person-jack-hibbs.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. The FBI Crashes Out. We Examine The Exploding Microphone The...
 
@@ -42,6 +42,14 @@ type: "factual_claim"
 <a href="https://www.youtube.com/watch?v=ZkDO-MRLUco&t=914s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > I'm trying to remember the sequence of things. I either got the first call from you or from Mikey (Michael McCoy). ... It was one or the other. It was very, very close. I do believe you were the first one. ... That was after we got to the hospital as ... Okay, then I got the first call from Mikey (Michael McCoy).
+
+### 3. EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back Fr...
+
+**Episode:** [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md)
+**Timestamp:** [00:14:54](/episodes/ep-bpXkPHpz9po.md#t-00-14-54) 
+<a href="https://www.youtube.com/watch?v=bpXkPHpz9po&t=894s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> I'm trying to remember the sequence of things. I either got the first call from you or from Mikey (Michael McCoy). ... It was one or the other. It was very, very close. I do believe you were the first one. ... That was after we got to the hospital, Okay, because then I got the first call from Mike (Michael McCoy). I was in the emergency room after we got Charlie (Charlie Kirk) there, and I remember I called you. what you were saying. Yeah.
 
 ## Verification
 

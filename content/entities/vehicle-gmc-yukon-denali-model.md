@@ -1,6 +1,6 @@
 ---
 title: "GMC Yukon Denali (model)"
-description: "GMC Yukon Denali (model) (Vehicles) - 5 mentions"
+description: "GMC Yukon Denali (model) (Vehicles) - 6 mentions"
 id: "vehicle-gmc-yukon-denali-model"
 type: "VEHICLE"
 aliases:
@@ -23,9 +23,9 @@ Source: [GMC Yukon Denali](https://www.gmc.com/suvs/yukon/denali)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-vehicle-gmc-yukon-denali-model-t-00-13-39">2026-09-02 · 00:13:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-vehicle-gmc-yukon-denali-model-t-00-16-33">2026-09-03 · 00:16:47</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-vehicle-gmc-yukon-denali-model-t-00-32-57">2026-09-08 · 00:33:11</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [GMC Yukon Denali](https://www.gmc.com/suvs/yukon/denali)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-vehicle-gmc-yukon-denali-model-t-00-13-39" style="--pulse-height:67%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-vehicle-gmc-yukon-denali-model-t-00-06-53" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 3 mentions" title="2026-09-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-vehicle-gmc-yukon-denali-model-t-00-32-57" style="--pulse-height:33%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [GMC Yukon Denali](https://www.gmc.com/suvs/yukon/denali)
 |---|---|---:|
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-vehicle-gmc-yukon-denali-model-t-00-13-39) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-vehicle-gmc-yukon-denali-model-t-00-06-53) | 3 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-vehicle-gmc-yukon-denali-model-t-00-32-57) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [GMC Yukon Denali](https://www.gmc.com/suvs/yukon/denali)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:33:11](/episodes/ep-FGoeoZxDN1c.md#ent-vehicle-gmc-yukon-denali-model-t-00-32-57)**
+> "...) got into the second rental, Denali, with Danny Philip and perhaps some other people ..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3 mentions)</summary>

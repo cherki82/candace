@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 2084 mentions"
+description: "Turning Point USA (Organizations) - 2097 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -27,11 +27,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-turning-point-usa-t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-55-37">2026-09-03 · 00:55:48</a></strong></div>
-<div><span>Episodes</span><strong>159</strong></div>
-<div><span>Mentions</span><strong>2,084</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-org-turning-point-usa-t-00-11-48">2026-09-10 · 00:12:08</a></strong></div>
+<div><span>Episodes</span><strong>162</strong></div>
+<div><span>Mentions</span><strong>2,097</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>807</strong></div>
+<div><span>Statements about</span><strong>813</strong></div>
 <div><span>Relationships</span><strong>228</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -199,6 +199,9 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-turning-point-usa-t-00-02-28" style="--pulse-height:16%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 9 mentions" title="2026-09-01 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-00-11-11" style="--pulse-height:11%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 6 mentions" title="2026-09-02 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-00-37" style="--pulse-height:36%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 20 mentions" title="2026-09-03 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-turning-point-usa-t-00-00-42" style="--pulse-height:15%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 8 mentions" title="2026-09-08 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-turning-point-usa-t-00-02-49" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-org-turning-point-usa-t-00-10-33" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 2 mentions" title="2026-09-10 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -363,6 +366,9 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-turning-point-usa-t-00-02-28) | 9 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-org-turning-point-usa-t-00-11-11) | 6 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-turning-point-usa-t-00-00-37) | 20 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-turning-point-usa-t-00-00-42) | 8 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-turning-point-usa-t-00-02-49) | 3 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-org-turning-point-usa-t-00-10-33) | 2 |
 
 </details>
 </section>
@@ -374,7 +380,61 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2084)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2097)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (2 mentions)</summary>
+
+**[00:10:45](/episodes/ep-S07n8TnRT0Q.md#ent-org-turning-point-usa-t-00-10-33)**
+> "...and box actually has given to TPUSA the most successful few months ever, lol, and it'..."
+
+**[00:12:08](/episodes/ep-S07n8TnRT0Q.md#ent-org-turning-point-usa-t-00-11-48)**
+> "...eath would be associated with Turning Point USA in a wider world awakening."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3 mentions)</summary>
+
+**[00:02:56](/episodes/ep-bpXkPHpz9po.md#ent-org-turning-point-usa-t-00-02-49)**
+> "... be one of four people on the TPUSA team on the ground on that day, September 10th, w..."
+
+**[00:48:10](/episodes/ep-bpXkPHpz9po.md#ent-org-turning-point-usa-t-00-48-10)**
+> "...'s just kind of pathetic that turning point is"
+
+**[00:48:37](/episodes/ep-bpXkPHpz9po.md#ent-org-turning-point-usa-t-00-48-10)**
+> "...erm strategy to anything that Turning Point USA is doing."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (8 mentions)</summary>
+
+**[00:00:42](/episodes/ep-FGoeoZxDN1c.md#ent-org-turning-point-usa-t-00-00-42)**
+> "Turning Point USA is firing up the anniversary engine, so to speak...."
+
+**[00:21:43](/episodes/ep-FGoeoZxDN1c.md#ent-org-turning-point-usa-t-00-21-36)**
+> "...in Netanyahu) offered to take Turning Point to the next level. You can only imagine the weigh..."
+
+**[00:29:36](/episodes/ep-FGoeoZxDN1c.md#ent-org-turning-point-usa-t-00-29-33)**
+> "...stuff that is coming out from Turning Point USA."
+
+**[00:37:00](/episodes/ep-FGoeoZxDN1c.md#ent-org-turning-point-usa-t-00-37-00)**
+> "... were part of the reason that TPUSA had become less involved with Owens around 2024."
+
+**[00:42:46](/episodes/ep-FGoeoZxDN1c.md#ent-org-turning-point-usa-t-00-42-46)**
+> "...you've been honest. It's just Turning Point 2.0. It has nothing to do with Turning Point 1.0...."
+
+**[00:44:41](/episodes/ep-FGoeoZxDN1c.md#ent-org-turning-point-usa-t-00-44-41)**
+> "...ference call that you said at Turning Point USA. We just keep hearing this over and over again."
+
+**[00:49:08](/episodes/ep-FGoeoZxDN1c.md#ent-org-turning-point-usa-t-00-48-55)**
+> "...other missed opportunity from Turning Point USA. But we'll see what we're looking forward to what..."
+
+**[00:54:06](/episodes/ep-FGoeoZxDN1c.md#ent-org-turning-point-usa-t-00-54-06)**
+> "That was not the case. Turning Point continues to speak and we continue to timeline. A..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (20 mentions)</summary>
@@ -8094,7 +8154,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Founded By (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (23)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:01:44](/episodes/ep-5autG89PW6w.md#t-00-01-22): “Who will succeed Charlie (Charlie Kirk)? Who shall inherit the Turning Point throne?”
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:33:16](/episodes/ep-vwG1juDCQZQ.md#t-00-33-12): “because Charlie (Charlie Kirk) started the organization to disrupt college campuses.”
@@ -8119,6 +8179,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 01:08:26](/episodes/ep-_cNtgris8Ik.md#t-01-08-13): “be the one to tell you guys but you will not you can't fill charlie's shoes and what you have done has been an absolute embarrassment to everything that he has built just shut up turning point usa you know just start over and build something else lean into the neocon thing call it something else like this is just so it's such a farce at this point you must be exhausted you look tired you all look tired Anyway, that's all I have to say about that. If you guys want to support the show,”
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:01:41](/episodes/ep-5NQyGuRYbU8.md#t-00-01-41): “That was something that Charlie Kirk expressed often to his great many followers. The organization that he built was actually built upon that philosophy”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:18:38](/episodes/ep-w1oqQbR_bYs.md#t-00-18-29): “Charlie Kirk's organization, the one that he built for debate”
+- [One Year On… To My Friend Charlie Kirk. @ 00:09:00](/episodes/ep-S07n8TnRT0Q.md#t-00-09-00): “So I started this organisation when I was eighteen years old, born and raised in Chicago, Illinois.”
 
 </details>
 
@@ -9122,7 +9183,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** founded this
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:01:44](/episodes/ep-5autG89PW6w.md#t-00-01-22): “Who will succeed Charlie (Charlie Kirk)? Who shall inherit the Turning Point throne?”
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:33:16](/episodes/ep-vwG1juDCQZQ.md#t-00-33-12): “because Charlie (Charlie Kirk) started the organization to disrupt college campuses.”
@@ -9151,6 +9212,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 01:08:26](/episodes/ep-_cNtgris8Ik.md#t-01-08-13): “be the one to tell you guys but you will not you can't fill charlie's shoes and what you have done has been an absolute embarrassment to everything that he has built just shut up turning point usa you know just start over and build something else lean into the neocon thing call it something else like this is just so it's such a farce at this point you must be exhausted you look tired you all look tired Anyway, that's all I have to say about that. If you guys want to support the show,”
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:01:41](/episodes/ep-5NQyGuRYbU8.md#t-00-01-41): “That was something that Charlie Kirk expressed often to his great many followers. The organization that he built was actually built upon that philosophy”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:18:38](/episodes/ep-w1oqQbR_bYs.md#t-00-18-29): “Charlie Kirk's organization, the one that he built for debate”
+- [One Year On… To My Friend Charlie Kirk. @ 00:09:00](/episodes/ep-S07n8TnRT0Q.md#t-00-09-00): “So I started this organisation when I was eighteen years old, born and raised in Chicago, Illinois.”
 
 </details>
 
@@ -9862,7 +9924,40 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (807)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (813)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1)</summary>
+
+- [00:09:00](/episodes/ep-S07n8TnRT0Q.md#t-00-09-00) (Claim) **Charlie Kirk** (via quoted speech): ["In an archival clip, Charlie Kirk said he started his organization at ..."](/statements/statement-583e676d6971.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:02:56](/episodes/ep-bpXkPHpz9po.md#t-00-02-49) (Claim) **Candace Owens**: ["Owens said Williams was one of four people on the TPUSA team present S..."](/statements/statement-8d8bd708cdb0.md)
+  - Also about: [Derek "Pepper" Williams](/entities/person-derek-pepper-williams.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (4)</summary>
+
+- [00:35:08](/episodes/ep-FGoeoZxDN1c.md#t-00-34-56) (Accusation) **Candace Owens**: ["Owens accused Turning Point USA of misrepresenting Charlie Kirk’s stru..."](/statements/statement-3f6835c479f6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:00](/episodes/ep-FGoeoZxDN1c.md#t-00-37-00) (Claim) **Blake Neff** (via quoted article): ["According to the Deseret News passage Owens read, Blake Neff said some..."](/statements/statement-b09fe89b092d.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:42:46](/episodes/ep-FGoeoZxDN1c.md#t-00-42-46) (Accusation) **Candace Owens**: ["Owens accused the post-assassination Turning Point USA organization of..."](/statements/statement-f732a81dac13.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+- [00:46:43](/episodes/ep-FGoeoZxDN1c.md#t-00-46-34) (Claim) **Candace Owens**: ["Owens said Erika Kirk laughed at emojis during a Zoom staff call six d..."](/statements/statement-cc86a521751d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (9)</summary>

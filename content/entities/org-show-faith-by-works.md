@@ -1,6 +1,6 @@
 ---
 title: "Show Faith by Works, LLC"
-description: "Show Faith by Works, LLC (Organizations) - 14 mentions"
+description: "Show Faith by Works, LLC (Organizations) - 15 mentions"
 id: "org-show-faith-by-works"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-org-show-faith-by-works-t-00-47-15">2025-11-19 · 00:47:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-show-faith-by-works-t-00-35-16">2026-05-27 · 00:35:16</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-show-faith-by-works-t-00-57-24">2026-09-08 · 00:57:37</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -42,6 +42,7 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-show-faith-by-works-t-00-13-48" style="--pulse-height:83%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 5 mentions" title="2026-05-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-org-show-faith-by-works-t-00-01-56" style="--pulse-height:17%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-show-faith-by-works-t-00-35-16" style="--pulse-height:17%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-show-faith-by-works-t-00-57-24" style="--pulse-height:17%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-show-faith-by-works-t-00-13-48) | 5 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-show-faith-by-works-t-00-01-56) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-show-faith-by-works-t-00-35-16) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-show-faith-by-works-t-00-57-24) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:57:37](/episodes/ep-FGoeoZxDN1c.md#ent-org-show-faith-by-works-t-00-57-24)**
+> "...ARA docs, Faith by Works LLC (Show Faith by Works, LLC), and the like."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -267,7 +277,15 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Show Faith by Works, LLC (7)</strong></summary>
+<summary><strong class="section-title">Statements about Show Faith by Works, LLC (8)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>
+
+- [00:57:37](/episodes/ep-FGoeoZxDN1c.md#t-00-57-24) (Prediction) **Candace Owens**: ["Owens predicted that the forthcoming Can You Hear Me Now documentary w..."](/statements/statement-7dee6120e217.md)
+  - Also about: [Can You Hear Me Now? (2026 documentary)](/entities/work-can-you-hear-me-now-2026.md), [Salem Media Group](/entities/org-salem-media-group.md)
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (3)</summary>

@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (53 mentions)
+### Evidence (54 mentions)
 
 **[Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM)**
 
@@ -116,6 +116,10 @@ object: "person-charlie-kirk"
 **[Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg)**
 
 - [00:38:20](/episodes/ep-Qt0VHV-POCg#t-00-38-20): _to clarify that matter: make a video, sit down with me, look me in the eye and say, "Candace, I really do think that Charlie—our friend—because you are his friend; you are his brother—stopped a .30-06 with his neck, which stayed intact."_
+
+**[One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q)**
+
+- [00:27:44](/episodes/ep-S07n8TnRT0Q#t-00-27-44): _We were really close, and he was my best friend and my brother, and I will never unsee the footage of what I saw._
 
 **[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
 

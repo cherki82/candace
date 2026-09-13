@@ -1,6 +1,6 @@
 ---
 title: "Timpanogos Regional Hospital"
-description: "Timpanogos Regional Hospital (Organizations) - 33 mentions"
+description: "Timpanogos Regional Hospital (Organizations) - 35 mentions"
 id: "org-timpanogos-regional-hospital"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44">2025-09-30 · 00:30:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#t-00-14-20">2026-09-01 · 00:14:20</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-timpanogos-regional-hospital-t-00-29-14">2026-09-09 · 00:29:37</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>36</strong></div>
+<div><span>Statements about</span><strong>41</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -58,6 +58,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-org-timpanogos-regional-hospital-t-00-23-31" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#t-01-06-19" style="--pulse-height:25%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#t-00-14-20" style="--pulse-height:25%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-timpanogos-regional-hospital-t-00-29-14" style="--pulse-height:50%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -86,6 +87,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-timpanogos-regional-hospital-t-00-23-31) | 2 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-01-06-19) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#t-00-14-20) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-timpanogos-regional-hospital-t-00-29-14) | 2 |
 
 </details>
 </section>
@@ -97,7 +99,18 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
+
+**[00:29:37](/episodes/ep-bpXkPHpz9po.md#ent-org-timpanogos-regional-hospital-t-00-29-14)**
+> "...oday is there is a doctor. At Timpanogos Hospital who worked on Charlie (Charlie Kirk)."
+
+**[00:29:37](/episodes/ep-bpXkPHpz9po.md#ent-org-timpanogos-regional-hospital-t-00-29-14)**
+> "Something else I'm going to mention to you guys today is there is a doctor. At Timpanogos Hospital who worked on Charlie (Charlie Kirk)."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1 mentions)</summary>
@@ -407,7 +420,26 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (36)</strong></summary>
+<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (41)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (5)</summary>
+
+- [00:16:45](/episodes/ep-bpXkPHpz9po.md#t-00-16-39) (Claim) **Hospital parking-lot witness in episode 385 (identity unverified)** (via quoted speech): ["An unidentified hospital parking-lot witness recalled a white-hatted m..."](/statements/statement-6c594f7a452e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:52](/episodes/ep-bpXkPHpz9po.md#t-00-17-31) (Claim) **Candace Owens**: ["Owens said Michael McCoy provided hospital scrubs to the group after a..."](/statements/statement-0ca6e225c1a8.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:21:14](/episodes/ep-bpXkPHpz9po.md#t-00-20-54) (Claim) **Candace Owens**: ["Owens said footage of the group returning to UVU after 8:30 p.m. Septe..."](/statements/statement-7c9ba0235666.md)
+  - Also about: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md), [Rick Cutler](/entities/person-rick-cutler.md), [Justin Davis](/entities/person-justin-davis.md)
+
+- [00:23:05](/episodes/ep-bpXkPHpz9po.md#t-00-22-54) (Opinion) **Candace Owens**: ["Owens said she thought Timpanogos should be investigated because its a..."](/statements/statement-82683dd633b9.md)
+
+- [00:29:37](/episodes/ep-bpXkPHpz9po.md#t-00-29-14) (Accusation) **Candace Owens** (via paraphrase): ["Citing unnamed sources, Owens alleged that an unnamed doctor who treat..."](/statements/statement-2d04ca6415a5.md)
+  - Also about: [Unnamed Timpanogos doctor in episode 385 (identity unverified)](/entities/anon-src-bpXkPHpz9po-002.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (8)</summary>

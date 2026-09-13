@@ -12,7 +12,7 @@ date: "2025-10-07"
 
 > TPUSA donors John and Irina Mappin publish letter supporting Candace Owens
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
@@ -48,3 +48,11 @@ date: "2025-10-07"
 
 > **Date stated in this source:** “October 6th”
 > **Date review note:** The transcript says October 6, while the primary John Mappin Substack page is dated October 7, 2025; the canonical event retains the primary publication date.
+
+### 5. One Year On… To My Friend Charlie Kirk.
+
+**Episode:** [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md)
+**Timestamp:** [00:06:08](/episodes/ep-S07n8TnRT0Q.md#event-event-2025-10-07-tpusa-donors-john-and-irina-mappin-publish-letter-t-00-05-59) 
+<a href="https://www.youtube.com/watch?v=S07n8TnRT0Q&t=368s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> And they wrote me the most beautiful open letter in your honor, a letter to the world, and it gave me the strength to fight another day.

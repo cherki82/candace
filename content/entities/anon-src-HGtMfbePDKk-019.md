@@ -13,7 +13,7 @@ _Type: Anonymous Sources_
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -91,7 +91,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Diligent Denizen (online-investigator handle; identity unverified) (2)</strong></summary>
+<summary><strong class="section-title">Statements about Diligent Denizen (online-investigator handle; identity unverified) (4)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2)</summary>
+
+- [00:32:31](/episodes/ep-bpXkPHpz9po.md#t-00-32-23) (Claim) **Candace Owens**: ["Owens said citizen journalist Diligent Denizen interviewed a Cowboy Sm..."](/statements/statement-4db2abe7f792.md)
+  - Also about: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+- [00:32:47](/episodes/ep-bpXkPHpz9po.md#t-00-32-23) (Claim) **Candace Owens**: ["Owens said the restaurant receipt was real and had been verified, whil..."](/statements/statement-2f94f87edb36.md)
+  - Also about: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2)</summary>

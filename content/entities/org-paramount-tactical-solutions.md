@@ -1,6 +1,6 @@
 ---
 title: "Paramount Tactical Solutions"
-description: "Paramount Tactical Solutions (Organizations) - 37 mentions"
+description: "Paramount Tactical Solutions (Organizations) - 38 mentions"
 id: "org-paramount-tactical-solutions"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-paramount-tactical-solutions-t-00-41-37">2026-01-05 · 00:42:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-32-53">2026-07-23 · 00:34:24</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#t-00-10-05">2026-09-09 · 00:10:17</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -54,6 +54,7 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 <a href="/episodes/ep-IqHsl7d2dos.md#t-00-26-46" style="--pulse-height:14%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-paramount-tactical-solutions-t-00-15-46" style="--pulse-height:14%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-32-53" style="--pulse-height:29%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#t-00-10-05" style="--pulse-height:14%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -77,6 +78,7 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-26-46) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-paramount-tactical-solutions-t-00-15-46) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-32-53) | 2 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#t-00-10-05) | 1 |
 
 </details>
 </section>
@@ -88,7 +90,15 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:10:17](/episodes/ep-bpXkPHpz9po.md#t-00-10-05)**
+> "Here is what Brian Harpole said to Paramount, not so tactical. Take a listen."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>

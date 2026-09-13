@@ -20,7 +20,7 @@ date: "2025-09-18"
 
 > Erika Kirk gave an in-person interview to The New York Times.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296
 
@@ -45,3 +45,14 @@ date: "2025-09-18"
 <a href="https://www.youtube.com/watch?v=OgRyiOAVtWU&t=798s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > Erika, even in the New York Times interview that she gave eight days later
+
+### 4. Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’...
+
+**Episode:** [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md)
+**Timestamp:** [00:41:07](/episodes/ep-FGoeoZxDN1c.md#t-00-41-07) 
+<a href="https://www.youtube.com/watch?v=FGoeoZxDN1c&t=2467s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> like and it's behind a paywall okay she just continues to partner with a publication that her deceased husband hated this was the first publication she partnered with she opened their apartment to an in-person interview and sat down with them what was it two days after Charlie's assassination Charlie never wrote an op-ed for the New York Times.
+
+> **Date stated in this source:** “what was it two days after Charlie’s assassination”
+> **Date review note:** Host tentatively remembers two days after September 10 (September 12), whereas the canonical event and earlier explicit account use September 18. Preserve stronger existing date and document this source’s uncertain recollection.

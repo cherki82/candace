@@ -1,6 +1,6 @@
 ---
 title: "Dallas, Texas"
-description: "Dallas, Texas (Places) - 20 mentions"
+description: "Dallas, Texas (Places) - 22 mentions"
 id: "gpe-dallas-texas"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [Welcome to the City of Dallas, Texas](https://dallas.gov/Pages/default.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-dallas-texas-t-00-25-18">2025-09-24 · 00:25:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-dallas-texas-t-00-54-59">2026-05-11 · 00:55:12</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-dallas-texas-t-00-09-20">2026-09-08 · 00:09:30</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -45,6 +45,7 @@ Source: [Welcome to the City of Dallas, Texas](https://dallas.gov/Pages/default.
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-dallas-texas-t-01-11-50" style="--pulse-height:29%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-dallas-texas-t-00-08-44" style="--pulse-height:14%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-dallas-texas-t-00-54-59" style="--pulse-height:14%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-dallas-texas-t-00-09-20" style="--pulse-height:29%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +62,7 @@ Source: [Welcome to the City of Dallas, Texas](https://dallas.gov/Pages/default.
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-dallas-texas-t-01-11-50) | 2 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-dallas-texas-t-00-08-44) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-dallas-texas-t-00-54-59) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-dallas-texas-t-00-09-20) | 2 |
 
 </details>
 </section>
@@ -72,7 +74,18 @@ Source: [Welcome to the City of Dallas, Texas](https://dallas.gov/Pages/default.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2 mentions)</summary>
+
+**[00:09:20](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-dallas-texas-t-00-09-20)**
+> "...is next U.S. date is maybe in Dallas."
+
+**[00:09:30](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-dallas-texas-t-00-09-20)**
+> "Dallas, I might be wrong, might be Houston, go. Anyway, ..."
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>

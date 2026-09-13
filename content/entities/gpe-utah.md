@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 412 mentions"
+description: "Utah (Places) - 416 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [State of Utah official website](https://utah.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-utah-t-00-35-30">2026-09-03 · 00:35:34</a></strong></div>
-<div><span>Episodes</span><strong>93</strong></div>
-<div><span>Mentions</span><strong>412</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-utah-t-00-31-37">2026-09-09 · 00:31:44</a></strong></div>
+<div><span>Episodes</span><strong>95</strong></div>
+<div><span>Mentions</span><strong>416</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>28</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
@@ -128,6 +128,8 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-10-21" style="--pulse-height:59%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 10 mentions" title="2026-09-01 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-utah-t-00-00-01" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 1 mentions" title="2026-09-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-gpe-utah-t-00-35-30" style="--pulse-height:8%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-utah-t-00-36-15" style="--pulse-height:18%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 3 mentions" title="2026-09-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-gpe-utah-t-00-31-37" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -226,6 +228,8 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-gpe-utah-t-00-10-21) | 10 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-gpe-utah-t-00-00-01) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-gpe-utah-t-00-35-30) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-utah-t-00-36-15) | 3 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-gpe-utah-t-00-31-37) | 1 |
 
 </details>
 </section>
@@ -237,7 +241,29 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (412)</strong></summary>
+<summary><strong class="section-title">Raw mentions (416)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:31:44](/episodes/ep-bpXkPHpz9po.md#ent-gpe-utah-t-00-31-37)**
+> "Utah restaurateur claims that Tyler Robinson stopped i..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (3 mentions)</summary>
+
+**[00:36:33](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-utah-t-00-36-15)**
+> "... to Deseret News, which is in Utah."
+
+**[00:36:46](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-utah-t-00-36-15)**
+> "It's like a local news in Utah. And here's what it says. It says, Neff (Blake Ne..."
+
+**[00:43:47](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-utah-t-00-43-18)**
+> "...eam as I land in Phoenix from Utah and return home."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>

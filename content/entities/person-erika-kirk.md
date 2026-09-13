@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 3091 mentions"
+description: "Erika Kirk (People) - 3103 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -27,12 +27,12 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-erika-kirk-t-00-18-02">2025-09-11 · 00:18:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-50-33">2026-09-03 · 00:50:33</a></strong></div>
-<div><span>Episodes</span><strong>147</strong></div>
-<div><span>Mentions</span><strong>3,091</strong></div>
-<div><span>Statements by</span><strong>122</strong></div>
-<div><span>Statements about</span><strong>971</strong></div>
-<div><span>Relationships</span><strong>310</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-erika-kirk-t-00-10-33">2026-09-10 · 00:11:02</a></strong></div>
+<div><span>Episodes</span><strong>150</strong></div>
+<div><span>Mentions</span><strong>3,103</strong></div>
+<div><span>Statements by</span><strong>123</strong></div>
+<div><span>Statements about</span><strong>986</strong></div>
+<div><span>Relationships</span><strong>314</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -187,6 +187,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-erika-kirk-t-00-03-05" style="--pulse-height:9%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 8 mentions" title="2026-09-01 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-erika-kirk-t-00-30-33" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 6 mentions" title="2026-09-02 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-05-25" style="--pulse-height:19%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 16 mentions" title="2026-09-03 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-erika-kirk-t-00-00-42" style="--pulse-height:10%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 9 mentions" title="2026-09-08 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-erika-kirk-t-00-30-54" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-erika-kirk-t-00-10-33" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -339,6 +342,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-erika-kirk-t-00-03-05) | 8 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-erika-kirk-t-00-30-33) | 6 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-erika-kirk-t-00-05-25) | 16 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-erika-kirk-t-00-00-42) | 9 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-erika-kirk-t-00-30-54) | 2 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-erika-kirk-t-00-10-33) | 1 |
 
 </details>
 </section>
@@ -350,7 +356,58 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3091)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3103)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:11:02](/episodes/ep-S07n8TnRT0Q.md#ent-person-erika-kirk-t-00-10-33)**
+> "...ink I really know what Erika (Erika Kirk) is. I know that a wife would not partner with yo..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
+
+**[00:31:01](/episodes/ep-bpXkPHpz9po.md#ent-person-erika-kirk-t-00-30-54)**
+> "...t to defend Israel and Erika (Erika Kirk) because that seems to go hand in hand. And lastl..."
+
+**[00:39:32](/episodes/ep-bpXkPHpz9po.md#ent-person-erika-kirk-t-00-39-26)**
+> "... confirm that he actually saw Erika Kirk in the lobby or that he actually saw Brian Harpol..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (9 mentions)</summary>
+
+**[00:00:42](/episodes/ep-FGoeoZxDN1c.md#ent-person-erika-kirk-t-00-00-42)**
+> "...y engine, so to speak. First, Erika Kirk has moved to publish a one-year look back on her ..."
+
+**[00:35:58](/episodes/ep-FGoeoZxDN1c.md#ent-person-erika-kirk-t-00-35-41)**
+> "I don't do the Erika Kirk, you're my family thing. I'm not their family, an..."
+
+**[00:40:40](/episodes/ep-FGoeoZxDN1c.md#ent-person-erika-kirk-t-00-40-40)**
+> "In other news, Erika (Erika Kirk), if you have not seen it, released an op-ed in t..."
+
+**[00:40:52](/episodes/ep-FGoeoZxDN1c.md#ent-person-erika-kirk-t-00-40-40)**
+> "...ntrary, we just saw an Erika (Erika Kirk) who wanted to move on to be the CEO, but now she..."
+
+**[00:44:48](/episodes/ep-FGoeoZxDN1c.md#ent-person-erika-kirk-t-00-44-41)**
+> "...going to see a side of Erika (Erika Kirk) that we haven't seen."
+
+**[00:49:22](/episodes/ep-FGoeoZxDN1c.md#ent-person-erika-kirk-t-00-48-55)**
+> "...I think Glenn Beck. Is Erika (Erika Kirk) speaking there?"
+
+**[00:54:06](/episodes/ep-FGoeoZxDN1c.md#ent-person-erika-kirk-t-00-54-06)**
+> "...es, it's relevant that Erika (Erika Kirk), when she gave interviews thereafter said that C..."
+
+**[00:55:00](/episodes/ep-FGoeoZxDN1c.md#ent-person-erika-kirk-t-00-54-47)**
+> "...we are to believe that Erika (Erika Kirk) had no idea that he had any fears the night befo..."
+
+**[00:56:03](/episodes/ep-FGoeoZxDN1c.md#ent-person-erika-kirk-t-00-56-03)**
+> "...e team set that up and Erika (Erika Kirk) didn't know."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (16 mentions)</summary>
@@ -10936,7 +10993,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Criticized By (9)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (64)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (65)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -11002,6 +11059,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:01](/episodes/ep-Wjul6YV6izo.md#t-00-53-24): “Mrs. Kirk is not just behaving inappropriately. She's behaving suspiciously. ... it is always suspicious to tell a lie.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35): “in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:02:29](/episodes/ep-HIlPQ-_dcxM.md#t-01-02-29): “The reason why so many conservabros love it is because they're basically trying to draw this line between people that think Erika Kirk is suspicious to people that want Lindsay Clancy freed or something, some disingenuous line that they're trying to draw, which is completely crazy because they were the ones that were going on vibes of Erika and just saying that we should all ignore the lies that she's told us.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:11:02](/episodes/ep-S07n8TnRT0Q.md#t-00-10-33): “I don't think I really know what Erika (Erika Kirk) is. I know that a wife would not partner with your enemies.”
 
 </details>
 
@@ -11124,6 +11182,18 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:38:00](/episodes/ep-E7P2ShoYDUA.md#t-00-37-38): “i then called him out for having played three erica clips like in a row you're sitting here saying you're not here on behalf of of turning point usa but you start with an opening text that only turning point usa could have given you that they have not given to the public and now you're playing three clips in defense of her”
+
+</details>
+
+</details>
+
+<details>
+<summary>Endorsed (1)</summary>
+
+- **[JD Vance](/entities/person-jd-vance.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:45:27](/episodes/ep-FGoeoZxDN1c.md#t-00-45-27): “Um, they have seen this surface level of you. We know you love Vance (JD Vance). You opened AMFest and said we got to get Vance (JD Vance) elected.”
 
 </details>
 
@@ -11511,7 +11581,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[The New York Times](/entities/org-the-new-york-times.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46): “On the 18th, this, by the way, strikes me as odd in the retrospect as I was working on these couple of episodes about Erika (Erika Kirk). ... On the 18th, there's eight days after the assassination, she gave an in-person interview with the New York Times at her and Charlie (Charlie Kirk)'s condo.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated”
@@ -11520,6 +11590,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48): “Erica (Erika Kirk) sat down with the New York Times, as we have many times covered over, just days following the assassination, welcomed them into her and Charlie (Charlie Kirk)'s apartment, and here is what they published verbatim. They wrote, it had been miss...”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:13:18](/episodes/ep-OgRyiOAVtWU.md#t-00-13-18): “Everyone, he was trained to exactly what he was supposed to do, immediately called Erika (Erika Kirk). Erika (Erika Kirk), even in the New York Times interview that she gave eight days later, said that at 11.23, obviously adjusting for time, 12.23, I guess, in local time, Utah, 11.23, her time.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:28:56](/episodes/ep-ds6umq1rHAw.md#t-00-28-41): “Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:41:07](/episodes/ep-FGoeoZxDN1c.md#t-00-41-07): “like and it's behind a paywall okay she just continues to partner with a publication that her deceased husband hated this was the first publication she partnered with she opened their apartment to an in-person interview and sat down with them what was it two days after Charlie (Charlie Kirk)'s assassination Charlie (Charlie Kirk) never wrote an op-ed for the New York Times.”
 
 </details>
 
@@ -11791,12 +11862,19 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Spoke With (1)</summary>
+<summary>Spoke With (2)</summary>
 
 - **[Anna (Episode 235 livestream commenter; identity unverified)](/entities/anon-src-czVBmqZP6Ss-002.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:59:22](/episodes/ep-czVBmqZP6Ss.md#t-00-59-19): “Anna writes, “At AmFest 2023, I went alone. At the PBD live podcast, I stood there talking to a woman for the whole hour the show was going on. Talked to her about my heritage, Armenian, and she shared that she and her husband cared deeply about my people. At the end of the conversation, she let me know that she let me know she is Charlie’s wife, Erika.”
+
+</details>
+
+- **[Usha Vance](/entities/person-usha-vance.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:44:13](/episodes/ep-FGoeoZxDN1c.md#t-00-44-02): “It's I feel a wave building inside of me. I know it's about to crash. I don't know how I'm going to do this. I told second lady Usha Vance earlier that day and she held my hand and she said, you know, when you're on an airplane with your kids and you're going to land in 15 minutes, but the kids are going crazy, screaming, throwing things and then the plane lands and the kids relax and everything is fine again.”
 
 </details>
 
@@ -11853,7 +11931,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Widow Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (75)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (77)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -11930,6 +12008,8 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:28](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “So what is it about Charlie's widow in particular that is inspiring his very public nervous breakdown?”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:28](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28): “A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:16:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15): “And what we know for a fact now is that for some strange reason, and I'm citing this as strange because we now know for a fact that Charlie (Charlie Kirk) communicated the night before that he was fearful for his life, that he thought they were going to kill him, something that his wife initially denied and then had to concede.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:43:47](/episodes/ep-FGoeoZxDN1c.md#t-00-43-18): “It's September 11th, 2025, a day after my husband Charlie Kirk was shot and killed. The past 24 hours feel like a fever dream as I land in Phoenix from Utah and return home.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:09:54](/episodes/ep-S07n8TnRT0Q.md#t-00-09-49): “I'm also public enemy number one for investigating your wife. ... I don't think I really know what Erika (Erika Kirk) is. I know that a wife would not partner with your enemies.”
 
 </details>
 
@@ -12105,7 +12185,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Referenced By (144)</summary>
+<summary>Referenced By (146)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (26)</summary>
@@ -12414,7 +12494,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (64)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (65)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-25): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -12480,6 +12560,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:01](/episodes/ep-Wjul6YV6izo.md#t-00-53-24): “Mrs. Kirk is not just behaving inappropriately. She's behaving suspiciously. ... it is always suspicious to tell a lie.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:39:35](/episodes/ep-JrhGEm8MGRY.md#t-00-39-35): “in azkaban and my soul is being sucked she can't lead this company she doesn't have the spark she doesn't have the intelligence um she doesn't even have the emotional intelligence right forget iq she doesn't have the eq to run this company it is being run into the ground people are rightfully outraged that they would partner with his enemies Who even cares at this point? We get it. They are his enemies.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 01:02:29](/episodes/ep-HIlPQ-_dcxM.md#t-01-02-29): “The reason why so many conservabros love it is because they're basically trying to draw this line between people that think Erika Kirk is suspicious to people that want Lindsay Clancy freed or something, some disingenuous line that they're trying to draw, which is completely crazy because they were the ones that were going on vibes of Erika and just saying that we should all ignore the lies that she's told us.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:11:02](/episodes/ep-S07n8TnRT0Q.md#t-00-10-33): “I don't think I really know what Erika (Erika Kirk) is. I know that a wife would not partner with your enemies.”
 
 </details>
 
@@ -12559,7 +12640,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** deceased husband of this
-<details class="relationship-evidence"><summary>Show all evidence (75)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (77)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -12636,6 +12717,8 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:28](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “So what is it about Charlie's widow in particular that is inspiring his very public nervous breakdown?”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:28](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28): “A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:16:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15): “And what we know for a fact now is that for some strange reason, and I'm citing this as strange because we now know for a fact that Charlie (Charlie Kirk) communicated the night before that he was fearful for his life, that he thought they were going to kill him, something that his wife initially denied and then had to concede.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:43:47](/episodes/ep-FGoeoZxDN1c.md#t-00-43-18): “It's September 11th, 2025, a day after my husband Charlie Kirk was shot and killed. The past 24 hours feel like a fever dream as I land in Phoenix from Utah and return home.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:09:54](/episodes/ep-S07n8TnRT0Q.md#t-00-09-49): “I'm also public enemy number one for investigating your wife. ... I don't think I really know what Erika (Erika Kirk) is. I know that a wife would not partner with your enemies.”
 
 </details>
 
@@ -12695,6 +12778,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05): “the people who work here, who worked with Charlie every single day, his best friends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk”
+
+</details>
+
+- **[JD Vance](/entities/person-jd-vance.md)** endorsed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:45:27](/episodes/ep-FGoeoZxDN1c.md#t-00-45-27): “Um, they have seen this surface level of you. We know you love Vance (JD Vance). You opened AMFest and said we got to get Vance (JD Vance) elected.”
 
 </details>
 
@@ -13188,7 +13278,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[The New York Times](/entities/org-the-new-york-times.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46): “On the 18th, this, by the way, strikes me as odd in the retrospect as I was working on these couple of episodes about Erika (Erika Kirk). ... On the 18th, there's eight days after the assassination, she gave an in-person interview with the New York Times at her and Charlie (Charlie Kirk)'s condo.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated”
@@ -13197,6 +13287,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48): “Erica (Erika Kirk) sat down with the New York Times, as we have many times covered over, just days following the assassination, welcomed them into her and Charlie (Charlie Kirk)'s apartment, and here is what they published verbatim. They wrote, it had been miss...”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:13:18](/episodes/ep-OgRyiOAVtWU.md#t-00-13-18): “Everyone, he was trained to exactly what he was supposed to do, immediately called Erika (Erika Kirk). Erika (Erika Kirk), even in the New York Times interview that she gave eight days later, said that at 11.23, obviously adjusting for time, 12.23, I guess, in local time, Utah, 11.23, her time.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:28:56](/episodes/ep-ds6umq1rHAw.md#t-00-28-41): “Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:41:07](/episodes/ep-FGoeoZxDN1c.md#t-00-41-07): “like and it's behind a paywall okay she just continues to partner with a publication that her deceased husband hated this was the first publication she partnered with she opened their apartment to an in-person interview and sat down with them what was it two days after Charlie (Charlie Kirk)'s assassination Charlie (Charlie Kirk) never wrote an op-ed for the New York Times.”
 
 </details>
 
@@ -13416,6 +13507,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
+- **[Usha Vance](/entities/person-usha-vance.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:44:13](/episodes/ep-FGoeoZxDN1c.md#t-00-44-02): “It's I feel a wave building inside of me. I know it's about to crash. I don't know how I'm going to do this. I told second lady Usha Vance earlier that day and she held my hand and she said, you know, when you're on an airplane with your kids and you're going to land in 15 minutes, but the kids are going crazy, screaming, throwing things and then the plane lands and the kids relax and everything is fine again.”
+
+</details>
+
 - **[Larry Guinta](/entities/person-larry-guinta.md)** stepparent of this
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
@@ -13482,7 +13580,15 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Erika Kirk (122)</strong></summary>
+<summary><strong class="section-title">Statements by Erika Kirk (123)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>
+
+- [00:43:47](/episodes/ep-FGoeoZxDN1c.md#t-00-43-18) [○] (Claim) ["In her New York Times op-ed as read by Owens, Erika Kirk described returning hom..."](/statements/statement-15829f0a64c6.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>
@@ -14100,7 +14206,66 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (971)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (986)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (3)</summary>
+
+- [00:11:02](/episodes/ep-S07n8TnRT0Q.md#t-00-10-33) (Opinion) **Candace Owens** (via quoted document): ["Reading an undated journal entry, Owens accused Erika Kirk of partneri..."](/statements/statement-ea6c7457955c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:11:10](/episodes/ep-S07n8TnRT0Q.md#t-00-11-10) (Accusation) **Candace Owens** (via quoted document): ["Owens said she knew of a scheduled change to Kirk’s will and of a subu..."](/statements/statement-53f09d780cf4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:53](/episodes/ep-S07n8TnRT0Q.md#t-00-12-32) (Claim) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk claimed she first saw Charlie at an airport duri..."](/statements/statement-727f78f68eea.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:30:46](/episodes/ep-bpXkPHpz9po.md#t-00-30-12) (Accusation) **Candace Owens**: ["Owens alleged that Andrew Wilson had been sent to elicit defamatory cl..."](/statements/statement-f4e7d5e32809.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Candace Owens](/entities/person-candace-owens.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (11)</summary>
+
+- [00:40:40](/episodes/ep-FGoeoZxDN1c.md#t-00-40-40) (Claim) **Candace Owens**: ["Owens said Erika Kirk published a New York Times op-ed reflecting on h..."](/statements/statement-6f59a0d37cad.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [The New York Times](/entities/org-the-new-york-times.md)
+
+- [00:41:07](/episodes/ep-FGoeoZxDN1c.md#t-00-41-07) (Claim) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk admitted a New York Times interviewer to her apa..."](/statements/statement-8ba682012644.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:31](/episodes/ep-FGoeoZxDN1c.md#t-00-43-18) (Opinion) **Candace Owens**: ["Owens said Erika Kirk’s public grief narrative felt like an extended p..."](/statements/statement-56519a819553.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [Usha Vance](/entities/person-usha-vance.md)
+
+- [00:43:47](/episodes/ep-FGoeoZxDN1c.md#t-00-43-18) (Claim) **Erika Kirk** (via quoted article): ["In her New York Times op-ed as read by Owens, Erika Kirk described ret..."](/statements/statement-15829f0a64c6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:44:13](/episodes/ep-FGoeoZxDN1c.md#t-00-44-02) (Opinion) **Usha Vance** (via quoted article): ["According to Erika Kirk’s op-ed read by Owens, Usha Vance held her han..."](/statements/statement-f9714dfd9361.md)
+  - Also about: [Usha Vance](/entities/person-usha-vance.md)
+
+- [00:45:27](/episodes/ep-FGoeoZxDN1c.md#t-00-45-27) (Claim) **Candace Owens**: ["Owens said Erika Kirk opened AmericaFest by calling for JD Vance to be..."](/statements/statement-44b18d4e304d.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [AmericaFest 2025](/entities/event-americafest-2025.md)
+
+- [00:46:43](/episodes/ep-FGoeoZxDN1c.md#t-00-46-34) (Claim) **Candace Owens**: ["Owens said Erika Kirk laughed at emojis during a Zoom staff call six d..."](/statements/statement-cc86a521751d.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:46:43](/episodes/ep-FGoeoZxDN1c.md#t-00-46-34) (Claim) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk told Jesse Watters she did not need sleeping pil..."](/statements/statement-a8f574e25993.md)
+  - Also about: [Jesse Watters](/entities/person-jesse-watters.md)
+
+- [00:53:31](/episodes/ep-FGoeoZxDN1c.md#t-00-53-31) (Claim) **Candace Owens**: ["Owens said the Zoom call came about two hours after Kirk said he was a..."](/statements/statement-7ed5d0131a3f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:56:03](/episodes/ep-FGoeoZxDN1c.md#t-00-56-03) (Claim) **Andrew Kolvet** (via quoted post): ["According to a viewer comment by Ali read by Owens, Andrew Kolvet said..."](/statements/statement-db62c4314984.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:56:14](/episodes/ep-FGoeoZxDN1c.md#t-00-56-03) (Opinion) **Candace Owens**: ["Owens inferred from Erika Kirk’s sparkling pantsuit that she probably ..."](/statements/statement-da1c702c0d10.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3)</summary>

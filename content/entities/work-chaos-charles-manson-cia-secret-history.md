@@ -1,6 +1,6 @@
 ---
 title: "CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties"
-description: "CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties (Works & Media) - 14 mentions"
+description: "CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties (Works & Media) - 17 mentions"
 id: "work-chaos-charles-manson-cia-secret-history"
 type: "WORK"
 aliases:
@@ -29,12 +29,12 @@ Source: [Chaos by Tom O’Neill & Dan Piepenbring | Hachette Book Group](https:/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-38-05">2025-09-15 · 00:38:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-work-chaos-charles-manson-cia-secret-history-t-01-18-00">2026-05-21 · 01:18:00</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-49-56">2026-09-09 · 00:49:56</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -51,6 +51,7 @@ Source: [Chaos by Tom O’Neill & Dan Piepenbring | Hachette Book Group](https:/
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-01-48" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-48-20" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-work-chaos-charles-manson-cia-secret-history-t-01-17-49" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-49-38" style="--pulse-height:75%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [Chaos by Tom O’Neill & Dan Piepenbring | Hachette Book Group](https:/
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-01-48) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-48-20) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-work-chaos-charles-manson-cia-secret-history-t-01-17-49) | 2 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-49-38) | 3 |
 
 </details>
 </section>
@@ -72,7 +74,21 @@ Source: [Chaos by Tom O’Neill & Dan Piepenbring | Hachette Book Group](https:/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3 mentions)</summary>
+
+**[00:49:51](/episodes/ep-bpXkPHpz9po.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-49-38)**
+> "...stigation similar to the book Chaos."
+
+**[00:49:56](/episodes/ep-bpXkPHpz9po.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-49-56)**
+> "...m O'Neill in writing the book Chaos and falling down the rabbit hole and realizing no..."
+
+**[00:49:56](/episodes/ep-bpXkPHpz9po.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-49-56)**
+> "Thank you for your dedication. Go Max. That's a great idea. That is a fantastic idea. I really respected deeply the dedication and the persistence of Tom O'Neill in writing the book Chaos and falling down the rabbit hole and realizing nothing we were told was true and government involvement. And, you know, it's difficult to imagine someone dedicating decades of their life to finding the answers."
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (2 mentions)</summary>
@@ -166,7 +182,29 @@ Source: [Chaos by Tom O’Neill & Dan Piepenbring | Hachette Book Group](https:/
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Authored By (1)</summary>
+
+- **[Tom O’Neill](/entities/person-tom-oneill.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:49:56](/episodes/ep-bpXkPHpz9po.md#t-00-49-56): “I really respected deeply the dedication and the persistence of Tom O'Neill in writing the book Chaos”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Tom O’Neill](/entities/person-tom-oneill.md)** authored this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:49:56](/episodes/ep-bpXkPHpz9po.md#t-00-49-56): “I really respected deeply the dedication and the persistence of Tom O'Neill in writing the book Chaos”
+
+</details>
+
+</details>
 
 </details>
 

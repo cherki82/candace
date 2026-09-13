@@ -30,7 +30,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <div><span>Episodes</span><strong>108</strong></div>
 <div><span>Mentions</span><strong>766</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>228</strong></div>
+<div><span>Statements about</span><strong>229</strong></div>
 <div><span>Relationships</span><strong>39</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -3372,7 +3372,15 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (228)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (229)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:33:27](/episodes/ep-bpXkPHpz9po.md#t-00-33-27) (Claim) **Candace Owens**: ["Owens said the Cowboy Smokehouse owner had not been present that night..."](/statements/statement-6ad7db997786.md)
+  - Also about: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboys Smokehouse owner (identity unverified)](/entities/anon-src-_cNtgris8Ik-007.md)
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>

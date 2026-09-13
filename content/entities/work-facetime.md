@@ -1,6 +1,6 @@
 ---
 title: "FaceTime"
-description: "FaceTime (Works & Media) - 36 mentions"
+description: "FaceTime (Works & Media) - 40 mentions"
 id: "work-facetime"
 type: "WORK"
 categories:
@@ -18,9 +18,9 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-work-facetime-t-00-10-30">2025-09-19 · 00:10:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-work-facetime-t-00-23-16">2026-09-01 · 00:23:50</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#t-00-14-20">2026-09-09 · 00:14:20</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,8 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-facetime-t-00-36-11" style="--pulse-height:71%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 5 mentions" title="2026-07-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-facetime-t-00-07-52" style="--pulse-height:14%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-work-facetime-t-00-14-20" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 7 mentions" title="2026-09-01 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-work-facetime-t-00-28-08" style="--pulse-height:43%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 3 mentions" title="2026-09-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#t-00-14-20" style="--pulse-height:14%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +66,8 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-work-facetime-t-00-36-11) | 5 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-work-facetime-t-00-07-52) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-work-facetime-t-00-14-20) | 7 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-work-facetime-t-00-28-08) | 3 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#t-00-14-20) | 1 |
 
 </details>
 </section>
@@ -75,7 +79,29 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:14:20](/episodes/ep-bpXkPHpz9po.md#t-00-14-20)**
+> "Now, we know that Frank (Frank Turek), when he got to the hospital, he immediately FaceTimed Pastor Jack Hibbs, that terrible interview where Frank (Frank Turek) goes through great lengths to remind Pastor Hibbs."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (3 mentions)</summary>
+
+**[00:28:08](/episodes/ep-FGoeoZxDN1c.md#ent-work-facetime-t-00-28-08)**
+> "...kay, so Ebro (Ebro Darden), I FaceTime him, and I'm there with Candace, right? And Ebro ..."
+
+**[00:53:06](/episodes/ep-FGoeoZxDN1c.md#ent-work-facetime-t-00-52-52)**
+> "...i (Pesach Wolicki) was on the FaceTime call."
+
+**[00:53:21](/episodes/ep-FGoeoZxDN1c.md#ent-work-facetime-t-00-52-52)**
+> "Sorry, I'm saying FaceTime. I meant Zoom call because he was in Arizona at t..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (7 mentions)</summary>

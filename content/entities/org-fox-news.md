@@ -1,6 +1,6 @@
 ---
 title: "Fox News"
-description: "Fox News (Organizations) - 96 mentions"
+description: "Fox News (Organizations) - 97 mentions"
 id: "org-fox-news"
 type: "ORG"
 aliases:
@@ -26,9 +26,9 @@ Source: [Fox News](https://www.foxnews.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31">2025-09-11 · 00:03:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-org-fox-news-t-00-31-35">2026-09-03 · 00:32:09</a></strong></div>
-<div><span>Episodes</span><strong>53</strong></div>
-<div><span>Mentions</span><strong>96</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-org-fox-news-t-00-31-37">2026-09-09 · 00:31:51</a></strong></div>
+<div><span>Episodes</span><strong>54</strong></div>
+<div><span>Mentions</span><strong>97</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
@@ -92,6 +92,7 @@ Source: [Fox News](https://www.foxnews.com/)
 <a href="/episodes/ep-1CFDtD0IgEg.md#t-00-47-56" style="--pulse-height:12%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-org-fox-news-t-00-13-36" style="--pulse-height:12%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-org-fox-news-t-00-31-35" style="--pulse-height:12%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-org-fox-news-t-00-31-37" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -150,6 +151,7 @@ Source: [Fox News](https://www.foxnews.com/)
 | 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#t-00-47-56) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-org-fox-news-t-00-13-36) | 1 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-org-fox-news-t-00-31-35) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-org-fox-news-t-00-31-37) | 1 |
 
 </details>
 </section>
@@ -161,7 +163,15 @@ Source: [Fox News](https://www.foxnews.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (96)</strong></summary>
+<summary><strong class="section-title">Raw mentions (97)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:31:51](/episodes/ep-bpXkPHpz9po.md#ent-org-fox-news-t-00-31-37)**
+> "Okay. Fox News also covered the story. One of Tyler Robinson's l..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>

@@ -18,7 +18,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (156 times)
+## Mentioned In (157 times)
 
 ### 1. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
@@ -1276,3 +1276,11 @@ date: "2025-09-10"
 <a href="https://www.youtube.com/watch?v=HIlPQ-_dcxM&t=1718s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The shooting occurs. I am next to Mikey. Both of us hear a loud crack. We both turn. We both see Charlie who has been shot. ... Both of us, I think at about the same time, realized that that means there is a shooter who is on the scene.
+
+### 157. One Year On… To My Friend Charlie Kirk.
+
+**Episode:** [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md)
+**Timestamp:** [00:00:02](/episodes/ep-S07n8TnRT0Q.md#t-00-00-02) 
+<a href="https://www.youtube.com/watch?v=S07n8TnRT0Q&t=2s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> All right, you guys, today marks the one-year anniversary of Charlie's death. Obviously, a lot has changed since September 10th.

@@ -1,6 +1,6 @@
 ---
 title: "Republican National Committee"
-description: "Republican National Committee (Organizations) - 13 mentions"
+description: "Republican National Committee (Organizations) - 14 mentions"
 id: "org-republican-national-committee"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Republican National Committee | RNC](https://www.rnc.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-republican-national-committee-t-00-02-47">2025-09-11 · 00:02:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-republican-national-committee-t-00-17-37">2026-07-20 · 00:17:57</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-org-republican-national-committee-t-00-04-39">2026-09-10 · 00:05:08</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,7 @@ Source: [Republican National Committee | RNC](https://www.rnc.org/)
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-republican-national-committee-t-00-45-36" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-republican-national-committee-t-00-45-36" style="--pulse-height:50%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-republican-national-committee-t-00-17-37" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-org-republican-national-committee-t-00-04-39" style="--pulse-height:50%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +58,7 @@ Source: [Republican National Committee | RNC](https://www.rnc.org/)
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-republican-national-committee-t-00-45-36) | 2 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-republican-national-committee-t-00-45-36) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-republican-national-committee-t-00-17-37) | 2 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-org-republican-national-committee-t-00-04-39) | 1 |
 
 </details>
 </section>
@@ -64,7 +66,15 @@ Source: [Republican National Committee | RNC](https://www.rnc.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:05:08](/episodes/ep-S07n8TnRT0Q.md#ent-org-republican-national-committee-t-00-04-39)**
+> "... really weird. It was like an RNC rally."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>

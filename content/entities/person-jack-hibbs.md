@@ -1,6 +1,6 @@
 ---
 title: "Jack Hibbs"
-description: "Jack Hibbs (People) - 52 mentions"
+description: "Jack Hibbs (People) - 56 mentions"
 id: "person-jack-hibbs"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37">2025-10-31 · 00:59:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-jack-hibbs-t-00-54-57">2026-09-02 · 00:55:04</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-15-55">2026-09-09 · 00:15:55</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>56</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>27</strong></div>
@@ -49,6 +49,7 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-06-52" style="--pulse-height:100%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 24 mentions" title="2026-09-01 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-jack-hibbs-t-00-54-13" style="--pulse-height:12%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-14-20" style="--pulse-height:17%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 4 mentions" title="2026-09-09 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-jack-hibbs-t-00-06-52) | 24 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-jack-hibbs-t-00-54-13) | 3 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-14-20) | 4 |
 
 </details>
 </section>
@@ -79,7 +81,24 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (4 mentions)</summary>
+
+**[00:14:20](/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-14-20)**
+> "... immediately FaceTimed Pastor Jack Hibbs, that terrible interview where Frank (Frank Turek..."
+
+**[00:15:29](/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-15-19)**
+> "Said, Jack (Jack Hibbs), get everyone in the world praying."
+
+**[00:15:55](/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-15-55)**
+> "...nk Turek)'s memory, not Jack (Jack Hibbs)'s. You saw that I had blood on me."
+
+**[00:14:20](/episodes/ep-bpXkPHpz9po.md#ent-person-jack-hibbs-t-00-14-20)**
+> "Now, we know that Frank (Frank Turek), when he got to the hospital, he immediately FaceTimed Pastor Jack Hibbs, that terrible interview where Frank (Frank Turek) goes through great lengths to remind Pastor Hibbs."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (3 mentions)</summary>
@@ -425,9 +444,10 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <summary>Spoke With (4)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:28](/episodes/ep-ZkDO-MRLUco.md#t-00-15-28): “That was after we got to the hospital as ... I was in the ... Emergency room after we got Charlie (Charlie Kirk) there and ... I called ... You yeah ... Then I FaceTimed you. I faced, we were talking, you”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:14:20](/episodes/ep-bpXkPHpz9po.md#t-00-14-20): “Now, we know that Frank (Frank Turek), when he got to the hospital, he immediately FaceTimed Pastor Jack Hibbs”
 
 </details>
 
@@ -522,9 +542,10 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** spoke with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:28](/episodes/ep-ZkDO-MRLUco.md#t-00-15-28): “That was after we got to the hospital as ... I was in the ... Emergency room after we got Charlie (Charlie Kirk) there and ... I called ... You yeah ... Then I FaceTimed you. I faced, we were talking, you”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:14:20](/episodes/ep-bpXkPHpz9po.md#t-00-14-20): “Now, we know that Frank (Frank Turek), when he got to the hospital, he immediately FaceTimed Pastor Jack Hibbs”
 
 </details>
 

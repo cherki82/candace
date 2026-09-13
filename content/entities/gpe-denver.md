@@ -1,6 +1,6 @@
 ---
 title: "Denver"
-description: "Denver (Places) - 4 mentions"
+description: "Denver (Places) - 5 mentions"
 id: "gpe-denver"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [City and County of Denver](https://www.denvergov.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-denver-t-00-07-02">2026-04-14 · 00:07:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-denver-t-00-12-10">2026-05-13 · 00:12:32</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-denver-t-00-10-01">2026-09-08 · 00:10:22</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [City and County of Denver](https://www.denvergov.org/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-denver-t-00-07-02" style="--pulse-height:33%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-denver-t-00-10-48" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-denver-t-00-10-01" style="--pulse-height:33%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [City and County of Denver](https://www.denvergov.org/)
 |---|---|---:|
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-denver-t-00-07-02) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-denver-t-00-10-48) | 3 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-denver-t-00-10-01) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [City and County of Denver](https://www.denvergov.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:10:22](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-denver-t-00-10-01)**
+> "that we had picked up at Denver airport and we had this three hour journey up the..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (3 mentions)</summary>

@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 163_
+_Total episodes: 166_
 
 <div class="page-filter-container">
   <input type="search" class="page-filter" placeholder="Filter episodes..." aria-label="Filter episodes..." autocomplete="off">
@@ -22,6 +22,12 @@ _Total episodes: 163_
 </style>
 
 
+
+## Week of Sep 07 - 13, 2026
+
+- [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md) — Thu, Sep 10
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md) — Wed, Sep 09
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md) — Tue, Sep 08
 
 ## Week of Aug 31 - Sep 06, 2026
 

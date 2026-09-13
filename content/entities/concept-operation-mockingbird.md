@@ -1,6 +1,6 @@
 ---
 title: "Operation Mockingbird"
-description: "Operation Mockingbird (Concepts) - 20 mentions"
+description: "Operation Mockingbird (Concepts) - 21 mentions"
 id: "concept-operation-mockingbird"
 type: "CONCEPT"
 aliases:
@@ -25,11 +25,11 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-operation-mockingbird-t-00-11-44">2025-09-18 · 00:12:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-operation-mockingbird-t-00-52-32">2026-07-29 · 00:53:00</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-operation-mockingbird-t-00-47-07">2026-09-08 · 00:47:35</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -49,6 +49,7 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-operation-mockingbird-t-00-02-24" style="--pulse-height:20%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-operation-mockingbird-t-01-01-34" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-operation-mockingbird-t-00-52-32" style="--pulse-height:40%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-operation-mockingbird-t-00-47-07" style="--pulse-height:20%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-operation-mockingbird-t-00-02-24) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-operation-mockingbird-t-01-01-34) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-operation-mockingbird-t-00-52-32) | 2 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-concept-operation-mockingbird-t-00-47-07) | 1 |
 
 </details>
 </section>
@@ -72,7 +74,15 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:47:35](/episodes/ep-FGoeoZxDN1c.md#ent-concept-operation-mockingbird-t-00-47-07)**
+> "Operation Mockingbird, the New York Times was involved in that after th..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2 mentions)</summary>
@@ -221,7 +231,15 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Operation Mockingbird (7)</strong></summary>
+<summary><strong class="section-title">Statements about Operation Mockingbird (8)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>
+
+- [00:47:35](/episodes/ep-FGoeoZxDN1c.md#t-00-47-07) (Accusation) **Candace Owens**: ["Owens alleged The New York Times participated in Operation Mockingbird..."](/statements/statement-46b3f13693f4.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>

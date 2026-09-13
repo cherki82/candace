@@ -1,6 +1,6 @@
 ---
 title: "Megyn Kelly"
-description: "Megyn Kelly (People) - 256 mentions"
+description: "Megyn Kelly (People) - 258 mentions"
 id: "person-megyn-kelly"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-megyn-kelly-t-00-11-22">2025-09-15 · 00:11:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31">2026-08-14 · 02:47:31</a></strong></div>
-<div><span>Episodes</span><strong>70</strong></div>
-<div><span>Mentions</span><strong>256</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-megyn-kelly-t-00-45-37">2026-09-09 · 00:46:07</a></strong></div>
+<div><span>Episodes</span><strong>71</strong></div>
+<div><span>Mentions</span><strong>258</strong></div>
 <div><span>Statements by</span><strong>21</strong></div>
 <div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>52</strong></div>
@@ -105,6 +105,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-megyn-kelly-t-00-15-44" style="--pulse-height:9%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-megyn-kelly-t-00-11-45" style="--pulse-height:9%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-megyn-kelly-t-00-45-37" style="--pulse-height:9%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 2 mentions" title="2026-09-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -180,6 +181,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-megyn-kelly-t-00-15-44) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46) | 2 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-megyn-kelly-t-00-11-45) | 2 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-megyn-kelly-t-00-45-37) | 2 |
 
 </details>
 </section>
@@ -191,7 +193,18 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (256)</strong></summary>
+<summary><strong class="section-title">Raw mentions (258)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2 mentions)</summary>
+
+**[00:46:00](/episodes/ep-bpXkPHpz9po.md#ent-person-megyn-kelly-t-00-45-37)**
+> "Megyn Kelly has Frank Turek on her show today. Thoughts? He w..."
+
+**[00:46:07](/episodes/ep-bpXkPHpz9po.md#ent-person-megyn-kelly-t-00-45-37)**
+> "... people like so many clips of Megyn Kelly and these people speaking to her become very rele..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>

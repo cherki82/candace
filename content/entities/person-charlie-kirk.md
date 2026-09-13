@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 6117 mentions"
+description: "Charlie Kirk (People) - 6257 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01">2025-09-11 · 00:00:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-charlie-kirk-t-00-55-37">2026-09-03 · 00:55:48</a></strong></div>
-<div><span>Episodes</span><strong>163</strong></div>
-<div><span>Mentions</span><strong>6,117</strong></div>
-<div><span>Statements by</span><strong>125</strong></div>
-<div><span>Statements about</span><strong>1,931</strong></div>
-<div><span>Relationships</span><strong>354</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-28-35">2026-09-10 · 00:28:35</a></strong></div>
+<div><span>Episodes</span><strong>166</strong></div>
+<div><span>Mentions</span><strong>6,257</strong></div>
+<div><span>Statements by</span><strong>127</strong></div>
+<div><span>Statements about</span><strong>1,976</strong></div>
+<div><span>Relationships</span><strong>358</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -200,6 +200,9 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-01-03" style="--pulse-height:42%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 45 mentions" title="2026-09-01 · 45 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-00-40" style="--pulse-height:45%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 49 mentions" title="2026-09-02 · 49 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-charlie-kirk-t-00-00-37" style="--pulse-height:75%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 81 mentions" title="2026-09-03 · 81 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:54%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 58 mentions" title="2026-09-08 · 58 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-00-31" style="--pulse-height:42%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 45 mentions" title="2026-09-09 · 45 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-00-02" style="--pulse-height:34%" aria-label="One Year On… To My Friend Charlie Kirk.: 37 mentions" title="2026-09-10 · 37 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -368,6 +371,9 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-charlie-kirk-t-00-01-03) | 45 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-charlie-kirk-t-00-00-40) | 49 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-charlie-kirk-t-00-00-37) | 81 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-00-01) | 58 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-00-31) | 45 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-00-02) | 37 |
 
 </details>
 </section>
@@ -379,7 +385,442 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6117)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6257)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (37 mentions)</summary>
+
+**[00:00:02](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-00-02)**
+> "...-year anniversary of Charlie (Charlie Kirk)'s death. Obviously, a lot has changed since Sept..."
+
+**[00:00:09](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-00-02)**
+> "...ou, more memories of Charlie (Charlie Kirk), of course, but I also thought it would be a goo..."
+
+**[00:00:24](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-00-02)**
+> "...o write, to write to Charlie (Charlie Kirk)."
+
+**[00:00:40](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-00-40)**
+> "...Okay, it reads, Dear Charlie (Charlie Kirk), I'm really mad at you for being dead."
+
+**[00:01:22](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-01-22)**
+> "...ere always that way, Charlie (Charlie Kirk), like you just couldn't do anything halfway. Tha..."
+
+**[00:02:04](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-02-04)**
+> "...that I weep for you, Charlie (Charlie Kirk)."
+
+**[00:02:52](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-02-42)**
+> "... did know instantly, Charlie (Charlie Kirk), like an old memory had just been triggered."
+
+**[00:04:28](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-03-58)**
+> "...dead, honey. I think Charlie (Charlie Kirk)'s dead."
+
+**[00:04:53](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-04-39)**
+> "Charlie (Charlie Kirk), you're not going to believe me, but Ben Shapiro..."
+
+**[00:06:21](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-05-59)**
+> "Charlie (Charlie Kirk)'s execution is an assassination with potentially..."
+
+**[00:06:37](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-06-37)**
+> "...le for deciding that Charlie (Charlie Kirk) would be executed in front of the world will aff..."
+
+**[00:07:09](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-06-37)**
+> "... of what happened to Charlie (Charlie Kirk) on that day."
+
+**[00:07:20](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-07-20)**
+> "...ng on the subject of Charlie (Charlie Kirk)'s death is extremely concerning to America and t..."
+
+**[00:08:02](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-08-02)**
+> "...cided to assassinate Charlie (Charlie Kirk) and why is their sincere objective."
+
+**[00:08:39](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-08-39)**
+> "...ds were penetrating, Charlie (Charlie Kirk), and you were sentenced to a public execution. E..."
+
+**[00:09:25](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-09-25)**
+> "And it's Charlie Kirk."
+
+**[00:09:31](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-09-31)**
+> "...ig day for this guy. Charlie (Charlie Kirk) is going to be interviewing the President of"
+
+**[00:09:49](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-09-49)**
+> "Hey, Charlie (Charlie Kirk), sorry that I've not written you in a while. A l..."
+
+**[00:10:10](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-09-49)**
+> "...d the biggest heart, Charlie (Charlie Kirk)."
+
+**[00:11:48](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-11-48)**
+> "Charlie (Charlie Kirk), we believe in providence. And so April and May ..."
+
+**[00:13:14](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-13-14)**
+> "...at it saved my life, Charlie (Charlie Kirk), or I would have stayed on your trajectory."
+
+**[00:16:22](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-16-22)**
+> "And guess what, Charlie (Charlie Kirk)? I never believed this, but since you passed and..."
+
+**[00:20:24](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-20-24)**
+> "...nd you certainly did Charlie (Charlie Kirk) and I'm really proud of you for that"
+
+**[00:21:38](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-21-38)**
+> "Hey, Charlie (Charlie Kirk), we are now coming up on your one year death ann..."
+
+**[00:23:07](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-22-35)**
+> "...ns. Literally me and Charlie (Charlie Kirk)'s favorite thing to do. We love driving because ..."
+
+**[00:23:30](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-23-17)**
+> "... Rights Council that Charlie (Charlie Kirk) is not letting me stop to go to the bathroom and..."
+
+**[00:23:43](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-23-39)**
+> "...ere you were headed, Charlie (Charlie Kirk), and I would have never listened to you either."
+
+**[00:24:20](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-24-20)**
+> "Like you said, Charlie (Charlie Kirk), we are going to fight and we are going to win."
+
+**[00:24:48](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-24-20)**
+> "...s with Laura Loomer, Charlie (Charlie Kirk), me and you, though."
+
+**[00:24:56](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-24-56)**
+> "...arlson. So I'm told, Charlie (Charlie Kirk), there is not a piece of you that they did not t..."
+
+**[00:26:51](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-26-22)**
+> "You were right, Charlie (Charlie Kirk), your death came early and you did nothing to st..."
+
+**[00:27:30](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-27-05)**
+> "... you freed yourself, Charlie (Charlie Kirk). And I know that I will see you again. Until the..."
+
+**[00:27:39](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-27-05)**
+> "Charlie (Charlie Kirk) really was an amazing person. You know, he was l..."
+
+**[00:28:03](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-27-44)**
+> "... allow the memory of Charlie (Charlie Kirk) to be forgotten, obviously, because there is no ..."
+
+**[00:28:10](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-27-44)**
+> "Charlie (Charlie Kirk), you know, we came up in politics together, and ..."
+
+**[00:28:20](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-27-44)**
+> "I love you, Charlie (Charlie Kirk), and see you when I see you. I love you very muc..."
+
+**[00:28:35](/episodes/ep-S07n8TnRT0Q.md#ent-person-charlie-kirk-t-00-28-35)**
+> "...nna outwork Candace Owens and Charlie Kirk, you're wrong,"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (45 mentions)</summary>
+
+**[00:00:31](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-00-31)**
+> "...en, it is the eve of Charlie (Charlie Kirk)'s death anniversary. For one full year, we have ..."
+
+**[00:00:40](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-00-31)**
+> "For the person that Charlie (Charlie Kirk) actually was, who he truly was, the person that ..."
+
+**[00:01:27](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-01-19)**
+> "...fied one member from Charlie (Charlie Kirk)'s security team on September 10th, this individu..."
+
+**[00:02:36](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-02-03)**
+> "...arned is oddly married to the Charlie Kirk assassination in ways that we didn't expect, inst..."
+
+**[00:06:05](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-06-05)**
+> "...larly about our mutual friend Charlie Kirk?"
+
+**[00:07:06](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-06-53)**
+> "...eve that he was with Charlie (Charlie Kirk) in Arizona. He was in the 48 hours leading up to..."
+
+**[00:07:11](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-06-53)**
+> "...eptember 8th because Charlie (Charlie Kirk) just needed debate tips, right?"
+
+**[00:07:19](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-06-53)**
+> "...t continue to go on. Charlie (Charlie Kirk)'s need suddenly to be coached on how to debate."
+
+**[00:07:25](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-06-53)**
+> "...rek) would then join Charlie (Charlie Kirk) the next day for that now infamous Zoom call bec..."
+
+**[00:07:33](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-07-33)**
+> "... to hawk his book on Charlie (Charlie Kirk)'s death."
+
+**[00:07:50](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-07-33)**
+> "Uh off the back of Charlie (Charlie Kirk)'s death rather the same Josh Hammer who was caug..."
+
+**[00:08:21](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-08-10)**
+> "...thered on a Zoom call to help Charlie Kirk, a literal boy wonder who was on the fast track t..."
+
+**[00:08:49](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-08-49)**
+> "...wo hours after that, Charlie (Charlie Kirk) then felt the need to have a pro-Israel Zoom cal..."
+
+**[00:09:45](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-09-30)**
+> "...them telling us that Charlie (Charlie Kirk) was so long that they had to leave the door open..."
+
+**[00:12:31](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-12-25)**
+> "...m the trunk and laid Charlie (Charlie Kirk) down in a specific manner that he would have to ..."
+
+**[00:13:26](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-13-02)**
+> "...tually did not touch Charlie (Charlie Kirk)."
+
+**[00:13:52](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-13-45)**
+> "... holding him because Charlie (Charlie Kirk)'s feet, they caught a tail."
+
+**[00:14:13](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-13-45)**
+> "... police came because Charlie (Charlie Kirk)'s feet were hanging out."
+
+**[00:15:08](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-15-08)**
+> "...cy room after we got Charlie (Charlie Kirk) there, and I remember I called you. what you wer..."
+
+**[00:17:52](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-17-31)**
+> "...instead give them to Charlie (Charlie Kirk)'s young assistant who arrived later."
+
+**[00:18:22](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-18-13)**
+> ".... He was a member on Charlie (Charlie Kirk)'s security detail that day."
+
+**[00:18:35](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-18-13)**
+> "...id not help to carry Charlie (Charlie Kirk) to the car. He went with Justin Davis, sprinted ..."
+
+**[00:18:49](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-18-49)**
+> "... does not get any of Charlie (Charlie Kirk)'s blood on him."
+
+**[00:19:12](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-18-49)**
+> "...t laying a finger on Charlie (Charlie Kirk). Take a look here."
+
+**[00:19:33](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-19-33)**
+> "...ey're going to bring Charlie (Charlie Kirk) into the car without his assistance."
+
+**[00:20:10](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-20-10)**
+> "...y attention to after Charlie (Charlie Kirk)'s SUV pulled off."
+
+**[00:21:51](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-21-35)**
+> "...er who did not touch Charlie (Charlie Kirk), but hey, you could maybe make an argument, righ..."
+
+**[00:22:27](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-22-13)**
+> "...t we know he carried Charlie (Charlie Kirk). Rick Cutler certainly carried Charlie (Charlie ..."
+
+**[00:22:35](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-22-13)**
+> "...s to believe he gave Charlie (Charlie Kirk) CPR."
+
+**[00:23:44](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-23-35)**
+> "... them what medicines Charlie (Charlie Kirk) would be taking?"
+
+**[00:24:28](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-24-18)**
+> "...t make out if that's Charlie (Charlie Kirk)'s jacket that Brian Harpole is holding in this f..."
+
+**[00:24:50](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-24-18)**
+> "...ket. Now it could be Charlie (Charlie Kirk)'s. Let me know your opinion. Let's watch this to..."
+
+**[00:26:16](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-25-42)**
+> "...im to be a friend of Charlie (Charlie Kirk). I can just toss out another offer for you to co..."
+
+**[00:29:37](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-29-14)**
+> "...spital who worked on Charlie (Charlie Kirk)."
+
+**[00:31:44](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-31-37)**
+> "...ler Robinson stopped in after Charlie Kirk killing reveals what the alleged. alleged assassi..."
+
+**[00:44:10](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-43-41)**
+> "...rday. Rest in peace, Charlie (Charlie Kirk). Yes, time moved very, very quickly this year an..."
+
+**[00:44:40](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-44-21)**
+> "... just found out that Charlie (Charlie Kirk) had died."
+
+**[00:45:52](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-45-37)**
+> "... writes, did you see Charlie (Charlie Kirk)'s family in Chicago?"
+
+**[00:46:00](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-45-37)**
+> "...ay. Thoughts? He was Charlie (Charlie Kirk)'s good friend, quote unquote good friend, I gues..."
+
+**[00:46:23](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-46-17)**
+> "...t. And I did not see Charlie (Charlie Kirk)'s family in Chicago. If you're speaking about me..."
+
+**[00:47:44](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-47-44)**
+> "...nted out how excited Charlie (Charlie Kirk) was when South Park so eloquently bestowed the t..."
+
+**[00:50:29](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-50-29)**
+> "...ible anniversary for Charlie (Charlie Kirk), for truth and faith and in all of your tenacity..."
+
+**[00:52:03](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-51-37)**
+> "...d to this moment for Charlie (Charlie Kirk)."
+
+**[00:52:19](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-52-19)**
+> "Charlie (Charlie Kirk) always loved the biblical proverb, iron sharpens..."
+
+**[00:53:02](/episodes/ep-bpXkPHpz9po.md#ent-person-charlie-kirk-t-00-53-02)**
+> "...n memoriam of my dear friend, Charlie Kirk. So we will see you then."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (58 mentions)</summary>
+
+**[00:00:27](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-00-01)**
+> "of Charlie (Charlie Kirk)'s passing. And I've been listening to the Kanye ..."
+
+**[00:00:52](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-00-42)**
+> "...spital shortly after Charlie (Charlie Kirk) was pronounced dead. It is not good. It is not g..."
+
+**[00:03:06](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-02-56)**
+> "...fireworks were OK at Charlie (Charlie Kirk)'s funeral."
+
+**[00:03:16](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-02-56)**
+> "They were like, Charlie (Charlie Kirk) loved pyrotechnics. Yeah, I'm sure he did when h..."
+
+**[00:05:47](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-05-38)**
+> "...o during the week of Charlie (Charlie Kirk)'s death anniversary meant to me."
+
+**[00:05:57](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-05-38)**
+> "...ously, you guys know Charlie (Charlie Kirk) was from Chicago. He's very proud of that. He lo..."
+
+**[00:10:05](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-10-01)**
+> "...mes before, but when Charlie (Charlie Kirk) and I were driving up in a rental car."
+
+**[00:10:37](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-10-37)**
+> "...tively, which turned Charlie (Charlie Kirk) into a big Ye (Kanye West) fan. He would then ru..."
+
+**[00:17:56](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-17-56)**
+> "...d I stressed this to Charlie (Charlie Kirk) that it's all about learning that as you climb t..."
+
+**[00:21:12](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-20-53)**
+> "...k is simply say nothing about Charlie Kirk's assassination or say something and pretend to be ..."
+
+**[00:21:36](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-21-36)**
+> "...t less. We know that Charlie (Charlie Kirk) faced that moment in his own life. I know he did..."
+
+**[00:21:43](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-21-36)**
+> "...e the weight of what Charlie (Charlie Kirk) was facing in those final weeks of his life."
+
+**[00:25:44](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-25-44)**
+> "...nging the public execution of Charlie Kirk. And I've said."
+
+**[00:25:53](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-25-44)**
+> "...of the characters in Charlie (Charlie Kirk)'s life who I think are moving suspiciously. I wa..."
+
+**[00:26:42](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-26-22)**
+> "...k seats, distracting Charlie (Charlie Kirk) from driving. Here's another very quick installm..."
+
+**[00:27:12](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-27-12)**
+> "... the cultural world, Charlie (Charlie Kirk) was with me, right?"
+
+**[00:27:37](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-27-37)**
+> "...ntroduced me on TMZ, Charlie (Charlie Kirk) was there. I mean, you can see him in the backgr..."
+
+**[00:29:14](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-28-48)**
+> "...s no Candace without Charlie (Charlie Kirk). And in many ways, there was no Charlie (Charlie..."
+
+**[00:32:57](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-32-57)**
+> "...alt Lake City aboard Charlie (Charlie Kirk)'s jets on September 10th?"
+
+**[00:33:11](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-32-57)**
+> "...spite flying in with Charlie (Charlie Kirk), we know that Blake (Blake Neff) got into the se..."
+
+**[00:33:26](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-32-57)**
+> "...t that morning where Charlie (Charlie Kirk) gave an interview."
+
+**[00:33:59](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-33-36)**
+> "... and ridiculous that Charlie (Charlie Kirk) would be excited about his largest campus tour e..."
+
+**[00:34:56](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-34-56)**
+> "And for clarity, if Charlie (Charlie Kirk)'s death has taught me and I hope everyone back a..."
+
+**[00:36:15](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-36-15)**
+> "...more in the way that Charlie (Charlie Kirk) did. And clearly, clearly, judging by your actio..."
+
+**[00:37:00](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-37-00)**
+> "...Owens would react to Charlie (Charlie Kirk)'s death. He said Charlie (Charlie Kirk) was awar..."
+
+**[00:37:40](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-37-40)**
+> "... he, he doesn't know Charlie (Charlie Kirk) the most of everyone in this story."
+
+**[00:37:47](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-37-40)**
+> "... amount of time with Charlie (Charlie Kirk). He himself says that he didn't join Charlie (Ch..."
+
+**[00:37:54](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-37-40)**
+> "So he knew Charlie (Charlie Kirk) for a year and a half. I did. I never came acros..."
+
+**[00:38:01](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-37-40)**
+> "... just found out that Charlie (Charlie Kirk)'s dead."
+
+**[00:38:41](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-38-16)**
+> "...o have a reaction to Charlie (Charlie Kirk) being murdered."
+
+**[00:38:53](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-38-53)**
+> "...y strong reaction to Charlie (Charlie Kirk) being murdered. I'm sitting in the waiting room;..."
+
+**[00:39:18](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-38-53)**
+> "Charlie (Charlie Kirk) was worried someone was going to kill him. Who c..."
+
+**[00:39:25](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-38-53)**
+> "... not a conspiracy as Charlie (Charlie Kirk)'s in the hospital? This is very odd."
+
+**[00:40:05](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-40-05)**
+> "...trust the science on Charlie (Charlie Kirk)'s assassination."
+
+**[00:41:07](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-41-07)**
+> "...as it two days after Charlie (Charlie Kirk)'s assassination Charlie (Charlie Kirk) never wro..."
+
+**[00:41:52](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-41-52)**
+> "...dless. Or that you could find Charlie Kirk speaking about how and why he consumed the New Yo..."
+
+**[00:42:32](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-42-05)**
+> "Charlie (Charlie Kirk), why do you read the New York Times? Because I w..."
+
+**[00:42:46](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-42-46)**
+> "... feels normal and as Charlie (Charlie Kirk) was? I guess you've been honest. It's just Turni..."
+
+**[00:43:47](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-43-18)**
+> "... 2025, a day after my husband Charlie Kirk was shot and killed. The past 24 hours feel like ..."
+
+**[00:44:06](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-44-02)**
+> "...t on the couch where Charlie (Charlie Kirk) sat two nights ago watching the Cubs with our ki..."
+
+**[00:45:37](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-45-27)**
+> "...n we maybe something Charlie (Charlie Kirk) said to you that stuck with you? Maybe something..."
+
+**[00:45:51](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-45-51)**
+> "Charlie (Charlie Kirk) was traveling private to all of his events, righ..."
+
+**[00:46:34](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-46-34)**
+> "...e I've realized that Charlie (Charlie Kirk) would want me to live them. Over time, you were ..."
+
+**[00:47:07](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-47-07)**
+> "...r time I've realized Charlie (Charlie Kirk) would want me to live. Occasionally I'm asked wh..."
+
+**[00:48:39](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-48-13)**
+> "... learn nothing about Charlie (Charlie Kirk) in this. It feels just—"
+
+**[00:52:52](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-52-52)**
+> "...for whatever reason, Charlie (Charlie Kirk) was sending messages that they're going to kill ..."
+
+**[00:53:31](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-53-31)**
+> "...just two hours after Charlie (Charlie Kirk) said he was abandoning the pro-Israel cause and ..."
+
+**[00:54:06](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-54-06)**
+> "...thereafter said that Charlie (Charlie Kirk) was just excited the night before. Weird for him..."
+
+**[00:54:31](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-54-06)**
+> "... do not believe that Charlie (Charlie Kirk) was excited about doing a UVU event."
+
+**[00:55:06](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-54-47)**
+> "...rites, the fact that Charlie (Charlie Kirk) sent those messages while on Zoom with Israel wa..."
+
+**[00:55:25](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-55-25)**
+> "...r as true to me that Charlie (Charlie Kirk) had to speak to Israeli officials at 4 a.m. in t..."
+
+**[00:55:33](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-55-25)**
+> "Charlie (Charlie Kirk) was pretty good at debating. I don't think he ne..."
+
+**[00:56:45](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-56-45)**
+> "...dia Waterstone is releasing a Charlie Kirk documentary with an alleged unreleased interview ..."
+
+**[00:57:00](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-56-45)**
+> "...gs immediately after Charlie (Charlie Kirk) died. We went over that in an earlier episode."
+
+**[00:57:48](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-57-24)**
+> "..., though we mourn and grieve, Charlie Kirk is finally free. I love that. That is beautiful a..."
+
+**[00:58:31](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-58-31)**
+> "Of Charlie (Charlie Kirk)'s passing, and we're going to be hit with just—I..."
+
+**[00:58:57](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-58-31)**
+> "... they're carrying on Charlie (Charlie Kirk)'s legacy in any fashion, in any manner or fashio..."
+
+**[00:59:09](/episodes/ep-FGoeoZxDN1c.md#ent-person-charlie-kirk-t-00-59-09)**
+> "... be getting into the Charlie (Charlie Kirk) and Candace archives."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (81 mentions)</summary>
@@ -19720,6 +20161,18 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
+<summary>Born In (1)</summary>
+
+- **[Chicago, Illinois](/entities/gpe-chicago-illinois.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:09:00](/episodes/ep-S07n8TnRT0Q.md#t-00-09-00): “So I started this organisation when I was eighteen years old, born and raised in Chicago, Illinois.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Close Associate Of (4)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
@@ -19938,7 +20391,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Deceased Husband Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (75)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (77)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -20015,6 +20468,8 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:28](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “So what is it about Charlie's widow in particular that is inspiring his very public nervous breakdown?”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:28](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28): “A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:16:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15): “And what we know for a fact now is that for some strange reason, and I'm citing this as strange because we now know for a fact that Charlie (Charlie Kirk) communicated the night before that he was fearful for his life, that he thought they were going to kill him, something that his wife initially denied and then had to concede.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:43:47](/episodes/ep-FGoeoZxDN1c.md#t-00-43-18): “It's September 11th, 2025, a day after my husband Charlie Kirk was shot and killed. The past 24 hours feel like a fever dream as I land in Phoenix from Utah and return home.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:09:54](/episodes/ep-S07n8TnRT0Q.md#t-00-09-49): “I'm also public enemy number one for investigating your wife. ... I don't think I really know what Erika (Erika Kirk) is. I know that a wife would not partner with your enemies.”
 
 </details>
 
@@ -20131,7 +20586,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Formerly Employed (5)</summary>
+<summary>Formerly Employed (6)</summary>
 
 - **[Dan Flood](/entities/person-dan-flood.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -20141,10 +20596,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:23:37](/episodes/ep-mFuno0TuuQQ.md#t-00-23-00): “So weird, Mikey (former Charlie Kirk intern/assistant; surname unverified) didn't. Went straight from high school, was just Charlie (Charlie Kirk)'s intern assistant and now he's sitting down with board members and discussing how they should invest into restaurants.”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:17:52](/episodes/ep-bpXkPHpz9po.md#t-00-17-31): “Which we then learned were provided by Mikey (Michael McCoy), another strange development that the hospital staff would just give them out that wouldn't just give them out themselves, like here you guys go, but they would instead give them to Charlie (Charlie Kirk)'s young assistant who arrived later.”
 
 </details>
 
@@ -20164,9 +20620,17 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even ... You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson).”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:37:47](/episodes/ep-FGoeoZxDN1c.md#t-00-37-40): “He has spent the least amount of time with Charlie (Charlie Kirk). He himself says that he didn't join Charlie (Charlie Kirk)'s team until what was it? Mid 2023.”
+
+</details>
+
+- **[Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:18:22](/episodes/ep-bpXkPHpz9po.md#t-00-18-13): “This is Blake Hariff (security team member; surname unverified). You will recall I've showed you Blake Hariff (security team member; surname unverified) before. He was a member on Charlie (Charlie Kirk)'s security detail that day.”
 
 </details>
 
@@ -20212,7 +20676,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Founded (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:01:44](/episodes/ep-5autG89PW6w.md#t-00-01-22): “Who will succeed Charlie (Charlie Kirk)? Who shall inherit the Turning Point throne?”
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:33:16](/episodes/ep-vwG1juDCQZQ.md#t-00-33-12): “because Charlie (Charlie Kirk) started the organization to disrupt college campuses.”
@@ -20241,6 +20705,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 01:08:26](/episodes/ep-_cNtgris8Ik.md#t-01-08-13): “be the one to tell you guys but you will not you can't fill charlie's shoes and what you have done has been an absolute embarrassment to everything that he has built just shut up turning point usa you know just start over and build something else lean into the neocon thing call it something else like this is just so it's such a farce at this point you must be exhausted you look tired you all look tired Anyway, that's all I have to say about that. If you guys want to support the show,”
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:01:41](/episodes/ep-5NQyGuRYbU8.md#t-00-01-41): “That was something that Charlie Kirk expressed often to his great many followers. The organization that he built was actually built upon that philosophy”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:18:38](/episodes/ep-w1oqQbR_bYs.md#t-00-18-29): “Charlie Kirk's organization, the one that he built for debate”
+- [One Year On… To My Friend Charlie Kirk. @ 00:09:00](/episodes/ep-S07n8TnRT0Q.md#t-00-09-00): “So I started this organisation when I was eighteen years old, born and raised in Chicago, Illinois.”
 
 </details>
 
@@ -20273,7 +20738,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (49)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (50)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00): “Charlie, my friend, is dead.”
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:13:46](/episodes/ep-ozWJz2spBcI.md#t-00-13-44): “Charlie Kirk was a friend to Candace (Candace Owens) and never publicly spoke poorly of her, although he disagreed with her.”
@@ -20324,6 +20789,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:58:39](/episodes/ep-pc3pxRyNFZk.md#t-00-58-03): “The special bond that you shared with Charlie (Charlie Kirk) is evident for all to see in many videos of you both.”
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:00:30](/episodes/ep-q7f8r-THr84.md#t-00-00-01): “What is happening right now in the world, and what just happened to my friend Charlie (Charlie Kirk), is a battle of sheer evil versus goodness.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:24](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “in Blake (Blake Neff)'s and Andrew (Andrew Kolvet)'s lies now. It's a desperation. I mean, it's insane to say Candace Owens and Charlie Kirk were not friends. That is like an insane thing to say, and it can only be uttered out of sheer desperation to try to get a handle on the narrative.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:27:44](/episodes/ep-S07n8TnRT0Q.md#t-00-27-44): “We were really close, and he was my best friend and my brother, and I will never unsee the footage of what I saw.”
 
 </details>
 
@@ -20452,18 +20918,20 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[John Mappin](/entities/person-john-mappin.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:16:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43): “John and Marina Mappin, the lone donors who wrote that beautiful letter that has impacted the world—like true friends of Charlie (Charlie Kirk) who stood up and said that what Turning Point USA is doing is wrong.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:05:59](/episodes/ep-S07n8TnRT0Q.md#t-00-05-59): “she and John (John Mappin) tossed me a lifesaver. They were your real friends.”
 
 </details>
 
 - **[Irina Mappin](/entities/person-irina-mappin.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:16:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43): “John and Marina Mappin, the lone donors who wrote that beautiful letter that has impacted the world—like true friends of Charlie (Charlie Kirk) who stood up and said that what Turning Point USA is doing is wrong.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:05:45](/episodes/ep-S07n8TnRT0Q.md#t-00-05-21): “Irina (Irina Mappin) and John Mappin attended that memorial ... she and John (John Mappin) tossed me a lifesaver. They were your real friends.”
 
 </details>
 
@@ -21260,7 +21728,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Referenced By (181)</summary>
+<summary>Referenced By (183)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -21434,6 +21902,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [A Legal Turning Point? | Candace Ep 292 @ 00:10:56](/episodes/ep-NIEbqsLAK8g.md#t-00-10-22): “the X-Men school, I prefer to refer to it as the X-Men school that Charlie went to after they wanted to drug him for being brilliant and his mother said no. That school is Quest Academy in Palatine, Illinois.”
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:29:23](/episodes/ep-A39g5oqB_eM.md#t-00-28-43): “which obviously in the area where Charlie (Charlie Kirk)'s X-Men school was. The X-Men school, I just like to call it that, was actually called Creative Children's Academy. It opened in 1982 for the academically gifted from preschool up into the eighth grade. In 1999, it changed its name officially to Quest Academy.”
+
+</details>
+
+- **[Chicago, Illinois](/entities/gpe-chicago-illinois.md)** birthplace of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [One Year On… To My Friend Charlie Kirk. @ 00:09:00](/episodes/ep-S07n8TnRT0Q.md#t-00-09-00): “So I started this organisation when I was eighteen years old, born and raised in Chicago, Illinois.”
 
 </details>
 
@@ -21722,10 +22197,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:23:37](/episodes/ep-mFuno0TuuQQ.md#t-00-23-00): “So weird, Mikey (former Charlie Kirk intern/assistant; surname unverified) didn't. Went straight from high school, was just Charlie (Charlie Kirk)'s intern assistant and now he's sitting down with board members and discussing how they should invest into restaurants.”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:17:52](/episodes/ep-bpXkPHpz9po.md#t-00-17-31): “Which we then learned were provided by Mikey (Michael McCoy), another strange development that the hospital staff would just give them out that wouldn't just give them out themselves, like here you guys go, but they would instead give them to Charlie (Charlie Kirk)'s young assistant who arrived later.”
 
 </details>
 
@@ -21745,14 +22221,22 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even ... You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson).”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:37:47](/episodes/ep-FGoeoZxDN1c.md#t-00-37-40): “He has spent the least amount of time with Charlie (Charlie Kirk). He himself says that he didn't join Charlie (Charlie Kirk)'s team until what was it? Mid 2023.”
+
+</details>
+
+- **[Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:18:22](/episodes/ep-bpXkPHpz9po.md#t-00-18-13): “This is Blake Hariff (security team member; surname unverified). You will recall I've showed you Blake Hariff (security team member; surname unverified) before. He was a member on Charlie (Charlie Kirk)'s security detail that day.”
 
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** founded by this
-<details class="relationship-evidence"><summary>Show all evidence (23)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:01:44](/episodes/ep-5autG89PW6w.md#t-00-01-22): “Who will succeed Charlie (Charlie Kirk)? Who shall inherit the Turning Point throne?”
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:33:16](/episodes/ep-vwG1juDCQZQ.md#t-00-33-12): “because Charlie (Charlie Kirk) started the organization to disrupt college campuses.”
@@ -21777,6 +22261,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 01:08:26](/episodes/ep-_cNtgris8Ik.md#t-01-08-13): “be the one to tell you guys but you will not you can't fill charlie's shoes and what you have done has been an absolute embarrassment to everything that he has built just shut up turning point usa you know just start over and build something else lean into the neocon thing call it something else like this is just so it's such a farce at this point you must be exhausted you look tired you all look tired Anyway, that's all I have to say about that. If you guys want to support the show,”
 - [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:01:41](/episodes/ep-5NQyGuRYbU8.md#t-00-01-41): “That was something that Charlie Kirk expressed often to his great many followers. The organization that he built was actually built upon that philosophy”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:18:38](/episodes/ep-w1oqQbR_bYs.md#t-00-18-29): “Charlie Kirk's organization, the one that he built for debate”
+- [One Year On… To My Friend Charlie Kirk. @ 00:09:00](/episodes/ep-S07n8TnRT0Q.md#t-00-09-00): “So I started this organisation when I was eighteen years old, born and raised in Chicago, Illinois.”
 
 </details>
 
@@ -21804,7 +22289,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (53)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (54)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00): “Charlie, my friend, is dead.”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:00:10](/episodes/ep-YFmRH8p5lt0.md#t-00-00-00): “This is real life: the assassination of my friend, Charlie (Charlie Kirk).”
@@ -21859,6 +22344,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:58:39](/episodes/ep-pc3pxRyNFZk.md#t-00-58-03): “The special bond that you shared with Charlie (Charlie Kirk) is evident for all to see in many videos of you both.”
 - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:00:30](/episodes/ep-q7f8r-THr84.md#t-00-00-01): “What is happening right now in the world, and what just happened to my friend Charlie (Charlie Kirk), is a battle of sheer evil versus goodness.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:24](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “in Blake (Blake Neff)'s and Andrew (Andrew Kolvet)'s lies now. It's a desperation. I mean, it's insane to say Candace Owens and Charlie Kirk were not friends. That is like an insane thing to say, and it can only be uttered out of sheer desperation to try to get a handle on the narrative.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:27:44](/episodes/ep-S07n8TnRT0Q.md#t-00-27-44): “We were really close, and he was my best friend and my brother, and I will never unsee the footage of what I saw.”
 
 </details>
 
@@ -21987,18 +22473,20 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[John Mappin](/entities/person-john-mappin.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:16:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43): “John and Marina Mappin, the lone donors who wrote that beautiful letter that has impacted the world—like true friends of Charlie (Charlie Kirk) who stood up and said that what Turning Point USA is doing is wrong.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:05:59](/episodes/ep-S07n8TnRT0Q.md#t-00-05-59): “she and John (John Mappin) tossed me a lifesaver. They were your real friends.”
 
 </details>
 
 - **[Irina Mappin](/entities/person-irina-mappin.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:16:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-43): “John and Marina Mappin, the lone donors who wrote that beautiful letter that has impacted the world—like true friends of Charlie (Charlie Kirk) who stood up and said that what Turning Point USA is doing is wrong.”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:05:09](/episodes/ep-JrhGEm8MGRY.md#t-00-04-54): “And it should be known that they were close to Charlie (Charlie Kirk). They helped to bring Charlie (Charlie Kirk) and Turning Point USA to the next level by making introductions for Charlie (Charlie Kirk) that I would say launch the organization into a different stratosphere financially.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:05:45](/episodes/ep-S07n8TnRT0Q.md#t-00-05-21): “Irina (Irina Mappin) and John Mappin attended that memorial ... she and John (John Mappin) tossed me a lifesaver. They were your real friends.”
 
 </details>
 
@@ -22621,7 +23109,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** widow of this
-<details class="relationship-evidence"><summary>Show all evidence (75)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (77)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -22698,6 +23186,8 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:28](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “So what is it about Charlie's widow in particular that is inspiring his very public nervous breakdown?”
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:28:28](/episodes/ep-JrhGEm8MGRY.md#t-00-28-28): “A new narrative had dropped. You would have thought that I was on trial and not Tyler Robinson—that I was on trial for murder for having investigated Charlie (Charlie Kirk)'s assassination. They were like, 'That is akin to getting Erika Kirk killed.' It began with that absurd NCRI-issued report. It's just a team of Zionists. You've got NCRI led by none other than Andrew Kolvet's former partner at a PR firm, Kairos Company.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:16:26](/episodes/ep-HIlPQ-_dcxM.md#t-00-16-15): “And what we know for a fact now is that for some strange reason, and I'm citing this as strange because we now know for a fact that Charlie (Charlie Kirk) communicated the night before that he was fearful for his life, that he thought they were going to kill him, something that his wife initially denied and then had to concede.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:43:47](/episodes/ep-FGoeoZxDN1c.md#t-00-43-18): “It's September 11th, 2025, a day after my husband Charlie Kirk was shot and killed. The past 24 hours feel like a fever dream as I land in Phoenix from Utah and return home.”
+- [One Year On… To My Friend Charlie Kirk. @ 00:09:54](/episodes/ep-S07n8TnRT0Q.md#t-00-09-49): “I'm also public enemy number one for investigating your wife. ... I don't think I really know what Erika (Erika Kirk) is. I know that a wife would not partner with your enemies.”
 
 </details>
 
@@ -22823,7 +23313,23 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Charlie Kirk (125)</strong></summary>
+<summary><strong class="section-title">Statements by Charlie Kirk (127)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1)</summary>
+
+- [00:09:00](/episodes/ep-S07n8TnRT0Q.md#t-00-09-00) [○] (Claim) ["In an archival clip, Charlie Kirk said he started his organization at age eighte..."](/statements/statement-583e676d6971.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>
+
+- [00:42:12](/episodes/ep-FGoeoZxDN1c.md#t-00-42-05) [○] (Opinion) ["In an archival clip, Charlie Kirk said he read The New York Times every morning ..."](/statements/statement-60da9d63f596.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [The New York Times](/entities/org-the-new-york-times.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>
@@ -23459,7 +23965,151 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (1931)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (1976)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (15)</summary>
+
+- [00:02:42](/episodes/ep-S07n8TnRT0Q.md#t-00-02-42) (Opinion) **Candace Owens** (via quoted document): ["Reading her mid-October 2025 journal, Owens recalled telling George Fa..."](/statements/statement-053d1ffe06ed.md)
+  - Also about: [George Farmer](/entities/person-george-farmer.md)
+
+- [00:03:08](/episodes/ep-S07n8TnRT0Q.md#t-00-02-42) (Accusation) **Candace Owens** (via quoted document): ["In her journal, Owens alleged that Facebook, TikTok and X’s safeguards..."](/statements/statement-23ebd5e8103b.md)
+  - Also about: [Facebook](/entities/org-facebook.md), [TikTok](/entities/org-tiktok.md), [Twitter](/entities/org-twitter.md)
+
+- [00:04:45](/episodes/ep-S07n8TnRT0Q.md#t-00-04-39) (Claim) **Candace Owens** (via quoted document): ["Reading her journal, Owens said Ben Shapiro appeared in Kirk’s studio ..."](/statements/statement-0da345143f83.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:05:30](/episodes/ep-S07n8TnRT0Q.md#t-00-05-21) (Claim) **Candace Owens**: ["Owens said Susie Wiles spoke at Charlie Kirk’s memorial."](/statements/statement-1fc326f77021.md)
+  - Also about: [Susie Wiles](/entities/person-susie-wiles.md)
+
+- [00:05:45](/episodes/ep-S07n8TnRT0Q.md#t-00-05-21) (Claim) **Candace Owens** (via paraphrase): ["Owens said Irina and John Mappin attended Kirk’s memorial and that Iri..."](/statements/statement-97446e05ebb4.md)
+  - Also about: [Irina Mappin](/entities/person-irina-mappin.md), [John Mappin](/entities/person-john-mappin.md)
+
+- [00:07:09](/episodes/ep-S07n8TnRT0Q.md#t-00-06-37) (Opinion) **John Mappin** (via quoted document): ["In their joint open letter, John and Irina Mappin defended Owens’s inv..."](/statements/statement-fbfad4c8908b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Irina Mappin](/entities/person-irina-mappin.md)
+
+- [00:07:52](/episodes/ep-S07n8TnRT0Q.md#t-00-07-20) (Opinion) **John Mappin** (via quoted document): ["John and Irina Mappin’s joint letter urged an appropriate legal author..."](/statements/statement-67f98c450433.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Irina Mappin](/entities/person-irina-mappin.md)
+
+- [00:08:39](/episodes/ep-S07n8TnRT0Q.md#t-00-08-39) (Promise) **Candace Owens** (via quoted document): ["In the journal entry she read, Owens pledged to investigate why Kirk w..."](/statements/statement-3baa9da055d7.md)
+
+- [00:09:00](/episodes/ep-S07n8TnRT0Q.md#t-00-09-00) (Claim) **Charlie Kirk** (via quoted speech): ["In an archival clip, Charlie Kirk said he started his organization at ..."](/statements/statement-583e676d6971.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:11:02](/episodes/ep-S07n8TnRT0Q.md#t-00-10-33) (Opinion) **Candace Owens** (via quoted document): ["Reading an undated journal entry, Owens accused Erika Kirk of partneri..."](/statements/statement-ea6c7457955c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:11:10](/episodes/ep-S07n8TnRT0Q.md#t-00-11-10) (Accusation) **Candace Owens** (via quoted document): ["Owens said she knew of a scheduled change to Kirk’s will and of a subu..."](/statements/statement-53f09d780cf4.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:12:53](/episodes/ep-S07n8TnRT0Q.md#t-00-12-32) (Claim) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk claimed she first saw Charlie at an airport duri..."](/statements/statement-727f78f68eea.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:24:56](/episodes/ep-S07n8TnRT0Q.md#t-00-24-56) (Accusation) **Candace Owens**: ["Owens alleged that unnamed people commercialized Kirk’s memory, includ..."](/statements/statement-6719ce1169ab.md)
+
+- [00:25:41](/episodes/ep-S07n8TnRT0Q.md#t-00-25-41) (Claim) **Candace Owens**: ["Owens recalled that Kirk flew her to Wyoming, where she attended the r..."](/statements/statement-d9c8a1c0e167.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md), [ye (Kanye West album)](/entities/work-ye-kanye-west-album.md)
+
+- [00:26:22](/episodes/ep-S07n8TnRT0Q.md#t-00-26-22) (Accusation) **Candace Owens**: ["Owens alleged that Kirk was betrayed and that his killing was ordered ..."](/statements/statement-477f6bf7a958.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (11)</summary>
+
+- [00:06:05](/episodes/ep-bpXkPHpz9po.md#t-00-06-05) (Accusation) **Frank Turek** (via quoted speech): ["In clips played by Owens, Frank Turek accused her of making unsupporte..."](/statements/statement-39d2dced0e59.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:07:25](/episodes/ep-bpXkPHpz9po.md#t-00-06-53) (Claim) **Candace Owens**: ["Owens said the September 9 Zoom call included Frank Turek, two Israeli..."](/statements/statement-3eca509f3ada.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Pesach Wolicki](/entities/person-pesach-wolicki.md), [Josh Hammer](/entities/person-josh-hammer.md)
+
+- [00:08:49](/episodes/ep-bpXkPHpz9po.md#t-00-08-49) (Claim) **Candace Owens**: ["Owens said the Zoom call occurred two hours after Kirk said he was aba..."](/statements/statement-6fac067cc959.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md)
+
+- [00:09:11](/episodes/ep-bpXkPHpz9po.md#t-00-08-49) (Claim) **Candace Owens**: ["Owens said Kirk texted people during the Zoom call that he feared bein..."](/statements/statement-7bda6695eaa4.md)
+
+- [00:16:45](/episodes/ep-bpXkPHpz9po.md#t-00-16-39) (Claim) **Hospital parking-lot witness in episode 385 (identity unverified)** (via quoted speech): ["An unidentified hospital parking-lot witness recalled a white-hatted m..."](/statements/statement-6c594f7a452e.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:17:38](/episodes/ep-bpXkPHpz9po.md#t-00-17-31) (Opinion) **Candace Owens**: ["Owens said that if the hospital witness’s account was accurate, it wou..."](/statements/statement-d77c25fd3da8.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:18:22](/episodes/ep-bpXkPHpz9po.md#t-00-18-13) (Claim) **Candace Owens**: ["Owens identified the security worker she called Blake Hariff, whose su..."](/statements/statement-5b77c51a0b93.md)
+  - Also about: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:20:22](/episodes/ep-bpXkPHpz9po.md#t-00-20-10) (Claim) **Candace Owens**: ["Owens said the security worker she called Blake Hariff had no visible ..."](/statements/statement-cea30d106fd4.md)
+  - Also about: [Blake (security team member; surname unverified)](/entities/anon-src-HIlPQ-_dcxM-003.md)
+
+- [00:24:28](/episodes/ep-bpXkPHpz9po.md#t-00-24-18) (Opinion) **Candace Owens**: ["Owens said she could not tell whether a jacket Brian Harpole held was ..."](/statements/statement-8163a29c6574.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:29:37](/episodes/ep-bpXkPHpz9po.md#t-00-29-14) (Accusation) **Candace Owens** (via paraphrase): ["Citing unnamed sources, Owens alleged that an unnamed doctor who treat..."](/statements/statement-2d04ca6415a5.md)
+  - Also about: [Unnamed Timpanogos doctor in episode 385 (identity unverified)](/entities/anon-src-bpXkPHpz9po-002.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:44:40](/episodes/ep-bpXkPHpz9po.md#t-00-44-21) (Opinion) **Candace Owens**: ["Owens inferred that Neff’s reported concern about her reaction meant h..."](/statements/statement-a9321a78fc81.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (19)</summary>
+
+- [00:21:56](/episodes/ep-FGoeoZxDN1c.md#t-00-21-36) (Opinion) **Candace Owens**: ["Owens said she thought Charlie Kirk had refused offers made to him in ..."](/statements/statement-e5a61e2ff2c0.md)
+
+- [00:25:44](/episodes/ep-FGoeoZxDN1c.md#t-00-25-44) (Accusation) **Candace Owens**: ["Owens accused the Department of War of seeking revenge against people ..."](/statements/statement-73772ae17b83.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:33:26](/episodes/ep-FGoeoZxDN1c.md#t-00-32-57) (Claim) **Candace Owens**: ["Owens said neither Danny Philip nor Blake Neff attended the Restaurant..."](/statements/statement-cd4dd34a56a7.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Blake Neff](/entities/person-blake-neff.md), [Restaurantology](/entities/work-restaurantology.md)
+
+- [00:33:59](/episodes/ep-FGoeoZxDN1c.md#t-00-33-36) (Opinion) **Blake Neff** (via quoted tweet): ["Blake Neff wrote that Owens found Kirk’s excitement about his campus t..."](/statements/statement-fee51b401c1c.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:35:08](/episodes/ep-FGoeoZxDN1c.md#t-00-34-56) (Accusation) **Candace Owens**: ["Owens accused Turning Point USA of misrepresenting Charlie Kirk’s stru..."](/statements/statement-3f6835c479f6.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:36:54](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15) (Claim) **Blake Neff** (via quoted article): ["Blake Neff recalled discussing how Candace Owens would react to Kirk’s..."](/statements/statement-b30c5d0187e7.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:37:23](/episodes/ep-FGoeoZxDN1c.md#t-00-37-00) (Prediction) **Anonymous Source #2 (Ep FGoeoZxDN1c)** (via quoted article): ["An unnamed hospital waiting-room interlocutor reportedly predicted tha..."](/statements/statement-2172ebc227d5.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:37:47](/episodes/ep-FGoeoZxDN1c.md#t-00-37-40) (Claim) **Candace Owens** (via paraphrase): ["Owens recalled Blake Neff saying he joined Charlie Kirk’s team around ..."](/statements/statement-49bd6c79df90.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:39:25](/episodes/ep-FGoeoZxDN1c.md#t-00-38-53) (Opinion) **Candace Owens**: ["Owens questioned why Neff appeared already confident that Kirk’s death..."](/statements/statement-219d5e76ecf5.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:40:40](/episodes/ep-FGoeoZxDN1c.md#t-00-40-40) (Claim) **Candace Owens**: ["Owens said Erika Kirk published a New York Times op-ed reflecting on h..."](/statements/statement-6f59a0d37cad.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [The New York Times](/entities/org-the-new-york-times.md)
+
+- [00:41:07](/episodes/ep-FGoeoZxDN1c.md#t-00-41-07) (Claim) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk admitted a New York Times interviewer to her apa..."](/statements/statement-8ba682012644.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [The New York Times](/entities/org-the-new-york-times.md)
+
+- [00:42:12](/episodes/ep-FGoeoZxDN1c.md#t-00-42-05) (Opinion) **Charlie Kirk** (via quoted speech): ["In an archival clip, Charlie Kirk said he read The New York Times ever..."](/statements/statement-60da9d63f596.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md)
+
+- [00:43:47](/episodes/ep-FGoeoZxDN1c.md#t-00-43-18) (Claim) **Erika Kirk** (via quoted article): ["In her New York Times op-ed as read by Owens, Erika Kirk described ret..."](/statements/statement-15829f0a64c6.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:52:52](/episodes/ep-FGoeoZxDN1c.md#t-00-52-52) (Citation) **Candace Owens**: ["Owens said released messages showed Charlie Kirk expressing fear that ..."](/statements/statement-5dd39f3e3a0b.md)
+
+- [00:53:06](/episodes/ep-FGoeoZxDN1c.md#t-00-52-52) (Claim) **Candace Owens** (via paraphrase): ["Owens said the Zoom call included two Israeli officials, Pesach Wolick..."](/statements/statement-1b92c62c5a63.md)
+  - Also about: [Pesach Wolicki](/entities/person-pesach-wolicki.md), [Josh Hammer](/entities/person-josh-hammer.md), [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:53:31](/episodes/ep-FGoeoZxDN1c.md#t-00-53-31) (Claim) **Candace Owens**: ["Owens said the Zoom call came about two hours after Kirk said he was a..."](/statements/statement-7ed5d0131a3f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:53:48](/episodes/ep-FGoeoZxDN1c.md#t-00-53-31) (Claim) **Candace Owens**: ["Owens said Andrew Kolvet forwarded Kirk’s conversation about leaving t..."](/statements/statement-2c4b2e21dade.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md)
+
+- [00:55:25](/episodes/ep-FGoeoZxDN1c.md#t-00-55-25) (Opinion) **Candace Owens**: ["Owens said she did not believe the explanation that Kirk needed the la..."](/statements/statement-93bcdc85b7c9.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Josh Hammer](/entities/person-josh-hammer.md), [Pesach Wolicki](/entities/person-pesach-wolicki.md)
+
+- [00:56:45](/episodes/ep-FGoeoZxDN1c.md#t-00-56-45) (Citation) **Anonymous Source #4 (Ep FGoeoZxDN1c)** (via quoted post): ["An unnamed viewer comment read by Owens said Salem Media and WaterSton..."](/statements/statement-bd293df5e4cb.md)
+  - Also about: [Salem Media Group](/entities/org-salem-media-group.md), [WaterStone](/entities/org-waterstone.md), [Can You Hear Me Now? (2026 documentary)](/entities/work-can-you-hear-me-now-2026.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (20)</summary>

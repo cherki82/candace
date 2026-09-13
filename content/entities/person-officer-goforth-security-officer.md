@@ -1,6 +1,6 @@
 ---
 title: "Officer Goforth (security officer; first name unverified)"
-description: "Officer Goforth (security officer; first name unverified) (People) - 1 mention"
+description: "Officer Goforth (security officer; first name unverified) (People) - 2 mentions"
 id: "person-officer-goforth-security-officer"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Candace Ep 374 — courtroom testimony clip](https://www.youtube.com/wa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-officer-goforth-security-officer-t-00-19-17">2026-08-10 · 00:19:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-officer-goforth-security-officer-t-00-19-17">2026-08-10 · 00:19:17</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#t-00-36-48">2026-09-09 · 00:36:48</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -32,12 +32,14 @@ Source: [Candace Ep 374 — courtroom testimony clip](https://www.youtube.com/wa
 <p>Highest activity: <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-officer-goforth-security-officer-t-00-19-17">EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-officer-goforth-security-officer-t-00-19-17" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#t-00-36-48" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-officer-goforth-security-officer-t-00-19-17) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#t-00-36-48) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [Candace Ep 374 — courtroom testimony clip](https://www.youtube.com/wa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:36:48](/episodes/ep-bpXkPHpz9po.md#t-00-36-48)**
+> "If the steakhouse receipt is confirmed, Tyler could not be behind the wheel driving his car when it is stopped by Officer Goforth at 1236 a.m. He wouldn't have been able to make it back in time."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
@@ -61,5 +71,18 @@ Source: [Candace Ep 374 — courtroom testimony clip](https://www.youtube.com/wa
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Officer Goforth (security officer; first name unverified) (1)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:36:48](/episodes/ep-bpXkPHpz9po.md#t-00-36-48) (Opinion) **Candace Owens**: ["Owens argued that if the steakhouse receipt established Robinson’s pre..."](/statements/statement-6b27591504e8.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+</details>
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Phoenix"
-description: "Phoenix (Places) - 43 mentions"
+description: "Phoenix (Places) - 44 mentions"
 id: "gpe-phoenix"
 type: "GPE"
 aliases:
@@ -24,9 +24,9 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-phoenix-t-00-15-16">2025-10-09 · 00:15:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-phoenix-t-00-22-52">2026-08-11 · 00:22:59</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-phoenix-t-00-43-18">2026-09-08 · 00:43:47</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -56,6 +56,7 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-phoenix-t-00-37-08" style="--pulse-height:20%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-phoenix-t-00-15-26" style="--pulse-height:100%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 5 mentions" title="2026-07-30 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-phoenix-t-00-22-52" style="--pulse-height:20%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-phoenix-t-00-43-18" style="--pulse-height:20%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +81,7 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-phoenix-t-00-37-08) | 1 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-phoenix-t-00-15-26) | 5 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-gpe-phoenix-t-00-22-52) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-phoenix-t-00-43-18) | 1 |
 
 </details>
 </section>
@@ -91,7 +93,15 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:43:47](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-phoenix-t-00-43-18)**
+> "...ke a fever dream as I land in Phoenix from Utah and return home."
+
+</details>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>

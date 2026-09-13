@@ -1,6 +1,6 @@
 ---
 title: "Ethos"
-description: "Ethos (Organizations) - 53 mentions"
+description: "Ethos (Organizations) - 57 mentions"
 id: "org-ethos"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Ethos](https://www.ethos.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-ethos-t-00-46-15">2026-03-23 · 00:46:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-ethos-t-00-57-37">2026-08-17 · 00:57:37</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>53</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-ethos-t-00-50-20">2026-09-08 · 00:50:33</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>57</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -48,6 +48,7 @@ Source: [About Ethos](https://www.ethos.com/about/)
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-org-ethos-t-00-27-01" style="--pulse-height:83%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 5 mentions" title="2026-08-03 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-ethos-t-02-30-12" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 6 mentions" title="2026-08-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-ethos-t-00-56-17" style="--pulse-height:100%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 6 mentions" title="2026-08-17 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-org-ethos-t-00-49-37" style="--pulse-height:67%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 4 mentions" title="2026-09-08 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [About Ethos](https://www.ethos.com/about/)
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-ethos-t-00-27-01) | 5 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-ethos-t-02-30-12) | 6 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-ethos-t-00-56-17) | 6 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-org-ethos-t-00-49-37) | 4 |
 
 </details>
 </section>
@@ -73,7 +75,24 @@ Source: [About Ethos](https://www.ethos.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (4 mentions)</summary>
+
+**[00:49:56](/episodes/ep-FGoeoZxDN1c.md#ent-org-ethos-t-00-49-37)**
+> "...le realize. That's why I love ethos, because with ethos, we can apply online in just ..."
+
+**[00:50:08](/episodes/ep-FGoeoZxDN1c.md#ent-org-ethos-t-00-49-37)**
+> "Ethos has a 4.9 out of five stars on Trustpilot with ov..."
+
+**[00:50:27](/episodes/ep-FGoeoZxDN1c.md#ent-org-ethos-t-00-50-20)**
+> "...y with life insurance through Ethos. Get your free quote at ethos."
+
+**[00:50:33](/episodes/ep-FGoeoZxDN1c.md#ent-org-ethos-t-00-50-20)**
+> "At ethos.com slash Candace, that's E-T-H-O-S dot com slash..."
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (6 mentions)</summary>

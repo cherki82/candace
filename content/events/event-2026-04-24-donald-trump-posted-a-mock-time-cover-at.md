@@ -20,7 +20,7 @@ date: "2026-04-24"
 
 > Donald Trump posted a mock Time cover attacking Candace Owens on Truth Social.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330
 
@@ -37,3 +37,11 @@ date: "2026-04-24"
 <a href="https://www.youtube.com/watch?v=uC_GjKU8rs8&t=31s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > The president posts a photo of me sick. I wasn't even speaking about him. I was over in Italy.
+
+### 3. One Year On… To My Friend Charlie Kirk.
+
+**Episode:** [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md)
+**Timestamp:** [00:16:31](/episodes/ep-S07n8TnRT0Q.md#t-00-16-22) 
+<a href="https://www.youtube.com/watch?v=S07n8TnRT0Q&t=991s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Trump actually tweeted out a photo of me sick in a mock-up of Time magazine calling me the most vile person of the year.

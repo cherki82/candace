@@ -12,7 +12,7 @@ date: "2025-09-09"
 
 > Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.
 
-## Mentioned In (12 times)
+## Mentioned In (14 times)
 
 ### 1. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
 
@@ -109,3 +109,19 @@ date: "2025-09-09"
 <a href="https://www.youtube.com/watch?v=1FhY-koMuWM&t=1516s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > And Charlie says, thank you. Threats are higher than ever. And then that gets cut off. And Dan says, I have 11 on site. ... Then Charlie said, okay, great. Delicately remind them that they are there for one person, security only. ... I'm somewhat worried about the left trying to kill me. Just said separately by itself there. ... In fact, when Andrew Kolvet told me this information because he was my source and he told me he received one message and Dan Flood received the other and I covered for him and said it was a donor as well as somebody close to Turning Point USA, I specifically asked Andrew Kolvet who Charlie meant by they.
+
+### 13. Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’...
+
+**Episode:** [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md)
+**Timestamp:** [00:52:52](/episodes/ep-FGoeoZxDN1c.md#t-00-52-52) 
+<a href="https://www.youtube.com/watch?v=FGoeoZxDN1c&t=3172s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Top comments from last episode, we did this, obviously. Thanks to text messages being released, we were able to reveal that for whatever reason, Charlie was sending messages that they're going to kill him when he was on.
+
+### 14. EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back Fr...
+
+**Episode:** [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md)
+**Timestamp:** [00:09:11](/episodes/ep-bpXkPHpz9po.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-08-49) 
+<a href="https://www.youtube.com/watch?v=bpXkPHpz9po&t=551s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> And during that call, he was texting people that he was worried that he was going to be killed the next day.

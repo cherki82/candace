@@ -26,13 +26,23 @@ type: "accusation"
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 - [Irina Mappin](/entities/person-irina-mappin.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland...
 
 **Episode:** [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md)
 **Timestamp:** [00:08:04](/episodes/ep-JrhGEm8MGRY.md#t-00-07-38) 
 <a href="https://www.youtube.com/watch?v=JrhGEm8MGRY&t=484s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
 
 > What we have seen so far beggars belief. A crime scene apparently completely destroyed in days and plenty of evidence that simply does not seem to add up.
+
+### 2. One Year On… To My Friend Charlie Kirk.
+
+**Episode:** [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md)
+**Timestamp:** [00:06:21](/episodes/ep-S07n8TnRT0Q.md#t-00-05-59) 
+<a href="https://www.youtube.com/watch?v=S07n8TnRT0Q&t=381s" target="_blank" rel="noopener noreferrer">▶ Play on source</a>
+
+> Charlie (Charlie Kirk)'s execution is an assassination with potentially far-reaching political consequences for America and the world. What we have seen so far beggars belief. ... A crime scene apparently completely destroyed in days and plenty of evidence that simply does not add up.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "John F. Kennedy"
-description: "John F. Kennedy (People) - 109 mentions"
+description: "John F. Kennedy (People) - 110 mentions"
 id: "person-john-f-kennedy"
 type: "PERSON"
 aliases:
@@ -25,11 +25,11 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-john-f-kennedy-t-00-00-55">2025-09-19 · 00:01:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-john-f-kennedy-t-01-06-38">2026-08-17 · 01:06:38</a></strong></div>
-<div><span>Episodes</span><strong>61</strong></div>
-<div><span>Mentions</span><strong>109</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-john-f-kennedy-t-00-47-07">2026-09-08 · 00:47:35</a></strong></div>
+<div><span>Episodes</span><strong>62</strong></div>
+<div><span>Mentions</span><strong>110</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -99,6 +99,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-john-f-kennedy-t-00-37-25" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-john-f-kennedy-t-00-12-47" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-john-f-kennedy-t-00-31-56" style="--pulse-height:15%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-john-f-kennedy-t-00-47-07" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -165,6 +166,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-john-f-kennedy-t-00-37-25) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-john-f-kennedy-t-00-12-47) | 1 |
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-john-f-kennedy-t-00-31-56) | 2 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-john-f-kennedy-t-00-47-07) | 1 |
 
 </details>
 </section>
@@ -176,7 +178,15 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (109)</strong></summary>
+<summary><strong class="section-title">Raw mentions (110)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:47:35](/episodes/ep-FGoeoZxDN1c.md#ent-person-john-f-kennedy-t-00-47-07)**
+> "...on, the assassination of JFK (John F. Kennedy)."
+
+</details>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
@@ -811,7 +821,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about John F. Kennedy (13)</strong></summary>
+<summary><strong class="section-title">Statements about John F. Kennedy (14)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>
+
+- [00:47:35](/episodes/ep-FGoeoZxDN1c.md#t-00-47-07) (Accusation) **Candace Owens**: ["Owens alleged The New York Times participated in Operation Mockingbird..."](/statements/statement-46b3f13693f4.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
+
+</details>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>

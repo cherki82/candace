@@ -1,6 +1,6 @@
 ---
 title: "Pro-Israel advocacy"
-description: "Pro-Israel advocacy (Concepts) - 116 mentions"
+description: "Pro-Israel advocacy (Concepts) - 119 mentions"
 id: "concept-pro-israel-advocacy"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-concept-pro-israel-advocacy-t-00-51-13">2025-09-16 · 00:51:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-55-37">2026-09-03 · 00:55:48</a></strong></div>
-<div><span>Episodes</span><strong>49</strong></div>
-<div><span>Mentions</span><strong>116</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-concept-pro-israel-advocacy-t-00-08-49">2026-09-09 · 00:08:49</a></strong></div>
+<div><span>Episodes</span><strong>51</strong></div>
+<div><span>Mentions</span><strong>119</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>37</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -84,6 +84,8 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-pro-israel-advocacy-t-00-51-04" style="--pulse-height:12%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-concept-pro-israel-advocacy-t-00-03-42" style="--pulse-height:38%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 3 mentions" title="2026-09-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-32-15" style="--pulse-height:100%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 8 mentions" title="2026-09-03 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-pro-israel-advocacy-t-00-22-59" style="--pulse-height:25%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-concept-pro-israel-advocacy-t-00-08-49" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -138,6 +140,8 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-concept-pro-israel-advocacy-t-00-51-04) | 1 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-concept-pro-israel-advocacy-t-00-03-42) | 3 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-concept-pro-israel-advocacy-t-00-32-15) | 8 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-concept-pro-israel-advocacy-t-00-22-59) | 2 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-concept-pro-israel-advocacy-t-00-08-49) | 1 |
 
 </details>
 </section>
@@ -149,7 +153,26 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (116)</strong></summary>
+<summary><strong class="section-title">Raw mentions (119)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:08:49](/episodes/ep-bpXkPHpz9po.md#ent-concept-pro-israel-advocacy-t-00-08-49)**
+> "...nounced he was abandoning the pro-Israel cause, something that they all felt the need to l..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2 mentions)</summary>
+
+**[00:23:25](/episodes/ep-FGoeoZxDN1c.md#ent-concept-pro-israel-advocacy-t-00-22-59)**
+> "...se in politics you have to be pro-Israel or get destroyed and have your character destroye..."
+
+**[00:53:31](/episodes/ep-FGoeoZxDN1c.md#ent-concept-pro-israel-advocacy-t-00-53-31)**
+> "...k) said he was abandoning the pro-Israel cause and no he was not kidding It was not tongue..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (8 mentions)</summary>

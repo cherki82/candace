@@ -1,6 +1,6 @@
 ---
 title: "Lance Twiggs"
-description: "Lance Twiggs (People) - 276 mentions"
+description: "Lance Twiggs (People) - 279 mentions"
 id: "person-lance-twiggs"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-44">2025-09-16 · 00:00:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-lance-twiggs-t-00-48-17">2026-09-02 · 00:48:45</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>276</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-lance-twiggs-t-00-36-09">2026-09-09 · 00:36:39</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>279</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>83</strong></div>
+<div><span>Statements about</span><strong>84</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -66,6 +66,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-lance-twiggs-t-01-01-31" style="--pulse-height:14%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 5 mentions" title="2026-08-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-lance-twiggs-t-00-31-39" style="--pulse-height:11%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-lance-twiggs-t-00-03-03" style="--pulse-height:17%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 6 mentions" title="2026-09-02 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-lance-twiggs-t-00-35-24" style="--pulse-height:9%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -102,6 +103,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-lance-twiggs-t-01-01-31) | 5 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-lance-twiggs-t-00-31-39) | 4 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-lance-twiggs-t-00-03-03) | 6 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-lance-twiggs-t-00-35-24) | 3 |
 
 </details>
 </section>
@@ -113,7 +115,21 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (276)</strong></summary>
+<summary><strong class="section-title">Raw mentions (279)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3 mentions)</summary>
+
+**[00:35:41](/episodes/ep-bpXkPHpz9po.md#ent-person-lance-twiggs-t-00-35-24)**
+> "...at Tyler's messages to Lance (Lance Twiggs) that evening put him in Orem by 11, 11.45 p.m., ..."
+
+**[00:35:50](/episodes/ep-bpXkPHpz9po.md#ent-person-lance-twiggs-t-00-35-24)**
+> "He also texts Lance (Lance Twiggs) that he was at UVU around 9 p.m. when he saw the..."
+
+**[00:36:39](/episodes/ep-bpXkPHpz9po.md#ent-person-lance-twiggs-t-00-36-09)**
+> "...these text messages to Lance (Lance Twiggs), right? We've gone through everything else. It's..."
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (6 mentions)</summary>
@@ -1215,7 +1231,15 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lance Twiggs (83)</strong></summary>
+<summary><strong class="section-title">Statements about Lance Twiggs (84)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:35:32](/episodes/ep-bpXkPHpz9po.md#t-00-35-24) (Opinion) **Candace Owens**: ["Owens argued conditionally that a confirmed 9:47 p.m. Panguitch depart..."](/statements/statement-c3978c02ef75.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (4)</summary>

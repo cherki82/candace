@@ -11,7 +11,7 @@ object: "org-the-new-york-times"
 
 ## [Erika Kirk](/entities/person-erika-kirk) interviewed by [The New York Times](/entities/org-the-new-york-times)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
 
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
@@ -20,6 +20,10 @@ object: "org-the-new-york-times"
 **[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
 
 - [00:16:27](/episodes/ep-DEtFh2Ff-58#t-00-16-27): _that infamous New York Times article that she did, interview that she did immediately following Charlie's assassination where she welcomed them, the enemy of Charlie Kirk, into their condo and granted them the first interview._
+
+**[Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c)**
+
+- [00:41:07](/episodes/ep-FGoeoZxDN1c#t-00-41-07): _like and it's behind a paywall okay she just continues to partner with a publication that her deceased husband hated this was the first publication she partnered with she opened their apartment to an in-person interview and sat down with them what was it two days after Charlie (Charlie Kirk)'s assassination Charlie (Charlie Kirk) never wrote an op-ed for the New York Times._
 
 **[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
 

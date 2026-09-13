@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 349 mentions"
+description: "Brian Harpole (People) - 368 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-01">2025-11-18 · 00:21:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-brian-harpole-t-00-47-31">2026-09-03 · 00:47:55</a></strong></div>
-<div><span>Episodes</span><strong>55</strong></div>
-<div><span>Mentions</span><strong>349</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-39-26">2026-09-09 · 00:39:32</a></strong></div>
+<div><span>Episodes</span><strong>56</strong></div>
+<div><span>Mentions</span><strong>368</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
-<div><span>Statements about</span><strong>125</strong></div>
-<div><span>Relationships</span><strong>34</strong></div>
+<div><span>Statements about</span><strong>126</strong></div>
+<div><span>Relationships</span><strong>36</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -90,6 +90,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-brian-harpole-t-00-18-21" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 1 mentions" title="2026-09-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-brian-harpole-t-00-12-19" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-brian-harpole-t-00-01-34" style="--pulse-height:10%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 4 mentions" title="2026-09-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-09-30" style="--pulse-height:46%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 19 mentions" title="2026-09-09 · 19 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -150,6 +151,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-brian-harpole-t-00-18-21) | 1 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-brian-harpole-t-00-12-19) | 3 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-brian-harpole-t-00-01-34) | 4 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-09-30) | 19 |
 
 </details>
 </section>
@@ -161,7 +163,69 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (349)</strong></summary>
+<summary><strong class="section-title">Raw mentions (368)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (19 mentions)</summary>
+
+**[00:09:30](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-09-30)**
+> "...me for a while. The idea that Brian Harpole, who has said multiple times they did not perform..."
+
+**[00:09:45](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-09-30)**
+> "...and performed CPR, but Brian (Brian Harpole) was busy."
+
+**[00:10:05](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-10-05)**
+> "Brian (Brian Harpole) was just too busy. And yet Brian (Brian Harpole)..."
+
+**[00:10:17](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-10-05)**
+> "Here is what Brian Harpole said to Paramount, not so tactical. Take a listen..."
+
+**[00:11:41](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-11-41)**
+> "Brian (Brian Harpole) is correct that most of the ride we weren't doin..."
+
+**[00:12:25](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-12-25)**
+> "...he goes on to say that Brian (Brian Harpole) was just distracted. 30 seconds, he did CPR."
+
+**[00:12:31](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-12-25)**
+> "I don't accept that Brian (Brian Harpole) was just distracted in the car and didn't realiz..."
+
+**[00:12:43](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-12-25)**
+> "...rek) is lying and that Brian (Brian Harpole) is telling the truth, which is what I believe."
+
+**[00:12:50](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-12-25)**
+> "... a discrepancy because Brian (Brian Harpole) said it across multiple interviews. Then I have ..."
+
+**[00:13:45](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-13-45)**
+> "... said, we were told by Brian (Brian Harpole) that he was just praying in the back. All he was..."
+
+**[00:13:52](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-13-45)**
+> "..., we, we did this. We, Brian (Brian Harpole) said, I, I, I, I, I, I, I, he did not, like I sa..."
+
+**[00:16:13](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-15-55)**
+> "...ally. So this was long before Brian Harpole was making the rounds publicly before anybody was..."
+
+**[00:21:35](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-21-35)**
+> "...u see in the corner there, is Brian Harpole. The person in the white hat is not Frank Turek. ..."
+
+**[00:23:24](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-22-54)**
+> "...e back? They're also allowing Brian Harpole to jump on patients and cut their shirts?"
+
+**[00:23:44](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-23-35)**
+> "...nd why are they responding to Brian Harpole telling them what medicines Charlie (Charlie Kirk..."
+
+**[00:24:28](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-24-18)**
+> "... (Charlie Kirk)'s jacket that Brian Harpole is holding in this footage."
+
+**[00:24:50](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-24-18)**
+> "And I do see Brian Harpole holding a jacket. Now it could be Charlie (Charli..."
+
+**[00:25:01](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-25-01)**
+> "There's Brian (Brian Harpole) there holding."
+
+**[00:39:32](/episodes/ep-bpXkPHpz9po.md#ent-person-brian-harpole-t-00-39-26)**
+> "...lobby or that he actually saw Brian Harpole?"
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (4 mentions)</summary>
@@ -1595,7 +1659,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>Interviewed By (2)</summary>
+<summary>Interviewed By (3)</summary>
 
 - **[Shawn Ryan](/entities/person-shawn-ryan.md)**
 <details class="relationship-evidence"><summary>Show all evidence (14)</summary>
@@ -1621,6 +1685,13 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:14:35](/episodes/ep-sKuYLNx3iRo.md#t-00-13-57): “And he repeats that story to Paramount, not so tactical in a separate interview.”
+
+</details>
+
+- **[Gary Melton](/entities/person-gary-melton.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:10:23](/episodes/ep-bpXkPHpz9po.md#t-00-10-23): “Was CPR being conducted during this time? ... You know, no, because right now I got to stop that bleeding.”
 
 </details>
 
@@ -1707,7 +1778,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>Referenced By (17)</summary>
+<summary>Referenced By (18)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -1820,6 +1891,13 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:14:35](/episodes/ep-sKuYLNx3iRo.md#t-00-13-57): “And he repeats that story to Paramount, not so tactical in a separate interview.”
+
+</details>
+
+- **[Gary Melton](/entities/person-gary-melton.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:10:23](/episodes/ep-bpXkPHpz9po.md#t-00-10-23): “Was CPR being conducted during this time? ... You know, no, because right now I got to stop that bleeding.”
 
 </details>
 
@@ -2026,7 +2104,15 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (125)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (126)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:24:28](/episodes/ep-bpXkPHpz9po.md#t-00-24-18) (Opinion) **Candace Owens**: ["Owens said she could not tell whether a jacket Brian Harpole held was ..."](/statements/statement-8163a29c6574.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>

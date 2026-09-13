@@ -1,6 +1,6 @@
 ---
 title: "Antisemitism"
-description: "Antisemitism (Concepts) - 169 mentions"
+description: "Antisemitism (Concepts) - 170 mentions"
 id: "concept-antisemitism"
 type: "CONCEPT"
 aliases:
@@ -25,9 +25,9 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-concept-antisemitism-t-00-24-40">2025-09-15 · 00:25:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-23-09">2026-07-23 · 00:23:09</a></strong></div>
-<div><span>Episodes</span><strong>56</strong></div>
-<div><span>Mentions</span><strong>169</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-antisemitism-t-00-19-52">2026-09-08 · 00:19:58</a></strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>170</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -94,6 +94,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-concept-antisemitism-t-00-19-58" style="--pulse-height:21%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-antisemitism-t-00-02-47" style="--pulse-height:21%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 3 mentions" title="2026-07-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-08-51" style="--pulse-height:14%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-concept-antisemitism-t-00-19-52" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -155,6 +156,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-antisemitism-t-00-19-58) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-concept-antisemitism-t-00-02-47) | 3 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-08-51) | 2 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-concept-antisemitism-t-00-19-52) | 1 |
 
 </details>
 </section>
@@ -166,7 +168,15 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (169)</strong></summary>
+<summary><strong class="section-title">Raw mentions (170)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:19:58](/episodes/ep-FGoeoZxDN1c.md#ent-concept-antisemitism-t-00-19-52)**
+> "...and pasted, I do not abide by anti-Semitism and all of its forms and what Kanye (Kanye West) ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>

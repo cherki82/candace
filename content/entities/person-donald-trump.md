@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 989 mentions"
+description: "Donald J. Trump (People) - 993 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -28,11 +28,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-donald-trump-t-00-43-09">2026-09-01 · 00:43:09</a></strong></div>
-<div><span>Episodes</span><strong>133</strong></div>
-<div><span>Mentions</span><strong>989</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-donald-trump-t-00-16-22">2026-09-10 · 00:16:31</a></strong></div>
+<div><span>Episodes</span><strong>135</strong></div>
+<div><span>Mentions</span><strong>993</strong></div>
 <div><span>Statements by</span><strong>35</strong></div>
-<div><span>Statements about</span><strong>241</strong></div>
+<div><span>Statements about</span><strong>243</strong></div>
 <div><span>Relationships</span><strong>157</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -174,6 +174,8 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-31-36" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 4 mentions" title="2026-08-19 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-donald-trump-t-00-00-45" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-donald-trump-t-00-42-25" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 2 mentions" title="2026-09-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-donald-trump-t-00-16-51" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-donald-trump-t-00-16-22" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 2 mentions" title="2026-09-10 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -312,6 +314,8 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-31-36) | 4 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-donald-trump-t-00-00-45) | 4 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-donald-trump-t-00-42-25) | 2 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-donald-trump-t-00-16-51) | 2 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-donald-trump-t-00-16-22) | 2 |
 
 </details>
 </section>
@@ -323,7 +327,29 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (989)</strong></summary>
+<summary><strong class="section-title">Raw mentions (993)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (2 mentions)</summary>
+
+**[00:16:22](/episodes/ep-S07n8TnRT0Q.md#ent-person-donald-trump-t-00-16-22)**
+> "...I'm the abomination of Trump (Donald J. Trump)'s nation."
+
+**[00:16:31](/episodes/ep-S07n8TnRT0Q.md#ent-person-donald-trump-t-00-16-22)**
+> "Trump (Donald J. Trump) actually tweeted out a photo of me sick in a moc..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2 mentions)</summary>
+
+**[00:16:51](/episodes/ep-FGoeoZxDN1c.md#ent-person-donald-trump-t-00-16-51)**
+> "...was why you can't like Trump (Donald J. Trump). Well, you're black, right? Then when I expresse..."
+
+**[00:19:11](/episodes/ep-FGoeoZxDN1c.md#ent-person-donald-trump-t-00-19-11)**
+> "... express that you like Trump (Donald J. Trump). Don't talk about Jewish power in Hollywood or t..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (2 mentions)</summary>
@@ -5577,7 +5603,23 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (241)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (243)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1)</summary>
+
+- [00:16:31](/episodes/ep-S07n8TnRT0Q.md#t-00-16-22) (Claim) **Candace Owens**: ["Owens said Donald Trump posted a mock TIME cover featuring her and cal..."](/statements/statement-eedb967b92ad.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [TIME](/entities/org-time.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>
+
+- [00:16:51](/episodes/ep-FGoeoZxDN1c.md#t-00-16-51) (Opinion) **Candace Owens**: ["Owens said she no longer liked Donald Trump and defended changing her ..."](/statements/statement-dedf710d4d88.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

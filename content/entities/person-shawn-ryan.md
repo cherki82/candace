@@ -1,6 +1,6 @@
 ---
 title: "Shawn Ryan"
-description: "Shawn Ryan (People) - 71 mentions"
+description: "Shawn Ryan (People) - 72 mentions"
 id: "person-shawn-ryan"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-41">2025-11-05 · 00:23:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-shawn-ryan-t-00-47-31">2026-09-03 · 00:47:55</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>71</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-shawn-ryan-t-00-11-18">2026-09-09 · 00:11:18</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>72</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -67,6 +67,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <a href="/episodes/ep-9hRcfSrri70.md#ent-person-shawn-ryan-t-00-01-00" style="--pulse-height:20%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-shawn-ryan-t-00-37-47" style="--pulse-height:30%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 3 mentions" title="2026-09-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-shawn-ryan-t-00-47-31" style="--pulse-height:10%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 1 mentions" title="2026-09-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-shawn-ryan-t-00-11-18" style="--pulse-height:10%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -104,6 +105,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-shawn-ryan-t-00-01-00) | 2 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-shawn-ryan-t-00-37-47) | 3 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-shawn-ryan-t-00-47-31) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-shawn-ryan-t-00-11-18) | 1 |
 
 </details>
 </section>
@@ -115,7 +117,15 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+<summary><strong class="section-title">Raw mentions (72)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:11:18](/episodes/ep-bpXkPHpz9po.md#ent-person-shawn-ryan-t-00-11-18)**
+> "... of course, know that he told Shawn Ryan in the car crash interview that Frank (Frank Ture..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1 mentions)</summary>

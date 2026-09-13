@@ -1,6 +1,6 @@
 ---
 title: "South Park"
-description: "South Park (Works & Media) - 5 mentions"
+description: "South Park (Works & Media) - 6 mentions"
 id: "work-south-park"
 type: "WORK"
 categories:
@@ -18,9 +18,9 @@ Source: [Paramount Press Express — South Park](https://www.paramountpressexpre
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-work-south-park-t-00-27-56">2025-10-06 · 00:28:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-work-south-park-t-00-41-00">2026-05-11 · 00:41:09</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-work-south-park-t-00-47-44">2026-09-09 · 00:47:44</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,6 +36,7 @@ Source: [Paramount Press Express — South Park](https://www.paramountpressexpre
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-work-south-park-t-00-44-30" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-work-south-park-t-01-01-35" style="--pulse-height:100%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-work-south-park-t-00-41-00" style="--pulse-height:100%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-work-south-park-t-00-47-44" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 1 mentions" title="2026-09-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Paramount Press Express — South Park](https://www.paramountpressexpre
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-work-south-park-t-00-44-30) | 1 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-work-south-park-t-01-01-35) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-work-south-park-t-00-41-00) | 1 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-work-south-park-t-00-47-44) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Paramount Press Express — South Park](https://www.paramountpressexpre
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1 mentions)</summary>
+
+**[00:47:44](/episodes/ep-bpXkPHpz9po.md#ent-work-south-park-t-00-47-44)**
+> "...arlie (Charlie Kirk) was when South Park so eloquently bestowed the title upon him, did a ..."
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>

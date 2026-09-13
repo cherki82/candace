@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 349 mentions"
+description: "France (Places) - 351 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27">2025-10-06 · 00:01:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-55-00">2026-08-21 · 00:55:00</a></strong></div>
-<div><span>Episodes</span><strong>56</strong></div>
-<div><span>Mentions</span><strong>349</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-france-t-00-37-00">2026-09-08 · 00:37:00</a></strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>351</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>43</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -91,6 +91,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-france-t-00-30-39" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 3 mentions" title="2026-08-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-france-t-00-23-47" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-45-36" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 5 mentions" title="2026-08-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-gpe-france-t-00-14-21" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -152,6 +153,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-france-t-00-30-39) | 3 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-france-t-00-23-47) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-45-36) | 5 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-france-t-00-14-21) | 2 |
 
 </details>
 </section>
@@ -163,7 +165,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (349)</strong></summary>
+<summary><strong class="section-title">Raw mentions (351)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2 mentions)</summary>
+
+**[00:14:50](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-france-t-00-14-21)**
+> "...pronounce all of these tricky French words like, I think Cartier is French. I don't ev..."
+
+**[00:37:00](/episodes/ep-FGoeoZxDN1c.md#ent-gpe-france-t-00-37-00)**
+> "...ware of Owens' theories about France's first lady being transgender, as well as what he ..."
+
+</details>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>

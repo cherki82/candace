@@ -1,6 +1,6 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 498 mentions"
+description: "Ben Shapiro (People) - 500 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-ben-shapiro-t-00-46-45">2026-09-01 · 00:47:21</a></strong></div>
-<div><span>Episodes</span><strong>71</strong></div>
-<div><span>Mentions</span><strong>498</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-ben-shapiro-t-00-04-39">2026-09-10 · 00:04:53</a></strong></div>
+<div><span>Episodes</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>500</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
-<div><span>Statements about</span><strong>112</strong></div>
+<div><span>Statements about</span><strong>114</strong></div>
 <div><span>Relationships</span><strong>99</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -107,6 +107,8 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-ben-shapiro-t-00-27-00" style="--pulse-height:9%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 5 mentions" title="2026-08-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-JrhGEm8MGRY.md#ent-person-ben-shapiro-t-00-06-15" style="--pulse-height:8%" aria-label="We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380: 4 mentions" title="2026-08-31 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-ben-shapiro-t-00-21-14" style="--pulse-height:8%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-ben-shapiro-t-00-20-10" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-S07n8TnRT0Q.md#ent-person-ben-shapiro-t-00-04-39" style="--pulse-height:8%" aria-label="One Year On… To My Friend Charlie Kirk.: 1 mentions" title="2026-09-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -183,6 +185,8 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-ben-shapiro-t-00-27-00) | 5 |
 | 2026-08-31 | [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380](/episodes/ep-JrhGEm8MGRY.md#ent-person-ben-shapiro-t-00-06-15) | 4 |
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-ben-shapiro-t-00-21-14) | 4 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-ben-shapiro-t-00-20-10) | 1 |
+| 2026-09-10 | [One Year On… To My Friend Charlie Kirk.](/episodes/ep-S07n8TnRT0Q.md#ent-person-ben-shapiro-t-00-04-39) | 1 |
 
 </details>
 </section>
@@ -194,7 +198,23 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (498)</strong></summary>
+<summary><strong class="section-title">Raw mentions (500)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1 mentions)</summary>
+
+**[00:04:53](/episodes/ep-S07n8TnRT0Q.md#ent-person-ben-shapiro-t-00-04-39)**
+> "... not going to believe me, but Ben Shapiro of all people slid into your studio within days, ..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:20:10](/episodes/ep-FGoeoZxDN1c.md#ent-person-ben-shapiro-t-00-20-10)**
+> "...ize how hard this is for Ben (Ben Shapiro) that you won't make a statement? Like, I look ba..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (4 mentions)</summary>
@@ -3133,7 +3153,23 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ben Shapiro (112)</strong></summary>
+<summary><strong class="section-title">Statements about Ben Shapiro (114)</strong></summary>
+
+<details>
+<summary>One Year On… To My Friend Charlie Kirk. (1)</summary>
+
+- [00:04:45](/episodes/ep-S07n8TnRT0Q.md#t-00-04-39) (Claim) **Candace Owens** (via quoted document): ["Reading her journal, Owens said Ben Shapiro appeared in Kirk’s studio ..."](/statements/statement-0da345143f83.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1)</summary>
+
+- [00:20:10](/episodes/ep-FGoeoZxDN1c.md#t-00-20-10) (Claim) **Anonymous Source #1 (Ep FGoeoZxDN1c)** (via quoted speech): ["Owens recalled an unnamed Daily Wire co-CEO demanding that she condemn..."](/statements/statement-b8406ea8a6e3.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 (1)</summary>

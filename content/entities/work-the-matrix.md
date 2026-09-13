@@ -1,6 +1,6 @@
 ---
 title: "The Matrix"
-description: "The Matrix (Works & Media) - 44 mentions"
+description: "The Matrix (Works & Media) - 45 mentions"
 id: "work-the-matrix"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-work-the-matrix-t-00-04-11">2025-09-15 · 00:04:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-work-the-matrix-t-00-41-11">2026-08-19 · 00:41:28</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FGoeoZxDN1c.md#ent-work-the-matrix-t-00-11-39">2026-09-08 · 00:11:39</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>45</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -58,6 +58,7 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-the-matrix-t-00-37-07" style="--pulse-height:20%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-the-matrix-t-01-30-34" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-work-the-matrix-t-00-41-11" style="--pulse-height:20%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-work-the-matrix-t-00-11-39" style="--pulse-height:20%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 1 mentions" title="2026-09-08 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -86,6 +87,7 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-the-matrix-t-00-37-07) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-work-the-matrix-t-01-30-34) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-work-the-matrix-t-00-41-11) | 1 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-work-the-matrix-t-00-11-39) | 1 |
 
 </details>
 </section>
@@ -93,7 +95,15 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (1 mentions)</summary>
+
+**[00:11:39](/episodes/ep-FGoeoZxDN1c.md#ent-work-the-matrix-t-00-11-39)**
+> "...acker, as it's referred to in the matrix, right?"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>

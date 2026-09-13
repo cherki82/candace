@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 408 mentions"
+description: "Blake Neff (People) - 426 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-54-21">2026-09-03 · 00:54:40</a></strong></div>
-<div><span>Episodes</span><strong>76</strong></div>
-<div><span>Mentions</span><strong>408</strong></div>
-<div><span>Statements by</span><strong>55</strong></div>
-<div><span>Statements about</span><strong>71</strong></div>
-<div><span>Relationships</span><strong>47</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-blake-neff-t-00-45-04">2026-09-09 · 00:45:04</a></strong></div>
+<div><span>Episodes</span><strong>78</strong></div>
+<div><span>Mentions</span><strong>426</strong></div>
+<div><span>Statements by</span><strong>58</strong></div>
+<div><span>Statements about</span><strong>81</strong></div>
+<div><span>Relationships</span><strong>49</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -113,6 +113,8 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-neff-t-00-43-55" style="--pulse-height:20%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 4 mentions" title="2026-09-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-14-18" style="--pulse-height:100%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 20 mentions" title="2026-09-02 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-33-00" style="--pulse-height:40%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 8 mentions" title="2026-09-03 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-00-42" style="--pulse-height:75%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 15 mentions" title="2026-09-08 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-blake-neff-t-00-08-10" style="--pulse-height:15%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 3 mentions" title="2026-09-09 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -194,6 +196,8 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-blake-neff-t-00-43-55) | 4 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-blake-neff-t-00-14-18) | 20 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-blake-neff-t-00-33-00) | 8 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-00-42) | 15 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-blake-neff-t-00-08-10) | 3 |
 
 </details>
 </section>
@@ -205,7 +209,71 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (408)</strong></summary>
+<summary><strong class="section-title">Raw mentions (426)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3 mentions)</summary>
+
+**[00:08:10](/episodes/ep-bpXkPHpz9po.md#ent-person-blake-neff-t-00-08-10)**
+> "We know Blake Neff was also on that Zoom call because what he's some..."
+
+**[00:44:21](/episodes/ep-bpXkPHpz9po.md#ent-person-blake-neff-t-00-44-21)**
+> "...Callaway writes, what Blakey (Blake Neff) meant when he was in the hospital lobby was, quo..."
+
+**[00:45:04](/episodes/ep-bpXkPHpz9po.md#ent-person-blake-neff-t-00-45-04)**
+> "...n more bizarre. Why is Blake (Blake Neff) saying my name, talking about me? Who is he talk..."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (15 mentions)</summary>
+
+**[00:00:52](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-00-42)**
+> "...go through that. In addition, Blake Neff has shared a totally bizarre detail about a conve..."
+
+**[00:32:57](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-32-57)**
+> "...nths now, we have been asking Blake Neff what feels like a very simple question. Where did..."
+
+**[00:33:11](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-32-57)**
+> "...ie Kirk), we know that Blake (Blake Neff) got into the second rental, Denali, with Danny P..."
+
+**[00:33:26](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-32-57)**
+> "...anny (Danny Philip) or Blake (Blake Neff) attend the Restaurantology event that morning wh..."
+
+**[00:33:36](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-33-36)**
+> "And we know that Blake (Blake Neff) cannot account for where he was. He says he was ..."
+
+**[00:34:21](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-34-21)**
+> "...ur best foot forward, Blakey (Blake Neff), and do it accurately."
+
+**[00:36:15](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-36-15)**
+> "And so, Blake (Blake Neff), you're just sort of off the mark with trying to..."
+
+**[00:36:33](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-36-15)**
+> "...the one-year anniversary, and Blake Neff spoke to Deseret News, which is in Utah."
+
+**[00:36:46](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-36-15)**
+> "... what it says. It says, Neff (Blake Neff), I guess this is supposed to be like a profile p..."
+
+**[00:36:54](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-36-15)**
+> "Neff (Blake Neff) remembers sitting in the waiting room at the Ore..."
+
+**[00:37:40](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-37-40)**
+> "...this creature. I've never met Blake Neff. I have, he has never, he, he doesn't know Charli..."
+
+**[00:39:32](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-39-32)**
+> "...ery odd admission from Blake (Blake Neff) that they were worried about me. And there's a r..."
+
+**[00:40:05](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-40-05)**
+> "... starting to feel like Blake (Blake Neff). For some reason had confidence and knew that I ..."
+
+**[00:40:29](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-40-05)**
+> "...ho he was speaking to. Blake (Blake Neff) always says too much because Blake (Blake Neff) ..."
+
+**[00:57:59](/episodes/ep-FGoeoZxDN1c.md#ent-person-blake-neff-t-00-57-24)**
+> "I don't give a dom rights. Blake Neff would call a hot dog a sandwich and then wonder w..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (8 mentions)</summary>
@@ -1916,7 +1984,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -1950,6 +2018,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:49](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson). ... That's that's really what happened. You don't know him at all. The fact that you said I saw the donors, his friends, you just you had no idea what sort of a human being Charlie (Charlie Kirk) was. ... And you just had you are so short sighted to think that you could continue his legacy. You just don't have it.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:33:00](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49): “And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:02](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “And like I said, it reflects where they are at. They are not behaving honestly. They are lying repeatedly, especially Blake Neff. There's nobody that gets community noted faster for trying to lie to the public about various aspects of this case, lying about who Charlie (Charlie Kirk) was friendships and like who is who is friends with. And like I said, you sense a desperation.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:36:15](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15): “And so, Blake (Blake Neff), you're just sort of off the mark with trying to tell people that somehow they should be wanting to dedicate their lives more in the way that Charlie (Charlie Kirk) did. And clearly, clearly, judging by your actions, the things that you have said, you were not worth that investment.”
 
 </details>
 
@@ -1993,9 +2062,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even ... You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson).”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:37:47](/episodes/ep-FGoeoZxDN1c.md#t-00-37-40): “He has spent the least amount of time with Charlie (Charlie Kirk). He himself says that he didn't join Charlie (Charlie Kirk)'s team until what was it? Mid 2023.”
 
 </details>
 
@@ -2020,6 +2090,18 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49): “Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Interviewed By (1)</summary>
+
+- **[Deseret News](/entities/org-deseret-news.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:36:33](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15): “Also, I have to draw you guys your attention to this. This is wacky, okay? So they're all sort of giving these interviews right now coming up upon the one-year anniversary, and Blake Neff spoke to Deseret News, which is in Utah.”
 
 </details>
 
@@ -2098,7 +2180,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Referenced By (23)</summary>
+<summary>Referenced By (24)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -2133,7 +2215,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -2167,6 +2249,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:49](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson). ... That's that's really what happened. You don't know him at all. The fact that you said I saw the donors, his friends, you just you had no idea what sort of a human being Charlie (Charlie Kirk) was. ... And you just had you are so short sighted to think that you could continue his legacy. You just don't have it.”
 - [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 @ 00:33:00](/episodes/ep-HIlPQ-_dcxM.md#t-00-32-49): “And why are you so fuzzy on details when it comes to Danny Philip? These are my questions for Blake Neff, which he will not answer.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:51:02](/episodes/ep-1FhY-koMuWM.md#t-00-51-02): “And like I said, it reflects where they are at. They are not behaving honestly. They are lying repeatedly, especially Blake Neff. There's nobody that gets community noted faster for trying to lie to the public about various aspects of this case, lying about who Charlie (Charlie Kirk) was friendships and like who is who is friends with. And like I said, you sense a desperation.”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:36:15](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15): “And so, Blake (Blake Neff), you're just sort of off the mark with trying to tell people that somehow they should be wanting to dedicate their lives more in the way that Charlie (Charlie Kirk) did. And clearly, clearly, judging by your actions, the things that you have said, you were not worth that investment.”
 
 </details>
 
@@ -2273,9 +2356,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:53:22](/episodes/ep-ZkDO-MRLUco.md#t-00-53-22): “But he might accept that anyways I'm thinking about doing I'd even sign one for these sorts of people uh Blake Neff who is a super standist but pretends he doesn't watch every second of the show hey Blakey (Blake Neff) we know you're watching Blakey (Blake Neff) we are and you're gonna just tweet and pretend you weren't someone sent me this clip yeah yeah you're a little stalker it's fine poor Charlie (Charlie Kirk) you know what you were the person who was not friends with him you just he did a solid for Tucker Carlson you sat next to him you didn't even ... You didn't even start working until the beginning of like 2024. So you knew Charlie (Charlie Kirk) for a year and a half and you were just like an annoying person who sat there because he's a good friend of Tucker (Tucker Carlson).”
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:37:47](/episodes/ep-FGoeoZxDN1c.md#t-00-37-40): “He has spent the least amount of time with Charlie (Charlie Kirk). He himself says that he didn't join Charlie (Charlie Kirk)'s team until what was it? Mid 2023.”
 
 </details>
 
@@ -2283,6 +2367,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [We’re Back! And You’ll NEVER GUESS Who I Ran Into In Iceland. | Ep 380 @ 00:33:10](/episodes/ep-JrhGEm8MGRY.md#t-00-32-58): “So she then reveals that Sarah Rogers is leaking to her and Sarah Rogers just happens to be besties with Blake Neff. OK, so let me show you Sarah Rogers and Blake Neff, the picture of them.”
+
+</details>
+
+- **[Deseret News](/entities/org-deseret-news.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 @ 00:36:33](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15): “Also, I have to draw you guys your attention to this. This is wacky, okay? So they're all sort of giving these interviews right now coming up upon the one-year anniversary, and Blake Neff spoke to Deseret News, which is in Utah.”
 
 </details>
 
@@ -2319,7 +2410,21 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (55)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (58)</strong></summary>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (3)</summary>
+
+- [00:33:59](/episodes/ep-FGoeoZxDN1c.md#t-00-33-36) [○] (Opinion) ["Blake Neff wrote that Owens found Kirk’s excitement about his campus tour implau..."](/statements/statement-fee51b401c1c.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:36:54](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15) [○] (Claim) ["Blake Neff recalled discussing how Candace Owens would react to Kirk’s death in ..."](/statements/statement-b30c5d0187e7.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:00](/episodes/ep-FGoeoZxDN1c.md#t-00-37-00) [○] (Claim) ["According to the Deseret News passage Owens read, Blake Neff said some of Owens’..."](/statements/statement-b09fe89b092d.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382 (6)</summary>
@@ -2604,7 +2709,47 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (71)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (81)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (3)</summary>
+
+- [00:07:25](/episodes/ep-bpXkPHpz9po.md#t-00-06-53) (Claim) **Candace Owens**: ["Owens said the September 9 Zoom call included Frank Turek, two Israeli..."](/statements/statement-3eca509f3ada.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Pesach Wolicki](/entities/person-pesach-wolicki.md)
+
+- [00:44:21](/episodes/ep-bpXkPHpz9po.md#t-00-44-21) (Opinion) **Commenter Matt Callaway (identity unverified)** (via quoted post): ["In a viewer comment read by Owens, Matt Callaway interpreted Blake Nef..."](/statements/statement-37cbdc98c84b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:44:40](/episodes/ep-bpXkPHpz9po.md#t-00-44-21) (Opinion) **Candace Owens**: ["Owens inferred that Neff’s reported concern about her reaction meant h..."](/statements/statement-a9321a78fc81.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (7)</summary>
+
+- [00:33:26](/episodes/ep-FGoeoZxDN1c.md#t-00-32-57) (Claim) **Candace Owens**: ["Owens said neither Danny Philip nor Blake Neff attended the Restaurant..."](/statements/statement-cd4dd34a56a7.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Restaurantology](/entities/work-restaurantology.md)
+
+- [00:34:41](/episodes/ep-FGoeoZxDN1c.md#t-00-34-21) (Claim) **Candace Owens**: ["Responding to Blake Neff, Owens said her family had taken three vacati..."](/statements/statement-72a1343921be.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:36:54](/episodes/ep-FGoeoZxDN1c.md#t-00-36-15) (Claim) **Blake Neff** (via quoted article): ["Blake Neff recalled discussing how Candace Owens would react to Kirk’s..."](/statements/statement-b30c5d0187e7.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:40](/episodes/ep-FGoeoZxDN1c.md#t-00-37-40) (Claim) **Candace Owens**: ["Owens said she had never met Blake Neff."](/statements/statement-821747d5823d.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:37:47](/episodes/ep-FGoeoZxDN1c.md#t-00-37-40) (Claim) **Candace Owens** (via paraphrase): ["Owens recalled Blake Neff saying he joined Charlie Kirk’s team around ..."](/statements/statement-49bd6c79df90.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:27](/episodes/ep-FGoeoZxDN1c.md#t-00-38-16) (Opinion) **Candace Owens**: ["Owens speculated that the unnamed hospital interlocutor might have bee..."](/statements/statement-f674ad37d48b.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md)
+
+- [00:39:25](/episodes/ep-FGoeoZxDN1c.md#t-00-38-53) (Opinion) **Candace Owens**: ["Owens questioned why Neff appeared already confident that Kirk’s death..."](/statements/statement-219d5e76ecf5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 284 mentions"
+description: "Frank Turek (People) - 320 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -23,76 +23,78 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23">2025-09-22 · 00:54:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-52-56">2026-09-03 · 00:53:09</a></strong></div>
-<div><span>Episodes</span><strong>57</strong></div>
-<div><span>Mentions</span><strong>284</strong></div>
-<div><span>Statements by</span><strong>37</strong></div>
-<div><span>Statements about</span><strong>61</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-45-37">2026-09-09 · 00:46:00</a></strong></div>
+<div><span>Episodes</span><strong>59</strong></div>
+<div><span>Mentions</span><strong>320</strong></div>
+<div><span>Statements by</span><strong>38</strong></div>
+<div><span>Statements about</span><strong>65</strong></div>
 <div><span>Relationships</span><strong>50</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-frank-turek-t-00-01-22">Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355</a> (25 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-00-01">EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385</a> (34 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-person-frank-turek-t-01-02-32" style="--pulse-height:12%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-frank-turek-t-01-02-32" style="--pulse-height:9%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-frank-turek-t-00-56-33" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-00-43" style="--pulse-height:24%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 6 mentions" title="2025-10-28 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-00-43" style="--pulse-height:18%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 6 mentions" title="2025-10-28 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#t-00-43-24" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-frank-turek-t-01-00-24" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-16-39" style="--pulse-height:24%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 6 mentions" title="2025-11-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-16-39" style="--pulse-height:18%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 6 mentions" title="2025-11-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-frank-turek-t-00-32-55" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23" style="--pulse-height:28%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 7 mentions" title="2025-11-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23" style="--pulse-height:21%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 7 mentions" title="2025-11-13 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-person-frank-turek-t-00-31-02" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-frank-turek-t-00-15-00" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-frank-turek-t-00-47-57" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-frank-turek-t-00-10-58" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-frank-turek-t-00-27-46" style="--pulse-height:12%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-frank-turek-t-00-27-46" style="--pulse-height:9%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-frank-turek-t-00-03-34" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-frank-turek-t-00-26-38" style="--pulse-height:12%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-frank-turek-t-00-26-38" style="--pulse-height:9%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-frank-turek-t-00-19-13" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#t-01-01-26" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-14" style="--pulse-height:16%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-00" style="--pulse-height:36%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 9 mentions" title="2026-01-30 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-frank-turek-t-00-46-11" style="--pulse-height:16%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-14" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-00" style="--pulse-height:26%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 9 mentions" title="2026-01-30 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-frank-turek-t-00-46-11" style="--pulse-height:12%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-frank-turek-t-00-29-18" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-frank-turek-t-00-02-11" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-frank-turek-t-00-21-03" style="--pulse-height:12%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-frank-turek-t-00-34-37" style="--pulse-height:44%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 11 mentions" title="2026-03-10 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-frank-turek-t-00-21-03" style="--pulse-height:9%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-frank-turek-t-00-34-37" style="--pulse-height:32%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 11 mentions" title="2026-03-10 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-frank-turek-t-00-35-54" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-frank-turek-t-00-00-00" style="--pulse-height:60%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 15 mentions" title="2026-03-25 · 15 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:16%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-frank-turek-t-00-13-17" style="--pulse-height:12%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-frank-turek-t-00-00-00" style="--pulse-height:44%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 15 mentions" title="2026-03-25 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:12%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-frank-turek-t-00-13-17" style="--pulse-height:9%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-frank-turek-t-00-59-12" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-frank-turek-t-00-10-07" style="--pulse-height:12%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 3 mentions" title="2026-04-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-frank-turek-t-00-10-07" style="--pulse-height:9%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 3 mentions" title="2026-04-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-frank-turek-t-00-08-44" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-frank-turek-t-00-46-41" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-frank-turek-t-00-06-46" style="--pulse-height:16%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 4 mentions" title="2026-05-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-frank-turek-t-00-25-56" style="--pulse-height:36%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 9 mentions" title="2026-06-16 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-frank-turek-t-00-15-25" style="--pulse-height:28%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 7 mentions" title="2026-06-17 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-frank-turek-t-00-03-37" style="--pulse-height:16%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 4 mentions" title="2026-06-23 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-frank-turek-t-00-01-22" style="--pulse-height:100%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 25 mentions" title="2026-06-24 · 25 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-frank-turek-t-00-32-36" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-a2bZf4fic10.md#ent-person-frank-turek-t-00-01-20" style="--pulse-height:60%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 15 mentions" title="2026-06-26 · 15 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-frank-turek-t-01-03-12" style="--pulse-height:28%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 7 mentions" title="2026-07-14 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-12-22" style="--pulse-height:28%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 7 mentions" title="2026-07-14 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-frank-turek-t-00-06-22" style="--pulse-height:24%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-25-59" style="--pulse-height:72%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 18 mentions" title="2026-07-16 · 18 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:44%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 11 mentions" title="2026-07-20 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-frank-turek-t-00-02-20" style="--pulse-height:16%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 4 mentions" title="2026-07-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-frank-turek-t-00-06-46" style="--pulse-height:12%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 4 mentions" title="2026-05-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-frank-turek-t-00-25-56" style="--pulse-height:26%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 9 mentions" title="2026-06-16 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-frank-turek-t-00-15-25" style="--pulse-height:21%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 7 mentions" title="2026-06-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-frank-turek-t-00-03-37" style="--pulse-height:12%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 4 mentions" title="2026-06-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-frank-turek-t-00-01-22" style="--pulse-height:74%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 25 mentions" title="2026-06-24 · 25 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-frank-turek-t-00-32-36" style="--pulse-height:15%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-person-frank-turek-t-00-01-20" style="--pulse-height:44%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 15 mentions" title="2026-06-26 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-frank-turek-t-01-03-12" style="--pulse-height:21%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 7 mentions" title="2026-07-14 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-12-22" style="--pulse-height:21%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 7 mentions" title="2026-07-14 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-frank-turek-t-00-06-22" style="--pulse-height:18%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-25-59" style="--pulse-height:53%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 18 mentions" title="2026-07-16 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:32%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 11 mentions" title="2026-07-20 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-frank-turek-t-00-02-20" style="--pulse-height:12%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 4 mentions" title="2026-07-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-person-frank-turek-t-00-15-57" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-frank-turek-t-00-34-53" style="--pulse-height:12%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 3 mentions" title="2026-07-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-frank-turek-t-00-34-53" style="--pulse-height:9%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 3 mentions" title="2026-07-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-person-frank-turek-t-00-14-28" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 2 mentions" title="2026-07-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-frank-turek-t-00-05-49" style="--pulse-height:28%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 7 mentions" title="2026-08-03 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-frank-turek-t-00-00-01" style="--pulse-height:32%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 8 mentions" title="2026-08-04 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-frank-turek-t-00-05-49" style="--pulse-height:21%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 7 mentions" title="2026-08-03 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-frank-turek-t-00-00-01" style="--pulse-height:24%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 8 mentions" title="2026-08-04 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-frank-turek-t-00-43-45" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-frank-turek-t-00-47-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-08-58" style="--pulse-height:32%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 8 mentions" title="2026-09-01 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-08-58" style="--pulse-height:24%" aria-label="BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381: 8 mentions" title="2026-09-01 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-HIlPQ-_dcxM.md#ent-person-frank-turek-t-00-54-13" style="--pulse-height:8%" aria-label="Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382: 2 mentions" title="2026-09-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-03-44" style="--pulse-height:44%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 11 mentions" title="2026-09-03 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-03-44" style="--pulse-height:32%" aria-label="Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.: 11 mentions" title="2026-09-03 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-FGoeoZxDN1c.md#ent-person-frank-turek-t-00-52-52" style="--pulse-height:8%" aria-label="Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384: 2 mentions" title="2026-09-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-00-01" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385: 34 mentions" title="2026-09-09 · 34 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -155,6 +157,8 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2026-09-01 | [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381](/episodes/ep-ZkDO-MRLUco.md#ent-person-frank-turek-t-00-08-58) | 8 |
 | 2026-09-02 | [Tyler Robinson Pleads NOT Guilty. PLUS More Exclusive Footage From 9/10. | Ep 382](/episodes/ep-HIlPQ-_dcxM.md#ent-person-frank-turek-t-00-54-13) | 2 |
 | 2026-09-03 | [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie.](/episodes/ep-1FhY-koMuWM.md#ent-person-frank-turek-t-00-03-44) | 11 |
+| 2026-09-08 | [Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384](/episodes/ep-FGoeoZxDN1c.md#ent-person-frank-turek-t-00-52-52) | 2 |
+| 2026-09-09 | [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-00-01) | 34 |
 
 </details>
 </section>
@@ -166,7 +170,125 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (284)</strong></summary>
+<summary><strong class="section-title">Raw mentions (320)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (34 mentions)</summary>
+
+**[00:00:14](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-00-01)**
+> "...y from giving birth, Frankie (Frank Turek). Where are your manners?"
+
+**[00:05:24](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-05-24)**
+> "And on that topic, Pastor Frank Turek, he most certainly was not on my radar. Go back. ..."
+
+**[00:05:46](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-05-24)**
+> "...a, et cetera. But then Frank (Frank Turek) just kept talking."
+
+**[00:05:56](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-05-24)**
+> "...ng about me. Take a listen to Frank Turek."
+
+**[00:06:55](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-06-53)**
+> "What's going on there, Frank (Frank Turek)? Why don't you talk to me, by the way? I've offe..."
+
+**[00:07:04](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-06-53)**
+> "What is Frank (Frank Turek) hiding?"
+
+**[00:07:06](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-06-53)**
+> "Like Frank (Frank Turek) wants us to believe that he was with Charlie (Ch..."
+
+**[00:07:25](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-06-53)**
+> "Frank (Frank Turek) would then join Charlie (Charlie Kirk) the next ..."
+
+**[00:09:21](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-08-49)**
+> "...hat I can't roll with, Frank (Frank Turek), is the CPR story. CPR started from the next fro..."
+
+**[00:09:30](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-09-30)**
+> "...racted and didn't notice that Frank Turek did."
+
+**[00:09:45](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-09-30)**
+> "...y somehow then shifted him or Frank Turek shifted him by himself and nobody noticed and in ..."
+
+**[00:11:18](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-11-18)**
+> "...r crash interview that Frank (Frank Turek) was praying in the back."
+
+**[00:11:25](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-11-18)**
+> "...y care. And yet miraculously, Frank Turek had a different memory."
+
+**[00:11:37](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-11-18)**
+> "And here is what Frank (Frank Turek) said regarding the CPR."
+
+**[00:12:31](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-12-25)**
+> "...nd didn't realize that Frank (Frank Turek) had hopped over from the trunk and laid Charlie ..."
+
+**[00:12:43](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-12-25)**
+> "... obvious. If I believe Frank (Frank Turek) is lying and that Brian (Brian Harpole) is telli..."
+
+**[00:12:50](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-12-25)**
+> "... ask myself, why would Frank (Frank Turek) be lying just to be to write himself in as a her..."
+
+**[00:13:18](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-13-02)**
+> "...re would be footage of Frank (Frank Turek) wearing surgical scrubs, people would naturally ..."
+
+**[00:13:26](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-13-02)**
+> "Why was Frank (Frank Turek)? wearing those scrubs. I started to ask myself, ..."
+
+**[00:13:52](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-13-45)**
+> "...idn't say the way that Frank (Frank Turek) is like, we, we, we, we, we, we did this. We, Br..."
+
+**[00:14:20](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-14-20)**
+> "Now, we know that Frank (Frank Turek), when he got to the hospital, he immediately Fac..."
+
+**[00:14:36](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-14-20)**
+> "That he, Frank (Frank Turek), had blood all over him. He's kind of leading th..."
+
+**[00:15:55](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-15-55)**
+> "...t seemed like that was Frank (Frank Turek)'s memory, not Jack (Jack Hibbs)'s. You saw that ..."
+
+**[00:17:31](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-17-31)**
+> "...urney. He is recalling Frank (Frank Turek) getting out of the boot of the trunk where we sa..."
+
+**[00:17:38](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-17-31)**
+> "...hat would suggest that Frank (Frank Turek) actually never left the trunk area during that s..."
+
+**[00:17:46](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-17-31)**
+> "... be a wonder as to how Frank (Frank Turek) managed to get so much blood on him that he woul..."
+
+**[00:20:05](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-19-33)**
+> "Frank Turek."
+
+**[00:20:54](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-20-54)**
+> "...urname unverified), just like Frank Turek, put on surgical scrubs?"
+
+**[00:21:35](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-21-35)**
+> "...erson in the white hat is not Frank Turek. That is actually Rick Cutler, and he's in head-t..."
+
+**[00:22:35](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-22-13)**
+> "Frank Turek, he seems to be suffering from a discrepancy. He ..."
+
+**[00:25:58](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-25-42)**
+> "...on't have blood on us, Frank (Frank Turek)? I just want to know. It's just on my mind today..."
+
+**[00:46:00](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-45-37)**
+> "Megyn Kelly has Frank Turek on her show today. Thoughts? He was Charlie (Char..."
+
+**[00:07:06](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-06-53)**
+> "Like Frank (Frank Turek) wants us to believe that he was with Charlie (Charlie Kirk) in Arizona. He was in the 48 hours leading up to his death."
+
+**[00:05:24](/episodes/ep-bpXkPHpz9po.md#ent-person-frank-turek-t-00-05-24)**
+> "And on that topic, Pastor Frank Turek, he most certainly was not on my radar. Go back. Check the tapes. He wasn't on my radar at all. At the beginning of this journey, you will recall that I said repeatedly that he appeared to be the only person that reacted normally in those immediate moments following the explosive going off. He ducked down."
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2 mentions)</summary>
+
+**[00:53:06](/episodes/ep-FGoeoZxDN1c.md#ent-person-frank-turek-t-00-52-52)**
+> "...l, with Israeli officials, as Frank Turek termed them. That came from Frank Turek. There we..."
+
+**[00:55:38](/episodes/ep-FGoeoZxDN1c.md#ent-person-frank-turek-t-00-55-25)**
+> "It just doesn't make any Frank Turek on the call. Like, is he some grand debater? Is h..."
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (11 mentions)</summary>
@@ -1346,7 +1468,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23): “Well, I just learned that Frank Turek was reacting to me.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-39-02): “I think Candace Owens is completely lost any credibility when she's saying that certain dreams. ... are where she's getting her information from,”
@@ -1355,6 +1477,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:47:58](/episodes/ep-ChuWo-n49B8.md#t-00-47-58): “These are, you're looking at turning point USA faith and they want access to children. They're all wacky. They're all crazy pastors. You got Frank Turek open saying, signaling that I should be struck down using the Bible, the good Bible, of course, to do it.”
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:01:45](/episodes/ep-JQjCAsfoXEE.md#t-00-01-24): “But Candace (Candace Owens) is well within her rights to suggest certain things and all this, and she has the right to free speech and all that. That's fine. She's right to ask questions. I just think it is hurtful and not helpful when you cross a line to strongly suggest somebody's guilty of something for which you have no evidence. Challenge accepted, Frank Turek.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:49:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-03): “I heard today—I guess I hadn't seen it myself—but I heard today she was judging people who didn't act the right way. ... Candace Owens: 'These people did not act the right way after Charlie (Charlie Kirk)'s death. ... He apparently didn't act the right way according to Candace Owens.”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:06:18](/episodes/ep-bpXkPHpz9po.md#t-00-06-05): “We've seen lies. We've seen accusations and we've seen slander with no evidence. Yeah, I'm talking to you, Candace Owens.”
 
 </details>
 
@@ -1364,7 +1487,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -1382,6 +1505,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:48:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-48-17): “Then we have Frank Turek (Frank Turek speaking), who engages in this same sort of act of psychological manipulation, in my viewpoint, and he defends Mikey McCoy.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:18:53](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21): “That is just amazing to me that Frank Turek was fine to start a FaceTime call from the emergency room amidst all of that chaos while Charlie (Charlie Kirk) was dying, Amidst all of that chaos, while Charlie (Charlie Kirk) was dying, Brian Harpole was jumping on top of him, presumably. ... He's making probably accurate time estimates there for a military man, Frank Turek. It just seems to me to be like an extraordinarily inappropriate thing to do. ... Starting a FaceTime call with Jack Hibbs. What do I know? That's just my opinion, not a fact.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01): “Now, I do want to say regarding Alex Faria falling out of that car, it's a bit of a wonder that a pastor would think it's wise for him to be in the car above security on the way to the hospital. You would think that he would yield to security and say, OK, I'll find my own way. ... I think that feels mildly inappropriate, given the circumstances. And speaking of Frank Turek, there are a lot of things that he has said about that day that are questionable. I mean, definitely the CPR, the CPR story to me is the most senseless. ... His excuse that Brian Harpole was distracted and forgot that he conducted CPR on a dying person in the veh— ... In the very small vehicle, I don't think Harpole (Brian Harpole) just forgot that. I actually think Harpole (Brian Harpole) told the truth between the two of them, if I'm being honest, when he said that no CPR was conducted in the car. I don't think he was distracted.”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:12:43](/episodes/ep-bpXkPHpz9po.md#t-00-12-25): “If I believe Frank (Frank Turek) is lying and that Brian (Brian Harpole) is telling the truth, which is what I believe.”
 
 </details>
 
@@ -1554,9 +1678,10 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Spoke With (2)</summary>
 
 - **[Jack Hibbs](/entities/person-jack-hibbs.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:28](/episodes/ep-ZkDO-MRLUco.md#t-00-15-28): “That was after we got to the hospital as ... I was in the ... Emergency room after we got Charlie (Charlie Kirk) there and ... I called ... You yeah ... Then I FaceTimed you. I faced, we were talking, you”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:14:20](/episodes/ep-bpXkPHpz9po.md#t-00-14-20): “Now, we know that Frank (Frank Turek), when he got to the hospital, he immediately FaceTimed Pastor Jack Hibbs”
 
 </details>
 
@@ -1630,7 +1755,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -1648,11 +1773,12 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:48:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-48-17): “Then we have Frank Turek (Frank Turek speaking), who engages in this same sort of act of psychological manipulation, in my viewpoint, and he defends Mikey McCoy.”
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:18:53](/episodes/ep-ZkDO-MRLUco.md#t-00-18-21): “That is just amazing to me that Frank Turek was fine to start a FaceTime call from the emergency room amidst all of that chaos while Charlie (Charlie Kirk) was dying, Amidst all of that chaos, while Charlie (Charlie Kirk) was dying, Brian Harpole was jumping on top of him, presumably. ... He's making probably accurate time estimates there for a military man, Frank Turek. It just seems to me to be like an extraordinarily inappropriate thing to do. ... Starting a FaceTime call with Jack Hibbs. What do I know? That's just my opinion, not a fact.”
 - [Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. @ 00:14:01](/episodes/ep-1FhY-koMuWM.md#t-00-14-01): “Now, I do want to say regarding Alex Faria falling out of that car, it's a bit of a wonder that a pastor would think it's wise for him to be in the car above security on the way to the hospital. You would think that he would yield to security and say, OK, I'll find my own way. ... I think that feels mildly inappropriate, given the circumstances. And speaking of Frank Turek, there are a lot of things that he has said about that day that are questionable. I mean, definitely the CPR, the CPR story to me is the most senseless. ... His excuse that Brian Harpole was distracted and forgot that he conducted CPR on a dying person in the veh— ... In the very small vehicle, I don't think Harpole (Brian Harpole) just forgot that. I actually think Harpole (Brian Harpole) told the truth between the two of them, if I'm being honest, when he said that no CPR was conducted in the car. I don't think he was distracted.”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:12:43](/episodes/ep-bpXkPHpz9po.md#t-00-12-25): “If I believe Frank (Frank Turek) is lying and that Brian (Brian Harpole) is telling the truth, which is what I believe.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23): “Well, I just learned that Frank Turek was reacting to me.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-39-02): “I think Candace Owens is completely lost any credibility when she's saying that certain dreams. ... are where she's getting her information from,”
@@ -1661,6 +1787,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:47:58](/episodes/ep-ChuWo-n49B8.md#t-00-47-58): “These are, you're looking at turning point USA faith and they want access to children. They're all wacky. They're all crazy pastors. You got Frank Turek open saying, signaling that I should be struck down using the Bible, the good Bible, of course, to do it.”
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:01:45](/episodes/ep-JQjCAsfoXEE.md#t-00-01-24): “But Candace (Candace Owens) is well within her rights to suggest certain things and all this, and she has the right to free speech and all that. That's fine. She's right to ask questions. I just think it is hurtful and not helpful when you cross a line to strongly suggest somebody's guilty of something for which you have no evidence. Challenge accepted, Frank Turek.”
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:49:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-03): “I heard today—I guess I hadn't seen it myself—but I heard today she was judging people who didn't act the right way. ... Candace Owens: 'These people did not act the right way after Charlie (Charlie Kirk)'s death. ... He apparently didn't act the right way according to Candace Owens.”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:06:18](/episodes/ep-bpXkPHpz9po.md#t-00-06-05): “We've seen lies. We've seen accusations and we've seen slander with no evidence. Yeah, I'm talking to you, Candace Owens.”
 
 </details>
 
@@ -1769,9 +1896,10 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 - **[Jack Hibbs](/entities/person-jack-hibbs.md)** spoke with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS! More Unseen Footage And The Tyler Robinson Decision Live! | Ep 381 @ 00:15:28](/episodes/ep-ZkDO-MRLUco.md#t-00-15-28): “That was after we got to the hospital as ... I was in the ... Emergency room after we got Charlie (Charlie Kirk) there and ... I called ... You yeah ... Then I FaceTimed you. I faced, we were talking, you”
+- [EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 @ 00:14:20](/episodes/ep-bpXkPHpz9po.md#t-00-14-20): “Now, we know that Frank (Frank Turek), when he got to the hospital, he immediately FaceTimed Pastor Jack Hibbs”
 
 </details>
 
@@ -1794,7 +1922,15 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Frank Turek (37)</strong></summary>
+<summary><strong class="section-title">Statements by Frank Turek (38)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (1)</summary>
+
+- [00:06:05](/episodes/ep-bpXkPHpz9po.md#t-00-06-05) [○] (Accusation) ["In clips played by Owens, Frank Turek accused her of making unsupported allegati..."](/statements/statement-39d2dced0e59.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (2)</summary>
@@ -2018,7 +2154,29 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Frank Turek (61)</strong></summary>
+<summary><strong class="section-title">Statements about Frank Turek (65)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: A Crazy Thing Happened On The Way Back From The Hospital. | Ep 385 (2)</summary>
+
+- [00:07:25](/episodes/ep-bpXkPHpz9po.md#t-00-06-53) (Claim) **Candace Owens**: ["Owens said the September 9 Zoom call included Frank Turek, two Israeli..."](/statements/statement-3eca509f3ada.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pesach Wolicki](/entities/person-pesach-wolicki.md), [Josh Hammer](/entities/person-josh-hammer.md)
+
+- [00:17:38](/episodes/ep-bpXkPHpz9po.md#t-00-17-31) (Opinion) **Candace Owens**: ["Owens said that if the hospital witness’s account was accurate, it wou..."](/statements/statement-d77c25fd3da8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Chicago’s Homecoming: Ye Returns To The Stage. Charlie Kirk’s One Year Approaches… | Ep 384 (2)</summary>
+
+- [00:53:06](/episodes/ep-FGoeoZxDN1c.md#t-00-52-52) (Claim) **Candace Owens** (via paraphrase): ["Owens said the Zoom call included two Israeli officials, Pesach Wolick..."](/statements/statement-1b92c62c5a63.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pesach Wolicki](/entities/person-pesach-wolicki.md), [Josh Hammer](/entities/person-josh-hammer.md)
+
+- [00:55:25](/episodes/ep-FGoeoZxDN1c.md#t-00-55-25) (Opinion) **Candace Owens**: ["Owens said she did not believe the explanation that Kirk needed the la..."](/statements/statement-93bcdc85b7c9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md), [Pesach Wolicki](/entities/person-pesach-wolicki.md)
+
+</details>
 
 <details>
 <summary>Who Fell Out Of Charlie’s SUV? TPUSA Makes A HUGE Mistake Releasing Alleged Text from Charlie. (3)</summary>
